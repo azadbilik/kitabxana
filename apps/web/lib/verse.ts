@@ -141,9 +141,12 @@ export function incipit(html: string): string | null {
   return text || null;
 }
 
-/** Titles that are only a form and a number ("Qəzəl 7", "Газель № 7") */
+/**
+ * Titles that are only a form and a number ("Qəzəl 7", "Rübai 90", "Газель № 7"). Not
+ * "Səadətnamə, 120" or "Arifnamə, fəsil 1": those name a part of a larger work.
+ */
 export function isNumberedTitle(title: string | null): boolean {
-  return !!title && /^[^\d]{1,24}?\s*(№|No\.)?\s*\d+$/u.test(title.trim());
+  return !!title && /^[^\d,]{1,24}?\s*(№|No\.)?\s*\d+$/u.test(title.trim());
 }
 
 // Ganjoor publishes no explicit licence; add it here once confirmed

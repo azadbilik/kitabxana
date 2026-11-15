@@ -37,12 +37,12 @@ const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
 const FORM_PLURALS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA'];
 
 /**
- * Ghazals are known by their first line. When the stored title is only a
- * number ("Qəzəl 7"), the first hemistich becomes the heading and the number
- * moves to the meta strip.
+ * Poems titled only by form and number ("Qəzəl 195", "Rübai 90", "شمارهٔ ۷") are known by
+ * their first line: the first hemistich becomes the heading (and the page title readers
+ * search by), and the number moves to the meta strip.
  */
 function headingFor(work: any, title: { text: string; original: string | null }) {
-  const numbered = work.form === 'GHAZAL' && (title.original || isNumberedTitle(title.text));
+  const numbered = work.genre === 'POEM' && (title.original || isNumberedTitle(title.text));
   const first = numbered ? incipit(work.bodyHtml || work.body) : null;
   return first ? { heading: first, number: title.text } : { heading: title.text, number: null };
 }
@@ -135,7 +135,7 @@ export default async function WorkPage({ params }: Props) {
         data={{
           '@context': 'https://schema.org',
           '@type': 'CreativeWork',
-          name: title.original ?? heading,
+          name: heading,
           url: `${SITE_URL}/${locale}/works/${slug}`,
           genre: work.genre.toLowerCase(),
           ...(work.year && { dateCreated: String(work.year) }),
