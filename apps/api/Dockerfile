@@ -22,6 +22,8 @@ FROM base AS runner
 ENV NODE_ENV=production PORT=4000
 WORKDIR /app
 COPY --from=build --chown=node:node /out ./
+# State for the IndexNow job; a volume mounted here inherits the ownership
+RUN mkdir -p /data && chown node:node /data
 USER node
 EXPOSE 4000
 # Apply pending migrations, then start
