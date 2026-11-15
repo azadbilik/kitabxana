@@ -7,6 +7,8 @@ const intl = createMiddleware({
   locales,
   defaultLocale,
   localePrefix: 'always',
+  // Pages set their own hreflang tags; the header version used http:// and a different x-default
+  alternateLinks: false,
 });
 
 const API_URL = process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
@@ -48,6 +50,8 @@ async function redirectLegacyWork(req: NextRequest) {
   if (WORK_FACET.test(slug)) return null; // a filter path, not a work
 
   const current = await currentSlug(slug);
+  // No such work: a real 404 here, since the page streams a 200 before it can say so
+  if (current === null) return NextResponse.rewrite(new URL(`/${locale}/_not-found`, req.url));
   if (!current || current === slug) return null;
 
   const target = new URL(`/${locale}/works/${encodeURIComponent(current)}`, process.env.SITE_URL ?? req.url);
