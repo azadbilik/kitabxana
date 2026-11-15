@@ -142,11 +142,15 @@ export function incipit(html: string): string | null {
 }
 
 /**
- * Titles that are only a form and a number ("Qəzəl 7", "Rübai 90", "Газель № 7"). Not
- * "Səadətnamə, 120" or "Arifnamə, fəsil 1": those name a part of a larger work.
+ * Titles that are only a form and a number ("Qəzəl 7", "Rübai 90", "Rübailər, 189",
+ * "Газель № 7"). Not "Səadətnamə, 120" or "Arifnamə, fəsil 1": those name a part of a
+ * larger work.
  */
 export function isNumberedTitle(title: string | null): boolean {
-  return !!title && /^[^\d,]{1,24}?\s*(№|No\.)?\s*\d+$/u.test(title.trim());
+  if (!title) return false;
+  const t = title.trim();
+  // A form's plural and a number ("Rübailər, 189") is a placeholder too
+  return /^[^\d,]{1,24}?\s*(№|No\.)?\s*\d+$/u.test(t) || /^(Rübailər|Qəzəllər|Qitələr|Qəsidələr|Şeirlər),\s*\d+$/u.test(t);
 }
 
 // Ganjoor publishes no explicit licence; add it here once confirmed
