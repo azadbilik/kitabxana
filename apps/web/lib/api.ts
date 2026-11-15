@@ -187,7 +187,8 @@ interface SitemapEntry {
 interface SitemapEntries {
   authors: SitemapEntry[];
   collections: SitemapEntry[];
-  works: SitemapEntry[];
+  /** `locales`: where the page has text in that language (absent from an older API: all) */
+  works: (SitemapEntry & { locales?: string[] })[];
   blog: SitemapEntry[];
 }
 

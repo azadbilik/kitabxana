@@ -14,6 +14,8 @@ interface Entry {
   /** Locale-less path, e.g. `/works/foo` */
   path: string;
   lastModified?: string;
+  /** Locales to list; all when absent */
+  locales?: readonly string[];
 }
 
 /** A facet path without its locale prefix */
@@ -60,7 +62,7 @@ export async function sectionEntries(name: string): Promise<Entry[] | null> {
     if (start < 0 || (start >= data.works.length && start > 0)) return null;
     return data.works
       .slice(start, start + WORKS_PER_FILE)
-      .map((w) => ({ path: `/works/${w.slug}`, lastModified: w.updatedAt }));
+      .map((w) => ({ path: `/works/${w.slug}`, lastModified: w.updatedAt, locales: w.locales }));
   }
   return null;
 }
@@ -71,19 +73,19 @@ const esc = (s: string) =>
 /** A path segment-encoded for a URL (slugs are ASCII today, but keep it safe) */
 const url = (locale: string, path: string) => esc(`${SITE_URL}/${locale}${encodeURI(path)}`);
 
-/** One <url> per locale, each listing its hreflang siblings */
+/** One <url> per listed locale, each listing its hreflang siblings */
 export function urlsetXml(entries: Entry[]): string {
   const out: string[] = [
     '<?xml version="1.0" encoding="UTF-8"?>',
     '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">',
   ];
-  for (const { path, lastModified } of entries) {
+  for (const { path, lastModified, locales: listed = locales } of entries) {
     const links = [
-      ...locales.map((l) => `<xhtml:link rel="alternate" hreflang="${l}" href="${url(l, path)}"/>`),
+      ...listed.map((l) => `<xhtml:link rel="alternate" hreflang="${l}" href="${url(l, path)}"/>`),
       `<xhtml:link rel="alternate" hreflang="x-default" href="${url('az', path)}"/>`,
     ].join('');
     const lastmod = lastModified ? `<lastmod>${new Date(lastModified).toISOString()}</lastmod>` : '';
-    for (const l of locales) out.push(`<url><loc>${url(l, path)}</loc>${lastmod}${links}</url>`);
+    for (const l of listed) out.push(`<url><loc>${url(l, path)}</loc>${lastmod}${links}</url>`);
   }
   out.push('</urlset>');
   return out.join('\n');

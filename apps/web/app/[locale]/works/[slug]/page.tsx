@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import { workLocales } from '@irs-az/shared';
 import { api, getWorkOrRedirect, type MoreWork, type OtherWork, type TagRef } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
@@ -75,6 +76,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     description: excerpt(work.body, { poem: work.genre !== 'PROSE' }),
     type: 'article',
     images: false,
+    hreflang: workLocales(work.originalLang, (work.translations ?? []).map((t: any) => t.language)),
   });
 }
 

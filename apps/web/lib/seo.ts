@@ -7,12 +7,15 @@ export const SITE_URL = (process.env.SITE_URL ?? 'http://localhost:3000').replac
 
 const ogLocales: Record<string, string> = { az: 'az_AZ', ru: 'ru_RU', en: 'en_US' };
 
-/** Canonical + hreflang links for a locale-less path such as `/works/foo`. */
-export function alternates(locale: string, path = ''): Metadata['alternates'] {
+/**
+ * Canonical + hreflang links for a locale-less path such as `/works/foo`. `listed` limits
+ * hreflang to the locales with text of their own (see workLocales); all by default.
+ */
+export function alternates(locale: string, path = '', listed: readonly string[] = locales): Metadata['alternates'] {
   return {
     canonical: `/${locale}${path}`,
     languages: {
-      ...Object.fromEntries(locales.map((l) => [l, `/${l}${path}`])),
+      ...Object.fromEntries(listed.map((l) => [l, `/${l}${path}`])),
       'x-default': `/${defaultLocale}${path}`,
     },
   };
@@ -32,15 +35,17 @@ interface PageMeta {
    * own opengraph-image file, otherwise this would override it.
    */
   images?: string[] | false;
+  /** Locales to list in hreflang; all when absent */
+  hreflang?: readonly string[];
 }
 
 export function pageMetadata({
-  locale, path, title, description, type = 'website', absoluteTitle, images,
+  locale, path, title, description, type = 'website', absoluteTitle, images, hreflang,
 }: PageMeta): Metadata {
   return {
     ...(title && { title: absoluteTitle ? { absolute: title } : title }),
     description,
-    alternates: alternates(locale, path),
+    alternates: alternates(locale, path, hreflang),
     openGraph: {
       type,
       siteName: SITE_NAME,
