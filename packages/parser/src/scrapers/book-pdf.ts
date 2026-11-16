@@ -15,6 +15,7 @@ import * as path from 'path';
 import { extractText, getDocumentProxy } from 'unpdf';
 import type { PoemForm } from '../types';
 import { fixHomoglyphs, shortSlug } from './wikisource-az';
+import { keepScan } from '../utils/scans';
 
 const RAW_DIR = path.resolve(__dirname, '../../data/raw');
 
@@ -100,6 +101,7 @@ export async function pdfDocument(url: string) {
       execFileSync('curl', ['-sSfL', '--max-time', '300', '-o', cached, url]);
     }
   }
+  keepScan(url, cached);
   return getDocumentProxy(new Uint8Array(fs.readFileSync(cached)));
 }
 

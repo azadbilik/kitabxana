@@ -18,6 +18,7 @@ import axios from 'axios';
 import { getDocumentProxy } from 'unpdf';
 import type { Genre, PoemForm } from '../types';
 import { shortSlug } from './wikisource-az';
+import { keepScan } from '../utils/scans';
 
 const RAW_DIR = path.resolve(__dirname, '../../data/raw');
 
@@ -69,6 +70,7 @@ async function download(url: string): Promise<Buffer> {
     const resp = await axios.get(url, { responseType: 'arraybuffer', timeout: 600_000 });
     fs.writeFileSync(file, Buffer.from(resp.data));
   }
+  keepScan(url, file);
   return fs.readFileSync(file);
 }
 

@@ -171,6 +171,12 @@ export function sourceInfo(note: string | null | undefined): SourceInfo | null {
   const trimmed = note.trim();
   try {
     const url = new URL(trimmed);
+    // The National Library reader moved from http://web2.anl.az:81 to https (the old port is dead);
+    // imported works still carry the old address
+    if (url.hostname === 'web2.anl.az' && url.port === '81') {
+      url.protocol = 'https:';
+      url.port = '';
+    }
     const host = url.hostname.replace(/^www\./, '');
     const label = host === 'ganjoor.net'
       ? 'Ganjoor'
