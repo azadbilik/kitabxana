@@ -1,7 +1,8 @@
 import type { Metadata } from 'next';
 import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
-import { pageMetadata } from '@/lib/seo';
+import { breadcrumbLd, pageMetadata, publisherLd, sameAs, SITE_URL } from '@/lib/seo';
+import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
@@ -36,6 +37,34 @@ export default async function CollectionPage({ params }: Props) {
 
   return (
     <div className="container" style={{ paddingTop: '2rem' }}>
+      <JsonLd
+        data={{
+          '@context': 'https://schema.org',
+          '@type': 'Book',
+          name: title,
+          url: `${SITE_URL}/${locale}/collections/${slug}`,
+          ...(collection.year && { dateCreated: String(collection.year) }),
+          isAccessibleForFree: true,
+          publisher: publisherLd,
+          author: {
+            '@type': 'Person',
+            name: authorName,
+            url: `${SITE_URL}/${locale}/authors/${collection.author.slug}`,
+            sameAs: sameAs(collection.author),
+          },
+          hasPart: collection.works.slice(0, 100).map((w: any) => ({
+            '@type': 'CreativeWork',
+            name: localized(w, 'title', locale) ?? w.titleAz,
+            url: `${SITE_URL}/${locale}/works/${w.slug}`,
+          })),
+        }}
+      />
+      <JsonLd
+        data={breadcrumbLd([
+          { name: authorName ?? '', path: `/${locale}/authors/${collection.author.slug}` },
+          { name: title ?? '' },
+        ])}
+      />
       {/* Breadcrumb */}
       <nav
         style={{

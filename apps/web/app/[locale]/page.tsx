@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { pageMetadata, SITE_URL } from '@/lib/seo';
+import { pageMetadata, publisherLd, SITE_URL } from '@/lib/seo';
 import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
@@ -147,6 +147,12 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           name: 'Kitabxana.az',
           url: `${SITE_URL}/${locale}`,
           inLanguage: locale,
+          publisher: publisherLd,
+          potentialAction: {
+            '@type': 'SearchAction',
+            target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}/${locale}/search?q={search_term_string}` },
+            'query-input': 'required name=search_term_string',
+          },
         }}
       />
       <div className="home-grid">

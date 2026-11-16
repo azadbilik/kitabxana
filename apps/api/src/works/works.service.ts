@@ -203,6 +203,7 @@ export class WorksService {
             nameRu: true,
             nameEn: true,
             portraitUrl: true,
+            wikidataId: true,
             // Decide whether downloads are offered (isPublicDomain)
             bornYear: true,
             diedYear: true,

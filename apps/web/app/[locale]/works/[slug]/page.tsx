@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { workLocales } from '@irs-az/shared';
 import { api, getWorkOrRedirect, type MoreWork, type OtherWork, type TagRef } from '@/lib/api';
 import { localized } from '@/lib/locale';
-import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
+import { breadcrumbLd, excerpt, LANGUAGE_TAGS, pageMetadata, publisherLd, sameAs, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { ReadingView } from '@/components/reading/ReadingView';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
@@ -169,13 +169,26 @@ export default async function WorkPage({ params }: Props) {
           '@type': 'CreativeWork',
           name: heading,
           url: `${SITE_URL}/${locale}/works/${slug}`,
-          genre: work.genre.toLowerCase(),
+          genre: formLabel ?? options(`genre.${work.genre}` as any),
+          inLanguage: LANGUAGE_TAGS[work.originalLang],
+          description: await workDescription(work, locale, authorName),
           ...(work.year && { dateCreated: String(work.year) }),
+          dateModified: work.updatedAt,
+          isAccessibleForFree: true,
+          publisher: publisherLd,
           author: {
             '@type': 'Person',
             name: authorName,
             url: `${SITE_URL}/${locale}/authors/${work.author.slug}`,
+            sameAs: sameAs(work.author),
           },
+          ...(work.translations?.length && {
+            workTranslation: work.translations.map((tr: any) => ({
+              '@type': 'CreativeWork',
+              inLanguage: LANGUAGE_TAGS[tr.language],
+              ...(tr.translator && { translator: { '@type': 'Person', name: tr.translator } }),
+            })),
+          }),
           ...(collectionTitle && {
             isPartOf: {
               '@type': 'CreativeWork',
@@ -184,6 +197,13 @@ export default async function WorkPage({ params }: Props) {
             },
           }),
         }}
+      />
+      <JsonLd
+        data={breadcrumbLd([
+          { name: authorName ?? '', path: `/${locale}/authors/${work.author.slug}` },
+          ...(collectionTitle ? [{ name: collectionTitle, path: `/${locale}/collections/${work.collection.slug}` }] : []),
+          { name: number ? `${heading} (${number})` : heading },
+        ])}
       />
 
       <nav className="breadcrumb" aria-label={t('breadcrumb')}>

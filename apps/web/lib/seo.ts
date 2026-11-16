@@ -90,3 +90,39 @@ export function yearRange(from?: number | null, to?: number | null): string | un
   if (!from && !to) return undefined;
   return [from ?? '?', to ?? '?'].join('–');
 }
+
+// ── Structured data (schema.org JSON-LD) ──────────────────────
+
+/** BCP 47 tags for the work languages */
+export const LANGUAGE_TAGS: Record<string, string> = {
+  AZ_LATIN: 'az',
+  AZ_ARABIC: 'az-Arab',
+  AZ_CYRILLIC: 'az-Cyrl',
+  FA: 'fa',
+  AR: 'ar',
+  RU: 'ru',
+  EN: 'en',
+  TR: 'tr',
+};
+
+/** A BreadcrumbList; the last crumb is the page itself and needs no URL */
+export function breadcrumbLd(crumbs: { name: string; path?: string }[]) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: crumbs.map((c, i) => ({
+      '@type': 'ListItem',
+      position: i + 1,
+      name: c.name,
+      ...(c.path && { item: `${SITE_URL}${c.path}` }),
+    })),
+  };
+}
+
+/** Links that identify an author elsewhere: their Wikidata item */
+export function sameAs(author: { wikidataId?: string | null }): string[] | undefined {
+  return author.wikidataId ? [`https://www.wikidata.org/wiki/${author.wikidataId}`] : undefined;
+}
+
+/** The site itself, the publisher of every page */
+export const publisherLd = { '@type': 'Organization', name: SITE_NAME, url: SITE_URL };

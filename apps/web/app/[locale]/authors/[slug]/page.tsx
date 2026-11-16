@@ -1,7 +1,7 @@
 import type { Metadata } from 'next';
 import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
-import { excerpt, pageMetadata, SITE_URL } from '@/lib/seo';
+import { breadcrumbLd, excerpt, pageMetadata, sameAs, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
@@ -50,6 +50,7 @@ export default async function AuthorPage({ params }: Props) {
 
   const name = localized(author, 'name', locale) ?? '';
   const bio = localized(author, 'bio', locale);
+  const authorsLabel = locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər';
 
   const years = [
     author.bornYear ? `${author.bornYearApprox ? '~' : ''}${author.bornYear}` : null,
@@ -68,14 +69,23 @@ export default async function AuthorPage({ params }: Props) {
           ...(author.bornYear && { birthDate: String(author.bornYear) }),
           ...(author.diedYear && { deathDate: String(author.diedYear) }),
           ...(author.portraitUrl && { image: author.portraitUrl }),
+          ...(author.bornPlace && { birthPlace: { '@type': 'Place', name: author.bornPlace } }),
+          ...(author.diedPlace && { deathPlace: { '@type': 'Place', name: author.diedPlace } }),
+          sameAs: sameAs(author),
           description: excerpt(bio, { max: 300 }),
         }}
+      />
+      <JsonLd
+        data={breadcrumbLd([
+          { name: authorsLabel, path: `/${locale}/authors` },
+          { name },
+        ])}
       />
 
       {/* Breadcrumb */}
       <div className="breadcrumb">
         <Link href={`/${locale}/authors`}>
-          ← {locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər'}
+          ← {authorsLabel}
         </Link>
         <span className="breadcrumb-sep">/</span>
         <span className="breadcrumb-current">{name}</span>
