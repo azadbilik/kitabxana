@@ -1,5 +1,6 @@
 ---
 slug: arif-sirvani
+wikidataId: Q12836010
 nameAz: Arif Şirvani
 nameRu: Ариф Ширвани
 nameEn: Arif Shirvani

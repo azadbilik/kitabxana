@@ -1,5 +1,6 @@
 ---
 slug: fikret-qoca
+wikidataId: Q2028192
 nameAz: Fikrət Qoca
 nameRu: Фикрет Годжа
 nameEn: Fikrat Goja

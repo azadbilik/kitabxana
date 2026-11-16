@@ -1,5 +1,6 @@
 ---
 slug: ebulhesen-raci
+wikidataId: Q8008087
 nameAz: Əbülhəsən Raci
 nameRu: Абульхасан Раджи
 nameEn: Abulhasan Raji

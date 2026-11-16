@@ -1,5 +1,6 @@
 ---
 slug: sahtaxtli
+wikidataId: Q2074808
 nameAz: Məhəmməd ağa Şahtaxtlı
 nameRu: Мухаммед-ага Шахтахтинский
 nameEn: Mammad agha Shahtakhtinski

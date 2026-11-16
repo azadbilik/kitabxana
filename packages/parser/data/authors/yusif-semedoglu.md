@@ -1,5 +1,6 @@
 ---
 slug: yusif-semedoglu
+wikidataId: Q12848147
 nameAz: Yusif Səmədoğlu
 nameRu: Юсиф Самедоглу
 nameEn: Yusif Samadoghlu

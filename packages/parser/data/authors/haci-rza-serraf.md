@@ -1,5 +1,6 @@
 ---
 slug: haci-rza-serraf
+wikidataId: Q8008596
 nameAz: Hacı Rza Sərraf
 nameRu: Хаджи Реза Сарраф
 nameEn: Haji Reza Sarraf

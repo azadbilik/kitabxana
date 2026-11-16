@@ -1,5 +1,6 @@
 ---
 slug: dellek-murad
+wikidataId: Q16366518
 nameAz: Dəllək Murad
 nameRu: Дяллак Мурад
 nameEn: Dallak Murad

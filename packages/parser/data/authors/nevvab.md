@@ -1,5 +1,6 @@
 ---
 slug: nevvab
+wikidataId: Q4311350
 nameAz: Mir Möhsün Nəvvab
 nameRu: Мир Мохсун Навваб
 nameEn: Mir Mohsun Navvab

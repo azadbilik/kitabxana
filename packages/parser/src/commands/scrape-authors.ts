@@ -4,6 +4,8 @@ import * as path from 'path';
 import type { AuthorConfig } from '../types';
 import { scrapeAuthorFromWikipedia } from '../scrapers/wikipedia';
 import { findLifespan } from '../scrapers/lifespan';
+import { findWikidataId } from '../scrapers/wikidata-id';
+import { readAuthorFrontmatter } from './link-wikidata';
 import { writeAuthorMd } from '../writers/md-writer';
 import { slugify } from '../utils/slug';
 
@@ -46,6 +48,10 @@ export const scrapeAuthorsCommand = new Command('scrape-authors')
       const scraped = await scrapeAuthorFromWikipedia(wikiAz, wikiRu);
       // Infoboxes mostly draw dates from Wikidata through templates, leaving nothing to parse
       const life = scraped.bornYear || scraped.diedYear ? null : await findLifespan(cfg);
+      const bornYear = scraped.bornYear ?? life?.bornYear;
+      const diedYear = scraped.diedYear ?? life?.diedYear;
+      const wikidata = await findWikidataId(cfg, { bornYear, diedYear }, readAuthorFrontmatter(cfg.slug)?.wikidataId);
+      console.log(`  Wikidata: ${wikidata.id ?? '—'} (${wikidata.via}${wikidata.note ? `: ${wikidata.note}` : ''})`);
 
       writeAuthorMd(
         {
@@ -55,9 +61,9 @@ export const scrapeAuthorsCommand = new Command('scrape-authors')
           nameRu: cfg.nameRu ?? scraped.nameRu,
           nameFa: scraped.nameFa ?? cfg.nameFa,
           nameEn: scraped.nameEn ?? cfg.nameEn,
-          bornYear: scraped.bornYear ?? life?.bornYear,
+          bornYear,
           bornYearApprox: scraped.bornYearApprox ?? life?.bornYearApprox,
-          diedYear: scraped.diedYear ?? life?.diedYear,
+          diedYear,
           diedYearApprox: scraped.diedYearApprox ?? life?.diedYearApprox,
           bornPlace: scraped.bornPlace,
           diedPlace: scraped.diedPlace,
@@ -66,6 +72,7 @@ export const scrapeAuthorsCommand = new Command('scrape-authors')
           writingLangs: cfg.writingLangs ?? scraped.writingLangs,
           portraitUrl: scraped.portraitUrl,
           portraitSource: scraped.portraitSource,
+          wikidataId: wikidata.id ?? undefined,
           status: 'DRAFT',
         },
         scraped.bioAz ?? '',

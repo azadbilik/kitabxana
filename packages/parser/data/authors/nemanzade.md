@@ -1,5 +1,6 @@
 ---
 slug: nemanzade
+wikidataId: Q7089687
 nameAz: Ömər Faiq Nemanzadə
 nameRu: Омар Фаик Неманзаде
 nameEn: Omar Faig Nemanzadeh

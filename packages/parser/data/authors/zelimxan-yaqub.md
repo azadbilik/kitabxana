@@ -1,5 +1,6 @@
 ---
 slug: zelimxan-yaqub
+wikidataId: Q16376956
 nameAz: Zəlimxan Yaqub
 nameRu: Зелимхан Ягуб
 nameEn: Zelimkhan Yaqub

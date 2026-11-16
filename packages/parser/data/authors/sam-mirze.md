@@ -1,5 +1,6 @@
 ---
 slug: sam-mirze
+wikidataId: Q6410269
 nameAz: Sam Mirzə
 nameRu: Сам Мирза
 nameFa: سام میرزا صفوی

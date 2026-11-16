@@ -1,5 +1,6 @@
 ---
 slug: mir-celal
+wikidataId: Q2598226
 nameAz: Mir Cəlal Paşayev
 nameRu: Мир Джалал Пашаев
 nameEn: Mir Jalal Pashayev

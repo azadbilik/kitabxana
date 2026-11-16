@@ -1,5 +1,6 @@
 ---
 slug: haqverdiyev
+wikidataId: Q2405007
 nameAz: Əbdürrəhim bəy Haqverdiyev
 nameRu: Абдуррагим-бек Ахвердов
 nameEn: Abdurrahim bey Hagverdiyev

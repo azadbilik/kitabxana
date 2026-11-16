@@ -1,5 +1,6 @@
 ---
 slug: qasim-enver
+wikidataId: Q2561764
 nameAz: Qasım Ənvar
 nameRu: Касим Анвар
 nameFa: قاسم انوار

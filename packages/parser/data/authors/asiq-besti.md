@@ -1,5 +1,6 @@
 ---
 slug: asiq-besti
+wikidataId: Q12837110
 nameAz: Aşıq Bəsti
 nameRu: Ашуг Басти
 nameEn: Ashiq Basti

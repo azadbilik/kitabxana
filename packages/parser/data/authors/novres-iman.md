@@ -1,5 +1,6 @@
 ---
 slug: novres-iman
+wikidataId: Q16371931
 nameAz: Novrəs İman
 nameRu: Новрес Иман
 nameEn: Novras Iman

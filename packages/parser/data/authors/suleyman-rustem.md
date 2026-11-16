@@ -1,5 +1,6 @@
 ---
 slug: suleyman-rustem
+wikidataId: Q2072051
 nameAz: Süleyman Rüstəm
 nameRu: Сулейман Рустам
 nameEn: Suleyman Rustam

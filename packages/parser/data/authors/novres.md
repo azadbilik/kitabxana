@@ -1,5 +1,6 @@
 ---
 slug: novres
+wikidataId: Q8010279
 nameAz: Mirzə Ələsgər Növrəs
 nameRu: Мирза Алескер Новрес
 nameEn: Mirza Alasgar Novras

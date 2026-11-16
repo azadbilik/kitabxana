@@ -1,5 +1,6 @@
 ---
 slug: sakir
+wikidataId: Q8008908
 nameAz: Baba bəy Şakir
 nameRu: Баба-бек Шакир
 nameEn: Baba bey Shakir

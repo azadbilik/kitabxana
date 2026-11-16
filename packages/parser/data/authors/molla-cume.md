@@ -1,5 +1,6 @@
 ---
 slug: molla-cume
+wikidataId: Q7224484
 nameAz: Molla Cümə
 nameRu: Молла Джума
 nameEn: Molla Juma

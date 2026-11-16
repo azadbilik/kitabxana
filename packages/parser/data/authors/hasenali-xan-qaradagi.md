@@ -1,5 +1,6 @@
 ---
 slug: hasenali-xan-qaradagi
+wikidataId: Q4213740
 nameAz: Həsənəli xan Qaradaği
 nameRu: Гасаналиага-хан Карадагский
 nameEn: Hasan Ali Khan Garadaghi

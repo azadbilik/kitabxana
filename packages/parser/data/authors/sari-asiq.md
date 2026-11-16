@@ -1,5 +1,6 @@
 ---
 slug: sari-asiq
+wikidataId: Q8033875
 nameAz: Sarı Aşıq
 nameRu: Сары Ашуг
 nameEn: Sari Ashiq

@@ -1,5 +1,6 @@
 ---
 slug: memmedquluzade
+wikidataId: Q2656636
 nameAz: Cəlil Məmmədquluzadə
 nameRu: Джалил Мамедкулизаде
 nameEn: Jalil Mammadguluzadeh

@@ -1,5 +1,6 @@
 ---
 slug: cabbarli
+wikidataId: Q2394080
 nameAz: Cəfər Cabbarlı
 nameRu: Джафар Джаббарлы
 nameEn: Jafar Jabbarly

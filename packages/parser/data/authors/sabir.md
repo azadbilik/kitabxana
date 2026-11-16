@@ -1,5 +1,6 @@
 ---
 slug: sabir
+wikidataId: Q2651897
 nameAz: Mirzə Ələkbər Sabir
 nameRu: Мирза Алекпер Сабир
 nameEn: Mirza Alakbar Sabir

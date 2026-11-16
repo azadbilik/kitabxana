@@ -1,5 +1,6 @@
 ---
 slug: qumri
+wikidataId: Q8009477
 nameAz: Mirzə Məhəmməd Tağı Qumri
 nameRu: Мирза Мухаммед Таги Гумри
 nameEn: Mirza Mohammad Taghi Gumri

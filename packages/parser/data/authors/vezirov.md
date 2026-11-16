@@ -1,5 +1,6 @@
 ---
 slug: vezirov
+wikidataId: Q2072622
 nameAz: Nəcəf bəy Vəzirov
 nameRu: Наджаф-бек Везиров
 nameEn: Najaf bey Vazirov

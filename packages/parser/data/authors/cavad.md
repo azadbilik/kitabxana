@@ -1,5 +1,6 @@
 ---
 slug: cavad
+wikidataId: Q2583170
 nameAz: Əhməd Cavad
 nameRu: Ахмед Джавад
 nameEn: Ahmad Javad

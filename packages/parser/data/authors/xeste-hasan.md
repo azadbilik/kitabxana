@@ -1,5 +1,6 @@
 ---
 slug: xeste-hasan
+wikidataId: Q139381937
 nameAz: Xəstə Hasan
 nameRu: Хесте Гасан
 nameEn: Khasta Hasan

@@ -1,5 +1,6 @@
 ---
 slug: asiq-musa
+wikidataId: Q4073569
 nameAz: Aşıq Musa
 nameRu: Ашуг Муса
 nameEn: Ashiq Musa

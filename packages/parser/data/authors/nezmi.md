@@ -1,5 +1,6 @@
 ---
 slug: nezmi
+wikidataId: Q4725095
 nameAz: Əli Nəzmi
 nameRu: Али Назми
 nameEn: Ali Nazmi

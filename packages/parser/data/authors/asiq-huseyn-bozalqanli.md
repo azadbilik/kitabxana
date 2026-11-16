@@ -1,5 +1,6 @@
 ---
 slug: asiq-huseyn-bozalqanli
+wikidataId: Q12837115
 nameAz: Aşıq Hüseyn Bozalqanlı
 nameRu: Ашуг Гусейн Бозалганлы
 nameEn: Ashiq Huseyn Bozalganli

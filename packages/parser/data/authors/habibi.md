@@ -1,5 +1,6 @@
 ---
 slug: habibi
+wikidataId: Q4494385
 nameAz: Həbibi
 nameRu: Хабиби
 nameEn: Habibi

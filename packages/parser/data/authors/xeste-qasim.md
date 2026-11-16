@@ -1,5 +1,6 @@
 ---
 slug: xeste-qasim
+wikidataId: Q4497394
 nameAz: Xəstə Qasım
 nameRu: Хесте Касум
 nameEn: Khasta Qasim

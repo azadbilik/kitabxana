@@ -1,5 +1,6 @@
 ---
 slug: qenizade
+wikidataId: Q8084490
 nameAz: Sultan Məcid Qənizadə
 nameRu: Султан Меджид Ганизаде
 nameEn: Sultan Majid Ganizade

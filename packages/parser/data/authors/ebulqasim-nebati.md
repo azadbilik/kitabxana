@@ -1,5 +1,6 @@
 ---
 slug: ebulqasim-nebati
+wikidataId: Q6408698
 nameAz: Əbülqasim Nəbati
 nameRu: Абулькасим Набати
 nameEn: Abulgasim Nabati

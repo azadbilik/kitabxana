@@ -1,5 +1,6 @@
 ---
 slug: eli-kerim
+wikidataId: Q12850020
 nameAz: Əli Kərim
 nameRu: Али Керим
 nameEn: Ali Kerim

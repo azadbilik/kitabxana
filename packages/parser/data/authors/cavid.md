@@ -1,5 +1,6 @@
 ---
 slug: cavid
+wikidataId: Q2997661
 nameAz: Hüseyn Cavid
 nameRu: Гусейн Джавид
 nameEn: Huseyn Javid

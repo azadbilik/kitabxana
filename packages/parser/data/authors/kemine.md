@@ -1,5 +1,6 @@
 ---
 slug: kemine
+wikidataId: Q8011160
 nameAz: Fatma xanım Kəminə
 nameRu: Фатма-ханым Кяминя
 nameEn: Fatma Khanum Kamina

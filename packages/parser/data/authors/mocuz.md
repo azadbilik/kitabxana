@@ -1,5 +1,6 @@
 ---
 slug: mocuz
+wikidataId: Q4299394
 nameAz: Mirzə Əli Möcüz
 nameRu: Мирза Али Моджуз
 nameEn: Mirza Ali Mojuz

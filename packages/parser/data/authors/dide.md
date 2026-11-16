@@ -1,5 +1,6 @@
 ---
 slug: dide
+wikidataId: Q8010054
 nameAz: Mirzə Nəsrullah bəy Didə
 nameRu: Мирза Насруллах-бек Курбанбеков (Диде)
 nameEn: Mirza Nasrullah bey Dide

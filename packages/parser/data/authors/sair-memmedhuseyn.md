@@ -1,5 +1,6 @@
 ---
 slug: sair-memmedhuseyn
+wikidataId: Q12849447
 nameAz: Şair Məmmədhüseyn
 nameRu: Шаир Мамедгусейн
 nameEn: Shair Mammadhuseyn

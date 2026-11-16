@@ -1,5 +1,6 @@
 ---
 slug: ildirim
+wikidataId: Q1979286
 nameAz: Almas İldırım
 nameRu: Алмас Илдырым
 nameEn: Almas Ildyrym

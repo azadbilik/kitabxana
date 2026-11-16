@@ -1,5 +1,6 @@
 ---
 slug: mirvarid-dilbazi
+wikidataId: Q4161627
 nameAz: Mirvarid Dilbazi
 nameRu: Мирварид Дильбази
 nameEn: Mirvarid Dilbazi

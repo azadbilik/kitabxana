@@ -1,5 +1,6 @@
 ---
 slug: memmed-araz
+wikidataId: Q1099784
 nameAz: Məmməd Araz
 nameRu: Мамед Араз
 nameEn: Mammad Araz

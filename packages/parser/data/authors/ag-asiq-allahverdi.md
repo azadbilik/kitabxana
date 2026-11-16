@@ -1,5 +1,6 @@
 ---
 slug: ag-asiq-allahverdi
+wikidataId: Q6498967
 nameAz: Ağ Aşıq Allahverdi
 nameRu: Аг Ашуг Аллахверди
 nameEn: Agh Ashiq Allahverdi

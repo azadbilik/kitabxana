@@ -1,5 +1,6 @@
 ---
 slug: vurgun
+wikidataId: Q983507
 nameAz: Səməd Vurğun
 nameRu: Самед Вургун
 nameEn: Samad Vurgun

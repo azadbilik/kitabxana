@@ -1,5 +1,6 @@
 ---
 slug: osman-sarivelli
+wikidataId: Q4408868
 nameAz: Osman Sarıvəlli
 nameRu: Осман Сарывелли
 bornYear: 1905

@@ -1,5 +1,6 @@
 ---
 slug: axundzade
+wikidataId: Q315158
 nameAz: Mirzə Fətəli Axundzadə
 nameRu: Мирза Фатали Ахундзаде
 nameFa: میرزا فتحعلی آخوندزاده

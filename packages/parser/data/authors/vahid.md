@@ -1,5 +1,6 @@
 ---
 slug: vahid
+wikidataId: Q2047262
 nameAz: Əliağa Vahid
 nameRu: Алиага Вахид
 nameEn: Aliagha Vahid

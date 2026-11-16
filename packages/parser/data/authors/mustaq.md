@@ -1,5 +1,6 @@
 ---
 slug: mustaq
+wikidataId: Q8034224
 nameAz: Məhəmmədhüseyn xan Müştaq
 nameRu: Мухаммед Хусейн-хан Мюштаг
 nameEn: Muhammad Husayn Khan Mushtaq

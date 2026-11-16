@@ -1,5 +1,6 @@
 ---
 slug: mehdi-huseyn
+wikidataId: Q4152759
 nameAz: Mehdi Hüseyn
 nameRu: Мехти Гусейн
 nameEn: Mehdi Huseyn

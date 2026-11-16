@@ -1,5 +1,6 @@
 ---
 slug: endelib-qaracadagi
+wikidataId: Q8007693
 nameAz: Əndəlib Qaracadaği
 nameRu: Андалиб Караджадаги
 nameEn: Andalib Garajadaghi

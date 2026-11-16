@@ -1,5 +1,6 @@
 ---
 slug: natavan
+wikidataId: Q2986900
 nameAz: Xurşidbanu Natəvan
 nameRu: Хуршидбану Натаван
 nameEn: Khurshidbanu Natavan

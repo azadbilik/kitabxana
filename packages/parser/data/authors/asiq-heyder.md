@@ -1,5 +1,6 @@
 ---
 slug: asiq-heyder
+wikidataId: Q18427627
 nameAz: Aşıq Heydər
 nameRu: Ашуг Гейдар
 nameEn: Ashiq Heydar

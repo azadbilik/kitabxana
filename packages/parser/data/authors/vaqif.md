@@ -1,5 +1,6 @@
 ---
 slug: vaqif
+wikidataId: Q995873
 nameAz: Molla Pənah Vaqif
 nameRu: Молла Панах Вагиф
 nameFa: ملا پناه واقف

@@ -1,5 +1,6 @@
 ---
 slug: sebusteri
+wikidataId: Q2738287
 nameAz: Şeyx Mahmud Şəbüstəri
 nameRu: Махмуд Шабистари
 nameFa: شیخ محمود شبستری

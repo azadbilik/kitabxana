@@ -1,5 +1,6 @@
 ---
 slug: zakir
+wikidataId: Q4184678
 nameAz: Qasım bəy Zakir
 nameRu: Касум-бек Закир
 nameEn: Gasim bey Zakir

@@ -1,5 +1,6 @@
 ---
 slug: qemkusar
+wikidataId: Q4133040
 nameAz: Əliqulu Qəmküsar
 nameRu: Алигулу Гамгюсар
 nameEn: Aligulu Gamgusar

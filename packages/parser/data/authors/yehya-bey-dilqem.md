@@ -1,5 +1,6 @@
 ---
 slug: yehya-bey-dilqem
+wikidataId: Q12848207
 nameAz: Yəhya bəy Dilqəm
 nameRu: Яхья-бек Дилгям
 nameEn: Yahya Beg Dilgam

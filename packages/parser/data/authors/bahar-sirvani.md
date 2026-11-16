@@ -1,5 +1,6 @@
 ---
 slug: bahar-sirvani
+wikidataId: Q502466
 nameAz: Bahar Şirvani
 nameRu: Бахар Ширвани
 nameEn: Bahar Shirvani

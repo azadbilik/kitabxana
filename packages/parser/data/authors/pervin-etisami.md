@@ -1,5 +1,6 @@
 ---
 slug: pervin-etisami
+wikidataId: Q271254
 nameAz: Pərvin Etisami
 nameRu: Парвин Этесами
 nameFa: پروین اعتصامی

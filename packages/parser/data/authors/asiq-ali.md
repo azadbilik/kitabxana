@@ -1,5 +1,6 @@
 ---
 slug: asiq-ali
+wikidataId: Q4073559
 nameAz: Aşıq Alı
 nameRu: Ашуг Али
 nameEn: Ashiq Ali

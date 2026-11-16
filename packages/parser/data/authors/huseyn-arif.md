@@ -1,5 +1,6 @@
 ---
 slug: huseyn-arif
+wikidataId: Q16368779
 nameAz: Hüseyn Arif
 nameRu: Гусейн Ариф
 bornYear: 1924

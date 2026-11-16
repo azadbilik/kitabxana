@@ -1,5 +1,6 @@
 ---
 slug: asiq-omer
+wikidataId: Q794825
 nameAz: Aşıq Ömər
 nameRu: Ашик Умер
 nameEn: Ashik Omer

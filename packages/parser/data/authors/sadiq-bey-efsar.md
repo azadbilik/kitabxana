@@ -1,5 +1,6 @@
 ---
 slug: sadiq-bey-efsar
+wikidataId: Q4404551
 nameAz: Sadıq bəy Əfşar
 nameRu: Садык-бек Афшар
 nameEn: Sadiq Beg Afshar

@@ -1,5 +1,6 @@
 ---
 slug: nigar-refibeyli
+wikidataId: Q4391014
 nameAz: Nigar Rəfibəyli
 nameRu: Нигяр Рафибейли
 nameEn: Nigar Rafibeyli

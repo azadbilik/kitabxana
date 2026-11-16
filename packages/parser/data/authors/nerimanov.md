@@ -1,5 +1,6 @@
 ---
 slug: nerimanov
+wikidataId: Q1956360
 nameAz: Nəriman Nərimanov
 nameRu: Нариман Нариманов
 nameEn: Nariman Narimanov

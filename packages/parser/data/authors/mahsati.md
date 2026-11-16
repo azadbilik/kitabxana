@@ -1,5 +1,6 @@
 ---
 slug: mahsati
+wikidataId: Q291537
 nameAz: Məhsəti Gəncəvi
 nameRu: Мехсети Гянджеви
 nameFa: مهستی گنجوی

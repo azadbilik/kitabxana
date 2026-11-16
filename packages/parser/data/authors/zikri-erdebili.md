@@ -1,5 +1,6 @@
 ---
 slug: zikri-erdebili
+wikidataId: Q8007546
 nameAz: Zikri Ərdəbili
 nameRu: Зикри Ардебили
 nameEn: Zikri Ardabili

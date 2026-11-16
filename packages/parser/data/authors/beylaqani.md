@@ -1,5 +1,6 @@
 ---
 slug: beylaqani
+wikidataId: Q4305759
 nameAz: Mücirəddin Beyləqani
 nameRu: Муджиреддин Бейлагани
 nameFa: مجیرالدین بیلقانی

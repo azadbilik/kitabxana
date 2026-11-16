@@ -1,5 +1,6 @@
 ---
 slug: hebib-sahir
+wikidataId: Q6414298
 nameAz: Həbib Sahir
 nameRu: Габиб Сахир
 nameFa: حبیب ساهر

@@ -1,5 +1,6 @@
 ---
 slug: mir-hemze-nigari
+wikidataId: Q8007777
 nameAz: Mir Həmzə Nigari
 nameRu: Мир Гамза Нигяри
 nameEn: Mir Hamza Nigari

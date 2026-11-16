@@ -1,5 +1,6 @@
 ---
 slug: heyran
+wikidataId: Q4728570
 nameAz: Heyran xanım
 nameRu: Хейран-ханум
 nameEn: Heyran Khanum

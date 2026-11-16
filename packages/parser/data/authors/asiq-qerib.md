@@ -1,5 +1,6 @@
 ---
 slug: asiq-qerib
+wikidataId: Q97225067
 nameAz: Aşıq Qərib
 nameRu: Ашуг Гариб
 nameEn: Ashiq Garib

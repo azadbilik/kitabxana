@@ -1,5 +1,6 @@
 ---
 slug: qabil
+wikidataId: Q8084554
 nameAz: Qabil
 nameRu: Габиль Имамвердиев
 nameEn: Qabil

@@ -1,5 +1,6 @@
 ---
 slug: xelil-rza
+wikidataId: Q2081173
 nameAz: Xəlil Rza Ulutürk
 nameRu: Халил Рза Улутюрк
 nameEn: Khalil Rza Uluturk

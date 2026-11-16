@@ -1,5 +1,6 @@
 ---
 slug: irec-mirze
+wikidataId: Q983413
 nameAz: İrəc Mirzə
 nameRu: Ирадж Мирза
 nameFa: ایرج میرزا

@@ -1,5 +1,6 @@
 ---
 slug: nebi-xezri
+wikidataId: Q4311196
 nameAz: Nəbi Xəzri
 nameRu: Наби Хазри
 nameEn: Nabi Khazri

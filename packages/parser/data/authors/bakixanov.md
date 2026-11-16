@@ -1,5 +1,6 @@
 ---
 slug: bakixanov
+wikidataId: Q1995066
 nameAz: Abbasqulu ağa Bakıxanov
 nameRu: Аббас-Кули-ага Бакиханов
 nameEn: Abbasgulu agha Bakikhanov

@@ -1,5 +1,6 @@
 ---
 slug: ovhadi
+wikidataId: Q2393983
 nameAz: Əvhədi Marağalı
 nameRu: Аухади Марагаи
 nameFa: اوحدی مراغه‌ای

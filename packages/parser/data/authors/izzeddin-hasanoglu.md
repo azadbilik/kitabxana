@@ -1,5 +1,6 @@
 ---
 slug: izzeddin-hasanoglu
+wikidataId: Q1975865
 nameAz: İzzəddin Həsənoğlu
 nameRu: Иззеддин Гасаноглы
 nameEn: Izzeddin Hasanoghlu

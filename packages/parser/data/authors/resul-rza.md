@@ -1,5 +1,6 @@
 ---
 slug: resul-rza
+wikidataId: Q4394274
 nameAz: Rəsul Rza
 nameRu: Расул Рза
 nameEn: Rasul Rza

@@ -1,5 +1,6 @@
 ---
 slug: falaki
+wikidataId: Q3652466
 nameAz: Fələki Şirvani
 nameRu: Фелеки Ширвани
 nameFa: فلکی شروانی

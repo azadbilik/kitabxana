@@ -1,5 +1,6 @@
 ---
 slug: lezgi-ehmed
+wikidataId: Q111416286
 nameAz: Ləzgi Əhməd
 nameRu: Лезги Ахмед
 nameEn: Lezgi Ahmed

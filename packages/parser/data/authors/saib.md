@@ -1,5 +1,6 @@
 ---
 slug: saib
+wikidataId: Q2713416
 nameAz: Saib Təbrizi
 nameRu: Саиб Тебризи
 nameFa: صائب تبریزی

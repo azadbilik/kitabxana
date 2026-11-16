@@ -1,5 +1,6 @@
 ---
 slug: qaracaoglan
+wikidataId: Q3667328
 nameAz: Qaracaoğlan
 nameRu: Караджаоглан
 nameEn: Karacaoğlan

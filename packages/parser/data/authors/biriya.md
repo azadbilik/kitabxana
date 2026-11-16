@@ -1,5 +1,6 @@
 ---
 slug: biriya
+wikidataId: Q16370812
 nameAz: Məhəmməd Biriya
 nameRu: Мохаммад Бирия
 nameFa: محمد بی‌ریا

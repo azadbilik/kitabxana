@@ -1,5 +1,6 @@
 ---
 slug: xaqani
+wikidataId: Q368862
 nameAz: Xaqani Şirvani
 nameRu: Хагани Ширвани
 nameFa: خاقانی شروانی

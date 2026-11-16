@@ -1,5 +1,6 @@
 ---
 slug: vidadi
+wikidataId: Q2665280
 nameAz: Molla Vəli Vidadi
 nameRu: Молла Вели Видади
 nameEn: Molla Vali Vidadi

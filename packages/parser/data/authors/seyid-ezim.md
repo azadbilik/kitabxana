@@ -1,5 +1,6 @@
 ---
 slug: seyid-ezim
+wikidataId: Q2500179
 nameAz: Seyid Əzim Şirvani
 nameRu: Сеид Азим Ширвани
 nameEn: Seyid Azim Shirvani

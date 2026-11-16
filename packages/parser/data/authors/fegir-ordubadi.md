@@ -1,5 +1,6 @@
 ---
 slug: fegir-ordubadi
+wikidataId: Q8010339
 nameAz: Hacı ağa Fəqir Ordubadi
 nameRu: Хаджи-ага Фагир Ордубади
 nameEn: Haji Agha Faqir Ordubadi

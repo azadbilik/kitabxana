@@ -1,5 +1,6 @@
 ---
 slug: eli-veliyev
+wikidataId: Q15356758
 nameAz: Əli Vəliyev
 nameRu: Али Велиев
 nameEn: Ali Valiyev

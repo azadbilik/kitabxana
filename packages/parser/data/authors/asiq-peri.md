@@ -1,5 +1,6 @@
 ---
 slug: asiq-peri
+wikidataId: Q8007847
 nameAz: Aşıq Pəri
 nameRu: Ашуг Пери
 nameEn: Ashiq Pari

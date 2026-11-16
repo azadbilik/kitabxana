@@ -1,5 +1,6 @@
 ---
 slug: coban-efqan
+wikidataId: Q12848598
 nameAz: Çoban Əfqan
 nameRu: Чобан Афган
 nameEn: Choban Afghan

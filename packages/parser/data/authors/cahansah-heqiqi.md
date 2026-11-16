@@ -1,5 +1,6 @@
 ---
 slug: cahansah-heqiqi
+wikidataId: Q561219
 nameAz: Cahanşah Həqiqi
 nameRu: Джаханшах Хакики
 nameEn: Jahanshah Haqiqi

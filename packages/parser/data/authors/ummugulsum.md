@@ -1,5 +1,6 @@
 ---
 slug: ummugulsum
+wikidataId: Q12848750
 nameAz: Ümmügülsüm
 nameRu: Уммугюльсум
 nameEn: Ümmügülsüm

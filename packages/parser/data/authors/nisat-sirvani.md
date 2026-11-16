@@ -1,5 +1,6 @@
 ---
 slug: nisat-sirvani
+wikidataId: Q8013176
 nameAz: Nişat Şirvani
 nameRu: Нишат Ширвани
 nameEn: Nishat Shirvani

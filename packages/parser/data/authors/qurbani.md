@@ -1,5 +1,6 @@
 ---
 slug: qurbani
+wikidataId: Q4073561
 nameAz: Aşıq Qurbani
 nameRu: Ашуг Гурбани
 nameEn: Ashiq Qurbani

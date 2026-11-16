@@ -1,5 +1,6 @@
 ---
 slug: asiq-huseyn-semkirli
+wikidataId: Q8034058
 nameAz: Aşıq Hüseyn Şəmkirli
 nameRu: Ашуг Гусейн Шамкирли
 nameEn: Ashiq Huseyn Shamkirli

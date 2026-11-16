@@ -1,5 +1,6 @@
 ---
 slug: asiq-camal
+wikidataId: Q128589631
 nameAz: Aşıq Camal
 nameRu: Ашуг Джамал
 nameEn: Ashiq Jamal

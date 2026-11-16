@@ -1,5 +1,6 @@
 ---
 slug: tufarqanli
+wikidataId: Q6877886
 nameAz: Aşıq Abbas Tufarqanlı
 nameRu: Ашуг Аббас Туфарганлы
 nameEn: Ashiq Abbas Tufarqanli

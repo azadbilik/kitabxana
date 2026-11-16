@@ -1,5 +1,6 @@
 ---
 slug: sehhet
+wikidataId: Q2996375
 nameAz: Abbas Səhhət
 nameRu: Аббас Сиххат
 nameEn: Abbas Sahhat

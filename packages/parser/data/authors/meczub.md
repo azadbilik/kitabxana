@@ -1,5 +1,6 @@
 ---
 slug: meczub
+wikidataId: Q31302260
 nameAz: Məczub Təbrizi
 nameRu: Меджзуб Табризи
 nameFa: مجذوب تبریزی

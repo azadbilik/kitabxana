@@ -1,5 +1,6 @@
 ---
 slug: asiq-valeh
+wikidataId: Q4073560
 nameAz: Aşıq Valeh
 nameRu: Ашуг Валех
 nameEn: Ashiq Valeh

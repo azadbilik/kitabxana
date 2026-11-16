@@ -1,5 +1,6 @@
 ---
 slug: cemenzeminli
+wikidataId: Q574502
 nameAz: Yusif Vəzir Çəmənzəminli
 nameRu: Юсиф Везир Чеменземинли
 nameEn: Yusif Vazir Chamanzaminli

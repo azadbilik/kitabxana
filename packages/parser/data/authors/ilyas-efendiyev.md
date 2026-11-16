@@ -1,5 +1,6 @@
 ---
 slug: ilyas-efendiyev
+wikidataId: Q4533188
 nameAz: İlyas Əfəndiyev
 nameRu: Ильяс Эфендиев
 nameEn: Ilyas Afandiyev

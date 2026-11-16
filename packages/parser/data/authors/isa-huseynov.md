@@ -1,5 +1,6 @@
 ---
 slug: isa-huseynov
+wikidataId: Q12849173
 nameAz: İsa Hüseynov (Muğanna)
 nameRu: Иса Гусейнов
 nameEn: Isa Mughanna

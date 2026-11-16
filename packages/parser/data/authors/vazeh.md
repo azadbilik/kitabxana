@@ -1,5 +1,6 @@
 ---
 slug: vazeh
+wikidataId: Q973869
 nameAz: Mirzə Şəfi Vazeh
 nameRu: Мирза Шафи Вазех
 nameEn: Mirza Shafi Vazeh

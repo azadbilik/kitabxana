@@ -1,5 +1,6 @@
 ---
 slug: hacibeyov
+wikidataId: Q317397
 nameAz: Üzeyir Hacıbəyov
 nameRu: Узеир Гаджибеков
 nameEn: Uzeyir Hajibeyov

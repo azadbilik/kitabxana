@@ -1,5 +1,6 @@
 ---
 slug: resid-efendiyev
+wikidataId: Q4533194
 nameAz: Rəşid bəy Əfəndiyev
 nameRu: Рашид-бек Эфендиев
 nameEn: Rashid bey Afandiyev

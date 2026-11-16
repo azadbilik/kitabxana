@@ -1,5 +1,6 @@
 ---
 slug: asiq-esed
+wikidataId: Q4073558
 nameAz: Aşıq Əsəd
 nameRu: Ашуг Асад
 nameEn: Ashiq Asad

@@ -1,5 +1,6 @@
 ---
 slug: kisveri
+wikidataId: Q12840962
 nameAz: Kişvəri
 nameRu: Кишвери
 nameEn: Kishvari

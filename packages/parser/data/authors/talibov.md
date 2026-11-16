@@ -1,5 +1,6 @@
 ---
 slug: talibov
+wikidataId: Q4808415
 nameAz: Əbdürrəhim Talıbov
 nameRu: Абдуррахим Талибов
 nameFa: عبدالرحیم طالبوف

@@ -1,5 +1,6 @@
 ---
 slug: huseynzade
+wikidataId: Q2081158
 nameAz: Əli bəy Hüseynzadə
 nameRu: Али-бек Гусейнзаде
 nameEn: Ali bey Huseynzade

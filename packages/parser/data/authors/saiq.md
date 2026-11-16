@@ -1,5 +1,6 @@
 ---
 slug: saiq
+wikidataId: Q2478889
 nameAz: Abdulla Şaiq
 nameRu: Абдулла Шаиг
 nameEn: Abdulla Shaig

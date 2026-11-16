@@ -1,5 +1,6 @@
 ---
 slug: mirze-ibrahimov
+wikidataId: Q1755450
 nameAz: Mirzə İbrahimov
 nameRu: Мирза Ибрагимов
 nameEn: Mirza Ibrahimov

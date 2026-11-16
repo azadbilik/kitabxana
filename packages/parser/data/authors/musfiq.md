@@ -1,5 +1,6 @@
 ---
 slug: musfiq
+wikidataId: Q1776611
 nameAz: Mikayıl Müşfiq
 nameRu: Микаил Мушфиг
 nameEn: Mikayil Mushfig

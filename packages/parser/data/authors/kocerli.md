@@ -1,5 +1,6 @@
 ---
 slug: kocerli
+wikidataId: Q2028212
 nameAz: Firidun bəy Köçərli
 nameRu: Фиридун-бек Кочарлинский
 nameEn: Firidun bey Kocharli

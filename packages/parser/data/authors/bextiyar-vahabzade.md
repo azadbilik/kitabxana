@@ -1,5 +1,6 @@
 ---
 slug: bextiyar-vahabzade
+wikidataId: Q2320387
 nameAz: Bəxtiyar Vahabzadə
 nameRu: Бахтияр Вагабзаде
 nameEn: Bakhtiyar Vahabzadeh

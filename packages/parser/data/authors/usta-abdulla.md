@@ -1,5 +1,6 @@
 ---
 slug: usta-abdulla
+wikidataId: Q12847021
 nameAz: Usta Abdulla
 nameRu: Уста Абдулла
 nameEn: Usta Abdulla

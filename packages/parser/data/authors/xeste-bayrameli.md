@@ -1,5 +1,6 @@
 ---
 slug: xeste-bayrameli
+wikidataId: Q16376191
 nameAz: Xəstə Bayraməli
 nameRu: Хесте Байрамали
 nameEn: Khasta Bayramali

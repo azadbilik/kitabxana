@@ -1,5 +1,6 @@
 ---
 slug: asiq-mirze-bilal
+wikidataId: Q16365275
 nameAz: Aşıq Mirzə Bilal
 nameRu: Ашуг Мирза Билал
 nameEn: Ashiq Mirza Bilal

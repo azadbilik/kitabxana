@@ -1,5 +1,6 @@
 ---
 slug: nasimi
+wikidataId: Q982506
 nameAz: İmadəddin Nəsimi
 nameRu: Насими
 nameFa: نسیمی

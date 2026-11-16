@@ -1,5 +1,6 @@
 ---
 slug: miskin-abdal
+wikidataId: Q6585163
 nameAz: Miskin Abdal
 nameRu: Мискин Абдал
 nameEn: Miskin Abdal

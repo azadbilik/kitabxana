@@ -1,5 +1,6 @@
 ---
 slug: mehemmed-bey-asiq
+wikidataId: Q8008752
 nameAz: Məhəmməd bəy Aşiq
 nameRu: Мухаммед-бек Ашуг
 nameEn: Mohammad Beg Ashiq

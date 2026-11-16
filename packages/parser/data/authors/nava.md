@@ -1,5 +1,6 @@
 ---
 slug: nava
+wikidataId: Q4159968
 nameAz: Cəfərqulu xan Nəva
 nameRu: Джафаркули-хан Нава
 nameEn: Jafargulu Khan Nava

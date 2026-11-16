@@ -1,5 +1,6 @@
 ---
 slug: mucrum-kerim
+wikidataId: Q12842426
 nameAz: Mücrüm Kərim
 nameRu: Мюджрюм Керим
 nameEn: Mujrim Karim

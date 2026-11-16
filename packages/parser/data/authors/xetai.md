@@ -1,5 +1,6 @@
 ---
 slug: xetai
+wikidataId: Q214559
 nameAz: Şah İsmayıl Xətai
 nameRu: Шах Исмаил Хатаи
 nameFa: شاه اسماعیل ختایی

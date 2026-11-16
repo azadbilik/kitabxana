@@ -77,6 +77,8 @@ export interface AuthorFrontmatter {
   portraitUrl?: string;
   portraitSource?: string;
   portraitCredit?: string;
+  /** Wikidata item, e.g. "Q178379" (see scrapers/wikidata-id.ts) */
+  wikidataId?: string;
   status: PublishStatus;
 }
 
@@ -210,6 +212,7 @@ export interface AuthorConfig {
   period?: string;
   writingLangs: Language[];
   skipSources?: string[]; // sourceIds of pages that repeat another work; scrapers don't write them
+  wikidata?: string | false; // Wikidata item, where the lookup can't find it or finds the wrong one; false: none exists
   wikipedia?: {
     az?: string; // AZ Wikipedia page title
     ru?: string; // RU Wikipedia page title

@@ -1,5 +1,6 @@
 ---
 slug: resulzade
+wikidataId: Q361311
 nameAz: Məhəmməd Əmin Rəsulzadə
 nameRu: Мамед Эмин Расулзаде
 nameEn: Mammad Amin Rasulzade

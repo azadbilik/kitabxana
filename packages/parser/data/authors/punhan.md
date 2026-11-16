@@ -1,5 +1,6 @@
 ---
 slug: punhan
+wikidataId: Q4837369
 nameAz: Baba Pünhan
 nameRu: Баба Пюнхан
 nameEn: Baba Punhan

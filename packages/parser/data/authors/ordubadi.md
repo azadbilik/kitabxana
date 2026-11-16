@@ -1,5 +1,6 @@
 ---
 slug: ordubadi
+wikidataId: Q2063073
 nameAz: Məmməd Səid Ordubadi
 nameRu: Мамед Саид Ордубади
 nameEn: Mammed Said Ordubadi

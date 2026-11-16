@@ -1,5 +1,6 @@
 ---
 slug: vaqif-semedoglu
+wikidataId: Q16629544
 nameAz: Vaqif Səmədoğlu
 nameRu: Вагиф Самедоглу
 nameEn: Vagif Samadoghlu

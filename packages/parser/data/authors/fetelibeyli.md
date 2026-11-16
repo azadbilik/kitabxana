@@ -1,5 +1,6 @@
 ---
 slug: fetelibeyli
+wikidataId: Q2072229
 nameAz: Əbdürrəhman bəy Fətəlibəyli
 nameRu: Абдуррахман бек Фаталибейли
 nameEn: Abdurrahman bey Fatalibeyli

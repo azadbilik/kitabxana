@@ -1,5 +1,6 @@
 ---
 slug: suleyman-rehimov
+wikidataId: Q4387016
 nameAz: Süleyman Rəhimov
 nameRu: Сулейман Рагимов
 nameEn: Suleyman Rahimov

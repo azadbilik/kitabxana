@@ -1,5 +1,6 @@
 ---
 slug: aga-mesih-sirvani
+wikidataId: Q7495226
 nameAz: Ağa Məsih Şirvani
 nameRu: Ага Масих Ширвани
 nameEn: Agha Masih Shirvani

@@ -79,6 +79,7 @@ export async function importAuthors(opts: {
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
         ...portrait,
+        wikidataId: fm.wikidataId ?? null,
         status: newStatus(opts, fm.status),
       },
       update: {
@@ -98,6 +99,8 @@ export async function importAuthors(opts: {
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
         ...portrait,
+        // Only when the file has one, so an ID set elsewhere isn't wiped
+        ...(fm.wikidataId && { wikidataId: fm.wikidataId }),
         ...statusUpdate(opts),
       },
     });

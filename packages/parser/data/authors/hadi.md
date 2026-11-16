@@ -1,5 +1,6 @@
 ---
 slug: hadi
+wikidataId: Q2072018
 nameAz: Məhəmməd Hadi
 nameRu: Мухаммед Хади
 nameEn: Mahammad Hadi

@@ -1,5 +1,6 @@
 ---
 slug: nizami
+wikidataId: Q234908
 nameAz: Nizami Gəncəvi
 nameRu: Низами Гянджеви
 nameFa: نظامی گنجوی

@@ -1,5 +1,6 @@
 ---
 slug: semed-mensur
+wikidataId: Q8084499
 nameAz: Səməd Mənsur
 nameRu: Самед Мансур
 nameEn: Samad Mansur

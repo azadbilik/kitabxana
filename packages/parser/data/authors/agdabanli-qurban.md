@@ -1,5 +1,6 @@
 ---
 slug: agdabanli-qurban
+wikidataId: Q12837031
 nameAz: Ağdabanlı Qurban
 nameRu: Агдабанлы Гурбан
 nameEn: Aghdabanli Qurban

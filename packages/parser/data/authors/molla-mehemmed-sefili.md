@@ -1,5 +1,6 @@
 ---
 slug: molla-mehemmed-sefili
+wikidataId: Q136766466
 nameAz: Molla Məhəmməd Səfili
 nameRu: Молла Мухаммед Сафили
 nameEn: Molla Mohammad Safili

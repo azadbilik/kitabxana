@@ -1,5 +1,6 @@
 ---
 slug: sukuhi
+wikidataId: Q8007973
 nameAz: Mirzə Mehdi Şükuhi
 nameRu: Мирза Мехди Шюкюхи
 nameEn: Mirza Mehdi Shukuhi

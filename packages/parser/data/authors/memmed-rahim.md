@@ -1,5 +1,6 @@
 ---
 slug: memmed-rahim
+wikidataId: Q4386997
 nameAz: Məmməd Rahim
 nameRu: Мамед Рагим
 bornYear: 1907

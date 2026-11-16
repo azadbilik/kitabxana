@@ -1,5 +1,6 @@
 ---
 slug: agabeyim
+wikidataId: Q4056513
 nameAz: Ağabəyim ağa
 nameRu: Агабеим-ага
 nameEn: Aghabaim Agha

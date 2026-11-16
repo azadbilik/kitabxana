@@ -1,5 +1,6 @@
 ---
 slug: burhaneddin
+wikidataId: Q1392586
 nameAz: Qazi Bürhanəddin
 nameRu: Кади Бурханеддин
 nameEn: Kadi Burhan al-Din

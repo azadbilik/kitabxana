@@ -1,5 +1,6 @@
 ---
 slug: suleyman-sani
+wikidataId: Q1981434
 nameAz: Süleyman Sani Axundov
 nameRu: Сулейман Сани Ахундов
 nameEn: Suleyman Sani Akhundov

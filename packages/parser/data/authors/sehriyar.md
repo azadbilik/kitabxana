@@ -1,5 +1,6 @@
 ---
 slug: sehriyar
+wikidataId: Q535932
 nameAz: Məhəmmədhüseyn Şəhriyar
 nameRu: Мухаммед Хусейн Шахрияр
 nameFa: شهریار

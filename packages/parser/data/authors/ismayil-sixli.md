@@ -1,5 +1,6 @@
 ---
 slug: ismayil-sixli
+wikidataId: Q4524645
 nameAz: İsmayıl Şıxlı
 nameRu: Исмаил Шихлы
 nameEn: Ismayil Shykhly

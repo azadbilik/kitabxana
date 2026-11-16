@@ -1,5 +1,6 @@
 ---
 slug: elesger
+wikidataId: Q2636522
 nameAz: Aşıq Ələsgər
 nameRu: Ашуг Алескер
 nameEn: Ashiq Alasgar

@@ -1,5 +1,6 @@
 ---
 slug: qovsi
+wikidataId: Q4225859
 nameAz: Qövsi Təbrizi
 nameRu: Ковси Табризи
 nameEn: Qovsi Tabrizi

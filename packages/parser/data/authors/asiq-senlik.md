@@ -1,5 +1,6 @@
 ---
 slug: asiq-senlik
+wikidataId: Q6055574
 nameAz: Aşıq Şenlik
 nameRu: Ашуг Шенлик
 nameEn: Ashiq Shenlik

@@ -1,5 +1,6 @@
 ---
 slug: fuzuli
+wikidataId: Q178379
 nameAz: Məhəmməd Füzuli
 nameRu: Физули
 nameFa: فضولی

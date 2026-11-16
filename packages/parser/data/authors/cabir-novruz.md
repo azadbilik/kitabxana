@@ -1,5 +1,6 @@
 ---
 slug: cabir-novruz
+wikidataId: Q4159649
 nameAz: Cabir Novruz
 nameRu: Джабир Новруз
 nameEn: Jabir Novruz

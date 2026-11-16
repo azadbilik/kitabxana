@@ -1,5 +1,6 @@
 ---
 slug: mikayil-rzaquluzade
+wikidataId: Q12841911
 nameAz: Mikayıl Rzaquluzadə
 nameRu: Микаил Рзакулизаде
 bornYear: 1905

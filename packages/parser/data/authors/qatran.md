@@ -1,5 +1,6 @@
 ---
 slug: qatran
+wikidataId: Q3101199
 nameAz: Qətran Təbrizi
 nameRu: Катран Тебризи
 nameFa: قطران تبریزی

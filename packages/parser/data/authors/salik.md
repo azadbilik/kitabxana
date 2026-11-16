@@ -1,5 +1,6 @@
 ---
 slug: salik
+wikidataId: Q8008965
 nameAz: Kazım ağa Salik
 nameRu: Кязым-ага Салик
 nameEn: Kazim Agha Salik
