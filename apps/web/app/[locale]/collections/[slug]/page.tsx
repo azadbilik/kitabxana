@@ -69,7 +69,7 @@ export default async function CollectionPage({ params }: Props) {
 
       {collection.works.length > 0 && (
         <div className="download-bar--start">
-          <DownloadBar path={`/collections/${encodeURIComponent(slug)}`} author={collection.author} locale={locale} kind="collection" />
+          <DownloadBar path={`/collections/${encodeURIComponent(slug)}`} author={collection.author} locale={locale} kind="collection" scans={collection.scans} />
         </div>
       )}
 

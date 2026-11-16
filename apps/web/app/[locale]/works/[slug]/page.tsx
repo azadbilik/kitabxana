@@ -269,7 +269,7 @@ export default async function WorkPage({ params }: Props) {
         url={`${SITE_URL}/${locale}/works/${slug}`}
         text={`${heading} — ${authorName}`}
       />
-      <DownloadBar path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} kind="work" />
+      <DownloadBar path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} kind="work" scans={work.scan ? [work.scan] : null} />
       <p className="print-source">Kitabxana.az · {`${SITE_URL}/${locale}/works/${slug}`}</p>
 
       {(nav.prev || nav.next) && (

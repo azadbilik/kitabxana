@@ -12,6 +12,21 @@ export function downloadUrl(path: string, format: 'epub' | 'txt') {
   return `${PUBLIC_API_URL}${path}/download?format=${format}`;
 }
 
+/** A scanned source book (PDF) served by the API, see ScansService */
+export interface Scan {
+  key: string;
+  bytes: number;
+  /** PDF page the work starts on */
+  page?: number;
+}
+
+/** Link to a scanned book: opened in the browser's PDF viewer (at a page), or saved */
+export function scanUrl(key: string, { page, download }: { page?: number; download?: boolean } = {}) {
+  const url = `${PUBLIC_API_URL}/scans/${encodeURIComponent(key)}.pdf`;
+  if (download) return `${url}?download=1`;
+  return page ? `${url}#page=${page}` : url;
+}
+
 export class ApiError extends Error {
   constructor(message: string, public status: number) {
     super(message);

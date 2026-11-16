@@ -2,6 +2,7 @@ import { Injectable, NotFoundException } from '@nestjs/common';
 import { Language, Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { SearchService } from '../search/search.service';
+import { ScansService } from '../downloads/scans.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
 import { safeWorkBase, slugify, uniqueSlug } from '../common/utils/slug';
@@ -77,6 +78,7 @@ export class WorksService {
   constructor(
     private prisma: PrismaService,
     private search: SearchService,
+    private scans: ScansService,
   ) {}
 
   private daily: { date: string; work: unknown } | null = null;
@@ -242,7 +244,8 @@ export class WorksService {
       .update({ where: { id: work.id }, data: { viewCount: { increment: 1 } } })
       .catch(() => {});
 
-    return work;
+    // The scanned book the text was transcribed from, opened at the work's page
+    return { ...work, scan: this.scans.forWork(work) };
   }
 
   /** The prev/next navigation — most performance-critical query */

@@ -67,6 +67,10 @@ docker compose up -d --wait
 docker compose up -d web api
 ```
 
+## Source Scans
+
+The scanned PDFs of the printed books (`anl-<bibid>.pdf`, `halle-<handle>.pdf`) live outside the repo in `~/kitabxana-scans` (override with `SCANS_DIR` in `.env`), mounted read-only into `api`. A collection or work offers its book once the file is there: no import or restart needed (the API rechecks every 5 minutes). Back the folder up separately; it is not in git or the database dump.
+
 ## Stop
 
 Ctrl-C `cloudflared`, then:

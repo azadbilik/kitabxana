@@ -110,7 +110,12 @@
     "note": "Original text · public domain",
     "work": "Download this work",
     "collection": "Download the book",
-    "author": "Download complete works"
+    "author": "Download complete works",
+    "pdf": "PDF — scan of the printed edition",
+    "read_scan": "Read the scan",
+    "read_scan_title": "Open the scan of the printed edition at this work",
+    "scan_note": "PDF: scan of the printed edition",
+    "mb": "{n} MB"
   },
   "tags": {
     "title": "Themes",

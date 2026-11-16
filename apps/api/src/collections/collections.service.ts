@@ -3,10 +3,14 @@ import { PrismaService } from '../prisma/prisma.service';
 import { CreateCollectionDto } from './dto/create-collection.dto';
 import { slugify } from '../common/utils/slug';
 import { publishedArtworks } from '../common/utils/artwork';
+import { ScansService } from '../downloads/scans.service';
 
 @Injectable()
 export class CollectionsService {
-  constructor(private prisma: PrismaService) {}
+  constructor(
+    private prisma: PrismaService,
+    private scans: ScansService,
+  ) {}
 
   async findBySlug(slug: string) {
     const collection = await this.prisma.collection.findUnique({
@@ -27,6 +31,7 @@ export class CollectionsService {
             form: true,
             year: true,
             order: true,
+            sourceId: true,
           },
         },
         artworks: publishedArtworks,
@@ -34,7 +39,9 @@ export class CollectionsService {
     });
 
     if (!collection) throw new NotFoundException('Collection not found');
-    return collection;
+    // The scanned books the collection was transcribed from
+    const scans = this.scans.forWorks(collection.works);
+    return { ...collection, works: collection.works.map(({ sourceId: _, ...w }) => w), scans };
   }
 
   async create(dto: CreateCollectionDto) {

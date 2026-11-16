@@ -43,8 +43,11 @@ services:
       # IndexNow pings (off without a key); state kept on the volume
       SITE_URL: https://${DOMAIN}
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
+      # Scanned source books (<key>.pdf, e.g. anl-8283.pdf), see ScansService
+      SCANS_DIR: /scans
     volumes:
       - api-data:/data
+      - ${SCANS_DIR:-${HOME}/kitabxana-scans}:/scans:ro
     depends_on:
       postgres: { condition: service_healthy }
       meilisearch: { condition: service_healthy }
