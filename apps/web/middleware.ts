@@ -104,8 +104,22 @@ export default async function middleware(req: NextRequest) {
     redirectLegacyFilters(req) ??
     (await checkFilterPath(req)) ??
     (await redirectLegacyWork(req)) ??
-    intl(req)
+    withoutLocaleCookie(req, intl(req))
   );
+}
+
+/**
+ * Pages are cached at Cloudflare, which won't store a response that sets a cookie, and
+ * next-intl sets NEXT_LOCALE on every page a cookieless visitor (or crawler) opens. The
+ * locale is in every URL anyway; the cookie only steers the bare `/` redirect, and the
+ * language switcher sets it in the browser.
+ */
+function withoutLocaleCookie(req: NextRequest, res: NextResponse) {
+  if (req.nextUrl.pathname !== '/') {
+    res.headers.delete('set-cookie');
+    res.headers.delete('x-middleware-set-cookie');
+  }
+  return res;
 }
 
 export const config = {

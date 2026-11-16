@@ -18,6 +18,8 @@ export function LanguageSwitcher() {
   const switchLocale = (newLocale: string) => {
     const segments = pathname.split('/');
     segments[1] = newLocale;
+    // Remembered for the bare `/` redirect; the server doesn't set it (cached pages can't)
+    document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; samesite=lax`;
     // Keep the query, so a search (?q=) or a chosen translation (?tr=) survives the switch
     router.push(segments.join('/') + window.location.search);
   };
