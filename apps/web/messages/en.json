@@ -313,6 +313,16 @@
     "align_names": {
       "start": "Left",
       "justify": "Justified"
+    },
+    "original_in": {
+      "AZ_LATIN": "Azerbaijani original",
+      "AZ_ARABIC": "Azerbaijani original (Arabic script)",
+      "AZ_CYRILLIC": "Azerbaijani original",
+      "FA": "Persian original",
+      "AR": "Arabic original",
+      "RU": "Russian original",
+      "EN": "Original",
+      "TR": "Turkish original"
     }
   },
   "contact": {

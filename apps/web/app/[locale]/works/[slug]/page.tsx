@@ -62,6 +62,38 @@ async function titleHelpers(locale: string) {
   };
 }
 
+// The work language each UI locale reads
+const LOCALE_LANG: Record<string, string> = { az: 'AZ_LATIN', ru: 'RU', en: 'EN' };
+const DESCRIPTION_MAX = 160;
+
+/**
+ * The search snippet, in the page's language where the work has text in it: the start of
+ * the original or of the default translation. Without one (a Persian ghazal with no
+ * Azerbaijani translation yet) it says what the work is and whose, then quotes the start
+ * of the original, so the snippet still reads in the page's language.
+ */
+async function workDescription(work: any, locale: string, authorName: string | null): Promise<string | undefined> {
+  const poem = work.genre !== 'PROSE';
+  const lang = LOCALE_LANG[locale];
+  const translation = (work.translations ?? [])
+    .filter((t: any) => t.language === lang)
+    .sort((a: any, b: any) => Number(b.isDefault) - Number(a.isDefault))[0];
+  const own = work.originalLang === lang ? work.body : translation?.body;
+  if (own) return excerpt(own, { poem });
+
+  const { t, options } = await titleHelpers(locale);
+  const kind =
+    work.form && work.form !== 'OTHER'
+      ? options(`form.${work.form}` as any)
+      : work.genre
+        ? options(`genre.${work.genre}` as any)
+        : null;
+  const who = [kind, authorName].filter(Boolean).join(' — ');
+  const lead = `${who ? `${who}. ` : ''}${t(`original_in.${work.originalLang}` as any)}: `;
+  const quote = excerpt(work.body, { poem, max: DESCRIPTION_MAX - lead.length });
+  return quote ? lead + quote : lead.replace(/[.:]\s*$/, '').trim();
+}
+
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
   const work = (await getWorkOrRedirect(slug, locale)) as any;
@@ -73,7 +105,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     locale,
     path: `/works/${slug}`,
     title: `${number ? `${heading} (${number})` : heading} — ${authorName}`,
-    description: excerpt(work.body, { poem: work.genre !== 'PROSE' }),
+    description: await workDescription(work, locale, authorName),
     type: 'article',
     images: false,
     hreflang: workLocales(work.originalLang, (work.translations ?? []).map((t: any) => t.language)),
