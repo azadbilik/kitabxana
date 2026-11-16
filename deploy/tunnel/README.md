@@ -69,7 +69,18 @@ docker compose up -d web api
 
 ## Source Scans
 
-The scanned PDFs of the printed books (`anl-<bibid>.pdf`, `halle-<handle>.pdf`) live outside the repo in `~/kitabxana-scans` (override with `SCANS_DIR` in `.env`), mounted read-only into `api`. A collection or work offers its book once the file is there: no import or restart needed (the API rechecks every 5 minutes). Back the folder up separately; it is not in git or the database dump.
+The scanned PDFs of the printed books (`anl-<bibid>.pdf`, `halle-<handle>.pdf`) live outside the repo in `~/kitabxana-scans` (override with `SCANS_DIR` in `.env`), mounted read-only into `api`. A collection or work offers its book once the file is there: no import or restart needed (the API rechecks every 5 minutes). It is not in git or the database dump: `backup-scans.sh` copies it to Cloudflare R2 nightly (upload-only, never deletes or overwrites there).
+
+One-time setup:
+1. Cloudflare dashboard → R2 → create bucket `kitabxana-scans`; then R2 → Manage API tokens → create a token with **Object Read & Write** on that bucket only.
+2. Add to `.env`: `R2_ACCOUNT_ID=…`, `R2_ACCESS_KEY_ID=…`, `R2_SECRET_ACCESS_KEY=…`, `SCANS_BACKUP_BUCKET=kitabxana-scans`.
+3. First run (about 3 GB): `./backup-scans.sh`
+4. Nightly at 03:30 (log: `~/Library/Logs/kitabxana-backup-scans.log`):
+   ```bash
+   sed "s|__REPO__|$(cd ../.. && pwd)|; s|__HOME__|$HOME|g" az.kitabxana.backup-scans.plist > ~/Library/LaunchAgents/az.kitabxana.backup-scans.plist
+   launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/az.kitabxana.backup-scans.plist
+   ```
+   A laptop asleep at 03:30 runs it on wake.
 
 ## Stop
 
