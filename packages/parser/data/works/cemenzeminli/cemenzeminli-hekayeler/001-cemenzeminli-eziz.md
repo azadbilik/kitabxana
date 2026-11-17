@@ -7,7 +7,7 @@ collectionSlug: cemenzeminli-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 1
+order: 47
 sourceNote: 'https://az.wikisource.org/wiki/%C6%8Fziz'
 status: DRAFT
 ---

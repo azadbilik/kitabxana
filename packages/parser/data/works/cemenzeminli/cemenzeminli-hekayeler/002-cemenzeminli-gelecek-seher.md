@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
 year: 1933
-order: 2
+order: 48
 sourceNote: 'https://az.wikisource.org/wiki/G%C9%99l%C9%99c%C9%99k%20%C5%9F%C9%99h%C9%99r'
 status: DRAFT
 ---

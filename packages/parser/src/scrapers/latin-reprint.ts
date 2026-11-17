@@ -86,7 +86,7 @@ const fixHomoglyphs = (s: string) => s.replace(/[\u0400-\u04ff]/g, (ch) => HOMOG
 const UNICODE_AZ = /[əƏıİşŞğĞ]/;
 
 /** Every page's body lines, top to bottom: no page numbers, glossary marks or glossary notes */
-export async function readReprint(url: string): Promise<Line[][]> {
+export async function readReprint(url: string, opts: { stars?: boolean } = {}): Promise<Line[][]> {
   const pdf = await getDocumentProxy(new Uint8Array(await download(url)));
   const pages: Line[][] = [];
   let unicode = false;
@@ -113,6 +113,16 @@ export async function readReprint(url: string): Promise<Line[][]> {
         row.size = Math.max(row.size, Math.round(item.height));
       }
       rows.set(key, row);
+    }
+    // A raised note asterisk is a row of its own just above its line ("bəkəs”*"): it joins that line
+    if (opts.stars) {
+      for (const [y, row] of [...rows.entries()]) {
+        if (!row.parts.every((p) => /^\s*[*†‡§¶]+\s*$/.test(p.s))) continue;
+        const below = [...rows.keys()].filter((k) => k < y && y - k <= 12).sort((a, b) => b - a)[0];
+        if (below === undefined) continue;
+        rows.get(below)!.parts.push(...row.parts.map((p) => ({ ...p, s: p.s.trim() })));
+        rows.delete(y);
+      }
     }
     const sorted = [...rows.entries()].sort((a, b) => b[0] - a[0]);
     const lines: Line[] = [];
@@ -541,6 +551,8 @@ export interface ReprintSection {
   number?: boolean;
   /** Short poems one after another, set apart by "* * *", a number or a title: one work each, titled by its title or first line */
   poems?: boolean;
+  /** A novel in parts with numbered chapters: see novelParts */
+  novel?: boolean;
 }
 
 export interface ReprintVolume {
@@ -558,6 +570,10 @@ export interface ReprintVolume {
   pages?: Record<string, number>;
   /** First lines of poems whose "* * *" the text layer lacks */
   breaks?: string[];
+  /** Contents title → the title as the heading prints it, where the contents misspell it ("Iki aləm" → "İki aləm") */
+  titles?: Record<string, string>;
+  /** Notes marked with a raised asterisk ("bəkəs”*"), the note at the page's foot: the mark joins its word */
+  stars?: boolean;
 }
 
 export interface PlannedReprintWork {
@@ -592,6 +608,133 @@ const stripMarks = (body: string) => body
 
 /** Acts of a play, chapters of a novel: the headings a long work is cut at */
 // Lider's plays are in "məclis" (acts) and "şəkil" (scenes); a bare "Pərdə" is the curtain, not an act
+/**
+ * A novel in parts ("Birinci hissə", "Epiloq"; in books, "İkinci kitab"), its chapters numbered
+ * "1", "2"… on lines of their own: one work per part, the numbers kept as bold marks. A number
+ * out of turn is a stray page number. Text before the first part is the novel's opening (a
+ * preface); a novel whose first heading is "İkinci hissə" lost its first: that text is the first part
+ */
+export function novelParts(body: string): { title: string | null; body: string }[] {
+  const out: { title: string | null; lines: string[] }[] = [{ title: null, lines: [] }];
+  let book = '';
+  let chapter = 0;
+  for (let line of body.split('\n')) {
+    // The first part's heading may come out as an italic line in capitals, the title before it
+    // (with the epigraph under it run into the same line)
+    const capsPart = line.match(/^\*[^*a-zəığöüşç]*?((?:BİRİNCİ|İKİNCİ|ÜÇÜNCÜ|DÖRDÜNCÜ) HİSSƏ)[*†‡§]*(?:\*$|\s+(.*)$)/u);
+    if (capsPart?.[2]) {
+      out.push({ title: sentence(capsPart[1]), lines: [`*${capsPart[2]}`] });
+      chapter = 0;
+      continue;
+    }
+    const head = capsPart ? ['', capsPart[1]] : line.match(/^### (.+?)\*?$/);
+    if (head && /^([IVX]{1,4}|\d{1,3})$/.test(head[1])) line = head[1];
+    if (head && /kitab$/i.test(head[1])) { book = sentence(head[1]); continue; }
+    if (head && /(hissə|epiloq|proloq|bir neçə söz)$/i.test(head[1])) {
+      out.push({ title: book ? `${book}, ${sentence(head[1]).toLocaleLowerCase('az')}` : sentence(head[1]), lines: [] });
+      chapter = 0;
+      continue;
+    }
+    if (head && /kitabın sonu$/i.test(head[1])) { out[out.length - 1].lines.push(`*${sentence(head[1])}*`); continue; }
+    const cur = out[out.length - 1].lines;
+    const num = line.trim().match(/^\*?(\d{1,3}|[IVX]{1,4})\*?$/);
+    if (num) {
+      const n = /\d/.test(num[1]) ? Number(num[1]) : ROMAN_VALUE[num[1]] ?? 0;
+      if (n === chapter + 1 || n === chapter + 2) { chapter = n; cur.push(`**${n}**`); }
+      continue;
+    }
+    // A signature set as a heading ("Y.vəzir", "Müəllif")
+    cur.push(head ? head[1] : line);
+  }
+  const parts = out.map((p) => ({ title: p.title, body: p.lines.join('\n').replace(/\n{3,}/g, '\n\n').trim() })).filter((p) => p.body);
+  // The opening repeats the novel's title in capitals: alone over a preface ("STUDENTLƏR BİR NEÇƏ SÖZ"), or over a dedication
+  const first = parts[0]?.title === null ? parts[0] : undefined;
+  const caps = first?.body.match(/^\*([^a-zəığöüşç*]+?)(?:\s+([A-ZƏÖÜĞİIŞÇ][a-zəığöüşç][^*]*))?\*(?:\n|$)/u);
+  if (first && caps) {
+    if (caps[2]) first.body = first.body.replace(caps[0], `*${caps[2]}*\n`);
+    else {
+      first.body = first.body.slice(caps[0].length).trim();
+      if (/BİR NEÇƏ SÖZ$/u.test(caps[1])) first.title = 'Bir neçə söz';
+    }
+  }
+  if (parts[0] && parts[0].title === null && parts[1]?.title === 'İkinci hissə' && parts[0].body.length > SPLIT_PROSE) parts[0].title = 'Birinci hissə';
+  return parts;
+}
+const ROMAN_VALUE: Record<string, number> = { I: 1, II: 2, III: 3, IV: 4, V: 5, VI: 6, VII: 7, VIII: 8, IX: 9, X: 10 };
+
+/**
+ * Page-foot notes marked by raised symbols (see ReprintVolume.stars): "*", "**", "†", "‡", "§"
+ * after a word, the note an italic paragraph where its page ended, several notes in one
+ * ("* Zərdüştilərdə işıq allahı.*", then "*†*" over the next one's text). Each note goes to the
+ * nearest unmatched mark with its symbol before it: that mark becomes a numbered <sup>, the note
+ * moves under a rule at the end. A note with no mark stays where it is
+ */
+export function starNotes(body: string): string {
+  const SYM = '(?:\\*{1,3}|[†‡§¶]{1,2})';
+  const paras = body.split(/\n\n/);
+  const symLine = (l: string) => new RegExp(`^\\*\\s*${SYM}\\s*\\*$`, 'u').test(l);
+  const isNote = (p: string) => (/^\* \S/.test(p) || symLine(p.split('\n')[0])) && p.split('\n').every((l) => /^\*.*\*$/.test(l));
+  const MARK = new RegExp(`(?<=[\\p{L}\\d”»".,;:!?)])${SYM}(?=[\\s\\p{L},.;:!?)»”]|$)`, 'gu');
+  // Marks are looked for line by line; in an italic line (a quotation set small), inside its wrapping stars
+  const spans = (line: string): [number, number] | null => {
+    if (/^\*\*\d+\*\*$/.test(line)) return null;
+    if (/^\*.*\*$/.test(line) && line.length > 2) return [1, line.length - 1];
+    return /^\*/.test(line) ? null : [0, line.length];
+  };
+  const marksIn = (line: string) => {
+    const span = spans(line);
+    if (!span) return [] as { sym: string; at: number }[];
+    return [...line.slice(span[0], span[1]).matchAll(MARK)].map((m) => ({ sym: m[0], at: span[0] + m.index! }));
+  };
+  const pending: { sym: string; key: string }[] = [];
+  const numbered = new Map<string, number>(); // "para:line:at" → note number
+  const notes: string[] = [];
+  const keep: boolean[] = paras.map(() => true);
+  const leftover = new Map<number, string[]>();
+  paras.forEach((p, i) => {
+    if (isNote(p)) {
+      const items: { sym: string; text: string[] }[] = [];
+      for (const line of p.split('\n')) {
+        const inner = line.replace(/^\*|\*$/g, '');
+        const symOnly = inner.trim().match(new RegExp(`^${SYM}$`, 'u'));
+        if (symOnly) items.push({ sym: symOnly[0], text: [] });
+        else if (new RegExp(`^\\s*${SYM}\\s+\\S`, 'u').test(inner)) {
+          const m = inner.trim().match(new RegExp(`^(${SYM})\\s+(.*)$`, 'u'))!;
+          items.push({ sym: m[1], text: [m[2]] });
+        }
+        else if (/^ \S/.test(inner) && (items.length === 0 || items[items.length - 1].text.length)) items.push({ sym: '*', text: [inner.trim()] });
+        else if (items.length) items[items.length - 1].text.push(inner.trim());
+      }
+      keep[i] = false;
+      const rest: string[] = [];
+      for (const it of items) {
+        // The italic note lost its stars' count: a star note may answer "**" or "***" too
+        let k = pending.findIndex((m) => m.sym === it.sym);
+        if (k < 0 && it.sym === '*') k = pending.findIndex((m) => /^\*+$/.test(m.sym));
+        const text = it.text.join(' ').replace(/\s+/g, ' ').trim();
+        if (k < 0 || !text) { if (text) rest.push(`*${text}*`); continue; }
+        const [m] = pending.splice(k, 1);
+        notes.push(text);
+        numbered.set(m.key, notes.length);
+      }
+      if (rest.length) leftover.set(i, rest);
+      return;
+    }
+    p.split('\n').forEach((line, j) => { for (const m of marksIn(line)) pending.push({ sym: m.sym, key: `${i}:${j}:${m.at}` }); });
+  });
+  if (!notes.length) return body;
+  const out: string[] = [];
+  paras.forEach((p, i) => {
+    if (!keep[i]) { if (leftover.has(i)) out.push(...leftover.get(i)!); return; }
+    out.push(p.split('\n').map((line, j) => {
+      const hits = marksIn(line).filter((m) => numbered.has(`${i}:${j}:${m.at}`)).sort((x, y) => y.at - x.at);
+      for (const m of hits) line = `${line.slice(0, m.at)}<sup>${numbered.get(`${i}:${j}:${m.at}`)}</sup>${line.slice(m.at + m.sym.length)}`;
+      return line;
+    }).join('\n'));
+  });
+  return `${out.join('\n\n')}\n\n---\n\n${notes.map((n, k) => `<sup>${k + 1}</sup> ${n}`).join('\n\n')}`;
+}
+
 const PART = /^### (.+ (pərdə|fəsil|məclis)|.+ şəkil|[IVXLC]+\.?)$/i;
 const SPLIT_PROSE = 40_000;
 
@@ -675,7 +818,7 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
   };
 
   for (const vol of volumes) {
-    const pages = await readReprint(`${readerUrl(vol.bibid)}&download=1`);
+    const pages = await readReprint(`${readerUrl(vol.bibid)}&download=1`, { stars: vol.stars });
     // No Azerbaijani word triples a letter: the contents' misprint ("haqqqında")
     const located = locate(pages, readToc(pages, Object.keys(vol.sections)), vol.headings, vol.inOrder)
       .map((e) => ({ ...e, title: e.title.replace(/(\p{L})\1\1/gu, '$1$1') }))
@@ -726,11 +869,13 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
         .replace(/([\p{L},;])\n\n\*{2,3}\n\n(?=\p{L})/gu, '$1 ')
         .replace(/^\*{2,3}\n+/gm, '');
       const sourceNote = readerUrl(vol.bibid, e.at.page + 1);
-      const split = parts(body, section.layout);
+      const split = (section.novel ? novelParts(body) : parts(body, section.layout))
+        .map((part) => (vol.stars ? { ...part, body: starNotes(part.body) } : part));
+      if (split.length === 1) body = split[0].body;
       const base = shortSlug(`${authorSlug}-${e.title}`);
       if (split.length === 1) {
         works.push({
-          slug: unique(base), sourceId: `anl-${vol.bibid}-${k + 1}`, titleAz: e.title,
+          slug: unique(base), sourceId: `anl-${vol.bibid}-${k + 1}`, titleAz: vol.titles?.[e.title] ?? e.title,
           collectionSlug: collection({ slug: section.collection, titleAz: section.titleAz, genre: section.genre }),
           genre: section.genre, form: section.form, year: text.year, order: works.length + 1, sourceNote, body,
         });
