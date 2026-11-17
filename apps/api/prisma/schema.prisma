@@ -91,7 +91,8 @@ enum PublishStatus {
 model User {
   id           String   @id @default(cuid())
   email        String   @unique
-  username     String   @unique
+  // Staff accounts have one; readers sign in with Google or an emailed code and need none
+  username     String?  @unique
   name         String?
   passwordHash String?
   role         UserRole @default(READER)
@@ -99,9 +100,19 @@ model User {
   bio          String?
   isVerified   Boolean  @default(false)
   isBanned     Boolean  @default(false)
+  // Google account subject, for "Continue with Google"
+  googleSub    String?  @unique
+  // UI language the reader last used (az, ru, en), for mail
+  locale       String?
 
   submissions Submission[]
   blogPosts   BlogPost[]
+
+  sessions     Session[]
+  favorites    Favorite[]
+  readingState ReadingState[]
+  bookState    BookState[]
+  readingLists ReadingList[]
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
@@ -129,9 +140,9 @@ model Author {
   period       String?
   writingLangs Language[]
 
-  bioAz String? @db.Text
-  bioRu String? @db.Text
-  bioEn String? @db.Text
+  bioAz      String? @db.Text
+  bioRu      String? @db.Text
+  bioEn      String? @db.Text
   /// Where each bio came from, per language: { az?: { wiki: "az", title }, ... }. A bio in a
   /// language other than its wiki is a translation of that article. Shown as a credit line.
   bioSources Json?
@@ -155,6 +166,9 @@ model Author {
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  // Reader accounts
+  favorites Favorite[]
 
   @@index([slug])
   @@index([nameAz])
@@ -192,6 +206,11 @@ model Collection {
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  // Reader accounts
+  favorites Favorite[]
+  bookState BookState[]
+  listItems ReadingListItem[]
 
   @@index([authorId])
   @@index([slug])
@@ -245,6 +264,11 @@ model Work {
 
   createdAt DateTime @default(now())
   updatedAt DateTime @updatedAt
+
+  // Reader accounts
+  favorites    Favorite[]
+  readingState ReadingState[]
+  listItems    ReadingListItem[]
 
   @@index([authorId])
   @@index([previousSlugs], type: Gin)
@@ -455,4 +479,126 @@ model BlogPost {
 
   @@index([slug])
   @@index([publishedAt])
+}
+
+// ── READER ACCOUNTS ───────────────────────────
+// Sessions are opaque random tokens in an HttpOnly cookie on /api; only their hash is stored.
+
+model Session {
+  id         String   @id @default(cuid())
+  tokenHash  String   @unique
+  userId     String
+  user       User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  expiresAt  DateTime
+  lastSeenAt DateTime @default(now())
+  userAgent  String?
+  createdAt  DateTime @default(now())
+
+  @@index([userId])
+}
+
+// A 6-digit sign-in code sent by mail: hashed, short-lived, limited attempts
+model LoginCode {
+  id        String    @id @default(cuid())
+  email     String
+  codeHash  String
+  expiresAt DateTime
+  attempts  Int       @default(0)
+  usedAt    DateTime?
+  createdAt DateTime  @default(now())
+
+  @@index([email, createdAt])
+}
+
+// Saved poems, books and authors: exactly one target per row
+model Favorite {
+  id           String      @id @default(cuid())
+  userId       String
+  user         User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  workId       String?
+  work         Work?       @relation(fields: [workId], references: [id], onDelete: Cascade)
+  collectionId String?
+  collection   Collection? @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  authorId     String?
+  author       Author?     @relation(fields: [authorId], references: [id], onDelete: Cascade)
+  createdAt    DateTime    @default(now())
+
+  @@unique([userId, workId])
+  @@unique([userId, collectionId])
+  @@unique([userId, authorId])
+  @@index([userId, createdAt])
+}
+
+enum ReadingStatus {
+  READING
+  DONE
+}
+
+// Per work: read or in progress, and where the reader stopped (0–1 through the whole text)
+model ReadingState {
+  id            String        @id @default(cuid())
+  userId        String
+  user          User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  workId        String
+  work          Work          @relation(fields: [workId], references: [id], onDelete: Cascade)
+  status        ReadingStatus @default(READING)
+  progress      Float         @default(0)
+  translationId String?
+  updatedAt     DateTime      @updatedAt
+  createdAt     DateTime      @default(now())
+
+  @@unique([userId, workId])
+  @@index([userId, updatedAt])
+}
+
+enum BookStatus {
+  WANT
+  READING
+  DONE
+}
+
+// Per book (collection): want to read / reading / read, and the part last opened
+model BookState {
+  id           String     @id @default(cuid())
+  userId       String
+  user         User       @relation(fields: [userId], references: [id], onDelete: Cascade)
+  collectionId String
+  collection   Collection @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  status       BookStatus
+  lastWorkId   String?
+  updatedAt    DateTime   @updatedAt
+  createdAt    DateTime   @default(now())
+
+  @@unique([userId, collectionId])
+  @@index([userId, status, updatedAt])
+}
+
+// Reader-made lists of books and works; private for now
+model ReadingList {
+  id        String            @id @default(cuid())
+  userId    String
+  user      User              @relation(fields: [userId], references: [id], onDelete: Cascade)
+  name      String
+  order     Int               @default(0)
+  items     ReadingListItem[]
+  createdAt DateTime          @default(now())
+  updatedAt DateTime          @updatedAt
+
+  @@index([userId, order])
+}
+
+model ReadingListItem {
+  id           String      @id @default(cuid())
+  listId       String
+  list         ReadingList @relation(fields: [listId], references: [id], onDelete: Cascade)
+  workId       String?
+  work         Work?       @relation(fields: [workId], references: [id], onDelete: Cascade)
+  collectionId String?
+  collection   Collection? @relation(fields: [collectionId], references: [id], onDelete: Cascade)
+  order        Int         @default(0)
+  createdAt    DateTime    @default(now())
+
+  @@unique([listId, workId])
+  @@unique([listId, collectionId])
+  @@index([listId, order])
 }
