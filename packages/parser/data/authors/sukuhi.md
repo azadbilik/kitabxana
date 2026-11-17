@@ -16,6 +16,14 @@ bioRu: >-
   **Мирза Мехди Шюкюхи** (1829, Тебриз, Каджарское государство — 1896, Марага,
   Каджарское государство) —  азербайджанский поэт и сатирик второй половины XIX
   века, отец Мирза Хасана Шюкюхи.
+bioEn: >-
+  **Mirza Mehdi Shukuhi** — Azerbaijani poet of the 19th century.
+
+
+  Shukuhi, who began his literary work in his youth, wrote works in both
+  classical and folk literary styles. His lyric poems in the genres of ghazal,
+  qasida, *mukhammas*, qit'a, *qoshma* and *gerayli*, and his epic *masnavis*
+  "Münazireyi-Əqlü Eşq" and "Cəlala öyüd" brought him fame.
 ---
 **Mirzə Mehdi Şükuhi**—XIX əsr Azərbaycan şairi.
 

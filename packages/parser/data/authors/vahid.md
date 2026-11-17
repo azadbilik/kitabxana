@@ -16,6 +16,11 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Aliaga_Vahid.jpg/330px-Aliaga_Vahid.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Aliaga_Vahid.jpg'
 portraitCredit: 'Unknown author, 1940s · Public domain'
+bioEn: >-
+  Aliagha Mammadgulu oghlu Isgandarov (Azerbaijani: Əliağa Məmmədqulu oğlu
+  İsgəndərov; 17 February 1895, in Baku – 1 October 1965, in Baku), was an
+  Azerbaijani poet and Honoured Artist of the Azerbaijan SSR (1943). He was
+  known for reintroducing medieval ghazal style in Soviet Azerbaijani poetry.
 ---
 **Əliağa Vahid** (əsl adı: *Əliağa Məmmədqulu oğlu İsgəndərov*;  — Azərbaycan-sovet şairi, qəzəlxanı, Azərbaycan SSR əməkdar incəsənət xadimi (17 iyun 1943).
 

@@ -16,6 +16,25 @@ portraitUrl: >-
   https://upload.wikimedia.org/wikipedia/commons/8/8f/Almas_Ildyrym_%28head_shot%29.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Almas_Ildyrym_(head_shot).jpg'
 portraitCredit: Public domain
+bioEn: >-
+  Almas Ildyrym (Azerbaijani: Almas İldırım), born Ildyrym Almaszade (25 March
+  1907, Baku – 14 January 1952, Elazığ, Turkey), was an Azerbaijani poet. After
+  the Bolsheviks established their power in Azerbaijan in 1920, the fact that
+  Ildyrym had been born into a wealthy merchant family plagued him for the rest
+  of his life. Though he was accepted to the faculty of Oriental Literature at
+  Azerbaijan State University, it was not long before they dismissed him because
+  of his family origins.
+
+
+  In 1926, Almas co-authored a book of poems, Dün bugün ("Yesterday is Today")
+  with Suleyman Rustam. Soon he was exiled to Dagestan for the nationalist ideas
+  in his poems. While in exile, he wrote Dağlardan xatirələr ("Memories from the
+  Mountains"), Ləzgi elləri ("Lezgi Lands"), Krımda axşamlar ("Evenings in
+  Crimea"), Səlimxan, and Günah kimdədir? ("Whose Fault is It?"). Two years
+  later, he returned to Baku and published a collection of poems entitled Dağlar
+  Səslənərkən ("When Mountains Make a Sound," 1930). However, the distribution
+  of this book was prohibited, and the author was banned from the Writers' Union
+  of Azerbaijan.
 ---
 **Almas İldırım** (əsl adı: Əbdülhəsən Almaszadə) — Azərbaycanın mühacir şairi.
 

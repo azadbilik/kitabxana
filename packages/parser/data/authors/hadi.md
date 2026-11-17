@@ -27,6 +27,10 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Muhammad_Hadi.jpg'
 portraitCredit: 'Unknown author, 1907 · Public domain'
 bornYear: 1879
 diedYear: 1920
+bioEn: >-
+  Mahammad Hadi or Agha-Mahammad Haji-Abdulsalim oglu Abdulsalimzade
+  (Azerbaijani: Məhəmməd Əbdülsəlimzadə Hadi Şirvani; 1879, Shamakhi - 1920,
+  Ganja) was an Azerbaijani romanticist poet.
 ---
 Məhəmməd Hadi XX əsr Azərbaycan şairləri içərisində mətbuatla sıx əlaqəsi olan sənətkarlardan biridir. Öz əsərlərinin əksəriyyətində vətən, millət mövzusuna toxunan Məhəmməd Hadi Azərbaycan poeziyasının intibah, azadlıq və hürriyyət mücahidlərindən biri olmuşdur. Ona görə də Məhəmməd Əmin Rəsulzadə Azərbaycan Cümhuriyyəti əsərində "*bir tərəfdən rus ədəbiyyatı, digər tərəfdən də Osmanlı ədəbiyyatı təsirində bulunan*" istiqlal mövzusunda mübariz əsərlər yazan şairlər arasında Məhəmməd Hadini ayrıca dəyərləndirirdi.
 

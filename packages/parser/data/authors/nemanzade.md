@@ -16,6 +16,11 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Omar_Faig_Nemanzadeh.jpg/330px-Omar_Faig_Nemanzadeh.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Omar_Faig_Nemanzadeh.jpg'
 portraitCredit: Unknown author · Public domain
+bioEn: >-
+  Omar Faig Loman oglu Nemanzadeh (Azerbaijani: Ömər Faiq Nemanzadə, Turkish:
+  Ömer Faik Numanzade) was an Azerbaijani publicist, journalist, teacher,
+  founder and owner of Gheyrat Press and co-founder of Molla Nasreddin magazine,
+  public figure.
 ---
 **Ömər Faiq Lömən** **oğlu Nemanzadə** — Azərbaycan ədibi, ictimai-siyasi xadim, publisist, pedaqoq, "Qeyrət" mətbəəsinin sahibi və "Molla Nəsrəddin" jurnalının həmtəsisçisi, Gürcüstan SSR Müvəqqəti İnqilab Komitəsinin üzvü və Gürcüstan SSR Müsəlman İşləri Üzrə Şuranın 1-ci sədri. Axısqa türkü.
 

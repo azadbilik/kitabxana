@@ -17,6 +17,13 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Aghabeyim_agha_Javanshir_-_1956_drawing.png
 portraitCredit: 'Elmi Publishing Institute, 1956 · Public domain'
+bioEn: >-
+  Agha Baji Javanshir (Persian: آغابیگم جوانشیر; died 1832) was an Iranian poet,
+  who was the twelfth wife of Fath-Ali Shah Qajar (r. 1797–1834), the Qajar shah
+  (king) of Iran. She was the daughter of Ibrahim Khalil Khan, the governor of
+  the Karabakh Khanate. She was a very beautiful and respected woman, and she
+  composed poetry in Persian and Turkish. She was one of the exceptionally
+  prominent figures of the Qajar era.
 ---
 **Ağabəyim ağa** (*Ağabacı*) — azərbaycanlı şairə, Qarabağ xanlığının ikinci xanı İbrahimxəlil xanın qızı və Qacar şahı Fətəli şahın xanımı, bir digər məşhur şairə Xurşudbanu Natəvanın bibisi. Şeirlərini *Ağabacı* ləqəbi ilə yazmışdır.
 

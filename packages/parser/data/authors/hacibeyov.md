@@ -17,6 +17,16 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:%C3%9Czeyir_Hac%C4%B1b%C9%99yov_(1946).jpg
 portraitCredit: 'Naum Granovsky, 1946 · Public domain'
+bioEn: >-
+  Uzeyir bey Abdulhuseyn bey oghlu Hajibeyov (18 September 1885 – 23 November
+  1948) was an Azerbaijani composer, musicologist, and teacher. He is recognized
+  as the father of Azerbaijani classical music. He composed the music of the
+  national anthem of Azerbaijan Democratic Republic (which was re-adopted after
+  Azerbaijan regained its independence from the Soviet Union in 1991). Hajibeyov
+  also composed the anthem used by Azerbaijan during the Soviet period. He was
+  the first composer of an opera in the Islamic world. He composed the first
+  oriental opera Leyli and Majnun in 1908 and since then he is revered for
+  adapting the written masterpiece to the theatre.
 ---
 **Üzeyir bəy Əbdülhüseyn bəy oğlu Hacıbəyov** — Azərbaycan bəstəkarı, dirijor, musiqişünas, publisist, dramaturq, pedaqoq, ictimai xadim. SSRİ xalq artisti (1938). II dərəcəli iki "Stalin" mükafatı laureatı (1941, 1946). "Lenin" ordeni kavaleri (1938).
 

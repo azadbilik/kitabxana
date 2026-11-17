@@ -11,6 +11,59 @@ writingLangs:
   - AZ_LATIN
 status: DRAFT
 bioRu: "**Микаил Рзакулизаде** (настоящее имя **Микаил Манаф оглы Рзакулиев**; 1905, Баку — 1984, там же)\_— азербайджанский советский писатель, критик и переводчик.\n\nСвой творческий путь Рзакулизаде начал как критик и переводчик. Его перу принадлежат переводы на азербайджанский язык трагедий Еврипида, эстетических трудов Аристотеля, поэм и драм Александра Пушкина, стихов Тараса Шевченко и Генриха Гейне в Баку."
+bioEn: >-
+  **Mikayıl Manaf oğlu Rzaquluzadə** — prose writer, poet and translator, member
+  of the Azerbaijan Writers' Union from 1934, advanced educator of Azerbaijan
+  (1968), labor veteran (1976). In the thirties his literary pen names were
+  "Mim-Re", "M.R.", "R. Mikayıl", and later "M. Rzaquluzadə".
+
+
+  Mikayıl Rzaquluzadə was born on 17 March 1905 in the city of Baku. He received
+  his primary education at the new-method school "Mədrəsəyi-nur" and at a
+  mollakhana (1912-1913). He prepared at the new-method Russian-Muslim school
+  no. 5 and with a private teacher, and entered the Baku commercial school. In
+  1917-1918 the Baku First Realschule was nationalized and took the name
+  "Edadi"; when Soviet power was established in Azerbaijan, that school became a
+  second-grade Soviet labor school and then the "A. Şaiq Model School" under the
+  First Azerbaijan Higher Pedagogical Institute. While in the final class of
+  that school he took an external examination and entered the history faculty of
+  the Higher Pedagogical Institute. In parallel throughout his studies he worked
+  as a liaison officer at the Azerbaijan military-naval commissariat
+  (1920-1921), a journalist at the Baku provincial military commissariat
+  (1922-1923), a librarian at the Sabir library and the libraries of the
+  workers' districts in Baku, head of the collection department at the Baku
+  central library, and deputy head and head of the pedagogical institute library
+  (1926-1927). After graduating he worked as a teacher of literature and of
+  pedagogy and psychology at the Ganja pedagogical technical school and also at
+  its workers' faculty (1927-1931). During this period he was engaged in public
+  work, including as head of the literature circle at the Ganja teachers' house,
+  member of the editorial board of the journal "Qızıl Gəncə" and member of the
+  bureau of the Ganja branch of the Azerbaijan Union of Proletarian Writers. He
+  studied as a postgraduate at the Pedagogical Psychology-Pedology Research
+  Institute at the Second State University in Moscow (1931-1934). At the same
+  time he worked as a translator at the Azerbaijan branch of the publishing
+  house of laws and decrees under the Council of People's Commissars of the USSR
+  and as a teacher of literature at stenography courses. In Baku he was a
+  researcher in the field of children's literature at the Azerbaijan State
+  Research Pedagogy Institute, a translator and editor at Azərnəşr, and, with
+  short interruptions, executive secretary of the editorial office of the
+  journal "İnqilab və mədəniyyət", chief editor at the "Azərbaycanfilm" film
+  studio and at the Society for Cultural Relations with Foreign Countries, and
+  deputy chief editor of the editorial office of the journal "Azərbaycan". He
+  began his literary activity in 1923 with the poem "Müəllim" in the booklet
+  "Abdulla Şaiq". His first article was published in 1926 in the journal "Maarif
+  işçisi" under the title "Cocuq ədəbiyyatında üsul məsələsi". Although he wrote
+  on various subjects, from 1945 onward he intended all his books for children
+  and young people. Literary translation held a large place in his work. He
+  translated from the literature of the world and of the peoples of the former
+  USSR. He was a member of the editorial boards of the "Gənclik" publishing
+  house, of the journals "Göyərçin" and "İnqilab və mədəniyyət" (later
+  "Azərbaycan"), of the editorial board of the "Explanatory Dictionary of the
+  Azerbaijani Language", and of the admissions commission of the Azerbaijan
+  Writers' Union. For his services in literature he was awarded two medals and,
+  three times, the Certificate of Honor of the Presidium of the Supreme Soviet
+  of the Azerbaijan Republic. He was also awarded honorary certificates by the
+  Ministry of Culture of the Chuvash SSR and other organizations.
 ---
 **Mikayıl Manaf oğlu Rzaquluzadə** — nasir, şair, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycanın qabaqcıl maarif xadimi (1968), əmək veteranı (1976). Ədəbi təxəllüsü otuzuncu illərdə "Mim-Re", "M.R.", "R. Mikayıl", sonralar "M. Rzaquluzadə" olmuşdur.
 

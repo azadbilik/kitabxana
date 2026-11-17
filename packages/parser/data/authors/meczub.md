@@ -11,6 +11,27 @@ period: XVII əsr
 writingLangs:
   - FA
 status: DRAFT
+bioEn: >-
+  **Majzub Tabrizi** — poet.
+
+
+  About Sharafaddin Mirza Mohammad Majzub Tabrizi, Valigulu bey Shamlu writes in
+  his tazkira «Qisəsi-Xaqani»: "He is originally from Tabriz. He is a great
+  master of the art of poetry. He has a full share of the feast of the bounty of
+  virtue. Being very eloquent and rhetorical, he is the ghazal-singing
+  nightingale of the rose garden and orchard of verse and prose. In the ghazal
+  he declares that he follows the path of Khwaja Hafez Shirazi. He has a
+  *masnavi* of about three thousand couplets called «Şahrahi-nicat». The number
+  of his collected couplets exceeds ten thousand." The date of Majzub's birth is
+  unknown. It is clear from a rubai that he died in 1682. Mohammadali Tarbiyat
+  reports in his «Danişməndani-Azərbaycan» that the poet wrote the *masnavi*
+  «Şahrahi-nicat» («The Way of Salvation») of three thousand couplets in 1655,
+  and dedicated to Shah Suleyman Safavi (1666-1694) the versified treatise
+  «Təyidat» («Confirmed Opinions») of three hundred and fourteen stanzas, which
+  he finished in 1677. This work is devoted to *tawhid*, to the hadiths
+  confirming the imamate, and to praise of the twelve imams. Besides these, the
+  poet also has a Persian *divani* of four thousand couplets consisting of
+  qasidas, ghazals, *mukhammas*, tarjibands, saqinamas and rubais.
 ---
 **Məczub Təbrizi** — şair.
 

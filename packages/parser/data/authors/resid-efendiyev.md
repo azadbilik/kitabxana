@@ -16,6 +16,12 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Rashid_bey_Efendiyev.jpg/330px-Rashid_bey_Efendiyev.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Rashid_bey_Efendiyev.jpg'
 portraitCredit: 'Boris Kozak, 1900s · Public domain'
+bioEn: >-
+  Rashid bey Afandiyev (Azerbaijani: Rəşid bəy İsmayıl oğlu Əfəndiyev; 24 May
+  1863 – 31 August 1942) was an Azerbaijani educator, writer, ethnographer,
+  playwright and translator. He was one of the early Azerbaijani graduates of
+  the Transcaucasian Teachers Seminary and contributed to the development of
+  Azerbaijani textbooks, children's literature, drama and ethnographic studies.
 ---
 **Rəşid bəy Əfəndiyev** və ya **Rəşid bəy Əfəndizadə** — Azərbaycan maarif xadimi, yazıçı, etnoqraf, pedaqoq və metodist.
 

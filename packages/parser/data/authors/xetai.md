@@ -19,6 +19,29 @@ portraitSource: >-
 portraitCredit: 'Cristofano dell''Altissimo, 1552 · Public domain'
 bornYear: 1487
 diedYear: 1524
+bioEn: >-
+  Ismail I (Persian: اسماعیل یکم, romanized: Ismāʿīl; 17 July 1487 – 23 May
+  1524) was the founder and first shah of Safavid Iran, ruling from 1501 until
+  his death in 1524. His reign is one of the most vital in the history of Iran,
+  marking the beginning of Iran’s transformation from a majority Sunni Muslim
+  country into a majority Shia Muslim state through a policy of forced
+  conversion. The Safavid era is often considered the beginning of modern
+  Iranian history. Under Ismail, Iran was unified under native rule for the
+  first time since the Islamic conquest of the country eight-and-a-half
+  centuries earlier.
+
+
+  Ismail inherited leadership of the Safavid Sufi order from his brother as a
+  child. His predecessors had transformed the religious order into a military
+  movement supported by the Qizilbash (mainly Turkoman Shiite groups). The
+  Safavids took control of northwestern Iran, with Tabriz as the capital. In
+  1501, Ismail was crowned as shah (king). In the following years, Ismail
+  conquered the rest of Iran and other neighbouring territories. His expansion
+  into Eastern Anatolia brought him into conflict with the Ottoman Empire. In
+  1514, the Ottomans decisively defeated the Safavids at the Battle of
+  Chaldiran, which brought an end to Ismail's conquests. Ismail fell into
+  depression and heavy drinking after this defeat and died in 1524. He was
+  succeeded by his eldest son Tahmasp I.
 ---
 **Şah İsmayıl Səfəvi**, **I İsmayıl** və ya **Şah İsmayıl** (tam adı: *Əbül-Müzəffər İsmail ibn Heydər əs-Səfəvi*) — Səfəviyyə təriqətinin şeyxi (1494–1524); Səfəvilər dövlətinin banisi və ilk şahı; Azərbaycan şairi, Azərbaycan türklərinin piri. O, 1501-ci ilin iyul ayında Təbriz şəhərində özünü şah elan edib.
 

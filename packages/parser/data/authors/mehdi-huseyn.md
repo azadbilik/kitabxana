@@ -16,6 +16,11 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Mehdi_Huseyn.jpg/330px-Mehdi_Huseyn.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mehdi_Huseyn.jpg'
 portraitCredit: 'Unknown author, 1920s · Public domain'
+bioEn: >-
+  Mehdi Ali oglu Huseynov, better known by the pseudonym Mehdi Huseyn
+  (Azerbaijani: Mehdi Hüseyn; 17 April 1909 – 10 March 1965), was an Azerbaijani
+  and Soviet writer and critic, laureate of the State Stalin Prize of the third
+  degree (1950) and member of the All-Union Communist Party since 1941.
 ---
 **Mehdi Əli oğlu Hüseynov** — Azərbaycan yazıçısı, nasir, dramaturq, tənqidçi, Azərbaycan Sovet Yazıçıları İttifaqının sədri (1958–1965), Azərbaycan SSR xalq yazıçısı (1964), "Stalin" mükafatı laureatı (1950).
 

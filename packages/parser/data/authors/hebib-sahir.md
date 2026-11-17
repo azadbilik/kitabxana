@@ -17,6 +17,16 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/Habib_saher.JPG/330px-Habib_saher.JPG
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Habib_saher.JPG'
 portraitCredit: Arman Kashef · Public domain
+bioEn: >-
+  Habib Saher (Persian: حبیب ساهر, Azerbaijani: Həbib Sahir, b. 1903 in Mianeh,
+  Eastern Azerbaijan — d. 1988 in Tehran), was an Azerbaijani poet, writer,
+  translator and literary researcher. The founder of Turkish free poetry in
+  Iran.
+
+
+  Even after the establishment of the National Government of Azerbaijan, he
+  wrote the "Mother Language" textbook for schoolchildren. He wrote articles in
+  the press with signatures such as "Aydın", "Ülker", "Ağ".
 ---
 **Həbib Sahir** və ya **Mir Həbib Qəvami** ('''') — azərbaycanlı şair, yazıçı, tərcüməçi və ədəbiyyat tədqiqatçısı. İranda Azərbaycan türkcəsində sərbəst şeirin banisi.
 

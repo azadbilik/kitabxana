@@ -17,6 +17,20 @@ portraitCredit: 'Samral, 2015 · CC BY-SA 4.0'
 bornYear: 1470
 bornYearApprox: true
 diedYear: 1520
+bioEn: >-
+  Habibi (Azerbaijani: Həbibi, حبیبی; 1470–1519/1520) was a late 15th- and early
+  16th-century poet. He is regarded as the most important Azerbaijani poet of
+  his generation.
+
+
+  Habibi spent the early years of his life in the court of Aq Qoyunlu ruler
+  Yaqub Beg, where he began writing his first poems. In 1502, he became a
+  Safavid court poet, earning the title "king of poets" from Safavid king Ismail
+  I. His works were written in his native Azerbaijani language and dealt with
+  topics like love, alcohol, Hurufism and Sufism. He influenced major later
+  poets, including Fuzuli, and had a significant influence on the development of
+  Azerbaijani literature. Habibi spent his final years in Anatolia, where he
+  died in 1519 or 1520.
 ---
 Həbibi həyatının ilk illərini Ağqoyunlu hökmdarı Yaqub padşah sarayında keçirmiş və ilk şeirlərini burada yazmağa başlamışdır. O, 1502-ci ildə Səfəvi şahı I İsmayıl tərəfindən "şairlərin şahı" tituluna layiq görülmüş və beləliklə, Səfəvilər dövlətində saray şairi olmuşdur. Həbibi öz əsərlərini doğma Azərbaycan dilində yazmış, hürufilik və təsəvvüf kimi mövzulardan bəhs etmişdir. O, özündən sonrakı illərdə yazıb-yaratmış şairlərə, o cümlədən Füzuliyə ustadlıq etmiş, ümumi mənzərədə isə Azərbaycan ədəbiyyatının inkişafına mühüm təsir göstərmişdir. Həbibi ömrünün son illərini Anadoluda keçirmiş, 1519-cu və ya 1520-ci ildə vəfat etmişdir.
 

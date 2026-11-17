@@ -12,6 +12,19 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioRu: "**Али Назми** (настоящее имя\_— Али Мамедов; 1878\_— 4 января 1946 года)\_— азербайджанский советский поэт, литературный критик, переводчик, член Союза писателей СССР с 1934 года.\n\nПервое стихотворение «Начало деревушке» было опубликовано в 1904 году. Печатался под псевдонимом Сижимгулу."
+bioEn: >-
+  Ali Nazmi (Azerbaijani: Əli Nəzmi, pen name of Ali Mammadzadeh (Əli
+  Məmmədzadə), 1878, Sarov–January 1, 1946, Baku) was an Azerbaijani poet, a
+  representative of the 20th-century Azerbaijani realism and successor of Mirza
+  Alakbar Sabir. Nazmi was the first translator of Shakespeare's King Lear into
+  Azerbaijani.
+
+
+  Nazmi's first poem A Start to the Village was published in 1904. In 1926-1931
+  Nazmi was a secretary of Molla Nasraddin magazine. During the Soviet-German
+  War he wrote several satires: Hitler's Union with Devil, Wolf's Protest
+  Against God, My Homeland and others. Nazmi strived for the purity of
+  Azerbaijani language against Pan-Turkists and Panislamists.
 ---
 **Məmmədzadə Əli Məhəmməd oğlu** (*Əli Nəzmi*) – şair, ədəbiyyatşünas, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü.
 

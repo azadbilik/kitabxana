@@ -16,6 +16,9 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Mirvarid_Dilbazi.jpg/330px-Mirvarid_Dilbazi.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mirvarid_Dilbazi.jpg'
 portraitCredit: 'Tahmasib, 2001 · CC BY-SA 4.0'
+bioEn: >-
+  Mirvarid Dilbazi (Azerbaijani: Mirvarid Paşa qızı Dilbazi), (19 August 1912,
+  Xanlıqlar, Azerbaijan – 12 July 2001, Baku) was an Azerbaijani poet.
 ---
 **Mirvarid Paşa qızı Dilbazi** — azərbaycanlı şairə, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR ilk xalq şairəsi (1979), Azərbaycan SSR Dövlət mükafatı laureatı (1986). "Şərəf Nişanı" (iki dəfə), "Qırmızı Əmək Bayrağı" və "İstiqlal" (1997) ordenləri ilə təltif olunub.
 

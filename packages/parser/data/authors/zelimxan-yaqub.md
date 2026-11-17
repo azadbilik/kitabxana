@@ -16,6 +16,11 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Z%C9%99limxan_Yaqub.JPG/330px-Z%C9%99limxan_Yaqub.JPG
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Z%C9%99limxan_Yaqub.JPG'
 portraitCredit: 'Araz Yaquboglu, 2013 · CC BY-SA 4.0'
+bioEn: >-
+  Zelimkhan Yaqub (Azerbaijani: Zəlimxan Yaqub; 21 January 1950 – 9 January
+  2016) was an Azerbaijani Turkish poet and also politician. He served as deputy
+  of the National Assembly of Azerbaijan from 1995 to 2005. He was also named
+  the national poet of Azerbaijan in 2005.
 ---
 **Zəlimxan Yaqub** (*Zəlimxan Yusif oğlu Yaqubov*) — Azərbaycanın xalq şairi (2005), ictimai xadim. Azərbaycan Respublikasının Milli Məclisinin deputatı (2000–2005)
 

@@ -17,6 +17,13 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:%C6%8Fbd%C3%BCrr%C9%99hman_b%C9%99y_F%C9%99t%C9%99lib%C9%99yli_1940-c%C4%B1_ill%C9%99r_(33).jpg
 portraitCredit: 'Unknown author, 1940s · Public domain'
+bioEn: >-
+  Abdurrahman Fatalibeyli (birth surname Dudanginski, (Russian: Абдулрахман
+  Фаталибейли-Дудангинский, Azerbaijani: Əbdürrəhman bəy
+  Fətəlibəyli-Düdənginski) or Abo Alioglu Fatalibeyli-Dudanginsky Або Алиевич
+  Дудангинский / Əbo Əliyeviç Düdənginski), born Abo Dudanginski (12 June 1908 –
+  22 November 1954), was a Soviet army major who defected to the German forces
+  during World War II.
 ---
 **Əbdürrəhman bəy Fətəlibəyli, Fətəlibəyli** **Düdənginski** və ya **Abo Düdənginski** — azərbaycanlı hərbçi, siyasətçi, siyasi mühacir.
 

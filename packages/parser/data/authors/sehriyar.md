@@ -18,6 +18,16 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Shahriar.jpg/330px-Shahriar.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Shahriar.jpg'
 portraitCredit: Unknown author · Public domain
+bioEn: >-
+  Seyyed Mohammad-Hossein Behjat Tabrizi (Persian: سید محمدحسین بهجت تبریزی,
+  romanized: Seyyed Moḥammad Ḥoseyn Behjat Tabrīzī; 2 January 1906 – 18
+  September 1988), known by his pen name Shahriar, was an Iranian poet who
+  composed works in both Azerbaijani and Persian.
+
+
+  His most important work, Heydar Babaya Salam, is considered to be the pinnacle
+  of Azerbaijani literature which gained great popularity in the Turkic world
+  and was translated to more than 30 languages.
 ---
 **Məhəmmədhüseyn Şəhriyar** (tam adı: **Seyid Məhəmmədhüseyn Behcəti Təbrizi)** — daha çox Şəhriyar təxəllüsü ilə tanınan və milliyətcə azərbaycanlı olan şair.
 

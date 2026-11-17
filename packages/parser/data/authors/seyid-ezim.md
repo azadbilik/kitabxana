@@ -16,6 +16,15 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Seyid_Azim_Shirvani.jpg
 portraitCredit: Unknown author · Public domain
 bornYear: 1835
 diedYear: 1888
+bioEn: >-
+  Seyid Azim Shirvani (Azerbaijani: Seyid Əzim Şirvani; 9 July 1835, Shamakhy –
+  1 June 1888, Shamakhy) was an Azerbaijani poet and enlightener. He got his
+  first religious education in Iraq. After returning to motherland he refused
+  his spiritual dignity and opened a private school. Seyid Azim Shirvani
+  continued Fuzûlî’s traditions in his love-lyrical poems. In his satirical
+  poems and fables Seyid Azim Shirvani ridiculed priesthood, opposed
+  backwardness and ignorance, called to enlightenment and culture. Contemporary
+  poets consider him their teacher.
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Seyid Əzim Şirvani Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

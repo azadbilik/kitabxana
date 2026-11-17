@@ -18,6 +18,20 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Karacao%C4%9Flan.jpg/330px-Karacao%C4%9Flan.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Karacao%C4%9Flan.jpg'
 portraitCredit: 'Vikiçizer, 2006 · CC BY-SA 4.0'
+bioEn: >-
+  Karacaoğlan was a 17th-century Anatolian Turkish folk poet and ashik. His
+  exact dates of birth and death are unknown but it is widely accepted that he
+  was born around 1606 and died around 1679. He lived around the city of
+  Osmaniye. His tomb, which was organized as a mausoleum in 1997, is at
+  Karacaoğlan hill in the village of Karacaoğlan, Mut, Mersin. In this regard,
+  he was the first known folk poet and ashik whose statue was built.
+
+
+  His poetry gave a vivid picture of nature and village life in Anatolian
+  settlements. This kind of folk poetry, as distinct from the poetry of the
+  Ottoman palace, was emphasized after the foundation of the Republic of Turkey
+  in 1923 and became an important influence on modern lyric poetry, with
+  Karacaoğlan being its foremost exponent.
 ---
 **Qaracaoğlan** — Anadolu türk aşığı.
 

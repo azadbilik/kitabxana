@@ -16,6 +16,12 @@ bioRu: >-
   **Кязым-ага Салик** (1781, Икинджи Шихлы, Казахский султанат — 1842, Икинджи
   Шихлы, Грузинская губерния, Российская империя) — азербайджанский поэт, брат
   Мустафа-ага Арифа.
+bioEn: >-
+  Kazim agha Salik (Azerbaijan: Kazım ağa Salik; 1781 in İkinci Şıxlı, Kazakh
+  sultanate – 1842 in İkinci Şıxlı, Georgia Governorate, Russian Empire) was an
+  Azerbaijani poet, brother of Mustafa agha Arif and member of Shikhlinskis
+  noble family. His brother Mustafa agha Arif was the last sultan of Kazakh
+  sultanate.
 ---
 **Kazım ağa Salik** — Azərbaycan  şairi.
 

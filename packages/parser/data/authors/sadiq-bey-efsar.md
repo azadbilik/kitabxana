@@ -12,6 +12,14 @@ writingLangs:
   - AZ_ARABIC
   - FA
 status: DRAFT
+bioEn: >-
+  Sadiqi Beg (Persian: صادقی بیگ; c. 1533 – 1610), also referred to as Sadiqi
+  Beg Afshar (صادقی بیگ افشار) was a Persian painter, poet, biographer,
+  draftsman, soldier, and miniaturist of the Safavid era. Born in Tabriz in
+  about 1533, he spent a number of years as a wandering dervish before settling
+  in Qazvin where he occupied several positions in the royal court. Ultimately,
+  he was dismissed from a post in the royal library in 1596, and he spent his
+  final years focused on his own writing before his death in Isfahan in 1610.
 ---
 **Sadıq bəy Sadiqi** — sərkərdə, təzkirəçi, şair, miniatür rəssam.
 

@@ -21,6 +21,15 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Hac%C4%B1_Rza_S%C9%99rraf_T%C9%99brizi.jpg
 portraitCredit: Unknown author · CC0
+bioEn: >-
+  **Haji Reza Sarraf**, **Haji Reza Sarraf Tabrizi** — a poet who wrote ghazals
+  and *marsiya*.
+
+
+  The basis of the poet's work consists of verse works of the ghazal and
+  *marsiya* type. By the strength of the works he produced in this field, the
+  poet held a distinctive place among Turkic-language poets living and writing
+  in Iran at the end of the 19th and beginning of the 20th century.
 ---
 **Hacı Rza Sərraf**, **Hacı Rza Sərraf Təbrizi** — qəzəl və mərsiyə yazan şair.
 

@@ -16,6 +16,11 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Firidun_bey_Kocharli.jpg/330px-Firidun_bey_Kocharli.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Firidun_bey_Kocharli.jpg'
 portraitCredit: 'Boris Kozak, 1917 · Public domain'
+bioEn: >-
+  Firidun bey Ahmad bey oglu Kocharli or Kocharlinski (Azerbaijani: Firidun bəy
+  Köçərli; Russian: Фиридун-бек Кочарлинский or Кочарли) (26 January 1863, in
+  Shusha – 1920, in Ganja) was a prominent Azerbaijani writer, philologist, and
+  literary critic.
 ---
 **Firidun bəy Köçərli** — Azərbaycan maarifçisi, pedaqoq, metodist, ədəbiyyatşünas, publisist, Azərbaycan ədəbiyyat tarixçiliyi elminin banisi.
 

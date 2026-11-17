@@ -16,6 +16,15 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Stamps_of_Azerbaijan%2C_2000-582.jpg/330px-Stamps_of_Azerbaijan%2C_2000-582.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Stamps_of_Azerbaijan,_2000-582.jpg'
 portraitCredit: 'Post of Azerbaijan, 2000 · Public domain'
+bioEn: >-
+  **Mahmudov Sabit Karim oglu (Sabit Rahman)** — Azerbaijani writer and
+  playwright, Honored Art Worker of the Azerbaijan SSR (1943).
+
+
+  Sabit Rahman was born on 26 March 1910 in Shaki (then Nukha). He began his
+  literary activity in 1926–1927 with feuilletons published in the magazine
+  Molla Nasreddin. His first collection of stories, "Pozğun", was published in
+  1931. He is the author of many stories and plays.
 ---
 **Mahmudov Sabit Kərim oğlu (Sabit Rəhman)** — Azərbaycan yazıçısı, dramaturq, Azərbaycan SSR əməkdar incəsənət xadimi (1943).
 

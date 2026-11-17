@@ -32,6 +32,20 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Mirza_Shafi_Vazeh_1850.
 portraitCredit: 'Bodenstedt, 1850 · Public domain'
 bornYear: 1794
 diedYear: 1852
+bioEn: >-
+  Mirza Shafi Vazeh (Azerbaijani: Mirzə Şəfi Vazeh; میرزا شفیع واضح; c. 1800 –
+  16 November 1852) was an Azerbaijani poet and teacher. Under the pseudonym
+  "Vazeh", which means "expressive, clear", he wrote in both Azerbaijani and
+  Persian, developing the traditions of poetry in both languages. He compiled
+  the first anthology of Azerbaijani poetry and a Tatar-Russian dictionary for
+  the Tiflis gymnasium with Russian teacher Ivan Grigoriev.
+
+
+  He wrote multiple ghazals, mukhammases, mathnawis and rubais. His poems are
+  mostly intimate, lyrical and satirical. The main theme of Vazeh's works is the
+  glorification of romantic love and the joy of life, but in some of his poems,
+  he denounces the vices of feudal society and opposes slavery and religious
+  fanaticism.
 ---
 Mirzə Şəfi çoxlu qəzəlllər, müxəmməslər, məsnəvilər, rübailər və s. yazmışdır. Onun şeirləri intim-lirik və satirik xarakteri daşıyırdı. Bundan başqa Vazeh poeziya tipli "Müdriklik dərnəyi"nin başında dayanırdı. Vazehin əsərlərinin əsas mövzusu romantik sevginin tərənnümü və həyatın nəşəsidi, amma bəzi şeirlərində Mirzə Şəfi feodal cəmiyyətinin eyiblərini göstərir, köləlik şəxsiyyətlik və dini fanatizmin əleyhinə çıxış edir.
 

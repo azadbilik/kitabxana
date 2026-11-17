@@ -19,6 +19,20 @@ portraitSource: >-
 portraitCredit: Unknown author · Public domain
 bornYear: 1812
 diedYear: 1878
+bioEn: >-
+  Mirza Fatali Akhundov, also known as Mirza Fatali Akhundzade, or Mirza
+  Fath-Ali Akhundzadeh (12 July 1812 – 9 March 1878), was a celebrated Iranian
+  Azerbaijani author, playwright, atheist, philosopher, and literary critic who
+  lived most of his life in the Russian Empire. He became famous mainly for his
+  European-inspired plays written in Azerbaijani.
+
+
+  Akhundzade singlehandedly opened a new stage of development of Azerbaijani
+  literature. Through Persian translation, his plays also played an important
+  role in the birth of modern Iranian theater. He was also the founder of the
+  materialist and atheist movement in the Republic of Azerbaijan and one of the
+  forerunners of modern Iranian nationalism. He also advocated switching the
+  Azerbaijani writing system from the Perso-Arabic script to the Latin alphabet.
 ---
 **Mirzə Fətəli Axundov** (tam adı: *Mirzə Fətəli Məhəmmədtağı oğlu Axundov*) və ya **Mirzə Fətəli Axundzadə** — Azərbaycan dramaturqu, maarifçi, şair, materialist filosof və ictimai xadim; Azərbaycan dramaturgiyası və ədəbiyyatında ədəbi tənqidin banisi. "Müsəlman Molyer" kimi tanınan Axundov həm də romantik və müasir İran millətçiliyinin sələflərindən biri idi.
 

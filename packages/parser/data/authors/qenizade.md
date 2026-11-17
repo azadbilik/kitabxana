@@ -16,6 +16,13 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Sultan_Majid_Ganizade.jpg/330px-Sultan_Majid_Ganizade.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Sultan_Majid_Ganizade.jpg'
 portraitCredit: Unknown author · Public domain
+bioEn: >-
+  Sultan Majid Ganizade (Azerbaijani: Sultan Məcid Murtuzəli oğlu Qənizadə; 1866
+  – 22 March 1938) was an Azerbaijani writer, educator, playwright, theatre
+  figure, translator, and politician. He was active in the educational and
+  cultural life of Azerbaijan, served as a deputy of the Parliament of the
+  Azerbaijan Democratic Republic, and was later a theorist of public education
+  in Soviet Azerbaijan.
 ---
 **Sultan Məcid Murtuzəli oğlu Qənizadə** — Azərbaycanın tanınmış maarif xadimi, müəllim, yazıçı, tərcüməçi, jurnalist, bir sıra lüğətlər, dərsliklər, bədii əsərlər, felyetonlar müəllifi.
 

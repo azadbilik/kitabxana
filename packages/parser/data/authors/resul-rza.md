@@ -26,6 +26,12 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/R%C9%99sul_Rza.jpg/330px-R%C9%99sul_Rza.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:R%C9%99sul_Rza.jpg'
 portraitCredit: 'Владимир Савостьянов, 1954 · Public domain'
+bioEn: >-
+  Rasul Rza (real name Rasul Ibrahim oghlu Rzayev – Azerbaijani: Rəsul İbrahim
+  oğlu Rzayev) (1910 – 1981 in Baku), was an Azerbaijani writer, Hero of
+  Socialist Labour (1980), People's Poet of Azerbaijan, Laureate of Soviet State
+  Award and the Chairman of the Writers' Union of Azerbaijan. He was the husband
+  of Azerbaijani writer Nigar Rafibeyli and the father of writer Anar Rzayev.
 ---
 **Rəsul Rza** (tam adı: *Rəsul İbrahim oğlu Rzayev*) — Azərbaycan şairi, dramaturq, tərcüməçi, ictimai xadim, 1934-cü ildən Azərbaycan Yazıçılar İttifaqının üzvü, Sosialist Əməyi Qəhrəmanı (1980), Azərbaycan SSR xalq şairi (1960), Stalin mükafatı laureatı (1951).
 

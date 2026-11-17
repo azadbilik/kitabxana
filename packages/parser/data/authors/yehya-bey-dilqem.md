@@ -15,6 +15,17 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Asiq_Dilqem_Semkirli.jpg/330px-Asiq_Dilqem_Semkirli.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Asiq_Dilqem_Semkirli.jpg'
 portraitCredit: Rashad Tahiroghlu · CC0
+bioEn: >-
+  **Yahya Beg Dilgam** — Azerbaijani ashik.
+
+
+  The literary legacy he left, and the "Dilgam" *dastan* tied to his life, make
+  it possible to learn some information about the ashik. Research shows that he
+  began creating very early. As both a performer and a creator, his saz and his
+  word always complemented each other. The sorrowful ashik mostly recited his
+  own poems at gatherings, and in this way conveyed his complaints about his
+  bitter fate to the people. His "Dilgami", which has very difficult strokes,
+  rich ornaments and weighty turns, is one of the most valuable saz melodies.
 ---
 **Yəhya Bəy Dilqəm** — azərbaycanlı aşıq.
 

@@ -15,6 +15,12 @@ bioRu: "**Сулейман Сани Рзагулу бек оглы Ахундо�
 portraitUrl: 'https://upload.wikimedia.org/wikipedia/commons/a/aa/Suleyman_Sani_Akhundov.jpg'
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Suleyman_Sani_Akhundov.jpg'
 portraitCredit: 'Unknown author, 1920s · Public domain'
+bioEn: >-
+  Suleyman Sani Rzagulu bey oghlu Akhundov (Azerbaijani: Süleyman Sani Rzaqulu
+  bəy oğlu Axundov; 3 October 1875 – 29 March 1939), was an Azerbaijani
+  playwright, journalist, author, and teacher. He chose the name Sani (Arabic
+  for "the second") to distinguish himself from his namesake, Mirza Fatali
+  Akhundov.
 ---
 **Süleyman Sani Axundov** – Azərbaycan dramaturqu, nasir, maarif xadimi, Əmək Qəhrəmanı (1932). Ədəbiyyatda həmsoyadı Mirzə Fətəli Axundovdan fərqlənmək üçün ərəbcə "ikinci" mənasını daşıyan "sani" sözünü özünə ləqəb götürmüşdür.
 

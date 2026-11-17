@@ -17,6 +17,20 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Mammad_Said_Ordubadi.jpg/330px-Mammad_Said_Ordubadi.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mammad_Said_Ordubadi.jpg'
 portraitCredit: 'Unknown author, 1920s · Public domain'
+bioEn: >-
+  Mammad Said Ordubadi (Azerbaijani: Məmməd Səid Ordubadi; 24 March 1872 – 1 May
+  1950) was an Azerbaijani writer, poet, playwright and journalist.
+
+
+  Ordubadi started his career as a poet. His articles and poetry were published
+  in many of the Azerbaijani-language magazines of the time. During the Iranian
+  Constitutional Revolution, Ordubadi joined the Muslim Social Democratic Party
+  (Hummet). In 1911, he published Years of Blood, a collection of firsthand
+  accounts of the clashes between Armenians and Azerbaijanis in 1905. In 1918,
+  he joined the Communist Party, and his articles were published in the official
+  newspaper of the Hummet Party. Along with the 11th Red Army, he went to
+  Dagestan and published the journal Red Dagestan magazine there. He returned to
+  Baku after the Sovietization of Azerbaijan.
 ---
 **Məmməd Səid Hacı Fəqir oğlu Ordubadi** — azərbaycanlı nasir, şair, dramaturq, jurnalist, publisist və tərcüməçi. Azərbaycanın Əməkdar İncəsənət xadimi (1938). "Qılınc və qələm" (1946–1948), "Dumanlı Təbriz" (1933–1948), "Gizli Bakı" (1940), "Döyüşən şəhər" (1938) kimi tarixi romanlarının müəlifidir.
 

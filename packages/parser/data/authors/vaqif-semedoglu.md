@@ -12,6 +12,11 @@ writingLangs:
   - AZ_LATIN
 status: DRAFT
 bioRu: "**Вагиф Самедоглу** (настоящая фамилия **Векилов**; 5 июня 1939, Баку\_— 28 января 2015, там же)\_— азербайджанский поэт, сценарист и драматург, член жюри Национальной книжной премии Азербайджана, заслуженный деятель искусств Азербайджанской ССР (1989), народный поэт Азербайджана (1999), лауреат премии «Хумай». Награждён орденом Честь (Шараф) за активное участие в культурной и общественно-политической жизни Азербайджана., также орденом Шохрет. В 2014 году награждён орденом «Независимость»."
+bioEn: >-
+  Vagif Samadoghlu (Azerbaijani: Vaqif Səmədoğlu, 5 June 1939 – 28 January 2015)
+  was an Azerbaijani poet, playwright, publicist, People's Poet of the Republic
+  of Azerbaijan, and Deputy of the National Assembly of the Republic of
+  Azerbaijan.
 ---
 **Vaqif Səmədoğlu** (Vaqif Səməd oğlu Vəkilov) — şair, dramaturq, publisist, Azərbaycan Yazıçılar Birliyinin üzvü (1970), Azərbaycan SSR əməkdar incəsənət xadimi (1989), Azərbaycanın xalq şairi (1999), Azərbaycan Respublikası Milli Məclisinin II və III çağırış deputatı.
 

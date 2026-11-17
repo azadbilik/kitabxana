@@ -177,6 +177,7 @@ export interface ScrapedAuthor {
   writingLangs: Language[];
   bioAz?: string;
   bioRu?: string;
+  bioEn?: string;
   portraitUrl?: string;
   portraitSource?: string;
 }

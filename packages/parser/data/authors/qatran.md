@@ -30,6 +30,13 @@ bornYear: 1009
 bornYearApprox: true
 diedYear: 1072
 diedYearApprox: true
+bioEn: >-
+  Qatran Tabrizi (Persian: قطران تبریزی; 1009–1014 – after 1088) was a Persian
+  writer, who is considered to have been one of the leading poets in
+  11th-century Iran. A native of the northwestern region of Azarbaijan, he spent
+  all of his life there as well as in the neighbouring region of Transcaucasia,
+  mainly serving as a court poet under the local dynasties of the Rawadids and
+  Shaddadids.
 ---
 XI əsrdə yaşamış Qətran Təbrizinin (1012–1081) ana dili fars dili olmuşdur. Onun bizə gəlib çatmış "Divan"ı əsas etibarilə dövrün hökmdarlarına yazılmış mədhiyyə-qəsidələrdən ibarətdir. Bizə gəlib çatmamış əsərləri arasına "Təfasir fil-lüğətil-fürs" (Fars dilinin izahlı lüğəti), "Qövsnamə" (və ya Quşnamə) və "Vamiq və Əzra" əsərləri daxildir.
 

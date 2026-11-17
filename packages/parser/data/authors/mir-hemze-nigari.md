@@ -13,6 +13,15 @@ writingLangs:
   - AZ_ARABIC
   - FA
 status: DRAFT
+bioEn: >-
+  Mir Hamza Seyyid Nigari (Mir Həmzə Seyyid Nigari; c. 1805 – September 1886),
+  widely known by his pen name Nigari, was an Azerbaijani Naqshbandi Sufi
+  sheikh, poet, and mystic of the nineteenth century. Born in the Karabakh
+  region of the Caucasus, he became the most prominent disciple of Ismail
+  Sirajuddin Shirvani in Anatolia and the founder of the Karabakh branch of the
+  Khalidiyya order. He is regarded as one of the most significant mystical poets
+  writing in the Azerbaijani and Persian traditions of his era, and remains
+  venerated in both Azerbaijan and eastern Anatolia to this day.
 ---
 **Mir Həmzə Nigari** — Sufi şairi, təsəvvüf alimi.
 

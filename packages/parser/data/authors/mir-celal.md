@@ -12,6 +12,11 @@ writingLangs:
   - AZ_LATIN
 status: DRAFT
 bioRu: "**Мир Джалал Али оглы Пашаев** (26 апреля 1908 — 28 сентября 1978)\_— азербайджанский писатель, учёный-литературовед, доктор филологических наук (1947), профессор (1948), заслуженный деятель науки Азербайджанской ССР (1969). Автор сатирико-юмористических произведений, романов, новелл, литературный критик.\n\nВ 1930 году поступил на литературное отделение Восточно-педагогического института в город Казань (Автономная Татарская ССР, РСФСР). По возвращении в Азербайджан поступил в аспирантуру Азербайджанского государственного научно-исследовательского института в Баку."
+bioEn: >-
+  Mir Jalal Pashayev (Azerbaijani: Mir Cəlal Paşayev; 26 April 1908, Ardabil –
+  28 September 1978, Baku), known by his literary pen-name Mir Jalal, was an
+  Iranian-Azerbaijanian writer and literary critic. He was the grandfather of
+  Azerbaijan's current First Lady Mehriban Aliyeva.
 ---
 **Mir Cəlal** — yazıçı, ədəbiyyatşünas, filologiya elmləri doktoru (1947), professor (1948), 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR əməkdar elm xadimi (1969), laureatı (1968).
 

@@ -16,6 +16,24 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Abdurrahim_bey_Hagverdi
 portraitCredit: 'Unknown author, 1933 · Public domain'
 bornYear: 1870
 diedYear: 1933
+bioEn: >-
+  Abdurrahim bey Asad bey oglu Hagverdiyev (Azerbaijani: Əbdürrəhim bəy
+  Haqverdiyev) (17 May 1870 – 11 December 1933) was an Azerbaijani writer,
+  playwright, public and political figure, educator, literary scholar, and
+  Honored Art Worker of the Azerbaijan SSR (1929), Abdurrahim bey Hagverdiyev is
+  considered a classic of Azerbaijani literature. He was a deputy in the First
+  Russian Duma, a member of the Georgian Parliament, the first conductor at the
+  premiere of Leyli and Majnun, founder and first head of the Theatre Council,
+  and a contributor to the Molla Nasreddin journal.
+
+
+  Active during the late 19th and early 20th centuries, Hagverdiyev continued
+  the literary traditions of Mirza Fatali Akhundov and Najaf bey Vazirov. He
+  contributed to the development of national literature through his satirical
+  and psychological dramas, addressing social and moral issues of his time. His
+  notable plays include The Broken Union (Dağılan tifaq), Greedy Scholars (Ac
+  həriflər), Unlucky Young Man (Bəxtsiz cavan), and The Fairy Magic (Pəri cadu),
+  marked by satire and critical depictions of daily life.
 ---
 Əbdürrəhim bəy Haqverdiyev XIX əsrin sonu – XX əsrin əvvəllərində ədəbi-mədəni mühitin aparıcı simalarından biri olmuşdur. Mirzə Fətəli Axundzadə və Nəcəf bəy Vəzirovun yaradıcılıq ənənələrini davam etdirən Haqverdiyev eyni zamanda satirik və psixoloji dram janrlarında yazdığı əsərlərlə milli ədəbiyyatın inkişafına töhfə vermişdir.
 

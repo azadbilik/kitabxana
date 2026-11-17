@@ -12,6 +12,10 @@ writingLangs:
   - AZ_LATIN
 status: DRAFT
 bioRu: "**Али Кeрим** (1931—1969)\_— азербайджанский поэт и переводчик. Член союза писателей Азербайджана.\n\nЛитературный дебют состоялся в 1948\_году, когда в газете «Пионер Азербайджана» было опубликовано его стихотворение «Новый учитель». В 1954\_году становится членом Союза писателей Азербайджана. В 1957\_году поэма Керимова «Первая симфония» получила награду на VI Всемирном фестивале молодежи и студентов в Москве. Его первая книга «Двое влюблённых» вышла в Москве на русском языке в 1958\_году."
+bioEn: >-
+  Ali Kerim (Azerbaijani: Əli Kərim) (18 March 1931, in Goychay – 30 June 1969,
+  in Baku) was a 20th-century poet and translator from Azerbaijan and a member
+  of the Azerbaijan Writers Union.
 ---
 **Əli Kərim** (tam adı: *Kərimov Əli Paşa oğlu*) — azərbaycanlı şair, tərcüməçi, 1954-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü.
 

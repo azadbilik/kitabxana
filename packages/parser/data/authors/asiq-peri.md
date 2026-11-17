@@ -12,6 +12,30 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioRu: "Отец Пери\_— Гаджи Саяд занимался мелкой торговлей, из-за чего был прозван местными жителями Таджиром Гаджи Саядом. Мать\_— Гюлистан Ханум была прогрессивной женщиной своего времени и не препятствовала дочери получить образование.\n\nСостязалась в импровизации стихов с азербайджанским поэтом Мирза-Джан Мадатовым."
+bioEn: >-
+  Ashiq Peri (Azerbaijani: Aşıq Pəri, عاشیق پری; c. 1811 – c. 1848) was a
+  19th-century ashiq (folk poet), regarded as the first prominent female
+  Azerbaijani ashiq. Her poetry primarily consisted of verbal poetic duels,
+  where she used various folk forms in Azerbaijani. Born in 1811 in the village
+  of Maralyan in the Karabakh Khanate (now in the Jabrayil District of
+  Azerbaijan), she began writing poetry as a child and later moved to Shusha,
+  the capital of the Karabakh Khanate. She often participated in local poetry
+  contests, competing against and defeating her male counterparts, and
+  eventually becoming the first renowned female ashiq in the region. She died
+  young under unknown circumstances.
+
+
+  The main themes in Peri's work are love, the objection to injustices, and the
+  expression of suffering and longing. She employs simple and direct language in
+  her poetry. Being the only female in her artistic collective, she often
+  adopted a playful, mocking tone towards her fellow collective members and
+  conveyed an impression of command and competence. Her poetry is notable for
+  its spirited defence of her independence, using the established structure of
+  the ashiq verbal contest to broaden her expressive potential as a woman. She
+  has been described as "a model of a strong, independent woman from within
+  Azerbaijani culture" because, in her duels with male counterparts, she
+  rebuffed their advances while maintaining her honour and modesty, always
+  performing solo without requiring a man's guardianship.
 ---
 **Aşıq Pəri** — Azərbaycan aşıq-şairi.
 

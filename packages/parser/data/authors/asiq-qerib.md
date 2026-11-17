@@ -9,6 +9,16 @@ period: XVI–XVII əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Ashiq Garib** — ashik, poet.
+
+
+  The story of Ashik Garib tells that he was the son of a merchant from Tabriz.
+  After his father's death, being young and inexperienced, he loses all his
+  wealth. Leaving his mother and sister alone, he goes to Tbilisi to trade. In a
+  dream he is given a *buta*, and he finds the girl from the dream. But the
+  girl's family demands a large amount of goods and wealth for her to marry
+  Garib. To reach his beloved, Garib lives for a long time in a foreign land.
 ---
 **Aşıq Qərib**	— aşıq, şair
 

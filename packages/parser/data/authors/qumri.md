@@ -31,6 +31,21 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Qumri_D%C9%99rb%C9%99ndinin_heyk%C9%99li.jpg
 portraitCredit: 'DS.Molotkov, 2021 · CC0'
+bioEn: >-
+  **Mirza Mohammad Taghi Gumri** — an Azerbaijani poet who lived and wrote in
+  the 19th century.
+
+
+  Mirza Mohammad Taghi Gumri was born in 1819 (1235 AH) in the city of Derbent,
+  in present-day Dagestan. Derbent is a place where many civilizations lived,
+  and sources record that its people spoke a Turkic language as early as the
+  Middle Ages, under Arab rule. Researchers who visited Derbent in the mid-19th
+  century reported that, among the Turkic languages, Azerbaijani Turkic was
+  widely spoken in the city and was the dominant language there. Mirza Mohammad
+  Taghi was one of the most famous poets living in Derbent in the 19th century.
+  His father's name was Ibrahim. In his works he refers to himself as Mirza
+  Mohammad Taghi ibn the late Ibrahim, or as Gumri. He used the pen name Gumri
+  in his works.''*
 ---
 **Mirzə Məhəmməd Tağı Qumri** — XIX əsrdə yaşayıb-yaratmış azərbaycanlı şair.
 

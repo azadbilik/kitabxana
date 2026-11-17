@@ -12,6 +12,11 @@ writingLangs:
   - AZ_LATIN
 status: DRAFT
 bioRu: "**Нигяр Худадат кызы Рафибейли** (23 июня 1913, Елизаветполь\_— 9 июля 1981, Баку)\_— азербайджанская советская поэтесса, член союза писателей Азербайджана с 1934\_года, заслуженный работник культуры Азербайджанской ССР (1967), Народная поэтесса Азербайджанской ССР (1981). Дочь первого министра здравоохранения АДР Худадат-бека Рафибекова, супруга Народного поэта Азербайджанской ССР (1960) Расула Рзы и мать Народного писателя Азербайджанской ССР (1987) Анара.\n\nНигяр Рафибейли родилась в семье хирурга Худадат-бека Рафибекова, занимавшего должность губернатора Гянджинской губернии в годы досоветской независимости Азербайджана (1918—1920). Он оказался в числе азербайджанских политических деятелей, массово казнённых большевиками в июне 1920 года на острове Нарген."
+bioEn: >-
+  Nigar Khudadat qizi Rafibeyli (Azerbaijani: Nigar Xudadat qızı Rəfibəyli)
+  (1913–1981, Baku) was an Azerbaijani writer and the Chairman of the Writers'
+  Union of Azerbaijan. She was the wife of the famous writer and poet Rasul Rza.
+  The writer Anar Rzayev is their son.
 ---
 **Nigar Xudadat qızı Rəfibəyli** — azərbaycanlı şair, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR xalq şairəsi (1981), Azərbaycan SSR əməkdar mədəniyyət işçisi (1967).
 

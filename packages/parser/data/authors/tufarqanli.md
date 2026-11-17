@@ -12,6 +12,20 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioRu: "**Ашуг Аббас Туфарганлы** (1600, Туфарган, Сефевидское государство\_— Туфарган, Сефевидское государство)\_— персидский поэт и ашуг."
+bioEn: >-
+  Abbas Tufarqanlı or Abbas Divarganli, or Abbas of Tufargan (Azerbaijani: Aşıq
+  Abbas Tufarqanlı, Persian: عاشیق عباس توفارقانلی, Turkish: Aşık Tufarganlı
+  Abbas), was a 17th-century Azerbaijani ashik. He is regarded as one of the
+  most prominent ashiks in contemporary history.
+
+
+  Abbas Tufarqanlı was born sometime in the late 16th century in Azarshahr, a
+  town near Tabriz which was then known as Tufarqan. His biography is shrouded
+  in the background of the folk story, Abbas and Gülgez, which is set in the
+  court of Safavid Shah Abbas (1587–1629), where Ashik Abbas quests to win his
+  beloved Gülgez from the king. Abbas achieves his goal by convincing the ruler
+  that he (Ashik Abbas) was a divinely inspired ashik. This episode is a
+  renowned instance of dream motif in Turkish hikaye.
 ---
 **Aşıq Abbas Tufarqanlı** — XVI əsr Azərbaycan aşığı.
 

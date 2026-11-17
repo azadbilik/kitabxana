@@ -18,6 +18,16 @@ portraitSource: >-
 portraitCredit: 'Samral, 2015 · CC BY-SA 4.0'
 bornYear: 1130
 diedYear: 1194
+bioEn: >-
+  Mujir al-Din Baylaqani (also spelled Bailaqani; Persian: مجیرالدین بیلقانی;
+  died 1197/98) was a Persian poet of the 12th-century.
+
+
+  As implied by his nisba, Baylaqani was from Baylaqan, a town in Arran. During
+  the 12th-century, Baylaqan served as a frontier between the sphere of
+  influence of the Shirvanshahs, Georgians, Seljuks and Eldiguzids. During this
+  period, the Caucasus region was inhabited by different ethnic groups, as
+  demonstrated by Baylaqani's maternal side, which was Armenian.
 ---
 **Mücirəddin Beyləqani** — Azərbaycan şairi.
 

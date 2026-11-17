@@ -25,6 +25,21 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:Nizami_ad%C4%B1na_%C6%8Fd%C9%99biyyat_Muzeyinin_binas%C4%B1n%C4%B1n_p%C9%99nc%C9%99r%C9%99sind%C9%99_Heyran_xan%C4%B1m_D%C3%BCnb%C3%BCli_r%C9%99smi_(1).JPG
 portraitCredit: 'Samral, 2015 · CC BY-SA 4.0'
+bioEn: >-
+  Heyran Donboli (Persian: حیران دنبلی) was an Iranian female poet who composed
+  works in Persian, as well as some in Azerbaijani Turkic. Born between
+  1785–1790, she was a member of the Turkic-speaking Kurdish Donboli tribe in
+  the Azerbaijan region. Her exact name and birthplace remain uncertain, with
+  suggestions including Nakhchivan, Tabriz and Urmia.
+
+
+  Following the Iranian cession of Nakhchivan to Russia in 1813, she and her
+  family moved south of the Aras River, settling in the village of Khaneqah
+  Sorkh. Heyran's poetry, characterized by its straightforward language and
+  emotional expression of women's experiences, was a rarity in Qajar Iran, where
+  literacy was low and women's public roles were limited in a male dominated
+  society. She was a proponent of the Bazgasht-e adabi literary movement,
+  advocating a return to classical Persian styles.
 ---
 **Heyran xanım** (1790, Naxçıvan - 1848, Təbriz) — Azərbaycan şairəsi.
 

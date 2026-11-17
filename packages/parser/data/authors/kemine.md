@@ -16,6 +16,11 @@ bioRu: >-
   1898, Шуша, Шушинский уезд, Елизаветпольская губерния, Российская империя) —
   азербайджанская поэтесса XIX века, член литературного общества
   *«Меджлиси-фарамушан»*.
+bioEn: >-
+  Fatma Khanum Kamina (Azerbaijani: Fatma xanım Kəminə, born 1841, Shusha,
+  Shusha Uyezd, Shamakhi Governorate, Russian Empire - died 1898, Shusha, Shusha
+  Uyezd, Russian Empire) was a 19th-century female Azerbaijani poet known by her
+  per name Kamina (the Humble One).
 ---
 **Fatma xanım Kəminə** — azərbaycanlı şairə. XIX əsr qadın aşıqlarındandır.
 

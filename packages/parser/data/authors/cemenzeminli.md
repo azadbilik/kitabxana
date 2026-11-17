@@ -16,6 +16,11 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Yusif_Vazir_Chamanzaminli_%281911%29.jpg/330px-Yusif_Vazir_Chamanzaminli_%281911%29.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Yusif_Vazir_Chamanzaminli_(1911).jpg'
 portraitCredit: 1911 · Public domain
+bioEn: >-
+  Yusif Vazir Chamanzaminli (Azerbaijani: Yusif Vəzir Çəmənzəminli), also
+  spelled Chemenzeminli, born Yusif Mirbaba oghlu Vazirov (12 September 1887 – 3
+  January 1943) was an Azerbaijani statesman and writer known for his novels,
+  short stories, essays, and diaries.
 ---
 **Yusif Vəzir Çəmənzəminli** — Azərbaycan yazıçısı, ictimai-dövlət xadimi. Azərbaycan Xalq Cümhuriyyətinin Osmanlı imperiyasındakı ilk səfiri.
 

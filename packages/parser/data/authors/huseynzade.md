@@ -16,6 +16,13 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Ali_bey_Huseynzade.jpg/330px-Ali_bey_Huseynzade.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Ali_bey_Huseynzade.jpg'
 portraitCredit: 'Unknown author, 1933 · Public domain'
+bioEn: >-
+  Ali bey Huseyn oghlu Huseynzade (Azerbaijani: Əli bəy Hüseyn oğlu Hüseynzadə;
+  Turkish: Hüseyinzade Ali Turan; Salyan, March 7, 1864 – Istanbul, March 17,
+  1940) was an Azerbaijani writer who played an important role in the
+  development of an Azerbaijani nationalist movement at the start of the 20th
+  century. His concept of Turkify, Islamize, Europeanize was reflected in the
+  modern Flag of Azerbaijan.
 ---
 **Əli bəy Hüseynzadə (Əli Hüseyn Turan)** — Azərbaycan mütəfəkkir yazıçısı, publisist və ədəbiyyat tənqidçisi, XX əsr Azərbaycan-türk ictimai fikrinin ən görkəmli nümayəndələrindən biri. Uzun müddət alim, həkim, rəssam, şair, tənqidçi, tərcüməçi, müəllim, jurnalist kimi fəaliyyət göstərmişdir.
 

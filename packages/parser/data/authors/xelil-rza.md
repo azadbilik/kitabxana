@@ -16,6 +16,22 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Khalil_Rza_Uluturk.jpg/330px-Khalil_Rza_Uluturk.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Khalil_Rza_Uluturk.jpg'
 portraitCredit: 'Dilaver Najafov, 1991 · CC BY-SA 4.0'
+bioEn: >-
+  Khalil Rza Uluturk (Azerbaijani: Xəlil Rza Ulutürk), (21 October 1932, Salyan
+  – 22 June 1994, Baku) was an Azerbaijani poet, critic, literary scholar,
+  translator, member of the Azerbaijan Writers' Union since 1954, Doctor of
+  Philological Sciences (1969), Honored Art Worker of Azerbaijan (1986),
+  laureate of the M.F. Akhundov Literary Award (1991), and People's Poet of the
+  Republic of Azerbaijan (1992). Posthumously, he was awarded the "Istiglal"
+  (Independence) Order.
+
+
+  In 1954, he graduated from the Faculty of Philology at Azerbaijan State
+  University (now Baku State University). He began his literary activity during
+  his student years, with his first poems published in the press. He worked for
+  a long time at the Azerbaijan Writers' Union and in various press
+  organizations. Additionally, he conducted research in literary studies,
+  contributing to the study of Azerbaijan's literary heritage.
 ---
 **Xəlil Rza Ulutürk** (tam adı: *Xəlil Rza oğlu Xəlilov*) — şair, tənqidçi, ədəbiyyatşünas, tərcüməçi, 1954-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, filologiya elmləri doktoru (1969), Azərbaycanın əməkdar incəsənət xadimi (1986), M. F. Axundov adına ədəbi mükafat laureatı (1991), Azərbaycan Respublikasının xalq şairi (1992). Ölümündən sonra "İstiqlal" ordeni ilə təltif olunub.
 

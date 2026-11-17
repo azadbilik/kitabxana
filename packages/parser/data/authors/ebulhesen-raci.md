@@ -18,6 +18,16 @@ bioRu: >-
 
 
   Пусть поёт этот красавец Раджи,
+bioEn: >-
+  **Abulhasan Raji** — poet.
+
+
+  According to the biography of Haji Abulhasan Raji, he was born in 1247 (1252)
+  by the hijri calendar in the Khiyaban quarter of the city of Tabriz. He
+  received his education and upbringing in this city. He lived 40–45 years. He
+  died on his return from the Hajj pilgrimage. Boarding a ship at Jeddah, he
+  drowned in the sea on the way, and this sorrowful event took place in the year
+  1292 of the hijra.
 ---
 **Əbülhəsən Raci** — şair.
 

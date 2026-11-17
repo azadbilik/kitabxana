@@ -17,6 +17,28 @@ portraitSource: >-
 portraitCredit: 'Unknown author, 1911 · Public domain'
 bornYear: 1862
 diedYear: 1911
+bioEn: >-
+  Mirza Ali-Akbar Tahirzada (Azerbaijani: میرزا علی اکبر صابر: 30 May 1862 – 12
+  July 1911), commonly known by his pseudonym Sabir (صابر), was a satirist and
+  poet in the Russian Empire, who played a leading role in development of
+  Azerbaijani literature.
+
+
+  A native of the city of Shamakhi, he grew up in a religious, middle-class
+  household that opposed modern education. During his adolescence, he became a
+  pupil of the distinguished poet Seyid Azim Shirvani, who established a modern
+  institution where various subjects were taught. With Seyid Azim Shirvani's
+  support, Sabir began translating Persian poetry and writing his own
+  Azerbaijani poetry. Although his father initially wanted him to work in the
+  family grocery store, he eventually accepted Sabir's literary ambitions after
+  the latter's strong opposition, including a failed attempt to flee to Mashhad.
+  While still only known within Shamakhi, Sabir's first published poem appeared
+  in the Tbilisi newspaper Sharq-e Rus in 1903. By 1909, he was writing for the
+  satirical magazine Molla Nasraddin. His works covered a wide range of topics,
+  including political satire and social commentary, often criticizing corrupt
+  officials and religious hypocrisy. Sabir's innovative use of Azerbaijani set
+  his poetry apart from traditional forms. He spent his last years in Baku,
+  where he died in 1911.
 ---
 Mirzə Ələkbər Sabir 1862-ci ilin 30 may tarixində Şamaxı şəhərində anadan olmuşdur. O, ilk təhsilini mollaxanada alsa da, sonradan Seyid Əzim Şirvaninin təsis etdiyi yeni üsullu məktəbdə oxumuşdur. Yaradıcılığa erkən yaşlarda başlamış, lirik şeirlərlə bədii fəaliyyətə qədəm qoymuşdur. Mirzə Ələkbər Sabirin ictimai fəaliyyətində "Molla Nəsrəddin" jurnalının rolu böyükdür. O, bu satirik jurnalın əsas müəlliflərindən biri olmuş, geniş oxucu auditoriyasına malik olan bu platformada müntəzəm çıxış edərək maarifçilik ideyalarını, ictimai tənqidi və satiranı birləşdirən dərin məzmunlu əsərlər qələmə almışdır. Eyni zamanda, "Zənbur", "Həyat", "İrşad", "Təzə Həyat", "Dəbistan" kimi dövrünün mühüm nəşrlərində də şeir və publisistik məqalələr ilə çıxış etmişdir. Şair ömrünün son illərində ağır xəstəlik keçirmiş və 1911-ci ildə doğma Şamaxı şəhərində vəfat etmişdir. Onun irsi Azərbaycan ədəbiyyatında maarifçi-demokratik ideyaların daşıyıcısı kimi mühüm yer tutur. Mirzə Ələkbər Sabir Azərbaycan poeziya tarixində yeni satirik üslubun və yeni satirik şeirin banisi hesab olunur. O, satirik şeirlərində sosial bərabərsizliyi, mürtəce dini təbəqəni kəskin şəkildə tənqid etmişdir. Sabir yaradıcılığında xalqı öz hüquqlarını dərk etməyə və mütəşəkkil şəkildə mübarizəyə səsləyən çağırışlar xüsusi yer tutur.
 

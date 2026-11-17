@@ -14,6 +14,15 @@ status: DRAFT
 bioRu: >-
   **Зикри Ардебили** (род. 1790, Ардебиль, Ардебильское ханство) —
   азербайджанский поэт XIX века.
+bioEn: |-
+  **Zikri Ardabili** — Azerbaijani poet.
+
+  Cadu gözünə rahibü tərsa nə münasib?
+  Əyri qaşına taği-kəlisa nə münasib?
+  Derlər mənə Məcnun, sənə Leyla eşidənlər,
+  Məcnun mənə nisbət, sənə Leyla nə münasib?
+  Can istərisən, eylə bir iyma, verim, amma
+  Göytar olan heynidə iyma nə münasib?
 ---
 **Zikri Ərdəbili** — Azərbaycan şairi.
 

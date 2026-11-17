@@ -12,6 +12,14 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioRu: "**Мискин Абдал** (настоящее имя\_— **Сеид Гусейн Мухаммед оглы**) (— )\_— азербайджанский народный -ашуг, суфийский философ-мыслитель, государственный деятель, долгие годы ведавший иностранными делами государства Сефевидов при шахе Исмаиле I Хатаи (1487—1524). Основатель ашугской школы.\n\nОдна из самых ярких фигур в истории Азербайджана. Сыграл важную роль в развитии науки и искусства."
+bioEn: >-
+  Miskin Abdal (born Səyid Huseyn Muhammed oğlu; 1430–1535) was a folk
+  poet-ashugh, Sufi philosopher-thinker, and statesman, who for many years was
+  in charge of foreign affairs of the Safavid state under Shah Ismail Khatai
+  (1487–1524). He was the founder of the ashugh school.
+
+
+  In Gədəbəy, the "Miskin Abdal" literary assembly has been established.
 ---
 **Miskin Abdal** — Səfəvilərin görkəmli dövlət xadimi, diplomat, Şah İsmayıl Xətainin mürşidi, "Ricalül-Qeyb" ("Qeyb Ərəni"), böyük Övliya, Sufi şeyxi, sərkərdə, sufi-şair, ozandan aşığa (Haqq aşiqliyinə), qopuzdan saza keçidin banisi, çoxsaylı aşıq havalarının müəllifi, Ocaq-Pir sahibi.
 

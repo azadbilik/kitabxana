@@ -16,6 +16,13 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Molla_P%C9%99nah_Vaqif.
 portraitCredit: 'Cekli829, 2014 · CC BY-SA 4.0'
 bornYear: 1717
 diedYear: 1797
+bioEn: >-
+  Molla Panah (Azerbaijani: Molla Pənah), better known by his pen-name Vagif
+  (Arabic: واقِف‎, lit. 'The Learned One'), was an 18th-century Azerbaijani
+  poet, statesman and diplomat. He is regarded as the founder of the realism
+  genre and the modern school in Azerbaijani poetry. He served as the vizier—the
+  minister of foreign affairs—of the Karabakh Khanate during the reign of
+  Ibrahim Khalil Khan.
 ---
 {{Yazıçı
  |adı           = Molla Pənah Vaqif

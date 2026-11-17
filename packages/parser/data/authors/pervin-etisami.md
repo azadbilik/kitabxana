@@ -17,6 +17,9 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parvin_E%27tesami_%28cropped%29.jpg/330px-Parvin_E%27tesami_%28cropped%29.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Parvin_E%27tesami_(cropped).jpg'
 portraitCredit: 'Unknown photographer, 1941 · Public domain'
+bioEn: >-
+  Rakhshandeh E'tesami (17 March 1907 – 4 April 1941), better known as Parvin
+  E'tesami, was a 20th-century Iranian Persian-language poet.
 ---
 **Pərvin Etisami** (farsca: پروین اعتصامی) — XX əsrdə yaşamış azərbaycanlı şairə.
 

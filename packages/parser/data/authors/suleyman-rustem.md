@@ -16,6 +16,9 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Suleyman_Rustem.jpg/330px-Suleyman_Rustem.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Suleyman_Rustem.jpg'
 portraitCredit: 'Unknown author, 1935 · Public domain'
+bioEn: >-
+  Suleyman Rustam (Azerbaijani: Süleyman Rüstəm; 12 March 1906 – 10 June 1989)
+  was a Soviet and Azerbaijani poet, playwright and translator.
 ---
 **Süleyman Rüstəm** (tam adı: *Süleyman Əliabbas oğlu Rüstəmzadə*) — Azərbaycan şairi, dramaturq, tərcüməçi, ictimai xadim, 1934-cü ildən AYB-nin üzvü, Sosialist Əməyi Qəhrəmanı (1976), Azərbaycan SSR xalq şairi (1960), "Stalin" mükafatı (1950), 2 dəfə Azərbaycan SSR Dövlət mükafatı laureatı (1970, 1986).
 

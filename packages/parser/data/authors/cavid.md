@@ -17,6 +17,13 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Huseyn_Javid.jpg'
 portraitCredit: 'Unknown author, 1924 · Public domain'
 bornYear: 1882
 diedYear: 1941
+bioEn: >-
+  Huseyn Javid (Azerbaijani: Hüseyn Cavid), was born Huseyn Abdulla oghlu
+  Rasizadeh (24 October 1882 in Nakhchivan – 5 December 1941 in Shevchenko,
+  Tayshetsky District), was a prominent Azerbaijani poet and playwright of the
+  early 20th century. He was one of the founders of progressive romanticism
+  movement in the contemporary Azerbaijani literature. He was exiled during the
+  Stalin purges in the USSR.
 ---
 **Hüseyn Cavid** (doğum adı: *Hüseyn Abdulla oğlu Rasizadə*) — Azərbaycan şairi, yazıçı və dramaturq. Azərbaycan ədəbiyyatında romantizm ədəbi cərəyanının əsas nümayəndəsi olan Hüseyn Cavid milli romantik şeirin və mənzum faciənin banisidir.
 

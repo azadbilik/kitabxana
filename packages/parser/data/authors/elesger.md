@@ -17,6 +17,11 @@ portraitCredit: 'Unknown author, 1926 · Public domain'
 bornYear: 1821
 bornYearApprox: true
 diedYear: 1926
+bioEn: >-
+  Alasgar Almammed oghlu (Azerbaijani: Ələsgər Alməmməd oğlu), popularly known
+  as Ashig Alasgar (Azerbaijani: Aşıq Ələsgər; March 22, 1821 — March 7, 1926),
+  was an Azerbaijani mystic troubadour (Ashik) and poet of Azerbaijani folk
+  songs.
 ---
 **Aşıq Ələsgər** (doğum adı: *Ələsgər Alməmməd oğlu*) — XIX–XX əsr Azərbaycan aşığı.
 

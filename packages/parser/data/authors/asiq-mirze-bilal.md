@@ -15,6 +15,20 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/A%C5%9F%C4%B1q_Mirz%C9%99_Bilal.jpg/330px-A%C5%9F%C4%B1q_Mirz%C9%99_Bilal.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:A%C5%9F%C4%B1q_Mirz%C9%99_Bilal.jpg'
 portraitCredit: 'Ali.saltak, 2017 · CC BY-SA 4.0'
+bioEn: >-
+  **Ashiq Mirza Bilal Mustafa oghlu Mikayilov** — ashik, poet.
+
+
+  The great influence he held did not escape the notice of government officials,
+  and during the People's Republic (1918–1920) he was entrusted with the post of
+  head of security of the Shamakhi district. This is one of the main factors in
+  his becoming a victim of repression. The other main reason for his repression
+  was that, in his work and ashik activity, he could not comply with the
+  prohibitions set by the Soviet regime. In 1928 he was a delegate to the first
+  congress of Azerbaijani ashiks in Baku and spoke at the congress on behalf of
+  all the ashiks. A large part of Ashik Mirza Bilal's collected works, that is,
+  his poems and *dastans*, was seized and destroyed by the NKVD when his
+  property was confiscated.
 ---
 **Aşıq Mirzə Bilal Mustafa oğlu Mikayılov** — aşıq, şair.
 

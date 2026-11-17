@@ -17,6 +17,16 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Natavan.jpg'
 portraitCredit: 'Unknown author, 1897 · Public domain'
 bornYear: 1832
 diedYear: 1897
+bioEn: >-
+  Khurshidbanu Natavan (Azerbaijani: خورشیدبانو ناتوان / Xurşidbanu Natəvan; 6
+  August 1832 – 2 October 1897) was an Azerbaijani poet and philanthropist. She
+  is considered one of the best lyrical poets of Azerbaijan. Her poems are in
+  either Azerbaijani or Persian and she was most notable for her lyrical
+  ghazals.
+
+
+  Natavan was the daughter of Mehdigulu Khan, the last ruler of the Karabakh
+  Khanate (1748–1822).
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Xurşidbanu Natəvan Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

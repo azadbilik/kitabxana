@@ -16,6 +16,19 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Najaf_bey_Vazirov.jpg/330px-Najaf_bey_Vazirov.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Najaf_bey_Vazirov.jpg'
 portraitCredit: 'Unknown author, 1908 · Public domain'
+bioEn: >-
+  Najaf bey Fatali oglu Vazirov (Azerbaijani: Nəcəf-bəy Vəzirov) (17 February
+  1854 – 9 July 1926) was an Azerbaijani playwright and journalist.
+
+
+  Najaf bey Vazirov played an exceptional role in the development of Azerbaijani
+  dramaturgy, enriching its ideological and aesthetic content as well as its
+  artistic qualities, and contributing significantly to the creation and growth
+  of national theater. Through his public activities and literary works, he
+  actively supported the national liberation movement. Najaf bey Vazirov laid
+  the foundation of the tragedy genre in Azerbaijani literature and was closely
+  involved in the expansion of the enlightenment movement directed against the
+  feudal-patriarchal system in Azerbaijan.
 ---
 **Nəcəf bəy Fətəli bəy oğlu Vəzirov** — Azərbaycan yazıçısı və dramaturqu. Nəcəf bəyin Bakıda rus məktəbində aldığı bu təhsil onun gələcəkdə yaradıcılığına böyük təsir göstərmişdir.
 

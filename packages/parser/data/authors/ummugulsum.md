@@ -26,6 +26,15 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:%C3%9Cm%C3%BCg%C3%BCls%C3%BCm_Sad%C4%B1qzad%C9%99.png
 portraitCredit: kulis.az · Public domain
+bioEn: >-
+  Ümmügülsüm (1899, Novkhani, Baku district – 1944, Shamakhi) was an Azerbaijani
+  poet.
+
+
+  She was the sister of Mahammadali Rasulzade, one of the founders of the
+  Musavat Party, and the cousin and sister-in-law of Mahammad Amin Rasulzade,
+  who served as the head of the Musavat Party and the National Council of the
+  Azerbaijan Democratic Republic.
 ---
 **Ümmügülsüm** — Azərbaycan şairəsi, repressiya qurbanı.
 

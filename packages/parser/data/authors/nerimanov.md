@@ -16,6 +16,23 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Nariman_Narimanov_in_1913.jpg/330px-Nariman_Narimanov_in_1913.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Nariman_Narimanov_in_1913.jpg'
 portraitCredit: 'Stanislava Klimashevskaya, 1913 · Public domain'
+bioEn: >-
+  Nariman Karbalayi Najaf oghlu Narimanov (Azerbaijani: نریمان کربلایی نجف اوغلی
+  نریمانوف, Nəriman Kərbəlayi Nəcəf oğlu Nərimanov; Russian: Нарима́н Кербелаи
+  Наджа́ф оглы Нарима́нов; 14 April [O.S. 2 April] 1870 – 19 March 1925) was an
+  Azerbaijani Bolshevik revolutionary, writer, publicist, politician and
+  statesman. For just over one year, beginning in May 1920, Narimanov headed the
+  government of the Azerbaijan Soviet Socialist Republic. He was subsequently
+  elected chairman of the Union Council of the Transcaucasian SFSR. He was also
+  Party Chairman of the Central Executive Committee of the Soviet Union from 30
+  December 1922 until his death.
+
+
+  One of the central districts and one of the busiest metro stations in Baku,
+  together with a number of streets, parks and halls all over Azerbaijan, as
+  well as Azerbaijan Medical University, are named after him. In the Lankaran
+  region, there is a town named Narimanabad in his honor. There are also towns
+  named after him in other post-Soviet states, mainly in Russia.
 ---
 **Nəriman Kərbəlayı Nəcəf oğlu Nərimanov** — Azərbaycan bolşevik inqilabçısı, ictimai-siyasi xadimi, yazıçısı, publisisti, həkimi; Azərbaycan SSR-in 1-ci Xalq Xarici İşlər Komissarı; Azərbaycan SSR İnqilab Komitəsinin Sədri; Azərbaycan SSR Xalq Komissarları Sovetinin 1-ci Sədri; ZSFSR İttifaq Sovetinin 1-ci Sədri; SSRİ Mərkəzi İcraiyyə Komitəsi Rəyasət Heyətinin ZSFSR-dən 1-ci Sədri.
 

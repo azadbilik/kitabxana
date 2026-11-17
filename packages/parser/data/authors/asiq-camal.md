@@ -11,5 +11,6 @@ period: XIX-XX əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: '**Ashiq Jamal** — Azerbaijani ashik.'
 ---
 **Aşıq Camal** — Azərbaycan aşığı.

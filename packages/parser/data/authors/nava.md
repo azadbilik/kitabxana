@@ -25,6 +25,12 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:C%C9%99f%C9%99rqulu_xan_Cavan%C5%9Fir.jpg
 portraitCredit: Unknown author · Public domain
+bioEn: >-
+  Jafargulu agha Javanshir (Azerbaijani: Cəfərqulu ağa Məhəmmədhəsən ağa oğlu
+  Sarıcalı-Cavanşir; 1782 or 1787–1866), also known as Jafar khan Javanshir
+  (Azerbaijani: Cəfər xan Cavanşir) or by his pen-name Neva (Azerbaijani: Nəva,
+  lit. 'Harmony'), was an Azerbaijani poet, warlord and major general of the
+  Russian Army.
 ---
 **Cəfərqulu xan Məhəmmədhəsən ağa oğlu Sarıcalı-Cavanşir** (1785-1867) — Dövrünün tanınmış Azərbaycan şair və ictimai xadimi , general-mayor.
 

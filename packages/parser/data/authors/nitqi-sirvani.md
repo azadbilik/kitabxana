@@ -10,6 +10,23 @@ period: XVI əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Nitqi Shirvani** — Azerbaijani poet of the 10th Hijri (16th Gregorian)
+  century, a master of the ghazal.
+
+
+  He was from Shirvan. According to what Şəmsəddin Sami writes in
+  «Qamusül-əlam», he came to Istanbul in the reign of Sultan Murad III, made a
+  name for himself as a storyteller, won the respect of Ottoman notables and
+  became a companion of the sultan. Salman Mümtaz supposes that he left Shirvan
+  during the Ottoman-Safavid wars. The influence of Nasimi, Khatai, Fuzuli,
+  Bəsiri and other early Azerbaijani poets can be seen in his poems. Of his
+  large *divani* only a few ghazals survive. He died approximately in 1003-1010
+  AH (1595-1602).
+
+
+  Salman Mümtaz collected his ghazals and published them in 1925 in the
+  «Azərbaycan ədəbiyyatı» series.
 ---
 **Nitqi Şirvani** — hicri X (miladi XVI) əsr Azərbaycan şairi, qəzəl ustası.
 

@@ -11,6 +11,12 @@ period: XIX-XX əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Choban Afghan** (*Alakbar Namazov*, 1866–1924) — Azerbaijani ashik.
+
+
+  Living in great poverty, Choban Afghan herded the livestock of the wealthy
+  from a young age and worked for them as a hired labourer.
 ---
 **Çoban Əfqan** (*Ələkbər Namazov*, 1866–1924) — Azərbaycan aşığı.
 

@@ -19,6 +19,14 @@ bornYear: 1121
 bornYearApprox: true
 diedYear: 1199
 diedYearApprox: true
+bioEn: >-
+  Afzal al-Dīn Badīl ibn ʿAlī ibn ʿOthmān (Persian: افضل‌الدّین بدیل بن علی بن
+  عثمان), commonly known as Khāqānī (Persian: خاقانی, c. 1120 – c. 1199), was a
+  major Persian poet and prose-writer. He was born in Shirvanshahs, a vassal of
+  the Seljuks in the region of Shirvan, where he served as an ode-writer to the
+  Shirvanshahs. His fame most securely rests upon the qasidas collected in his
+  Divān, and his autobiographical travelogue Tohfat al-ʿErāqayn. He is also
+  notable for his contributions to the genre of habsiyāt ("prison poetry").
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Şirvani Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

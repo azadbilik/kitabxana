@@ -61,6 +61,20 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Prince_Sam_Mirza_%28portrait%29.jpg/330px-Prince_Sam_Mirza_%28portrait%29.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Prince_Sam_Mirza_(portrait).jpg'
 portraitCredit: 'Artist circa 1527, 1527 · CC BY-SA 4.0'
+bioEn: >-
+  Sam Mirza (Persian: سام میرزا; 1517 – 1566/67) was a Safavid prince and poet
+  in 16th-century Iran, who wrote the Tohfa-ye Sami ("Gift of Sam"), a
+  collection of biographies of contemporary Persian poets. He was the third son
+  of Shah Ismail I (r. 1501–1524), the founder of the Safavid dynasty.
+
+
+  Sam Mirza was appointed governor of Herat (in present-day Afghanistan) during
+  his early years, following the tradition of educating Safavid princes by
+  assigning them governorships under the supervision of experienced amir of the
+  Qizilbash. During his time in Herat, he witnessed the remnants of the zenith
+  of Persian culture from the reign of the Timurid ruler Sultan Husayn Bayqara
+  (r. 1469–1506), but also became entangled in the political struggles of his
+  Qizilbash guardians.
 ---
 **Sam mirzə Şah İsmayıl oğlu Səfəvi** — Şah I İsmayılın üçüncü oğlu olan Səfəvi şahzadəsi və şair. O, *Tohfa-ye Sami* ("Samın Töhfəsi") adlı əsəri ilə məşhurdur. Bu əsərdə Sam Mirzə özünün müasiri olan şair bioqrafiyalarını yazmışdır.
 

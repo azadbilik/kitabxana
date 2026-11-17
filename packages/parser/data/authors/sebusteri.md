@@ -13,6 +13,9 @@ writingLangs:
   - FA
 status: DRAFT
 bioRu: "**Махмуд Шабистари** (1288—1340) — один из самых знаменитых персидских суфийских поэтов XIV века и философ.\n\nМахмуд Шабистари родился в городе Шабестар близ Тебриза (предположительно) в 1288\_году (687\_г. хиджры), где и получил начальное образование. Одним из важнейших учителей Шабистари был суфийский шейх Эминюддин-и Тебризи, а его духовным учителем и наставником\_— Бахаеддин Якуб-и Тебризи. Важнейшей целью суфизма считается воспитание «совершенного человека», свободного от мирской суеты."
+bioEn: >-
+  Mahmoud Shabestari or Mahmūd Shabestarī (Persian: محمود شبستری‎; 1288–1340) is
+  one of the most celebrated Persian Sufi poets of the 14th century.
 ---
 **Səəd əd-Din Mahmud ibn Əbdul Kərim ibn Yəhya Şəbustəri** — Azərbaycan alimi, filosof, sufizmin ən görkəmli nəzəriyyəçilərindən olmuşdur.
 

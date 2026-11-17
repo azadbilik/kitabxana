@@ -16,6 +16,17 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Stamps_of_Azerbaijan%2C_2004-668.jpg/330px-Stamps_of_Azerbaijan%2C_2004-668.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Stamps_of_Azerbaijan,_2004-668.jpg'
 portraitCredit: 'Post of Azerbaijan, 2004 · Public domain'
+bioEn: >-
+  **Molla Juma** (full name: *Cümə Salah oğlu Orucov*) — Azerbaijani ashik and
+  poet.
+
+
+  The most reliable source on Molla Juma's life is his poems and dastans. The
+  date of Molla Juma's birth has so far been given only approximately. He was
+  born in 1859 in the village of Ashagi Layisgi in the Nukha district. The
+  nickname "Molla" was given to him because he was literate. Molla Juma's main
+  occupation was farming. He reaped harvests in the fields of the wealthy of
+  Gakh, Zagatala and Balakan, and supported his family with the wages he earned.
 ---
 **Molla Cümə** (tam adı: *Cümə Salah oğlu Orucov*) — Azərbaycan aşığı və şairi.
 

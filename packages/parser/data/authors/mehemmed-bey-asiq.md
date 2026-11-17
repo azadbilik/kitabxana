@@ -13,6 +13,12 @@ writingLangs:
   - FA
 status: DRAFT
 bioRu: "**Мухаммед-бек Бехбуд-бек оглу Джеваншир** (1800—1861)\_— азербайджанский поэт. Писал под псевдонимом **Ашуг**.\n\nМухаммед бек Ашуг (Мухаммед-бек Бехбуд-бек оглы Сарыджалы-Джеваншир) по возрасту один из самых старших среди поэтов Карабаха, творивших в XIX веке. Он родился в 1800 году в городе Шуша. Его  отец,  Бехбуд бек представитель одного из самых известных родов Карабаха – Сарыджалы-Джеванширов."
+bioEn: >-
+  **Mohammad bey Behbud bey oghlu Sarijali-Javanshir** (*Mohammad bey Ashik*) —
+  poet, father of Abdussamad bey Ashik.
+
+
+  Mohammad bey died in 1861.
 ---
 **Məhəmməd bəy Behbud bəy oğlu Sarıcalı-Cavanşir** (*Məhəmməd bəy Aşiq*) — şair, Əbdüssəməd bəy Aşiqin atası.
 

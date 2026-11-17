@@ -16,6 +16,17 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:S%C9%99m%C9%99d_Vur%C4%
 portraitCredit: 'Владимир Савостьянов, 1947 · Public domain'
 bornYear: 1906
 diedYear: 1956
+bioEn: >-
+  Samad Vurgun (Azerbaijani: Səməd Vurğun [sæˈmæd vuɾˈɣun]; born Samad Yusif
+  oghlu Vekilov; 21 March 1906 – 27 May 1956) was an Azerbaijani and Soviet
+  poet, dramatist, public figure, first People's Artist of the Azerbaijan SSR
+  (1943), academician of Azerbaijan National Academy of Sciences (1945),
+  laureate of two Stalin Prizes of second degree (1941, 1942), and member of the
+  Communist Party of the Soviet Union from 1940.
+
+
+  The Azerbaijan State Academic Russian Drama Theatre and streets in Baku and
+  Moscow, and formerly the city of Hovk in Armenia, are named after him.
 ---
 **Səməd Vurğun** (*doğum adı:* Səməd Yusif oğlu Vəkilov) — Azərbaycan şairi, dramaturq, tərcüməçi, ədəbiyyatşünas, Azərbaycanın ilk xalq şairi (1956), 2 dəfə "Stalin" mükafatı laureatı (1941, 1942) və 2 dəfə "Lenin" ordeni laureatı, Azərbaycan Yazıçılar İttifaqının sədri (1941–1948), Azərbaycan SSR Ali Sovetinin deputatı, Azərbaycanın Xarici Ölkələrlə Mədəni əlaqə Cəmiyyətinin sədri, Azərbaycan SSR EA-nın akademiki (1945) və vitse-prezidenti (1954–1956). Azərbaycan Elmlər Akademiyasının təsisçilərindən biridir.
 

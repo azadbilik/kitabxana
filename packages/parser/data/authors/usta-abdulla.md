@@ -11,6 +11,14 @@ period: XIX-XX əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Zodlu Abdulla** (*Usta Abdulla* or *Zodlu Usta Abdulla*) — a master folk
+  poet.
+
+
+  Usta Abdulla received a madrasa education. This education had a considerable
+  influence on his work and on the strengthening of religious motifs in his
+  poems.
 ---
 **Zodlu Abdulla** (*Usta Abdulla* yaxud *Zodlu Usta Abdulla*) — Ustad el şairi.
 

@@ -16,6 +16,14 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Mirza_Alasgar_Novras.jpg/330px-Mirza_Alasgar_Novras.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mirza_Alasgar_Novras.jpg'
 portraitCredit: 'Shahin Novrasli, 2009 · CC BY-SA 4.0'
+bioEn: >-
+  **Mirza Alasgar Novras** — Azerbaijani poet.
+
+
+  Mirza Alasgar Novras used to be the master of ceremonies (*toybashi*) at folk
+  festivities. Mirza Alasgar Novras died in 1912. He had four children. He
+  married his daughter Fatimə bəyim to Seyid Həsən, the son of Xurşidbanu
+  Natəvan.
 ---
 **Mirzə Ələsgər Növrəs** — Azərbaycan şairi.
 

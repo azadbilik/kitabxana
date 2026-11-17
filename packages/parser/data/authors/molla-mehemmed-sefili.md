@@ -11,6 +11,17 @@ period: XIX-XX əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Molla Mohammad Safili of Akhiska** — an Akhiska Turkish ashik who wrote his
+  poems under the nicknames "Molla", "Cindar" and "Səfili".
+
+
+  Ashik Səfili's family belonged to the upper class of Kobliyan. His father
+  Yusif had great hopes for his son Məhəmməd, who had written poems from a young
+  age, and took a serious interest in his education. His uncle Molla Maksut was
+  a well-known scholar in the region. Ashik Səfili's brother-in-law Molla Şəmşat
+  was also a scholar, and in 1937 he was exiled from his homeland together with
+  the ashik.
 ---
 **Axısqalı Aşıq Molla Məhəmməd Səfili** — şeirlərini "Molla", "Cindar" və "Səfili" ləqəbi ilə yazmış Axısqa türkü aşıq.
 

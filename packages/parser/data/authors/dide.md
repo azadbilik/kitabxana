@@ -16,6 +16,20 @@ bioRu: >-
   **Мирза Насруллах-бек Курбанбеков** (1797, Шемахы, Ширванское ханство — 1870,
   Шемахы, Шемахинский уезд, Шемахинская губерния, Российская империя) —
   азербайджанский поэт XIX века, член литературного общества *«Бейтус-сафа»*.
+bioEn: >-
+  **Mirza Nasrullah bey Dide** — poet, teacher
+
+
+  Mirza Nasrullah Gurbanbeyov Dide is a poet, teacher and prose writer who was
+  active in the Azerbaijani literary and enlightenment milieu of the 19th
+  century. He was one of the members of the «Beytüs-Səfa» literary assembly
+  formed in Shamakhi, and was known in literary circles for his examples in
+  classical poetic genres, especially the qasida and the ghazal. His literary
+  legacy also includes narrative poems and prose works of social content. His
+  moral-didactic prose work «Kitabün-Nəsayeh» is notable as one of the texts
+  reflecting the enlightenment views of the period. Information about Dide has
+  reached our time mainly through the notes of Seyid Azim Shirvani and of the
+  20th-century researcher Salman Mümtaz.
 ---
 **Mirzə Nəsrullah bəy Didə** — şair, pedaqoq
 

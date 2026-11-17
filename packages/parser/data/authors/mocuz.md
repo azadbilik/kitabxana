@@ -18,6 +18,17 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Mirza_Ali_Mojuz.png/330px-Mirza_Ali_Mojuz.png
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mirza_Ali_Mojuz.png'
 portraitCredit: Unknown author · Public domain
+bioEn: >-
+  Ali Mojuz or Mirza Ali Mojuz Shabestarti (Persian: معجز شبستری, Azerbaijani:
+  Mirzə Əli Möcüz, میرزا علی معجز) was an Iranian Azerbaijani poet. He chose to
+  write in Azeri Turkish instead of Persian, Iran's dominant language.
+
+
+  He was born on March 29, 1873, in Shabestar, to a merchant family. Mojuz left
+  his birthplace at age 16 after his father's death. He joined his brothers in
+  Istanbul who ran a stationery business. He later studied at a school of
+  theology. In 1889, he moved to Turkey, where he published his first poems.
+  Mojuz returned to his homeland in 1905.
 ---
 **Mirzə Əli Hacı Ağa oğlu Möcüz** (29 mart 1873, Şəbüstər, Qacar İranı – 25 sentyabr 1934, Şahrud, İran) — Azərbaycan şairi.
 ## Həyatı

@@ -17,6 +17,21 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Mir_Mohsun_Navvab_photo.jpg/330px-Mir_Mohsun_Navvab_photo.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mir_Mohsun_Navvab_photo.jpg'
 portraitCredit: 'Unknown author, 1918 · Public domain'
+bioEn: >-
+  Mir-Mohsun Navvab (Azerbaijani: Mir Möhsün Nəvvab) (1833–1918 in Shusha,
+  present day Azerbaijan) occupies a prominent place in the history of
+  Azerbaijani culture as the last representative of the old traditional school
+  of science, arts and literature. Navvab was a versatile person of his time. He
+  is known as a poet, artist, music historian, astronomer, carpenter, chemist
+  and mathematician.
+
+
+  Navvab was born in 1833 in Shusha and spent his life in this city. His life
+  and works reflect a period of history when Azerbaijan was at the turning point
+  between the old and the new, traditional and novel trends in culture and the
+  general way of life. Although Navvab remained a traditionalist in the arts, he
+  was a progressive person in public life in Karabakh who did a lot for the
+  growth of literacy, culture, and arts in Karabakh.
 ---
 **Mir Möhsün Nəvvab** (میر محسن نواب قره باغی) — Şuşa şəhərində yaşayıb-yaratmış şair, rəssam, astronom, ədəbiyyatşünas, nəqqaş, tarixçi, xəttat və musiqişünas azərbaycanlı alim. XIX əsrin ortalarında Azərbaycanın hər yerində kapitalist münasibətləri cücərən və yeni təfəkkür yaranan bir zamanda orta əsrlərə məxsus elmi biliklər sisteminə sahib ensiklopediyaçı alim Mir Möhsün Nəvvab bu şəhərdə yaşayıb-yaradır. Görkəmli musiqiçi, şair, rəssam, xəttat, münəccim, kimyaçı və riyaziyyatçı olan Mir Möhsünü əsərlərinin məzmunu, səviyyəsi və həcmi etibarilə həqiqətən də orta əsrlərin sonuncu ensiklopedist alimləri dəstəsindən hesab etmək mümkündür. Hərçənd ki, o, Şuşanın ictimai həyatında həmişə qabaqcıl, o dövr üçün mütərəqqi mövqelərdə durmuşdur.
 

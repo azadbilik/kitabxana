@@ -16,6 +16,16 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Jalil_Mammadguluzadeh,_
 portraitCredit: 'Unknown author, 1920 · Public domain'
 bornYear: 1869
 diedYear: 1932
+bioEn: >-
+  Jalil Huseyngulu oghlu Mammadguluzadeh (Azerbaijani: جلیل مَمَغُلوزاده, Cəlil
+  Məmmədquluzadə; 22 February 1869 – 4 January 1932) was an Azerbaijani satirist
+  and writer. He was the founder of Molla Nasraddin, a satirical magazine that
+  would greatly influence the genre in the Middle East and Central Asia.
+
+
+  Mammadguluzadeh is considered to be one of the first women's rights activists
+  in Azerbaijan and Middle East and had a big role in founding the first women's
+  magazine in Azerbaijan.
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Cəlil Məmmədquluzadə Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

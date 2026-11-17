@@ -12,6 +12,17 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioRu: "**Ашуг Валех**, настоящее имя **Сефи**\_— азербайджанский ашуг XVIII века.\n\nАшуг Валех\_— прадед азербайджанского тариста и музыканта Гурбана Примова."
+bioEn: >-
+  **Ashiq Valeh (Karbalayi Safi Valeh)** — a distinguished Azerbaijani ashik of
+  the 18th–19th centuries.
+
+
+  When he was about eight years old, his father placed him with Molla Mahmud,
+  who lived in their village, and asked him to give him a thorough education. He
+  then received his education in the settlement of Shusha. At about 14 he
+  finished the Quran, but refused to become a mullah. The master Ashik Valeh,
+  who lived 93 years, was a contemporary and close associate of Molla Panah
+  Vagif; they lived in the same period and had close relations.
 ---
 **Aşıq Valeh (Kərbəlayi Səfi Valeh)** — XVIII–XIX əsrlərin görkəmli Azərbaycan aşığı.
 

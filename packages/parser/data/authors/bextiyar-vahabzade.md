@@ -16,6 +16,12 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/Bakhtiyar_Vahabzade.jpg/330px-Bakhtiyar_Vahabzade.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Bakhtiyar_Vahabzade.jpg'
 portraitCredit: 'Dilaver Najafov, 2005 · CC BY-SA 4.0'
+bioEn: >-
+  Bakhtiyar Mahmud oghlu Vahabzadeh (Azerbaijani: Bəxtiyar Mahmud oğlu
+  Vahabzadə; August 16, 1925 – February 13, 2009) was an Azerbaijani poet,
+  dramatist, lyricist, translator, professor, and politician. He is often
+  regarded as one of the greatest contemporary poets of the Republic of
+  Azerbaijan.
 ---
 **Bəxtiyar Mahmud oğlu Vahabzadə** — Azərbaycan şairi, dramaturq və ədəbiyyatşünas, Azərbaycan Yazıçılar Birliyinin üzvü (1945-ci ildən), Azərbaycan SSR xalq şairi (1984), filologiya elmləri doktoru (1964), professor, Azərbaycan Milli Elmlər Akademiyasının həqiqi üzvü (2000), SSRİ (1984) və Azərbaycan SSR dövlət mükafatları laureatı (1976).
 

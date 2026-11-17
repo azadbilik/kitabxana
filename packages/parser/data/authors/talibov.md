@@ -12,6 +12,11 @@ period: XIX-XX əsr
 writingLangs:
   - FA
 status: DRAFT
+bioEn: >-
+  Mirzā Abdul'Rahim Tālibi Najjār Tabrizi (1834, Tabriz — 1911,
+  Temir-Khan-Shura, named Buinaksk since 1922) (Persian: ميرزا عبدالرحیم طالبی
+  نجار تبریزی), also known as Talibov (طالبوف), was an Iranian Azerbaijani
+  intellectual and social reformer.
 ---
 
 

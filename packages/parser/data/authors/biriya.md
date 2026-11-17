@@ -17,6 +17,22 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/M%C9%99h%C9%99mm%C9%99d_Biriya.png/330px-M%C9%99h%C9%99mm%C9%99d_Biriya.png
 portraitSource: 'https://commons.wikimedia.org/wiki/File:M%C9%99h%C9%99mm%C9%99d_Biriya.png'
 portraitCredit: 'Unknown author, 1940s · CC BY 4.0'
+bioEn: >-
+  Mohammad Biriya (Azerbaijani: Məhəmməd Biriya; 1914–1985), born Mohammad
+  Baghirzadeh, was a poet, politician, a member of the Azerbaijan Democratic
+  Party, Minister of Culture and Education in the Azerbaijani National
+  Government, chairman of the Azerbaijan Trade Union established in Tabriz, a
+  member of the Azerbaijani National Assembly, and a member of the board of the
+  Azerbaijani Society of Poets and Writers. He was also a victim of repression.
+
+
+  He contributed with his poems and articles to numerous newspapers and journals
+  published in Tabriz. Between 1943 and 1946, he served as the chief editor of
+  the newspapers Yumruq, Ədəbiyyat səhifəsi (Literature page), and Qalaba,
+  published in Tabriz. He authored plays such as Çətirbazlar (The Umbrella Men),
+  Ruznamə idarəsində (At the Newspaper Office), Stalingrad, Ərbab və əkinçi (The
+  Landowner and the Farmer), Mussolini, and Hitler və Mussolini (Hitler and
+  Mussolini).
 ---
 **Məhəmməd Biriya** və ya **Məhəmməd Bağırzadə** — azərbaycanlı şair, dramaturq, siyasətçi, Azərbaycan Demokrat Firqəsinin üzvü, Azərbaycan Milli Hökumətinin Mədəniyyət və Maarif naziri, Təbrizdə qurulmuş Azərbaycan Həmkarlar İttifaqının sədri, Azərbaycan Milli Məclisinin üzvü və Azərbaycan Şairlər və Yazıçılar Cəmiyyətinin idarə heyətinin üzvü, repressiya qurbanı.
 

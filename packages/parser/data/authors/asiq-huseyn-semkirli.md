@@ -11,6 +11,16 @@ period: XIX əsr
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Ashiq Huseyn Shamkirli** — ashik, poet.
+
+
+  Ashik Huseyn is famous for opposing the mullahs and for his poem «Dinmə ver»
+  and his tale «Reyhan». Vali Khuluflu recorded his poems about the mullahs and
+  the tale «Reyhan» from the Armenian Ashik Avak of Chardakhli and circulated
+  them as examples of folklore. The poem «Dinmə ver» was a work criticising the
+  taxes unjustly collected from villagers and the poor under tsarist rule.
+  However, the words of this poem have not survived to the present day.
 ---
 **Aşıq Hüseyn Şəmkirli** — aşıq, şair.
 

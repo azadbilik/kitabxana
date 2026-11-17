@@ -25,6 +25,20 @@ portraitSource: 'https://commons.wikimedia.org/wiki/File:Mikayil_Mushfig.jpg'
 portraitCredit: 'Unknown author, 1930s · Public domain'
 bornYear: 1908
 diedYear: 1938
+bioEn: >-
+  Mikayil Mushfig (Azerbaijani: Mikayıl Müşfiq, born Mikayil Ismayilzade) (5
+  June 1908, Baku – 6 January 1938, Baku) was an Azerbaijani poet of the 1930s.
+  Mikayil Mushfig is considered one of the founders of the new Azerbaijani
+  poetic style.
+
+
+  Most of his poetry is about romance, nature, feelings. Despite this, he soon
+  became one of the slandered and criticized poets in the Union of Soviet
+  Azerbaijani Writers, and soon afterwards, Mushfig was arrested and executed by
+  Soviet authorities at the age of 30 during the Stalinist purges in the USSR.
+  In 1956, he was exonerated posthumously. Nikita Khrushchev era of
+  de-stalinization has resulted in Mushfig's poetry being famous in Azerbaijani
+  society.
 ---
 **Mikayıl Müşfiq** (tam adı: *Mikayıl Əbdülqadir oğlu İsmayılzadə*) — Azərbaycan şairi, tərcüməçisi və pedaqoqu, Azərbaycan Yazıçılar Birliyinin üzvü (1934), "Azərnəşr"in keçmiş redaktoru.
 

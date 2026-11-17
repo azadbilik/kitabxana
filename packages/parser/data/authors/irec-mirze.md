@@ -16,6 +16,13 @@ bioRu: "**Ира́дж-Мирза́** (титул\_— **Джелаль оль-�
 portraitUrl: 'https://upload.wikimedia.org/wikipedia/commons/3/3e/Iraj_Mirza.png'
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Iraj_Mirza.png'
 portraitCredit: 'Unknown author, 1926 · Public domain'
+bioEn: >-
+  Prince Iraj Mirza (Persian: ایرج میرزا, literally Prince Iraj; October 1874 –
+  14 March 1926), titled Jalāl-ol-Mamālek (Persian: جلال‌الممالک), was a
+  prominent Iranian poet. He was the son of Prince Gholam-Hossein Mirza. Iraj
+  Mirza was known for his modern poetry, which often critiqued traditional
+  customs. In addition to his original works, he translated literary pieces from
+  French into Persian.
 ---
 **İrəc Mirzə** (farsca: ), **Cəlalülməmalik** ləqəbiylə də tanınırdı — məşhur İran şairi.
 

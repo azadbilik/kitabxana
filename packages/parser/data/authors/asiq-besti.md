@@ -12,6 +12,14 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioRu: "**Ашуг Басти** (настоящее имя ***Бести Кербалайи Байрамали кызы*** ; 1836, село Лев, Кельбаджарский район, Российская империя\_— 1936, Кельбаджарский район, Азербайджанская ССР)\_— азербайджанская женщина-ашуг XIX\_— XX веков, один из видных представителей женской ашугской школы Азербайджана.\n\nЖизнь ашуга была полна проблем и испытаний, одной из самых трагических которых была её любовь к 17-18 летнему пастуху, который был убит перед её глазами своим хозяином-беком. После данного случая родители Басти несколько раз пытались выдать дочку замуж, но она так до конца жизни и не создала семью, посвятив себя полностью творческой деятельности. По одной из легенд она ослепла от того, что долго горевала и плакала после смерти возлюбленного, в результате чего её прозвали «Слепая Басти».."
+bioEn: >-
+  **Ashiq Basti** (full name: *Basti Karbalayi, daughter of Bayramali*) — a
+  well-known female Azerbaijani ashik of the 19th century.
+
+
+  The main themes of her poems are complaints about injustice and motifs of
+  rebellion against oppressors. According to legend, the ashik, whose eyes had
+  gone blind from weeping, was called "Blind Basti" among the people.
 ---
 **Aşıq Bəsti** (tam adı:*Bəsti Kərbəlayı Bayraməli qızı*) — XIX əsrin tanınmış qadın Azərbaycan aşığı.
 

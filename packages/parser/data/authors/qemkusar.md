@@ -16,6 +16,12 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Aligulu_Gamkusar.jpg/330px-Aligulu_Gamkusar.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Aligulu_Gamkusar.jpg'
 portraitCredit: 'Unknown author, 1913 · Public domain'
+bioEn: >-
+  Aligulu Gamgusar or Aligulu Alekper oglu Najafov (Azerbaijani: Əliqulu Məşədi
+  Ələkbər oğlu Nəcəfov; b. 24 May 1889, Nakhcivan, Russian Empire – d. Tiflis,
+  Georgian Democratic Republic, 14 March 1919) was an Azerbaijani poet,
+  journalist, publicist, public figure and writer. A prominent representative of
+  the revolutionary-satirical direction of Azerbaijani literature.
 ---
 **Əliqulu Qəmküsar** (tam adı: **Əliqulu Məşədi Ələkbər oğlu Nəcəfov**) — Azərbaycan şairi, publisisti. Yazıları ilə "Molla Nəsrəddin", "Yeni füyuzat", "Həyat", "İrşad", "Sədayi-həqq", "Al bayraq", "Gələcək" və s. qəzet və jurnallarda iştirak etmişdir. Əsərləri "Otaylı", "Cüvəllağı", "Cüvəllağı bəy", "Sarsaqqulu bəy", "Qəmküsar" və başqa imzalarla nəşr edilmişdir.
 

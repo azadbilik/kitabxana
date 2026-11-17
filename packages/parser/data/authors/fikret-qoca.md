@@ -12,6 +12,9 @@ writingLangs:
   - AZ_LATIN
 status: DRAFT
 bioRu: "**Фикрет Годжа** (наст. имя **Фикрет Геюш оглы Годжаев**; 25 августа 1935, с. Котанарх,  Агдашский район, Азербайджанская ССР\_— 5 мая 2021, Баку, Азербайджан)\_— советский и азербайджанский писатель, поэт. Народный поэт Азербайджана (1998), Заслуженный деятель искусств Азербайджанской ССР (1979), первый секретарь и заместитель председателя Союза писателей Азербайджана (с 1998 года). Лауреат Государственной премии Азербайджана в области науки и литературы (2016).\n\nВ 1964 г. окончил Литературный институт им. Горького в Москве."
+bioEn: >-
+  Fikrat Goja (Azerbaijani: Fikrət Qoca, 25 August 1935 – 5 May 2021) was an
+  Azerbaijani poet. He was honored as a People's Poet of Azerbaijan in 1998.
 ---
 **Fikrət Göyüş oğlu Qocayev** (*Fikrət Qoca*) — Azərbaycan şairi, Azərbaycan Yazıçılar Birliyinin birinci katibi, Azərbaycan Respublikasınının xalq şairi (1998)
 

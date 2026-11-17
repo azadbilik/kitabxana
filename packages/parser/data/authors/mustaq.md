@@ -31,6 +31,10 @@ bioRu: >-
   Шеки были разгромлены союзом Губинского и Казикумухского ханств 20 сентября
   1768 года Ширван был полностью присоединен к Губинскому ханству. Мирный
   договор был подписан в июле 1769 года.
+bioEn: >-
+  Muhammad Husayn Khan Mushtaq (Persian: محمد حسین خان مشتاق), was the third
+  khan of Shaki. He was described as a courageous but ruthless man by Abbasgulu
+  agha Bakikhanov.
 ---
 **Məhəmməd Hüseyn xan Müştaq** — şair, Şəki xanı (1759–1780).
 

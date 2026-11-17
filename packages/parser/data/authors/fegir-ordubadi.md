@@ -40,6 +40,16 @@ bioRu: >-
   концу жизни поэт отошел от своих прежних романтико-лирических газелей и
   написал пессимистические стихи со жалобным смыслом. Измученный горем, Фагир
   умер в 1886 году. Друзья поэта похоронили его на Ордубадском кладбище.
+bioEn: >-
+  **Haji Agha Faqir Ordubadi** — father of the prominent Azerbaijani prose
+  writer Mammad Said Ordubadi, a well-known intellectual and poet of his time.
+
+
+  According to the research of Firidun bey Kocharli, Faqir Ordubadi studied in
+  Shiraz and mastered Arabic and Persian at a high level. He became closely
+  acquainted with the works of the Eastern classics, especially Saadi, Hafiz,
+  Khayyam, Nizami and Fuzuli, and developed in the art of poetry under their
+  influence.
 ---
 **Hacı ağa Fəqir Ordubadi** — görkəmli Azərbaycan nasiri Məmməd Səid Ordubadinin atası, dövrünün tanınmış ziyalısı və şairi.
 

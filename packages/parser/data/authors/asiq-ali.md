@@ -16,6 +16,9 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Ashiq_Ali.jpg/330px-Ashiq_Ali.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Ashiq_Ali.jpg'
 portraitCredit: 'Усер Вики, 2016 · CC BY-SA 4.0'
+bioEn: >-
+  Ashig Ali (Azerbaijani: عاشق علی, Aşıq Alı, 1801–1911) was one of the
+  representatives of 19th century Azerbaijani ashiq poetry.
 ---
 **Aşıq Alı** və ya **Aşıq Qızılvəngli** — XIX əsr Azərbaycan aşıq şeirinin nümayəndələrindən biri.
 

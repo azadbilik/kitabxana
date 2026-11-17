@@ -16,6 +16,9 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Abdulla_%C5%9Eaiq.jpg/330px-Abdulla_%C5%9Eaiq.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Abdulla_%C5%9Eaiq.jpg'
 portraitCredit: 'Boris Fabisovich, 1946 · Public domain'
+bioEn: >-
+  Abdulla Shaig (Azerbaijani: Abdulla Şaiq) (25 February 1881, Tbilisi – 24 July
+  1959, Baku), born Abdulla Mustafa oglu Talibzadeh, was an Azerbaijani writer.
 ---
 **Abdulla Şaiq** (əsl adı: *Abdulla Axund Mustafa oğlu Talıbzadə*) — azərbaycanlı şair, yazıçı, dramaturq, publisist, pedaqoq, ədəbiyyatşünas, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan uşaq ədəbiyyatının banilərindən biri, Azərbaycan SSR əməkdar incəsənət xadimi (1940).
 

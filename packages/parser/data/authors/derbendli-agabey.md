@@ -7,5 +7,9 @@ type: POET
 writingLangs:
   - AZ_ARABIC
 status: DRAFT
+bioEn: >-
+  **Aghabey of Derbent** — folk poet from Derbent. His poem is a reply to
+  Mohammad bey Arif. One poem is in the second volume of the collection «El
+  şairləri» (Folk Poets) that Salman Mümtaz published in 1928.
 ---
 **Dərbəndli Ağabəy** — Dərbəndli el şairi. Şeiri Məhəmməd bəy Arifə cavabdır. Bir şeiri Salman Mümtazın 1928-ci ildə çap etdirdiyi «El şairləri» toplusunun ikinci cildindədir.

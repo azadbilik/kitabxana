@@ -16,6 +16,17 @@ portraitUrl: >-
   https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Mahammad_Amin_Rasulzade_5.jpg/330px-Mahammad_Amin_Rasulzade_5.jpg
 portraitSource: 'https://commons.wikimedia.org/wiki/File:Mahammad_Amin_Rasulzade_5.jpg'
 portraitCredit: 'Dilgam Ahmad Collection, 1950s · Public domain'
+bioEn: >-
+  Mahammad Amin Akhund Haji Molla Alakbar oghlu Rasulzade (31 January 1884 – 6
+  March 1955) was an Azerbaijani politician, journalist and the head of the
+  Azerbaijani National Council. He is mainly considered the founder of
+  Azerbaijan Democratic Republic in 1918 and the father of its statehood. His
+  expression "Bir kərə yüksələn bayraq, bir daha enməz!" ("The flag once raised
+  shall never fall!") became the motto of the independence movement in
+  Azerbaijan in the early 20th century. He faced numerous exiles from both
+  Turkey and Iran. During World War II, Rasulzade attempted to form a strategic
+  alliance with Nazi Germany in order to garner support for an independent
+  Azerbaijan.
 ---
 **Məhəmməd Əmin Rəsulzadə** (tam adı: *Məhəmməd Əmin Axund Hacı Molla Ələkbər oğlu Rəsulzadə*) — Azərbaycan Xalq Cümhuriyyətinin banilərindən biri, Azərbaycan Xalq Cümhuriyyəti Milli Şurasının sədri (may-dekabr 1918), ictimai-siyasi və dövlət xadimi. Onun *"Bir kərə yüksələn bayraq bir daha enməz!"* ifadəsi XX əsrdə Azərbaycanda istiqlal hərəkatının şüarı olmuşdur.
 

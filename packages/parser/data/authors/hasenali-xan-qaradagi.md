@@ -18,6 +18,12 @@ portraitUrl: >-
 portraitSource: >-
   https://commons.wikimedia.org/wiki/File:H%C9%99s%C9%99n%C9%99li_xan_Qarada%C4%9Fi.jpg
 portraitCredit: Unknown author · Public domain
+bioEn: >-
+  Hasan Ali Khan Garadaghi (Azerbaijani: Həsənəli xan Qaradaği) or Hasanali khan
+  Karadakhski (Russian: Гасаналиага хан Карадагский), was an Azerbaijani
+  philologist, writer, poet and teacher. He is mainly known for his contribution
+  to "Vatan dili" (Mother Language) which was the main textbook for Azerbaijani
+  school children for almost 40 years, from 1882 to 1920.
 ---
 **Həsənəli xan Qaradaği** — Azərbaycan maarifpərvəri, şair, pedaqoq, ədəbiyyatşünas, tərcüməçi, filoloq, tarixçi, xəttat, teatr xadimi.
 
