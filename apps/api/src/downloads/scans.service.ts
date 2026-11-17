@@ -50,6 +50,25 @@ const KNOWN_PAGES: Record<string, { from: number; to: number }> = {
   'anl-8529-t1': { from: 4, to: 93 },
 };
 
+/**
+ * Books whose contents page gives each work's printed page. `starts` lists them in the order of
+ * the works' sourceIds, `end` is the last printed page of text, and `pdfPage` maps a printed
+ * page to the scan's page. A work runs to the page the next one starts on, since it may start
+ * mid-page.
+ */
+const CONTENTS: Record<string, { starts: number[]; end: number; pdfPage: (printed: number) => number }> = {
+  // Mirzə İbrahimov, Seçilmiş əsərləri II (2005), «Gələcək gün», contents on p. 519.
+  // Scanned as spreads: PDF page N holds printed pages 2N−2 and 2N−1
+  'anl-8483': {
+    starts: [
+      7, 50, 64, 69, 79, 89, 98, 105, 125, 146, 166, 185, 205, 217, 228, 240, 250, 262, 274, 295, 307, 323, 341,
+      362, 376, 392, 410, 428, 461, 481, 488, 497, 504,
+    ],
+    end: 518,
+    pdfPage: (printed) => Math.floor(printed / 2) + 1,
+  },
+};
+
 const naturalCompare = (a: string, b: string) => a.localeCompare(b, 'en', { numeric: true });
 
 /**
@@ -181,6 +200,18 @@ export class ScansService {
       }
     });
 
+    const contents = CONTENTS[key];
+    if (contents) {
+      const ordered = rows.map((r) => r.sourceId).sort(naturalCompare);
+      if (ordered.length === contents.starts.length) {
+        ordered.forEach((sourceId, i) => {
+          const to = contents.pdfPage(contents.starts[i + 1] ?? contents.end);
+          works.set(sourceId, { from: contents.pdfPage(contents.starts[i]), to: Math.min(to, pages) });
+        });
+      } else {
+        this.logger.warn(`${key}: ${ordered.length} works but ${contents.starts.length} contents entries; pages estimated`);
+      }
+    }
     for (const [sourceId, range] of Object.entries(KNOWN_PAGES)) {
       if (works.has(sourceId)) works.set(sourceId, { from: range.from, to: Math.min(range.to, pages) });
     }
