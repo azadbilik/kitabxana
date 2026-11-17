@@ -91,7 +91,8 @@ export const api = {
   getAuthors: (params?: URLSearchParams) =>
     fetcher(`/authors${params ? `?${params}` : ''}`),
   getAuthor: (slug: string) => fetcher(`/authors/${slug}`),
-  getFeaturedAuthor: () => fetcher('/authors/featured'),
+  /** Poet of the week, picked so everything shown is in the reader's language */
+  getFeaturedAuthor: (locale: string) => fetcher(`/authors/featured?lang=${locale}`),
 
   // Collections
   getCollection: (slug: string) => fetcher(`/collections/${slug}`),
@@ -100,9 +101,9 @@ export const api = {
   getWorks: (params?: URLSearchParams) =>
     fetcher(`/works${params ? `?${params}` : ''}`),
   getWork: (slug: string) => fetcher(`/works/${slug}`),
-  getRandomWork: () => fetcher<{ slug: string }>('/works/random', { cache: 'no-store' }),
+  getRandomWork: (locale: string) => fetcher<{ slug: string }>(`/works/random?lang=${locale}`, { cache: 'no-store' }),
   getCatalog: () => fetcher<Catalog>('/works/catalog', { next: { revalidate: 600 } }),
-  getPoemOfTheDay: () => fetcher<PoemOfTheDay>('/works/daily', { cache: 'no-store' }),
+  getPoemOfTheDay: (locale: string) => fetcher<PoemOfTheDay>(`/works/daily?lang=${locale}`, { cache: 'no-store' }),
   resolveWork: (slug: string) => fetcher<{ slug: string }>(`/works/resolve/${slug}`),
   getMoreByAuthor: (slug: string, locale: string) =>
     fetcher<MoreWork[]>(`/works/${slug}/more?locale=${locale}`),
@@ -196,7 +197,8 @@ export interface PoemOfTheDay {
   form: string | null;
   year: number | null;
   date: string;
-  /** Opening lines, in Azerbaijani */
+  /** The UI language it was picked for; its title and opening lines are in it */
+  lang: 'az' | 'ru' | 'en';
   excerpt: string[];
   author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
 }

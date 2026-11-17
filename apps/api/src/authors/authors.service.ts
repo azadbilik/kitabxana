@@ -1,5 +1,6 @@
 import { Injectable, NotFoundException } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
+import { readableIn, type UiLang } from '../works/works.service';
 import { PrismaService } from '../prisma/prisma.service';
 import { QueryAuthorsDto } from './dto/query-authors.dto';
 import { CreateAuthorDto } from './dto/create-author.dto';
@@ -39,8 +40,15 @@ export class AuthorsService {
       }),
     };
 
-    // "Recently added" means something to read: catalogue-only authors (no works yet) stay out of it
-    const listWhere = query.sort === 'recent' ? { ...where, works: { some: {} } } : where;
+    // "Recently added" means something to read: catalogue-only authors (no works yet) stay out of it.
+    // readableIn narrows that to authors with a name and a work readable in the reader's language.
+    const listWhere: Prisma.AuthorWhereInput = query.readableIn
+      ? {
+          ...where,
+          ...(query.readableIn !== 'az' && { [query.readableIn === 'ru' ? 'nameRu' : 'nameEn']: { not: null } }),
+          works: { some: { status: 'PUBLISHED', ...readableIn(query.readableIn) } },
+        }
+      : query.sort === 'recent' ? { ...where, works: { some: {} } } : where;
 
     const [data, total] = await this.prisma.$transaction([
       this.prisma.author.findMany({
@@ -134,7 +142,15 @@ export class AuthorsService {
     };
   }
 
-  async findFeatured() {
+  /**
+   * Poet of the week for a UI language. Azerbaijani: the editor's pick, else the author with
+   * the most works. Russian and English show nothing in another language, so the pick must
+   * have a bio in it; failing that, the author with the most works readable in it, sent
+   * without a bio when there is none in that language.
+   */
+  async findFeatured(lang: UiLang = 'az') {
+    const bioField = ({ az: 'bioAz', ru: 'bioRu', en: 'bioEn' } as const)[lang];
+    const nameField = ({ az: 'nameAz', ru: 'nameRu', en: 'nameEn' } as const)[lang];
     const select = {
       id: true,
       slug: true,
@@ -146,27 +162,26 @@ export class AuthorsService {
       type: true,
       period: true,
       portraitUrl: true,
-      bioAz: true,
-      bioRu: true,
-      bioEn: true,
+      [bioField]: true,
       _count: { select: { works: true } },
-    };
+    } as const;
+    const hasBio: Prisma.AuthorWhereInput =
+      lang === 'az' ? {} : { [bioField]: { not: null }, NOT: { [bioField]: '' }, [nameField]: { not: null } };
+    const readable: Prisma.AuthorWhereInput = { works: { some: { status: 'PUBLISHED', ...readableIn(lang) } } };
 
-    // Try explicitly featured author first
-    const featured = await this.prisma.author.findFirst({
-      where: { featuredAt: { not: null }, status: 'PUBLISHED' },
-      orderBy: { featuredAt: 'desc' },
-      select,
-    });
-
-    if (featured) return featured;
-
-    // Fallback: pick the author with the most works
-    return this.prisma.author.findFirst({
-      where: { status: 'PUBLISHED' },
-      orderBy: { works: { _count: 'desc' } },
-      select,
-    });
+    const picks: Prisma.AuthorFindFirstArgs[] = [
+      { where: { featuredAt: { not: null }, status: 'PUBLISHED', ...hasBio }, orderBy: { featuredAt: 'desc' } },
+      { where: { status: 'PUBLISHED', ...hasBio, ...(lang !== 'az' && readable) }, orderBy: { works: { _count: 'desc' } } },
+      { where: { status: 'PUBLISHED', ...hasBio }, orderBy: { works: { _count: 'desc' } } },
+      ...(lang === 'az'
+        ? []
+        : [{ where: { status: 'PUBLISHED', [nameField]: { not: null }, ...readable }, orderBy: { works: { _count: 'desc' } } } as Prisma.AuthorFindFirstArgs]),
+    ];
+    for (const pick of picks) {
+      const author = await this.prisma.author.findFirst({ ...pick, select });
+      if (author) return author;
+    }
+    return null;
   }
 
   private newSlug(names: (string | null | undefined)[]) {

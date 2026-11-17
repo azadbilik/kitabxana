@@ -22,6 +22,23 @@ const READABLE_POEM: Prisma.WorkWhereInput = {
   ],
 };
 
+export type UiLang = 'az' | 'ru' | 'en';
+
+/**
+ * Works a reader of this UI language can read entirely in it: Azerbaijani as before; Russian
+ * and English need both a title and a published text (original or translation) in it.
+ */
+export function readableIn(lang: UiLang): Prisma.WorkWhereInput {
+  if (lang === 'az') return { OR: READABLE_POEM.OR };
+  const language: Language = lang === 'ru' ? 'RU' : 'EN';
+  return {
+    [lang === 'ru' ? 'titleRu' : 'titleEn']: { not: null },
+    OR: [{ originalLang: language }, { translations: { some: { language, status: 'PUBLISHED' } } }],
+  };
+}
+
+const readablePoem = (lang: UiLang): Prisma.WorkWhereInput => ({ status: 'PUBLISHED', genre: 'POEM', ...readableIn(lang) });
+
 /** Calendar day in Baku, the portal's home time zone (YYYY-MM-DD) */
 function bakuDate(now = new Date()) {
   return now.toLocaleDateString('en-CA', { timeZone: 'Asia/Baku' });
@@ -81,7 +98,7 @@ export class WorksService {
     private scans: ScansService,
   ) {}
 
-  private daily: { date: string; work: unknown } | null = null;
+  private daily = new Map<UiLang, { date: string; work: unknown }>();
 
   async findAll(query: QueryWorksDto) {
     const { skip, take, page, limit } = paginationArgs(query);
@@ -97,6 +114,7 @@ export class WorksService {
         author: { slug: query.authorSlug },
       }),
       ...(query.tag && { tags: { some: { tag: { slug: query.tag }, source: { not: 'REJECTED' } } } }),
+      ...(query.readableIn && { AND: [readableIn(query.readableIn)] }),
       ...(query.q && {
         OR: (['titleAz', 'titleRu', 'titleEn'] as const).map((field) => ({
           [field]: { contains: query.q, mode: 'insensitive' as const },
@@ -117,6 +135,7 @@ export class WorksService {
           slug: true,
           titleAz: true,
           titleRu: true,
+          titleEn: true,
           genre: true,
           form: true,
           year: true,
@@ -124,7 +143,7 @@ export class WorksService {
           originalLang: true,
           status: true,
           author: {
-            select: { slug: true, nameAz: true, nameRu: true },
+            select: { slug: true, nameAz: true, nameRu: true, nameEn: true },
           },
           collection: {
             select: { slug: true, titleAz: true },
@@ -285,11 +304,12 @@ export class WorksService {
   }
 
   /** Slug of a random readable poem */
-  async random() {
-    const count = await this.prisma.work.count({ where: READABLE_POEM });
+  async random(lang: UiLang = 'az') {
+    const where = readablePoem(lang);
+    const count = await this.prisma.work.count({ where });
     if (!count) throw new NotFoundException('No poems yet');
     return this.prisma.work.findFirstOrThrow({
-      where: READABLE_POEM,
+      where,
       orderBy: { id: 'asc' },
       skip: Math.floor(Math.random() * count),
       select: { slug: true },
@@ -419,15 +439,21 @@ export class WorksService {
     };
   }
 
-  /** Poem of the day: the same for everyone until midnight in Baku */
-  async poemOfTheDay() {
+  /**
+   * Poem of the day: the same for everyone until midnight in Baku. Each UI language gets one
+   * it can read in full (title and text in that language), with its opening lines from that text.
+   */
+  async poemOfTheDay(lang: UiLang = 'az') {
     const date = bakuDate();
-    if (this.daily?.date === date) return this.daily.work;
+    const cached = this.daily.get(lang);
+    if (cached?.date === date) return cached.work;
 
-    const count = await this.prisma.work.count({ where: READABLE_POEM });
+    const where = readablePoem(lang);
+    const count = await this.prisma.work.count({ where });
     if (!count) throw new NotFoundException('No poems yet');
+    const language = UI_LANGUAGE[lang];
     const work = await this.prisma.work.findFirstOrThrow({
-      where: READABLE_POEM,
+      where,
       orderBy: { id: 'asc' },
       skip: hash(date) % count,
       select: {
@@ -441,7 +467,7 @@ export class WorksService {
         year: true,
         author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
         translations: {
-          where: { language: 'AZ_LATIN', status: 'PUBLISHED' },
+          where: { language, status: 'PUBLISHED' },
           orderBy: [{ isDefault: 'desc' }, { createdAt: 'asc' }],
           take: 1,
           select: { body: true },
@@ -450,9 +476,9 @@ export class WorksService {
     });
 
     const { body, translations, ...rest } = work;
-    const text = rest.originalLang === 'AZ_LATIN' ? body : translations[0]?.body ?? body;
-    const daily = { ...rest, date, excerpt: excerpt(text) };
-    this.daily = { date, work: daily };
+    const text = rest.originalLang === language ? body : translations[0]?.body ?? body;
+    const daily = { ...rest, date, lang, excerpt: excerpt(text) };
+    this.daily.set(lang, { date, work: daily });
     return daily;
   }
 

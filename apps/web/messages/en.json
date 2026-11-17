@@ -45,7 +45,10 @@
     "works_count": "{count} works",
     "born": "b.",
     "died": "d.",
-    "circa": "c."
+    "circa": "c.",
+    "bio_only_az": "The biography is only in Azerbaijani so far.",
+    "bio_read_az": "Read it in Azerbaijani",
+    "no_results": "No results found"
   },
   "works": {
     "title": "Works",
@@ -360,5 +363,10 @@
     "title": "Page not found",
     "text": "There is nothing at this address. The page may have moved, or the address may have a typo.",
     "search_placeholder": "A work, an author, a word..."
+  },
+  "error": {
+    "title": "Something went wrong",
+    "text": "There was a problem loading the page.",
+    "retry": "Try again"
   }
 }

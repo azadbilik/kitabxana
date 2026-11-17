@@ -65,6 +65,11 @@ export class QueryWorksDto {
   @IsIn(['az', 'ru', 'en'])
   incipit?: 'az' | 'ru' | 'en';
 
+  @ApiPropertyOptional({ description: 'Only works readable in full in this UI language (title and text)', enum: ['az', 'ru', 'en'] })
+  @IsOptional()
+  @IsIn(['az', 'ru', 'en'])
+  readableIn?: 'az' | 'ru' | 'en';
+
   @ApiPropertyOptional({ description: 'Include all statuses (for admin)' })
   @IsOptional()
   all?: string;

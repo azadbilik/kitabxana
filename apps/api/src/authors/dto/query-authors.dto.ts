@@ -1,4 +1,4 @@
-import { IsOptional, IsEnum, IsInt, Min, Max } from 'class-validator';
+import { IsOptional, IsEnum, IsIn, IsInt, Min, Max } from 'class-validator';
 import { ApiPropertyOptional } from '@nestjs/swagger';
 import { AuthorType, Language } from '@prisma/client';
 
@@ -46,6 +46,11 @@ export class QueryAuthorsDto {
   @ApiPropertyOptional({ description: 'Sort order: name (default) or recent' })
   @IsOptional()
   sort?: 'name' | 'recent';
+
+  @ApiPropertyOptional({ description: 'Only authors with a name and a work readable in this UI language', enum: ['az', 'ru', 'en'] })
+  @IsOptional()
+  @IsIn(['az', 'ru', 'en'])
+  readableIn?: 'az' | 'ru' | 'en';
 
   @ApiPropertyOptional({ description: 'Include all statuses (for admin)' })
   @IsOptional()

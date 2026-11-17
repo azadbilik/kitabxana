@@ -4,7 +4,7 @@ import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { api, type PoemOfTheDay } from '../../lib/api';
-import { localized } from '@/lib/locale';
+import { localized, ownField, periodLabel } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
 import { CatalogTiles } from '@/components/home/CatalogTiles';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
@@ -73,8 +73,9 @@ function localeTitle(item: Record<string, any>, locale: string) {
   return localized(item, 'title', locale) ?? '';
 }
 
+/** Only a bio written in the reader's language; never the Azerbaijani one in its place */
 function localeBio(item: Record<string, any>, locale: string) {
-  return localized(item, 'bio', locale);
+  return ownField(item, 'bio', locale);
 }
 
 function genreLabel(genre: string, form: string | undefined, locale: string) {
@@ -121,10 +122,11 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
 
   // Fetch data from API in parallel
   const [featured, daily, authorsRes, worksRes, tags, catalog] = await Promise.all([
-    api.getFeaturedAuthor().catch(() => null) as Promise<FeaturedAuthor | null>,
-    api.getPoemOfTheDay().catch(() => null) as Promise<PoemOfTheDay | null>,
-    api.getAuthors(new URLSearchParams({ limit: '4', sort: 'recent' })) as Promise<{ data: AuthorListItem[] }>,
-    api.getWorks(new URLSearchParams({ limit: '6', sort: 'recent' })) as Promise<{ data: WorkListItem[] }>,
+    api.getFeaturedAuthor(locale).catch(() => null) as Promise<FeaturedAuthor | null>,
+    api.getPoemOfTheDay(locale).catch(() => null) as Promise<PoemOfTheDay | null>,
+    // In Russian and English, only authors and works the reader can read in that language
+    api.getAuthors(new URLSearchParams({ limit: '4', sort: 'recent', ...(locale !== 'az' && { readableIn: locale }) })) as Promise<{ data: AuthorListItem[] }>,
+    api.getWorks(new URLSearchParams({ limit: '6', sort: 'recent', ...(locale !== 'az' && { readableIn: locale }) })) as Promise<{ data: WorkListItem[] }>,
     api.getTags().catch(() => []),
     api.getCatalog().catch(() => null),
   ]);
@@ -146,12 +148,12 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           '@context': 'https://schema.org',
           '@type': 'WebSite',
           name: 'Kitabxana.az',
-          url: `${SITE_URL}/${locale}`,
+          url: `${SITE_URL}${localePath(locale)}`,
           inLanguage: locale,
           publisher: publisherLd,
           potentialAction: {
             '@type': 'SearchAction',
-            target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}/${locale}/search?q={search_term_string}` },
+            target: { '@type': 'EntryPoint', urlTemplate: `${SITE_URL}${localePath(locale, '/search')}?q={search_term_string}` },
             'query-input': 'required name=search_term_string',
           },
         }}
@@ -176,7 +178,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     {featured.period && (
                       <>
                         {featured.bornYear && <span className="dot" />}
-                        <span>{featured.period}</span>
+                        <span>{periodLabel(featured.period, locale)}</span>
                       </>
                     )}
                     <span className="dot" />
@@ -214,7 +216,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 <Link href={localePath(locale, `/authors/${daily.author.slug}`)}>{localeName(daily.author, locale)}</Link>
                 {daily.year ? ` · ${daily.year}` : ''}
               </div>
-              <blockquote className="daily-poem-excerpt" lang="az-Latn">
+              <blockquote className="daily-poem-excerpt" lang={daily.lang === 'az' ? 'az-Latn' : daily.lang}>
                 {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
               </blockquote>
               <div className="daily-poem-actions">
@@ -234,7 +236,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               <Link key={author.slug} href={localePath(locale, `/authors/${author.slug}`)} className="recent-item">
                 <div className="recent-item-name">{localeName(author, locale)}</div>
                 <div className="recent-item-meta">
-                  {author.period && <>{author.period} · </>}
+                  {author.period && <>{periodLabel(author.period, locale)} · </>}
                   {authorTypeMeta(author.type, locale)}
                   {author._count.works > 0 && <> · {author._count.works}</>}
                 </div>

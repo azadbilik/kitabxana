@@ -11,7 +11,7 @@ import {
 import { AuthGuard } from '@nestjs/passport';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 import { UserRole } from '@prisma/client';
-import { WorksService } from './works.service';
+import { WorksService, type UiLang } from './works.service';
 import { CreateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
 import { SetWorkTagsDto } from './dto/set-work-tags.dto';
@@ -40,8 +40,8 @@ export class WorksController {
 
   @Public()
   @Get('random')
-  random() {
-    return this.works.random();
+  random(@Query('lang') lang?: string) {
+    return this.works.random(uiLang(lang));
   }
 
   @Public()
@@ -52,8 +52,8 @@ export class WorksController {
 
   @Public()
   @Get('daily')
-  poemOfTheDay() {
-    return this.works.poemOfTheDay();
+  poemOfTheDay(@Query('lang') lang?: string) {
+    return this.works.poemOfTheDay(uiLang(lang));
   }
 
   @Public()
@@ -117,4 +117,9 @@ export class WorksController {
   reorder(@Param('id') id: string, @Body('order') order: number) {
     return this.works.reorder(id, order);
   }
+}
+
+/** A UI language from a query param; anything else is Azerbaijani */
+function uiLang(lang: string | undefined): UiLang {
+  return lang === 'ru' || lang === 'en' ? lang : 'az';
 }

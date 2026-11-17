@@ -8,7 +8,7 @@ export const dynamic = 'force-dynamic';
 export async function GET(req: NextRequest, { params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const base = process.env.SITE_URL ?? req.url;
-  const work = await api.getRandomWork().catch(() => null);
+  const work = await api.getRandomWork(locale).catch(() => null);
   const target = new URL(localePath(locale, work ? `/works/${encodeURIComponent(work.slug)}` : '/works'), base);
   const res = NextResponse.redirect(target, 307);
   res.headers.set('Cache-Control', 'no-store');

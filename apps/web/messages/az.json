@@ -45,7 +45,10 @@
     "works_count": "{count} əsər",
     "born": "d.",
     "died": "ö.",
-    "circa": "təx."
+    "circa": "təx.",
+    "bio_only_az": "Bioqrafiya hələ yalnız azərbaycancadır.",
+    "bio_read_az": "Azərbaycanca oxu",
+    "no_results": "Heç nə tapılmadı"
   },
   "works": {
     "title": "Əsərlər",
@@ -360,5 +363,10 @@
     "title": "Səhifə tapılmadı",
     "text": "Bu ünvanda səhifə yoxdur. Ola bilsin, köçürülüb, ya da ünvanda hərf səhvi var.",
     "search_placeholder": "Axtardığınız əsər, müəllif, söz..."
+  },
+  "error": {
+    "title": "Xəta baş verdi",
+    "text": "Səhifə yüklənərkən problem yarandı.",
+    "retry": "Yenidən cəhd et"
   }
 }

@@ -1,6 +1,7 @@
 import type { Metadata } from 'next';
 import { api, notFoundOn404 } from '@/lib/api';
-import { localized } from '@/lib/locale';
+import { localized, ownField, periodLabel } from '@/lib/locale';
+import { getTranslations } from 'next-intl/server';
 import { breadcrumbLd, excerpt, pageMetadata, sameAs, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
 import { JsonLd } from '@/components/seo/JsonLd';
@@ -39,7 +40,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     locale,
     path: `/authors/${slug}`,
     title: localized(author, 'name', locale) ?? author.nameAz,
-    description: excerpt(localized(author, 'bio', locale)),
+    description: excerpt(ownField(author, 'bio', locale)),
     type: 'profile',
     images: false,
   });
@@ -50,7 +51,10 @@ export default async function AuthorPage({ params }: Props) {
   const author = (await api.getAuthor(slug).catch(notFoundOn404)) as any;
 
   const name = localized(author, 'name', locale) ?? '';
-  const bio = localized(author, 'bio', locale);
+  // Only a bio in the reader's language; otherwise a pointer to the Azerbaijani one
+  const bio = ownField(author, 'bio', locale);
+  const bioElsewhere = !bio && locale !== 'az' && Boolean(author.bioAz);
+  const t = await getTranslations({ locale, namespace: 'authors' });
   const authorsLabel = locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər';
 
   const years = [
@@ -137,7 +141,7 @@ export default async function AuthorPage({ params }: Props) {
         <div>
           <h1 className="author-name">{name}</h1>
           <div className="author-period">
-            {[years, author.type && (typeLabels[author.type]?.[locale] ?? author.type), author.period]
+            {[years, author.type && (typeLabels[author.type]?.[locale] ?? author.type), periodLabel(author.period, locale)]
               .filter(Boolean)
               .join(' · ')}
           </div>
@@ -159,6 +163,12 @@ export default async function AuthorPage({ params }: Props) {
               className="author-bio"
               dangerouslySetInnerHTML={{ __html: bio }}
             />
+          )}
+          {bioElsewhere && (
+            <p className="author-bio author-bio--elsewhere" style={{ color: 'var(--muted)', fontStyle: 'italic' }}>
+              {t('bio_only_az')}{' '}
+              <Link href={localePath('az', `/authors/${slug}`)} hrefLang="az">{t('bio_read_az')} →</Link>
+            </p>
           )}
 
           {(author.works?.length > 0 || author.collections?.some((c: any) => c.works?.length > 0)) && (

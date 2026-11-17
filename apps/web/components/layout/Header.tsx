@@ -11,6 +11,8 @@ import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
 import { useHideOnScroll } from './useHideOnScroll';
 import { localePath } from '@/lib/i18n';
 
+const city: Record<string, string> = { az: 'Bakı', ru: 'Баку', en: 'Baku' };
+
 const datelineSubtitle: Record<string, string> = {
   az: 'Azərbaycan ədəbiyyatı xəzinəsi',
   ru: 'Сокровищница азербайджанской литературы',
@@ -97,7 +99,7 @@ export function Header() {
       </div>
       <div className="dateline">
         <div className="dateline-inner">
-          {formatDate(locale)} &nbsp;·&nbsp; Bakı &nbsp;·&nbsp; {datelineSubtitle[locale] ?? datelineSubtitle.az}
+          {formatDate(locale)} &nbsp;·&nbsp; {city[locale] ?? city.az} &nbsp;·&nbsp; {datelineSubtitle[locale] ?? datelineSubtitle.az}
         </div>
       </div>
     </header>

@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { getTranslations as getMetaTranslations } from 'next-intl/server';
 import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
-import { localized } from '@/lib/locale';
+import { localized, periodLabel } from '@/lib/locale';
 import Link from 'next/link';
 import type { PaginatedResponse, AuthorSummary } from '@irs-az/shared';
 import { AuthorFilters } from '@/components/authors/AuthorFilters';
@@ -145,7 +145,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
                 {author.period && (
                   <>
                     <span className="dot" />
-                    <span>{author.period}</span>
+                    <span>{periodLabel(author.period, locale)}</span>
                   </>
                 )}
                 {author._count.works > 0 && (
@@ -165,7 +165,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
 
       {result.data.length === 0 && (
         <p style={{ color: 'var(--muted)', textAlign: 'center', marginTop: '2rem', fontStyle: 'italic' }}>
-          {locale === 'ru' ? 'Ничего не найдено' : 'Heç nə tapılmadı'}
+          {locale === 'ru' ? 'Ничего не найдено' : locale === 'en' ? 'No results found' : 'Heç nə tapılmadı'}
         </p>
       )}
 

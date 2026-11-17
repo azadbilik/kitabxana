@@ -31,8 +31,8 @@ export class AuthorsController {
 
   @Public()
   @Get('featured')
-  findFeatured() {
-    return this.authors.findFeatured();
+  findFeatured(@Query('lang') lang?: string) {
+    return this.authors.findFeatured(lang === 'ru' || lang === 'en' ? lang : 'az');
   }
 
   @ApiBearerAuth()
