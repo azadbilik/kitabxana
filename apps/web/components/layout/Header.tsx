@@ -135,7 +135,7 @@ export function Header() {
           Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
 
-        <Link href={localePath(locale, '/works')} className="catalog-btn">
+        <Link href={localePath(locale, '/collections')} className="catalog-btn">
           <svg aria-hidden="true" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round">
             <path d="M4 6h16M4 12h16M4 18h16" />
           </svg>

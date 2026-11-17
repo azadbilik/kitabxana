@@ -20,7 +20,14 @@
     "coming_soon": "Tezliklə daha çox əsər əlavə olunacaq...",
     "daily_label": "Günün şeiri",
     "read_full": "Tam oxu",
-    "random_poem": "Təsadüfi şeir"
+    "random_poem": "Təsadüfi şeir",
+    "shelf_new": "Yeni əlavələr",
+    "shelf_classics": "Klassik irs",
+    "shelf_prose": "Romanlar və hekayələr",
+    "shelf_drama": "Dram əsərləri",
+    "see_all": "Hamısı",
+    "browse_label": "Kataloqa baxın",
+    "work_count": "{count, plural, one {# əsər} other {# əsər}}"
   },
   "nav": {
     "home": "Ana səhifə",
@@ -376,5 +383,26 @@
     "title": "Xəta baş verdi",
     "text": "Səhifə yüklənərkən problem yarandı.",
     "retry": "Yenidən cəhd et"
+  },
+  "books": {
+    "title": "Kitablar",
+    "description": "Kitabxana.az-dakı bütün kitablar: divanlar, romanlar, pyeslər, şeir topluları.",
+    "all": "Hamısı",
+    "sort_recent": "Yenilər",
+    "sort_title": "Ada görə",
+    "sort_size": "Həcmə görə",
+    "count": "{count, plural, one {# kitab} other {# kitab}}",
+    "empty": "Bu seçimə uyğun kitab yoxdur.",
+    "genre_label": "Janr",
+    "century_label": "Əsr",
+    "sort_label": "Sıralama"
+  },
+  "book": {
+    "start": "Oxumağa başla",
+    "contents": "Məzmun",
+    "parts": "{count, plural, one {# əsər} other {# əsər}}",
+    "home": "Ana səhifə",
+    "books": "Kitablar",
+    "more_by_author": "Müəllifin digər kitabları"
   }
 }

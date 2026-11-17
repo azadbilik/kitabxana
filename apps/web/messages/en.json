@@ -20,7 +20,14 @@
     "coming_soon": "More works will be added soon...",
     "daily_label": "Poem of the day",
     "read_full": "Read in full",
-    "random_poem": "Random poem"
+    "random_poem": "Random poem",
+    "shelf_new": "New on the shelves",
+    "shelf_classics": "Classical heritage",
+    "shelf_prose": "Novels and stories",
+    "shelf_drama": "Plays",
+    "see_all": "See all",
+    "browse_label": "Browse the catalogue",
+    "work_count": "{count, plural, one {# work} other {# works}}"
   },
   "nav": {
     "home": "Home",
@@ -376,5 +383,26 @@
     "title": "Something went wrong",
     "text": "There was a problem loading the page.",
     "retry": "Try again"
+  },
+  "books": {
+    "title": "Books",
+    "description": "Every book on Kitabxana.az: divans, novels, plays and collections of poems.",
+    "all": "All",
+    "sort_recent": "Newest",
+    "sort_title": "By title",
+    "sort_size": "By size",
+    "count": "{count, plural, one {# book} other {# books}}",
+    "empty": "No books match this choice.",
+    "genre_label": "Genre",
+    "century_label": "Century",
+    "sort_label": "Order"
+  },
+  "book": {
+    "start": "Start reading",
+    "contents": "Contents",
+    "parts": "{count, plural, one {# work} other {# works}}",
+    "home": "Home",
+    "books": "Books",
+    "more_by_author": "More books by the author"
   }
 }

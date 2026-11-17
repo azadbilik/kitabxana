@@ -1867,170 +1867,34 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
 }
 .daily-poem-actions .more { color: var(--pomeg); }
 
-/* ── Homepage on one screen ─────────────────────────────────── */
-/* The catalogue and new works run under both columns */
-.home-grid > .catalog,
-.home-grid > .works-strip { grid-column: 1 / -1; }
-
-/* Wide screens: the homepage runs straight into the footer */
-@media (min-width: 1100px) {
-  .home { padding-bottom: 0; }
-  body:has(.home) .footer { margin-top: 0; }
+/* ── Homepage: hero, shelves, browse ───────────────────────── */
+.home-hero {
+  display:               grid;
+  grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+  gap:                   1.5rem;
+  align-items:           stretch;
+  padding-top:           1.75rem;
 }
-
-/* Tall screens keep the original layout, a little tighter, so it ends above the fold */
-@media (min-width: 1100px) and (min-height: 1285px) {
-  .home-featured { padding-top: 1.25rem; padding-bottom: 1.25rem; }
-  .home-sidebar  { padding-top: 1.25rem; padding-bottom: 1.25rem; }
-  .featured-box { margin-bottom: 1rem; }
-  .featured-box-inner { padding: 1.6rem 2rem 1.4rem; }
-  .featured-name { font-size: 3rem; }
-  .home-featured .daily-poem { margin-top: 1rem; padding: 0.75rem 0 0; }
-  .daily-poem-excerpt { margin: 0.7rem auto; }
-  .catalog { padding: 0.75rem 0 0.75rem; }
-  .catalog-tile { padding: 0.6rem 0.75rem 0.7rem; }
-  .works-strip { padding: 0.75rem 0 1.25rem; }
-  .home-sidebar .recent-item { padding: 0.3rem 0; }
-  .home-sidebar-orn { margin: 0.5rem 0; padding-bottom: 0.75rem; }
-  .home-sidebar .pill { line-height: 1.5; }
-  .home-sidebar-section { margin-bottom: 0.5rem; }
+.home-hero > * { min-width: 0; }
+.home-hero .daily-poem { margin: 0; }
+.home-shelves { margin-top: 3rem; }
+.home-browse { margin-top: 3rem; }
+.home-browse-grid {
+  display:               grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap:                   1.5rem 2.5rem;
+  margin-top:            1rem;
 }
-
-/* Screens too short for that: poet and poem side by side, the catalogue on
-   one row, the sidebar alongside all of it */
-@media (min-width: 1100px) and (max-height: 1284px) {
-  .home-grid {
-    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 300px;
-    grid-template-rows:    auto auto auto;
-    grid-template-areas:   "poet daily side" "catalog catalog side" "works works side";
-    align-content:         space-between;
-    column-gap:            1.75rem;
-    padding-top:           1.25rem;
-  }
-  .home-featured { display: contents; }
-  .home-poet                 { grid-area: poet; }
-  .home-featured .daily-poem { grid-area: daily; }
-  .home-grid > .catalog      { grid-area: catalog; }
-  .home-grid > .works-strip  { grid-area: works; }
-  .home-sidebar {
-    grid-area:    side;
-    padding:      0 0 1.25rem 1.75rem;
-    border-left:  1px solid var(--rule);
-  }
-  .home .section-label { margin-top: 0; margin-bottom: 0.6rem; }
-
-  .home-poet { padding-bottom: 1.25rem; }
-  .featured-box { margin-bottom: 0; }
-  .featured-box-inner { padding: 1.25rem 1.5rem; }
-  .featured-name { font-size: 2.4rem; line-height: 1.1; }
-  .featured-bio {
-    font-size:          0.95rem;
-    line-height:        1.7;
-    margin-top:         0.4rem;
-    display:            -webkit-box;
-    -webkit-box-orient: vertical;
-    -webkit-line-clamp: 4;
-    overflow:           hidden;
-  }
-  .featured-more { margin-top: 0.4rem; }
-
-  .home-featured .daily-poem { margin-top: 0; padding: 0 0 1.25rem; border-top: none; }
-  .daily-poem-title { font-size: 1.4rem; }
-  .daily-poem-excerpt { font-size: 1rem; line-height: 1.7; margin: 0.6rem auto 0.7rem; }
-
-  .catalog { padding: 0.75rem 0 0.5rem; }
-  .catalog-grid { grid-template-columns: minmax(0, 1.5fr) repeat(7, minmax(0, 1fr)); }
-  .catalog-grid li:nth-child(4n + 1) { border-left: 0.5px solid var(--rule); }
-  .catalog-grid li:first-child { border-left: none; }
-  .catalog-grid li:nth-child(n + 5) { border-top: none; }
-  .catalog-tile { padding: 0.4rem 0.25rem 0.5rem; gap: 0; }
-  .catalog-kind { font-size: 0.7rem; letter-spacing: 0.08em; } /* the 0.7rem floor holds here too */
-  .catalog-count { font-size: 1.7rem; }
-  .catalog-unit { font-size: 0.8rem; }
-
-  .works-strip { padding: 0.75rem 0 1.25rem; }
-  .works-strip > .section-label { padding-bottom: 0.25rem; }
-  .works-strip-title { font-size: 1rem; }
-
-  .home-sidebar .recent-item { padding: 0.3rem 0; }
-  .home-sidebar-orn { margin: 0.25rem 0; padding-bottom: 0.5rem; }
-  .home-sidebar-section { margin-bottom: 0.5rem; }
-  .home-sidebar-section + .home-sidebar-section { margin-top: 0.5rem; }
-  .home-sidebar .pill { line-height: 1.5; }
+.home-browse-label {
+  font-family: var(--font-ui);
+  font-size:   0.875rem;
+  color:       var(--muted);
+  margin:      0 0 0.6rem;
 }
-/* 1080p monitors (~950px tall): the same arrangement with room to breathe */
-@media (min-width: 1100px) and (min-height: 920px) and (max-height: 1284px) {
-  .home-grid { padding-top: 1.5rem; }
-  .home .section-label { margin-bottom: 0.75rem; }
-  .home-poet, .home-featured .daily-poem { padding-bottom: 1.5rem; }
-  .featured-box-inner { padding: 1.75rem 1.5rem 1.5rem; }
-  .featured-name { font-size: 2.4rem; }
-  .featured-bio { font-size: 1rem; line-height: 1.8; margin-top: 0.6rem; -webkit-line-clamp: 4; }
-  .featured-more { margin-top: 0.6rem; }
-  .daily-poem-title { font-size: 1.6rem; }
-  .daily-poem-excerpt { font-size: 1.05rem; line-height: 1.85; margin: 0.9rem auto 1rem; }
-  .catalog { padding: 1rem 0 0.75rem; }
-  .catalog-tile { padding: 0.6rem 0.25rem 0.7rem; gap: 0.1rem; }
-  .catalog-count { font-size: 2.1rem; }
-  .catalog-unit { font-size: 0.9rem; }
-  .works-strip { padding: 1rem 0 1.25rem; }
-  .works-strip > .section-label { padding-bottom: 0.5rem; }
-  .works-strip-title { font-size: 1.1rem; }
-  .home-sidebar { padding-bottom: 1.25rem; }
-  .home-sidebar .recent-item { padding: 0.4rem 0; }
-  .home-sidebar-orn { margin: 0.5rem 0 0.75rem; padding-bottom: 1rem; }
-  .home-sidebar-section + .home-sidebar-section { margin-top: 0.75rem; }
-  .home-sidebar .pill { line-height: 1.8; }
-}
-/* Below the tall layout the page fills the window: the footer sits at the
-   bottom and any spare height opens up between the rows */
-@media (min-width: 1100px) and (max-height: 1284px) {
-  body:has(.home),
-  body:has(.home) > main,
-  .home { display: flex; flex-direction: column; }
-  body:has(.home) > main,
-  .home,
-  .home-grid { flex: 1 0 auto; }
-}
-
-/* Short screens (Windows laptops at 125%, ~730px tall): trim the top row and the gaps */
-@media (min-width: 1100px) and (max-height: 800px) {
-  .home-grid { padding-top: 1rem; }
-  .home-poet, .home-featured .daily-poem { padding-bottom: 0.75rem; }
-  .works-strip { padding-bottom: 0.75rem; }
-  .home-sidebar { padding-bottom: 0.75rem; }
-  .featured-box-inner { padding: 1rem 1.25rem; }
-  .featured-name { font-size: 2.1rem; }
-  .featured-bio { -webkit-line-clamp: 3; }
-  .daily-poem-excerpt { line-height: 1.6; margin: 0.5rem auto; }
-  .catalog { padding: 0.5rem 0 0.25rem; }
-  .catalog-count { font-size: 1.5rem; }
-  .works-strip { padding-top: 0.5rem; }
-  .home-sidebar .recent-item { padding: 0.2rem 0; }
-  .home-sidebar-orn { display: none; }
-  .home-sidebar .pill { padding-top: 0.1rem; padding-bottom: 0.1rem; }
-  .home-sidebar-section + .home-sidebar-section { margin-top: 0.25rem; }
-  body:has(.home) .footer { padding: 0.6rem 1.5rem; }
-}
-
-/* Very short screens (1366×768 laptops, ~650px tall): two lines of bio, three recent poets */
-@media (min-width: 1100px) and (max-height: 690px) {
-  .home-grid { padding-top: 0.75rem; }
-  .home .section-label { margin-bottom: 0.4rem; }
-  .home-poet, .home-featured .daily-poem { padding-bottom: 0.5rem; }
-  .featured-box-inner { padding: 0.75rem 1.25rem; }
-  .featured-name { font-size: 1.9rem; }
-  .featured-bio { -webkit-line-clamp: 2; }
-  .daily-poem-title { font-size: 1.25rem; }
-  .daily-poem-excerpt { line-height: 1.5; margin: 0.4rem auto; }
-  .catalog { padding: 0.4rem 0 0; }
-  .catalog-tile { padding: 0.25rem 0.25rem 0.35rem; }
-  .catalog-count { font-size: 1.35rem; }
-  .works-strip { padding: 0.4rem 0 0.5rem; }
-  .works-strip-type { display: none; }
-  .home-sidebar .recent-item:nth-of-type(n + 4) { display: none; }
-  .home-sidebar { padding-bottom: 0.5rem; }
-  body:has(.home) .footer { padding: 0.5rem 1.5rem; }
+.home .catalog { margin-top: 3rem; }
+@media (max-width: 900px) {
+  .home-hero { grid-template-columns: 1fr; }
+  .home-browse-grid { grid-template-columns: 1fr; }
 }
 
 /* ── Author page header grid ───────────────────────────────── */
@@ -2719,3 +2583,234 @@ a.gallery-coll:hover { text-decoration: underline; }
 }
 .bio-credit a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
 .bio-credit a:hover { color: var(--ink); }
+
+/* ── Book covers and shelves ─────────────────────────────────
+   Generated covers (components/works/BookCover.tsx): no images, six cloth
+   colours picked by author. Shared by both designs, so they live here. */
+.book-cover {
+  --cover-ink: #fff;
+  /* Type follows the cover's own width, so one rule serves every size */
+  container-type: inline-size;
+  aspect-ratio:   2 / 3;
+  width:          100%;
+  box-sizing:     border-box;
+  display:        flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap:            0.5rem;
+  /* % padding follows the cover's width (it fills its parent); cqi type follows the content box */
+  padding:        9% 8% 9% 11%;
+  border-radius:  var(--radius-cover, 4px);
+  background:     var(--cover-bg);
+  color:          var(--cover-ink);
+  overflow:       hidden;
+  /* the spine: a darker band down the left edge, as on a cloth binding */
+  box-shadow:     inset 5px 0 0 rgba(0, 0, 0, 0.14);
+}
+.cloth-red   { --cover-bg: #8E1B24; }
+.cloth-navy  { --cover-bg: #1F3A5F; }
+.cloth-green { --cover-bg: #2F5D50; }
+.cloth-plum  { --cover-bg: #4A2C4F; }
+.cloth-sand  { --cover-bg: #E9E2D5; --cover-ink: #1B1B1B; }
+.cloth-ochre { --cover-bg: #D9A441; --cover-ink: #1B1B1B; }
+
+.book-cover-author,
+.book-cover-kind {
+  font-family:    var(--font-ui);
+  font-size:      max(0.6rem, 8.5cqi);
+  font-weight:    600;
+  line-height:    1.3;
+  letter-spacing: 0.04em;
+}
+.book-cover-author {
+  text-transform: uppercase;
+  display:        -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow:       hidden;
+}
+.book-cover-kind { font-weight: 500; letter-spacing: 0; opacity: 0.9; }
+.book-cover-title {
+  font-family:    var(--font-serif);
+  font-weight:    700;
+  font-size:      var(--title-size, 15cqi);
+  line-height:    1.12;
+  letter-spacing: -0.01em;
+  /* a word breaks only when it cannot fit a line on its own */
+  overflow-wrap:  break-word;
+  display:        -webkit-box;
+  -webkit-line-clamp: 6;
+  -webkit-box-orient: vertical;
+  overflow:       hidden;
+}
+.book-cover-title:lang(fa) { font-family: var(--font-arabic); line-height: 1.6; }
+
+.shelf + .shelf { margin-top: 2.75rem; }
+.shelf-head {
+  display:         flex;
+  align-items:     baseline;
+  justify-content: space-between;
+  gap:             1rem;
+  margin-bottom:   1rem;
+}
+.shelf-title { margin: 0; font-family: var(--font-ui); font-size: 1.5rem; font-weight: 700; letter-spacing: -0.015em; }
+.shelf-more {
+  display:     inline-flex;
+  align-items: center;
+  min-height:  2.75rem;
+  font-family: var(--font-ui);
+  font-weight: 600;
+  color:       var(--pomeg);
+  white-space: nowrap;
+}
+.shelf-more:hover { color: var(--pomeg-dark); }
+.shelf-grid {
+  list-style:            none;
+  margin:                0;
+  padding:               0;
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(9.5rem, 1fr));
+  gap:                   1.5rem 1.25rem;
+}
+/* One row: as many as fit, the rest scroll sideways (phones) */
+.shelf-grid--row {
+  grid-auto-flow:    column;
+  grid-auto-columns: minmax(9.5rem, 1fr);
+  grid-template-columns: none;
+  overflow-x:        auto;
+  scroll-snap-type:  x proximity;
+  scrollbar-width:   thin;
+  padding-bottom:    0.5rem;
+}
+.shelf-grid--row > li { scroll-snap-align: start; }
+@media (min-width: 1100px) {
+  .shelf-grid--row { grid-auto-columns: calc((100% - 5 * 1.25rem) / 6); overflow-x: hidden; }
+  .shelf-grid--row > li:nth-child(n + 7) { display: none; }
+}
+@media (max-width: 480px) {
+  .shelf-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.25rem 1rem; }
+  .shelf-grid--row { grid-template-columns: none; grid-auto-columns: 42%; }
+}
+.shelf-item {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.2rem;
+  color:          var(--ink);
+  font-family:    var(--font-ui);
+}
+.shelf-item .book-cover { margin-bottom: 0.45rem; transition: transform 0.2s cubic-bezier(0.16, 1, 0.3, 1); }
+.shelf-item:hover .book-cover { transform: translateY(-3px); }
+.shelf-item:hover .shelf-item-title { color: var(--pomeg); }
+.shelf-item-title {
+  font-weight: 600;
+  line-height: 1.3;
+  display:     -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow:    hidden;
+}
+.shelf-item-author,
+.shelf-item-note { font-size: 0.85rem; color: var(--muted); line-height: 1.35; }
+@media (prefers-reduced-motion: reduce) {
+  .shelf-item .book-cover { transition: none; }
+  .shelf-item:hover .book-cover { transform: none; }
+}
+
+/* ── Book page and books index ───────────────────────────────── */
+.book-head {
+  display:               grid;
+  grid-template-columns: 15rem minmax(0, 1fr);
+  gap:                   2.5rem;
+  align-items:           start;
+  margin-top:            0.5rem;
+}
+.book-head-info { display: flex; flex-direction: column; gap: 0.9rem; min-width: 0; }
+.book-title {
+  margin:         0;
+  font-family:    var(--font-serif);
+  font-size:      2.75rem;
+  line-height:    1.1;
+  letter-spacing: -0.015em;
+  text-wrap:      balance;
+}
+.book-title:lang(fa) { font-family: var(--font-arabic); line-height: 1.5; }
+.book-author { font-family: var(--font-ui); font-size: 1.125rem; font-weight: 600; color: var(--pomeg); align-self: flex-start; }
+.book-author:hover { color: var(--pomeg-dark); }
+.book-facts {
+  list-style: none;
+  margin:     0;
+  padding:    0;
+  display:    flex;
+  flex-wrap:  wrap;
+  gap:        0.5rem;
+  font-family: var(--font-ui);
+  font-size:  0.9rem;
+}
+.book-facts li { padding: 0.3rem 0.8rem; border-radius: 999px; background: var(--surf); }
+.book-description { max-width: 40rem; font-family: var(--font-body); font-size: 1.0625rem; line-height: 1.7; }
+.book-description p { margin: 0 0 0.75em; }
+.book-actions { display: flex; flex-wrap: wrap; gap: 0.6rem; align-items: center; }
+.btn-lg { min-height: 3rem; padding: 0 1.6rem; display: inline-flex; align-items: center; font-size: 1rem; }
+.book-head-info .download-bar--start .download-bar { margin: 0.25rem 0 0; }
+
+.book-contents { margin-top: 3rem; }
+.book-contents .shelf-title { margin-bottom: 1rem; }
+.book-parts {
+  list-style:            none;
+  margin:                0;
+  padding:               0;
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap:                   0.6rem;
+}
+.book-part {
+  display:       flex;
+  align-items:   center;
+  gap:           0.85rem;
+  min-height:    3.75rem;
+  height:        100%;
+  box-sizing:    border-box;
+  padding:       0.6rem 1rem;
+  border-radius: var(--radius);
+  background:    var(--surf);
+  color:         var(--ink);
+  transition:    background 0.15s;
+}
+.book-part:hover { background: var(--surf-2, var(--surf)); }
+.book-part:hover .book-part-title { color: var(--pomeg); }
+.book-part-no {
+  flex:            none;
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  width:           1.75rem;
+  height:          1.75rem;
+  border-radius:   50%;
+  box-sizing:      border-box;
+  border:          2px solid var(--control);
+  font-family:     var(--font-ui);
+  font-size:       0.75rem;
+  font-weight:     600;
+  font-variant-numeric: tabular-nums;
+  color:           var(--muted);
+}
+.book-part-text { display: flex; flex-direction: column; min-width: 0; }
+.book-part-title { font-family: var(--font-ui); font-weight: 600; line-height: 1.3; }
+.book-part-title:lang(fa) { font-family: var(--font-arabic); font-size: 1.1em; line-height: 1.6; }
+.book-part-kind { font-family: var(--font-ui); font-size: 0.8rem; color: var(--muted); }
+.book-more { margin-top: 3rem; }
+
+.books-count { font-family: var(--font-ui); color: var(--muted); margin: 0.25rem 0 0; }
+.books-filters { margin-bottom: 2rem; }
+.books-grid { grid-template-columns: repeat(auto-fill, minmax(10rem, 1fr)); gap: 2rem 1.5rem; }
+.books-page .pagination { margin-top: 2.5rem; }
+
+@media (max-width: 768px) {
+  .book-head { grid-template-columns: 1fr; gap: 1.5rem; }
+  .book-head-cover { width: min(12rem, 60%); }
+  .book-title { font-size: 2.1rem; }
+}
+@media (max-width: 480px) {
+  .book-parts { grid-template-columns: 1fr; }
+  .books-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem 1rem; }
+}

@@ -3,7 +3,9 @@ import { pageMetadata, publisherLd, SITE_URL } from '@/lib/seo';
 import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
-import { api, type PoemOfTheDay } from '../../lib/api';
+import { api, type BookSummary, type PoemOfTheDay } from '../../lib/api';
+import { Shelf } from '@/components/works/Shelf';
+import { shelfBook, titledIn } from '@/lib/books';
 import { localized, ownField, periodLabel } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
 import { CatalogTiles } from '@/components/home/CatalogTiles';
@@ -46,27 +48,6 @@ interface FeaturedAuthor {
   _count: { works: number };
 }
 
-interface AuthorListItem {
-  slug: string;
-  nameAz: string;
-  nameRu?: string;
-  nameEn?: string;
-  type: string;
-  period?: string;
-  _count: { works: number };
-}
-
-interface WorkListItem {
-  slug: string;
-  titleAz: string;
-  titleRu?: string;
-  genre: string;
-  form?: string;
-  year?: number;
-  author: { slug: string; nameAz: string; nameRu?: string };
-  collection?: { slug: string; titleAz: string };
-}
-
 function localeName(item: Record<string, any>, locale: string) {
   return localized(item, 'name', locale) ?? '';
 }
@@ -78,25 +59,6 @@ function localeTitle(item: Record<string, any>, locale: string) {
 /** Only a bio written in the reader's language; never the Azerbaijani one in its place */
 function localeBio(item: Record<string, any>, locale: string) {
   return ownField(item, 'bio', locale);
-}
-
-function genreLabel(genre: string, form: string | undefined, locale: string) {
-  const formMap: Record<string, Record<string, string>> = {
-    GHAZAL:  { az: 'Qəzəl',  ru: 'Газель',  en: 'Ghazal' },
-    MASNAVI: { az: 'Məsnəvi', ru: 'Маснави', en: 'Masnavi' },
-    RUBAI:   { az: 'Rübai',   ru: 'Рубаи',   en: 'Rubai' },
-    QASIDA:  { az: 'Qəsidə',  ru: 'Касыда',  en: 'Qasida' },
-    MURABBA: { az: 'Mürəbbe', ru: 'Мураббаъ', en: 'Murabba' },
-  };
-  const genreMap: Record<string, Record<string, string>> = {
-    POEM:  { az: 'Şeir',    ru: 'Поэзия',  en: 'Poetry' },
-    PROSE: { az: 'Nəsr',    ru: 'Проза',   en: 'Prose' },
-    PLAY:  { az: 'Dram',    ru: 'Драма',   en: 'Drama' },
-    ESSAY: { az: 'Esse',    ru: 'Эссе',    en: 'Essay' },
-  };
-  const lang = locale === 'ru' ? 'ru' : locale === 'en' ? 'en' : 'az';
-  if (form && formMap[form]) return formMap[form][lang];
-  return genreMap[genre]?.[lang] ?? genre;
 }
 
 function authorTypeMeta(type: string, locale: string) {
@@ -121,21 +83,31 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations('home');
+  const options = await getTranslations({ locale, namespace: 'contribute.options' });
+  const kind = (genre: string) => options(`genre.${genre}` as any);
+  const note = (b: BookSummary) => t('work_count', { count: b.workCount });
 
-  // Fetch data from API in parallel
-  const [featured, daily, authorsRes, worksRes, tags, catalog] = await Promise.all([
+  // Shelves of books; on Russian and English pages only books titled in that language
+  const books = (q: Record<string, string | number | boolean>) =>
+    api
+      .getCollections({ limit: 12, onePerAuthor: true, titledIn: titledIn(locale), ...q })
+      .then((r) => r.data)
+      .catch(() => [] as BookSummary[]);
+
+  const [featured, daily, tags, catalog, newBooks, classics, prose, drama] = await Promise.all([
     api.getFeaturedAuthor(locale).catch(() => null) as Promise<FeaturedAuthor | null>,
     api.getPoemOfTheDay(locale).catch(() => null) as Promise<PoemOfTheDay | null>,
-    // In Russian and English, only authors and works the reader can read in that language
-    api.getAuthors(new URLSearchParams({ limit: '4', sort: 'recent', ...(locale !== 'az' && { readableIn: locale }) })) as Promise<{ data: AuthorListItem[] }>,
-    api.getWorks(new URLSearchParams({ limit: '6', sort: 'recent', ...(locale !== 'az' && { readableIn: locale }) })) as Promise<{ data: WorkListItem[] }>,
     api.getTags().catch(() => []),
     api.getCatalog().catch(() => null),
+    books({ sort: 'recent' }),
+    books({ bornBefore: 1800, sort: 'size' }),
+    books({ genre: 'PROSE', sort: 'recent' }),
+    books({ genre: 'PLAY', sort: 'recent' }),
   ]);
   const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).slice(0, 8);
-
-  const recentAuthors = authorsRes?.data ?? [];
-  const recentWorks = worksRes?.data ?? [];
+  const booksPath = (q: Record<string, string> = {}) =>
+    `${localePath(locale, '/collections')}${Object.keys(q).length ? `?${new URLSearchParams(q)}` : ''}`;
+  const shelf = (list: BookSummary[]) => list.map((b) => shelfBook(b, locale, { kind, note }));
 
   // Truncate bio to first 2 sentences for the featured box
   const bio = featured ? localeBio(featured, locale) : null;
@@ -160,117 +132,97 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           },
         }}
       />
-      <div className="home-grid">
 
-        {/* ── Left: poet of the week, poem of the day ──────── */}
-        <div className="home-featured">
-          <div className="home-poet">
-            <p className="section-label">{t('featured_label')}</p>
-
-            {featured ? (
-              <div className="featured-box">
-                <div className="featured-box-inner">
-                  <h1 className="featured-name">
-                    {localeName(featured, locale)}
-                  </h1>
-                  <div className="meta-strip featured-meta">
-                    {featured.bornYear && featured.diedYear && (
-                      <span>{featured.bornYear} — {featured.diedYear}</span>
-                    )}
-                    {featured.period && (
-                      <>
-                        {featured.bornYear && <span className="dot" />}
-                        <span>{periodLabel(featured.period, locale)}</span>
-                      </>
-                    )}
-                    <span className="dot" />
-                    <span>{authorTypeMeta(featured.type, locale)}</span>
-                  </div>
-
-                  {bioSnippet && (
-                    // The drop cap only takes a letter: a bio opening on a year would split it
-                    <p className={`featured-bio${/^\p{L}/u.test(bioSnippet) ? ' featured-bio--dropcap' : ''}`}>
-                      <span className="featured-quote" aria-hidden="true">{'\u201C'}</span>
-                      {bioSnippet}
-                    </p>
+      {/* ── Hero: poet of the week, poem of the day ─────────── */}
+      <div className="home-hero">
+        <section className="home-poet" aria-labelledby="home-poet-label">
+          <p className="section-label" id="home-poet-label">{t('featured_label')}</p>
+          {featured ? (
+            <div className="featured-box">
+              <div className="featured-box-inner">
+                <h1 className="featured-name">{localeName(featured, locale)}</h1>
+                <div className="meta-strip featured-meta">
+                  {featured.bornYear && featured.diedYear && (
+                    <span>{featured.bornYear} — {featured.diedYear}</span>
                   )}
-                  {bioSnippet && <BioCredit sources={featured.bioSources} locale={locale} />}
-
-                  <Link
-                    href={localePath(locale, `/authors/${featured.slug}`)}
-                    className="more featured-more"
-                  >
-                    {t('read_more')} →
-                  </Link>
+                  {featured.period && (
+                    <>
+                      {featured.bornYear && <span className="dot" />}
+                      <span>{periodLabel(featured.period, locale)}</span>
+                    </>
+                  )}
+                  <span className="dot" />
+                  <span>{authorTypeMeta(featured.type, locale)}</span>
                 </div>
-              </div>
-            ) : (
-              <p className="empty-note">{t('coming_soon')}</p>
-            )}
-          </div>
 
-          {daily && (
-            <section className="daily-poem" aria-labelledby="daily-poem-title">
-              <p className="section-label">{t('daily_label')}</p>
-              <h2 id="daily-poem-title" className="daily-poem-title">
-                <Link href={localePath(locale, `/works/${daily.slug}`)}>{localeTitle(daily, locale)}</Link>
-              </h2>
-              <div className="daily-poem-author">
-                <Link href={localePath(locale, `/authors/${daily.author.slug}`)}>{localeName(daily.author, locale)}</Link>
-                {daily.year ? ` · ${daily.year}` : ''}
+                {bioSnippet && (
+                  // The drop cap only takes a letter: a bio opening on a year would split it
+                  <p className={`featured-bio${/^\p{L}/u.test(bioSnippet) ? ' featured-bio--dropcap' : ''}`}>
+                    <span className="featured-quote" aria-hidden="true">{'“'}</span>
+                    {bioSnippet}
+                  </p>
+                )}
+                {bioSnippet && <BioCredit sources={featured.bioSources} locale={locale} />}
+
+                <Link href={localePath(locale, `/authors/${featured.slug}`)} className="more featured-more">
+                  {t('read_more')} →
+                </Link>
               </div>
-              <blockquote className="daily-poem-excerpt" lang={daily.lang === 'az' ? 'az-Latn' : daily.lang}>
-                {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
-              </blockquote>
-              <div className="daily-poem-actions">
-                <Link href={localePath(locale, `/works/${daily.slug}`)} className="more">{t('read_full')} →</Link>
-                <Link href={localePath(locale, `/random`)} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
-              </div>
-            </section>
+            </div>
+          ) : (
+            <p className="empty-note">{t('coming_soon')}</p>
           )}
-        </div>
+        </section>
 
-        {/* ── Right: Sidebar ────────────────────────────────── */}
-        <div className="home-sidebar">
-          {/* Recent additions */}
-          <div className="home-sidebar-section">
-            <p className="section-label">{t('recent_label')}</p>
-            {recentAuthors.map((author) => (
-              <Link key={author.slug} href={localePath(locale, `/authors/${author.slug}`)} className="recent-item">
-                <div className="recent-item-name">{localeName(author, locale)}</div>
-                <div className="recent-item-meta">
-                  {author.period && <>{periodLabel(author.period, locale)} · </>}
-                  {authorTypeMeta(author.type, locale)}
-                  {author._count.works > 0 && <> · {author._count.works}</>}
-                </div>
-              </Link>
-            ))}
-          </div>
+        {daily && (
+          <section className="daily-poem" aria-labelledby="daily-poem-title">
+            <p className="section-label">{t('daily_label')}</p>
+            <h2 id="daily-poem-title" className="daily-poem-title">
+              <Link href={localePath(locale, `/works/${daily.slug}`)}>{localeTitle(daily, locale)}</Link>
+            </h2>
+            <div className="daily-poem-author">
+              <Link href={localePath(locale, `/authors/${daily.author.slug}`)}>{localeName(daily.author, locale)}</Link>
+              {daily.year ? ` · ${daily.year}` : ''}
+            </div>
+            <blockquote className="daily-poem-excerpt" lang={daily.lang === 'az' ? 'az-Latn' : daily.lang}>
+              {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
+            </blockquote>
+            <div className="daily-poem-actions">
+              <Link href={localePath(locale, `/works/${daily.slug}`)} className="more">{t('read_full')} →</Link>
+              <Link href={localePath(locale, `/random`)} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
+            </div>
+          </section>
+        )}
+      </div>
 
-          <div className="ornament ornament--diamonds home-sidebar-orn" aria-hidden="true" />
+      {/* ── Shelves ─────────────────────────────────────────── */}
+      <div className="home-shelves">
+        <Shelf id="shelf-new" row title={t('shelf_new')} more={{ href: booksPath(), label: t('see_all') }} books={shelf(newBooks)} />
+        <Shelf id="shelf-classics" row title={t('shelf_classics')} more={{ href: booksPath({ sort: 'size' }), label: t('see_all') }} books={shelf(classics)} />
+        <Shelf id="shelf-prose" row title={t('shelf_prose')} more={{ href: booksPath({ genre: 'PROSE' }), label: t('see_all') }} books={shelf(prose)} />
+        <Shelf id="shelf-drama" row title={t('shelf_drama')} more={{ href: booksPath({ genre: 'PLAY' }), label: t('see_all') }} books={shelf(drama)} />
+      </div>
 
+      {/* ── Browse: themes, centuries, forms ─────────────────── */}
+      <section className="home-browse" aria-labelledby="home-browse-title">
+        <h2 className="shelf-title" id="home-browse-title">{t('browse_label')}</h2>
+        <div className="home-browse-grid">
           {themes.length > 0 && (
-            <div className="home-sidebar-section">
-              <p className="section-label">{t('themes_label')}</p>
+            <div className="home-browse-group">
+              <p className="home-browse-label">{t('themes_label')}</p>
               <TagPills tags={themes} locale={locale} label={t('themes_label')} />
             </div>
           )}
-
-          {/* Century filter */}
-          <div className="home-sidebar-section">
-            <p className="section-label">{t('centuries_label')}</p>
+          <div className="home-browse-group">
+            <p className="home-browse-label">{t('centuries_label')}</p>
             <div className="chip-row">
               {CENTURIES.map(({ label, y }) => (
-                <Link key={label} href={authorsPath(locale, { century: y })} className="pill pill--century">
-                  {label}
-                </Link>
+                <Link key={label} href={authorsPath(locale, { century: y })} className="pill pill--century">{label}</Link>
               ))}
             </div>
           </div>
-
-          {/* Genre filter */}
-          <div className="home-sidebar-section">
-            <p className="section-label">{t('genres_label')}</p>
+          <div className="home-browse-group">
+            <p className="home-browse-label">{t('genres_label')}</p>
             <div className="chip-row">
               {GENRES.map((g) => (
                 <Link key={g.en} href={worksPath(locale, g.filter)} className="pill">
@@ -280,41 +232,15 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             </div>
           </div>
         </div>
+      </section>
 
-        {/* ── Full width under both columns: catalogue, new works ── */}
-        {catalog && (
-          <CatalogTiles
-            catalog={catalog}
-            themes={tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).length}
-            locale={locale}
-          />
-        )}
-
-        {/* ── Bottom: Recent works strip ─────────────────────── */}
-        {recentWorks.length > 0 && (
-          <div className="works-strip">
-            <p className="section-label">
-              {t('recent_works_label')}
-            </p>
-            <div className="works-strip-grid">
-              {recentWorks.slice(0, 3).map((w) => (
-                <div key={w.slug} className="works-strip-col">
-                  <div className="works-strip-type">
-                    {genreLabel(w.genre, w.form ?? undefined, locale)}
-                    {w.year ? ` · ${w.year}` : ''}
-                  </div>
-                  <Link href={localePath(locale, `/works/${w.slug}`)} className="works-strip-title">
-                    {localeTitle(w, locale)}
-                  </Link>
-                  <div className="works-strip-author">
-                    {localeName(w.author, locale)}
-                  </div>
-                </div>
-              ))}
-            </div>
-          </div>
-        )}
-      </div>
+      {catalog && (
+        <CatalogTiles
+          catalog={catalog}
+          themes={tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).length}
+          locale={locale}
+        />
+      )}
     </div>
   );
 }

@@ -5,8 +5,10 @@ import {
   Patch,
   Param,
   Body,
+  Query,
   UseGuards,
 } from '@nestjs/common';
+import { QueryCollectionsDto } from './dto/query-collections.dto';
 import { AuthGuard } from '@nestjs/passport';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 import { UserRole } from '@prisma/client';
@@ -20,6 +22,12 @@ import { Public } from '../common/decorators/public.decorator';
 @Controller('collections')
 export class CollectionsController {
   constructor(private collections: CollectionsService) {}
+
+  @Public()
+  @Get()
+  findAll(@Query() query: QueryCollectionsDto) {
+    return this.collections.findAll(query);
+  }
 
   @Public()
   @Get(':slug')

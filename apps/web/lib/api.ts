@@ -94,8 +94,13 @@ export const api = {
   /** Poet of the week, picked so everything shown is in the reader's language */
   getFeaturedAuthor: (locale: string) => fetcher(`/authors/featured?lang=${locale}`),
 
-  // Collections
+  // Collections (the site's "books")
   getCollection: (slug: string) => fetcher(`/collections/${slug}`),
+  getCollections: (params: Record<string, string | number | boolean | undefined> = {}) => {
+    const qs = new URLSearchParams();
+    for (const [k, v] of Object.entries(params)) if (v !== undefined && v !== '') qs.set(k, String(v));
+    return fetcher<{ data: BookSummary[]; meta: PageMeta }>(`/collections${qs.size ? `?${qs}` : ''}`);
+  },
 
   // Works
   getWorks: (params?: URLSearchParams) =>
@@ -141,6 +146,30 @@ export const api = {
   register: (data: { email: string; username: string; password: string; name?: string }) =>
     fetcher('/auth/register', { method: 'POST', body: JSON.stringify(data) }),
 };
+
+export interface PageMeta {
+  total: number;
+  page: number;
+  limit: number;
+  totalPages: number;
+}
+
+/** A collection as a shelf item: what a generated cover and its caption need */
+export interface BookSummary {
+  id: string;
+  slug: string;
+  titleAz: string;
+  titleRu: string | null;
+  titleEn: string | null;
+  titleFa: string | null;
+  genre: string;
+  year: number | null;
+  yearApprox: boolean;
+  originalLang: string;
+  createdAt: string;
+  workCount: number;
+  author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
+}
 
 /** Published counts behind the homepage catalog */
 export interface Catalog {
