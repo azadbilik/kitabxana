@@ -24,6 +24,16 @@ bioEn: >-
   Дудангинский / Əbo Əliyeviç Düdənginski), born Abo Dudanginski (12 June 1908 –
   22 November 1954), was a Soviet army major who defected to the German forces
   during World War II.
+bioSources:
+  az:
+    wiki: az
+    title: Əbdürrəhman bəy Fətəlibəyli
+  ru:
+    wiki: ru
+    title: 'Фаталибейли, Абдуррахман Али оглы'
+  en:
+    wiki: en
+    title: Abdurrahman Fatalibeyli
 ---
 **Əbdürrəhman bəy Fətəlibəyli, Fətəlibəyli** **Düdənginski** və ya **Abo Düdənginski** — azərbaycanlı hərbçi, siyasətçi, siyasi mühacir.
 

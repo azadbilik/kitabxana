@@ -46,6 +46,16 @@ bioEn: >-
   His father's name was Ibrahim. In his works he refers to himself as Mirza
   Mohammad Taghi ibn the late Ibrahim, or as Gumri. He used the pen name Gumri
   in his works.''*
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Məhəmməd Tağı Qumri
+  ru:
+    wiki: ru
+    title: Мирза Мухаммед Таги Гумри
+  en:
+    wiki: az
+    title: Mirzə Məhəmməd Tağı Qumri
 ---
 **Mirzə Məhəmməd Tağı Qumri** — XIX əsrdə yaşayıb-yaratmış azərbaycanlı şair.
 

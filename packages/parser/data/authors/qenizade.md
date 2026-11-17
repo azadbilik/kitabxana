@@ -23,6 +23,16 @@ bioEn: >-
   cultural life of Azerbaijan, served as a deputy of the Parliament of the
   Azerbaijan Democratic Republic, and was later a theorist of public education
   in Soviet Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Sultan Məcid Qənizadə
+  ru:
+    wiki: ru
+    title: 'Ганизаде, Султан Меджид Муртаза-Али оглы'
+  en:
+    wiki: en
+    title: Sultan Majid Ganizade
 ---
 **Sultan Məcid Murtuzəli oğlu Qənizadə** — Azərbaycanın tanınmış maarif xadimi, müəllim, yazıçı, tərcüməçi, jurnalist, bir sıra lüğətlər, dərsliklər, bədii əsərlər, felyetonlar müəllifi.
 

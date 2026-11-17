@@ -21,6 +21,13 @@ bioEn: >-
   1899, Khizi – 31 December 1934, Baku) was an eminent Azerbaijani and Soviet
   writer, the founder of the Azerbaijan Soviet dramaturgy. He was a director,
   playwright and screenwriter.
+bioSources:
+  az:
+    wiki: az
+    title: Cəfər Cabbarlı
+  en:
+    wiki: en
+    title: Jafar Jabbarly
 ---
 1924-cü ildə Cəfərin böyük qardaşı Hüseynqulu öldü. Bu ölüm Cəfəri çox sarsıtdı, çünki Hüseynqulu ona qardaşlıqla yanaşı atalıq etmişdi. Cəfər ailənin ən kiçik uşağı idi. Onun atası Qafar kömürçülüklə məşğul olurdu. Anası Şahbikə xanım isə evdar qadın idi. Cəfər 1922-ci ildə əmisi qızı Sona xanımla ailə həyatı qurdu. Bu evlilikdən onun Aydın və Gülarə adlı 2 övladı oldu. Onun böyük oğlu Aydın Cabbarlı 1924-cü ildə anadan olmuşdur. O, tibb elmləri namizədi idi. Qızı Gülarə Cabbarlı isə filoloq, həmçinin Cəfər Cabbarlının ev-muzeyinin direktoru idi. C. Cabbarlının özünün təqdim etdiyi anketdə himayəsində 8 nəfərin — həyat yoldaşı Sonaxanım, 3 yaşlı oğlu Aydın, qayınanası Zeynəb, vəfat etmiş qardaşı Hüseynqulunun 50 yaşlı həyat yoldaşı Zinyət, 65 yaşlı digər arvadı, 4 yaşlı oğlu Heydər, 12 yaşlı oğlu Əlbəndə, 14 yaşlı qızı Mələk — olduğunu və aylıq cəmi 99 manat əməkhaqqı aldığını qeyd edir. 8 ilə yaxın müddətdə Kommunist qəzetində çalışmış, lakin sonradan bu kollektivdən uzaqlaşmaq məcburiyyətində qalmışdır. 1928-ci ildən Azərbaycan Dövlət Türk Akademik Dram teatrosunda tərcüməçi və ədəbi hissə müdiri kimi fəaliyyətə başlamışdır.
 

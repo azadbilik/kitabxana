@@ -19,6 +19,16 @@ bioEn: >-
 
 
   He was chairman of the Council of Elders of the Azerbaijan Writers' Union.
+bioSources:
+  az:
+    wiki: az
+    title: Qabil (şair)
+  ru:
+    wiki: ru
+    title: 'Имамвердиев, Габиль Аллахверди оглы'
+  en:
+    wiki: az
+    title: Qabil (şair)
 ---
 **Qabil Allahverdi oğlu İmamverdiyev** — Azərbaycan Respublikasının xalq şairi (1992), 1949-cu ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR Dövlət mükafatı laureatı (1976).
 

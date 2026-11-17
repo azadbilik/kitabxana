@@ -24,6 +24,16 @@ bioEn: >-
   classical and folk literary styles. His lyric poems in the genres of ghazal,
   qasida, *mukhammas*, qit'a, *qoshma* and *gerayli*, and his epic *masnavis*
   "Münazireyi-Əqlü Eşq" and "Cəlala öyüd" brought him fame.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Mehdi Şükuhi
+  ru:
+    wiki: ru
+    title: 'Шюкюхи, Мирза Мехди'
+  en:
+    wiki: az
+    title: Mirzə Mehdi Şükuhi
 ---
 **Mirzə Mehdi Şükuhi**—XIX əsr Azərbaycan şairi.
 

@@ -27,6 +27,16 @@ bioEn: >-
   Even after the establishment of the National Government of Azerbaijan, he
   wrote the "Mother Language" textbook for schoolchildren. He wrote articles in
   the press with signatures such as "Aydın", "Ülker", "Ağ".
+bioSources:
+  az:
+    wiki: az
+    title: Həbib Sahir
+  ru:
+    wiki: ru
+    title: 'Сахир, Габиб'
+  en:
+    wiki: en
+    title: Habib Saher
 ---
 **Həbib Sahir** və ya **Mir Həbib Qəvami** ('''') — azərbaycanlı şair, yazıçı, tərcüməçi və ədəbiyyat tədqiqatçısı. İranda Azərbaycan türkcəsində sərbəst şeirin banisi.
 

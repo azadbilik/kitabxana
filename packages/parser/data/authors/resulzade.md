@@ -27,6 +27,16 @@ bioEn: >-
   Turkey and Iran. During World War II, Rasulzade attempted to form a strategic
   alliance with Nazi Germany in order to garner support for an independent
   Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmməd Əmin Rəsulzadə
+  ru:
+    wiki: ru
+    title: 'Расулзаде, Мамед Эмин'
+  en:
+    wiki: en
+    title: Mahammad Amin Rasulzade
 ---
 **Məhəmməd Əmin Rəsulzadə** (tam adı: *Məhəmməd Əmin Axund Hacı Molla Ələkbər oğlu Rəsulzadə*) — Azərbaycan Xalq Cümhuriyyətinin banilərindən biri, Azərbaycan Xalq Cümhuriyyəti Milli Şurasının sədri (may-dekabr 1918), ictimai-siyasi və dövlət xadimi. Onun *"Bir kərə yüksələn bayraq bir daha enməz!"* ifadəsi XX əsrdə Azərbaycanda istiqlal hərəkatının şüarı olmuşdur.
 

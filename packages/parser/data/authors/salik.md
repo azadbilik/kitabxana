@@ -22,6 +22,16 @@ bioEn: >-
   Azerbaijani poet, brother of Mustafa agha Arif and member of Shikhlinskis
   noble family. His brother Mustafa agha Arif was the last sultan of Kazakh
   sultanate.
+bioSources:
+  az:
+    wiki: az
+    title: Kazım ağa Salik
+  ru:
+    wiki: ru
+    title: Кязым-ага Салик
+  en:
+    wiki: en
+    title: Kazim agha Salik
 ---
 **Kazım ağa Salik** — Azərbaycan  şairi.
 

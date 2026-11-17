@@ -21,6 +21,13 @@ bioEn: >-
   them as examples of folklore. The poem «Dinmə ver» was a work criticising the
   taxes unjustly collected from villagers and the poor under tsarist rule.
   However, the words of this poem have not survived to the present day.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Hüseyn Şəmkirli
+  en:
+    wiki: az
+    title: Aşıq Hüseyn Şəmkirli
 ---
 **Aşıq Hüseyn Şəmkirli** — aşıq, şair.
 

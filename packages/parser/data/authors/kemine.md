@@ -21,6 +21,16 @@ bioEn: >-
   Shusha Uyezd, Shamakhi Governorate, Russian Empire - died 1898, Shusha, Shusha
   Uyezd, Russian Empire) was a 19th-century female Azerbaijani poet known by her
   per name Kamina (the Humble One).
+bioSources:
+  az:
+    wiki: az
+    title: Fatma xanım Kəminə
+  ru:
+    wiki: ru
+    title: Фатма-ханым Кяминя
+  en:
+    wiki: en
+    title: Fatma Khanum Kamina
 ---
 **Fatma xanım Kəminə** — azərbaycanlı şairə. XIX əsr qadın aşıqlarındandır.
 

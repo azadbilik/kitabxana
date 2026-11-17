@@ -35,6 +35,16 @@ bioEn: >-
   Musavat Party, and the cousin and sister-in-law of Mahammad Amin Rasulzade,
   who served as the head of the Musavat Party and the National Council of the
   Azerbaijan Democratic Republic.
+bioSources:
+  az:
+    wiki: az
+    title: Ümmügülsüm
+  ru:
+    wiki: ru
+    title: Уммугюльсум
+  en:
+    wiki: en
+    title: Ümmügülsüm
 ---
 **Ümmügülsüm** — Azərbaycan şairəsi, repressiya qurbanı.
 

@@ -34,6 +34,16 @@ bioEn: >-
   notable plays include The Broken Union (Dağılan tifaq), Greedy Scholars (Ac
   həriflər), Unlucky Young Man (Bəxtsiz cavan), and The Fairy Magic (Pəri cadu),
   marked by satire and critical depictions of daily life.
+bioSources:
+  az:
+    wiki: az
+    title: Əbdürrəhim bəy Haqverdiyev
+  ru:
+    wiki: ru
+    title: 'Ахвердов, Абдуррагим-бек Асад-бек оглы'
+  en:
+    wiki: en
+    title: Abdurrahim bey Hagverdiyev
 ---
 Əbdürrəhim bəy Haqverdiyev XIX əsrin sonu – XX əsrin əvvəllərində ədəbi-mədəni mühitin aparıcı simalarından biri olmuşdur. Mirzə Fətəli Axundzadə və Nəcəf bəy Vəzirovun yaradıcılıq ənənələrini davam etdirən Haqverdiyev eyni zamanda satirik və psixoloji dram janrlarında yazdığı əsərlərlə milli ədəbiyyatın inkişafına töhfə vermişdir.
 

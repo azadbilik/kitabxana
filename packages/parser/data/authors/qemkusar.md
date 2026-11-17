@@ -22,6 +22,16 @@ bioEn: >-
   Georgian Democratic Republic, 14 March 1919) was an Azerbaijani poet,
   journalist, publicist, public figure and writer. A prominent representative of
   the revolutionary-satirical direction of Azerbaijani literature.
+bioSources:
+  az:
+    wiki: az
+    title: Əliqulu Qəmküsar
+  ru:
+    wiki: ru
+    title: 'Гамгюсар, Аликули'
+  en:
+    wiki: en
+    title: Aligulu Gamgusar
 ---
 **Əliqulu Qəmküsar** (tam adı: **Əliqulu Məşədi Ələkbər oğlu Nəcəfov**) — Azərbaycan şairi, publisisti. Yazıları ilə "Molla Nəsrəddin", "Yeni füyuzat", "Həyat", "İrşad", "Sədayi-həqq", "Al bayraq", "Gələcək" və s. qəzet və jurnallarda iştirak etmişdir. Əsərləri "Otaylı", "Cüvəllağı", "Cüvəllağı bəy", "Sarsaqqulu bəy", "Qəmküsar" və başqa imzalarla nəşr edilmişdir.
 

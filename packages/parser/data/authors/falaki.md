@@ -28,6 +28,13 @@ bioEn: >-
   Like other poets of his time, Falaki was imprisoned due to the libel spread by
   his rivals. It has been surmised Falaki died soon after his release as a
   result of the stress he had endured there.
+bioSources:
+  az:
+    wiki: az
+    title: Fələki Şirvani
+  en:
+    wiki: en
+    title: Falaki Shirvani
 ---
 Dövrünün bir sıra tarixi fakt və hadisələrini özündə əks etdirməsi ilə həm də tarixi mənbə kimi böyük əhəmiyyətə malik olan Fələki Şirvaninin poeziyasının ideya-fəlsəfi axtarışlarına ictimai-tarixi hadisələrdən doğan dövranın cövr-cəfasından şikayət və haqsızlıqlara qarşı etiraz motivləri də qarışır. Bu hal onun "Həbsiyyə" silsiləsinə daxil olan və həmin ad altında yazdığı şeirlərdə daha qabarıq nəzərə çarpır.
 

@@ -23,6 +23,16 @@ bioEn: >-
   poetry to the people of Azerbaijan, and his own works have been translated and
   published in other languages and have also been used as lyrics in many popular
   Azerbaijani songs.
+bioSources:
+  az:
+    wiki: az
+    title: Cabir Novruz
+  ru:
+    wiki: ru
+    title: 'Новруз, Джабир'
+  en:
+    wiki: en
+    title: Jabir Novruz
 ---
 **Cabir Mirzəbəy oğlu Novruzov (Cabir Novruz)** — Azərbaycan ədəbiyyatının görkəmli nümayəndəsi, Azərbaycan Respublikasının xalq şairi (1999).
 

@@ -49,7 +49,13 @@
     "bio_only_az": "Биография пока есть только на азербайджанском.",
     "bio_read_az": "Читать на азербайджанском",
     "no_results": "Ничего не найдено",
-    "list_description": "{heading}: {count, plural, one {# автор} few {# автора} many {# авторов} other {# автора}} — биографии и произведения."
+    "list_description": "{heading}: {count, plural, one {# автор} few {# автора} many {# авторов} other {# автора}} — биографии и произведения.",
+    "bio_from_wikipedia": "Источник: Википедия — «{title}»",
+    "bio_translated_from": "Перевод статьи «{title}» из {wiki} Википедии",
+    "wiki_az": "азербайджанской",
+    "wiki_ru": "русской",
+    "wiki_en": "английской",
+    "bio_license": "CC BY-SA 4.0"
   },
   "works": {
     "title": "Произведения",

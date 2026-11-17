@@ -32,6 +32,13 @@ bioEn: >-
   confirming the imamate, and to praise of the twelve imams. Besides these, the
   poet also has a Persian *divani* of four thousand couplets consisting of
   qasidas, ghazals, *mukhammas*, tarjibands, saqinamas and rubais.
+bioSources:
+  az:
+    wiki: az
+    title: Məczub Təbrizi
+  en:
+    wiki: az
+    title: Məczub Təbrizi
 ---
 **Məczub Təbrizi** — şair.
 

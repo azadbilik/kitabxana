@@ -75,6 +75,16 @@ bioEn: >-
   of Persian culture from the reign of the Timurid ruler Sultan Husayn Bayqara
   (r. 1469–1506), but also became entangled in the political struggles of his
   Qizilbash guardians.
+bioSources:
+  az:
+    wiki: az
+    title: Sam Mirzə
+  ru:
+    wiki: ru
+    title: Сам Мирза
+  en:
+    wiki: en
+    title: Sam Mirza
 ---
 **Sam mirzə Şah İsmayıl oğlu Səfəvi** — Şah I İsmayılın üçüncü oğlu olan Səfəvi şahzadəsi və şair. O, *Tohfa-ye Sami* ("Samın Töhfəsi") adlı əsəri ilə məşhurdur. Bu əsərdə Sam Mirzə özünün müasiri olan şair bioqrafiyalarını yazmışdır.
 

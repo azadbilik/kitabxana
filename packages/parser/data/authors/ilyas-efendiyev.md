@@ -18,6 +18,16 @@ bioEn: >-
   Azerbaijan Union of Writers (1940), Honored Art Worker of Azerbaijan (1960),
   laureate of the State Prize of Azerbaijan (1972) and People's Writer of
   Azerbaijan (1979).
+bioSources:
+  az:
+    wiki: az
+    title: İlyas Əfəndiyev
+  ru:
+    wiki: ru
+    title: 'Эфендиев, Ильяс Магомед оглы'
+  en:
+    wiki: en
+    title: Ilyas Afandiyev
 ---
 **İlyas Məhəmməd oğlu Əfəndiyev** — nasir, dramaturq, 1940-cı ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR xalq yazıçısı (1979), Azərbaycan SSR Dövlət mükafatı laureatı (1972).
 

@@ -38,6 +38,16 @@ bioEn: >-
   pain, he should tell it to those who know pain, and wish to know who the
   people of pain and the true friend are. You should test the person you call a
   friend on your bad day, that is, when a mourning or misfortune befalls you.
+bioSources:
+  az:
+    wiki: az
+    title: Nişat Şirvani
+  ru:
+    wiki: ru
+    title: Нишат Ширвани
+  en:
+    wiki: az
+    title: Nişat Şirvani
 ---
 Ağaməsihlə onun həməsr olduğu əşarından görünür. Məlum olduğuna görə, hər iki şair ömürlərinin çoxunu başqa diyar və ölkələrdə səyyahlıqla keçiriblər və səyahət etdikləri vilayətlərin əksəri İran məmləkətində olan vilayətlər olubdur və İran şüəra və ürəfasından təhsili-kəmalat etmişlər.
 

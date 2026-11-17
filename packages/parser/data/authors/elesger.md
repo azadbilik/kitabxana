@@ -22,6 +22,16 @@ bioEn: >-
   as Ashig Alasgar (Azerbaijani: Aşıq Ələsgər; March 22, 1821 — March 7, 1926),
   was an Azerbaijani mystic troubadour (Ashik) and poet of Azerbaijani folk
   songs.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Ələsgər
+  ru:
+    wiki: ru
+    title: Ашуг Алескер
+  en:
+    wiki: en
+    title: Ashig Alasgar
 ---
 **Aşıq Ələsgər** (doğum adı: *Ələsgər Alməmməd oğlu*) — XIX–XX əsr Azərbaycan aşığı.
 

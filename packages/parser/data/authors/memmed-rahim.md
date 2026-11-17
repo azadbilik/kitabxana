@@ -82,6 +82,16 @@ bioEn: >-
   1. Seçilmiş əsərləri (in three volumes). Vol. III. Baku: Yazıçı, 1978, 264 p.
 
   1. Seçilmiş əsərləri (in three volumes). Vol. I. Baku: Azərnəşr, 1988, 263 p.
+bioSources:
+  az:
+    wiki: az
+    title: Məmməd Rahim
+  ru:
+    wiki: ru
+    title: 'Рагим, Мамед'
+  en:
+    wiki: az
+    title: Məmməd Rahim
 ---
 **Məmməd Rahim Abbas oğlu Hüseynov** (təxəllüsü: *Məmməd Rahim*) — azərbaycanlı şair, dramaturq, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR xalq şairi (1964), Azərbaycan SSR əməkdar incəsənət xadimi (1940), Ermənistan SSR əməkdar mədəniyyət xadimi (1970), Stalin mükafatı laureatı (1949).
 

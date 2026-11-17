@@ -23,5 +23,9 @@ bioEn: >-
   Juvayni in 1284, Humam managed to find support amongst other political
   figures, such as Rashid al-Din Hamadani. Humam died at the age of 78, and was
   buried in the Sorkhab district of Tabriz.
+bioSources:
+  en:
+    wiki: en
+    title: Humam-i Tabrizi
 ---
 

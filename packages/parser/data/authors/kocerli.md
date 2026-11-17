@@ -21,6 +21,16 @@ bioEn: >-
   Köçərli; Russian: Фиридун-бек Кочарлинский or Кочарли) (26 January 1863, in
   Shusha – 1920, in Ganja) was a prominent Azerbaijani writer, philologist, and
   literary critic.
+bioSources:
+  az:
+    wiki: az
+    title: Firidun bəy Köçərli
+  ru:
+    wiki: ru
+    title: 'Кочарлинский, Фиридун-бек Ахмед-бек оглы'
+  en:
+    wiki: en
+    title: Firidun bey Kocharli
 ---
 **Firidun bəy Köçərli** — Azərbaycan maarifçisi, pedaqoq, metodist, ədəbiyyatşünas, publisist, Azərbaycan ədəbiyyat tarixçiliyi elminin banisi.
 

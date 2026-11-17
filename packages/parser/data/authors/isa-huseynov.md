@@ -17,6 +17,16 @@ bioEn: >-
   1928 – April 1, 2014) was an Azerbaijani writer, screenwriter and film editor,
   People's Writer of the Azerbaijan SSR (1988), Honored Art Worker of the
   Azerbaijan SSR (1976).
+bioSources:
+  az:
+    wiki: az
+    title: İsa Muğanna
+  ru:
+    wiki: ru
+    title: 'Гусейнов, Иса Мустафа оглы'
+  en:
+    wiki: en
+    title: Isa Mughanna
 ---
 **İsa Muğanna** (tam adı: *İsa Mustafa oğlu Hüseynov*) — Azərbaycanlı yazıçı, ssenarist və kinoredaktor, Azərbaycan SSR xalq yazıçısı (1988), Azərbaycan SSR əməkdar incəsənət xadimi (1976).
 

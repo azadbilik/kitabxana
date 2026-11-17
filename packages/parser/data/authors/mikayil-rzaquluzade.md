@@ -64,6 +64,16 @@ bioEn: >-
   three times, the Certificate of Honor of the Presidium of the Supreme Soviet
   of the Azerbaijan Republic. He was also awarded honorary certificates by the
   Ministry of Culture of the Chuvash SSR and other organizations.
+bioSources:
+  az:
+    wiki: az
+    title: Mikayıl Rzaquluzadə
+  ru:
+    wiki: ru
+    title: 'Рзакулизаде, Микаил Манаф оглы'
+  en:
+    wiki: az
+    title: Mikayıl Rzaquluzadə
 ---
 **Mikayıl Manaf oğlu Rzaquluzadə** — nasir, şair, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycanın qabaqcıl maarif xadimi (1968), əmək veteranı (1976). Ədəbi təxəllüsü otuzuncu illərdə "Mim-Re", "M.R.", "R. Mikayıl", sonralar "M. Rzaquluzadə" olmuşdur.
 

@@ -21,6 +21,16 @@ bioEn: >-
   Arif Shirvani mainly wrote ghazals and satires. In his works, he complained
   about the oppression and injustice of his time, the lack of a loyal confidant,
   and criticized the ruler of Shamakhi, Mustafa Khan and his courtiers.
+bioSources:
+  az:
+    wiki: az
+    title: Arif Şirvani
+  ru:
+    wiki: ru
+    title: Ариф Ширвани
+  en:
+    wiki: en
+    title: Arif Shirvani
 ---
 **Arif Şirvani** — Azərbaycanın XVIII əsrdə yaşamış şairlərindən biri. Mustafa xanın saray şairi.
 

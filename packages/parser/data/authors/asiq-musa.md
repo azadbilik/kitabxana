@@ -12,5 +12,12 @@ writingLangs:
   - AZ_ARABIC
 status: DRAFT
 bioEn: '**Ashiq Musa** (1795–1840. 1830–1912) — Azerbaijani ashik of the 19th century.'
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Musa
+  en:
+    wiki: az
+    title: Aşıq Musa
 ---
 **Aşıq Musa** (1795–1840. 1830–1912) — XIX əsr Azərbaycan aşığı.

@@ -14,5 +14,15 @@ bioRu: "**Ага́ Маси́х Ширвани́**\_— азербайджанс
 bioEn: >-
   **Agha Masih Shirvani** — Azerbaijani poet and enlightener of the 18th
   century. Great-grandfather of Sultan Majid Ganizade.
+bioSources:
+  az:
+    wiki: az
+    title: Ağa Məsih Şirvani
+  ru:
+    wiki: ru
+    title: Ага Масих Ширвани
+  en:
+    wiki: az
+    title: Ağa Məsih Şirvani
 ---
 **Ağa Məsih Şirvani** — XVIII əsr Azərbaycan şairi və maarifpərvəri. Sultan Məcid Qənizadənin ulu babası

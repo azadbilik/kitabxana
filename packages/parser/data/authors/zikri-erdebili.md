@@ -23,6 +23,10 @@ bioEn: |-
   Məcnun mənə nisbət, sənə Leyla nə münasib?
   Can istərisən, eylə bir iyma, verim, amma
   Göytar olan heynidə iyma nə münasib?
+bioSources:
+  ru:
+    wiki: ru
+    title: Зикри Ардебили
 ---
 **Zikri Ərdəbili** — Azərbaycan şairi.
 

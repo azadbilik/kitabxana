@@ -24,6 +24,16 @@ bioEn: >-
   festivities. Mirza Alasgar Novras died in 1912. He had four children. He
   married his daughter Fatimə bəyim to Seyid Həsən, the son of Xurşidbanu
   Natəvan.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Ələsgər Növrəs
+  ru:
+    wiki: ru
+    title: Мирза Алескер Новрес
+  en:
+    wiki: az
+    title: Mirzə Ələsgər Növrəs
 ---
 **Mirzə Ələsgər Növrəs** — Azərbaycan şairi.
 

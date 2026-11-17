@@ -27,6 +27,16 @@ bioEn: >-
   the first composer of an opera in the Islamic world. He composed the first
   oriental opera Leyli and Majnun in 1908 and since then he is revered for
   adapting the written masterpiece to the theatre.
+bioSources:
+  az:
+    wiki: az
+    title: Üzeyir Hacıbəyov
+  ru:
+    wiki: ru
+    title: 'Гаджибеков, Узеир Абдул-Гусейн оглы'
+  en:
+    wiki: en
+    title: Uzeyir Hajibeyov
 ---
 **Üzeyir bəy Əbdülhüseyn bəy oğlu Hacıbəyov** — Azərbaycan bəstəkarı, dirijor, musiqişünas, publisist, dramaturq, pedaqoq, ictimai xadim. SSRİ xalq artisti (1938). II dərəcəli iki "Stalin" mükafatı laureatı (1941, 1946). "Lenin" ordeni kavaleri (1938).
 

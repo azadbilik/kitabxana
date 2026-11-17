@@ -27,5 +27,12 @@ bioEn: >-
   theme) in the forms of Turkic folk poetry. Aşıq Ümer is also an author of
   poems that are traditional for classical oriental poetry – ghazals, rubaʿi
   etcetera. He greatly influenced the later poets-improvisers (ashiks).
+bioSources:
+  ru:
+    wiki: ru
+    title: 'Умер, Ашик'
+  en:
+    wiki: en
+    title: Aşıq Ümer
 ---
 **Aşıq Ömər** — türk aşığı.

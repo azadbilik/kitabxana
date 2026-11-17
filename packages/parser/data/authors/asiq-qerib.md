@@ -19,6 +19,13 @@ bioEn: >-
   dream he is given a *buta*, and he finds the girl from the dream. But the
   girl's family demands a large amount of goods and wealth for her to marry
   Garib. To reach his beloved, Garib lives for a long time in a foreign land.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Qərib
+  en:
+    wiki: az
+    title: Aşıq Qərib
 ---
 **Aşıq Qərib**	— aşıq, şair
 

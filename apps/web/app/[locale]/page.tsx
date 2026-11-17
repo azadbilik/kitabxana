@@ -7,6 +7,7 @@ import { api, type PoemOfTheDay } from '../../lib/api';
 import { localized, ownField, periodLabel } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
 import { CatalogTiles } from '@/components/home/CatalogTiles';
+import { BioCredit } from '@/components/authors/BioCredit';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { authorsPath, worksPath } from '@/lib/facets';
 import { localePath } from '@/lib/i18n';
@@ -41,6 +42,7 @@ interface FeaturedAuthor {
   bioAz?: string;
   bioRu?: string;
   bioEn?: string;
+  bioSources?: unknown;
   _count: { works: number };
 }
 
@@ -192,6 +194,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                       {bioSnippet}
                     </p>
                   )}
+                  {bioSnippet && <BioCredit sources={featured.bioSources} locale={locale} />}
 
                   <Link
                     href={localePath(locale, `/authors/${featured.slug}`)}

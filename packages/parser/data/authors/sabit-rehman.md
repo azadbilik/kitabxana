@@ -25,6 +25,16 @@ bioEn: >-
   literary activity in 1926–1927 with feuilletons published in the magazine
   Molla Nasreddin. His first collection of stories, "Pozğun", was published in
   1931. He is the author of many stories and plays.
+bioSources:
+  az:
+    wiki: az
+    title: Sabit Rəhman
+  ru:
+    wiki: ru
+    title: 'Рахман, Сабит'
+  en:
+    wiki: az
+    title: Sabit Rəhman
 ---
 **Mahmudov Sabit Kərim oğlu (Sabit Rəhman)** — Azərbaycan yazıçısı, dramaturq, Azərbaycan SSR əməkdar incəsənət xadimi (1943).
 

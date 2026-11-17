@@ -31,6 +31,16 @@ bioEn: >-
   events and conflicts of the era, and demonstrated their human qualities. He is
   also the author of many novelettes and stories that possess romantic and
   satirical nature.
+bioSources:
+  az:
+    wiki: az
+    title: Süleyman Rəhimov
+  ru:
+    wiki: ru
+    title: 'Рагимов, Сулейман Гусейн оглы'
+  en:
+    wiki: en
+    title: Suleyman Rahimov
 ---
 **Süleyman Hüseyn oğlu Rəhimov** — Azərbaycan-sovet yazıçısı, nasiri, siyasətçisi, 1938-ci ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR xalq yazıçısı (1960), Sosialist Əməyi Qəhrəmanı (1975).
 

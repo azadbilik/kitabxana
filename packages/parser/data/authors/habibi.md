@@ -31,6 +31,13 @@ bioEn: >-
   poets, including Fuzuli, and had a significant influence on the development of
   Azerbaijani literature. Habibi spent his final years in Anatolia, where he
   died in 1519 or 1520.
+bioSources:
+  az:
+    wiki: az
+    title: Həbibi
+  en:
+    wiki: en
+    title: Habibi (poet)
 ---
 Həbibi həyatının ilk illərini Ağqoyunlu hökmdarı Yaqub padşah sarayında keçirmiş və ilk şeirlərini burada yazmağa başlamışdır. O, 1502-ci ildə Səfəvi şahı I İsmayıl tərəfindən "şairlərin şahı" tituluna layiq görülmüş və beləliklə, Səfəvilər dövlətində saray şairi olmuşdur. Həbibi öz əsərlərini doğma Azərbaycan dilində yazmış, hürufilik və təsəvvüf kimi mövzulardan bəhs etmişdir. O, özündən sonrakı illərdə yazıb-yaratmış şairlərə, o cümlədən Füzuliyə ustadlıq etmiş, ümumi mənzərədə isə Azərbaycan ədəbiyyatının inkişafına mühüm təsir göstərmişdir. Həbibi ömrünün son illərini Anadoluda keçirmiş, 1519-cu və ya 1520-ci ildə vəfat etmişdir.
 

@@ -16,6 +16,16 @@ bioRu: "**Махмуд Шабистари** (1288—1340) — один из са
 bioEn: >-
   Mahmoud Shabestari or Mahmūd Shabestarī (Persian: محمود شبستری‎; 1288–1340) is
   one of the most celebrated Persian Sufi poets of the 14th century.
+bioSources:
+  az:
+    wiki: az
+    title: Mahmud Şəbüstəri
+  ru:
+    wiki: ru
+    title: 'Шабистари, Махмуд'
+  en:
+    wiki: en
+    title: Mahmoud Shabestari
 ---
 **Səəd əd-Din Mahmud ibn Əbdul Kərim ibn Yəhya Şəbustəri** — Azərbaycan alimi, filosof, sufizmin ən görkəmli nəzəriyyəçilərindən olmuşdur.
 

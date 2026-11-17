@@ -26,6 +26,16 @@ bioEn: >-
   beloved Gülgez from the king. Abbas achieves his goal by convincing the ruler
   that he (Ashik Abbas) was a divinely inspired ashik. This episode is a
   renowned instance of dream motif in Turkish hikaye.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Abbas Tufarqanlı
+  ru:
+    wiki: ru
+    title: Ашуг Аббас Туфарганлы
+  en:
+    wiki: en
+    title: Ashik Abbas Tufarqanlı
 ---
 **Aşıq Abbas Tufarqanlı** — XVI əsr Azərbaycan aşığı.
 

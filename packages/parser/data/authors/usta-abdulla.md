@@ -19,6 +19,13 @@ bioEn: >-
   Usta Abdulla received a madrasa education. This education had a considerable
   influence on his work and on the strengthening of religious motifs in his
   poems.
+bioSources:
+  az:
+    wiki: az
+    title: Zodlu Abdulla
+  en:
+    wiki: az
+    title: Zodlu Abdulla
 ---
 **Zodlu Abdulla** (*Usta Abdulla* yaxud *Zodlu Usta Abdulla*) — Ustad el şairi.
 

@@ -52,6 +52,16 @@ bioEn: >-
   realised. Despite wishing to see places like Tabriz in modern-day Iran,
   Anatolia, and India, he never travelled outside Iraq. In 1556, Fuzuli died
   from the plague and was buried in Karbala.
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmməd Füzuli
+  ru:
+    wiki: ru
+    title: Физули
+  en:
+    wiki: en
+    title: Fuzuli (poet)
 ---
 1494-cü ildə indiki İraq ərazisində anadan olan Füzuli uşaqlıqda yaxşı təhsil almış, ədəbiyyat, riyaziyyat, astronomiya və xarici dilləri öyrənmişdir. Onun sağlığında Füzulinin doğma yurduna nəzarət Ağqoyunlu, Səfəvi və Osmanlı imperiyaları arasında dəyişmişdir. O, hər üç imperiyanın dövlət səlahiyyətliləri üçün şeirlər yazmış, ilk şeirini Ağqoyunlu şahı Əlvənd mirzəyə həsr etmişdir. Füzuli poeziyasının çoxunu İraqda Osmanlı hakimiyyəti dövründə yazmış və buna görə o, bəzən Osmanlı şairi də adlandırılır. Füzulinin bütün həyatı boyu onun bir neçə himayədarı olmuş, lakin heç vaxt onu həqiqətən qane edən birini tapa bilməmişdir və onun şah sarayına qoşulmaq arzusu heç vaxt həyata keçməmişdir. O, Təbriz, Anadolu və Hindistan kimi yerləri görmək arzusunu bildirməsinə baxmayaraq, Füzuli İraqdan kənara heç vaxt səfər etməmişdir. 1556-cı ildə Füzuli taun xəstəliyindən vəfat etmiş və Kərbəlada dəfn olunmuşdur.
 

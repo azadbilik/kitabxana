@@ -46,6 +46,16 @@ bioEn: >-
   glorification of romantic love and the joy of life, but in some of his poems,
   he denounces the vices of feudal society and opposes slavery and religious
   fanaticism.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Şəfi Vazeh
+  ru:
+    wiki: ru
+    title: Мирза Шафи Вазех
+  en:
+    wiki: en
+    title: Mirza Shafi Vazeh
 ---
 Mirzə Şəfi çoxlu qəzəlllər, müxəmməslər, məsnəvilər, rübailər və s. yazmışdır. Onun şeirləri intim-lirik və satirik xarakteri daşıyırdı. Bundan başqa Vazeh poeziya tipli "Müdriklik dərnəyi"nin başında dayanırdı. Vazehin əsərlərinin əsas mövzusu romantik sevginin tərənnümü və həyatın nəşəsidi, amma bəzi şeirlərində Mirzə Şəfi feodal cəmiyyətinin eyiblərini göstərir, köləlik şəxsiyyətlik və dini fanatizmin əleyhinə çıxış edir.
 

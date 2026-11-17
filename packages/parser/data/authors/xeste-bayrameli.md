@@ -22,6 +22,13 @@ bioEn: >-
   oral folk literature. He is a rare artist whose ghazals and narratives are
   sung by khanende singers, the songs composed to his words by singers, and his
   *qoshmas*, *gerayli*, *tajnis*, *mukhammas* and *divani* by ashiks.
+bioSources:
+  az:
+    wiki: az
+    title: Xəstə Bayraməli
+  en:
+    wiki: az
+    title: Xəstə Bayraməli
 ---
 **Xəstə Bayraməli** — Azərbaycanlı şair.
 

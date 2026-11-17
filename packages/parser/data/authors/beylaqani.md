@@ -28,6 +28,16 @@ bioEn: >-
   influence of the Shirvanshahs, Georgians, Seljuks and Eldiguzids. During this
   period, the Caucasus region was inhabited by different ethnic groups, as
   demonstrated by Baylaqani's maternal side, which was Armenian.
+bioSources:
+  az:
+    wiki: az
+    title: Mücirəddin Beyləqani
+  ru:
+    wiki: ru
+    title: Муджиреддин Бейлагани
+  en:
+    wiki: en
+    title: Mujir al-Din Baylaqani
 ---
 **Mücirəddin Beyləqani** — Azərbaycan şairi.
 

@@ -30,6 +30,16 @@ bioEn: >-
   *marsiya* type. By the strength of the works he produced in this field, the
   poet held a distinctive place among Turkic-language poets living and writing
   in Iran at the end of the 19th and beginning of the 20th century.
+bioSources:
+  az:
+    wiki: az
+    title: Hacı Rza Sərraf
+  ru:
+    wiki: ru
+    title: 'Сарраф, Хаджи Рза'
+  en:
+    wiki: az
+    title: Hacı Rza Sərraf
 ---
 **Hacı Rza Sərraf**, **Hacı Rza Sərraf Təbrizi** — qəzəl və mərsiyə yazan şair.
 

@@ -25,6 +25,16 @@ bioEn: >-
   War he wrote several satires: Hitler's Union with Devil, Wolf's Protest
   Against God, My Homeland and others. Nazmi strived for the purity of
   Azerbaijani language against Pan-Turkists and Panislamists.
+bioSources:
+  az:
+    wiki: az
+    title: Əli Nəzmi
+  ru:
+    wiki: ru
+    title: 'Назми, Али'
+  en:
+    wiki: en
+    title: Ali Nazmi
 ---
 **Məmmədzadə Əli Məhəmməd oğlu** (*Əli Nəzmi*) – şair, ədəbiyyatşünas, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü.
 

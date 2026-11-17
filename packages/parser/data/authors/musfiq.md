@@ -39,6 +39,16 @@ bioEn: >-
   In 1956, he was exonerated posthumously. Nikita Khrushchev era of
   de-stalinization has resulted in Mushfig's poetry being famous in Azerbaijani
   society.
+bioSources:
+  az:
+    wiki: az
+    title: Mikayıl Müşfiq
+  ru:
+    wiki: ru
+    title: 'Мушфиг, Микаил'
+  en:
+    wiki: en
+    title: Mikayil Mushfig
 ---
 **Mikayıl Müşfiq** (tam adı: *Mikayıl Əbdülqadir oğlu İsmayılzadə*) — Azərbaycan şairi, tərcüməçisi və pedaqoqu, Azərbaycan Yazıçılar Birliyinin üzvü (1934), "Azərnəşr"in keçmiş redaktoru.
 

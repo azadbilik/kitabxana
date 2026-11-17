@@ -163,6 +163,7 @@ export class AuthorsService {
       period: true,
       portraitUrl: true,
       [bioField]: true,
+      bioSources: true,
       _count: { select: { works: true } },
     } as const;
     const hasBio: Prisma.AuthorWhereInput =

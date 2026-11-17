@@ -24,6 +24,16 @@ bioEn: >-
   philologist, writer, poet and teacher. He is mainly known for his contribution
   to "Vatan dili" (Mother Language) which was the main textbook for Azerbaijani
   school children for almost 40 years, from 1882 to 1920.
+bioSources:
+  az:
+    wiki: az
+    title: Həsənəli xan Qaradaği
+  ru:
+    wiki: ru
+    title: 'Карадагский, Гасаналиага-хан'
+  en:
+    wiki: en
+    title: Hasan Ali Khan Garadaghi
 ---
 **Həsənəli xan Qaradaği** — Azərbaycan maarifpərvəri, şair, pedaqoq, ədəbiyyatşünas, tərcüməçi, filoloq, tarixçi, xəttat, teatr xadimi.
 

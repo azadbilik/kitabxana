@@ -26,5 +26,12 @@ bioEn: >-
   contested with Ashik Durakhan in Erivan and with Keshishoglu in Nakhchivan and
   Kichik Mazra, and won over all of them. In addition, he was the teacher of the
   well-known Ashik Ali Gyzylvenkli.
+bioSources:
+  ru:
+    wiki: ru
+    title: Аг Ашуг Аллахверди
+  en:
+    wiki: ru
+    title: Аг Ашуг Аллахверди
 ---
 

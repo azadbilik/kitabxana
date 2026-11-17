@@ -20,6 +20,13 @@ bioEn: >-
   in Qazvin where he occupied several positions in the royal court. Ultimately,
   he was dismissed from a post in the royal library in 1596, and he spent his
   final years focused on his own writing before his death in Isfahan in 1610.
+bioSources:
+  az:
+    wiki: az
+    title: Sadıq bəy Əfşar
+  en:
+    wiki: en
+    title: Sadiqi Beg
 ---
 **Sadıq bəy Sadiqi** — sərkərdə, təzkirəçi, şair, miniatür rəssam.
 

@@ -27,6 +27,16 @@ bioEn: >-
   Shirvanshahs. His fame most securely rests upon the qasidas collected in his
   Divān, and his autobiographical travelogue Tohfat al-ʿErāqayn. He is also
   notable for his contributions to the genre of habsiyāt ("prison poetry").
+bioSources:
+  az:
+    wiki: az
+    title: Xaqani Şirvani
+  ru:
+    wiki: ru
+    title: Хагани Ширвани
+  en:
+    wiki: en
+    title: Khaqani
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Şirvani Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

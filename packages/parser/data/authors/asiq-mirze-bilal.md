@@ -29,6 +29,13 @@ bioEn: >-
   all the ashiks. A large part of Ashik Mirza Bilal's collected works, that is,
   his poems and *dastans*, was seized and destroyed by the NKVD when his
   property was confiscated.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Mirzə Bilal
+  en:
+    wiki: az
+    title: Aşıq Mirzə Bilal
 ---
 **Aşıq Mirzə Bilal Mustafa oğlu Mikayılov** — aşıq, şair.
 

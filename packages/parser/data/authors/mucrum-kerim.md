@@ -19,6 +19,13 @@ bioEn: >-
   Cəfərabad. Ashik Pəri (who lived in the neighboring village of Maralyan — ed.)
   also played a certain role in the gift of the village to Mücrüm Kərim, and
   Pəri too asked Cəfərqulu agha to give him those lands.
+bioSources:
+  az:
+    wiki: az
+    title: Mücrüm Kərim
+  en:
+    wiki: az
+    title: Mücrüm Kərim
 ---
 **Mücrüm Kərim** (XIX əsrin 1-ci yarısı) — XIX əsr Azərbaycan şairi.
 

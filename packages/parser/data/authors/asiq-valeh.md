@@ -23,6 +23,16 @@ bioEn: >-
   finished the Quran, but refused to become a mullah. The master Ashik Valeh,
   who lived 93 years, was a contemporary and close associate of Molla Panah
   Vagif; they lived in the same period and had close relations.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Valeh
+  ru:
+    wiki: ru
+    title: Ашуг Валех
+  en:
+    wiki: az
+    title: Aşıq Valeh
 ---
 **Aşıq Valeh (Kərbəlayi Səfi Valeh)** — XVIII–XIX əsrlərin görkəmli Azərbaycan aşığı.
 

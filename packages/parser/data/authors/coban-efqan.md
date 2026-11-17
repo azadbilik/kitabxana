@@ -17,6 +17,13 @@ bioEn: >-
 
   Living in great poverty, Choban Afghan herded the livestock of the wealthy
   from a young age and worked for them as a hired labourer.
+bioSources:
+  az:
+    wiki: az
+    title: Çoban Əfqan
+  en:
+    wiki: az
+    title: Çoban Əfqan
 ---
 **Çoban Əfqan** (*Ələkbər Namazov*, 1866–1924) — Azərbaycan aşığı.
 

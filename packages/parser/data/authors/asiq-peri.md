@@ -36,6 +36,16 @@ bioEn: >-
   Azerbaijani culture" because, in her duels with male counterparts, she
   rebuffed their advances while maintaining her honour and modesty, always
   performing solo without requiring a man's guardianship.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Pəri
+  ru:
+    wiki: ru
+    title: Ашуг-Пери
+  en:
+    wiki: en
+    title: Ashiq Peri
 ---
 **Aşıq Pəri** — Azərbaycan aşıq-şairi.
 

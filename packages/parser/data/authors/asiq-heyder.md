@@ -21,6 +21,13 @@ bioEn: >-
   Ashik Heydar died in the village of Duzkand on 19 March 1949, reciting his
   *qoshma* «Axtarın məni» (Look for me) to his grandson Yusif Rahim oghlu
   Heydarov.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Heydər
+  en:
+    wiki: az
+    title: Aşıq Heydər
 ---
 **Aşıq Heydər** (tam adı:*Məmmədov Heydər Kərim oğlu*; d. 1867 – ö. 1949) — XIX əsrin sonu XX əsrin birinci yarısında yaşamış Ağbaba mahalının ustad aşığı, Ağbaba Süvarı Alayının Baş Ozanı
 

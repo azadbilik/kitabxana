@@ -22,6 +22,13 @@ bioEn: >-
   a well-known scholar in the region. Ashik Səfili's brother-in-law Molla Şəmşat
   was also a scholar, and in 1937 he was exiled from his homeland together with
   the ashik.
+bioSources:
+  az:
+    wiki: az
+    title: Ahıskalı aşıq Səfili
+  en:
+    wiki: az
+    title: Ahıskalı aşıq Səfili
 ---
 **Axısqalı Aşıq Molla Məhəmməd Səfili** — şeirlərini "Molla", "Cindar" və "Səfili" ləqəbi ilə yazmış Axısqa türkü aşıq.
 

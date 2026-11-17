@@ -23,5 +23,15 @@ bioEn: >-
   because his father hailed from Isfahan and he himself spent part of his life
   there. He first chose the pen-name Safi, but changed it to Awhadi after
   becoming a devotee of the school of the famous mystic Awhad al-Din Kermani.
+bioSources:
+  az:
+    wiki: az
+    title: Əvhədi Marağalı
+  ru:
+    wiki: ru
+    title: Аухади Марагаи
+  en:
+    wiki: en
+    title: Awhadi Maraghai
 ---
 Əsər üç hissədən, iki fəsildən ibarətdir. Əhvədinin poeması həm qoyulan məsələlərin çoxluğu, həm də onları əks etdirmə metodunun orijinallığı ilə diqqəti cəlb edir. Kitabın əvvəlindən axıra qədər elmə mədhiyyə oxuyur. "Cami-Cəm" hər şeydən əvvəl elmə, biliyə himn kimi səslənir. Əhvədinin poemasını başqa poemalardan fərqləndirən başqa bir cəhət həyat və məişətin ən kiçik məsələlərinə qədər özündə əks etdirməsidir. Təsadüfi deyildir ki, bu əsər, istər şairin öz vaxtında, istər sonrakı dövrlərdə geniş yayılmış, Şərq xalqları tərəfindən sevilə-sevilə oxunmuş və bir çox klassik şairlərin yaradıcılığına öz tə`sirini göstərmişdir. Mövlana Əvhədi "Cami-Cəm"in "BU KİTABIN MƏZMUNU HAQQINDA" bölməsində öz əsəri haqqında belə deyir:

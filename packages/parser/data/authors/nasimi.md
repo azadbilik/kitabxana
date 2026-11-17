@@ -44,6 +44,16 @@ bioEn: >-
   eventually convinced the Mamluk sultan to order his death for his religious
   beliefs around 1418–19. Nasimi was executed and buried in a Sufi lodge (takya)
   in Aleppo.
+bioSources:
+  az:
+    wiki: az
+    title: İmadəddin Nəsimi
+  ru:
+    wiki: ru
+    title: Насими
+  en:
+    wiki: en
+    title: Imadaddin Nasimi
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə İmadəddin Nəsimi Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

@@ -60,6 +60,13 @@ bioEn: >-
   the history of greater Shirvan, i.e., the area that would later make up most
   of the Republic of Azerbaijan. His Qanun-e Qodsi was one of the first grammars
   of the Persian language.
+bioSources:
+  az:
+    wiki: az
+    title: Abbasqulu ağa Bakıxanov
+  en:
+    wiki: en
+    title: Abbasgulu Bakikhanov
 ---
 Əsərinin müqəddiməsində həmin əsərin "Ümumi coğrafiya" kitabının "riyazi hissəsindən" götürüldüyü qeyd olunur. Bu əsər ərəb dilində qələmə alınmışdır. Əsərdə müəllif islamın ehkamlarının əksinə olaraq heliosentrik nəzəriyyəyə tərəfdar çıxmışdır. 30-cu illərdə Abbasqulu ağa Bakıxanov kainatın quruluşu və vəziyyətindən bəhs edən əsərlərlə maraqlanır, qədim yunan və ərəb alimlərinin bu sahədə yazdıqları əsərləri mütaliə edir. Yeni inqilabi kəşfləri ilə məşhur olan Nyuton, Qaliley, Kopernik, Kepler və s. məşhur alimlərin əsərləri ilə tanış olur. Maraqlıdır ki, o bu əsəri 1832-ci ildə yazmış və özü ilə 1846-cı ildə Türkiyəyə aparmış və Osmanlı sultanı Sultan Əbdülməcidə təqdim etmişdir. Əsər 1848-ci ildə Türkiyədə "Əfkarül-cəbarut fi əsrarül-məlakut" adı ilə İstanbulda nəşr olunmuşdur. O bu çapı görə bilməmişdir. Müəllifin qeyd etdiyinə görə əsərin farsca da variantı olmuşdur, lakin həmin variant əlimizdə yoxdur.
 Onun ərəb dilində yazılmış digər elmi əsəri **"Eynəl-mizan"** adlanır. Əsər məntiq elminə həsr olunub.

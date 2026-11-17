@@ -45,5 +45,15 @@ bioEn: >-
   Mahsati (Persian: مهستی, romanized: Mahsati) was a medieval Persian poet who
   was reportedly one of the first poets to compose ruba'iyat (quatrains) in her
   native language.
+bioSources:
+  az:
+    wiki: az
+    title: Məhsəti Gəncəvi
+  ru:
+    wiki: ru
+    title: Мехсети Гянджеви
+  en:
+    wiki: en
+    title: Mahsati
 ---
 Məhsəti təxəllüsünün mənşəyi barədə bir neçə rəvayət vardır. Bunlardan birində deyilir ki, guya Sultan Səncərlə söhbətlərindən birində Mənicə öz mühitində hamıdan kiçik və görünməz olduğunu söyləyir. Sultan isə onunla razılaşmayıb deyir ki,"to, meh-həsti" (yəni, "sən hamıdan böyüksən"). Və guya "meh-həsti"-"məhsəti"yə çevrilib, onun təxəllüsü olur. Abbasqulu ağa Bakıxanovun "Gülistani-İrəm" əsərinin "Nəticə" adlanan hissəsində irəli sürülmüş fərziyyəyə görə, "Məhsəti" "mah" və "səti" olmaqla iki sözdən ibərətdir və "böyük xanım" anlamına gəlir. 2013-cü ildə UNESCO-nun Baş Konfransının 36-cı sessiyasında Məhsəti Gəncəvinin 900 illik yubileyinin dünya səviyyəsində qeyd edilməsi haqqında qərar qəbul edilib.

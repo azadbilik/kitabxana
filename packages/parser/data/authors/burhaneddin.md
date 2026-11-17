@@ -28,6 +28,16 @@ bioEn: >-
   language. He is considered one of the founders of modern Azerbaijani and
   Turkish literature, playing a significant role in the development of poetry in
   the Azerbaijani Turkic language.
+bioSources:
+  az:
+    wiki: az
+    title: Qazi Bürhanəddin
+  ru:
+    wiki: ru
+    title: Кади Бурханеддин Ахмед
+  en:
+    wiki: en
+    title: Kadi Burhan al-Din
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Qazi Bürhanəddin Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

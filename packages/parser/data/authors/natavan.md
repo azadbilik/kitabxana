@@ -27,6 +27,16 @@ bioEn: >-
 
   Natavan was the daughter of Mehdigulu Khan, the last ruler of the Karabakh
   Khanate (1748–1822).
+bioSources:
+  az:
+    wiki: az
+    title: Xurşidbanu Natəvan
+  ru:
+    wiki: ru
+    title: 'Натаван, Хуршидбану'
+  en:
+    wiki: en
+    title: Khurshidbanu Natavan
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Xurşidbanu Natəvan Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

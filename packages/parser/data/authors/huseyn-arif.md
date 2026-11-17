@@ -24,6 +24,16 @@ bioEn: >-
 
   **Works.** In the electronic reading room of the Azerbaijan National Library:
   [book 7525](https://web2.anl.az/read/page.php?bibid=7525).
+bioSources:
+  az:
+    wiki: az
+    title: Hüseyn Arif
+  ru:
+    wiki: ru
+    title: 'Ариф, Гусейн'
+  en:
+    wiki: az
+    title: Hüseyn Arif
 ---
 **Hüseyn Camal oğlu Hüseynzadə** (*Hüseyn Arif*) — Azərbaycan şairi, 1949-cu ildən AYİ-nın üzvü, Azərbaycan SSR Əməkdar incəsənət xadimi (1984), Azərbaycan SSR Xalq şairi (1989), Azərbaycan SSR Dövlət mükafatı laureatı (1978).
 

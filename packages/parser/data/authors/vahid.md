@@ -21,6 +21,16 @@ bioEn: >-
   İsgəndərov; 17 February 1895, in Baku – 1 October 1965, in Baku), was an
   Azerbaijani poet and Honoured Artist of the Azerbaijan SSR (1943). He was
   known for reintroducing medieval ghazal style in Soviet Azerbaijani poetry.
+bioSources:
+  az:
+    wiki: az
+    title: Əliağa Vahid
+  ru:
+    wiki: ru
+    title: 'Вахид, Алиага'
+  en:
+    wiki: en
+    title: Aliagha Vahid
 ---
 **Əliağa Vahid** (əsl adı: *Əliağa Məmmədqulu oğlu İsgəndərov*;  — Azərbaycan-sovet şairi, qəzəlxanı, Azərbaycan SSR əməkdar incəsənət xadimi (17 iyun 1943).
 

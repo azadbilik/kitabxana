@@ -20,6 +20,16 @@ bioEn: >-
 
   He died in Baku on 2 July 1990 and was buried in the village where he was
   born.
+bioSources:
+  az:
+    wiki: az
+    title: Osman Sarıvəlli
+  ru:
+    wiki: ru
+    title: 'Сарывелли, Осман'
+  en:
+    wiki: az
+    title: Osman Sarıvəlli
 ---
 **Osman Sarıvəlli** (əsl adı **Osman Abdulla oğlu Qurbanov**) — Azərbaycan şairi, 1937-ci ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR xalq şairi (1977), Azərbaycan EA Nizami adına Dil və Ədəbiyyat İnstitutunun müdir müavini.
 

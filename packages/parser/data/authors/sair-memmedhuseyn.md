@@ -15,6 +15,13 @@ bioEn: >-
   Mammad Huseyn (Azerbaijani: Məmməd Huseyin) (born Novruzov Mammad Huseyn Hasan
   oglu; 1800–1880, in Dashkand, Nor Bayazet district) was a 19th-century
   Azerbaijani poet.
+bioSources:
+  az:
+    wiki: az
+    title: Şair Məmmədhüseyn
+  en:
+    wiki: en
+    title: Mammad Huseyn
 ---
 **Şair Məmmədhüseyn** — XIX əsrdə yaşamış aşıq, şair.
 

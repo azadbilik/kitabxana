@@ -32,6 +32,13 @@ bioEn: >-
   of the greatest rulers of the Qara Qoyunlu. He was also allegedly fond of
   drinking and entertainment. During his reign Jahan Shah had the Gökmedrese and
   Muzafferiye theological schools constructed in his capital city Tabriz.
+bioSources:
+  az:
+    wiki: az
+    title: Cahanşah
+  en:
+    wiki: en
+    title: Jahan Shah
 ---
 **Müzəffərəddin Cahan ibn Yusif** və ya **Cahanşah** — dövlət xadimi, şair, hürufi fəlsəfəsinin tanınmış nümayəndəsi. Cahanşah Qaraqoyunlu dövlətinin banisi Qara Yusifin üçüncü oğlu idi. "Həqiqi" təxəllüsü ilə Azərbaycan ədəbiyyatında öz yeri olan şairdir.
 

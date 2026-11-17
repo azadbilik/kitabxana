@@ -23,6 +23,13 @@ bioEn: >-
   genre and the modern school in Azerbaijani poetry. He served as the vizier—the
   minister of foreign affairs—of the Karabakh Khanate during the reign of
   Ibrahim Khalil Khan.
+bioSources:
+  az:
+    wiki: az
+    title: Molla Pənah Vaqif
+  en:
+    wiki: en
+    title: Molla Panah Vagif
 ---
 {{Yazıçı
  |adı           = Molla Pənah Vaqif

@@ -25,6 +25,16 @@ bioEn: >-
   poems and fables Seyid Azim Shirvani ridiculed priesthood, opposed
   backwardness and ignorance, called to enlightenment and culture. Contemporary
   poets consider him their teacher.
+bioSources:
+  az:
+    wiki: az
+    title: Seyid Əzim Şirvani
+  ru:
+    wiki: ru
+    title: 'Ширвани, Сеид Азим'
+  en:
+    wiki: en
+    title: Seyid Azim Shirvani
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Seyid Əzim Şirvani Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

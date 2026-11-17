@@ -16,5 +16,15 @@ bioRu: "Ашуг **Гусе́йн Бозалганлы́** (псевдоним; 
 bioEn: >-
   **Huseyn Mashadi Jafargulu oghlu** — Azerbaijani ashik, Honored Art Worker of
   the Azerbaijan SSR (1940).
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Hüseyn Bozalqanlı
+  ru:
+    wiki: ru
+    title: Ашуг Гусейн Бозалганлы
+  en:
+    wiki: az
+    title: Aşıq Hüseyn Bozalqanlı
 ---
 **Hüseyn Məşədi Cəfərqulu oğlu** — Azərbaycan aşığı, Azərbaycan SSR əməkdar incəsənət xadimi (1940).

@@ -32,6 +32,16 @@ bioEn: >-
   Ottoman palace, was emphasized after the foundation of the Republic of Turkey
   in 1923 and became an important influence on modern lyric poetry, with
   Karacaoğlan being its foremost exponent.
+bioSources:
+  az:
+    wiki: az
+    title: Qaracaoğlan
+  ru:
+    wiki: ru
+    title: Караджаоглан
+  en:
+    wiki: en
+    title: Karacaoğlan
 ---
 **Qaracaoğlan** — Anadolu türk aşığı.
 

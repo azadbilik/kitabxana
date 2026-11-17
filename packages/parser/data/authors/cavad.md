@@ -25,6 +25,16 @@ bioEn: >-
   deniz. He was later arrested by the Soviet regime and executed on October 13,
   1937, accused of trying to spread Musavat-inspired nationalism to young
   Azerbaijani poets.
+bioSources:
+  az:
+    wiki: az
+    title: Əhməd Cavad
+  ru:
+    wiki: ru
+    title: 'Джавад, Ахмед'
+  en:
+    wiki: en
+    title: Ahmad Javad
 ---
 **Əhməd Cavad** (tam adı: **Cavad Məhəmmədəli oğlu Axundzadə**) — Azərbaycan şairi, tərcüməçi, Azərbaycan Yazıçılar İttifaqının üzvü (1934), professor (1933), Quba Xalq Maarif şöbəsinin müdiri, Gəncədə Azərbaycan Kənd Təsərrüfatı İnstitutunda Azərbaycan və rus dilləri kafedrasında müəllim, dosent, kafedra müdiri (1930–1933), Azərbaycan Dövlət Nəşriyyatının tərcümə şöbəsində redaktor (1934), "Azərbaycanfilm" studiyasında sənədli filmlər şöbəsinin müdiri (1935–1936)
 

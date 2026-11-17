@@ -24,6 +24,13 @@ bioEn: >-
   Ushtibin, where he lived until his death. After his death, his poems, not all
   of which were published during his lifetime, or even recorded, were performed
   by locals in songs.
+bioSources:
+  az:
+    wiki: az
+    title: Əbülqasim Nəbati
+  en:
+    wiki: en
+    title: Abulgasim Nabati
 ---
 **Seyid Əbülqasim Nəbati** — XIX əsr Cənubi Azərbaycan ədəbiyyatının nümayəndəsi. Həyat və yaradıcılığı ilə bağlı müxtəlif ziddiyyətli fikirlər var.
 

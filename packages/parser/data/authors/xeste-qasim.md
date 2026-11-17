@@ -28,6 +28,16 @@ bioEn: >-
   He learned the Arabic and Persian languages and mastered the arts of poetry,
   philosophy, history, Islam, and astronomy. Gasim also studied the literary
   heritage of Fuzûlî, and thought of himself as his descendant.
+bioSources:
+  az:
+    wiki: az
+    title: Xəstə Qasım
+  ru:
+    wiki: ru
+    title: Хесте Касум
+  en:
+    wiki: en
+    title: Khasta Qasim
 ---
 **Xəstə Qasım** — XVIII əsr Azərbaycan aşığı.
 

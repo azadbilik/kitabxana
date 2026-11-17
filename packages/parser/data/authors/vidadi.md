@@ -44,6 +44,16 @@ bioEn: >-
   attitude. His was also known for his poetic dialogue with Molla Panah Vagif.
   Vidadi's simple and realistic (sometimes involving elements of mysticism)
   literary style resembled the traditional Azeri ashik genre.
+bioSources:
+  az:
+    wiki: az
+    title: Molla Vəli Vidadi
+  ru:
+    wiki: ru
+    title: 'Видади, Молла Вели'
+  en:
+    wiki: en
+    title: Molla Vali Vidadi
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli, 211 nömrəli Qərarı ilə Molla Vəli Vidadi Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

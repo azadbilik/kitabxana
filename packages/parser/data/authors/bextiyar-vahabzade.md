@@ -22,6 +22,16 @@ bioEn: >-
   dramatist, lyricist, translator, professor, and politician. He is often
   regarded as one of the greatest contemporary poets of the Republic of
   Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Bəxtiyar Vahabzadə
+  ru:
+    wiki: ru
+    title: 'Вагабзаде, Бахтияр Махмуд оглы'
+  en:
+    wiki: en
+    title: Bakhtiyar Vahabzadeh
 ---
 **Bəxtiyar Mahmud oğlu Vahabzadə** — Azərbaycan şairi, dramaturq və ədəbiyyatşünas, Azərbaycan Yazıçılar Birliyinin üzvü (1945-ci ildən), Azərbaycan SSR xalq şairi (1984), filologiya elmləri doktoru (1964), professor, Azərbaycan Milli Elmlər Akademiyasının həqiqi üzvü (2000), SSRİ (1984) və Azərbaycan SSR dövlət mükafatları laureatı (1976).
 

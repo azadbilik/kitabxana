@@ -32,6 +32,16 @@ bioEn: >-
   a long time at the Azerbaijan Writers' Union and in various press
   organizations. Additionally, he conducted research in literary studies,
   contributing to the study of Azerbaijan's literary heritage.
+bioSources:
+  az:
+    wiki: az
+    title: Xəlil Rza Ulutürk
+  ru:
+    wiki: ru
+    title: Халил Рза Улутюрк
+  en:
+    wiki: en
+    title: Khalil Rza Uluturk
 ---
 **Xəlil Rza Ulutürk** (tam adı: *Xəlil Rza oğlu Xəlilov*) — şair, tənqidçi, ədəbiyyatşünas, tərcüməçi, 1954-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, filologiya elmləri doktoru (1969), Azərbaycanın əməkdar incəsənət xadimi (1986), M. F. Axundov adına ədəbi mükafat laureatı (1991), Azərbaycan Respublikasının xalq şairi (1992). Ölümündən sonra "İstiqlal" ordeni ilə təltif olunub.
 

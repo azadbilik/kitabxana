@@ -33,6 +33,16 @@ bioEn: >-
   well as Azerbaijan Medical University, are named after him. In the Lankaran
   region, there is a town named Narimanabad in his honor. There are also towns
   named after him in other post-Soviet states, mainly in Russia.
+bioSources:
+  az:
+    wiki: az
+    title: Nəriman Nərimanov
+  ru:
+    wiki: ru
+    title: 'Нариманов, Нариман Наджаф оглы'
+  en:
+    wiki: en
+    title: Nariman Narimanov
 ---
 **Nəriman Kərbəlayı Nəcəf oğlu Nərimanov** — Azərbaycan bolşevik inqilabçısı, ictimai-siyasi xadimi, yazıçısı, publisisti, həkimi; Azərbaycan SSR-in 1-ci Xalq Xarici İşlər Komissarı; Azərbaycan SSR İnqilab Komitəsinin Sədri; Azərbaycan SSR Xalq Komissarları Sovetinin 1-ci Sədri; ZSFSR İttifaq Sovetinin 1-ci Sədri; SSRİ Mərkəzi İcraiyyə Komitəsi Rəyasət Heyətinin ZSFSR-dən 1-ci Sədri.
 

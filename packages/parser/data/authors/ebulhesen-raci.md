@@ -28,6 +28,16 @@ bioEn: >-
   died on his return from the Hajj pilgrimage. Boarding a ship at Jeddah, he
   drowned in the sea on the way, and this sorrowful event took place in the year
   1292 of the hijra.
+bioSources:
+  az:
+    wiki: az
+    title: Əbülhəsən Raci
+  ru:
+    wiki: ru
+    title: Абульхасан Раджи
+  en:
+    wiki: az
+    title: Əbülhəsən Raci
 ---
 **Əbülhəsən Raci** — şair.
 

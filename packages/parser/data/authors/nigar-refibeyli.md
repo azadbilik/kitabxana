@@ -17,6 +17,16 @@ bioEn: >-
   (1913–1981, Baku) was an Azerbaijani writer and the Chairman of the Writers'
   Union of Azerbaijan. She was the wife of the famous writer and poet Rasul Rza.
   The writer Anar Rzayev is their son.
+bioSources:
+  az:
+    wiki: az
+    title: Nigar Rəfibəyli
+  ru:
+    wiki: ru
+    title: 'Рафибейли, Нигяр Худадат кызы'
+  en:
+    wiki: en
+    title: Nigar Rafibeyli
 ---
 **Nigar Xudadat qızı Rəfibəyli** — azərbaycanlı şair, tərcüməçi, 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR xalq şairəsi (1981), Azərbaycan SSR əməkdar mədəniyyət işçisi (1967).
 

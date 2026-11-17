@@ -20,6 +20,16 @@ bioEn: >-
   The main themes of her poems are complaints about injustice and motifs of
   rebellion against oppressors. According to legend, the ashik, whose eyes had
   gone blind from weeping, was called "Blind Basti" among the people.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Bəsti
+  ru:
+    wiki: ru
+    title: Ашуг Басти
+  en:
+    wiki: az
+    title: Aşıq Bəsti
 ---
 **Aşıq Bəsti** (tam adı:*Bəsti Kərbəlayı Bayraməli qızı*) — XIX əsrin tanınmış qadın Azərbaycan aşığı.
 

@@ -28,6 +28,13 @@ bioEn: >-
   great artist" by chance. It is simply impossible to tie Ashik Shenlik's name
   to the world of saz and word of a single district. He is one of the giant
   ashik-poets of the Turkic world.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Şenlik
+  en:
+    wiki: az
+    title: Aşıq Şenlik
 ---
 **Aşıq Şenlik** (əsl adı:Həsən) — Azərbaycanlı Türk aşıq
 

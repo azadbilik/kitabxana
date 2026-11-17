@@ -28,6 +28,16 @@ bioEn: >-
   His most important work, Heydar Babaya Salam, is considered to be the pinnacle
   of Azerbaijani literature which gained great popularity in the Turkic world
   and was translated to more than 30 languages.
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmmədhüseyn Şəhriyar
+  ru:
+    wiki: ru
+    title: 'Шахрияр, Мухаммед Хусейн'
+  en:
+    wiki: en
+    title: Mohammad-Hossein Shahriar
 ---
 **Məhəmmədhüseyn Şəhriyar** (tam adı: **Seyid Məhəmmədhüseyn Behcəti Təbrizi)** — daha çox Şəhriyar təxəllüsü ilə tanınan və milliyətcə azərbaycanlı olan şair.
 

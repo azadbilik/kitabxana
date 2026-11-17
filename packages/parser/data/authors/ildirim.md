@@ -35,6 +35,16 @@ bioEn: >-
   Səslənərkən ("When Mountains Make a Sound," 1930). However, the distribution
   of this book was prohibited, and the author was banned from the Writers' Union
   of Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Almas İldırım
+  ru:
+    wiki: ru
+    title: Алмас Илдырым
+  en:
+    wiki: en
+    title: Almas Ildyrym
 ---
 **Almas İldırım** (əsl adı: Əbdülhəsən Almaszadə) — Azərbaycanın mühacir şairi.
 

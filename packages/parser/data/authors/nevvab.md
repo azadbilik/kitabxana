@@ -32,6 +32,16 @@ bioEn: >-
   general way of life. Although Navvab remained a traditionalist in the arts, he
   was a progressive person in public life in Karabakh who did a lot for the
   growth of literacy, culture, and arts in Karabakh.
+bioSources:
+  az:
+    wiki: az
+    title: Mir Möhsün Nəvvab
+  ru:
+    wiki: ru
+    title: 'Навваб, Мир Мохсун'
+  en:
+    wiki: en
+    title: Mir Mohsun Navvab
 ---
 **Mir Möhsün Nəvvab** (میر محسن نواب قره باغی) — Şuşa şəhərində yaşayıb-yaratmış şair, rəssam, astronom, ədəbiyyatşünas, nəqqaş, tarixçi, xəttat və musiqişünas azərbaycanlı alim. XIX əsrin ortalarında Azərbaycanın hər yerində kapitalist münasibətləri cücərən və yeni təfəkkür yaranan bir zamanda orta əsrlərə məxsus elmi biliklər sisteminə sahib ensiklopediyaçı alim Mir Möhsün Nəvvab bu şəhərdə yaşayıb-yaradır. Görkəmli musiqiçi, şair, rəssam, xəttat, münəccim, kimyaçı və riyaziyyatçı olan Mir Möhsünü əsərlərinin məzmunu, səviyyəsi və həcmi etibarilə həqiqətən də orta əsrlərin sonuncu ensiklopedist alimləri dəstəsindən hesab etmək mümkündür. Hərçənd ki, o, Şuşanın ictimai həyatında həmişə qabaqcıl, o dövr üçün mütərəqqi mövqelərdə durmuşdur.
 

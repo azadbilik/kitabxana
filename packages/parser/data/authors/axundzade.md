@@ -33,6 +33,16 @@ bioEn: >-
   materialist and atheist movement in the Republic of Azerbaijan and one of the
   forerunners of modern Iranian nationalism. He also advocated switching the
   Azerbaijani writing system from the Perso-Arabic script to the Latin alphabet.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Fətəli Axundov
+  ru:
+    wiki: ru
+    title: 'Ахундов, Мирза Фатали'
+  en:
+    wiki: en
+    title: Mirza Fatali Akhundov
 ---
 **Mirzə Fətəli Axundov** (tam adı: *Mirzə Fətəli Məhəmmədtağı oğlu Axundov*) və ya **Mirzə Fətəli Axundzadə** — Azərbaycan dramaturqu, maarifçi, şair, materialist filosof və ictimai xadim; Azərbaycan dramaturgiyası və ədəbiyyatında ədəbi tənqidin banisi. "Müsəlman Molyer" kimi tanınan Axundov həm də romantik və müasir İran millətçiliyinin sələflərindən biri idi.
 

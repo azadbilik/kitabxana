@@ -25,6 +25,16 @@ bioEn: >-
   commission. It is also established that before moving to Erivan he lived in
   the settlement of Ahar in the Garadagh district. The following lines from the
   poem *«Leyli və Məcnun»* also confirm that the poet lived earlier in Ahar:
+bioSources:
+  az:
+    wiki: az
+    title: Əndəlib Qaracadaği
+  ru:
+    wiki: ru
+    title: Андалиб Караджадаги
+  en:
+    wiki: az
+    title: Əndəlib Qaracadaği
 ---
 **Əndəlib Qaracadaği** — XVIII əsrin sonları — XIX əsrin əvvəllərində fəaliyyət göstərmiş Azərbaycan şairidir. Həyat və fəaliyyətinin əsas hissəsi İrəvan xanlığı ilə bağlı olan şair, sonuncu İrəvan xanı Hüseynqulu xanın yanında mirzəlik etmişdir. Ən məşhur əsəri *"Leyli və Məcnun"* poemasıdır.
 

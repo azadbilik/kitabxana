@@ -36,6 +36,13 @@ bioEn: >-
   information about the poet's work. The anthology «Kəlbəcər dünyası: yüz şairin
   bir kitabı» and a number of literary collections also give broad space to the
   literary legacy of Qurban of Aghdaban.
+bioSources:
+  az:
+    wiki: az
+    title: Ağdabanlı şair Qurban
+  en:
+    wiki: az
+    title: Ağdabanlı şair Qurban
 ---
 **Ağdabanlı şair Qurban** — Azərbaycanın el şairi.
 

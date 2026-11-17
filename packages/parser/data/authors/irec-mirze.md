@@ -23,6 +23,16 @@ bioEn: >-
   Mirza was known for his modern poetry, which often critiqued traditional
   customs. In addition to his original works, he translated literary pieces from
   French into Persian.
+bioSources:
+  az:
+    wiki: az
+    title: İrəc Mirzə
+  ru:
+    wiki: ru
+    title: Ирадж-Мирза
+  en:
+    wiki: en
+    title: Iraj Mirza
 ---
 **İrəc Mirzə** (farsca: ), **Cəlalülməmalik** ləqəbiylə də tanınırdı — məşhur İran şairi.
 

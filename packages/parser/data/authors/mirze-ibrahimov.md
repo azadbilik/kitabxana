@@ -21,6 +21,16 @@ bioEn: >-
   Mirza Ibrahimov (Azerbaijani: Mirzə İbrahimov, Arabic:: میرزا ابراهیموف; 28
   October 1911 – 17 December 1993) was a Soviet Azerbaijani writer and
   politician.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə İbrahimov
+  ru:
+    wiki: ru
+    title: 'Ибрагимов, Мирза Аждар оглы'
+  en:
+    wiki: en
+    title: Mirza Ibrahimov
 ---
 **Mirzə İbrahimov** — Azərbaycan yazıçısı, dramaturq, ictimai xadim, Azərbaycan SSR Elmlər Akademiyasının akademiki (1945). Sosialist Əməyi Qəhrəmanı (1981), Azərbaycan SSR Xalq yazıçısı (1961), "Stalin" mükafatı laureatı (1951), Mirzə Fətəli Axundov adına Azərbaycan SSR Dövlət mükafatı laureatı (1965), Beynəlxalq Cəvahirləl Nehru mükafatı laureatı (1979). Azərbaycan SSR Ali Soveti Rəyasət Heyətinin sədri (1954–1958), Azərbaycan SSR maarif komissarı və naziri (1942–1947), Azərbaycan Yazıçılar İttifaqı İdarə Heyətinin sədri (1948–1954), birinci katibi (1965–1976, 1981–1986), 1937–1991-ci illərdə SSRİ Ali Sovetinin deputatı (fasilələrlə), Azərbaycan SSR Ali Sovetinin (3–4-cü, 6–7-ci və 9-cu çağırış) deputatı, SSRİ xalq deputatı (1989).
 

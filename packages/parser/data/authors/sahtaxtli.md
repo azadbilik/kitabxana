@@ -20,6 +20,16 @@ bioEn: >-
   Mammad agha Shahtakhtinski (Azerbaijani: Məhəmməd ağa Məhəmmədtağı sultan oğlu
   Şahtaxtılı; 1846 – 12 December 1931) was an Azerbaijani journalist, scholar,
   and political writer.
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmməd ağa Şahtaxtinski
+  ru:
+    wiki: ru
+    title: 'Шахтахтинский, Мухаммед-ага Мухаммед-Таги Султан оглы'
+  en:
+    wiki: en
+    title: Mammad agha Shahtakhtinski
 ---
 **Məhəmməd ağa Şahtaxtinski** və ya **Məhəmməd ağa** **Şahtaxtlı** — Azərbaycan publisisti, şərqşünas, dilçi, pedaqoq və ictimai xadim. Beynəlxalq Fonetika Cəmiyyəti (1899), Beynəlxalq Asiya Cəmiyyəti (1900) və Rusiya İmperator Coğrafiya Cəmiyyəti Qafqaz şöbəsinin (1903) həqiqi üzvü, Bakı Dövlət Universitetinin professoru (1920), Rusiya İmperiyasının II Dövlət Dumasının deputatı, müsəlman fraksiyasının üzvü.
 

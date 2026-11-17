@@ -26,6 +26,16 @@ bioEn: >-
   Mammadguluzadeh is considered to be one of the first women's rights activists
   in Azerbaijan and Middle East and had a big role in founding the first women's
   magazine in Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Cəlil Məmmədquluzadə
+  ru:
+    wiki: ru
+    title: 'Мамедкулизаде, Джалил Гусейнкули оглы'
+  en:
+    wiki: en
+    title: Jalil Mammadguluzadeh
 ---
 Azərbaycan Respublikası Nazirlər Kabinetinin 7 may 2019-cu il tarixli 211 nömrəli Qərarı ilə Cəlil Məmmədquluzadə Azərbaycan Respublikasında əsərləri dövlət varidatı elan edilən müəlliflərin siyahısına daxil edilmişdir.
 

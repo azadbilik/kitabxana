@@ -33,6 +33,16 @@ bioEn: >-
   Ruznamə idarəsində (At the Newspaper Office), Stalingrad, Ərbab və əkinçi (The
   Landowner and the Farmer), Mussolini, and Hitler və Mussolini (Hitler and
   Mussolini).
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmməd Biriya
+  ru:
+    wiki: ru
+    title: Мохаммад Бирия
+  en:
+    wiki: en
+    title: Mohammad Biriya
 ---
 **Məhəmməd Biriya** və ya **Məhəmməd Bağırzadə** — azərbaycanlı şair, dramaturq, siyasətçi, Azərbaycan Demokrat Firqəsinin üzvü, Azərbaycan Milli Hökumətinin Mədəniyyət və Maarif naziri, Təbrizdə qurulmuş Azərbaycan Həmkarlar İttifaqının sədri, Azərbaycan Milli Məclisinin üzvü və Azərbaycan Şairlər və Yazıçılar Cəmiyyətinin idarə heyətinin üzvü, repressiya qurbanı.
 

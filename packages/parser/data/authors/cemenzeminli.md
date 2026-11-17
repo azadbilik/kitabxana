@@ -21,6 +21,16 @@ bioEn: >-
   spelled Chemenzeminli, born Yusif Mirbaba oghlu Vazirov (12 September 1887 – 3
   January 1943) was an Azerbaijani statesman and writer known for his novels,
   short stories, essays, and diaries.
+bioSources:
+  az:
+    wiki: az
+    title: Yusif Vəzir Çəmənzəminli
+  ru:
+    wiki: ru
+    title: 'Чеменземинли, Юсиф Везир'
+  en:
+    wiki: en
+    title: Yusif Vazir Chamanzaminli
 ---
 **Yusif Vəzir Çəmənzəminli** — Azərbaycan yazıçısı, ictimai-dövlət xadimi. Azərbaycan Xalq Cümhuriyyətinin Osmanlı imperiyasındakı ilk səfiri.
 

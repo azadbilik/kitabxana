@@ -17,6 +17,16 @@ bioEn: >-
   Ibrahimov [Məmməd İbrahimov]; 14 October 1933 in – 1 December 2004) was an
   Azerbaijani poet. His pen name, Araz, is the Azerbaijani spelling for the Aras
   river.
+bioSources:
+  az:
+    wiki: az
+    title: Məmməd Araz
+  ru:
+    wiki: ru
+    title: 'Араз, Мамед'
+  en:
+    wiki: en
+    title: Mammad Araz
 ---
 **Məmməd Araz** (doğum adı: **Məmməd İnfil oğlu İbrahimov**) — Azərbaycan şairi, tərcüməçi, publisist, 1957-ci ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan Respublikasının xalq şairi (1991), "İstiqlal" ordeni laureatı.
 

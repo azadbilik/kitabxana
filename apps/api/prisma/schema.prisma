@@ -132,6 +132,9 @@ model Author {
   bioAz String? @db.Text
   bioRu String? @db.Text
   bioEn String? @db.Text
+  /// Where each bio came from, per language: { az?: { wiki: "az", title }, ... }. A bio in a
+  /// language other than its wiki is a translation of that article. Shown as a credit line.
+  bioSources Json?
 
   portraitUrl    String?
   portraitSource String?

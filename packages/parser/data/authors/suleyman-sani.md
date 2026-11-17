@@ -21,6 +21,16 @@ bioEn: >-
   playwright, journalist, author, and teacher. He chose the name Sani (Arabic
   for "the second") to distinguish himself from his namesake, Mirza Fatali
   Akhundov.
+bioSources:
+  az:
+    wiki: az
+    title: Süleyman Sani Axundov
+  ru:
+    wiki: ru
+    title: 'Ахундов, Сулейман Сани'
+  en:
+    wiki: en
+    title: Suleyman Sani Akhundov
 ---
 **Süleyman Sani Axundov** – Azərbaycan dramaturqu, nasir, maarif xadimi, Əmək Qəhrəmanı (1932). Ədəbiyyatda həmsoyadı Mirzə Fətəli Axundovdan fərqlənmək üçün ərəbcə "ikinci" mənasını daşıyan "sani" sözünü özünə ləqəb götürmüşdür.
 

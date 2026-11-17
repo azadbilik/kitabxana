@@ -31,6 +31,16 @@ bioEn: >-
   (Azerbaijani: Cəfər xan Cavanşir) or by his pen-name Neva (Azerbaijani: Nəva,
   lit. 'Harmony'), was an Azerbaijani poet, warlord and major general of the
   Russian Army.
+bioSources:
+  az:
+    wiki: az
+    title: Cəfərqulu xan Cavanşir
+  ru:
+    wiki: ru
+    title: 'Джеваншир, Джафаркули-ага'
+  en:
+    wiki: en
+    title: Jafargulu agha Javanshir
 ---
 **Cəfərqulu xan Məhəmmədhəsən ağa oğlu Sarıcalı-Cavanşir** (1785-1867) — Dövrünün tanınmış Azərbaycan şair və ictimai xadimi , general-mayor.
 

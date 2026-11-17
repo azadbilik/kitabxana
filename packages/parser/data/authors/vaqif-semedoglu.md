@@ -17,6 +17,16 @@ bioEn: >-
   was an Azerbaijani poet, playwright, publicist, People's Poet of the Republic
   of Azerbaijan, and Deputy of the National Assembly of the Republic of
   Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Vaqif Səmədoğlu
+  ru:
+    wiki: ru
+    title: 'Самедоглу, Вагиф'
+  en:
+    wiki: en
+    title: Vagif Samadoghlu
 ---
 **Vaqif Səmədoğlu** (Vaqif Səməd oğlu Vəkilov) — şair, dramaturq, publisist, Azərbaycan Yazıçılar Birliyinin üzvü (1970), Azərbaycan SSR əməkdar incəsənət xadimi (1989), Azərbaycanın xalq şairi (1999), Azərbaycan Respublikası Milli Məclisinin II və III çağırış deputatı.
 

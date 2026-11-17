@@ -15,6 +15,13 @@ bioEn: >-
   Baba Punhan, born Atababa Seyidali oghlu Madatzadeh (Azerbaijani: Baba
   Pünhan), (5 November 1948, Baku – 17 April 2004, Baku, Azerbaijan), was an
   Azerbaijani poet.
+bioSources:
+  az:
+    wiki: az
+    title: Baba Pünhan
+  en:
+    wiki: en
+    title: Baba Punhan
 ---
 **Baba Pünhan** (tam adı: **Mədətzadə Atababa Seyidəli oğlu** ) — Azərbaycan şairi, qəzəlxan.
 

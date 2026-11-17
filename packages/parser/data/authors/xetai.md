@@ -42,6 +42,16 @@ bioEn: >-
   Chaldiran, which brought an end to Ismail's conquests. Ismail fell into
   depression and heavy drinking after this defeat and died in 1524. He was
   succeeded by his eldest son Tahmasp I.
+bioSources:
+  az:
+    wiki: az
+    title: I İsmayıl
+  ru:
+    wiki: ru
+    title: Исмаил I
+  en:
+    wiki: en
+    title: Ismail I
 ---
 **Şah İsmayıl Səfəvi**, **I İsmayıl** və ya **Şah İsmayıl** (tam adı: *Əbül-Müzəffər İsmail ibn Heydər əs-Səfəvi*) — Səfəviyyə təriqətinin şeyxi (1494–1524); Səfəvilər dövlətinin banisi və ilk şahı; Azərbaycan şairi, Azərbaycan türklərinin piri. O, 1501-ci ilin iyul ayında Təbriz şəhərində özünü şah elan edib.
 

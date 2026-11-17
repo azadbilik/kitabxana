@@ -31,6 +31,16 @@ bioEn: >-
   newspaper of the Hummet Party. Along with the 11th Red Army, he went to
   Dagestan and published the journal Red Dagestan magazine there. He returned to
   Baku after the Sovietization of Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Məmməd Səid Ordubadi
+  ru:
+    wiki: ru
+    title: 'Ордубади, Мамед Саид'
+  en:
+    wiki: en
+    title: Mammed Said Ordubadi
 ---
 **Məmməd Səid Hacı Fəqir oğlu Ordubadi** — azərbaycanlı nasir, şair, dramaturq, jurnalist, publisist və tərcüməçi. Azərbaycanın Əməkdar İncəsənət xadimi (1938). "Qılınc və qələm" (1946–1948), "Dumanlı Təbriz" (1933–1948), "Gizli Bakı" (1940), "Döyüşən şəhər" (1938) kimi tarixi romanlarının müəlifidir.
 

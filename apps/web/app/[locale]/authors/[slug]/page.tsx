@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
+import { BioCredit } from '@/components/authors/BioCredit';
 import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
@@ -159,10 +160,13 @@ export default async function AuthorPage({ params }: Props) {
 
           {/* Bio excerpt */}
           {bio && (
-            <div
-              className="author-bio"
-              dangerouslySetInnerHTML={{ __html: bio }}
-            />
+            <>
+              <div
+                className="author-bio"
+                dangerouslySetInnerHTML={{ __html: bio }}
+              />
+              <BioCredit sources={author.bioSources} locale={locale} />
+            </>
           )}
           {bioElsewhere && (
             <p className="author-bio author-bio--elsewhere" style={{ color: 'var(--muted)', fontStyle: 'italic' }}>

@@ -30,6 +30,16 @@ bioEn: >-
   reflecting the enlightenment views of the period. Information about Dide has
   reached our time mainly through the notes of Seyid Azim Shirvani and of the
   20th-century researcher Salman Mümtaz.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Nəsrullah bəy Didə
+  ru:
+    wiki: ru
+    title: 'Курбанбеков, Мирза Насруллах-бек'
+  en:
+    wiki: az
+    title: Mirzə Nəsrullah bəy Didə
 ---
 **Mirzə Nəsrullah bəy Didə** — şair, pedaqoq
 

@@ -28,6 +28,16 @@ bioEn: >-
   also wrote a number of poems celebrating the life of the people. He performed
   as an independent ashik from 1895 and was known among the people as a master
   artist.
+bioSources:
+  az:
+    wiki: az
+    title: Aşıq Əsəd
+  ru:
+    wiki: ru
+    title: Ашуг Асад
+  en:
+    wiki: az
+    title: Aşıq Əsəd
 ---
 **Aşıq Əsəd** (*Rzayev Əsəd Əhməd oğlu*) — ustad aşıq, Azərbaycan Yazıçılar Birliyinin üzvü.
 

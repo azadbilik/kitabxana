@@ -31,6 +31,16 @@ bioEn: >-
   Sheikh Jamaladdin Ahmed Zakir, the head of one of the Sufi sects. During his
   lifetime, Hasanoghlu was well-known, with his fame reaching as far as
   Anatolia. His lyrics influenced many generations of Turkic-language poets.
+bioSources:
+  az:
+    wiki: az
+    title: İzzəddin Həsənoğlu
+  ru:
+    wiki: ru
+    title: Гасаноглы Иззеддин
+  en:
+    wiki: en
+    title: Izzeddin Hasanoghlu
 ---
 **İzzəddin Həsənoğlu** — XIII–XIV əsrlərdə yaşayıb, yaratmış, azərbaycanca və farsca şeirlər yazmış sufi şair.
 

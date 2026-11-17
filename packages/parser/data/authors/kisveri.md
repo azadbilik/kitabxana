@@ -26,6 +26,16 @@ bioEn: >-
   Tabriz but faced financial difficulties. In his last years, he dedicated
   eulogies to Ismail I of the Safavid dynasty of Iran and died in Tabriz a few
   years after his return.
+bioSources:
+  az:
+    wiki: az
+    title: Kişvəri
+  ru:
+    wiki: ru
+    title: Кишвери
+  en:
+    wiki: en
+    title: Kishvari
 ---
 **Nemətullah Kişvəri** — Azərbaycan şairi. XV əsrin ortalarında Cənubi Azərbaycanın Dilməqan (indiki Səlmas) şəhərində anadan olmuş, 1490-cı ilə qədər Ağqoyunlu sultanı Yaqubun sarayında yaşamış, sultan öldürüldükdən sonra saraydan uzaqlaşdırılmışdır. Onun adı Nemətullah, təxəllüsü isə *Kişvəri*dir.
 

@@ -19,6 +19,13 @@ bioEn: >-
   the most talented poet-ashiks produced by the literary school of Ashik
   Ələsgər. He began writing poetry at a young age and quickly became famous
   among the people as a master ashik.
+bioSources:
+  az:
+    wiki: az
+    title: Növrəs İman
+  en:
+    wiki: az
+    title: Növrəs İman
 ---
 **Növrəs İman** — Azərbaycanlı ustad şair, aşıq.
 

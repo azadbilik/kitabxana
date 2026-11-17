@@ -17,6 +17,16 @@ bioEn: >-
   1998) was an Azerbaijani writer. He was designated People's Writer of the
   Republic of Azerbaijan, and was a member of the Supreme Soviet of the Republic
   of Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Yusif Səmədoğlu
+  ru:
+    wiki: ru
+    title: 'Самедоглу, Юсиф'
+  en:
+    wiki: en
+    title: Yusif Samadoghlu
 ---
 **Vəkilov Yusif Səməd oğlu (Yusif Səmədoğlu)** — Azərbaycanın xalq yazıçısı, Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan Respublikası Ali Sovetinin deputatı (1990,1995).
 

@@ -22,6 +22,16 @@ bioEn: >-
   playwright and translator. He was one of the early Azerbaijani graduates of
   the Transcaucasian Teachers Seminary and contributed to the development of
   Azerbaijani textbooks, children's literature, drama and ethnographic studies.
+bioSources:
+  az:
+    wiki: az
+    title: Rəşid bəy Əfəndiyev
+  ru:
+    wiki: ru
+    title: 'Эфендиев, Рашид-бек Исмаил оглы'
+  en:
+    wiki: en
+    title: Rashid bey Afandiyev
 ---
 **Rəşid bəy Əfəndiyev** və ya **Rəşid bəy Əfəndizadə** — Azərbaycan maarif xadimi, yazıçı, etnoqraf, pedaqoq və metodist.
 

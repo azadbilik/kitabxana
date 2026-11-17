@@ -26,6 +26,13 @@ bioEn: >-
   own poems at gatherings, and in this way conveyed his complaints about his
   bitter fate to the people. His "Dilgami", which has very difficult strokes,
   rich ornaments and weighty turns, is one of the most valuable saz melodies.
+bioSources:
+  az:
+    wiki: az
+    title: Yəhya bəy Dilqəm
+  en:
+    wiki: az
+    title: Yəhya bəy Dilqəm
 ---
 **Yəhya Bəy Dilqəm** — azərbaycanlı aşıq.
 

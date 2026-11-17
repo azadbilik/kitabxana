@@ -19,6 +19,16 @@ bioEn: >-
   The ashik's grave is in the village of Gulabird in the Zangezur region, in
   present-day Lachin district, near the Hakari River. An imagined portrait of
   him is also carved on the headstone.
+bioSources:
+  az:
+    wiki: az
+    title: Sarı Aşıq
+  ru:
+    wiki: ru
+    title: Сары Ашуг
+  en:
+    wiki: az
+    title: Sarı Aşıq
 ---
 **Sarı Aşıq** — bayatı ustadı.
 

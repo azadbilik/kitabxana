@@ -30,6 +30,16 @@ bioEn: >-
   literature. He is considered to be the foremost Azerbaijani poet and satirist
   of the first half of the 19th century, and the greatest master of 19th-century
   comic poetry in Azerbaijani.
+bioSources:
+  az:
+    wiki: az
+    title: Qasım bəy Zakir
+  ru:
+    wiki: ru
+    title: Касум-бек Закир
+  en:
+    wiki: en
+    title: Gasim bey Zakir
 ---
 İvano bəy deyə Zakirin müraciət etdiyi şəxs İvan Silvitiskidir (1820–1874). O, 1850–1854-cü illərdə Tiflisdə nəşr edilən "Kavkaz" qəzetinin baş redoktoru olmuş, M. F. Axundovun pyeslərini tamaşaya qoymuşdur. Şeirdə "İliqo" deyə müraciət olunan şəxs knyaz Orbelianidir. Məhz onun sayəsində şairin övladları sürgündən azad olunmuş və şair "Knyaz" şeirində bunu vəsf etmişdir.
 Şair bir neçə ay Bakıda sürgün həyatı keçirəndən sonra bu şəxslərin səyi nəticəsində Şuşaya qayıtdı. Lakin o, ömrünün axırınadək polis nəzarəti altında yaşadı. Oğlu və qardaşı oğlu isə 3 il Rusiyada sürgündə qaldılar.

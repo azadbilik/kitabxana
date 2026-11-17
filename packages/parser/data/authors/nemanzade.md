@@ -21,6 +21,16 @@ bioEn: >-
   Ömer Faik Numanzade) was an Azerbaijani publicist, journalist, teacher,
   founder and owner of Gheyrat Press and co-founder of Molla Nasreddin magazine,
   public figure.
+bioSources:
+  az:
+    wiki: az
+    title: Ömər Faiq Nemanzadə
+  ru:
+    wiki: ru
+    title: 'Неманзаде, Омар Фаик'
+  en:
+    wiki: en
+    title: Omar Faig Nemanzadeh
 ---
 **Ömər Faiq Lömən** **oğlu Nemanzadə** — Azərbaycan ədibi, ictimai-siyasi xadim, publisist, pedaqoq, "Qeyrət" mətbəəsinin sahibi və "Molla Nəsrəddin" jurnalının həmtəsisçisi, Gürcüstan SSR Müvəqqəti İnqilab Komitəsinin üzvü və Gürcüstan SSR Müsəlman İşləri Üzrə Şuranın 1-ci sədri. Axısqa türkü.
 

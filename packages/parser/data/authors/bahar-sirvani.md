@@ -23,6 +23,16 @@ bioEn: >-
   with the education of Iraj Mirza. Bahar Shirvani died in 1883 or 1886. Some
   scholars considered him to have died at Mirza Mohammad Kazem Saburi's house in
   Mashhad, while others considered him to have died in Tehran or Tabriz.
+bioSources:
+  az:
+    wiki: az
+    title: Bahar Şirvani
+  ru:
+    wiki: ru
+    title: Мирза Насрулла Бахар Ширвани
+  en:
+    wiki: en
+    title: Bahar Shirvani
 ---
 **Mirzə Nəsrullah Bahar** — Şamaxılı şair.XIX əsr Azərbaycan ədəbiyyatının tanınmış nümayəndələrindən biri olub. O, Azərbaycan, fars və ərəb dillərində təhsil almış, Şərq ölkələrinə səyahət etmiş, bir müddət Hindistanda yaşamış və Tehranda təbabətlə məşğul olmuşdur. Lirik şeirləri ilə tanınaraq Nəsrəddin şahın sarayında "məlik üş-şüəra" (şairlərin başçısı) adına layiq görülmüşdür. Onun Azərbaycan dilində yazdığı "Qəzəliyyat" və "Nərgiz və gül" məsnəvisi, fars dilində isə "Divani-qəsaid və qəzəliyyat", "Töhfətül-İraqeyn" əsərləri bədii irsinin əsas nümunələrindəndir.
 

@@ -22,6 +22,13 @@ bioEn: >-
   Mu'in al-Din Ali Husayni Sarabi Tabrizi, commonly known by his laqab
   (honorific title) of Qasim-i Anvar (Persian: قاسم انوار; 1356 – 1433) was a
   Sufi mystic, poet, and a leading da'i (preacher) of the Safavid order.
+bioSources:
+  az:
+    wiki: az
+    title: Şah Qasım Ənvar
+  en:
+    wiki: en
+    title: Qasim-i Anvar
 ---
 **Şah Qasım Ənvar** (1356-1434) - görkəmli şair və sufi filosof.
 

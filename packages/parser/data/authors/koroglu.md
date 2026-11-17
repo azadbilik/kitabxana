@@ -17,5 +17,12 @@ bioEn: >-
   Turkey, Turkmenistan and Azerbaijan (approximately the second half of the 16th
   century). The figure of Koroghlu exists in the folklore of many Turkic
   peoples.
+bioSources:
+  az:
+    wiki: az
+    title: Koroğlu
+  en:
+    wiki: az
+    title: Koroğlu
 ---
 **Koroğlu** — Altay, Türkiyə, Türkmənistan, Azərbaycan türklərinin əfsanələrində iştirak edən xalq qəhrəmanı (təqribən XVI əsrin II yarısı). Türk xalqlarının bir çoxunun folklorunda Koroğlu obrazı mövcuddur.

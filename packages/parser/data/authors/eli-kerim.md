@@ -16,6 +16,16 @@ bioEn: >-
   Ali Kerim (Azerbaijani: Əli Kərim) (18 March 1931, in Goychay – 30 June 1969,
   in Baku) was a 20th-century poet and translator from Azerbaijan and a member
   of the Azerbaijan Writers Union.
+bioSources:
+  az:
+    wiki: az
+    title: Əli Kərim
+  ru:
+    wiki: ru
+    title: Али Керим
+  en:
+    wiki: en
+    title: Ali Kerim
 ---
 **Əli Kərim** (tam adı: *Kərimov Əli Paşa oğlu*) — azərbaycanlı şair, tərcüməçi, 1954-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü.
 

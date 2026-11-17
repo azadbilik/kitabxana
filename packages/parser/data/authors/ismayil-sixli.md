@@ -16,6 +16,16 @@ bioEn: >-
   Ismayil Shykhly (Azerbaijani: İsmayıl Şıxlı; March 22, 1919 – July 26, 1995),
   also known by his birth name Ismayil Shikhlinsky Gahraman oglu (Azerbaijani:
   İsmayıl Şıxlınski Qəhrəman oğlu), was an Azerbaijani writer.
+bioSources:
+  az:
+    wiki: az
+    title: İsmayıl Şıxlı
+  ru:
+    wiki: ru
+    title: 'Шихлы, Исмаил'
+  en:
+    wiki: en
+    title: Ismayil Shykhly
 ---
 **İsmayıl Qəhrəman oğlu Şıxlı** — Azərbaycanlı nasir, ədəbiyyatşünas, publisist, yazıçı, pedaqoq, ssenarist, Azərbaycan Yazıçılar Birliyinin üzvü (1949), Azərbaycan SSR xalq yazıçısı (1984), Azərbaycan SSR komsomolu mükafatı laureatı (1976), filologiya elmləri namizədi (1954), Azərbaycan Respublikası Ali Sovetinin deputatı (1986, 1990), Azərbaycan Yazıçılar İttifaqının sədri (1986–1987), Azərbaycan Yazıçılar Birliyinin Ağsaqqallar Şurasının sədri (1991), M.F.Axundov adına ədəbi mükafat laureatı (1991).
 

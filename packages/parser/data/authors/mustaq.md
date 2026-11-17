@@ -35,6 +35,16 @@ bioEn: >-
   Muhammad Husayn Khan Mushtaq (Persian: محمد حسین خان مشتاق), was the third
   khan of Shaki. He was described as a courageous but ruthless man by Abbasgulu
   agha Bakikhanov.
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmmədhüseyn xan Müştaq
+  ru:
+    wiki: ru
+    title: Мухаммед Хусейн-хан Мюштаг
+  en:
+    wiki: en
+    title: Muhammad Husayn Khan Mushtaq
 ---
 **Məhəmməd Hüseyn xan Müştaq** — şair, Şəki xanı (1759–1780).
 

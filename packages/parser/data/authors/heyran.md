@@ -40,6 +40,16 @@ bioEn: >-
   literacy was low and women's public roles were limited in a male dominated
   society. She was a proponent of the Bazgasht-e adabi literary movement,
   advocating a return to classical Persian styles.
+bioSources:
+  az:
+    wiki: az
+    title: Heyran xanım
+  ru:
+    wiki: ru
+    title: Хейран-Ханум
+  en:
+    wiki: en
+    title: Heyran Donboli
 ---
 **Heyran xanım** (1790, Naxçıvan - 1848, Təbriz) — Azərbaycan şairəsi.
 

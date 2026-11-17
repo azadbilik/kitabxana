@@ -8,7 +8,7 @@ import type { AuthorFrontmatter } from '../types';
 const AUTHORS_DIR = path.resolve(__dirname, '../../data/authors');
 
 interface AuthorMd {
-  frontmatter: AuthorFrontmatter & { bioRu?: string; bioEn?: string };
+  frontmatter: AuthorFrontmatter & { bioRu?: string; bioEn?: string; bioSources?: Record<string, { wiki: string; title: string }> };
   bioAz: string;
   filePath: string;
 }
@@ -79,6 +79,7 @@ export async function importAuthors(opts: {
         bioAz: bioAz || null,
         bioRu: fm.bioRu ?? null,
         bioEn: fm.bioEn ?? null,
+        ...(fm.bioSources && { bioSources: fm.bioSources }),
         ...portrait,
         wikidataId: fm.wikidataId ?? null,
         status: newStatus(opts, fm.status),
@@ -101,6 +102,7 @@ export async function importAuthors(opts: {
         bioRu: fm.bioRu ?? null,
         // Only when the file has one, so an English bio set elsewhere isn't wiped
         ...(fm.bioEn && { bioEn: fm.bioEn }),
+        ...(fm.bioSources && { bioSources: fm.bioSources }),
         ...portrait,
         // Only when the file has one, so an ID set elsewhere isn't wiped
         ...(fm.wikidataId && { wikidataId: fm.wikidataId }),

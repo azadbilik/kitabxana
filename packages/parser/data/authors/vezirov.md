@@ -29,6 +29,16 @@ bioEn: >-
   the foundation of the tragedy genre in Azerbaijani literature and was closely
   involved in the expansion of the enlightenment movement directed against the
   feudal-patriarchal system in Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Nəcəf bəy Vəzirov
+  ru:
+    wiki: ru
+    title: 'Везиров, Наджаф-бек Фатали-бек оглы'
+  en:
+    wiki: en
+    title: Najaf bey Vazirov
 ---
 **Nəcəf bəy Fətəli bəy oğlu Vəzirov** — Azərbaycan yazıçısı və dramaturqu. Nəcəf bəyin Bakıda rus məktəbində aldığı bu təhsil onun gələcəkdə yaradıcılığına böyük təsir göstərmişdir.
 

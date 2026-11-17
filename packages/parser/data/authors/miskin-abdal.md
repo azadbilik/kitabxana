@@ -20,6 +20,16 @@ bioEn: >-
 
 
   In Gədəbəy, the "Miskin Abdal" literary assembly has been established.
+bioSources:
+  az:
+    wiki: az
+    title: Miskin Abdal
+  ru:
+    wiki: ru
+    title: Мискин Абдал
+  en:
+    wiki: en
+    title: Miskin Abdal
 ---
 **Miskin Abdal** — Səfəvilərin görkəmli dövlət xadimi, diplomat, Şah İsmayıl Xətainin mürşidi, "Ricalül-Qeyb" ("Qeyb Ərəni"), böyük Övliya, Sufi şeyxi, sərkərdə, sufi-şair, ozandan aşığa (Haqq aşiqliyinə), qopuzdan saza keçidin banisi, çoxsaylı aşıq havalarının müəllifi, Ocaq-Pir sahibi.
 

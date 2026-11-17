@@ -17,6 +17,16 @@ bioEn: >-
   28 September 1978, Baku), known by his literary pen-name Mir Jalal, was an
   Iranian-Azerbaijanian writer and literary critic. He was the grandfather of
   Azerbaijan's current First Lady Mehriban Aliyeva.
+bioSources:
+  az:
+    wiki: az
+    title: Mir Cəlal Paşayev
+  ru:
+    wiki: ru
+    title: 'Пашаев, Мир Джалал'
+  en:
+    wiki: en
+    title: Mir Jalal Pashayev
 ---
 **Mir Cəlal** — yazıçı, ədəbiyyatşünas, filologiya elmləri doktoru (1947), professor (1948), 1934-cü ildən Azərbaycan Yazıçılar Birliyinin üzvü, Azərbaycan SSR əməkdar elm xadimi (1969), laureatı (1968).
 

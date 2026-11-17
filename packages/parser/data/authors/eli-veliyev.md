@@ -16,6 +16,16 @@ bioEn: >-
   Ali Valiyev (27 February 1901 – 2 February 1983) was a prose-writer, the
   member of Union of Azerbaijani Writers, Azerbaijan People's Writer (June 9,
   1974), the State reward prize-winner named after M. F. Akhundov.
+bioSources:
+  az:
+    wiki: az
+    title: Əli Vəliyev
+  ru:
+    wiki: ru
+    title: 'Велиев, Али Кара оглы'
+  en:
+    wiki: en
+    title: Ali Valiyev
 ---
 **Əli Qara oğlu Vəliyev** — nasir, Azərbaycan Yazıçılar Birliyinin üzvü (1937), Azərbaycan SSR xalq yazıçısı (1974), M.F.Axundov adına mükafat laureatı (1958).
 

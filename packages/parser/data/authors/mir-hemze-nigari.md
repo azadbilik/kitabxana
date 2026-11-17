@@ -22,6 +22,13 @@ bioEn: >-
   Khalidiyya order. He is regarded as one of the most significant mystical poets
   writing in the Azerbaijani and Persian traditions of his era, and remains
   venerated in both Azerbaijan and eastern Anatolia to this day.
+bioSources:
+  az:
+    wiki: az
+    title: Mir Həmzə Nigari
+  en:
+    wiki: en
+    title: Hamza Nigari
 ---
 **Mir Həmzə Nigari** — Sufi şairi, təsəvvüf alimi.
 

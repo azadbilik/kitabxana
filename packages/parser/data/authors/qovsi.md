@@ -16,6 +16,16 @@ bioRu: "**Ковси́ Тебризи́**\_— азербайджанский п
 bioEn: >-
   Qovsi Tabrizi (Azerbaijani: قوسی تبریزلی; Persian: قوسی تبریزی; born Alijan
   Ismailoghlu Qovsi) was a 17th-century poet.
+bioSources:
+  az:
+    wiki: az
+    title: Qövsi Təbrizi
+  ru:
+    wiki: ru
+    title: Ковси Табризи
+  en:
+    wiki: en
+    title: Qovsi Tabrizi
 ---
 **Əlican İsmayıl oğlu Qövsi Təbrizi** — XVII əsrin əvvəllərində yaşamış Azərbaycan şairi. O, Təbrizdə anadan olmuş, ilk təhsilini atasından almış, İsfahanda oxumuş, sonradan Təbrizə qayıdaraq burada din xadimi kimi həyatını davam etdirmişdir.
 

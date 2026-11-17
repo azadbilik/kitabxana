@@ -17,6 +17,10 @@ bioEn: >-
   Temir-Khan-Shura, named Buinaksk since 1922) (Persian: ميرزا عبدالرحیم طالبی
   نجار تبریزی), also known as Talibov (طالبوف), was an Iranian Azerbaijani
   intellectual and social reformer.
+bioSources:
+  en:
+    wiki: en
+    title: Mirza Abdul'Rahim Talibov Tabrizi
 ---
 
 

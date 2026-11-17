@@ -19,6 +19,16 @@ bioEn: >-
 
 
   Mohammad bey died in 1861.
+bioSources:
+  az:
+    wiki: az
+    title: Məhəmməd bəy Aşiq
+  ru:
+    wiki: ru
+    title: Мухаммед-бек Ашуг
+  en:
+    wiki: az
+    title: Məhəmməd bəy Aşiq
 ---
 **Məhəmməd bəy Behbud bəy oğlu Sarıcalı-Cavanşir** (*Məhəmməd bəy Aşiq*) — şair, Əbdüssəməd bəy Aşiqin atası.
 

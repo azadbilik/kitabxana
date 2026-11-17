@@ -29,6 +29,16 @@ bioEn: >-
   Istanbul who ran a stationery business. He later studied at a school of
   theology. In 1889, he moved to Turkey, where he published his first poems.
   Mojuz returned to his homeland in 1905.
+bioSources:
+  az:
+    wiki: az
+    title: Mirzə Əli Möcüz
+  ru:
+    wiki: ru
+    title: 'Моджуз, Мирза Али'
+  en:
+    wiki: en
+    title: Ali Mojuz
 ---
 **Mirzə Əli Hacı Ağa oğlu Möcüz** (29 mart 1873, Şəbüstər, Qacar İranı – 25 sentyabr 1934, Şahrud, İran) — Azərbaycan şairi.
 ## Həyatı

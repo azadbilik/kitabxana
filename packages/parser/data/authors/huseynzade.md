@@ -23,6 +23,16 @@ bioEn: >-
   development of an Azerbaijani nationalist movement at the start of the 20th
   century. His concept of Turkify, Islamize, Europeanize was reflected in the
   modern Flag of Azerbaijan.
+bioSources:
+  az:
+    wiki: az
+    title: Əli bəy Hüseynzadə
+  ru:
+    wiki: ru
+    title: 'Гусейнзаде, Али-бек Гусейн оглы'
+  en:
+    wiki: en
+    title: Ali bey Huseynzade
 ---
 **Əli bəy Hüseynzadə (Əli Hüseyn Turan)** — Azərbaycan mütəfəkkir yazıçısı, publisist və ədəbiyyat tənqidçisi, XX əsr Azərbaycan-türk ictimai fikrinin ən görkəmli nümayəndələrindən biri. Uzun müddət alim, həkim, rəssam, şair, tənqidçi, tərcüməçi, müəllim, jurnalist kimi fəaliyyət göstərmişdir.
 

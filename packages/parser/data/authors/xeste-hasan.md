@@ -21,6 +21,13 @@ bioEn: >-
   Khasta Hasan was a folk poet of the Turkmens.. Before the Russian conquest,
   Turkmens and local Turks lived together in Akhalkalaki, while Akhaltsikhe was
   settled mainly by local Turks.
+bioSources:
+  az:
+    wiki: az
+    title: Axısqalı Xəstə Hasan
+  en:
+    wiki: az
+    title: Axısqalı Xəstə Hasan
 ---
 **Axısqalı Xəstə Hasan** — Çıldır-Axıska aşıq məktəbinin təməlini qoyan məşhur aşıq və şairdir. Ömrünün çoxunu Lebis kəndində keçirən sənətkar, Anadolu və Qafqazda tanınan şeirlər və dastanlar yaratmışdır.(Axalkalaki)
 

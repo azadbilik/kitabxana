@@ -50,6 +50,16 @@ bioEn: >-
   acquainted with the works of the Eastern classics, especially Saadi, Hafiz,
   Khayyam, Nizami and Fuzuli, and developed in the art of poetry under their
   influence.
+bioSources:
+  az:
+    wiki: az
+    title: Hacı ağa Fəqir Ordubadi
+  ru:
+    wiki: ru
+    title: Фагир Ордубади
+  en:
+    wiki: az
+    title: Hacı ağa Fəqir Ordubadi
 ---
 **Hacı ağa Fəqir Ordubadi** — görkəmli Azərbaycan nasiri Məmməd Səid Ordubadinin atası, dövrünün tanınmış ziyalısı və şairi.
 

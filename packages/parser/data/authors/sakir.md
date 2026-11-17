@@ -52,6 +52,13 @@ bioEn: >-
   the spread of satirical poetry in 19th-century Azerbaijan. He worked hard to
   turn poetry into a weapon of social struggle. In his work, his *qoshmas* with
   the refrains "Ay mədəd" and "Yetmədi" and his *gerayli* "Gəlməz" stand out.
+bioSources:
+  az:
+    wiki: az
+    title: Baba bəy Şakir
+  en:
+    wiki: az
+    title: Baba bəy Şakir
 ---
 **Baba bəy Şakir** (tam adı: Baba bəy Məhəmmədəli bəy oğlu Sarıcalı-Cavanşir) — şair.
 

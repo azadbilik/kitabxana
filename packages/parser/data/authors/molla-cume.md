@@ -27,6 +27,16 @@ bioEn: >-
   nickname "Molla" was given to him because he was literate. Molla Juma's main
   occupation was farming. He reaped harvests in the fields of the wealthy of
   Gakh, Zagatala and Balakan, and supported his family with the wages he earned.
+bioSources:
+  az:
+    wiki: az
+    title: Molla Cümə
+  ru:
+    wiki: ru
+    title: Молла Джума
+  en:
+    wiki: az
+    title: Molla Cümə
 ---
 **Molla Cümə** (tam adı: *Cümə Salah oğlu Orucov*) — Azərbaycan aşığı və şairi.
 

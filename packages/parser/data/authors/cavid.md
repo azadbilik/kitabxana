@@ -24,6 +24,16 @@ bioEn: >-
   early 20th century. He was one of the founders of progressive romanticism
   movement in the contemporary Azerbaijani literature. He was exiled during the
   Stalin purges in the USSR.
+bioSources:
+  az:
+    wiki: az
+    title: Hüseyn Cavid
+  ru:
+    wiki: ru
+    title: 'Джавид, Гусейн'
+  en:
+    wiki: en
+    title: Huseyn Javid
 ---
 **Hüseyn Cavid** (doğum adı: *Hüseyn Abdulla oğlu Rasizadə*) — Azərbaycan şairi, yazıçı və dramaturq. Azərbaycan ədəbiyyatında romantizm ədəbi cərəyanının əsas nümayəndəsi olan Hüseyn Cavid milli romantik şeirin və mənzum faciənin banisidir.
 
