@@ -61,6 +61,16 @@ export interface BookConfig {
    */
   movedInterlude?: { english: string; original: string };
   endMarker?: string;
+  /**
+   * Where the poem itself begins, as a pattern: headings are looked for only from the first
+   * paragraph matching it, so a translator's essay quoting a heading (Darab) can't take its place
+   */
+  bodyStart?: string;
+  /**
+   * A line that opens a new paragraph even with no blank line before it, as a pattern: a numbered
+   * couplet the OCR set straight under a heading or the couplet before (Darab's "(12) 118. When …")
+   */
+  paragraphStart?: string;
   /** Whole-word OCR misreadings that are real words ("Bahrain" for Bahram) */
   replacements?: Record<string, string>;
   /** The book's lowercase terms the word list lacks ("huri", "vazir"): OCR fixes may turn into them */
@@ -159,7 +169,9 @@ function paragraphs(text: string, cfg: BookConfig): string[] {
     if (buf.length) paras.push(buf.join('\n'));
     buf = [];
   };
+  const opens = cfg.paragraphStart ? new RegExp(cfg.paragraphStart) : null;
   for (const line of lines) {
+    if (opens?.test(line.trim())) flush();
     if (line.trim()) buf.push(line.trim());
     else flush();
   }
@@ -174,6 +186,7 @@ function paragraphs(text: string, cfg: BookConfig): string[] {
     const prev = merged[merged.length - 1];
     const continues =
       prev !== undefined &&
+      !opens?.test(p) &&
       (/^([a-z,]|\(\s*[\d.,]+\s*\))/.test(p) ||
         // after a verse line, and not a heading (OCR ends some with a comma or full stop)
         (p.length < 40 && prev.length > 40 && !/[.!?;:)]\s*$/.test(prev) && /[.!?;,]\s*$/.test(p) && !isHeading(p)));
@@ -187,7 +200,7 @@ function paragraphs(text: string, cfg: BookConfig): string[] {
 function locateHeadings(paras: string[], cfg: BookConfig): { index: number[]; missing: string[] } {
   const index: number[] = [];
   const missing: string[] = [];
-  let from = 0;
+  let from = cfg.bodyStart ? Math.max(0, paras.findIndex((p) => new RegExp(cfg.bodyStart!).test(p))) : 0;
   for (const s of cfg.sections) {
     const target = s.match ?? s.heading;
     const find = (threshold: number) => {
@@ -296,6 +309,7 @@ export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
       .map((line) => (cfg.layout === 'cantos' ? line.replace(/^[a-z][a-z0-9?*°]{0,2}\s+(?=["'«(]?\s*[A-Z])/, '') : line))
       .join('\n');
 
+  const opens = cfg.paragraphStart ? new RegExp(cfg.paragraphStart) : null;
   const drop = cfg.dropPattern ? new RegExp(cfg.dropPattern, 'i') : null;
   const wrappedProse = (p: string) => {
     const [first, second, ...rest] = p.split('\n');
@@ -303,11 +317,24 @@ export async function planBookTranslation(cfg: BookConfig): Promise<BookPlan> {
     return /^[a-z]{2,}\b/.test(second) && first.length <= 120 && !/[;:.!?"]\s*$/.test(first);
   };
   const cleaned = sections.map((sec) => {
-    const kept = sec.map(clean).filter((p) => p.length > 0 && !drop?.test(p) && !(cfg.dropWrappedProse && wrappedProse(p)));
-    if (cfg.layout !== 'cantos') return kept;
-    // Once wrapped half-lines are back in place, a couplet opening in lowercase is the tail
-    // of a note: "life, a thousand years). / The pumpkin represents…"
-    return repair(kept).filter((p) => !(cfg.dropWrappedProse && /^[a-z]{3,}\b/.test(p)));
+    const keep = (p: string) => p.length > 0 && !drop?.test(p) && !(cfg.dropWrappedProse && wrappedProse(p));
+    if (cfg.layout === 'cantos') {
+      // Once wrapped half-lines are back in place, a couplet opening in lowercase is the tail
+      // of a note: "life, a thousand years). / The pumpkin represents…"
+      return repair(sec.map(clean).filter(keep)).filter((p) => !(cfg.dropWrappedProse && /^[a-z]{3,}\b/.test(p)));
+    }
+    if (!opens) return sec.map(clean).filter(keep);
+    // Every couplet is numbered: a paragraph without a number (tested before cleaning, which drops
+    // some numbers as margin marks) is the rest of the one before, cut off by a page break or set
+    // on a line of its own
+    return sec
+      .map((raw) => ({ text: clean(raw), numbered: opens.test(raw) }))
+      .filter(({ text }) => keep(text))
+      .reduce<string[]>((out, { text, numbered }) => {
+        if (out.length && !numbered) out[out.length - 1] += ' ' + text;
+        else out.push(text);
+        return out;
+      }, []);
   });
 
   // Move a section-closing interlude to the start of the next section, where the original has it

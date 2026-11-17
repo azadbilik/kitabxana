@@ -1,0 +1,1750 @@
+{
+  "id": "darab-makhzanol-asrar",
+  "archiveId": "NizamiMakhzanolAsrarTreasuryOfMysteries",
+  "title": "Makhzanol Asrār: The Treasury of Mysteries of Nezāmi of Ganjeh",
+  "translator": "Gholām Hosein Dārāb",
+  "year": 1945,
+  "proofread": true,
+  "authorSlug": "nizami",
+  "collectionSlug": "nizami-mexzenul-esrar",
+  "runningHeads": [
+    "THE TREASURY OF MYSTERIES",
+    "MAKHZANOL ASRAR"
+  ],
+  "dropPattern": "^(the )?[a-z]{4,12} (p[a-z]{5}|d[a-z]{8}|s[a-z]{8})$",
+  "endMarker": "^INDEX TO",
+  "bodyStart": "^AS I HAVE A TREASURE LIKE",
+  "paragraphStart": "^[\\W_]{0,5}([a-zI]\\s+)?([({<]?\\s*[\\dIlHO]{1,4}\\s*\\)\\s*)?\\d{1,4}\\s*[-.,:?/]{0,2}\\s+\\S",
+  "replacements": {
+    "Bahrain": "Bahram"
+  },
+  "corrections": [
+    {
+      "pattern": "(\\w)¬\\s*(\\w)",
+      "flags": "g",
+      "to": "$1$2"
+    },
+    {
+      "pattern": "\\s+—\\s*,?\\s*\\^?\\s*le tbsc sim\\s*>?\\s*which",
+      "to": "\n\nThe disc of the sun, which"
+    },
+    {
+      "pattern": "\\s+—\\s*If thy body is not cleansed",
+      "to": "\n\nIf thy body is not cleansed"
+    },
+    {
+      "pattern": "\\s+X1 17\\s*,\\s*93 1\\s*;\\s*If we sa y all",
+      "to": "\n\nIf we say all"
+    },
+    {
+      "pattern": "(^|\\n\\n)[\\W_]{0,5}([a-zI]\\s+)?([({<]?\\s*[\\dIlHO]{1,4}\\s*\\)\\s*)?\\d{1,4}\\s*[-.,:?/]{0,2}\\s+",
+      "flags": "g",
+      "to": "$1"
+    },
+    {
+      "pattern": "(^|\\n\\n)1590\\.\\s*",
+      "to": "$1"
+    },
+    {
+      "pattern": "(^|\\n\\n)4 (?=I who)",
+      "to": "$1"
+    },
+    {
+      "pattern": "(^|\\n\\n)1 went",
+      "to": "$1I went"
+    },
+    {
+      "pattern": "w [Tr] (?=[a-z])",
+      "flags": "g",
+      "to": "w"
+    },
+    {
+      "pattern": "w 7 (?=[a-z])",
+      "flags": "g",
+      "to": "w"
+    },
+    {
+      "pattern": "(?<=[a-z]) 7 (?=[A-Za-z])",
+      "flags": "g",
+      "to": " "
+    },
+    {
+      "pattern": "“ 1 (?=[A-Z])",
+      "flags": "g",
+      "to": "“‘"
+    },
+    {
+      "pattern": "(^|\\s)(' 1|11|\\*‘|r<) (?=[A-Z])",
+      "flags": "g",
+      "to": "$1“"
+    },
+    {
+      "pattern": "\\s*the treasury of mysteries \\d+",
+      "flags": "gi",
+      "to": ""
+    },
+    {
+      "pattern": "\\s*SEVENTH DISCOURSE\\.?",
+      "to": ""
+    },
+    {
+      "from": "lie recited",
+      "to": "He recited"
+    },
+    {
+      "from": "dow»n",
+      "to": "down"
+    },
+    {
+      "pattern": "\\s*•'$",
+      "flags": "gm",
+      "to": ""
+    },
+    {
+      "from": "‘■\"pavilion",
+      "to": "pavilion"
+    },
+    {
+      "pattern": "(^|\\n\\n)• ",
+      "flags": "g",
+      "to": "$1"
+    },
+    {
+      "from": "—■ ",
+      "to": ""
+    },
+    {
+      "from": "pro- _perty",
+      "to": "property"
+    },
+    {
+      "from": "Throw- away",
+      "to": "Throw away"
+    },
+    {
+      "from": "Magi an",
+      "to": "Magian"
+    },
+    {
+      "from": "will —not",
+      "to": "will not"
+    },
+    {
+      "from": "grievously v What",
+      "to": "grievously. What"
+    },
+    {
+      "from": "Poti-pliar’s",
+      "to": "Potiphar’s"
+    },
+    {
+      "from": "ti’aveiled",
+      "to": "travelled"
+    },
+    {
+      "from": "inshant",
+      "to": "instant"
+    },
+    {
+      "from": "Abrah am ’s",
+      "to": "Abraham’s"
+    },
+    {
+      "from": "destina- - tiou",
+      "to": "destination"
+    },
+    {
+      "from": "howthey",
+      "to": "how they"
+    },
+    {
+      "from": "Feridan",
+      "to": "Feridun"
+    },
+    {
+      "from": "tabernaeles",
+      "to": "tabernacles"
+    },
+    {
+      "from": "rehgion",
+      "to": "religion"
+    },
+    {
+      "from": "coinpensation",
+      "to": "compensation"
+    },
+    {
+      "from": "neeessarily",
+      "to": "necessarily"
+    },
+    {
+      "from": "continne",
+      "to": "continue"
+    },
+    {
+      "from": "stajid",
+      "to": "stand"
+    },
+    {
+      "from": "penetrahes",
+      "to": "penetrates"
+    },
+    {
+      "from": "thyieelf",
+      "to": "thyself"
+    },
+    {
+      "from": "clust of",
+      "to": "dust of"
+    },
+    {
+      "from": "ruayest",
+      "to": "mayest"
+    },
+    {
+      "from": "kbosrou",
+      "to": "Khosrou"
+    },
+    {
+      "from": "Eecognise",
+      "to": "Recognise"
+    },
+    {
+      "from": "Beceive",
+      "to": "Receive"
+    },
+    {
+      "from": "Bemember",
+      "to": "Remember"
+    },
+    {
+      "from": "Pereidun",
+      "to": "Fereidun"
+    },
+    {
+      "from": "Eereidun",
+      "to": "Fereidun"
+    },
+    {
+      "from": "Phcenix",
+      "to": "Phoenix"
+    },
+    {
+      "from": "Provideuce",
+      "to": "Providence"
+    },
+    {
+      "from": "Csesar",
+      "to": "Caesar"
+    },
+    {
+      "from": "Bee what",
+      "to": "See what"
+    },
+    {
+      "from": "Tate made",
+      "to": "Fate made"
+    },
+    {
+      "from": "Tree thyself",
+      "to": "Free thyself"
+    },
+    {
+      "pattern": "(?<=[a-z])(at|ut)iou\\b",
+      "flags": "g",
+      "to": "$1ion"
+    },
+    {
+      "pattern": "\\bwdi(?=[a-z])",
+      "flags": "g",
+      "to": "wh"
+    },
+    {
+      "pattern": "“ ",
+      "flags": "g",
+      "to": "“"
+    },
+    {
+      "pattern": " ”",
+      "flags": "g",
+      "to": "”"
+    },
+    {
+      "from": "dust of Nezami which exists",
+      "to": "dust of Nezāmi which exists"
+    },
+    {
+      "from": "resembles!",
+      "to": "resemblest"
+    },
+    {
+      "from": "‘‘Fall,”",
+      "to": "“Fall,”"
+    },
+    {
+      "from": "‘‘Do not rise.” ft ft",
+      "to": "“Do not rise.”"
+    },
+    {
+      "from": "Thy slaves roses",
+      "to": "Thy slaves”; roses"
+    },
+    {
+      "from": "filled -with life,",
+      "to": "filled with life,"
+    },
+    {
+      "from": "Thee.’’",
+      "to": "Thee.”"
+    },
+    {
+      "from": "lily.",
+      "to": "lily,"
+    },
+    {
+      "from": "Nezami, the slave,",
+      "to": "Nezāmi, the slave,"
+    },
+    {
+      "from": "W e",
+      "to": "We"
+    },
+    {
+      "from": "w'e?",
+      "to": "we?"
+    },
+    {
+      "from": "God, Nezami’s name",
+      "to": "God, Nezāmi’s name"
+    },
+    {
+      "from": "of Ha, it",
+      "to": "of Hā, it"
+    },
+    {
+      "from": "same Ha, a",
+      "to": "same Hā a"
+    },
+    {
+      "from": "from Dal and",
+      "to": "from Dāl and"
+    },
+    {
+      "from": "and Dal the",
+      "to": "and Dāl the"
+    },
+    {
+      "from": " Ins ",
+      "to": " his "
+    },
+    {
+      "from": "of Be thou,”",
+      "to": "of “Be thou,”"
+    },
+    {
+      "from": "by him,",
+      "to": "by him."
+    },
+    {
+      "from": "gallop, Nezami was",
+      "to": "gallop, Nezāmi was"
+    },
+    {
+      "from": "Hay",
+      "to": "Day"
+    },
+    {
+      "from": " Water ",
+      "to": " water "
+    },
+    {
+      "from": "Boraq",
+      "to": "Borāq"
+    },
+    {
+      "from": "with the glory of the Phoenix.",
+      "to": "with the glory of the Phœnix."
+    },
+    {
+      "from": "with a. different",
+      "to": "with a different"
+    },
+    {
+      "from": "speech to Nezami.",
+      "to": "speech to Nezāmi."
+    },
+    {
+      "from": "Av,",
+      "to": "Ay,"
+    },
+    {
+      "from": "the heard was",
+      "to": "the heart was"
+    },
+    {
+      "from": "as a, thanksgiving",
+      "to": "as a thanksgiving"
+    },
+    {
+      "from": "talent of Nezami, which through",
+      "to": "talent of Nezāmi, which through"
+    },
+    {
+      "from": "Iran.",
+      "to": "Irān."
+    },
+    {
+      "from": "Islam;",
+      "to": "Islām;"
+    },
+    {
+      "from": "fallen,",
+      "to": "fallen"
+    },
+    {
+      "from": "of Nezami with",
+      "to": "of Nezāmi with"
+    },
+    {
+      "from": "rose,lend",
+      "to": "rose, send"
+    },
+    {
+      "from": "Iran,",
+      "to": "Irān,"
+    },
+    {
+      "from": "proclaimed",
+      "to": "proclaimers"
+    },
+    {
+      "from": "an All into",
+      "to": "an Ali into"
+    },
+    {
+      "from": "ranks.of",
+      "to": "ranks of"
+    },
+    {
+      "from": "for live hundred",
+      "to": "for five hundred"
+    },
+    {
+      "from": "brain of Nezami which seeks",
+      "to": "brain of Nezāmi which seeks"
+    },
+    {
+      "from": "By.",
+      "to": "By"
+    },
+    {
+      "from": "Tor",
+      "to": "For"
+    },
+    {
+      "from": "world. t he treasury of mysteries",
+      "to": "world."
+    },
+    {
+      "from": " Nezami. ",
+      "to": " Nezāmi. "
+    },
+    {
+      "from": "I he ",
+      "to": "The "
+    },
+    {
+      "from": "a,n Esma’ill.",
+      "to": "an Esmā’ili."
+    },
+    {
+      "from": " Bahram Shah ",
+      "to": " Bahrām Shāh "
+    },
+    {
+      "from": "Bahram-e",
+      "to": "Bahrām-e"
+    },
+    {
+      "from": "Abkhaz.",
+      "to": "Abkhāz."
+    },
+    {
+      "from": "Kei-Khosrou",
+      "to": "Kei-khosrou"
+    },
+    {
+      "from": "fane",
+      "to": "face"
+    },
+    {
+      "from": "Wind",
+      "to": "wind"
+    },
+    {
+      "from": "Zahhak",
+      "to": "Zahhāk"
+    },
+    {
+      "from": "acceptance to Nezami.",
+      "to": "acceptance to Nezāmi."
+    },
+    {
+      "from": "has hidden me",
+      "to": "has bidden me"
+    },
+    {
+      "from": "Bahram Shah.",
+      "to": "Bahrām Shāh."
+    },
+    {
+      "from": "am prond to",
+      "to": "am proud to"
+    },
+    {
+      "from": "before Nezami; he",
+      "to": "before Nezāmi; he"
+    },
+    {
+      "from": "sword of Nezami which strikes",
+      "to": "sword of Nezāmi which strikes"
+    },
+    {
+      "from": " wag ",
+      "to": " was "
+    },
+    {
+      "from": "of nonexistence, the",
+      "to": "of non-existence, the"
+    },
+    {
+      "from": " the treasury op mysteries",
+      "to": ""
+    },
+    {
+      "from": "of Nezami be",
+      "to": "of Nezāmi be"
+    },
+    {
+      "from": "bringB",
+      "to": "brings"
+    },
+    {
+      "from": " h im ",
+      "to": " him "
+    },
+    {
+      "from": "downfall of Harut.",
+      "to": "downfall of Hārut."
+    },
+    {
+      "from": "Ho not take",
+      "to": "Do not take"
+    },
+    {
+      "from": " Ho ",
+      "to": " Do "
+    },
+    {
+      "from": "thou ma.yest receive",
+      "to": "thou mayest receive"
+    },
+    {
+      "from": "riot",
+      "to": "not"
+    },
+    {
+      "from": "Esrafil",
+      "to": "Esrāfil"
+    },
+    {
+      "from": "Harut;",
+      "to": "Hārut;"
+    },
+    {
+      "from": "recipe of Harut.",
+      "to": "recipe of Hārut."
+    },
+    {
+      "from": "of Nezami, my",
+      "to": "of Nezāmi, my"
+    },
+    {
+      "from": "‘ ‘ Borrow",
+      "to": "“Borrow"
+    },
+    {
+      "from": "thou ma.yest be",
+      "to": "thou mayest be"
+    },
+    {
+      "from": "Khar,",
+      "to": "Khār,"
+    },
+    {
+      "from": "form -with the",
+      "to": "form with the"
+    },
+    {
+      "from": "‘‘Enter Nezami.”",
+      "to": "“Enter Nezāmi.”"
+    },
+    {
+      "from": "of Nezami resound",
+      "to": "of Nezāmi resound"
+    },
+    {
+      "from": "piaster",
+      "to": "master"
+    },
+    {
+      "from": "wine; a.t other",
+      "to": "wine; at other"
+    },
+    {
+      "from": "parrots..",
+      "to": "parrots."
+    },
+    {
+      "from": "_arrows,",
+      "to": "arrows,"
+    },
+    {
+      "from": "self-whiled",
+      "to": "self-willed"
+    },
+    {
+      "from": "‘ ‘ Mayest",
+      "to": "“Mayest"
+    },
+    {
+      "from": "happy ’ ’,",
+      "to": "happy”,"
+    },
+    {
+      "from": "hox",
+      "to": "box"
+    },
+    {
+      "from": "than Nezami.",
+      "to": "than Nezāmi."
+    },
+    {
+      "from": "whosb",
+      "to": "whoso"
+    },
+    {
+      "from": "Tabarestan",
+      "to": "Tabarestān"
+    },
+    {
+      "from": "leave Nezami’s work to Nezami.",
+      "to": "leave Nezāmi’s work to Nezāmi."
+    },
+    {
+      "from": "Bach",
+      "to": "Each"
+    },
+    {
+      "from": "dawm",
+      "to": "dawn"
+    },
+    {
+      "from": "a,nd",
+      "to": "and"
+    },
+    {
+      "from": "carried a. saddle-cloth",
+      "to": "carried a saddle-cloth"
+    },
+    {
+      "from": "qf",
+      "to": "of"
+    },
+    {
+      "from": "Ayaz.",
+      "to": "Ayāz."
+    },
+    {
+      "from": "of Nezami scatters",
+      "to": "of Nezāmi scatters"
+    },
+    {
+      "from": "‘ ‘ What",
+      "to": "“What"
+    },
+    {
+      "from": "like Nezami, thou",
+      "to": "like Nezāmi, thou"
+    },
+    {
+      "from": "of nonexistence, entered",
+      "to": "of non-existence, entered"
+    },
+    {
+      "from": "‘‘He",
+      "to": "“He"
+    },
+    {
+      "from": "exceptiou",
+      "to": "exception"
+    },
+    {
+      "from": "-was",
+      "to": "was"
+    },
+    {
+      "from": "Qaf.",
+      "to": "Qāf."
+    },
+    {
+      "from": "a,t",
+      "to": "at"
+    },
+    {
+      "from": " ‘ O ",
+      "to": " ‘O "
+    },
+    {
+      "from": "“‘ Although",
+      "to": "“‘Although"
+    },
+    {
+      "from": "do.”",
+      "to": "do.’”"
+    },
+    {
+      "from": "‘' My",
+      "to": "“My"
+    },
+    {
+      "from": "world like Nezami.",
+      "to": "world like Nezāmi."
+    },
+    {
+      "from": "be prond, this",
+      "to": "be proud, this"
+    },
+    {
+      "from": "‘ ‘ 'Where",
+      "to": "“Where"
+    },
+    {
+      "from": "armv,",
+      "to": "army,"
+    },
+    {
+      "from": "throwthy",
+      "to": "throw thy"
+    },
+    {
+      "from": "wrings",
+      "to": "wings"
+    },
+    {
+      "from": "Nushirvan",
+      "to": "Nushirvān"
+    },
+    {
+      "from": "lias",
+      "to": "has"
+    },
+    {
+      "from": "‘ Leave",
+      "to": "‘Leave"
+    },
+    {
+      "from": " ‘ Do ",
+      "to": " ‘Do "
+    },
+    {
+      "from": "‘ If we",
+      "to": "“‘If we"
+    },
+    {
+      "from": "Why should I spoil",
+      "to": "“Why should I spoil"
+    },
+    {
+      "from": "To-day",
+      "to": "“To-day"
+    },
+    {
+      "from": "injustice,,",
+      "to": "injustice,"
+    },
+    {
+      "from": "mein",
+      "to": "me in"
+    },
+    {
+      "from": "now..",
+      "to": "now."
+    },
+    {
+      "from": " Sam ",
+      "to": " Sām "
+    },
+    {
+      "from": "pow’er",
+      "to": "power"
+    },
+    {
+      "from": "gone, arid after",
+      "to": "gone, and after"
+    },
+    {
+      "from": "of Nezami would",
+      "to": "of Nezāmi would"
+    },
+    {
+      "from": "Azra",
+      "to": "Azrā"
+    },
+    {
+      "from": "which Vameq sat.",
+      "to": "which Vāmeq sat."
+    },
+    {
+      "from": "departed. Vameq has",
+      "to": "departed. Vāmeq has"
+    },
+    {
+      "from": " Asra ",
+      "to": " Asrā "
+    },
+    {
+      "from": "years,,",
+      "to": "years,"
+    },
+    {
+      "from": "world?’",
+      "to": "world?"
+    },
+    {
+      "from": "Sam,",
+      "to": "Sām,"
+    },
+    {
+      "from": " Phoenix ",
+      "to": " Phœnix "
+    },
+    {
+      "from": "prond.",
+      "to": "proud."
+    },
+    {
+      "from": "it: Oh thou,",
+      "to": "it: “Oh thou,"
+    },
+    {
+      "from": "the Phoenix; I",
+      "to": "the Phœnix; I"
+    },
+    {
+      "from": "sow. ’ ’",
+      "to": "sow.”"
+    },
+    {
+      "from": "of a,n elephant;",
+      "to": "of an elephant;"
+    },
+    {
+      "from": "of Nezami is",
+      "to": "of Nezāmi is"
+    },
+    {
+      "from": "art prond of",
+      "to": "art proud of"
+    },
+    {
+      "from": "Rabe’eh",
+      "to": "Rābe’eh"
+    },
+    {
+      "from": "wbom",
+      "to": "whom"
+    },
+    {
+      "from": "‘ Oh",
+      "to": "‘Oh"
+    },
+    {
+      "from": "street? ’",
+      "to": "street?’"
+    },
+    {
+      "from": "saying: ‘ Where is",
+      "to": "saying: ‘Where is"
+    },
+    {
+      "from": "murderer? ’",
+      "to": "murderer?’"
+    },
+    {
+      "from": "slave. the treasury of mysteries",
+      "to": "slave."
+    },
+    {
+      "from": "\" How",
+      "to": "“How"
+    },
+    {
+      "from": "poor. ’ ’",
+      "to": "poor.”"
+    },
+    {
+      "from": "Khorasan,",
+      "to": "Khorāsān,"
+    },
+    {
+      "from": "Arise Nezami, thou",
+      "to": "Arise Nezāmi, thou"
+    },
+    {
+      "from": "‘‘ Do",
+      "to": "“Do"
+    },
+    {
+      "from": "‘‘ I beg",
+      "to": "“I beg"
+    },
+    {
+      "from": "oh Nezami, wilt",
+      "to": "oh Nezāmi, wilt"
+    },
+    {
+      "from": "mor ni ng",
+      "to": "morning"
+    },
+    {
+      "from": "-which",
+      "to": "which"
+    },
+    {
+      "from": "“lam",
+      "to": "“I am"
+    },
+    {
+      "from": " \" not",
+      "to": " not"
+    },
+    {
+      "from": "dust. the treasury of mysteries",
+      "to": "dust."
+    },
+    {
+      "from": "thee.’",
+      "to": "thee.”"
+    },
+    {
+      "from": "race;.",
+      "to": "race;"
+    },
+    {
+      "from": "—' ",
+      "to": ""
+    },
+    {
+      "from": "of Nezami was",
+      "to": "of Nezāmi was"
+    },
+    {
+      "from": "_less",
+      "to": "less"
+    },
+    {
+      "from": "produre",
+      "to": "produce"
+    },
+    {
+      "from": "happiness. the treasury of mysteries",
+      "to": "happiness."
+    },
+    {
+      "from": "Taleb",
+      "to": "Tāleb"
+    },
+    {
+      "from": "feather? ’ ’",
+      "to": "feather?”"
+    },
+    {
+      "from": "‘ ‘ Where",
+      "to": "“Where"
+    },
+    {
+      "from": "spoke: ‘‘Oh Lord,",
+      "to": "spoke: “Oh Lord,"
+    },
+    {
+      "from": "‘‘It runs",
+      "to": "“It runs"
+    },
+    {
+      "from": "‘‘It is",
+      "to": "“It is"
+    },
+    {
+      "from": "light gamed",
+      "to": "light, gained"
+    },
+    {
+      "from": "oh Nezami, because",
+      "to": "oh Nezāmi, because"
+    },
+    {
+      "from": " Harut ",
+      "to": " Hārut "
+    },
+    {
+      "from": " the treasury oe mysteries",
+      "to": ""
+    },
+    {
+      "from": "not'be",
+      "to": "not be"
+    },
+    {
+      "from": "tabashir,",
+      "to": "tabāshir,"
+    },
+    {
+      "from": " tabashir ",
+      "to": " tabāshir "
+    },
+    {
+      "from": "-for",
+      "to": "for"
+    },
+    {
+      "from": "years, —-how",
+      "to": "years; how"
+    },
+    {
+      "from": "(short,",
+      "to": "short,"
+    },
+    {
+      "from": "Arise Nezami; it",
+      "to": "Arise Nezāmi; it"
+    },
+    {
+      "from": "art a, king,",
+      "to": "art a king,"
+    },
+    {
+      "from": "weip",
+      "to": "were"
+    },
+    {
+      "from": "angelic Phoenix; thou",
+      "to": "angelic Phœnix; thou"
+    },
+    {
+      "from": "hounds,",
+      "to": "bounds,"
+    },
+    {
+      "from": "and earnest to",
+      "to": "and camest to"
+    },
+    {
+      "from": "happy.’’",
+      "to": "happy.”"
+    },
+    {
+      "from": "thou earnest slowly;",
+      "to": "thou camest slowly;"
+    },
+    {
+      "from": "thou earnest with",
+      "to": "thou camest with"
+    },
+    {
+      "from": "desert. t he treasury of mysteries",
+      "to": "desert."
+    },
+    {
+      "from": "atti’acted",
+      "to": "attracted"
+    },
+    {
+      "from": "gorst,",
+      "to": "goest,"
+    },
+    {
+      "from": "Arise Nezami, because",
+      "to": "Arise Nezāmi, because"
+    },
+    {
+      "from": "earth. The hour",
+      "to": "earth. “The hour"
+    },
+    {
+      "from": "its perfume Heaven",
+      "to": "its perfume. Heaven"
+    },
+    {
+      "from": " —the ",
+      "to": " the "
+    },
+    {
+      "from": " — clay",
+      "to": " clay"
+    },
+    {
+      "from": "foil",
+      "to": "full"
+    },
+    {
+      "from": " hut ",
+      "to": " but "
+    },
+    {
+      "from": "though Bahram is",
+      "to": "though Bahrām is"
+    },
+    {
+      "from": "its prond head.",
+      "to": "its proud head."
+    },
+    {
+      "from": "barleycorn.",
+      "to": "barley-corn."
+    },
+    {
+      "from": "here. r",
+      "to": "here."
+    },
+    {
+      "from": "of the sum",
+      "to": "of the sun."
+    },
+    {
+      "from": "look)",
+      "to": "look"
+    },
+    {
+      "from": "not a, dog,",
+      "to": "not a dog,"
+    },
+    {
+      "from": "for Nezami.",
+      "to": "for Nezāmi."
+    },
+    {
+      "from": " ' eyes",
+      "to": " eyes"
+    },
+    {
+      "from": "ha d",
+      "to": "had"
+    },
+    {
+      "from": "way.-",
+      "to": "way."
+    },
+    {
+      "from": "Caesar",
+      "to": "Cæsar"
+    },
+    {
+      "from": " Mosalman ",
+      "to": " Mosalmān "
+    },
+    {
+      "from": "‘‘Be",
+      "to": "“Be"
+    },
+    {
+      "from": "like Nezami, free",
+      "to": "like Nezāmi, free"
+    },
+    {
+      "from": "_otherwise",
+      "to": "otherwise"
+    },
+    {
+      "from": "Make a,n opening",
+      "to": "Make an opening"
+    },
+    {
+      "from": " canst, ",
+      "to": " canst; "
+    },
+    {
+      "from": "to Nezami, and",
+      "to": "to Nezāmi, and"
+    },
+    {
+      "from": "T his",
+      "to": "This"
+    },
+    {
+      "from": "is a, market",
+      "to": "is a market"
+    },
+    {
+      "from": "sa,y",
+      "to": "say"
+    },
+    {
+      "from": "one purse of dinars.",
+      "to": "one purse of dinārs."
+    },
+    {
+      "from": "his purse of dinars.",
+      "to": "his purse of dinārs."
+    },
+    {
+      "from": "Haji",
+      "to": "Hāji"
+    },
+    {
+      "from": "bis",
+      "to": "his"
+    },
+    {
+      "from": "-worshipped",
+      "to": "worshipped"
+    },
+    {
+      "from": "dinars;",
+      "to": "dinārs;"
+    },
+    {
+      "from": "pald",
+      "to": "paid"
+    },
+    {
+      "from": "from a, ruined",
+      "to": "from a ruined"
+    },
+    {
+      "from": "Mosalmans.",
+      "to": "Mosalmāns."
+    },
+    {
+      "from": "sternly: Arise, because",
+      "to": "sternly: “Arise, because"
+    },
+    {
+      "from": "and a, long",
+      "to": "and a long"
+    },
+    {
+      "from": "like Nezami thy",
+      "to": "like Nezāmi thy"
+    },
+    {
+      "from": "-—the",
+      "to": "the"
+    },
+    {
+      "from": "-— ",
+      "to": ""
+    },
+    {
+      "from": "ba,",
+      "to": "bā,"
+    },
+    {
+      "from": "shade? He the",
+      "to": "shade? Be the"
+    },
+    {
+      "from": "upside down thy",
+      "to": "upside down, thy"
+    },
+    {
+      "from": "truthful.'",
+      "to": "truthful."
+    },
+    {
+      "from": "boldest",
+      "to": "holdest"
+    },
+    {
+      "from": "who.tyrannised",
+      "to": "who tyrannised"
+    },
+    {
+      "from": "Hajjaj",
+      "to": "Hajjāj"
+    },
+    {
+      "from": "shedder of blood.",
+      "to": "shedder of blood.”"
+    },
+    {
+      "from": "\"the",
+      "to": "the"
+    },
+    {
+      "from": "‘‘ Thou",
+      "to": "“Thou"
+    },
+    {
+      "from": "” Since",
+      "to": "“Since"
+    },
+    {
+      "from": "of Nezami are",
+      "to": "of Nezāmi are"
+    },
+    {
+      "from": "\"Broken,",
+      "to": "broken,"
+    },
+    {
+      "from": "(Reason",
+      "to": "Reason"
+    },
+    {
+      "from": "the.",
+      "to": "the"
+    },
+    {
+      "from": "sawat",
+      "to": "saw a"
+    },
+    {
+      "from": "‘ ‘ That",
+      "to": "“That"
+    },
+    {
+      "from": "to Nezami pure",
+      "to": "to Nezāmi pure"
+    },
+    {
+      "from": "\"sneeze",
+      "to": "sneeze"
+    },
+    {
+      "from": " is. ",
+      "to": " is "
+    },
+    {
+      "from": "hav.e",
+      "to": "have"
+    },
+    {
+      "from": "“\" ",
+      "to": ""
+    },
+    {
+      "from": "hough,",
+      "to": "bough,"
+    },
+    {
+      "from": "riches? ’’",
+      "to": "riches?”"
+    },
+    {
+      "from": "of'",
+      "to": "of"
+    },
+    {
+      "from": "scribes,,",
+      "to": "scribes,"
+    },
+    {
+      "from": "Since Nezami has",
+      "to": "Since Nezāmi has"
+    },
+    {
+      "from": "- Every",
+      "to": "Every"
+    },
+    {
+      "from": "bang",
+      "to": "hang"
+    },
+    {
+      "from": "beards. r",
+      "to": "beards."
+    },
+    {
+      "from": "speed.-",
+      "to": "speed."
+    },
+    {
+      "from": "is prond, because",
+      "to": "is proud, because"
+    },
+    {
+      "from": "Say Let",
+      "to": "Say: “Let"
+    },
+    {
+      "from": " not' ",
+      "to": " not "
+    },
+    {
+      "from": "laughter.'",
+      "to": "laughter."
+    },
+    {
+      "from": "bun:",
+      "to": "him:"
+    },
+    {
+      "from": "piety of Nezami, which is",
+      "to": "piety of Nezāmi, which is"
+    },
+    {
+      "from": "enmity,",
+      "to": "enmity."
+    },
+    {
+      "from": "is a, cat",
+      "to": "is a cat"
+    },
+    {
+      "from": "‘ ‘ Patience",
+      "to": "“Patience"
+    },
+    {
+      "from": "‘‘ I keep",
+      "to": "“I keep"
+    },
+    {
+      "from": "said: ‘‘Do not",
+      "to": "said: “Do not"
+    },
+    {
+      "from": " tire ",
+      "to": " the "
+    },
+    {
+      "from": "of Nezami, the",
+      "to": "of Nezāmi, the"
+    },
+    {
+      "from": "what thou, hast",
+      "to": "what thou hast"
+    },
+    {
+      "from": "i-s",
+      "to": "is"
+    },
+    {
+      "from": "that a.t the",
+      "to": "that at the"
+    },
+    {
+      "from": "Harun",
+      "to": "Hārun"
+    },
+    {
+      "from": "shaving'",
+      "to": "shaving"
+    },
+    {
+      "from": "‘ ‘ Whenever",
+      "to": "“Whenever"
+    },
+    {
+      "from": "‘‘ If",
+      "to": "“If"
+    },
+    {
+      "from": "treasure of Nezami, which shatters",
+      "to": "treasure of Nezāmi, which shatters"
+    },
+    {
+      "from": "mind. the treasury of mysteries",
+      "to": "mind."
+    },
+    {
+      "from": "lik e",
+      "to": "like"
+    },
+    {
+      "from": "twi nkl in g",
+      "to": "twinkling"
+    },
+    {
+      "from": "Since thou hast so",
+      "to": "“Since thou hast so"
+    },
+    {
+      "from": "city like Nezami.",
+      "to": "city like Nezāmi."
+    },
+    {
+      "from": "Eraq",
+      "to": "Erāq"
+    },
+    {
+      "from": "saying: ‘‘Oh young",
+      "to": "saying: “Oh young"
+    },
+    {
+      "from": "Nezami?”",
+      "to": "Nezāmi?”"
+    },
+    {
+      "from": "Nezami has covered",
+      "to": "Nezāmi has covered"
+    },
+    {
+      "from": "foo-t",
+      "to": "foot"
+    },
+    {
+      "from": "Asrar.",
+      "to": "Asrār."
+    },
+    {
+      "pattern": "Phoenix",
+      "flags": "g",
+      "to": "Phœnix"
+    }
+  ],
+  "sections": [
+    {
+      "heading": "As I have a treasure like Makhzanol Asrar, why should I trouble about romances?",
+      "ganjoor": 1,
+      "match": "AS I HAVE A TREASURE LIKE TROUBLE ABOUT ROMANCES?"
+    },
+    {
+      "heading": "On punishment and the wrath of God",
+      "ganjoor": 2
+    },
+    {
+      "heading": "On the bounty and forgiveness of God",
+      "ganjoor": 3
+    },
+    {
+      "heading": "In praise of the Holy Prophet, the prayers of God be upon him and upon his family",
+      "ganjoor": 4
+    },
+    {
+      "heading": "On the Ascension",
+      "ganjoor": 5
+    },
+    {
+      "heading": "The first eulogy (to the Prophet)",
+      "ganjoor": 6
+    },
+    {
+      "heading": "The second eulogy (to the Prophet)",
+      "ganjoor": 7
+    },
+    {
+      "heading": "The third eulogy (to the Prophet)",
+      "ganjoor": 8
+    },
+    {
+      "heading": "The fourth eulogy (to the Prophet)",
+      "ganjoor": 9
+    },
+    {
+      "heading": "In praise of King Fakhrod-Din Bahram Shah, the son of Davud",
+      "ganjoor": 10
+    },
+    {
+      "heading": "The discourse on audience (to the king)",
+      "ganjoor": 11
+    },
+    {
+      "heading": "On the honour and dignity of this book",
+      "ganjoor": 12
+    },
+    {
+      "heading": "Discourse on the excellence of speech",
+      "ganjoor": 13
+    },
+    {
+      "heading": "The superiority of poetry to prose",
+      "ganjoor": 14
+    },
+    {
+      "heading": "Describing the night and cognizing the heart",
+      "ganjoor": 15
+    },
+    {
+      "heading": "To nourish the heart",
+      "ganjoor": 16
+    },
+    {
+      "heading": "The fruit of the first seclusion",
+      "ganjoor": 17
+    },
+    {
+      "heading": "On the revelry of the night",
+      "ganjoor": 18
+    },
+    {
+      "heading": "The fruit of the second seclusion",
+      "ganjoor": 19
+    },
+    {
+      "heading": "On the creation of Adam",
+      "ganjoor": 20
+    },
+    {
+      "heading": "The story of the king who despaired, and of how he was forgiven",
+      "ganjoor": 21
+    },
+    {
+      "heading": "On advising the king to uphold justice",
+      "ganjoor": 22
+    },
+    {
+      "heading": "The story of Nushirvan and his visier",
+      "ganjoor": 23
+    },
+    {
+      "heading": "On the changing world",
+      "ganjoor": 24
+    },
+    {
+      "heading": "The story of Solomon and the farmer",
+      "ganjoor": 25
+    },
+    {
+      "heading": "On the good behaviour of kings to their subjects",
+      "ganjoor": 26
+    },
+    {
+      "heading": "The story of the old woman and Sultan Sanjar",
+      "ganjoor": 27
+    },
+    {
+      "heading": "On the description of old age",
+      "ganjoor": 28
+    },
+    {
+      "heading": "The story of the old brick-maker",
+      "ganjoor": 29
+    },
+    {
+      "heading": "On the importance of creation",
+      "ganjoor": 30
+    },
+    {
+      "heading": "The story of the dog, the hunter, and the fox",
+      "ganjoor": 31
+    },
+    {
+      "heading": "On the superiority of mankind over animals",
+      "ganjoor": 32
+    },
+    {
+      "heading": "The story of Fereidun and the gazelle",
+      "ganjoor": 33
+    },
+    {
+      "heading": "On creation",
+      "ganjoor": 34,
+      "match": "EIGHTH DISCOURSE On creation"
+    },
+    {
+      "heading": "The story of the fruit-seller and the fox",
+      "ganjoor": 35
+    },
+    {
+      "heading": "On the abandonment of worldly dignities",
+      "ganjoor": 36
+    },
+    {
+      "heading": "The story of the ascetic who broke his vow",
+      "ganjoor": 37
+    },
+    {
+      "heading": "On the appearance of the last day",
+      "ganjoor": 38
+    },
+    {
+      "heading": "The story of Jesus",
+      "ganjoor": 39
+    },
+    {
+      "heading": "On the untrustworthiness of this world",
+      "ganjoor": 40
+    },
+    {
+      "heading": "The story of the spiritually minded Magian priest",
+      "ganjoor": 41
+    },
+    {
+      "heading": "On the farewell to the earthly abode",
+      "ganjoor": 42
+    },
+    {
+      "heading": "The story of the two contending philosophers",
+      "ganjoor": 43
+    },
+    {
+      "heading": "On the contempt of this world",
+      "ganjoor": 44
+    },
+    {
+      "heading": "The story of the Haji and the Sufi",
+      "ganjoor": 45
+    },
+    {
+      "heading": "On the reproach of negligence",
+      "ganjoor": 46
+    },
+    {
+      "heading": "The story of the tyrannical king and the truthful man",
+      "ganjoor": 47
+    },
+    {
+      "heading": "On the reproach of the envious",
+      "ganjoor": 48
+    },
+    {
+      "heading": "The story of the young prince and his old enemies",
+      "ganjoor": 49
+    },
+    {
+      "heading": "On travelling swiftly",
+      "ganjoor": 50
+    },
+    {
+      "heading": "The story of the wounded child",
+      "ganjoor": 51
+    },
+    {
+      "heading": "On devotion and solitude",
+      "ganjoor": 52
+    },
+    {
+      "heading": "The story of a sage and his disciples",
+      "ganjoor": 53
+    },
+    {
+      "heading": "On the contempt of hypocrites",
+      "ganjoor": 54
+    },
+    {
+      "heading": "The story of Jamshid and his household",
+      "ganjoor": 55
+    },
+    {
+      "heading": "On welcoming the next world",
+      "ganjoor": 56
+    },
+    {
+      "heading": "The story of Harun or-Rashid and the barber",
+      "ganjoor": 57
+    },
+    {
+      "heading": "On the shamelessness of the people",
+      "ganjoor": 58
+    },
+    {
+      "heading": "The story of the nightingale and the falcon",
+      "ganjoor": 59
+    },
+    {
+      "heading": "On the ending of the book",
+      "ganjoor": 60
+    }
+  ]
+}
