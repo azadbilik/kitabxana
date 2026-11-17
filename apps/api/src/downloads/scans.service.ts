@@ -6,6 +6,7 @@ import * as os from 'node:os';
 import * as path from 'node:path';
 import { promisify } from 'node:util';
 import { PrismaService } from '../prisma/prisma.service';
+import { SCAN_STARTS, SCAN_TEXT_END } from './scan-starts';
 
 const run = promisify(execFile);
 
@@ -50,25 +51,6 @@ const KNOWN_PAGES: Record<string, { from: number; to: number }> = {
   'anl-8529-t1': { from: 4, to: 93 },
 };
 
-/**
- * Books whose contents page gives each work's printed page. `starts` lists them in the order of
- * the works' sourceIds, `end` is the last printed page of text, and `pdfPage` maps a printed
- * page to the scan's page. A work runs to the page the next one starts on, since it may start
- * mid-page.
- */
-const CONTENTS: Record<string, { starts: number[]; end: number; pdfPage: (printed: number) => number }> = {
-  // Mirzə İbrahimov, Seçilmiş əsərləri II (2005), «Gələcək gün», contents on p. 519.
-  // Scanned as spreads: PDF page N holds printed pages 2N−2 and 2N−1
-  'anl-8483': {
-    starts: [
-      7, 50, 64, 69, 79, 89, 98, 105, 125, 146, 166, 185, 205, 217, 228, 240, 250, 262, 274, 295, 307, 323, 341,
-      362, 376, 392, 410, 428, 461, 481, 488, 497, 504,
-    ],
-    end: 518,
-    pdfPage: (printed) => Math.floor(printed / 2) + 1,
-  },
-};
-
 const naturalCompare = (a: string, b: string) => a.localeCompare(b, 'en', { numeric: true });
 
 /**
@@ -79,9 +61,10 @@ const naturalCompare = (a: string, b: string) => a.localeCompare(b, 'en', { nume
  *
  * A work's own pages run from its page to the page the next work starts on (inclusive: the
  * next one may begin mid-page). Some books carry one page for a whole run of works (every
- * chapter of a novel marked at the novel's first page); there the run's pages are shared out by
- * text length, a page of margin either side, since a reader would rather get a page too many
- * than lose the end of a chapter.
+ * chapter of a novel marked at the novel's first page); there each work's start found in the
+ * scan (SCAN_STARTS) is used, and failing that the run's pages are shared out by text length,
+ * a page of margin either side, since a reader would rather get a page too many than lose the
+ * end of a chapter.
  */
 @Injectable()
 export class ScansService {
@@ -200,16 +183,18 @@ export class ScansService {
       }
     });
 
-    const contents = CONTENTS[key];
-    if (contents) {
-      const ordered = rows.map((r) => r.sourceId).sort(naturalCompare);
-      if (ordered.length === contents.starts.length) {
-        ordered.forEach((sourceId, i) => {
-          const to = contents.pdfPage(contents.starts[i + 1] ?? contents.end);
-          works.set(sourceId, { from: contents.pdfPage(contents.starts[i]), to: Math.min(to, pages) });
-        });
-      } else {
-        this.logger.warn(`${key}: ${ordered.length} works but ${contents.starts.length} contents entries; pages estimated`);
+    // Exact starts, where a run's works were found in the scan: each runs to the page the next
+    // work (or run) starts on, inclusive since it may start mid-page
+    const exact = placed.filter((r) => SCAN_STARTS[r.sourceId] != null);
+    if (exact.length) {
+      const bounds = [...new Set([...groups.map((g) => g.start), ...exact.map((r) => SCAN_STARTS[r.sourceId])])].sort(
+        (a, b) => a - b,
+      );
+      for (const row of exact) {
+        const from = Math.min(SCAN_STARTS[row.sourceId], pages);
+        const next = bounds.find((page) => page > from);
+        const to = next ?? SCAN_TEXT_END[key] ?? works.get(row.sourceId)?.to ?? pages;
+        works.set(row.sourceId, { from, to: Math.min(Math.max(to, from), pages) });
       }
     }
     for (const [sourceId, range] of Object.entries(KNOWN_PAGES)) {
@@ -217,9 +202,9 @@ export class ScansService {
     }
 
     const collections = new Map<string, { from: number; to: number }>();
-    for (const row of placed) {
-      const range = works.get(row.sourceId)!;
-      if (!row.collectionId) continue;
+    for (const row of rows) {
+      const range = works.get(row.sourceId);
+      if (!range || !row.collectionId) continue;
       const seen = collections.get(row.collectionId);
       collections.set(row.collectionId, seen
         ? { from: Math.min(seen.from, range.from), to: Math.max(seen.to, range.to) }
