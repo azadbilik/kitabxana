@@ -15,6 +15,8 @@ export interface TranscribedSection {
   titleAz: string;
   genre: Genre;
   layout: Layout;
+  /** A novel in parts («Proloq», «Birinci hissə», «Epiloq» as `### …`): one work per part; other `###` headings stay inside */
+  novel?: boolean;
   /** Numbered short pieces ("### 17"): one work each, "Balaca mütəfərriqələr 17" */
   pieces?: boolean;
   /** Untitled poems set apart by "* * *" (a divan's ghazals): one work each, titled by its first line */
@@ -41,6 +43,17 @@ const readerUrl = (book: TranscribedBook, page: number) =>
 const sourceKey = (book: TranscribedBook) => book.sourceKey ?? (book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
+/** A novel cut at its part headings («### Proloq», «### Birinci hissə», «### Epiloq»); text before the first is the novel's opening */
+function novelSplit(body: string): { title: string | null; body: string }[] {
+  const out: { title: string | null; lines: string[] }[] = [{ title: null, lines: [] }];
+  for (const line of body.split('\n')) {
+    const m = line.match(/^### ((?:\S+ hissə|Proloq|Epiloq))\.?$/i);
+    if (m) { out.push({ title: m[1][0].toLocaleUpperCase('az') + m[1].slice(1).toLocaleLowerCase('az'), lines: [] }); continue; }
+    out[out.length - 1].lines.push(line);
+  }
+  return out.map((p) => ({ title: p.title, body: p.lines.join('\n').trim() })).filter((p) => p.body);
+}
+
 export function readTranscription(text: string) {
   const works: { title: string; spread: number; body: string }[] = [];
   let spread = 0;
@@ -169,7 +182,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
         });
         return;
       }
-      const split = parts(body, section.layout);
+      const split = section.novel ? novelSplit(body) : parts(body, section.layout);
       let base = shortSlug(`${cfg.slug}-${w.title.replace(/ \{fa\}$/, '')}`);
       // A play named after the author's novel ("Dumanlı Təbriz"): its own collection, not the novel's
       if (split.length > 1 && order.has(base)) base = `${base}-pyes`;
