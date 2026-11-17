@@ -9,6 +9,8 @@ import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
 import { BookCover } from '@/components/works/BookCover';
 import { Shelf } from '@/components/works/Shelf';
+import { BookActions } from '@/components/library/BookActions';
+import { BookContents } from '@/components/library/BookContents';
 import { shelfBook, titledIn } from '@/lib/books';
 import { isArabicScript } from '@/lib/verse';
 import { localePath } from '@/lib/i18n';
@@ -123,9 +125,10 @@ export default async function CollectionPage({ params }: Props) {
           )}
 
           {works.length > 0 && (
-            <div className="book-actions" data-book-actions={collection.id}>
-              <Link href={localePath(locale, `/works/${works[0].slug}`)} className="btn btn-primary btn-lg">{t('start')}</Link>
-            </div>
+            <BookActions
+              collectionId={collection.id}
+              parts={works.map((w: any) => ({ id: w.id, slug: w.slug, title: localized(w, 'title', locale) ?? w.titleAz }))}
+            />
           )}
 
           {works.length > 0 && (
@@ -141,22 +144,19 @@ export default async function CollectionPage({ params }: Props) {
       {works.length > 0 && (
         <section className="book-contents" aria-labelledby="book-contents-title">
           <h2 className="shelf-title" id="book-contents-title">{t('contents')}</h2>
-          <ol className="book-parts">
-            {works.map((work: any, i: number) => {
+          <BookContents
+            collectionId={collection.id}
+            rows={works.map((work: any) => {
               const workTitle = localized(work, 'title', locale) ?? work.titleAz;
-              return (
-                <li key={work.id}>
-                  <Link href={localePath(locale, `/works/${work.slug}`)} className="book-part" data-work={work.id}>
-                    <span className="book-part-no" aria-hidden="true">{i + 1}</span>
-                    <span className="book-part-text">
-                      <span className="book-part-title" {...(isArabicScript(workTitle) && { lang: 'fa', dir: 'rtl' })}>{workTitle}</span>
-                      <span className="book-part-kind">{kindOf(work)}{work.year ? ` · ${work.year}` : ''}</span>
-                    </span>
-                  </Link>
-                </li>
-              );
+              return {
+                id: work.id,
+                slug: work.slug,
+                title: workTitle,
+                kind: `${kindOf(work)}${work.year ? ` · ${work.year}` : ''}`,
+                arabic: isArabicScript(workTitle),
+              };
             })}
-          </ol>
+          />
         </section>
       )}
 

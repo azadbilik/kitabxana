@@ -35,7 +35,7 @@ export default async function RootLayout({
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('skin')==='gazette')d.setAttribute('data-skin','gazette')}catch(e){}})()`,
+            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('skin')==='gazette')d.setAttribute('data-skin','gazette');if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','')}catch(e){}})()`,
           }}
         />
         {children}

@@ -2,6 +2,7 @@
 
 import { createContext, useCallback, useContext, useEffect, useMemo, useRef, useState, type ReactNode } from 'react';
 import { accountFetch, AccountError, readFlag, writeFlag, type Me } from '@/lib/account';
+import { importLocalPositions, resetMarks } from '@/lib/library';
 import { SignInDialog } from './SignInDialog';
 
 type Status = 'unknown' | 'guest' | 'signed-in';
@@ -57,6 +58,8 @@ export function AccountProvider({ children }: { children: ReactNode }) {
   }, []);
 
   const signedIn = useCallback((me: Me) => {
+    // Places read in this browser before signing in join the account
+    if (!readFlag()) importLocalPositions();
     writeFlag(true);
     setUserState(me);
     setStatus('signed-in');
@@ -78,6 +81,7 @@ export function AccountProvider({ children }: { children: ReactNode }) {
   const signOut = useCallback(async () => {
     await accountFetch('/auth/logout', { method: 'POST' }).catch(() => {});
     writeFlag(false);
+    resetMarks();
     setUserState(null);
     setStatus('guest');
   }, []);

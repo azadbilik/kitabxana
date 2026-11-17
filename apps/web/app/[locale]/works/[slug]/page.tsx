@@ -11,6 +11,7 @@ import { WorkCard } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareBar } from '@/components/reading/ShareBar';
+import { WorkActions } from '@/components/library/WorkActions';
 import { DownloadBar } from '@/components/reading/DownloadBar';
 import { paginate } from '@/lib/paginate';
 import { getTranslations } from 'next-intl/server';
@@ -301,6 +302,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
         source={sourceInfo(work.sourceNote)}
         suggestHref={localePath(locale, `/contribute?type=translation&work=${encodeURIComponent(slug)}`)}
         slug={slug}
+        workId={work.id}
         sections={sections}
         pagination={pageCount > 1 ? { page, pages: pageCount } : null}
       />
@@ -311,6 +313,8 @@ export default async function WorkPage({ params, searchParams }: Props) {
         label={tTags('work_tags')}
         className="work-tag-row"
       />
+
+      <WorkActions workId={work.id} collectionId={work.collection?.id ?? null} />
 
       <ShareBar
         url={`${SITE_URL}${localePath(locale, `/works/${slug}`)}`}

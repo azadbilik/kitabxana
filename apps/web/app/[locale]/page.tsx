@@ -5,6 +5,7 @@ import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { api, type BookSummary, type PoemOfTheDay } from '../../lib/api';
 import { Shelf } from '@/components/works/Shelf';
+import { HomeMine } from '@/components/library/HomeMine';
 import { shelfBook, titledIn } from '@/lib/books';
 import { localized, ownField, periodLabel } from '@/lib/locale';
 import { TagPills } from '@/components/works/TagPills';
@@ -194,6 +195,9 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           </section>
         )}
       </div>
+
+      {/* ── The signed-in reader's own row: continue reading, their shelf ── */}
+      <HomeMine />
 
       {/* ── Shelves ─────────────────────────────────────────── */}
       <div className="home-shelves">

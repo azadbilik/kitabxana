@@ -34,6 +34,8 @@ interface Props {
   source: SourceInfo | null;
   suggestHref: string;
   slug: string;
+  /** For a signed-in reader's place and read mark, kept on the account */
+  workId?: string;
   /** Headings inside a prose text (acts, scenes, numbered parts), with the ids they carry */
   sections?: { id: string; text: string; href?: string }[];
   /** Which reading page of a long prose text this is; null when it is read whole */
@@ -79,6 +81,7 @@ export function ReadingView({
   source,
   suggestHref,
   slug,
+  workId,
   sections = [],
   pagination = null,
 }: Props) {
@@ -236,7 +239,7 @@ export function ReadingView({
         <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} />
       </div>
 
-      {!isPoem && <ReadingProgress slug={slug} targetId={textId} dir={originalDir} pagination={pagination} />}
+      {!isPoem && <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} />}
 
       {!isPoem && sections.length >= MIN_SECTIONS && (
         <details className="reading-contents">

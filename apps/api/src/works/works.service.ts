@@ -230,7 +230,8 @@ export class WorksService {
           },
         },
         collection: {
-          select: { slug: true, titleAz: true, titleRu: true },
+          // id: the reader's marks on the book follow the reading of this work
+          select: { id: true, slug: true, titleAz: true, titleRu: true },
         },
         translations: {
           where: { status: 'PUBLISHED' },

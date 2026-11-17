@@ -3,9 +3,13 @@
 import { useEffect, useRef, useState, type CSSProperties } from 'react';
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
+import { useAccount } from '@/components/account/AccountProvider';
+import { sendProgress, useLoadMarks, useMarks } from '@/lib/library';
 
 interface Props {
   slug: string;
+  /** Signed in: the place is also kept on the account, so it follows the reader to other devices */
+  workId?: string;
   /** The element holding the text whose progress is shown */
   targetId: string;
   dir: 'ltr' | 'rtl';
@@ -41,8 +45,20 @@ function save(slug: string, progress: number) {
 
 /** Where the reader is in a long text, a thin bar along the top of the window,
     and an offer to go back to the place they left last time — on whichever page it is */
-export function ReadingProgress({ slug, targetId, dir, pagination }: Props) {
+export function ReadingProgress({ slug, workId, targetId, dir, pagination }: Props) {
   const t = useTranslations('reading');
+  const { status } = useAccount();
+  const signedIn = status === 'signed-in' && Boolean(workId);
+  const marks = useMarks();
+  useLoadMarks(signedIn, { workIds: workId ? [workId] : [] });
+  // Read by the scroll handlers, which are bound once per page
+  const sync = useRef<((p: number, leaving?: boolean) => void) | null>(null);
+  // Positions next to the start aren't sent: opening a text and nudging it isn't reading it
+  sync.current = signedIn && workId ? (p, leaving) => p > EDGE && sendProgress(workId, p >= 1 - EDGE ? 1 : p, { beacon: leaving }) : null;
+  // The last place measured while the text was on screen; on leaving, the page may already be
+  // scrolled back or gone, so this is what is kept, not a fresh measurement
+  const lastMeasured = useRef(0);
+  const arrivedAt = useRef<{ page: number; offered: boolean } | null>(null);
   const router = useRouter();
   const [progress, setProgress] = useState(0);
   const [long, setLong] = useState(false);
@@ -87,11 +103,13 @@ export function ReadingProgress({ slug, targetId, dir, pagination }: Props) {
       const p = overall();
       setProgress(p);
       if (!moved) return;
+      lastMeasured.current = p;
       if (withinPage() > EDGE) setResumeAt(null);
       const now = Date.now();
       if (now - lastSaved.current > 1000) {
         lastSaved.current = now;
         save(slug, p);
+        sync.current?.(p);
       }
     };
     const onScroll = () => {
@@ -115,16 +133,43 @@ export function ReadingProgress({ slug, targetId, dir, pagination }: Props) {
 
     window.addEventListener('scroll', onScroll, { passive: true });
     window.addEventListener('resize', onScroll);
-    const onHide = () => moved && save(slug, overall());
+    const onHide = () => {
+      if (!moved) return;
+      save(slug, lastMeasured.current);
+      sync.current?.(lastMeasured.current, true);
+    };
     window.addEventListener('pagehide', onHide);
     return () => {
       if (frame) cancelAnimationFrame(frame);
       window.removeEventListener('scroll', onScroll);
       window.removeEventListener('resize', onScroll);
       window.removeEventListener('pagehide', onHide);
-      if (moved) save(slug, overall());
+      if (moved) {
+        save(slug, lastMeasured.current);
+        sync.current?.(lastMeasured.current);
+      }
     };
   }, [slug, targetId, page, pages]);
+
+  // Signed in with no place saved in this browser: offer the place kept on the account
+  // (read on another device), once it arrives, under the same rules as a local one
+  const serverProgress = workId ? marks.works[workId] : undefined;
+  useEffect(() => {
+    if (!serverProgress || serverProgress.status === 'DONE' || resumeAt !== null) return;
+    if (readSaved(slug) !== null) return;
+    const p = serverProgress.progress;
+    if (!(p > EDGE && p < 1 - EDGE)) return;
+    if (arrivedAt.current?.offered) return;
+    let arriving = false;
+    try {
+      arriving = sessionStorage.getItem(`${KEY(slug)}:server`) !== '1';
+      sessionStorage.setItem(`${KEY(slug)}:server`, '1');
+    } catch {}
+    if (!arriving) return;
+    arrivedAt.current = { page, offered: true };
+    if (Math.abs(p - (page - 1) / pages) > EDGE || window.scrollY < 50) setResumeAt(p);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [serverProgress?.progress, serverProgress?.status]);
 
   function resume() {
     const target = document.getElementById(targetId);
