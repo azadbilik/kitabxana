@@ -8,6 +8,7 @@ import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
 import { BioCredit } from '@/components/authors/BioCredit';
+import { Shelf, type ShelfBook } from '@/components/works/Shelf';
 import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
@@ -57,6 +58,19 @@ export default async function AuthorPage({ params }: Props) {
   const bioElsewhere = !bio && locale !== 'az' && Boolean(author.bioAz);
   const t = await getTranslations({ locale, namespace: 'authors' });
   const authorsLabel = locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər';
+  const books = await getTranslations({ locale, namespace: 'book' });
+  const home = await getTranslations({ locale, namespace: 'home' });
+  const options = await getTranslations({ locale, namespace: 'contribute.options' });
+  const booksShelf: ShelfBook[] = (author.collections ?? [])
+    .filter((c: any) => c.works?.length > 0)
+    .map((c: any) => ({
+      href: localePath(locale, `/collections/${c.slug}`),
+      title: localized(c, 'title', locale) ?? c.titleAz,
+      author: name,
+      seed: slug,
+      kind: c.genre ? options(`genre.${c.genre}` as any) : undefined,
+      note: home('work_count', { count: c.works.length }),
+    }));
 
   const years = [
     author.bornYear ? `${author.bornYearApprox ? '~' : ''}${author.bornYear}` : null,
@@ -182,6 +196,13 @@ export default async function AuthorPage({ params }: Props) {
           )}
         </div>
       </div>
+
+      {/* The author's books as covers, when there is more than one to choose between */}
+      {booksShelf.length > 1 && (
+        <div className="author-books">
+          <Shelf id="author-books" title={books('books')} books={booksShelf} />
+        </div>
+      )}
 
       <ArtworkGallery artworks={author.artworks ?? []} locale={locale} showCollection initial={6} />
 

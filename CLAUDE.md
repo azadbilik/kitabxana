@@ -45,8 +45,9 @@ pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a Natio
 - Message files in `apps/web/messages/`
 
 ## Design
-Two reader-selectable skins on shared markup, each with light and dark themes. Full system in `apps/web/DESIGN.md`.
-- **Gazette (default)**: newspaper/literary gazette aesthetic — ivory, ink-black, pomegranate red; Molla Nasraddin ornamental accents (◆ diamonds, double rules). Styles in `apps/web/styles/globals.css`
-- **Clean (alternative)**: culture.ru-style — warm grey pages (`#EFEEEC`), one charcoal header bar, grey cards and pills, one crimson `#C8102E`, Noto Sans + Literata, no rules, no ornaments, sentence-case labels. Overrides scoped to `[data-skin='clean']` in `apps/web/styles/skin-clean.css`. Its lack of gazette ornament is deliberate, not drift — never add ◆, double rules or tracked caps to it
-- Skin via `html[data-skin='clean']` (header toggle, `localStorage.skin`); theme via `[data-theme]` (OS preference until the reader chooses, `localStorage.theme`). Both are set before paint by the inline script in `app/layout.tsx`
-- New components style both skins: base rules in `globals.css` read the shared CSS variables (`--bg`, `--ink`, `--pomeg`, `--surf`…), and clean-specific shape goes in `skin-clean.css`
+One design, **Nar**, in light and dark. Full system in `apps/web/DESIGN.md`.
+- A bookshop you read in (LitRes-like, calmer): white pages, ink text, grey surfaces, one pomegranate `#A81E28`; Inter for the interface, Literata for titles and reading; books shown as generated covers (`components/works/BookCover.tsx`, six cloth colours by author) on shelves (`Shelf.tsx`)
+- Base and shared components in `apps/web/styles/globals.css`; Nar's tokens and overrides in `apps/web/styles/nar.css`, every rule scoped `:root:where(:not([data-skin='gazette']))` (no added specificity)
+- The old **Gazette** still renders underneath for developers only, no button: `localStorage.skin = 'gazette'; location.reload()` in the console (`localStorage.removeItem('skin')` to return). New components are designed for Nar and need only not break under it
+- Theme via `[data-theme]` (OS preference until the reader chooses, `localStorage.theme`), set before paint with the gazette flag by the inline script in `app/layout.tsx`
+- Pages never set cookies (HTML is edge-cached for everyone); anything per reader loads in the browser

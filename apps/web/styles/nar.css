@@ -797,16 +797,17 @@
 }
 :root:where(:not([data-skin='gazette'])) .footer-mark {
   display:        block;
-  font-family:    var(--font-ui);
+  font-family:    var(--font-serif);
   font-size:      1.2rem;
   font-weight:    700;
   line-height:    1;
-  letter-spacing: -0.01em;
+  letter-spacing: -0.02em;
   color:          var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .footer-mark em { font-style: normal; font-size: 1.2rem; color: var(--pomeg); }
+/* The same wordmark as the header: kitabxana.az, the domain in red */
+:root:where(:not([data-skin='gazette'])) .footer-mark em { font-style: normal; font-size: 1.2rem; color: var(--pomeg); text-transform: lowercase; }
 :root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn { font-size: 0; }
-:root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn::before { content: '.'; font-size: 1.2rem; color: var(--muted); }
+:root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn::before { content: '.'; font-size: 1.2rem; color: var(--pomeg); }
 :root:where(:not([data-skin='gazette'])) .footer-text { font-family: var(--font-ui); font-style: normal; font-size: 0.875rem; }
 :root:where(:not([data-skin='gazette'])) .footer-links {
   gap:            0.4rem 1.5rem;
@@ -1168,3 +1169,7 @@
   :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem { padding: 0 1.25rem 1.25rem; }
   :root:where(:not([data-skin='gazette'])) .home-browse { padding: 1.25rem; }
 }
+
+/* Work titles on the reading page in the book serif, like book titles */
+:root:where(:not([data-skin='gazette'])) .work-heading { font-family: var(--font-serif); }
+:root:where(:not([data-skin='gazette'])) .author-books { margin: 1rem 0 3rem; }
