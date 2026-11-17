@@ -1,0 +1,1237 @@
+/* ─────────────────────────────────────────────────────────────
+   Kitabxana.az — "Nar", the site's design
+   A white bookshop page with one pomegranate red: Inter for the
+   interface, Literata for titles and reading, shelves of generated
+   covers, grey surfaces instead of rules and ornaments.
+
+   globals.css underneath is the older Gazette design. It still
+   renders when <html data-skin="gazette"> is set, for developers
+   only: in the console run
+     localStorage.skin = 'gazette'; location.reload()
+   and `localStorage.removeItem('skin')` to come back. Every rule
+   here is scoped with :root:where(:not([data-skin='gazette'])),
+   which adds no specificity, so the cascade is the same as if the
+   rules were unconditional.
+   ───────────────────────────────────────────────────────────── */
+
+/* Inter, Literata and Noto Naskh Arabic load with the other faces in globals.css;
+   a face's files download only when a rule uses it */
+
+/* ── Tokens — light ─────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) {
+  --bg:          #FFFFFF;
+  --ink:         #16181D;
+  --muted:       #5A5F6B;   /* 6.4:1 on white, 5.8:1 on --surf */
+  --rule:        #E8E9EC;
+  --control:     #868B96;   /* 3.4:1 on white */
+  --surf:        #F4F5F7;
+  --surf-2:      #E9EBEF;
+  --hl:          #FBF1F1;
+  --tint:        #FBF1F1;   /* the accent's own soft surface */
+  --pomeg:       #A81E28;   /* 7.3:1 on white */
+  --pomeg-dark:  #7F141C;
+  --pomeg-fill:  #A81E28;   /* white on it: 7.3:1 */
+  --warm-brown:  #5A5F6B;
+
+  --header-bg:     var(--bg);
+  --header-ink:    var(--ink);
+  --header-muted:  var(--muted);
+  --header-line:   var(--rule);
+  --header-hover:  var(--surf);
+  --header-accent: var(--pomeg);
+
+  --font-serif:  'Literata', Georgia, serif;
+  --font-body:   'Literata', Georgia, serif;
+  --font-ui:     'Inter', 'Helvetica Neue', Arial, sans-serif;
+  --font-arabic: 'Noto Naskh Arabic', 'Amiri', 'Geeza Pro', serif;
+
+  --radius:      12px;
+  --radius-lg:   16px;
+  --radius-xl:   20px;
+  --radius-cover: 8px;
+  --shadow-pop:  0 10px 32px -8px rgba(22, 24, 29, 0.18), 0 2px 6px rgba(22, 24, 29, 0.06);
+
+  --container:   80rem;
+
+  color-scheme: light;
+}
+
+/* ── Tokens — dark ──────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette']))[data-theme='dark'] {
+  --bg:          #121317;
+  --ink:         #ECEDEF;
+  --muted:       #A3A7B0;   /* 7.9:1 on bg */
+  --rule:        #2A2C33;
+  --control:     #6E737D;
+  --surf:        #1D1F25;
+  --surf-2:      #272A31;
+  --hl:          #3A1A1E;
+  --tint:        #2A1719;
+  --pomeg:       #FF8A8F;   /* 8.3:1 on bg */
+  --pomeg-dark:  #FFB0B4;
+  --pomeg-fill:  #A81E28;
+  --warm-brown:  #A3A7B0;
+  --shadow-pop:  0 12px 36px -8px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) {
+    --bg:          #121317;
+    --ink:         #ECEDEF;
+    --muted:       #A3A7B0;
+    --rule:        #2A2C33;
+    --control:     #6E737D;
+    --surf:        #1D1F25;
+    --surf-2:      #272A31;
+    --hl:          #3A1A1E;
+    --tint:        #2A1719;
+    --pomeg:       #FF8A8F;
+    --pomeg-dark:  #FFB0B4;
+    --pomeg-fill:  #A81E28;
+    --warm-brown:  #A3A7B0;
+    --shadow-pop:  0 12px 36px -8px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
+    color-scheme: dark;
+  }
+}
+
+/* ── Base ───────────────────────────────────────────────────── */
+/* Element rules sit at element specificity so component classes still win */
+:where(:root:where(:not([data-skin='gazette']))) body {
+  font-family:     var(--font-ui);
+  line-height:     1.6;
+  scrollbar-color: var(--control) transparent;
+}
+:where(:root:where(:not([data-skin='gazette']))) :is(h1, h2, h3) {
+  font-family:    var(--font-ui);
+  font-weight:    700;
+  letter-spacing: -0.015em;
+  line-height:    1.2;
+}
+:where(:root:where(:not([data-skin='gazette']))) h1 { font-size: 2.5rem; }
+:where(:root:where(:not([data-skin='gazette']))) h2 { font-size: 1.5rem; }
+:where(:root:where(:not([data-skin='gazette']))) blockquote { border-left-width: 2px; font-style: normal; }
+:root:where(:not([data-skin='gazette'])) :focus-visible { border-radius: 6px; }
+:root:where(:not([data-skin='gazette'])) .only-gazette,
+:root:where(:not([data-skin='gazette'])) .site-nav a.only-gazette { display: none; }
+
+/* Ornaments and double rules belong to the gazette */
+:root:where(:not([data-skin='gazette'])) .ornament { color: transparent; }
+/* The reading page's ornament is only a gap here: drop it, so the text sits under its title */
+:root:where(:not([data-skin='gazette'])) .work-header + .ornament { display: none; }
+:root:where(:not([data-skin='gazette'])) .home-sidebar-orn { display: none; }
+:root:where(:not([data-skin='gazette'])) .rule { border-top-width: 1px; }
+:root:where(:not([data-skin='gazette'])) .rule--double { border-top: 1px solid var(--rule); }
+:root:where(:not([data-skin='gazette'])) .dot { background: var(--control); }
+
+/* Section labels become plain headings */
+:root:where(:not([data-skin='gazette'])) .section-label {
+  font-size:      1.5rem;
+  font-weight:    700;
+  letter-spacing: -0.015em;
+  text-transform: none;
+  color:          var(--ink);
+  margin:         0 0 1rem;
+}
+:root:where(:not([data-skin='gazette'])) .section-label::before { content: none; }
+
+/* ── Header: white, a bookshop search bar, sections on a second row ── */
+:root:where(:not([data-skin='gazette'])) .site-header {
+  background:    var(--bg);
+  border-bottom: 1px solid var(--rule);
+}
+:root:where(:not([data-skin='gazette'])) .dateline { display: none; }
+:root:where(:not([data-skin='gazette'])) .header-inner {
+  display:               grid;
+  grid-template-columns: auto auto minmax(0, 1fr) auto;
+  grid-template-areas:   'logo catalog search tools'
+                         'nav  nav     nav    nav';
+  align-items:           center;
+  gap:                   0.25rem 1rem;
+  padding:               0.85rem 1.5rem 0.25rem;
+}
+:root:where(:not([data-skin='gazette'])) .logo {
+  grid-area:      logo;
+  font-family:    var(--font-serif);
+  font-size:      1.6rem;
+  font-weight:    700;
+  letter-spacing: -0.02em;
+  color:          var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .logo em {
+  font-size:  1.6rem;
+  font-style: normal;
+  color:      var(--pomeg);
+}
+:root:where(:not([data-skin='gazette'])) .logo-orn {
+  font-size: 0;
+  margin:    0;
+  opacity:   1;
+}
+:root:where(:not([data-skin='gazette'])) .logo-orn::before {
+  content:   '.';
+  font-size: 1.6rem;
+  color:     var(--pomeg);
+}
+/* "AZ" reads as the domain: lowercase, the dot already drawn */
+:root:where(:not([data-skin='gazette'])) .logo em { text-transform: lowercase; }
+
+:root:where(:not([data-skin='gazette'])) .catalog-btn {
+  grid-area:     catalog;
+  display:       inline-flex;
+  align-items:   center;
+  gap:           0.5rem;
+  min-height:    2.75rem;
+  padding:       0 1.1rem;
+  border-radius: var(--radius);
+  background:    var(--pomeg-fill);
+  color:         #fff;
+  font-weight:   600;
+  font-size:     0.95rem;
+  transition:    background 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .catalog-btn:hover { background: var(--pomeg-dark); color: #fff; }
+
+:root:where(:not([data-skin='gazette'])) .header-search {
+  grid-area: search;
+  display:   flex;
+  min-width: 0;
+}
+:root:where(:not([data-skin='gazette'])) .header-search-input {
+  flex:          1;
+  min-width:     0;
+  height:        2.75rem;
+  padding:       0 1rem;
+  border:        2px solid var(--ink);
+  border-right:  0;
+  border-radius: var(--radius) 0 0 var(--radius);
+  background:    var(--bg);
+  color:         var(--ink);
+  font:          inherit;
+  font-size:     1rem;
+}
+:root:where(:not([data-skin='gazette'])) .header-search-input::placeholder { color: var(--muted); }
+:root:where(:not([data-skin='gazette'])) .header-search-input:focus { outline: none; border-color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .header-search-input:focus + .header-search-btn { background: var(--pomeg-fill); }
+:root:where(:not([data-skin='gazette'])) .header-search-btn {
+  display:       inline-flex;
+  align-items:   center;
+  gap:           0.4rem;
+  height:        2.75rem;
+  padding:       0 1.1rem;
+  border:        0;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background:    var(--ink);
+  color:         var(--bg);
+  font:          inherit;
+  font-weight:   600;
+  cursor:        pointer;
+  transition:    background 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .header-search-btn:hover { background: var(--pomeg-fill); color: #fff; }
+:root:where(:not([data-skin='gazette'])) .header-search-btn svg { display: none; }
+
+:root:where(:not([data-skin='gazette'])) .header-tools { grid-area: tools; gap: 0.4rem; }
+
+:root:where(:not([data-skin='gazette'])) .site-nav {
+  grid-area:  nav;
+  gap:        0 1.5rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+}
+:root:where(:not([data-skin='gazette'])) .site-nav::-webkit-scrollbar { display: none; }
+:root:where(:not([data-skin='gazette'])) .site-nav a {
+  display:        inline-flex;
+  align-items:    center;
+  min-height:     2.75rem;
+  font-size:      0.95rem;
+  font-weight:    500;
+  letter-spacing: 0;
+  text-transform: none;
+  color:          var(--ink);
+  box-shadow:     inset 0 -2px 0 transparent;
+  transition:     color 0.15s, box-shadow 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .site-nav a:hover { color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .site-nav a[aria-current='page'] {
+  color:      var(--pomeg);
+  box-shadow: inset 0 -2px 0 var(--pomeg);
+}
+
+:root:where(:not([data-skin='gazette'])) .lang-btn {
+  font-family:  var(--font-ui);
+  font-weight:  600;
+  background:   transparent;
+  color:        var(--ink);
+  border-color: var(--rule);
+  padding:      0.3rem 0.65rem;
+  min-height:   2.5rem;
+}
+:root:where(:not([data-skin='gazette'])) .lang-btn:first-child { border-radius: var(--radius) 0 0 var(--radius); }
+:root:where(:not([data-skin='gazette'])) .lang-btn:last-child  { border-radius: 0 var(--radius) var(--radius) 0; }
+:root:where(:not([data-skin='gazette'])) .lang-btn.active,
+:root:where(:not([data-skin='gazette'])) .lang-btn[aria-current='true'] {
+  background:   var(--ink);
+  border-color: var(--ink);
+  color:        var(--bg);
+}
+:root:where(:not([data-skin='gazette'])) .lang-btn:hover:not(.active):not([aria-current='true']) {
+  background:   var(--surf);
+  border-color: var(--rule);
+  color:        var(--ink);
+}
+
+:root:where(:not([data-skin='gazette'])) .theme-btn {
+  width:         2.5rem;
+  height:        2.5rem;
+  border-radius: 50%;
+  background:    var(--surf);
+  border-color:  transparent;
+  color:         var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .theme-btn:hover {
+  background:   var(--surf-2);
+  border-color: transparent;
+  color:        var(--ink);
+}
+
+/* Tablets: the search keeps its row with the logo; the tools wrap under it */
+@media (max-width: 900px) {
+  :root:where(:not([data-skin='gazette'])) .header-inner {
+    grid-template-columns: auto minmax(0, 1fr) auto;
+    grid-template-areas:   'logo    catalog tools'
+                           'search  search  search'
+                           'nav     nav     nav';
+    row-gap:               0.6rem;
+  }
+  :root:where(:not([data-skin='gazette'])) .catalog-btn { justify-self: start; }
+  :root:where(:not([data-skin='gazette'])) .header-search-btn-label { display: none; }
+  :root:where(:not([data-skin='gazette'])) .header-search-btn svg { display: block; }
+}
+@media (max-width: 480px) {
+  :root:where(:not([data-skin='gazette'])) .header-inner { padding: 0.6rem 1rem 0; column-gap: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-btn { padding: 0 0.8rem; font-size: 0.9rem; }
+  :root:where(:not([data-skin='gazette'])) .site-nav { gap: 0 1.1rem; }
+}
+
+/* ── Controls ───────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .pill {
+  font-size:     0.85rem;
+  font-weight:   400;
+  padding:       0.35rem 0.9rem;
+  border:        none;
+  border-radius: 999px;
+  background:    var(--surf);
+  color:         var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .pill:hover { background: var(--surf-2); color: var(--ink); }
+:root:where(:not([data-skin='gazette'])) .pill.active,
+:root:where(:not([data-skin='gazette'])) .pill.active:hover {
+  background: var(--pomeg-fill);
+  color:      #fff;
+}
+:root:where(:not([data-skin='gazette'])) .chip-row { gap: 0.5rem; }
+:root:where(:not([data-skin='gazette'])) .filter-bar { gap: 0.5rem 2rem; }
+:root:where(:not([data-skin='gazette'])) .pagination .pill {
+  min-width:     2.5rem;
+  height:        2.5rem;
+  display:       inline-flex;
+  align-items:   center;
+  justify-content: center;
+  border-radius: var(--radius);
+  font-weight:   700;
+}
+
+:root:where(:not([data-skin='gazette'])) .btn {
+  font-size:     0.85rem;
+  font-weight:   700;
+  letter-spacing: 0;
+  padding:       0.55rem 1.1rem;
+  border:        none;
+  border-radius: var(--radius);
+  background:    var(--surf);
+}
+:root:where(:not([data-skin='gazette'])) .btn:hover { background: var(--surf-2); color: var(--ink); }
+:root:where(:not([data-skin='gazette'])) .btn-primary { background: var(--pomeg-fill); color: #fff; }
+:root:where(:not([data-skin='gazette'])) .btn-primary:hover { background: #A30D25; color: #fff; }
+
+/* Connected tabs become separate pills */
+:root:where(:not([data-skin='gazette'])) .lang-tabs { gap: 0.4rem; flex-wrap: wrap; }
+:root:where(:not([data-skin='gazette'])) .lang-tab,
+:root:where(:not([data-skin='gazette'])) .lang-tab + .lang-tab,
+:root:where(:not([data-skin='gazette'])) .appearance-step,
+:root:where(:not([data-skin='gazette'])) .appearance-step + .appearance-step {
+  border:        none;
+  border-radius: 999px;
+  background:    var(--surf);
+  font-weight:   700;
+}
+:root:where(:not([data-skin='gazette'])) .lang-tab { padding: 0.45rem 1rem; }
+:root:where(:not([data-skin='gazette'])) .appearance-steps { gap: 0.3rem; }
+/* The font grid stays four loose pills, not the gazette's joined block */
+:root:where(:not([data-skin='gazette'])) .appearance-steps--grid .appearance-step:nth-child(n) {
+  border:        none;
+  border-radius: 999px;
+}
+:root:where(:not([data-skin='gazette'])) .lang-tab:hover:not(.active):not([aria-selected='true']),
+:root:where(:not([data-skin='gazette'])) .appearance-step:hover:not(.active) {
+  background: var(--surf-2);
+  color:      var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .lang-tab.active,
+:root:where(:not([data-skin='gazette'])) .lang-tab[aria-selected='true'],
+:root:where(:not([data-skin='gazette'])) .appearance-step.active {
+  background: var(--pomeg-fill);
+  color:      #fff;
+}
+:root:where(:not([data-skin='gazette'])) .lang-tabs--versions .lang-tab { font-style: normal; font-weight: 400; }
+
+:root:where(:not([data-skin='gazette'])) .appearance-trigger {
+  width:         2.5rem;
+  height:        2.5rem;
+  border:        none;
+  border-radius: 50%;
+  background:    var(--surf);
+  font-family:   var(--font-body);
+  font-weight:   700;
+}
+:root:where(:not([data-skin='gazette'])) .appearance-trigger:hover,
+:root:where(:not([data-skin='gazette'])) .appearance-trigger[aria-expanded='true'] { background: var(--surf-2); color: var(--ink); }
+:root:where(:not([data-skin='gazette'])) .appearance-popover {
+  border:        none;
+  border-radius: var(--radius-lg);
+  box-shadow:    var(--shadow-pop);
+  padding:       1rem;
+  gap:           0.75rem;
+}
+:root:where(:not([data-skin='gazette'])) .appearance-label { letter-spacing: 0.04em; }
+/* On near-black the panel's shadow barely shows, so in dark it lifts to the surface grey,
+   and its buttons step up one shade to stay visible on it */
+:root:where(:not([data-skin='gazette']))[data-theme='dark'] .appearance-popover { background: var(--surf); }
+:root:where(:not([data-skin='gazette']))[data-theme='dark'] .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette']))[data-theme='dark'] .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+@media (prefers-color-scheme: dark) {
+  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) .appearance-popover { background: var(--surf); }
+  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
+  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+}
+
+:root:where(:not([data-skin='gazette'])) .reading-select select {
+  border:        none;
+  border-radius: var(--radius);
+  padding:       0.4rem 0.6rem;
+}
+
+/* ── Cards ──────────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .card-grid { gap: 1rem; }
+:root:where(:not([data-skin='gazette'])) .card-item {
+  margin:        0;
+  border:        none;
+  border-radius: var(--radius-lg);
+  background:    var(--surf);
+  padding:       1.25rem 1.5rem;
+  transition:    background 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .card-item:hover { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette'])) .work-card { gap: 0.5rem; min-height: 9.5rem; }
+:root:where(:not([data-skin='gazette'])) .work-card-title {
+  font-size:   1.125rem;
+  font-weight: 700;
+  line-height: 1.25;
+}
+:root:where(:not([data-skin='gazette'])) .work-card-title:lang(fa) { font-family: var(--font-arabic); }
+:root:where(:not([data-skin='gazette'])) .incipit {
+  font-style: normal;
+  font-size:  0.95rem;
+  color:      var(--ink);
+  opacity:    0.82;
+}
+:root:where(:not([data-skin='gazette'])) .work-card-meta { font-size: 0.8rem; padding-top: 0.5rem; }
+
+/* ── Breadcrumb ─────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .breadcrumb { font-size: 0.85rem; margin: 1.5rem 0 1.25rem; }
+:root:where(:not([data-skin='gazette'])) .breadcrumb-sep { color: var(--control); }
+:root:where(:not([data-skin='gazette'])) .breadcrumb-current { color: var(--ink); font-weight: 700; }
+
+/* ── Reading page ───────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .work-heading {
+  font-size:      2.5rem;
+  letter-spacing: -0.015em;
+}
+:root:where(:not([data-skin='gazette'])) .work-heading-original { font-size: 1.25rem; }
+:root:where(:not([data-skin='gazette'])) .work-header .meta-strip { font-size: 0.9rem; }
+:root:where(:not([data-skin='gazette'])) .work-gloss summary { text-decoration-color: var(--control); }
+:root:where(:not([data-skin='gazette'])) .work-gloss p { font-style: normal; }
+
+:root:where(:not([data-skin='gazette'])) .reading-column {
+  line-height: var(--reading-leading, 1.8);
+  color:       var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) { line-height: 2.1; }
+
+:root:where(:not([data-skin='gazette'])) .lang-label {
+  font-size:      0.75rem;
+  font-weight:    700;
+  letter-spacing: 0.08em;
+  color:          var(--muted);
+  border-bottom:  1px solid var(--rule);
+}
+:root:where(:not([data-skin='gazette'])) .lang-label::before { content: none; }
+:root:where(:not([data-skin='gazette'])) .parallel-cell + .parallel-cell { border-inline-start-width: 1px; }
+
+:root:where(:not([data-skin='gazette'])) .tailpiece {
+  max-width: 6rem;
+  color:     transparent;
+  gap:       0;
+}
+:root:where(:not([data-skin='gazette'])) .tailpiece::before { border-top: 1px solid var(--rule); }
+:root:where(:not([data-skin='gazette'])) .tailpiece::after  { display: none; }
+
+:root:where(:not([data-skin='gazette'])) .provenance { font-size: 0.9rem; }
+:root:where(:not([data-skin='gazette'])) .provenance-key { font-weight: 700; letter-spacing: 0.06em; }
+
+:root:where(:not([data-skin='gazette'])) .work-nav {
+  border-top:  none;
+  padding-top: 0.5rem;
+  gap:         1rem;
+}
+:root:where(:not([data-skin='gazette'])) .work-nav-btn {
+  border:        none;
+  border-radius: var(--radius-lg);
+  background:    var(--surf);
+  padding:       1rem 1.25rem;
+}
+:root:where(:not([data-skin='gazette'])) .work-nav-btn:hover { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette'])) .work-nav-btn:hover .work-nav-dir { color: var(--muted); }
+:root:where(:not([data-skin='gazette'])) .work-nav-btn:hover .work-nav-title { color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .work-nav-dir { font-weight: 700; letter-spacing: 0.06em; }
+:root:where(:not([data-skin='gazette'])) .work-nav-title { font-weight: 700; font-size: 1.05rem; }
+
+:root:where(:not([data-skin='gazette'])) .more-works { border-top: none; margin-top: 3.5rem; padding-top: 0; }
+:root:where(:not([data-skin='gazette'])) .more-works-title { font-size: 1.375rem; }
+:root:where(:not([data-skin='gazette'])) .more-works-title a {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.5rem;
+}
+:root:where(:not([data-skin='gazette'])) .more-works-title a::after {
+  content:      '';
+  width:        0.45em;
+  height:       0.45em;
+  border-top:   2px solid currentColor;
+  border-right: 2px solid currentColor;
+  transform:    rotate(45deg);
+  transition:   transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+:root:where(:not([data-skin='gazette'])) .more-works-title a:hover::after { transform: translateX(3px) rotate(45deg); }
+
+/* ── Tags ───────────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .tag-pills { gap: 0.5rem; }
+:root:where(:not([data-skin='gazette'])) .work-tag-row { margin-bottom: 2.5rem; }
+:root:where(:not([data-skin='gazette'])) .works-themes { margin-top: 1rem; }
+:root:where(:not([data-skin='gazette'])) .works-themes-all { font-size: 0.9rem; font-weight: 700; }
+:root:where(:not([data-skin='gazette'])) .tag-group-title {
+  font-size:      1.375rem;
+  font-weight:    700;
+  letter-spacing: -0.01em;
+  text-transform: none;
+  color:          var(--ink);
+  border-bottom:  none;
+  padding-bottom: 0;
+}
+:root:where(:not([data-skin='gazette'])) .tag-group + .tag-group { margin-top: 2.5rem; }
+:root:where(:not([data-skin='gazette'])) .tag-note { font-size: 0.85rem; }
+
+/* ── Homepage ───────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .home-grid {
+  grid-template-columns: 1fr 20rem;
+  gap:                   0 2.5rem;
+  padding-top:           2rem;
+}
+:root:where(:not([data-skin='gazette'])) .home-featured { padding: 0; border-right: none; }
+:root:where(:not([data-skin='gazette'])) .home-sidebar  { padding: 0; }
+
+:root:where(:not([data-skin='gazette'])) .featured-box {
+  border:        none;
+  padding:       0;
+  border-radius: 20px;
+  background:    var(--surf);
+}
+:root:where(:not([data-skin='gazette'])) .featured-box::before { content: none; }
+:root:where(:not([data-skin='gazette'])) .featured-box-inner {
+  border:  none;
+  padding: 2.5rem 2.75rem 2.25rem;
+}
+:root:where(:not([data-skin='gazette'])) .featured-name {
+  font-family:    var(--font-ui);
+  font-size:      3rem;
+  letter-spacing: -0.02em;
+  line-height:    1.05;
+}
+:root:where(:not([data-skin='gazette'])) .featured-meta { margin-top: 0.6rem; }
+:root:where(:not([data-skin='gazette'])) .featured-bio {
+  font-family: var(--font-body);
+  font-style:  normal;
+  font-size:   1.0625rem;
+  line-height: 1.7;
+  color:       var(--ink);
+  max-width:   38rem;
+  margin-top:  1.25rem;
+}
+/* The pull-quote mark becomes a crimson drop cap on the first letter */
+:root:where(:not([data-skin='gazette'])) .featured-quote { display: none; }
+:root:where(:not([data-skin='gazette'])) .featured-bio--dropcap::first-letter {
+  font-family:  var(--font-body);
+  font-weight:  700;
+  font-size:    3.4em;
+  float:        left;
+  line-height:  0.8;
+  margin:       0.08em 0.1em 0 0;
+  color:        var(--pomeg);
+}
+:root:where(:not([data-skin='gazette'])) .featured-more {
+  margin-top:     1.25rem;
+  font-size:      0.9rem;
+  font-weight:    700;
+  letter-spacing: 0;
+}
+
+:root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 2rem; }
+:root:where(:not([data-skin='gazette'])) .recent-item {
+  border-bottom: none;
+  padding:       0.6rem 0.75rem;
+  margin:        0 -0.75rem;
+  border-radius: var(--radius);
+  transition:    background 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .recent-item:hover { background: var(--surf); }
+:root:where(:not([data-skin='gazette'])) .recent-item-name { font-weight: 700; font-size: 1.05rem; }
+:root:where(:not([data-skin='gazette'])) .recent-item-meta { font-size: 0.8rem; }
+
+:root:where(:not([data-skin='gazette'])) .daily-poem {
+  border-top: none;
+  margin:     3.5rem 0 0;
+  padding:    0;
+}
+:root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 2rem; font-weight: 700; }
+:root:where(:not([data-skin='gazette'])) .daily-poem-author { font-size: 0.9rem; }
+:root:where(:not([data-skin='gazette'])) .daily-poem-excerpt {
+  font-style:  normal;
+  font-size:   1.125rem;
+  line-height: 1.8;
+  color:       var(--ink);
+  margin:      1.25rem auto 1.5rem;
+}
+:root:where(:not([data-skin='gazette'])) .daily-poem-actions { font-size: 0.9rem; font-weight: 700; letter-spacing: 0; }
+
+:root:where(:not([data-skin='gazette'])) .works-strip { border-top: none; margin-top: 3.5rem; padding: 0; }
+:root:where(:not([data-skin='gazette'])) .works-strip-grid { gap: 1rem; }
+:root:where(:not([data-skin='gazette'])) .works-strip-col,
+:root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
+:root:where(:not([data-skin='gazette'])) .works-strip-col:last-child {
+  padding:       1.25rem 1.5rem;
+  border:        none;
+  border-radius: var(--radius-lg);
+  background:    var(--surf);
+}
+:root:where(:not([data-skin='gazette'])) .works-strip-type { font-weight: 700; letter-spacing: 0.06em; }
+:root:where(:not([data-skin='gazette'])) .works-strip-title { font-weight: 700; font-size: 1.125rem; }
+:root:where(:not([data-skin='gazette'])) .works-strip-author { font-size: 0.85rem; }
+
+/* ── Author page ────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .author-header-grid {
+  grid-template-columns: 9rem 1fr;
+  gap:                   2rem;
+  align-items:           start;
+  border-bottom:         none;
+  padding-bottom:        0.5rem;
+  margin-bottom:         2rem;
+}
+:root:where(:not([data-skin='gazette'])) .portrait-placeholder {
+  width:         9rem;
+  height:        9rem;
+  border:        none;
+  border-radius: 50%;
+  overflow:      hidden;
+}
+:root:where(:not([data-skin='gazette'])) .portrait-box img,
+:root:where(:not([data-skin='gazette'])) .portrait-placeholder img { filter: none; }
+:root:where(:not([data-skin='gazette'])) .author-name {
+  font-size:      2.75rem;
+  letter-spacing: -0.02em;
+  line-height:    1.05;
+}
+:root:where(:not([data-skin='gazette'])) .author-period { color: var(--muted); font-size: 0.9rem; letter-spacing: 0; }
+:root:where(:not([data-skin='gazette'])) .author-tags { gap: 0.4rem; }
+:root:where(:not([data-skin='gazette'])) .author-tag,
+:root:where(:not([data-skin='gazette'])) .tag {
+  font-size:     0.8rem;
+  padding:       0.25rem 0.75rem;
+  border:        none;
+  border-radius: 999px;
+  background:    var(--surf);
+  color:         var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .author-bio {
+  font-family: var(--font-body);
+  font-size:   1.0625rem;
+  line-height: 1.7;
+  max-width:   44rem;
+}
+:root:where(:not([data-skin='gazette'])) .drop-cap::first-letter { font-family: var(--font-body); }
+
+:root:where(:not([data-skin='gazette'])) .coll-header {
+  font-size:      1.375rem;
+  font-weight:    700;
+  letter-spacing: -0.01em;
+  text-transform: none;
+  color:          var(--ink);
+  border-bottom:  none;
+  margin-bottom:  0.75rem;
+}
+:root:where(:not([data-skin='gazette'])) .coll-header::before { content: none; }
+:root:where(:not([data-skin='gazette'])) .coll-header a:hover { color: var(--pomeg) !important; }
+:root:where(:not([data-skin='gazette'])) .work-list { gap: 0.25rem 1rem; }
+:root:where(:not([data-skin='gazette'])) .work-list-item {
+  border-bottom: none;
+  border-radius: var(--radius);
+  padding:       0.5rem 0.75rem;
+}
+:root:where(:not([data-skin='gazette'])) .work-list-item:hover { background: var(--surf); }
+:root:where(:not([data-skin='gazette'])) .work-title { font-size: 1rem; }
+:root:where(:not([data-skin='gazette'])) .work-year { font-size: 0.8rem; }
+:root:where(:not([data-skin='gazette'])) .work-row { border-bottom-width: 1px; padding: 0.6rem 0; }
+:root:where(:not([data-skin='gazette'])) .work-row-title { font-size: 1rem; }
+:root:where(:not([data-skin='gazette'])) .work-row-meta { font-size: 0.7rem; }
+
+/* ── Artwork gallery ────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .gallery { margin: 2.5rem 0; }
+:root:where(:not([data-skin='gazette'])) .gallery-heading {
+  font-size:      1.375rem;
+  font-weight:    700;
+  letter-spacing: -0.01em;
+  text-transform: none;
+  color:          var(--ink);
+  border-bottom:  none;
+  padding-bottom: 0;
+}
+:root:where(:not([data-skin='gazette'])) .gallery-heading::before { content: none; }
+:root:where(:not([data-skin='gazette'])) .gallery-count { font-weight: 400; }
+:root:where(:not([data-skin='gazette'])) .gallery-thumb {
+  border:        none;
+  border-radius: var(--radius-lg);
+  padding:       0.75rem;
+  transition:    background 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .gallery-thumb:hover { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette'])) .gallery-title { font-style: normal; font-weight: 700; font-size: 0.95rem; }
+:root:where(:not([data-skin='gazette'])) .gallery-meta { font-size: 0.8rem; }
+
+/* ── Search ─────────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .search-bar { gap: 0.5rem; }
+:root:where(:not([data-skin='gazette'])) .search-input {
+  border:        1px solid transparent;
+  border-radius: var(--radius);
+  font-family:   var(--font-ui);
+  font-size:     1rem;
+  padding:       0.7rem 1rem;
+}
+:root:where(:not([data-skin='gazette'])) .search-input:focus { border-color: var(--pomeg); background: var(--bg); }
+:root:where(:not([data-skin='gazette'])) .search-btn {
+  border-radius:  var(--radius);
+  font-size:      0.85rem;
+  font-weight:    700;
+  letter-spacing: 0.02em;
+  text-transform: none;
+  padding:        0.7rem 1.25rem;
+  background:     var(--pomeg-fill);
+}
+:root:where(:not([data-skin='gazette'])) .search-btn:hover { background: #A30D25; }
+:root:where(:not([data-skin='gazette'])) .search-btn::before { content: none; }
+:root:where(:not([data-skin='gazette'])) .not-found-code {
+  font-family:    var(--font-ui);
+  font-weight:    700;
+  color:          var(--surf-2);
+  letter-spacing: -0.03em;
+}
+:root:where(:not([data-skin='gazette'])) .not-found-text { font-style: normal; }
+:root:where(:not([data-skin='gazette'])) .not-found-links { font-size: 0.95rem; font-weight: 700; }
+:root:where(:not([data-skin='gazette'])) .search-highlight,
+:root:where(:not([data-skin='gazette'])) .work-row mark { border-radius: 3px; }
+
+/* ── Forms and text pages ───────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .form-input {
+  border:        1px solid transparent;
+  border-radius: var(--radius);
+  font-family:   var(--font-ui);
+  padding:       0.65rem 0.9rem;
+}
+:root:where(:not([data-skin='gazette'])) .form-input:focus { border-color: var(--pomeg); background: var(--bg); }
+:root:where(:not([data-skin='gazette'])) .form-label { font-size: 0.85rem; font-weight: 700; letter-spacing: 0; }
+:root:where(:not([data-skin='gazette'])) .form-hint { font-size: 0.8rem; }
+:root:where(:not([data-skin='gazette'])) .work-picker-results,
+:root:where(:not([data-skin='gazette'])) .work-picker-chosen { border-radius: var(--radius); }
+:root:where(:not([data-skin='gazette'])) .page-prose { font-size: 1.0625rem; line-height: 1.75; }
+:root:where(:not([data-skin='gazette'])) .page-prose strong { font-weight: 700; }
+:root:where(:not([data-skin='gazette'])) .contribute-guide { border-color: var(--rule); }
+
+/* ── Footer ─────────────────────────────────────────────────── */
+/* The wordmark as in the bar, a muted line, bold links: no rules, no diamonds */
+:root:where(:not([data-skin='gazette'])) .footer {
+  border-top: none;
+  background: var(--surf);
+  margin-top: 3.5rem;
+  padding:    1.25rem 1.5rem;
+}
+@media (min-width: 901px) {
+  :root:where(:not([data-skin='gazette'])) .footer-inner { grid-template-columns: auto minmax(0, 1fr) auto; }
+}
+:root:where(:not([data-skin='gazette'])) .footer-mark {
+  display:        block;
+  font-family:    var(--font-ui);
+  font-size:      1.2rem;
+  font-weight:    700;
+  line-height:    1;
+  letter-spacing: -0.01em;
+  color:          var(--ink);
+}
+:root:where(:not([data-skin='gazette'])) .footer-mark em { font-style: normal; font-size: 1.2rem; color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn { font-size: 0; }
+:root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn::before { content: '.'; font-size: 1.2rem; color: var(--muted); }
+:root:where(:not([data-skin='gazette'])) .footer-text { font-family: var(--font-ui); font-style: normal; font-size: 0.875rem; }
+:root:where(:not([data-skin='gazette'])) .footer-links {
+  gap:            0.4rem 1.5rem;
+  font-size:      0.875rem;
+  font-weight:    700;
+  letter-spacing: 0;
+  text-transform: none;
+}
+:root:where(:not([data-skin='gazette'])) .footer-links a { color: var(--ink); }
+:root:where(:not([data-skin='gazette'])) .footer-links a:hover,
+:root:where(:not([data-skin='gazette'])) .footer-links a:focus-visible { color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .footer-links a + a::before { content: none; }
+
+/* ── Responsive ─────────────────────────────────────────────── */
+/* The nav always has its own grid row here: undo the gazette's narrow-screen strip */
+@media (max-width: 1119px) {
+  :root:where(:not([data-skin='gazette'])) .site-nav {
+    border-top: none;
+    padding:    0;
+    width:      auto;
+  }
+}
+@media (max-width: 768px) {
+  :where(:root:where(:not([data-skin='gazette']))) h1 { font-size: 2rem; }
+  :root:where(:not([data-skin='gazette'])) .work-heading { font-size: 2rem; }
+  :root:where(:not([data-skin='gazette'])) .home-grid { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 1.25rem; }
+  /* The grid gap already stands between them; their own margin tops it up to 3.5rem */
+  :root:where(:not([data-skin='gazette'])) .home-grid > .catalog,
+  :root:where(:not([data-skin='gazette'])) .home-grid > .works-strip { margin-top: 1rem; }
+  :root:where(:not([data-skin='gazette'])) .home-featured,
+  :root:where(:not([data-skin='gazette'])) .home-sidebar { padding: 0; border: none; }
+  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 1.75rem 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-name { font-size: 2.25rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-col + .works-strip-col { margin-top: 0; padding-top: 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .author-header-grid { grid-template-columns: 1fr; gap: 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .portrait-placeholder { width: 7rem; height: 7rem; }
+  :root:where(:not([data-skin='gazette'])) .parallel-row { border-bottom-width: 1px; }
+}
+@media (pointer: coarse) {
+  :root:where(:not([data-skin='gazette'])) .theme-btn { width: 2.75rem; height: 2.75rem; }
+}
+/* Phones: a smaller wordmark keeps the logo and the tools on one row */
+@media (max-width: 480px) {
+  :root:where(:not([data-skin='gazette'])) .logo,
+  :root:where(:not([data-skin='gazette'])) .logo em,
+  :root:where(:not([data-skin='gazette'])) .logo-orn::before { font-size: 1.2rem; }
+}
+/* Under 360px: the same tightening as globals.css, at the clean skin's specificity */
+@media (max-width: 359px) {
+  :root:where(:not([data-skin='gazette'])) .lang-btn { padding-left: 0.4rem; padding-right: 0.4rem; }
+}
+@media (pointer: coarse) and (max-width: 359px) {
+  :root:where(:not([data-skin='gazette'])) .theme-btn { width: 2.5rem; height: 2.5rem; }
+}
+
+/* With no ornament line to sit on, a lone "Aa" takes its own row */
+:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo {
+  height:        auto;
+  top:           0;
+  margin-bottom: 0;
+}
+:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
+/* A lone poem shrinks to its longest line and centres, so its "Aa" centres above it
+   rather than hanging off the edge of a row wider than the poem */
+:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo:has(+ .reading-column.is-poem) { justify-content: center; gap: 0; }
+/* …and its panel opens centred under it, not leftwards off a phone's edge */
+:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo:has(+ .reading-column.is-poem) .appearance-popover {
+  inset-inline-end: auto;
+  left:             50%;
+  transform:        translateX(-50%);
+}
+
+/* ── Share ──────────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .share-label { letter-spacing: 0.04em; font-weight: 700; }
+:root:where(:not([data-skin='gazette'])) .share-btn {
+  border:        none;
+  border-radius: 50%;
+  width:         2.5rem;
+  height:        2.5rem;
+}
+:root:where(:not([data-skin='gazette'])) .share-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+
+/* ── Download: grey pills, sentence-case label ──────────────── */
+:root:where(:not([data-skin='gazette'])) .download-label {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size:      0.875rem;
+  font-weight:    400;
+  color:          var(--muted);
+}
+:root:where(:not([data-skin='gazette'])) .download-btn {
+  border:         none;
+  border-radius:  999px;
+  padding:        0 1rem;
+  min-height:     2.5rem;
+  font-size:      0.85rem;
+  font-weight:    700;
+  letter-spacing: 0;
+  background:     var(--surf);
+}
+:root:where(:not([data-skin='gazette'])) .download-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .download-note { font-size: 0.8rem; }
+
+/* ── Read on ────────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .unfold-btn {
+  border:         none;
+  border-radius:  999px;
+  letter-spacing: 0.04em;
+  font-weight:    700;
+  padding:        0.65rem 1.6rem;
+}
+:root:where(:not([data-skin='gazette'])) .unfold-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+
+/* ── Prose reading ──────────────────────────────────────────── */
+/* Headings inside a text: the bold interface sans, sentence case, no centring flourish */
+:root:where(:not([data-skin='gazette'])) .reading-column.is-prose :is(h2, h3, h4) {
+  font-family: var(--font-ui);
+  font-weight: 700;
+  font-size:   1.05em;
+}
+/* No hairlines in Clean: the footnotes are set off by space alone */
+:root:where(:not([data-skin='gazette'])) .reading-column.is-prose hr { border-top: none; margin-top: 3em; }
+:root:where(:not([data-skin='gazette'])) .reading-contents summary { font-weight: 700; color: var(--ink); }
+:root:where(:not([data-skin='gazette'])) .reading-contents summary::after {
+  content:       '';
+  width:         0.4em;
+  height:        0.4em;
+  border-right:  1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform:     translateY(-0.12em) rotate(45deg);
+  transition:    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+:root:where(:not([data-skin='gazette'])) .reading-contents[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
+:root:where(:not([data-skin='gazette'])) .reading-contents ol {
+  border-top:    none;
+  padding:       1rem 1.25rem 0.75rem 2.5rem;
+  background:    var(--surf);
+  border-radius: var(--radius-lg);
+}
+:root:where(:not([data-skin='gazette'])) .resume-btn {
+  border:        none;
+  border-radius: 999px;
+  font-weight:   700;
+  padding:       0.55rem 1.3rem;
+}
+:root:where(:not([data-skin='gazette'])) .resume-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+
+/* ── Catalogue ──────────────────────────────────────────────── */
+:root:where(:not([data-skin='gazette'])) .catalog { border-top: none; margin-top: 3.5rem; padding: 0; }
+:root:where(:not([data-skin='gazette'])) .catalog-grid { gap: 1rem; }
+:root:where(:not([data-skin='gazette'])) .catalog-grid li,
+:root:where(:not([data-skin='gazette'])) .catalog-grid li + li { border: none; }
+:root:where(:not([data-skin='gazette'])) .catalog-tile {
+  align-items:   flex-start;
+  text-align:    left;
+  min-height:    9.5rem;
+  padding:       1.25rem 1.5rem;
+  border-radius: var(--radius-lg);
+  background:    var(--surf);
+  transition:    background 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .catalog-tile:hover { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette'])) .catalog-tile:hover .catalog-count { color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .catalog-kind { font-weight: 700; letter-spacing: 0.06em; }
+:root:where(:not([data-skin='gazette'])) .catalog-count {
+  margin-top:     auto;
+  font-family:    var(--font-ui);
+  font-weight:    700;
+  font-size:      2.5rem;
+  color:          var(--ink);
+  transition:     color 0.15s;
+}
+:root:where(:not([data-skin='gazette'])) .catalog-unit { font-family: var(--font-ui); font-style: normal; color: var(--muted); }
+/* The whole collection leads, in the one accent */
+:root:where(:not([data-skin='gazette'])) .catalog-tile--works,
+:root:where(:not([data-skin='gazette'])) .catalog-tile--works:hover { background: var(--pomeg-fill); }
+:root:where(:not([data-skin='gazette'])) .catalog-tile--works .catalog-kind,
+:root:where(:not([data-skin='gazette'])) .catalog-tile--works .catalog-unit,
+:root:where(:not([data-skin='gazette'])) .catalog-tile--works .catalog-count,
+:root:where(:not([data-skin='gazette'])) .catalog-tile--works:hover .catalog-count { color: #fff; }
+@media (max-width: 768px) {
+  :root:where(:not([data-skin='gazette'])) .catalog-grid li,
+  :root:where(:not([data-skin='gazette'])) .catalog-grid li + li { border: none; }
+  :root:where(:not([data-skin='gazette'])) .catalog-tile { min-height: 7.5rem; padding: 1rem 1.15rem; }
+}
+
+/* ── Other poets: a full-width grey band with white cards ───── */
+:root:where(:not([data-skin='gazette'])) .more-works--others {
+  margin-top:  4rem;
+  padding:     2.5rem 0 3rem;
+  background:  var(--surf);
+  box-shadow:  0 0 0 100vmax var(--surf);
+  clip-path:   inset(0 -100vmax);
+}
+:root:where(:not([data-skin='gazette'])) .more-works--others .card-item { background: var(--bg); }
+:root:where(:not([data-skin='gazette'])) .more-works--others .card-item:hover { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette'])) .more-works-theme { color: var(--pomeg); }
+/* When the band ends the page it runs into the footer, divided by a hairline */
+:root:where(:not([data-skin='gazette'])) .page-content:has(> .more-works--others:last-child) { padding-bottom: 0; }
+:root:where(:not([data-skin='gazette'])) body:has(.more-works--others) .footer {
+  margin-top: 0;
+  border-top: 1px solid var(--rule);
+}
+
+/* ── Finish review: no rules, no ornaments, no tracked capitals ── */
+/* Space and the grey surface separate things; lines are the gazette's */
+:root:where(:not([data-skin='gazette'])) .lang-label { border-bottom: none; padding-bottom: 0; }
+:root:where(:not([data-skin='gazette'])) .parallel-cell + .parallel-cell { border-inline-start: none; }
+:root:where(:not([data-skin='gazette'])) .parallel-row { column-gap: 3.5rem; }
+:root:where(:not([data-skin='gazette'])) .tailpiece { display: none; }
+:root:where(:not([data-skin='gazette'])) .provenance { margin-top: 2.5rem; }
+:root:where(:not([data-skin='gazette'])) .rule,
+:root:where(:not([data-skin='gazette'])) .rule--tight { border-top-color: transparent; margin: 0.75rem 0; }
+:root:where(:not([data-skin='gazette'])) body:has(.more-works--others) .footer { border-top: none; }
+:root:where(:not([data-skin='gazette'])) .footer { background: var(--surf-2); }
+
+/* Labels in sentence case, muted, untracked */
+:root:where(:not([data-skin='gazette'])) .lang-label,
+:root:where(:not([data-skin='gazette'])) .provenance-key,
+:root:where(:not([data-skin='gazette'])) .share-label,
+:root:where(:not([data-skin='gazette'])) .work-nav-dir {
+  text-transform: none;
+  letter-spacing: 0;
+  font-size:      0.875rem;
+  font-weight:    400;
+  color:          var(--muted);
+}
+:root:where(:not([data-skin='gazette'])) .provenance-key { margin-inline-end: 0.4rem; }
+
+/* Catalogue: the number leads; what it counts follows as a caption */
+:root:where(:not([data-skin='gazette'])) .catalog-count { order: 0; margin-top: 0; }
+:root:where(:not([data-skin='gazette'])) .catalog-unit { order: 1; }
+:root:where(:not([data-skin='gazette'])) .catalog-kind {
+  order:          2;
+  margin-top:     auto;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight:    400;
+  font-size:      0.8rem;
+  color:          var(--muted);
+}
+:root:where(:not([data-skin='gazette'])) .catalog-tile { justify-content: flex-start; }
+
+/* Recent works: title first, then author, then form and year */
+:root:where(:not([data-skin='gazette'])) .works-strip-col { display: flex; flex-direction: column; }
+:root:where(:not([data-skin='gazette'])) .works-strip-type {
+  order:          3;
+  margin:         0.35rem 0 0;
+  text-transform: none;
+  letter-spacing: 0;
+  font-weight:    400;
+  font-size:      0.8rem;
+  color:          var(--muted);
+}
+
+/* Glossary toggle: a drawn chevron instead of a "+" */
+:root:where(:not([data-skin='gazette'])) .work-gloss summary::after {
+  content:      '';
+  width:        0.4em;
+  height:       0.4em;
+  border-right: 1.5px solid currentColor;
+  border-bottom: 1.5px solid currentColor;
+  transform:    translateY(-0.12em) rotate(45deg);
+  transition:   transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
+}
+:root:where(:not([data-skin='gazette'])) .work-gloss[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
+@media (max-width: 768px) {
+  :root:where(:not([data-skin='gazette'])) .parallel-row { border-bottom: none; padding-bottom: 0.5rem; }
+}
+
+/* Poem of the day inside the left column, under the poet card */
+:root:where(:not([data-skin='gazette'])) .home-featured .daily-poem { margin-top: 3rem; }
+:root:where(:not([data-skin='gazette'])) .unfold-btn { text-transform: none; letter-spacing: 0; font-size: 0.9rem; }
+:root:where(:not([data-skin='gazette'])) .catalog-kind--redundant { display: none; }
+
+/* ── Homepage on one screen (see globals.css) ───────────────── */
+@media (min-width: 1100px) {
+  :root:where(:not([data-skin='gazette'])) body:has(.home) .footer { margin-top: 1.5rem; }
+}
+@media (min-width: 1100px) and (min-height: 1285px) {
+  :root:where(:not([data-skin='gazette'])) .home-grid { padding-top: 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .home-featured,
+  :root:where(:not([data-skin='gazette'])) .home-sidebar { padding-top: 0; padding-bottom: 0; }
+  :root:where(:not([data-skin='gazette'])) .featured-box { margin-bottom: 0; }
+  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 1.75rem 2.25rem 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-name { font-size: 2.75rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-bio { margin-top: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-more { margin-top: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-featured .daily-poem { margin-top: 2rem; padding: 0; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 1.75rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-excerpt { margin: 0.75rem auto 1rem; }
+  :root:where(:not([data-skin='gazette'])) .home .section-label { margin-bottom: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .recent-item { padding: 0.4rem 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .pill { padding: 0.25rem 0.9rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .chip-row { gap: 0.4rem; }
+  /* All eight sections on one row of tiles */
+  :root:where(:not([data-skin='gazette'])) .catalog { margin-top: 2rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-grid { grid-template-columns: minmax(0, 1.5fr) repeat(7, minmax(0, 1fr)); gap: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-tile { min-height: 7rem; height: 100%; padding: 1rem 1.1rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 2rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip { margin-top: 2rem; padding: 0; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-col,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:last-child { padding: 1rem 1.25rem; }
+}
+@media (min-width: 1100px) and (max-height: 1284px) {
+  :root:where(:not([data-skin='gazette'])) .home-grid {
+    grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) 20rem;
+    column-gap:            2rem;
+    padding-top:           1.25rem;
+  }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar { padding: 0; border-left: none; }
+  :root:where(:not([data-skin='gazette'])) .home .section-label { font-size: 1.2rem; margin-bottom: 0.5rem; }
+
+  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 1.25rem 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-name { font-size: 2.25rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-meta { margin-top: 0.4rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-bio { font-size: 1rem; line-height: 1.6; margin-top: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-more { margin-top: 0.5rem; }
+
+  :root:where(:not([data-skin='gazette'])) .home-featured .daily-poem { margin-top: 0; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-excerpt { font-size: 1rem; line-height: 1.7; margin: 0.75rem auto; }
+
+  :root:where(:not([data-skin='gazette'])) .catalog { margin-top: 0; padding: 0; }
+  :root:where(:not([data-skin='gazette'])) .catalog-grid { gap: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-grid li,
+  :root:where(:not([data-skin='gazette'])) .catalog-grid li + li { border: none; }
+  :root:where(:not([data-skin='gazette'])) .catalog-tile { min-height: 0; height: 100%; padding: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-unit,
+  :root:where(:not([data-skin='gazette'])) .catalog-kind { font-size: 0.7rem; }
+
+  :root:where(:not([data-skin='gazette'])) .works-strip { margin-top: 1rem; padding: 0; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-grid { gap: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-col,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:last-child { padding: 0.6rem 1rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-title { font-size: 1rem; }
+
+  :root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .recent-item { padding: 0.3rem 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .pill { padding: 0.2rem 0.8rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .chip-row { gap: 0.4rem; }
+
+  :root:where(:not([data-skin='gazette'])) body:has(.home) .footer { margin-top: 1rem; }
+}
+@media (min-width: 1100px) and (max-height: 800px) {
+  :root:where(:not([data-skin='gazette'])) .home-grid { padding-top: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 1rem 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 1.3rem; }
+  :root:where(:not([data-skin='gazette'])) .home .section-label { font-size: 1.1rem; margin-bottom: 0.4rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-excerpt { line-height: 1.6; margin: 0.5rem auto; }
+  :root:where(:not([data-skin='gazette'])) .works-strip { margin-top: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-col,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:last-child { padding: 0.45rem 1rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .recent-item { padding: 0.2rem 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .pill { padding: 0.15rem 0.8rem; }
+  :root:where(:not([data-skin='gazette'])) body:has(.home) .footer { margin-top: 0.75rem; padding: 0.6rem 1.5rem; }
+}
+
+/* ── Last tracked capitals: sentence case like every other clean label ── */
+:root:where(:not([data-skin='gazette'])) .appearance-label,
+:root:where(:not([data-skin='gazette'])) .work-row-meta,
+:root:where(:not([data-skin='gazette'])) .page-loading p,
+:root:where(:not([data-skin='gazette'])) .author-type {
+  text-transform: none;
+  letter-spacing: 0;
+}
+:root:where(:not([data-skin='gazette'])) .appearance-label { font-size: 0.85rem; }
+:root:where(:not([data-skin='gazette'])) .work-row-meta { font-size: 0.8rem; color: var(--muted); }
+:root:where(:not([data-skin='gazette'])) .page-loading p { font-size: 0.9rem; }
+:root:where(:not([data-skin='gazette'])) .author-type { font-size: 0.8rem; font-weight: 700; color: var(--pomeg); }
+@media (min-width: 1100px) and (max-height: 690px) {
+  :root:where(:not([data-skin='gazette'])) .home-grid { padding-top: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .home .section-label { font-size: 1rem; margin-bottom: 0.3rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 0.75rem 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-name { font-size: 1.9rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-bio { margin-top: 0.3rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-more { margin-top: 0.3rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 1.2rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-excerpt { line-height: 1.5; margin: 0.4rem auto; }
+  :root:where(:not([data-skin='gazette'])) .catalog-tile { padding: 0.35rem 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 1.3rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip { margin-top: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-col,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:last-child { padding: 0.35rem 0.9rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 0.4rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .pill { padding: 0.1rem 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .chip-row { gap: 0.3rem; }
+  :root:where(:not([data-skin='gazette'])) body:has(.home) .footer { margin-top: 0.5rem; padding: 0.5rem 1.5rem; }
+}
+@media (min-width: 1100px) and (min-height: 920px) and (max-height: 1284px) {
+  :root:where(:not([data-skin='gazette'])) .home-grid { padding-top: 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .home .section-label { font-size: 1.25rem; margin-bottom: 0.6rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 1.75rem 1.5rem 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-name { font-size: 2.25rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-meta { margin-top: 0.6rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-bio { font-size: 1.0625rem; line-height: 1.7; margin-top: 0.9rem; }
+  :root:where(:not([data-skin='gazette'])) .featured-more { margin-top: 0.9rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 1.75rem; }
+  :root:where(:not([data-skin='gazette'])) .daily-poem-excerpt { font-size: 1rem; line-height: 1.8; margin: 1rem auto 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-tile { min-height: 5.5rem; padding: 0.85rem 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-unit,
+  :root:where(:not([data-skin='gazette'])) .catalog-kind { font-size: 0.7rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip { margin-top: 1.5rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-grid { gap: 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-col,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
+  :root:where(:not([data-skin='gazette'])) .works-strip-col:last-child { padding: 1rem 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .works-strip-title { font-size: 1.1rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .recent-item { padding: 0.4rem 0.75rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .pill { padding: 0.25rem 0.9rem; }
+  :root:where(:not([data-skin='gazette'])) .home-sidebar .chip-row { gap: 0.5rem; }
+  :root:where(:not([data-skin='gazette'])) body:has(.home) .footer { margin-top: 1.5rem; }
+}
+
+:root:where(:not([data-skin='gazette'])) .pager-status { letter-spacing: 0; }
+:root:where(:not([data-skin='gazette'])) .pager-next {
+  border:        none;
+  border-radius: var(--radius-lg);
+  background:    var(--pomeg);
+  font-weight:   700;
+}
+:root:where(:not([data-skin='gazette'])) .pager-next:hover { background: var(--ink); }
+:root:where(:not([data-skin='gazette'])) .pager-num,
+:root:where(:not([data-skin='gazette'])) .pager-step { border-radius: var(--radius-lg); }
+:root:where(:not([data-skin='gazette'])) a.pager-num,
+:root:where(:not([data-skin='gazette'])) a.pager-step { background: var(--surf); }
+:root:where(:not([data-skin='gazette'])) a.pager-num:hover,
+:root:where(:not([data-skin='gazette'])) a.pager-step:hover { background: var(--surf-2); }
+:root:where(:not([data-skin='gazette'])) .pager-num.active { background: var(--ink); }

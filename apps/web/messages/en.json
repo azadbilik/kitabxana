@@ -37,7 +37,12 @@
     "menu_label": "Main sections",
     "about": "About",
     "contact": "Contact",
-    "random": "Random"
+    "random": "Random",
+    "catalog": "Catalogue",
+    "ghazals": "Ghazals",
+    "prose": "Prose",
+    "search_go": "Search",
+    "search_placeholder": "Search authors, works or lines"
   },
   "authors": {
     "title": "Authors",
@@ -144,11 +149,6 @@
     "empty": "No works with this tag yet.",
     "pages": "Pages",
     "work_tags": "Tags for this work"
-  },
-  "skin": {
-    "label": "Look",
-    "clean": "Clean look",
-    "gazette": "Gazette look"
   },
   "theme": {
     "light": "Light",

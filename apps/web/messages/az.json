@@ -37,7 +37,12 @@
     "menu_label": "Əsas bölmələr",
     "about": "Layihə haqqında",
     "contact": "Əlaqə",
-    "random": "Təsadüfi"
+    "random": "Təsadüfi",
+    "catalog": "Kataloq",
+    "ghazals": "Qəzəllər",
+    "prose": "Nəsr",
+    "search_go": "Axtar",
+    "search_placeholder": "Müəllif, əsər və ya misra axtar"
   },
   "authors": {
     "title": "Müəlliflər",
@@ -144,11 +149,6 @@
     "empty": "Bu teqlə hələ əsər yoxdur.",
     "pages": "Səhifələr",
     "work_tags": "Əsərin teqləri"
-  },
-  "skin": {
-    "label": "Görünüş",
-    "clean": "Sadə görünüş",
-    "gazette": "Qəzet görünüşü"
   },
   "theme": {
     "light": "İşıqlı",
