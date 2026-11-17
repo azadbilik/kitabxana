@@ -143,8 +143,6 @@ export const api = {
   // Auth
   login: (data: { email: string; password: string }) =>
     fetcher('/auth/login', { method: 'POST', body: JSON.stringify(data) }),
-  register: (data: { email: string; username: string; password: string; name?: string }) =>
-    fetcher('/auth/register', { method: 'POST', body: JSON.stringify(data) }),
 };
 
 export interface PageMeta {

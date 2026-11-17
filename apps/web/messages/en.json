@@ -404,5 +404,31 @@
     "home": "Home",
     "books": "Books",
     "more_by_author": "More books by the author"
+  },
+  "account": {
+    "title": "Sign in to Kitabxana",
+    "lead": "Put books on your shelf, keep lists, mark what you have read and pick up where you stopped — on any device.",
+    "google": "Continue with Google",
+    "or": "or",
+    "email_label": "Email address",
+    "send_code": "Email me a sign-in code",
+    "sending": "Sending…",
+    "code_sent": "We sent a 6-digit code to {email}. It is valid for 10 minutes.",
+    "code_label": "Code",
+    "sign_in": "Sign in",
+    "resend": "Send the code again",
+    "other_email": "Use another address",
+    "wrong_code": "The code is wrong or has expired.",
+    "send_failed": "The code could not be sent. Check the address and try again.",
+    "too_many": "Too many attempts. Please try again a little later.",
+    "google_failed": "Signing in with Google didn't work. Try again, or sign in by email.",
+    "privacy_note": "No passwords. We keep only your email address and what you save to your shelf; you can delete the account at any time.",
+    "close": "Close",
+    "sign_in_short": "Sign in",
+    "my_shelf": "My shelf",
+    "lists": "My lists",
+    "settings": "Settings",
+    "sign_out": "Sign out",
+    "menu_label": "Account: {name}"
   }
 }

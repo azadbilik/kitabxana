@@ -1,14 +1,12 @@
 import {
   Injectable,
   UnauthorizedException,
-  ConflictException,
 } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import { ConfigService } from '@nestjs/config';
 import * as bcrypt from 'bcryptjs';
 import { UsersService } from '../users/users.service';
 import { LoginDto } from './dto/login.dto';
-import { RegisterDto } from './dto/register.dto';
 
 @Injectable()
 export class AuthService {
@@ -17,24 +15,6 @@ export class AuthService {
     private jwt: JwtService,
     private config: ConfigService,
   ) {}
-
-  async register(dto: RegisterDto) {
-    const existing = await this.users.findByEmail(dto.email);
-    if (existing) throw new ConflictException('Email already registered');
-
-    const existingUsername = await this.users.findByUsername(dto.username);
-    if (existingUsername) throw new ConflictException('Username taken');
-
-    const passwordHash = await bcrypt.hash(dto.password, 12);
-    const user = await this.users.create({
-      email: dto.email,
-      username: dto.username,
-      name: dto.name,
-      passwordHash,
-    });
-
-    return this.issueTokens(user.id, user.role);
-  }
 
   async login(dto: LoginDto) {
     const user = await this.users.findByEmail(dto.email);

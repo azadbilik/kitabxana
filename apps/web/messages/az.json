@@ -404,5 +404,31 @@
     "home": "Ana səhifə",
     "books": "Kitablar",
     "more_by_author": "Müəllifin digər kitabları"
+  },
+  "account": {
+    "title": "Kitabxanaya daxil olun",
+    "lead": "Kitabları rəfinizə qoyun, siyahılar tutun, oxuduqlarınızı işarələyin və qaldığınız yerdən davam edin — istənilən cihazda.",
+    "google": "Google ilə davam et",
+    "or": "və ya",
+    "email_label": "E-poçt ünvanı",
+    "send_code": "Giriş kodunu göndər",
+    "sending": "Göndərilir…",
+    "code_sent": "{email} ünvanına 6 rəqəmli kod göndərdik. Kod 10 dəqiqə etibarlıdır.",
+    "code_label": "Kod",
+    "sign_in": "Daxil ol",
+    "resend": "Kodu yenidən göndər",
+    "other_email": "Başqa ünvan",
+    "wrong_code": "Kod yanlışdır və ya vaxtı keçib.",
+    "send_failed": "Kodu göndərmək alınmadı. Ünvanı yoxlayıb yenidən cəhd edin.",
+    "too_many": "Çox cəhd oldu. Bir az sonra yenidən yoxlayın.",
+    "google_failed": "Google ilə giriş alınmadı. Yenidən cəhd edin və ya e-poçtla daxil olun.",
+    "privacy_note": "Parol yoxdur. Yalnız e-poçt ünvanınızı və rəfinizdə saxladıqlarınızı saxlayırıq; hesabı istənilən vaxt silə bilərsiniz.",
+    "close": "Bağla",
+    "sign_in_short": "Daxil ol",
+    "my_shelf": "Rəfim",
+    "lists": "Siyahılarım",
+    "settings": "Ayarlar",
+    "sign_out": "Çıxış",
+    "menu_label": "Hesab: {name}"
   }
 }

@@ -7,6 +7,7 @@ import { usePathname, useRouter } from 'next/navigation';
 import { authorsPath, worksPath } from '@/lib/facets';
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
+import { AccountMenu } from '@/components/account/AccountMenu';
 import { useHideOnScroll } from './useHideOnScroll';
 import { localePath } from '@/lib/i18n';
 
@@ -149,6 +150,7 @@ export function Header() {
         <div className="header-tools">
           <LanguageSwitcher />
           <ThemeToggle />
+          <AccountMenu />
         </div>
       </div>
       <div className="dateline">

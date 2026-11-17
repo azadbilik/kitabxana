@@ -4,6 +4,7 @@ import type { Metadata } from 'next';
 import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { SkipLink } from '@/components/layout/SkipLink';
+import { AccountProvider } from '@/components/account/AccountProvider';
 
 export async function generateMetadata({
   params,
@@ -32,10 +33,12 @@ export default async function LocaleLayout({
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
-      <SkipLink label={t('skip')} />
-      <Header />
-      <main id="main" tabIndex={-1}>{children}</main>
-      <Footer />
+      <AccountProvider>
+        <SkipLink label={t('skip')} />
+        <Header />
+        <main id="main" tabIndex={-1}>{children}</main>
+        <Footer />
+      </AccountProvider>
     </NextIntlClientProvider>
   );
 }

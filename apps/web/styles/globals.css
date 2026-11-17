@@ -2814,3 +2814,188 @@ a.gallery-coll:hover { text-decoration: underline; }
   .book-parts { grid-template-columns: 1fr; }
   .books-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem 1rem; }
 }
+
+/* ── Account: header slot, menu, sign-in ─────────────────────── */
+.account-slot { position: relative; display: flex; align-items: center; gap: 0.4rem; }
+.account-slot--pending { width: 5.5rem; height: 2.5rem; }
+.account-signin {
+  min-height:    2.5rem;
+  padding:       0 1rem;
+  border:        1px solid var(--rule);
+  border-radius: var(--radius);
+  background:    transparent;
+  color:         var(--ink);
+  font-family:   var(--font-ui);
+  font-size:     0.9rem;
+  font-weight:   600;
+  cursor:        pointer;
+  white-space:   nowrap;
+}
+.account-signin:hover { background: var(--surf); }
+.account-shelf {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.4rem;
+  min-height:  2.5rem;
+  padding:     0 0.5rem;
+  color:       var(--ink);
+  font-family: var(--font-ui);
+  font-size:   0.9rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+.account-shelf:hover { color: var(--pomeg); }
+.account-avatar {
+  width:           2.5rem;
+  height:          2.5rem;
+  border:          0;
+  border-radius:   50%;
+  background:      var(--tint, var(--hl));
+  color:           var(--pomeg);
+  font-family:     var(--font-ui);
+  font-weight:     700;
+  font-size:       1rem;
+  line-height:     1;
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  cursor:          pointer;
+}
+.account-menu {
+  position:      absolute;
+  top:           calc(100% + 0.5rem);
+  inset-inline-end: 0;
+  z-index:       120;
+  min-width:     13rem;
+  padding:       0.4rem;
+  border-radius: var(--radius-lg, 8px);
+  background:    var(--bg);
+  border:        1px solid var(--rule);
+  box-shadow:    var(--shadow-pop, 0 4px 16px rgba(0, 0, 0, 0.12));
+  display:       flex;
+  flex-direction: column;
+  font-family:   var(--font-ui);
+}
+.account-menu-who {
+  margin:        0 0 0.3rem;
+  padding:       0.5rem 0.75rem 0.6rem;
+  font-size:     0.85rem;
+  color:         var(--muted);
+  border-bottom: 1px solid var(--rule);
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  white-space:   nowrap;
+}
+.account-menu a,
+.account-menu button {
+  display:       flex;
+  align-items:   center;
+  min-height:    2.5rem;
+  padding:       0 0.75rem;
+  border:        0;
+  border-radius: var(--radius);
+  background:    transparent;
+  color:         var(--ink);
+  font:          inherit;
+  font-size:     0.95rem;
+  text-align:    start;
+  cursor:        pointer;
+}
+.account-menu a:hover,
+.account-menu button:hover { background: var(--surf); }
+@media (max-width: 600px) {
+  .account-shelf-label { display: none; }
+  .account-signin { padding: 0 0.75rem; }
+}
+
+.signin-dialog {
+  /* the reset zeroes every margin; a modal dialog centres itself with margin: auto */
+  margin:        auto;
+  border:        0;
+  padding:       0;
+  width:         min(28rem, calc(100vw - 2rem));
+  max-height:    calc(100dvh - 2rem);
+  border-radius: var(--radius-xl, 8px);
+  background:    var(--bg);
+  color:         var(--ink);
+  box-shadow:    var(--shadow-pop, 0 4px 16px rgba(0, 0, 0, 0.12));
+}
+.signin-dialog::backdrop { background: rgba(10, 12, 16, 0.45); }
+.signin-dialog-panel { position: relative; padding: 2rem 1.75rem 1.5rem; }
+.signin-close {
+  position:        absolute;
+  top:             0.75rem;
+  inset-inline-end: 0.75rem;
+  width:           2.5rem;
+  height:          2.5rem;
+  border:          0;
+  border-radius:   50%;
+  background:      var(--surf);
+  color:           var(--ink);
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  cursor:          pointer;
+}
+.signin-close:hover { background: var(--surf-2, var(--surf)); }
+.signin { display: flex; flex-direction: column; gap: 0.9rem; font-family: var(--font-ui); }
+.signin-title { margin: 0; padding-inline-end: 2.5rem; font-family: var(--font-serif); font-size: 1.6rem; line-height: 1.2; }
+.signin-lead { margin: 0; color: var(--muted); font-size: 0.95rem; line-height: 1.55; }
+.signin-google {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  gap:             0.6rem;
+  min-height:      3rem;
+  border:          1px solid var(--rule);
+  border-radius:   var(--radius);
+  background:      var(--bg);
+  color:           var(--ink);
+  font-weight:     600;
+}
+.signin-google:hover { background: var(--surf); color: var(--ink); }
+.signin-or {
+  display:     flex;
+  align-items: center;
+  gap:         0.75rem;
+  margin:      0;
+  color:       var(--muted);
+  font-size:   0.85rem;
+}
+.signin-or::before,
+.signin-or::after { content: ''; flex: 1; border-top: 1px solid var(--rule); }
+.signin-form { display: flex; flex-direction: column; gap: 0.5rem; }
+.signin-form .btn-lg { justify-content: center; margin-top: 0.35rem; }
+.signin-form .btn-lg:disabled { opacity: 0.55; cursor: default; }
+.signin-code { font-size: 1.5rem; letter-spacing: 0.3em; font-variant-numeric: tabular-nums; text-align: center; }
+.signin-sent { margin: 0 0 0.25rem; font-size: 0.95rem; line-height: 1.5; }
+.signin-links { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 0.5rem; }
+.link-btn {
+  min-height:  2.5rem;
+  padding:     0;
+  border:      0;
+  background:  none;
+  color:       var(--pomeg);
+  font:        inherit;
+  font-size:   0.9rem;
+  font-weight: 600;
+  cursor:      pointer;
+}
+.link-btn:hover { color: var(--pomeg-dark); }
+.link-btn:disabled { color: var(--muted); cursor: default; }
+.signin-error { margin: 0; color: var(--pomeg); font-size: 0.9rem; }
+.signin-error:empty { display: none; }
+.signin-note { margin: 0; color: var(--muted); font-size: 0.8rem; line-height: 1.5; }
+.signin-page { display: flex; justify-content: center; padding-top: 3rem; }
+.signin-card {
+  width:         min(28rem, 100%);
+  padding:       2rem 1.75rem 1.5rem;
+  border-radius: var(--radius-xl, 8px);
+  background:    var(--surf);
+}
+.signin-card .form-input,
+.signin-card .signin-google { background: var(--bg); }
+@media (prefers-reduced-motion: no-preference) {
+  .signin-dialog[open] { animation: signin-in 0.18s cubic-bezier(0.16, 1, 0.3, 1); }
+  @keyframes signin-in { from { opacity: 0; transform: translateY(8px); } }
+}

@@ -5,6 +5,7 @@ import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { SkipLink } from '@/components/layout/SkipLink';
 import { NotFoundContent } from '@/components/layout/NotFoundContent';
+import { AccountProvider } from '@/components/account/AccountProvider';
 
 /** The tab title in the reader's language; not-found pages are noindex either way */
 export async function generateMetadata(): Promise<Metadata> {
@@ -24,12 +25,14 @@ export default async function RootNotFound() {
 
   return (
     <NextIntlClientProvider messages={messages} locale={locale}>
-      <SkipLink label={nav('skip')} />
-      <Header />
-      <main id="main" tabIndex={-1}>
-        <NotFoundContent />
-      </main>
-      <Footer />
+      <AccountProvider>
+        <SkipLink label={nav('skip')} />
+        <Header />
+        <main id="main" tabIndex={-1}>
+          <NotFoundContent />
+        </main>
+        <Footer />
+      </AccountProvider>
     </NextIntlClientProvider>
   );
 }

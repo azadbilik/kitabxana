@@ -11,7 +11,12 @@ async function bootstrap() {
   app.setGlobalPrefix('api');
   app.enableCors({
     origin: config.get('CORS_ORIGIN', 'http://localhost:3000'),
+    // Reader sessions are a cookie; in production the API is same-origin (/api), in
+    // development the web app on another port sends it with credentials: 'include'
+    credentials: true,
   });
+  // Behind Caddy and Cloudflare: trust their X-Forwarded-* for req.ip and req.protocol
+  app.getHttpAdapter().getInstance().set('trust proxy', true);
   app.useGlobalPipes(
     new ValidationPipe({
       whitelist: true,
