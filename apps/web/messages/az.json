@@ -463,5 +463,39 @@
     "works_label": "Əsərlər",
     "authors_label": "Müəlliflər",
     "books_label": "Kitablar"
+  },
+  "lists": {
+    "title": "Siyahılarım",
+    "add": "Siyahıya",
+    "none_yet": "Hələ siyahınız yoxdur. Birincisini yaradın.",
+    "new_name": "Yeni siyahının adı",
+    "new_placeholder": "Məsələn: Yay üçün",
+    "create": "Yarat",
+    "all_lists": "Bütün siyahılar",
+    "rename": "Adını dəyiş",
+    "delete": "Sil",
+    "save": "Saxla",
+    "cancel": "Ləğv et",
+    "delete_confirm": "«{name}» siyahısı silinsin? Kitablar saytdan silinmir, yalnız siyahı.",
+    "empty_list": "Siyahı boşdur. Kitab və əsər səhifələrindəki «Siyahıya» düyməsi ilə əlavə edin.",
+    "remove": "Siyahıdan çıxar",
+    "count": "{count, plural, one {# kitab və ya əsər} other {# kitab və ya əsər}}",
+    "signed_out": "Siyahılarınızı görmək üçün daxil olun."
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "profile": "Profil",
+    "email": "E-poçt: {email}",
+    "name": "Ad",
+    "mail_language": "Məktubların dili",
+    "save": "Saxla",
+    "saved": "Saxlanıldı",
+    "session": "Bu cihazda",
+    "signed_out": "Ayarları görmək üçün daxil olun.",
+    "delete_title": "Hesabı silmək",
+    "delete_text": "Hesab, rəfiniz, siyahılarınız, oxu qeydləriniz və harada qaldığınız birdəfəlik silinəcək. Bunu geri qaytarmaq olmaz.",
+    "delete_type": "Təsdiq üçün «{word}» yazın",
+    "delete_word": "sil",
+    "delete_button": "Hesabı birdəfəlik sil"
   }
 }

@@ -463,5 +463,39 @@
     "works_label": "Works",
     "authors_label": "Authors",
     "books_label": "Books"
+  },
+  "lists": {
+    "title": "My lists",
+    "add": "Add to list",
+    "none_yet": "No lists yet. Create your first one.",
+    "new_name": "New list name",
+    "new_placeholder": "For example: Summer reading",
+    "create": "Create",
+    "all_lists": "All lists",
+    "rename": "Rename",
+    "delete": "Delete",
+    "save": "Save",
+    "cancel": "Cancel",
+    "delete_confirm": "Delete the list “{name}”? Only the list goes; the books stay on the site.",
+    "empty_list": "This list is empty. Add books and works with “Add to list” on their pages.",
+    "remove": "Remove from list",
+    "count": "{count, plural, one {# book or work} other {# books or works}}",
+    "signed_out": "Sign in to see your lists."
+  },
+  "settings": {
+    "title": "Settings",
+    "profile": "Profile",
+    "email": "Email: {email}",
+    "name": "Name",
+    "mail_language": "Language of emails",
+    "save": "Save",
+    "saved": "Saved",
+    "session": "On this device",
+    "signed_out": "Sign in to open your settings.",
+    "delete_title": "Delete account",
+    "delete_text": "Your account, shelf, lists, read marks and reading places will be deleted for good. This can't be undone.",
+    "delete_type": "Type “{word}” to confirm",
+    "delete_word": "delete",
+    "delete_button": "Delete my account for good"
   }
 }

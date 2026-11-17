@@ -6,6 +6,7 @@ import { useAccount } from '@/components/account/AccountProvider';
 import { setBookStatus, useLoadMarks, useMarks, type BookStatus } from '@/lib/library';
 import { localePath } from '@/lib/i18n';
 import { SaveButton } from './SaveButton';
+import { ListPopover } from './ListPopover';
 
 export interface BookPart {
   id: string;
@@ -70,6 +71,7 @@ export function BookActions({ collectionId, parts }: { collectionId: string; par
       </div>
 
       <SaveButton kind="book" id={collectionId} />
+      <ListPopover collectionId={collectionId} />
 
       {account === 'signed-in' && doneCount > 0 && (
         <p className="book-progress">

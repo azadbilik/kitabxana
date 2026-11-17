@@ -18,6 +18,10 @@ Nizami, Xaqani, Məhsəti, Nəsimi və Füzuli təkcə Azərbaycan dilində deyi
 
 Mətnlər müəllif hüquqları bitmiş nəşrlərdən və açıq kitabxanalardan götürülür: Vikimənbə, Ganjoor və çap nəşrləri. Hər əsərin altında mənbəyi göstərilir. Səhv görsəniz, [bizə yazın](/az/contact).
 
+## Hesab və məxfilik
+
+Hesab açmaq məcburi deyil: bütün mətnləri girişsiz oxumaq olar. Daxil olsanız, yalnız e-poçt ünvanınızı (Google ilə girişdə adınızı və şəklinizi də), rəfinizi, siyahılarınızı, oxu qeydlərinizi və mətndə harada qaldığınızı saxlayırıq — başqa heç nə. Bunlar heç kimə göstərilmir və ötürülmür. Hesabı istənilən vaxt [Ayarlar](/refim/ayarlar) səhifəsindən bütün məlumatları ilə birlikdə silə bilərsiniz.
+
 ## Necə kömək etmək olar
 
 Mətn, tərcümə və ya müəllif haqqında məlumat göndərin: [Təklif et](/az/contribute). Redaktorlar hər təklifi yoxlayır.

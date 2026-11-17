@@ -4,6 +4,7 @@ import { useTranslations } from 'next-intl';
 import { useAccount } from '@/components/account/AccountProvider';
 import { setWorkStatus, useLoadMarks, useMarks } from '@/lib/library';
 import { SaveButton } from './SaveButton';
+import { ListPopover } from './ListPopover';
 
 /** Under a text: save it, and mark it read (or unread again) */
 export function WorkActions({ workId, collectionId }: { workId: string; collectionId?: string | null }) {
@@ -16,6 +17,7 @@ export function WorkActions({ workId, collectionId }: { workId: string; collecti
   return (
     <div className="work-actions">
       <SaveButton kind="work" id={workId} />
+      <ListPopover workId={workId} />
       <button
         type="button"
         className={`read-btn${done ? ' is-on' : ''}`}

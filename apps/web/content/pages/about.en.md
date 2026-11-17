@@ -18,6 +18,10 @@ Nizami, Khaqani, Mahsati, Nasimi and Fuzuli wrote not only in Azerbaijani but al
 
 Texts come from public-domain editions and open libraries: Wikisource, Ganjoor and print editions. Each work shows its source. If you spot a mistake, [let us know](/en/contact).
 
+## Account and privacy
+
+An account is optional: every text can be read without signing in. If you sign in, we keep only your email address (and, with Google, your name and picture), your shelf, lists, read marks and the place you stopped in each text — nothing else. None of it is shown or passed to anyone. You can delete the account, with all of it, at any time in [Settings](/en/refim/ayarlar).
+
 ## How to help
 
 Send us texts, translations or information about authors: [Contribute](/en/contribute). Editors review every submission.
