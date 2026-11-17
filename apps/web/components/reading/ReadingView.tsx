@@ -8,6 +8,7 @@ import { useReadingPrefs, type ReadingFont } from '@/lib/useReadingPrefs';
 import { isArabicScript, langTag, lineCount, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 import { ReadingProgress } from './ReadingProgress';
+import { Pager } from './Pager';
 
 interface Translation {
   id: string;
@@ -34,7 +35,9 @@ interface Props {
   suggestHref: string;
   slug: string;
   /** Headings inside a prose text (acts, scenes, numbered parts), with the ids they carry */
-  sections?: { id: string; text: string }[];
+  sections?: { id: string; text: string; href?: string }[];
+  /** Which reading page of a long prose text this is; null when it is read whole */
+  pagination?: { page: number; pages: number } | null;
 }
 
 const ORIGINAL = 'original';
@@ -77,6 +80,7 @@ export function ReadingView({
   suggestHref,
   slug,
   sections = [],
+  pagination = null,
 }: Props) {
   const t = useTranslations('reading');
   const tc = useTranslations('contribute.options');
@@ -232,7 +236,7 @@ export function ReadingView({
         <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} />
       </div>
 
-      {!isPoem && <ReadingProgress slug={slug} targetId={textId} dir={originalDir} />}
+      {!isPoem && <ReadingProgress slug={slug} targetId={textId} dir={originalDir} pagination={pagination} />}
 
       {!isPoem && sections.length >= MIN_SECTIONS && (
         <details className="reading-contents">
@@ -240,12 +244,18 @@ export function ReadingView({
           <ol>
             {sections.map((section) => (
               <li key={section.id}>
-                <a href={`#${section.id}`}>{section.text}</a>
+                {section.href ? (
+                  <Link href={section.href}>{section.text}</Link>
+                ) : (
+                  <a href={`#${section.id}`}>{section.text}</a>
+                )}
               </li>
             ))}
           </ol>
         </details>
       )}
+
+      {pagination && <Pager place="top" {...pagination} />}
 
       {versions.length > 1 && translation && (
         <div className="lang-tabs lang-tabs--versions" role="group" aria-label={t('version_label')}>
@@ -313,7 +323,9 @@ export function ReadingView({
         </div>
       )}
 
-      <div className="tailpiece" aria-hidden="true">◆</div>
+      {pagination && <Pager place="bottom" {...pagination} />}
+
+      {(!pagination || pagination.page === pagination.pages) && <div className="tailpiece" aria-hidden="true">◆</div>}
 
       <footer className="provenance">
         <p>

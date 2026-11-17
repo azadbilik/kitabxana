@@ -12,6 +12,7 @@ import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareBar } from '@/components/reading/ShareBar';
 import { DownloadBar } from '@/components/reading/DownloadBar';
+import { paginate } from '@/lib/paginate';
 import { getTranslations } from 'next-intl/server';
 import {
   displayTitle,
@@ -30,6 +31,13 @@ const WORDS_PER_MINUTE = 180;
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
+  searchParams: Promise<{ p?: string | string[] }>;
+}
+
+/** The reading page asked for (`?p=3`), 1 when absent or malformed */
+function pageParam(value: string | string[] | undefined) {
+  const n = Number(Array.isArray(value) ? value[0] : value);
+  return Number.isInteger(n) && n > 1 ? n : 1;
 }
 
 const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
@@ -94,8 +102,9 @@ async function workDescription(work: any, locale: string, authorName: string | n
   return quote ? lead + quote : lead.replace(/[.:]\s*$/, '').trim();
 }
 
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
+export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
+  const page = pageParam((await searchParams).p);
   const work = (await getWorkOrRedirect(slug, locale)) as any;
   const { titleFor } = await titleHelpers(locale);
   const { heading, number } = headingFor(work, titleFor(localized(work, 'title', locale) ?? work.titleAz, work.form));
@@ -103,8 +112,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
   return pageMetadata({
     locale,
-    path: `/works/${slug}`,
-    title: `${number ? `${heading} (${number})` : heading} — ${authorName}`,
+    // Each reading page of a long text is its own page for search engines
+    path: `/works/${slug}${page > 1 ? `?p=${page}` : ''}`,
+    title: `${number ? `${heading} (${number})` : heading}${page > 1 ? ` · ${(await titleHelpers(locale)).t('page_n', { n: page })}` : ''} — ${authorName}`,
     description: await workDescription(work, locale, authorName),
     type: 'article',
     images: false,
@@ -112,8 +122,9 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
   });
 }
 
-export default async function WorkPage({ params }: Props) {
+export default async function WorkPage({ params, searchParams }: Props) {
   const { locale, slug } = await params;
+  const requestedPage = pageParam((await searchParams).p);
 
   const [work, nav, more, others] = await Promise.all([
     getWorkOrRedirect(slug, locale) as Promise<any>,
@@ -140,7 +151,7 @@ export default async function WorkPage({ params }: Props) {
     isPoem ? formatVerse(html, { form: work.form, maqtaLabel: t('maqta') }) : { html, maqta: false };
   const original = verse(work.bodyHtml || work.body);
   // Prose: anchor its headings for the contents list, and estimate the reading time
-  const sections: { id: string; text: string }[] = [];
+  const sections: { id: string; text: string; href?: string }[] = [];
   if (!isPoem) {
     original.html = original.html.replace(/<h([2-4])>([\s\S]*?)<\/h\1>/g, (_m, level, inner) => {
       const id = `section-${sections.length + 1}`;
@@ -148,12 +159,26 @@ export default async function WorkPage({ params }: Props) {
       return `<h${level} id="${id}">${inner}</h${level}>`;
     });
   }
-  const words = isPoem ? 0 : original.html.replace(/<[^>]+>/g, ' ').split(/\s+/).filter(Boolean).length;
-  const readingMinutes = Math.round(words / WORDS_PER_MINUTE);
   const translations = (work.translations ?? []).map((tr: any) => ({
     ...tr,
     bodyHtml: verse(tr.bodyHtml || tr.body).html,
   }));
+  // Long prose is read a page at a time, LitRes-style; only the current page is sent.
+  // Texts with a translation stay whole, so the two can be read side by side
+  const paged = isPoem ? null : paginate(original.html);
+  const words = paged?.words ?? 0;
+  const readingMinutes = Math.round(words / WORDS_PER_MINUTE);
+  const pageCount = paged && !translations.length ? paged.pages.length : 1;
+  const page = Math.min(requestedPage, pageCount);
+  const pageHref = (n: number) => `/${locale}/works/${encodeURIComponent(slug)}${n > 1 ? `?p=${n}` : ''}`;
+  if (pageCount > 1) {
+    original.html = paged!.pages[page - 1];
+    // Contents entries lead to the page their heading is on
+    for (const section of sections) {
+      const on = paged!.pages.findIndex((html) => html.includes(`id="${section.id}"`)) + 1;
+      section.href = `${pageHref(on)}#${section.id}`;
+    }
+  }
   const formLabel = work.form && work.form !== 'OTHER' ? options(`form.${work.form}` as any) : null;
 
   const navHref = (item: { slug: string } | null) =>
@@ -276,6 +301,7 @@ export default async function WorkPage({ params }: Props) {
         suggestHref={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}
         slug={slug}
         sections={sections}
+        pagination={pageCount > 1 ? { page, pages: pageCount } : null}
       />
 
       <TagPills
@@ -313,7 +339,12 @@ export default async function WorkPage({ params }: Props) {
           <p className="work-nav-hint">{t('keys_hint')}</p>
         </nav>
       )}
-      <WorkNavKeys prevHref={navHref(nav.prev)} nextHref={navHref(nav.next)} randomHref={`/${locale}/random`} />
+      {/* On a paged text the arrows turn its pages first, then move on to the next work */}
+      <WorkNavKeys
+        prevHref={page > 1 ? `${pageHref(page - 1)}#text` : navHref(nav.prev)}
+        nextHref={page < pageCount ? `${pageHref(page + 1)}#text` : navHref(nav.next)}
+        randomHref={`/${locale}/random`}
+      />
       <p className="work-random">
         <Link href={`/${locale}/random`} prefetch={false} aria-keyshortcuts="r"><RefreshIcon /> {t('random_poem')}</Link>
       </p>

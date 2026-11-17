@@ -18,12 +18,18 @@ export interface Scan {
   bytes: number;
   /** PDF page the work starts on */
   page?: number;
+  /** Just the pages of this work or collection (1-based, inclusive), with an estimated size */
+  range?: { from: number; to: number; bytes: number };
 }
 
-/** Link to a scanned book: opened in the browser's PDF viewer (at a page), or saved */
-export function scanUrl(key: string, { page, download }: { page?: number; download?: boolean } = {}) {
+/** Link to a scanned book: opened in the browser's PDF viewer (at a page), or saved — whole or a run of pages */
+export function scanUrl(
+  key: string,
+  { page, download, range }: { page?: number; download?: boolean; range?: { from: number; to: number } } = {},
+) {
   const url = `${PUBLIC_API_URL}/scans/${encodeURIComponent(key)}.pdf`;
-  if (download) return `${url}?download=1`;
+  const query = [range && `pages=${range.from}-${range.to}`, download && 'download=1'].filter(Boolean).join('&');
+  if (query) return `${url}?${query}`;
   return page ? `${url}#page=${page}` : url;
 }
 

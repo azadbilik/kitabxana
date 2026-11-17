@@ -104,6 +104,7 @@
     "print": "Çap et"
   },
   "download": {
+    "pages": "skanın {from}–{to}-cü səhifələri",
     "label": "Yüklə",
     "epub": "EPUB — elektron kitab",
     "txt": "TXT — sadə mətn",
@@ -309,6 +310,12 @@
     "reading_time": "{n} dəq oxu",
     "contents": "Məzmun",
     "resume": "Qaldığınız yerdən davam edin ({percent}%)",
+    "resume_page": "Qaldığınız yerdən davam edin: səhifə {page} ({percent}%)",
+    "page_of": "Səhifə {n} / {total}",
+    "page_n": "səhifə {n}",
+    "pages_label": "Mətnin səhifələri",
+    "next_page": "Növbəti səhifə",
+    "prev_page": "Əvvəlki səhifə",
     "appearance_paragraphs": "Abzas",
     "paragraph_names": {
       "spaced": "Aralı",

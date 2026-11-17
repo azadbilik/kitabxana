@@ -104,6 +104,7 @@
     "print": "Распечатать"
   },
   "download": {
+    "pages": "страницы скана {from}–{to}",
     "label": "Скачать",
     "epub": "EPUB — электронная книга",
     "txt": "TXT — простой текст",
@@ -309,6 +310,12 @@
     "reading_time": "{n} мин чтения",
     "contents": "Содержание",
     "resume": "Продолжить с того же места ({percent}%)",
+    "resume_page": "Продолжить с того же места: страница {page} ({percent}%)",
+    "page_of": "Страница {n} из {total}",
+    "page_n": "страница {n}",
+    "pages_label": "Страницы текста",
+    "next_page": "Следующая страница",
+    "prev_page": "Предыдущая страница",
     "appearance_paragraphs": "Абзацы",
     "paragraph_names": {
       "spaced": "С отбивкой",

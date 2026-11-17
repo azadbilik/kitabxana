@@ -104,6 +104,7 @@
     "print": "Print"
   },
   "download": {
+    "pages": "scan pages {from}–{to}",
     "label": "Download",
     "epub": "EPUB — e-book",
     "txt": "TXT — plain text",
@@ -309,6 +310,12 @@
     "reading_time": "{n} min read",
     "contents": "Contents",
     "resume": "Continue where you left off ({percent}%)",
+    "resume_page": "Continue where you left off: page {page} ({percent}%)",
+    "page_of": "Page {n} of {total}",
+    "page_n": "page {n}",
+    "pages_label": "Pages of the text",
+    "next_page": "Next page",
+    "prev_page": "Previous page",
     "appearance_paragraphs": "Paragraphs",
     "paragraph_names": {
       "spaced": "Spaced",

@@ -246,7 +246,7 @@ export class WorksService {
       .catch(() => {});
 
     // The scanned book the text was transcribed from, opened at the work's page
-    return { ...work, scan: this.scans.forWork(work) };
+    return { ...work, scan: await this.scans.forWork(work) };
   }
 
   /** The prev/next navigation — most performance-critical query */

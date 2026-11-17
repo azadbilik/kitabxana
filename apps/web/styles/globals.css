@@ -812,6 +812,68 @@ blockquote {
 .resume-btn:hover { background: var(--ink); border-color: var(--ink); color: var(--bg); }
 @media (pointer: coarse) { .resume-btn { min-height: 2.75rem; } }
 
+/* Reading pages of a long prose text: where the reader is above, page turning below */
+/* A turned page lands on the text, clear of the sticky site header */
+.reading { scroll-margin-top: 5.5rem; }
+.pager-status {
+  max-width:   var(--reading-width, 36rem);
+  margin:      0 auto 1.25rem;
+  font-family: var(--font-ui);
+  font-size:   0.8rem;
+  color:       var(--muted);
+  letter-spacing: 0.04em;
+}
+.pager {
+  max-width:      var(--reading-width, 36rem);
+  margin:         2.5rem auto 3rem;
+  display:        flex;
+  flex-direction: column;
+  align-items:    center;
+  gap:            1.25rem;
+  font-family:    var(--font-ui);
+}
+.pager-next {
+  display:         inline-flex;
+  align-items:     center;
+  gap:             0.5rem;
+  padding:         0.7rem 1.6rem;
+  border:          1px solid var(--ink);
+  border-radius:   var(--radius);
+  background:      var(--ink);
+  color:           var(--bg);
+  font-size:       0.95rem;
+  text-decoration: none;
+  transition:      background 0.12s, border-color 0.12s;
+}
+.pager-next:hover { background: var(--pomeg); border-color: var(--pomeg); color: var(--bg); }
+.pager-numbers {
+  display:     flex;
+  flex-wrap:   wrap;
+  align-items: center;
+  justify-content: center;
+  gap:         0.25rem;
+  font-size:   0.9rem;
+}
+.pager-num,
+.pager-step {
+  min-width:       2.25rem;
+  height:          2.25rem;
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  padding:         0 0.4rem;
+  border-radius:   var(--radius);
+  color:           var(--ink);
+  text-decoration: none;
+  font-variant-numeric: tabular-nums;
+}
+a.pager-num:hover,
+a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
+.pager-num.active { background: var(--pomeg); color: var(--bg); font-weight: 600; }
+.pager-gap { color: var(--muted); padding: 0 0.15rem; }
+@media (pointer: coarse) { .pager-num, .pager-step { min-width: 2.75rem; height: 2.75rem; } }
+@media (max-width: 480px) { .pager-num--far { display: none; } .pager-numbers { gap: 0; } }
+
 /* Folded long texts: the first lines, fading out, then "Read on" */
 .is-folded {
   max-height: calc(var(--folded-lines) * var(--reading-leading, 1.95) * var(--reading-size, 1.05rem));
@@ -2604,7 +2666,7 @@ a.gallery-coll:hover { text-decoration: underline; }
   body { background: #fff; color: #000; font-size: 11pt; min-height: 0; }
   .site-header, .footer, .skip-link, .ornament, .reading-toolbar, .appearance-anchor,
   .lang-tabs, .work-gloss, .tag-pills, .share-bar, .work-nav, .work-random, .more-works,
-  .reading-progress, .reading-contents, .resume,
+  .reading-progress, .reading-contents, .resume, .pager, .pager-status,
   nextjs-portal { display: none !important; }
   /* The breadcrumb names the author on paper; the title follows in full */
   .breadcrumb { justify-content: center; margin: 0 0 0.5rem; color: #000; }

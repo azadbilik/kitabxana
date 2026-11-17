@@ -40,7 +40,7 @@ export class CollectionsService {
 
     if (!collection) throw new NotFoundException('Collection not found');
     // The scanned books the collection was transcribed from
-    const scans = this.scans.forWorks(collection.works);
+    const scans = await this.scans.forWorks(collection.id, collection.works);
     return { ...collection, works: collection.works.map(({ sourceId: _, ...w }) => w), scans };
   }
 

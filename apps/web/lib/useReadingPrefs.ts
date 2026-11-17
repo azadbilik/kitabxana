@@ -24,8 +24,9 @@ const defaults: ReadingPrefs = {
   fontSize: 1,
   width: 0,
   fontFamily: 'book',
-  paragraphs: 'spaced',
-  align: 'start',
+  // Prose is set like a book page by default, as LitRes does: indented and justified
+  paragraphs: 'indented',
+  align: 'justify',
 };
 
 /** A saved choice, including the older 'serif' (now 'book') */

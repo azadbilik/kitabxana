@@ -57,23 +57,30 @@ export async function DownloadBar({ path, author, locale, kind, scans }: Props) 
         ))}
       {books.map((scan, i) => {
         const n = numbered ? ` ${i + 1}` : '';
-        const size = t('mb', { n: Math.max(1, Math.round(scan.bytes / 1e6)) });
+        // A work offers only its own pages, never the whole volume it was printed in;
+        // a work whose pages aren't known can still be read in the book
+        const range = scan.range;
+        const offer = range || kind !== 'work';
+        const size = t('mb', { n: Math.max(1, Math.round((range?.bytes ?? scan.bytes) / 1e6)) });
+        const pages = range ? t('pages', { from: range.from, to: range.to }) : null;
         return [
-          <a
-            key={`${scan.key}-pdf`}
-            className="download-btn"
-            href={scanUrl(scan.key, { download: true })}
-            rel="nofollow"
-            title={`${t('pdf')} (${size})`}
-            aria-label={`${t('pdf')}${n}, ${size}`}
-          >
-            {ICON}
-            PDF{n} <span className="download-size">{size}</span>
-          </a>,
+          offer && (
+            <a
+              key={`${scan.key}-pdf`}
+              className="download-btn"
+              href={scanUrl(scan.key, { download: true, range })}
+              rel="nofollow"
+              title={`${t('pdf')}${pages ? `, ${pages}` : ''} (${size})`}
+              aria-label={`${t('pdf')}${n}${pages ? `, ${pages}` : ''}, ${size}`}
+            >
+              {ICON}
+              PDF{n} <span className="download-size">{size}</span>
+            </a>
+          ),
           <a
             key={`${scan.key}-read`}
             className="download-btn"
-            href={scanUrl(scan.key, { page: scan.page })}
+            href={scanUrl(scan.key, { page: range?.from ?? scan.page })}
             target="_blank"
             rel="nofollow noopener"
             title={t('read_scan_title')}

@@ -1103,3 +1103,19 @@
   [data-skin='clean'] .home-sidebar .chip-row { gap: 0.5rem; }
   [data-skin='clean'] body:has(.home) .footer { margin-top: 1.5rem; }
 }
+
+[data-skin='clean'] .pager-status { letter-spacing: 0; }
+[data-skin='clean'] .pager-next {
+  border:        none;
+  border-radius: var(--radius-lg);
+  background:    var(--pomeg);
+  font-weight:   700;
+}
+[data-skin='clean'] .pager-next:hover { background: var(--ink); }
+[data-skin='clean'] .pager-num,
+[data-skin='clean'] .pager-step { border-radius: var(--radius-lg); }
+[data-skin='clean'] a.pager-num,
+[data-skin='clean'] a.pager-step { background: var(--surf); }
+[data-skin='clean'] a.pager-num:hover,
+[data-skin='clean'] a.pager-step:hover { background: var(--surf-2); }
+[data-skin='clean'] .pager-num.active { background: var(--ink); }

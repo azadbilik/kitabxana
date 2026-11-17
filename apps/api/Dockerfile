@@ -1,6 +1,6 @@
 # Build from the repo root: docker build -f apps/api/Dockerfile .
 FROM node:24-bookworm-slim AS base
-RUN apt-get update && apt-get install -y --no-install-recommends openssl \
+RUN apt-get update && apt-get install -y --no-install-recommends openssl qpdf \
   && rm -rf /var/lib/apt/lists/* \
   && npm install -g pnpm@12.3.2
 WORKDIR /repo
