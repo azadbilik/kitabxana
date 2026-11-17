@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import { workLocales } from '@irs-az/shared';
 import { api, getWorkOrRedirect, type MoreWork, type OtherWork, type TagRef } from '@/lib/api';
 import { localized } from '@/lib/locale';
-import { breadcrumbLd, excerpt, LANGUAGE_TAGS, pageMetadata, publisherLd, sameAs, SITE_URL } from '@/lib/seo';
+import { breadcrumbLd, excerpt, LANGUAGE_TAGS, pageMetadata, publisherLd, sameAs, SITE_URL, fitTitle } from '@/lib/seo';
 import Link from 'next/link';
 import { ReadingView } from '@/components/reading/ReadingView';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
@@ -115,7 +115,7 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
     locale,
     // Each reading page of a long text is its own page for search engines
     path: `/works/${slug}${page > 1 ? `?p=${page}` : ''}`,
-    title: `${number ? `${heading} (${number})` : heading}${page > 1 ? ` · ${(await titleHelpers(locale)).t('page_n', { n: page })}` : ''} — ${authorName}`,
+    title: fitTitle(heading, `${number ? ` (${number})` : ''}${page > 1 ? ` · ${(await titleHelpers(locale)).t('page_n', { n: page })}` : ''} — ${authorName}`),
     description: await workDescription(work, locale, authorName),
     type: 'article',
     images: false,

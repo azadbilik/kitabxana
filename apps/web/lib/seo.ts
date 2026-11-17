@@ -89,6 +89,21 @@ export function listingLabel(
   ].filter(Boolean).join(' — ');
 }
 
+/** Room for a page's own title: search results cut at ~70 characters and the layout adds " | Kitabxana.az" */
+const TITLE_BUDGET = 70 - ' | Kitabxana.az'.length;
+
+/**
+ * A title whose `main` part is cut at a word (with "…") so that `main + tail` fits search results.
+ * The tail (number, page, author) is kept whole; the page's heading is unaffected.
+ */
+export function fitTitle(main: string, tail = '', max = TITLE_BUDGET): string {
+  const room = Math.max(max - tail.length, 24);
+  if (main.length <= room) return main + tail;
+  const cut = main.slice(0, room - 1);
+  const atWord = cut.lastIndexOf(' ') > room * 0.5 ? cut.slice(0, cut.lastIndexOf(' ')) : cut;
+  return `${atWord.replace(/[\s,.;:—–-]+$/, '')}…${tail}`;
+}
+
 const entities: Record<string, string> = { amp: '&', lt: '<', gt: '>', quot: '"', '#39': "'", nbsp: ' ' };
 
 /** Lines of plain text from markdown or HTML, with markup and blank lines dropped. */
