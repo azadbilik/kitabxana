@@ -1,5 +1,6 @@
 import { NextResponse, type NextRequest } from 'next/server';
 import { api } from '@/lib/api';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -8,7 +9,7 @@ export async function GET(req: NextRequest, { params }: { params: Promise<{ loca
   const { locale } = await params;
   const base = process.env.SITE_URL ?? req.url;
   const work = await api.getRandomWork().catch(() => null);
-  const target = new URL(work ? `/${locale}/works/${encodeURIComponent(work.slug)}` : `/${locale}/works`, base);
+  const target = new URL(localePath(locale, work ? `/works/${encodeURIComponent(work.slug)}` : '/works'), base);
   const res = NextResponse.redirect(target, 307);
   res.headers.set('Cache-Control', 'no-store');
   return res;

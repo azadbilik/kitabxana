@@ -8,6 +8,7 @@ import { WorkCard, type Incipit } from '@/components/works/WorkCard';
 import { Pagination } from '@/components/ui/Pagination';
 import { notFound } from 'next/navigation';
 import { parseTagFacet, tagPath } from '@/lib/facets';
+import { defaultLocale, localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -54,9 +55,10 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 
   return pageMetadata({
     locale,
-    path: tagPath(locale, slug, author?.slug, { page: one(sp.page) }).slice(locale.length + 1),
+    path: tagPath(defaultLocale, slug, author?.slug, { page: one(sp.page) }),
     title,
     description: `${title} — ${t('works_count', { count: author?.works ?? tag.works })}`,
+    images: false,
   });
 }
 
@@ -82,7 +84,7 @@ export default async function TagPage({ params, searchParams }: Props) {
   return (
     <div className="container page-content">
       <nav className="breadcrumb" aria-label={t('title')}>
-        <Link href={`/${locale}/tags`}>{t('title')}</Link>
+        <Link href={localePath(locale, `/tags`)}>{t('title')}</Link>
         <span className="breadcrumb-sep" aria-hidden="true">›</span>
         <span className="breadcrumb-current" aria-current="page">{title}</span>
       </nav>
@@ -118,7 +120,7 @@ export default async function TagPage({ params, searchParams }: Props) {
             return (
               <WorkCard
                 key={work.id}
-                href={`/${locale}/works/${work.slug}`}
+                href={localePath(locale, `/works/${work.slug}`)}
                 title={localized(work, 'title', locale) ?? work.titleAz}
                 incipit={work.incipit}
                 meta={

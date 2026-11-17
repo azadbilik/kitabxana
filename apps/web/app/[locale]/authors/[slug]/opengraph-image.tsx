@@ -1,7 +1,7 @@
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { plainLines, yearRange } from '@/lib/seo';
-import { ogCard, ogContentType, ogSize } from '@/lib/og';
+import { ogCard, ogContentType, ogSize, portraitData } from '@/lib/og';
 
 export const size = ogSize;
 export const contentType = ogContentType;
@@ -17,5 +17,6 @@ export default async function Image({ params }: { params: Promise<{ locale: stri
     title: localized(author, 'name', locale) ?? author.nameAz,
     subtitle: yearRange(author.bornYear, author.diedYear),
     lines: firstSentence ? [firstSentence] : [],
+    portrait: await portraitData(author.portraitUrl),
   });
 }

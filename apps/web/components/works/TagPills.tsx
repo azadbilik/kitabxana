@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import { localized } from '@/lib/locale';
 import type { TagRef } from '@/lib/api';
+import { localePath } from '@/lib/i18n';
 
 interface Props {
   tags: (TagRef & { works?: number })[];
@@ -17,7 +18,7 @@ export function TagPills({ tags, locale, label, counts, className = '' }: Props)
     <ul className={`tag-pills chip-row ${className}`} aria-label={label}>
       {tags.map((tag) => (
         <li key={tag.slug}>
-          <Link href={`/${locale}/tags/${tag.slug}`} className="pill tag-pill">
+          <Link href={localePath(locale, `/tags/${tag.slug}`)} className="pill tag-pill">
             {localized(tag, 'name', locale)}
             {counts && tag.works !== undefined && <span className="tag-pill-count">{tag.works}</span>}
           </Link>

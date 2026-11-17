@@ -136,7 +136,7 @@ export default function AdminTagPage() {
             {result ? `${result.meta.total} ${adding ? 'uyğun əsər' : 'əsər'}` : ' '}
           </p>
         </div>
-        <a href={`/az/tags/${slug}`} className="adm-btn adm-btn-sec" target="_blank" rel="noreferrer">
+        <a href={`/tags/${slug}`} className="adm-btn adm-btn-sec" target="_blank" rel="noreferrer">
           Saytda bax ↗
         </a>
       </div>
@@ -248,7 +248,7 @@ export default function AdminTagPage() {
                         {s === 'REJECTED' ? 'Bərpa et' : 'Əlavə et'}
                       </button>
                     )}
-                    <a href={`/az/works/${work.slug}`} className="adm-btn adm-btn-sec" target="_blank" rel="noreferrer" aria-label="Saytda aç">↗</a>
+                    <a href={`/works/${work.slug}`} className="adm-btn adm-btn-sec" target="_blank" rel="noreferrer" aria-label="Saytda aç">↗</a>
                   </td>
                 </tr>
               );

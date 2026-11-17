@@ -6,6 +6,7 @@ import { JsonLd } from '@/components/seo/JsonLd';
 import Link from 'next/link';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -25,6 +26,7 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     path: `/collections/${slug}`,
     title: `${title} — ${authorName}`,
     description: `${authorName}, ${title}: ${firstWorks}${collection.works.length > 5 ? '…' : ''}`,
+    images: false,
   });
 }
 
@@ -61,7 +63,7 @@ export default async function CollectionPage({ params }: Props) {
       />
       <JsonLd
         data={breadcrumbLd([
-          { name: authorName ?? '', path: `/${locale}/authors/${collection.author.slug}` },
+          { name: authorName ?? '', path: localePath(locale, `/authors/${collection.author.slug}`) },
           { name: title ?? '' },
         ])}
       />
@@ -75,7 +77,7 @@ export default async function CollectionPage({ params }: Props) {
         }}
       >
         <Link
-          href={`/${locale}/authors/${collection.author.slug}`}
+          href={localePath(locale, `/authors/${collection.author.slug}`)}
           style={{ color: 'var(--muted)', textDecoration: 'none' }}
         >
           {authorName}
@@ -116,7 +118,7 @@ export default async function CollectionPage({ params }: Props) {
         {collection.works.map((work: any, i: number) => (
           <Link
             key={work.id}
-            href={`/${locale}/works/${work.slug}`}
+            href={localePath(locale, `/works/${work.slug}`)}
             style={{
               display: 'flex',
               justifyContent: 'space-between',

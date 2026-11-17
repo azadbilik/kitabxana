@@ -3,6 +3,7 @@ import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata } from '@/lib/seo';
 import Link from 'next/link';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -41,7 +42,7 @@ export default async function BlogPostPage({ params }: Props) {
         }}
       >
         <Link
-          href={`/${locale}/blog`}
+          href={localePath(locale, `/blog`)}
           style={{ color: 'var(--muted)', textDecoration: 'none' }}
         >
           ← {locale === 'ru' ? 'Блог' : locale === 'en' ? 'Blog' : 'Bloq'}

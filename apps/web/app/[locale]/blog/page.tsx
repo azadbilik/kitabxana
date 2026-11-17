@@ -4,6 +4,7 @@ import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import Link from 'next/link';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -71,7 +72,7 @@ export default async function BlogPage({ params, searchParams }: Props) {
           return (
             <Link
               key={post.id}
-              href={`/${locale}/blog/${post.slug}`}
+              href={localePath(locale, `/blog/${post.slug}`)}
               style={{
                 border: '1px solid var(--rule)',
                 padding: '1.5rem',

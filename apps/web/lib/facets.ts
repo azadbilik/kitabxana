@@ -1,12 +1,14 @@
 /**
- * Readable filter URLs, culture.ru-style: /az/works/muellif-fuzuli/forma-qezel instead of
- * /az/works?authorSlug=fuzuli&form=GHAZAL. The words are Azerbaijani (ASCII-folded, like
+ * Readable filter URLs, culture.ru-style: /works/muellif-fuzuli/forma-qezel instead of
+ * /works?authorSlug=fuzuli&form=GHAZAL. The words are Azerbaijani (ASCII-folded, like
  * work slugs) in every UI language. They are public URLs: never rename a value in place.
  *
  * next.config.ts rewrites these paths onto the index pages as `?f=<segment>` params;
  * middleware.ts 308-redirects the old query-string URLs here. The API keeps the reserved
  * words below out of new slugs (apps/api/src/common/utils/slug.ts).
  */
+
+import { localePath, splitLocale } from './i18n';
 
 export const GENRE_SLUGS: Record<string, string> = {
   POEM: 'seir',
@@ -28,7 +30,7 @@ export const FORM_SLUGS: Record<string, string> = {
   OTHER: 'diger',
 };
 
-/** Author types are bare words: /az/authors/sairler */
+/** Author types are bare words: /authors/sairler */
 export const AUTHOR_TYPE_SLUGS: Record<string, string> = {
   POET: 'sairler',
   WRITER: 'yazicilar',
@@ -76,7 +78,7 @@ export function worksPath(locale: string, f: WorkFilters = {}, query?: Record<st
     f.genre && GENRE_SLUGS[f.genre] && `${PREFIX.genre}${GENRE_SLUGS[f.genre]}`,
     f.form && FORM_SLUGS[f.form] && `${PREFIX.form}${FORM_SLUGS[f.form]}`,
   ].filter(Boolean);
-  return withQuery(`/${locale}/works${segments.map((s) => `/${s}`).join('')}`, query);
+  return withQuery(localePath(locale, `/works${segments.map((s) => `/${s}`).join('')}`), query);
 }
 
 /** Canonical order: type, century */
@@ -85,11 +87,11 @@ export function authorsPath(locale: string, f: AuthorFilters = {}, query?: Recor
     f.type && AUTHOR_TYPE_SLUGS[f.type],
     f.century && `${PREFIX.century}${f.century}`,
   ].filter(Boolean);
-  return withQuery(`/${locale}/authors${segments.map((s) => `/${s}`).join('')}`, query);
+  return withQuery(localePath(locale, `/authors${segments.map((s) => `/${s}`).join('')}`), query);
 }
 
 export function tagPath(locale: string, tag: string, author?: string, query?: Record<string, string | number | undefined>) {
-  return withQuery(`/${locale}/tags/${tag}${author ? `/${PREFIX.author}${author}` : ''}`, query);
+  return withQuery(localePath(locale, `/tags/${tag}${author ? `/${PREFIX.author}${author}` : ''}`), query);
 }
 
 /** What the `f` params of a rewritten request ask for; `invalid` means the URL should 404 */
@@ -145,9 +147,10 @@ export function parseTagFacet(f: string | string[] | undefined): Parsed<{ author
  * Unknown params (page, lang, letter…) are kept as query.
  */
 export function legacyRedirect(pathname: string, search: URLSearchParams): string | null {
-  const match = pathname.match(/^\/([a-z]{2})\/(works|authors|tags\/[^/]+)$/);
+  const { locale, path } = splitLocale(pathname);
+  const match = path.match(/^\/(works|authors|tags\/[^/]+)$/);
   if (!match) return null;
-  const [, locale, section] = match;
+  const [, section] = match;
   const rest = Object.fromEntries([...search.entries()]);
   const take = (key: string) => {
     const v = rest[key];
@@ -207,9 +210,10 @@ const TAG_FACET = new RegExp(`^${TAG_FACET_PATTERN}$`);
  * Null for anything that is not a filter path (a work, an author, an unknown route).
  */
 export function checkFacetPath(pathname: string): FacetCheck {
-  const index = pathname.match(/^\/([a-z]{2})\/(works|authors)\/(.+)$/);
+  const { locale, path } = splitLocale(pathname);
+  const index = path.match(/^\/(works|authors)\/(.+)$/);
   if (index) {
-    const [, locale, section, rest] = index;
+    const [, section, rest] = index;
     const segments = rest.split('/');
     const matcher = section === 'works' ? WORK_FACET : AUTHOR_FACET;
     if (!segments.every((s) => matcher.test(s))) return null;
@@ -225,9 +229,9 @@ export function checkFacetPath(pathname: string): FacetCheck {
     return canonical === pathname ? { kind: 'ok', locale } : { kind: 'redirect', to: canonical };
   }
 
-  const tag = pathname.match(/^\/([a-z]{2})\/tags\/[^/]+\/(.+)$/);
+  const tag = path.match(/^\/tags\/[^/]+\/(.+)$/);
   if (!tag) return null;
-  const [, locale, rest] = tag;
+  const [, rest] = tag;
   const segments = rest.split('/');
   if (!segments.some((s) => TAG_FACET.test(s))) return null;
   const { filters, invalid } = parseTagFacet(segments);

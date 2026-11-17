@@ -9,6 +9,7 @@ import { AuthorFilters } from '@/components/authors/AuthorFilters';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { CENTURIES } from '@irs-az/shared';
 import { authorsPath, parseAuthorFacets } from '@/lib/facets';
+import { defaultLocale, localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -57,7 +58,7 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 
   return pageMetadata({
     locale,
-    path: authorsPath(locale, filters, { letter: one(sp.letter), page: one(sp.page) }).slice(locale.length + 1),
+    path: authorsPath(defaultLocale, filters, { letter: one(sp.letter), page: one(sp.page) }),
     title: heading,
     description: t('site.description'),
   });
@@ -71,8 +72,8 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
   const letter = one(sp.letter);
   const canonical = authorsPath(locale, filters, { letter, page: one(sp.page) });
   const requested = authorsPath(locale, {}, { letter, page: one(sp.page) }).replace(
-    `/${locale}/authors`,
-    `/${locale}/authors${given.map((g) => `/${g}`).join('')}`,
+    localePath(locale, `/authors`),
+    localePath(locale, `/authors${given.map((g) => `/${g}`).join('')}`),
   );
   if (canonical !== requested) permanentRedirect(canonical);
 
@@ -125,7 +126,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
           return (
             <Link
               key={author.id}
-              href={`/${locale}/authors/${author.slug}`}
+              href={localePath(locale, `/authors/${author.slug}`)}
               className="card-item"
             >
               <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>

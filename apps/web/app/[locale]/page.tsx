@@ -9,6 +9,7 @@ import { TagPills } from '@/components/works/TagPills';
 import { CatalogTiles } from '@/components/home/CatalogTiles';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { authorsPath, worksPath } from '@/lib/facets';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -191,7 +192,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                   )}
 
                   <Link
-                    href={`/${locale}/authors/${featured.slug}`}
+                    href={localePath(locale, `/authors/${featured.slug}`)}
                     className="more featured-more"
                   >
                     {t('read_more')} →
@@ -207,18 +208,18 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <section className="daily-poem" aria-labelledby="daily-poem-title">
               <p className="section-label">{t('daily_label')}</p>
               <h2 id="daily-poem-title" className="daily-poem-title">
-                <Link href={`/${locale}/works/${daily.slug}`}>{localeTitle(daily, locale)}</Link>
+                <Link href={localePath(locale, `/works/${daily.slug}`)}>{localeTitle(daily, locale)}</Link>
               </h2>
               <div className="daily-poem-author">
-                <Link href={`/${locale}/authors/${daily.author.slug}`}>{localeName(daily.author, locale)}</Link>
+                <Link href={localePath(locale, `/authors/${daily.author.slug}`)}>{localeName(daily.author, locale)}</Link>
                 {daily.year ? ` · ${daily.year}` : ''}
               </div>
               <blockquote className="daily-poem-excerpt" lang="az-Latn">
                 {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
               </blockquote>
               <div className="daily-poem-actions">
-                <Link href={`/${locale}/works/${daily.slug}`} className="more">{t('read_full')} →</Link>
-                <Link href={`/${locale}/random`} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
+                <Link href={localePath(locale, `/works/${daily.slug}`)} className="more">{t('read_full')} →</Link>
+                <Link href={localePath(locale, `/random`)} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
               </div>
             </section>
           )}
@@ -230,7 +231,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           <div className="home-sidebar-section">
             <p className="section-label">{t('recent_label')}</p>
             {recentAuthors.map((author) => (
-              <Link key={author.slug} href={`/${locale}/authors/${author.slug}`} className="recent-item">
+              <Link key={author.slug} href={localePath(locale, `/authors/${author.slug}`)} className="recent-item">
                 <div className="recent-item-name">{localeName(author, locale)}</div>
                 <div className="recent-item-meta">
                   {author.period && <>{author.period} · </>}
@@ -297,7 +298,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     {genreLabel(w.genre, w.form ?? undefined, locale)}
                     {w.year ? ` · ${w.year}` : ''}
                   </div>
-                  <Link href={`/${locale}/works/${w.slug}`} className="works-strip-title">
+                  <Link href={localePath(locale, `/works/${w.slug}`)} className="works-strip-title">
                     {localeTitle(w, locale)}
                   </Link>
                   <div className="works-strip-author">

@@ -1,7 +1,7 @@
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { plainLines } from '@/lib/seo';
-import { ogCard, ogContentType, ogSize } from '@/lib/og';
+import { ogCard, ogContentType, ogSize, portraitData } from '@/lib/og';
 
 export const size = ogSize;
 export const contentType = ogContentType;
@@ -24,10 +24,14 @@ export default async function Image({ params }: { params: Promise<{ locale: stri
   const work = (await api.getWork(slug)) as any;
   const collection = work.collection ? localized(work.collection, 'title', locale) : null;
 
+  const lines = work.genre === 'PROSE' ? [] : previewLines(work, locale);
+
   return ogCard({
     eyebrow: collection ?? work.genre.toLowerCase(),
     title: localized(work, 'title', locale) ?? work.titleAz,
     subtitle: [localized(work.author, 'name', locale), work.year].filter(Boolean).join(' · '),
-    lines: work.genre === 'PROSE' ? [] : previewLines(work, locale),
+    lines,
+    // Verse needs the full width; prose and letters get the author's portrait instead
+    portrait: lines.length ? undefined : await portraitData(work.author.portraitUrl),
   });
 }

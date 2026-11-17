@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { loadPage } from '@/lib/content';
 import { pageMetadata } from '@/lib/seo';
+import { localePath } from '@/lib/i18n';
 
 interface Props {
   params: Promise<{ locale: string }>;
@@ -36,7 +37,7 @@ export default async function ContactPage({ params }: Props) {
             <a href={`mailto:${email}`}>{email}</a>
           ) : (
             <p>
-              <Link href={`/${locale}/contribute`}>{t('email_soon')}</Link>
+              <Link href={localePath(locale, `/contribute`)}>{t('email_soon')}</Link>
             </p>
           )}
         </div>

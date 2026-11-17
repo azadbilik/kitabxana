@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -77,14 +78,14 @@ export default async function AuthorPage({ params }: Props) {
       />
       <JsonLd
         data={breadcrumbLd([
-          { name: authorsLabel, path: `/${locale}/authors` },
+          { name: authorsLabel, path: localePath(locale, `/authors`) },
           { name },
         ])}
       />
 
       {/* Breadcrumb */}
       <div className="breadcrumb">
-        <Link href={`/${locale}/authors`}>
+        <Link href={localePath(locale, `/authors`)}>
           ← {authorsLabel}
         </Link>
         <span className="breadcrumb-sep">/</span>
@@ -177,7 +178,7 @@ export default async function AuthorPage({ params }: Props) {
 
           <div className="coll-header">
             <Link
-              href={`/${locale}/collections/${collection.slug}`}
+              href={localePath(locale, `/collections/${collection.slug}`)}
               style={{ color: 'inherit', textDecoration: 'none' }}
             >
               {localized(collection, 'title', locale)}
@@ -193,7 +194,7 @@ export default async function AuthorPage({ params }: Props) {
           <ul className="work-list">
             {collection.works?.map((work: any) => (
               <li key={work.id} className="work-list-item">
-                <Link href={`/${locale}/works/${work.slug}`} style={{ color: 'inherit', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'baseline', gap: '0.5rem' }}>
+                <Link href={localePath(locale, `/works/${work.slug}`)} style={{ color: 'inherit', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'baseline', gap: '0.5rem' }}>
                   <span className="work-title">
                     {localized(work, 'title', locale)}
                   </span>
@@ -217,7 +218,7 @@ export default async function AuthorPage({ params }: Props) {
           <ul className="work-list">
             {author.works.map((work: any) => (
               <li key={work.id} className="work-list-item">
-                <Link href={`/${locale}/works/${work.slug}`} style={{ color: 'inherit', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'baseline', gap: '0.5rem' }}>
+                <Link href={localePath(locale, `/works/${work.slug}`)} style={{ color: 'inherit', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'baseline', gap: '0.5rem' }}>
                   <span className="work-title">
                     {localized(work, 'title', locale)}
                   </span>

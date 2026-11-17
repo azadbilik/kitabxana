@@ -5,6 +5,7 @@ import Image from 'next/image';
 import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { localized } from '@/lib/locale';
+import { localePath } from '@/lib/i18n';
 
 export interface Artwork {
   id: string;
@@ -118,7 +119,7 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
                 </span>
                 {a.objectDate && <span className="gallery-meta">{a.objectDate}</span>}
                 {showCollection && a.collection && (
-                  <Link className="gallery-meta gallery-coll" href={`/${locale}/collections/${a.collection.slug}`}>
+                  <Link className="gallery-meta gallery-coll" href={localePath(locale, `/collections/${a.collection.slug}`)}>
                     {localized(a.collection, 'title', locale)}
                   </Link>
                 )}
@@ -186,7 +187,7 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
 
               {active.collection && showCollection && (
                 <p>
-                  <Link href={`/${locale}/collections/${active.collection.slug}`} onClick={close}>
+                  <Link href={localePath(locale, `/collections/${active.collection.slug}`)} onClick={close}>
                     {localized(active.collection, 'title', locale)}
                   </Link>
                 </p>

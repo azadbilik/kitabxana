@@ -41,7 +41,7 @@ pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a Natio
 
 ## i18n
 - Three UI languages: az (default), ru, en
-- next-intl for frontend routing: `/az/...`, `/ru/...`, `/en/...`
+- next-intl for frontend routing: Azerbaijani has no prefix (`/works/...`), then `/ru/...`, `/en/...`. Build links with `localePath(locale, path)` from `apps/web/lib/i18n.ts`; old `/az/...` URLs 308 to the unprefixed path (middleware)
 - Message files in `apps/web/messages/`
 
 ## Design

@@ -58,7 +58,7 @@ export async function uniqueSlug(
 
 /**
  * Words the web app's readable filter URLs use (apps/web/lib/facets.ts):
- * /az/works/forma-qezel, /az/authors/sairler/esr-12. A work or author slug that looked
+ * /works/forma-qezel, /authors/sairler/esr-12. A work or author slug that looked
  * like one would be shadowed by the filter page, so new slugs steer around them.
  */
 const FILTER_WORK_PREFIX = /^(muellif|janr|forma)-/;

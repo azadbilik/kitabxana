@@ -6,6 +6,7 @@ import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import { api } from '@/lib/api';
 import { isArabicScript, langTag } from '@/lib/verse';
+import { localePath } from '@/lib/i18n';
 
 // useSearchParams needs a Suspense boundary for the page to prerender
 export default function SearchPage() {
@@ -76,7 +77,7 @@ function Search() {
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
     if (!query.trim()) return;
-    router.replace(`/${locale}/search?${new URLSearchParams({ q: query.trim() })}`, { scroll: false });
+    router.replace(localePath(locale, `/search?${new URLSearchParams({ q: query.trim() })}`), { scroll: false });
   };
 
   return (
@@ -126,7 +127,7 @@ function Search() {
               <h2 id="search-authors-title" className="section-label">{t('search.authors')}</h2>
               <div className="chip-row">
                 {authors.map((author) => (
-                  <Link key={author.slug} href={`/${locale}/authors/${author.slug}`} className="pill">
+                  <Link key={author.slug} href={localePath(locale, `/authors/${author.slug}`)} className="pill">
                     {(locale === 'ru' && author.nameRu) || (locale === 'en' && author.nameEn) || author.nameAz}
                   </Link>
                 ))}
@@ -137,7 +138,7 @@ function Search() {
           {results.hits?.map((hit: any) => (
             <Link
               key={hit.id}
-              href={`/${locale}/works/${hit.slug}`}
+              href={localePath(locale, `/works/${hit.slug}`)}
               className="work-row"
               style={{ flexDirection: 'column', alignItems: 'flex-start', gap: '0.25rem' }}
             >

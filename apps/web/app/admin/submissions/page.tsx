@@ -82,7 +82,7 @@ export default function AdminSubmissionsPage() {
       } else {
         if (action === 'approve' && result.slug) {
           const path = result.type === 'AUTHOR' ? 'authors' : 'works';
-          setNotice({ text: 'Təsdiqləndi və dərc olundu.', href: `/az/${path}/${result.slug}`, linkText: 'Saytda bax →' });
+          setNotice({ text: 'Təsdiqləndi və dərc olundu.', href: `/${path}/${result.slug}`, linkText: 'Saytda bax →' });
         } else if (action !== 'approve') {
           setNotice({
             text: action === 'reject' ? 'Rədd edildi.' : 'Dəyişiklik istəndi.',

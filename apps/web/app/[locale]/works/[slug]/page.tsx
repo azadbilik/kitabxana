@@ -23,6 +23,7 @@ import {
   isPlaceholderTitle,
   sourceInfo,
 } from '@/lib/verse';
+import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -170,7 +171,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
   const readingMinutes = Math.round(words / WORDS_PER_MINUTE);
   const pageCount = paged && !translations.length ? paged.pages.length : 1;
   const page = Math.min(requestedPage, pageCount);
-  const pageHref = (n: number) => `/${locale}/works/${encodeURIComponent(slug)}${n > 1 ? `?p=${n}` : ''}`;
+  const pageHref = (n: number) => `${localePath(locale, `/works/${encodeURIComponent(slug)}`)}${n > 1 ? `?p=${n}` : ''}`;
   if (pageCount > 1) {
     original.html = paged!.pages[page - 1];
     // Contents entries lead to the page their heading is on
@@ -182,7 +183,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
   const formLabel = work.form && work.form !== 'OTHER' ? options(`form.${work.form}` as any) : null;
 
   const navHref = (item: { slug: string } | null) =>
-    item ? `/${locale}/works/${encodeURIComponent(item.slug)}` : null;
+    item ? localePath(locale, `/works/${encodeURIComponent(item.slug)}`) : null;
   const navTitle = (item: any) => titleFor(localized(item, 'title', locale), work.form).text;
   const titleLang = (text: string) => (isArabicScript(text) ? { lang: 'fa', dir: 'rtl' as const } : {});
 
@@ -225,18 +226,18 @@ export default async function WorkPage({ params, searchParams }: Props) {
       />
       <JsonLd
         data={breadcrumbLd([
-          { name: authorName ?? '', path: `/${locale}/authors/${work.author.slug}` },
-          ...(collectionTitle ? [{ name: collectionTitle, path: `/${locale}/collections/${work.collection.slug}` }] : []),
+          { name: authorName ?? '', path: localePath(locale, `/authors/${work.author.slug}`) },
+          ...(collectionTitle ? [{ name: collectionTitle, path: localePath(locale, `/collections/${work.collection.slug}`) }] : []),
           { name: number ? `${heading} (${number})` : heading },
         ])}
       />
 
       <nav className="breadcrumb" aria-label={t('breadcrumb')}>
-        <Link href={`/${locale}/authors/${work.author.slug}`}>{authorName}</Link>
+        <Link href={localePath(locale, `/authors/${work.author.slug}`)}>{authorName}</Link>
         {collectionTitle && (
           <>
             <span className="breadcrumb-sep" aria-hidden="true">›</span>
-            <Link href={`/${locale}/collections/${work.collection.slug}`}>
+            <Link href={localePath(locale, `/collections/${work.collection.slug}`)}>
               <bdi>{collectionTitle}</bdi>
             </Link>
           </>
@@ -298,7 +299,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
         locale={locale}
         genre={work.genre}
         source={sourceInfo(work.sourceNote)}
-        suggestHref={`/${locale}/contribute?type=translation&work=${encodeURIComponent(slug)}`}
+        suggestHref={localePath(locale, `/contribute?type=translation&work=${encodeURIComponent(slug)}`)}
         slug={slug}
         sections={sections}
         pagination={pageCount > 1 ? { page, pages: pageCount } : null}
@@ -343,16 +344,16 @@ export default async function WorkPage({ params, searchParams }: Props) {
       <WorkNavKeys
         prevHref={page > 1 ? `${pageHref(page - 1)}#text` : navHref(nav.prev)}
         nextHref={page < pageCount ? `${pageHref(page + 1)}#text` : navHref(nav.next)}
-        randomHref={`/${locale}/random`}
+        randomHref={localePath(locale, `/random`)}
       />
       <p className="work-random">
-        <Link href={`/${locale}/random`} prefetch={false} aria-keyshortcuts="r"><RefreshIcon /> {t('random_poem')}</Link>
+        <Link href={localePath(locale, `/random`)} prefetch={false} aria-keyshortcuts="r"><RefreshIcon /> {t('random_poem')}</Link>
       </p>
 
       {more.length > 0 && (
         <section className="more-works" aria-labelledby="more-works-title">
           <h2 id="more-works-title" className="more-works-title">
-            <Link href={`/${locale}/authors/${work.author.slug}`}>{t('more_by_author')}</Link>
+            <Link href={localePath(locale, `/authors/${work.author.slug}`)}>{t('more_by_author')}</Link>
           </h2>
           <div className="card-grid more-works-grid">
             {more.map((item) => {
@@ -382,7 +383,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
       {others.works.length > 0 && (
         <section className="more-works more-works--others" aria-labelledby="other-poets-title">
           <h2 id="other-poets-title" className="more-works-title">
-            <Link href={others.theme ? `/${locale}/tags/${others.theme.slug}` : `/${locale}/works`}>
+            <Link href={localePath(locale, others.theme ? `/tags/${others.theme.slug}` : '/works')}>
               {t('other_poets')}
               {others.theme && <span className="more-works-theme"> · {localized(others.theme, 'name', locale)}</span>}
             </Link>

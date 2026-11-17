@@ -106,7 +106,7 @@ export class DownloadsService {
       author: work.author.nameAz,
       lifespan: this.lifespan(work.author),
       language: work.originalLang,
-      url: `${this.siteUrl()}/az/works/${work.slug}`,
+      url: `${this.siteUrl()}/works/${work.slug}`,
       sections: [{ title: null, works: [item] }],
     };
     return this.render(book, work.author, asciiStem(work.slug), format);
@@ -133,7 +133,7 @@ export class DownloadsService {
       author: collection.author.nameAz,
       lifespan: this.lifespan(collection.author),
       language: this.mainLanguage(collection.works, collection.originalLang),
-      url: `${this.siteUrl()}/az/collections/${collection.slug}`,
+      url: `${this.siteUrl()}/collections/${collection.slug}`,
       sections: [{ title: null, works: collection.works.map((w) => this.bookWork(w)) }],
     };
     return this.render(book, collection.author, asciiStem(collection.slug), format);
@@ -178,7 +178,7 @@ export class DownloadsService {
       author: author.nameAz,
       lifespan: this.lifespan(author),
       language: this.mainLanguage(allWorks, 'AZ_LATIN'),
-      url: `${this.siteUrl()}/az/authors/${author.slug}`,
+      url: `${this.siteUrl()}/authors/${author.slug}`,
       sections,
     };
     return this.render(book, author, asciiStem(`${author.slug}-eserleri`), format);

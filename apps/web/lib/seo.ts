@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { locales, defaultLocale } from './i18n';
+import { locales, defaultLocale, localePath } from './i18n';
 
 export const SITE_NAME = 'Kitabxana.az';
 // Server-only and read at runtime, so one image works for any domain.
@@ -13,10 +13,10 @@ const ogLocales: Record<string, string> = { az: 'az_AZ', ru: 'ru_RU', en: 'en_US
  */
 export function alternates(locale: string, path = '', listed: readonly string[] = locales): Metadata['alternates'] {
   return {
-    canonical: `/${locale}${path}`,
+    canonical: localePath(locale, path),
     languages: {
-      ...Object.fromEntries(listed.map((l) => [l, `/${l}${path}`])),
-      'x-default': `/${defaultLocale}${path}`,
+      ...Object.fromEntries(listed.map((l) => [l, localePath(l, path)])),
+      'x-default': localePath(defaultLocale, path),
     },
   };
 }
@@ -51,7 +51,7 @@ export function pageMetadata({
       siteName: SITE_NAME,
       locale: ogLocales[locale],
       alternateLocale: locales.filter((l) => l !== locale).map((l) => ogLocales[l]),
-      url: `/${locale}${path}`,
+      url: localePath(locale, path),
       title,
       description,
       ...(images !== false && {

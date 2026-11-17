@@ -10,6 +10,7 @@ import { Pagination } from '@/components/ui/Pagination';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { notFoundOn404 } from '@/lib/api';
 import { parseWorkFacets, worksPath, type WorkFilters } from '@/lib/facets';
+import { defaultLocale, localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
@@ -86,7 +87,7 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 
   return pageMetadata({
     locale,
-    path: worksPath(locale, filters, { page }).slice(locale.length + 1),
+    path: worksPath(defaultLocale, filters, { page }),
     title: filtered ? `${heading} — ${t('nav.works')}` : t('nav.works'),
     description: t('site.description'),
   });
@@ -102,8 +103,8 @@ export default async function WorksPage({ params, searchParams }: Props) {
   // Segments in another order (or a stray ?page=1) redirect to the one canonical URL
   const canonical = worksPath(locale, filters, { lang, page: one(sp.page) });
   const requested = worksPath(locale, {}, { lang, page: one(sp.page) }).replace(
-    `/${locale}/works`,
-    `/${locale}/works${given.map((g) => `/${g}`).join('')}`,
+    localePath(locale, `/works`),
+    localePath(locale, `/works${given.map((g) => `/${g}`).join('')}`),
   );
   if (canonical !== requested) permanentRedirect(canonical);
   const href = (f: WorkFilters, page?: number) => worksPath(locale, f, { lang, page });
@@ -178,7 +179,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
       {themes.length > 0 && (
         <div className="works-themes">
           <TagPills tags={themes} locale={locale} label={tt('title')} />
-          <Link href={`/${locale}/tags`} className="more works-themes-all">{tt('all_tags')} →</Link>
+          <Link href={localePath(locale, `/tags`)} className="more works-themes-all">{tt('all_tags')} →</Link>
         </div>
       )}
 
@@ -194,7 +195,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
           return (
             <WorkCard
               key={work.id}
-              href={`/${locale}/works/${work.slug}`}
+              href={localePath(locale, `/works/${work.slug}`)}
               title={title ?? work.titleAz}
               incipit={work.incipit}
               meta={

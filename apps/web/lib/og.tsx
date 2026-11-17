@@ -39,6 +39,25 @@ const Diamond = ({ size = 10 }: { size?: number }) => (
   <div style={{ width: size, height: size, background: POMEG, transform: 'rotate(45deg)' }} />
 );
 
+const PORTRAIT_TYPES = ['image/jpeg', 'image/png', 'image/gif'];
+
+/**
+ * A portrait as a data URL for the card, or undefined when it can't be had quickly.
+ * The renderer reads JPEG, PNG and GIF only; a failed fetch just leaves the card without it.
+ */
+export async function portraitData(url: string | null | undefined): Promise<string | undefined> {
+  if (!url) return undefined;
+  const res = await fetch(url, {
+    // Wikimedia refuses requests without a descriptive user agent
+    headers: { 'User-Agent': 'Kitabxana.az share cards' },
+    signal: AbortSignal.timeout(4_000),
+  }).catch(() => null);
+  const type = res?.headers.get('content-type')?.split(';')[0] ?? '';
+  if (!res?.ok || !PORTRAIT_TYPES.includes(type)) return undefined;
+  const data = Buffer.from(await res.arrayBuffer());
+  return `data:${type};base64,${data.toString('base64')}`;
+}
+
 interface Card {
   /** Small caps label top-right, e.g. "Qəzəl" or "Şair". */
   eyebrow?: string;
@@ -46,12 +65,16 @@ interface Card {
   subtitle?: string;
   /** Opening lines of a poem or bio, max 3 shown. */
   lines?: string[];
+  /** Data URL of a portrait shown framed on the right (see portraitData) */
+  portrait?: string;
 }
 
 /** Gazette-style 1200×630 share card. */
-export async function ogCard({ eyebrow, title, subtitle, lines = [] }: Card) {
-  const shown = lines.slice(0, 3).map((l) => clip(l, 70));
-  const titleSize = title.length > 45 ? 60 : title.length > 25 ? 76 : 92;
+export async function ogCard({ eyebrow, title, subtitle, lines = [], portrait }: Card) {
+  // A portrait takes a third of the width, so text wraps and clips sooner
+  const shown = lines.slice(0, 3).map((l) => clip(l, portrait ? 40 : 70));
+  const long = portrait ? [30, 16] : [45, 25];
+  const titleSize = title.length > long[0] ? 60 : title.length > long[1] ? 76 : 92;
 
   return new ImageResponse(
     (
@@ -78,19 +101,29 @@ export async function ogCard({ eyebrow, title, subtitle, lines = [] }: Card) {
           <div style={{ height: 1, background: POMEG, marginTop: 4 }} />
         </div>
 
-        <div style={{ display: 'flex', flexDirection: 'column', flexGrow: 1, justifyContent: 'center' }}>
-          <div style={{ fontFamily: SERIF, fontSize: titleSize, lineHeight: 1.05, lineClamp: 2 }}>
-            {clip(title, 90)}
+        <div style={{ display: 'flex', flexGrow: 1, alignItems: 'center', gap: 56 }}>
+          <div style={{ display: 'flex', flexDirection: 'column', flexGrow: 1, flexBasis: 0, justifyContent: 'center' }}>
+            <div style={{ fontFamily: SERIF, fontSize: titleSize, lineHeight: 1.05, lineClamp: 2 }}>
+              {clip(title, 90)}
+            </div>
+            {subtitle && <div style={{ marginTop: 18, fontSize: 26, color: MUTED }}>{clip(subtitle, 80)}</div>}
+            {shown.length > 0 && (
+              <div
+                style={{
+                  display: 'flex', flexDirection: 'column', marginTop: 32, paddingLeft: 24,
+                  borderLeft: `3px solid ${POMEG}`, fontFamily: SERIF, fontSize: 34, lineHeight: 1.3,
+                }}
+              >
+                {shown.map((l, i) => (
+                  <div key={i} style={{ whiteSpace: 'nowrap', overflow: 'hidden', textOverflow: 'ellipsis' }}>{l}</div>
+                ))}
+              </div>
+            )}
           </div>
-          {subtitle && <div style={{ marginTop: 18, fontSize: 26, color: MUTED }}>{clip(subtitle, 80)}</div>}
-          {shown.length > 0 && (
-            <div
-              style={{
-                display: 'flex', flexDirection: 'column', marginTop: 32, paddingLeft: 24,
-                borderLeft: `3px solid ${POMEG}`, fontFamily: SERIF, fontSize: 34, lineHeight: 1.3,
-              }}
-            >
-              {shown.map((l, i) => <div key={i}>{l}</div>)}
+          {portrait && (
+            <div style={{ display: 'flex', padding: 8, border: `1px solid ${POMEG}` }}>
+              {/* eslint-disable-next-line @next/next/no-img-element */}
+              <img src={portrait} width={300} height={370} style={{ objectFit: 'cover' }} alt="" />
             </div>
           )}
         </div>

@@ -2,6 +2,7 @@ import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import type { Catalog } from '@/lib/api';
 import { authorsPath, worksPath } from '@/lib/facets';
+import { localePath } from '@/lib/i18n';
 
 interface Props {
   catalog: Catalog;
@@ -25,7 +26,7 @@ export async function CatalogTiles({ catalog, themes, locale }: Props) {
     { key: 'qasidas', count: catalog.forms.QASIDA, href: worksPath(locale, { form: 'QASIDA' }) },
     { key: 'drama', count: catalog.genres.PLAY, href: worksPath(locale, { genre: 'PLAY' }), caption: true },
     { key: 'poets', count: catalog.authors.POET, href: authorsPath(locale, { type: 'POET' }) },
-    { key: 'themes', count: themes, href: `/${locale}/tags` },
+    { key: 'themes', count: themes, href: localePath(locale, `/tags`) },
   ].filter((tile): tile is typeof tile & { count: number } => !!tile.count);
 
   if (tiles.length < 2) return null;

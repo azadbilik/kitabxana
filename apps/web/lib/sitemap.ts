@@ -1,5 +1,5 @@
 import { api } from '@/lib/api';
-import { locales } from '@/lib/i18n';
+import { localePath, locales } from '@/lib/i18n';
 import { SITE_URL } from '@/lib/seo';
 import { AUTHOR_TYPE_SLUGS, authorsPath, FORM_SLUGS, GENRE_SLUGS, worksPath } from '@/lib/facets';
 
@@ -17,9 +17,6 @@ interface Entry {
   /** Locales to list; all when absent */
   locales?: readonly string[];
 }
-
-/** A facet path without its locale prefix */
-const bare = (path: string) => path.replace(/^\/[a-z]{2}/, '');
 
 const STATIC_PATHS = ['', '/authors', '/works', '/tags', '/blog', '/about', '/contribute', '/contact'];
 
@@ -42,15 +39,15 @@ export async function sectionEntries(name: string): Promise<Entry[] | null> {
       // Readable filter pages: each form, genre and author type
       ...Object.keys(FORM_SLUGS)
         .filter((f) => f !== 'OTHER')
-        .map((form) => ({ path: bare(worksPath('az', { form })) })),
-      ...Object.keys(GENRE_SLUGS).map((genre) => ({ path: bare(worksPath('az', { genre })) })),
-      ...Object.keys(AUTHOR_TYPE_SLUGS).map((type) => ({ path: bare(authorsPath('az', { type })) })),
+        .map((form) => ({ path: worksPath('az', { form }) })),
+      ...Object.keys(GENRE_SLUGS).map((genre) => ({ path: worksPath('az', { genre }) })),
+      ...Object.keys(AUTHOR_TYPE_SLUGS).map((type) => ({ path: authorsPath('az', { type }) })),
     ];
   }
   if (name === 'authors') {
     return data.authors.flatMap((a) => [
       { path: `/authors/${a.slug}`, lastModified: a.updatedAt },
-      { path: bare(worksPath('az', { author: a.slug })), lastModified: a.updatedAt },
+      { path: worksPath('az', { author: a.slug }), lastModified: a.updatedAt },
     ]);
   }
   if (name === 'collections') {
@@ -71,7 +68,7 @@ const esc = (s: string) =>
   s.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 /** A path segment-encoded for a URL (slugs are ASCII today, but keep it safe) */
-const url = (locale: string, path: string) => esc(`${SITE_URL}/${locale}${encodeURI(path)}`);
+const url = (locale: string, path: string) => esc(`${SITE_URL}${localePath(locale, encodeURI(path))}`);
 
 /** One <url> per listed locale, each listing its hreflang siblings */
 export function urlsetXml(entries: Entry[]): string {

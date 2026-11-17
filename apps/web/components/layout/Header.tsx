@@ -9,6 +9,7 @@ import { ThemeToggle } from '@/components/ui/ThemeToggle';
 import { SkinToggle } from '@/components/ui/SkinToggle';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
 import { useHideOnScroll } from './useHideOnScroll';
+import { localePath } from '@/lib/i18n';
 
 const datelineSubtitle: Record<string, string> = {
   az: 'Azərbaycan ədəbiyyatı xəzinəsi',
@@ -73,16 +74,16 @@ export function Header() {
     { href: authorsPath(locale, { type: 'POET' }), label: t('poets') },
     { href: authorsPath(locale, { type: 'WRITER' }), label: t('writers') },
     { href: authorsPath(locale, { type: 'PHILOSOPHER' }), label: t('philosophers') },
-    { href: `/${locale}/works`, label: t('works') },
-    { href: `/${locale}/random`, label: t('random') },
-    { href: `/${locale}/search`, label: t('search') },
-    { href: `/${locale}/contribute`, label: t('contribute') },
+    { href: localePath(locale, `/works`), label: t('works') },
+    { href: localePath(locale, `/random`), label: t('random') },
+    { href: localePath(locale, `/search`), label: t('search') },
+    { href: localePath(locale, `/contribute`), label: t('contribute') },
   ];
 
   return (
     <header ref={headerRef} className={hidden ? 'site-header is-hidden' : 'site-header'}>
       <div className="header-inner">
-        <Link href={`/${locale}`} className="logo">
+        <Link href={localePath(locale)} className="logo">
           Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
 

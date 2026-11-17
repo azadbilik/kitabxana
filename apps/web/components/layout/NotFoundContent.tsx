@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { getLocale, getTranslations } from 'next-intl/server';
+import { localePath } from '@/lib/i18n';
 
 /** The not-found page's content, shared by the locale and root not-found pages */
 export async function NotFoundContent() {
@@ -17,7 +18,7 @@ export async function NotFoundContent() {
       </header>
 
       {/* A plain GET form: the search page reads ?q=, so this works without JavaScript */}
-      <form action={`/${locale}/search`} method="get" className="not-found-search" role="search">
+      <form action={localePath(locale, `/search`)} method="get" className="not-found-search" role="search">
         <input
           type="search"
           name="q"
@@ -32,8 +33,8 @@ export async function NotFoundContent() {
       </form>
 
       <p className="not-found-links">
-        <Link href={`/${locale}`} className="more">{nav('home')} →</Link>
-        <Link href={`/${locale}/random`} prefetch={false} className="more">{home('random_poem')} →</Link>
+        <Link href={localePath(locale)} className="more">{nav('home')} →</Link>
+        <Link href={localePath(locale, `/random`)} prefetch={false} className="more">{home('random_poem')} →</Link>
       </p>
     </div>
   );

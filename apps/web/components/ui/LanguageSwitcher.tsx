@@ -2,7 +2,7 @@
 
 import { usePathname, useRouter } from 'next/navigation';
 import { useLocale } from 'next-intl';
-import { locales } from '@/lib/i18n';
+import { localePath, locales, splitLocale } from '@/lib/i18n';
 
 const labels: Record<string, string> = {
   az: 'AZ',
@@ -16,12 +16,9 @@ export function LanguageSwitcher() {
   const currentLocale = useLocale();
 
   const switchLocale = (newLocale: string) => {
-    const segments = pathname.split('/');
-    segments[1] = newLocale;
-    // Remembered for the bare `/` redirect; the server doesn't set it (cached pages can't)
-    document.cookie = `NEXT_LOCALE=${newLocale}; path=/; max-age=31536000; samesite=lax`;
+    const { path } = splitLocale(pathname);
     // Keep the query, so a search (?q=) or a chosen translation (?tr=) survives the switch
-    router.push(segments.join('/') + window.location.search);
+    router.push(localePath(newLocale, path === '/' ? '' : path) + window.location.search);
   };
 
   return (

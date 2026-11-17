@@ -1,18 +1,20 @@
 import createMiddleware from 'next-intl/middleware';
 import { NextResponse, type NextRequest } from 'next/server';
-import { locales, defaultLocale } from './lib/i18n';
+import { locales, defaultLocale, localePath, splitLocale } from './lib/i18n';
 import { checkFacetPath, legacyRedirect, WORK_FACET_PATTERN } from './lib/facets';
 
 const intl = createMiddleware({
   locales,
   defaultLocale,
-  localePrefix: 'always',
+  // Azerbaijani pages have no prefix (/works/foo); Russian and English do (/ru/works/foo)
+  localePrefix: 'as-needed',
+  // `/` is always Azerbaijani: a redirect by browser language would vary one cached URL
+  localeDetection: false,
   // Pages set their own hreflang tags; the header version used http:// and a different x-default
   alternateLinks: false,
 });
 
 const API_URL = process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
-const WORK_PATH = new RegExp(`^/(${locales.join('|')})/works/([^/]+)$`);
 const WORK_FACET = new RegExp(`^${WORK_FACET_PATTERN}$`);
 
 // Resolver answers per slug: the current slug, or null when there is no such work.
@@ -43,9 +45,10 @@ async function currentSlug(slug: string): Promise<string | null | undefined> {
  * Every work slug is checked: renamed ones can look exactly like current ones.
  */
 async function redirectLegacyWork(req: NextRequest) {
-  const match = req.nextUrl.pathname.match(WORK_PATH);
+  const { locale, path } = splitLocale(req.nextUrl.pathname);
+  const match = path.match(/^\/works\/([^/]+)$/);
   if (!match) return null;
-  const [, locale, encoded] = match;
+  const [, encoded] = match;
   const slug = decodeURIComponent(encoded);
   if (WORK_FACET.test(slug)) return null; // a filter path, not a work
 
@@ -54,7 +57,7 @@ async function redirectLegacyWork(req: NextRequest) {
   if (current === null) return NextResponse.rewrite(new URL(`/${locale}/_not-found`, req.url));
   if (!current || current === slug) return null;
 
-  const target = new URL(`/${locale}/works/${encodeURIComponent(current)}`, process.env.SITE_URL ?? req.url);
+  const target = new URL(localePath(locale, `/works/${encodeURIComponent(current)}`), process.env.SITE_URL ?? req.url);
   target.search = req.nextUrl.search; // keep ?tr=<id>
   return NextResponse.redirect(target, 308);
 }
@@ -99,8 +102,27 @@ function redirectLegacyFilters(req: NextRequest) {
   return NextResponse.redirect(new URL(target, process.env.SITE_URL ?? req.url), 308);
 }
 
+/**
+ * Azerbaijani URLs used to carry /az: they get a permanent redirect to the same path
+ * without it.
+ */
+function dropDefaultPrefix(req: NextRequest) {
+  const path = req.nextUrl.pathname;
+  if (path !== `/${defaultLocale}` && !path.startsWith(`/${defaultLocale}/`)) return null;
+  const target = new URL(path.slice(defaultLocale.length + 1) || '/', process.env.SITE_URL ?? req.url);
+  target.search = req.nextUrl.search;
+  return NextResponse.redirect(target, 308);
+}
+
+const SHARE_IMAGE = /\/(opengraph|twitter)-image[^/]*$/;
+
 export default async function middleware(req: NextRequest) {
+  // Share images keep their prefix: Next writes og:image URLs with the internal /az segment
+  if (SHARE_IMAGE.test(req.nextUrl.pathname) && splitLocale(req.nextUrl.pathname).path !== req.nextUrl.pathname) {
+    return NextResponse.next();
+  }
   return (
+    dropDefaultPrefix(req) ??
     redirectLegacyFilters(req) ??
     (await checkFilterPath(req)) ??
     (await redirectLegacyWork(req)) ??
@@ -110,15 +132,11 @@ export default async function middleware(req: NextRequest) {
 
 /**
  * Pages are cached at Cloudflare, which won't store a response that sets a cookie, and
- * next-intl sets NEXT_LOCALE on every page a cookieless visitor (or crawler) opens. The
- * locale is in every URL anyway; the cookie only steers the bare `/` redirect, and the
- * language switcher sets it in the browser.
+ * next-intl may set NEXT_LOCALE. The locale is in every URL, so the cookie is never needed.
  */
-function withoutLocaleCookie(req: NextRequest, res: NextResponse) {
-  if (req.nextUrl.pathname !== '/') {
-    res.headers.delete('set-cookie');
-    res.headers.delete('x-middleware-set-cookie');
-  }
+function withoutLocaleCookie(_req: NextRequest, res: NextResponse) {
+  res.headers.delete('set-cookie');
+  res.headers.delete('x-middleware-set-cookie');
   return res;
 }
 

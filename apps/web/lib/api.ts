@@ -1,4 +1,5 @@
 import { notFound, permanentRedirect } from 'next/navigation';
+import { localePath } from '@/lib/i18n';
 
 const PUBLIC_API_URL = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -79,7 +80,7 @@ export async function getWorkOrRedirect(slug: string, locale: string, suffix = '
     if (!(err instanceof ApiError && err.status === 404)) throw err;
     const current = await api.resolveWork(slug).catch(() => null);
     if (current && current.slug !== slug) {
-      permanentRedirect(`/${locale}/works/${encodeURIComponent(current.slug)}${suffix}`);
+      permanentRedirect(localePath(locale, `/works/${encodeURIComponent(current.slug)}${suffix}`));
     }
     notFound();
   }
