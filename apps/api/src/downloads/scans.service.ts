@@ -41,6 +41,15 @@ interface Layout {
   collections: Map<string, { from: number; to: number }>;
 }
 
+/**
+ * A work's pages read off the scan by hand, where the page marks can't tell: a book's only work
+ * imported from it runs "to the end" otherwise, into whatever else the volume prints.
+ */
+const KNOWN_PAGES: Record<string, { from: number; to: number }> = {
+  // Seçilmiş əsərləri III (2005): «Geriyə baxma, qoca» follows from p. 94
+  'anl-8529-t1': { from: 4, to: 93 },
+};
+
 const naturalCompare = (a: string, b: string) => a.localeCompare(b, 'en', { numeric: true });
 
 /**
@@ -171,6 +180,10 @@ export class ScansService {
         });
       }
     });
+
+    for (const [sourceId, range] of Object.entries(KNOWN_PAGES)) {
+      if (works.has(sourceId)) works.set(sourceId, { from: range.from, to: Math.min(range.to, pages) });
+    }
 
     const collections = new Map<string, { from: number; to: number }>();
     for (const row of placed) {
