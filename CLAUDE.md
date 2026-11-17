@@ -37,6 +37,7 @@ pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a Natio
 - **`@@index([collectionId, order])`** on Work — the compound index powers prev/next queries
 - **Translations**: several per language are allowed (different translators); `isDefault` marks the one shown first per work + language, and the first one added becomes the default. The reading page switches versions via `?tr=<id>`
 - **Submissions** use a single table with JSON payload, type-discriminated
+- **Reader accounts** (`apps/api/src/account`, `apps/api/src/library`): sign-in by emailed 6-digit code or Google, no passwords; the session is an HttpOnly cookie scoped to `/api`, so pages stay identical and edge-cacheable for everyone. All per-reader UI (saved, read marks, reading position, book want/reading/read, lists, shelf at `/refim`) loads in the browser (`apps/web/lib/account.ts`, `lib/library.ts`); writes need the `x-kitabxana: 1` header. A book's status follows its parts by the rules in `library/rules.ts` (`pnpm --dir apps/api test`). Mail and Google are off until `MAIL_API_KEY` / `GOOGLE_CLIENT_ID` + `GOOGLE_CLIENT_SECRET` are set
 - **Work slugs** are readable (`fuzuli-qezel-7`). `Work.sourceId` is the stable import key (e.g. `ganjoor-116713`); renamed slugs go into `previousSlugs` and old URLs 308-redirect (middleware for legacy slugs, page fallback otherwise)
 
 ## i18n

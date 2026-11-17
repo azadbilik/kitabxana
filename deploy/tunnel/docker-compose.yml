@@ -45,6 +45,12 @@ services:
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
       # Scanned source books (<key>.pdf, e.g. anl-8283.pdf), see ScansService
       SCANS_DIR: /scans
+      # Reader sign-in. Without MAIL_API_KEY codes are only logged; without the Google pair
+      # "Continue with Google" is hidden. Redirect URI: https://${DOMAIN}/api/auth/google/callback
+      MAIL_API_KEY: ${MAIL_API_KEY:-}
+      MAIL_FROM: ${MAIL_FROM:-Kitabxana.az <giris@kitabxana.az>}
+      GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
+      GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
     volumes:
       - api-data:/data
       - ${SCANS_DIR:-${HOME}/kitabxana-scans}:/scans:ro

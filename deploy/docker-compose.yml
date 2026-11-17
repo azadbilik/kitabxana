@@ -44,6 +44,11 @@ services:
       # IndexNow pings (off without a key); state kept on the volume
       SITE_URL: https://${DOMAIN}
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
+      # Reader sign-in (see deploy/tunnel/docker-compose.yml)
+      MAIL_API_KEY: ${MAIL_API_KEY:-}
+      MAIL_FROM: ${MAIL_FROM:-Kitabxana.az <giris@kitabxana.az>}
+      GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
+      GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
     volumes:
       - api-data:/data
     depends_on:
