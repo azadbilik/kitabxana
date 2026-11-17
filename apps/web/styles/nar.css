@@ -307,20 +307,22 @@
   :root:where(:not([data-skin='gazette'])) .header-search-btn-label { display: none; }
   :root:where(:not([data-skin='gazette'])) .header-search-btn svg { display: block; }
 }
-/* Phones: logo and tools share the top row; the catalogue button joins the search */
+/* Phones: two clean rows — wordmark + compact tools, then catalogue + search —
+   and the sections as a strip that scrolls sideways, its far edge fading out */
 @media (max-width: 600px) {
   :root:where(:not([data-skin='gazette'])) .header-inner {
     grid-template-columns: auto minmax(0, 1fr) auto;
-    grid-template-areas:   'logo    logo   tools'
+    grid-template-areas:   'logo    .      tools'
                            'catalog search search'
                            'nav     nav    nav';
     padding:               0.6rem 1rem 0;
-    column-gap:            0.5rem;
+    gap:                   0.6rem 0.5rem;
   }
   :root:where(:not([data-skin='gazette'])) .catalog-btn { padding: 0 0.8rem; font-size: 0.9rem; }
-}
-@media (max-width: 480px) {
-  :root:where(:not([data-skin='gazette'])) .site-nav { gap: 0 1.1rem; }
+  :root:where(:not([data-skin='gazette'])) .header-tools { gap: 0.35rem; }
+  :root:where(:not([data-skin='gazette'])) .header-tools .lang-switcher { display: none; }
+  :root:where(:not([data-skin='gazette'])) .header-tools .lang-select-wrap { display: block; }
+  :root:where(:not([data-skin='gazette'])) .account-signin { padding: 0 0.75rem; font-size: 0.85rem; }
 }
 
 /* ── Controls ───────────────────────────────────────────────── */
@@ -340,6 +342,10 @@
   color:      #fff;
 }
 :root:where(:not([data-skin='gazette'])) .chip-row { gap: 0.5rem; }
+/* The opening sits on its own grey card: no quote rule as well */
+:root:where(:not([data-skin='gazette'])) .book-opening-text { border: none; padding: 0; margin: 0; font-style: normal; }
+:root:where(:not([data-skin='gazette'])) .alpha-pill { padding: 0.35rem 0.25rem; min-width: 2.05rem; }
+:root:where(:not([data-skin='gazette'])) .pill--century { min-width: 3rem; justify-content: center; }
 :root:where(:not([data-skin='gazette'])) .filter-bar { gap: 0.5rem 2rem; }
 :root:where(:not([data-skin='gazette'])) .pagination .pill {
   min-width:     2.5rem;
@@ -830,6 +836,17 @@
     width:      auto;
   }
 }
+/* Phones: the sections strip scrolls sideways, its edges fading out */
+@media (max-width: 600px) {
+  :root:where(:not([data-skin='gazette'])) .site-nav {
+    margin:             0 -1rem;
+    padding:            0 1rem;
+    gap:                0 1.1rem;
+    -webkit-mask-image: linear-gradient(to right, transparent 0, #000 1rem, #000 calc(100% - 2.5rem), transparent);
+            mask-image: linear-gradient(to right, transparent 0, #000 1rem, #000 calc(100% - 2.5rem), transparent);
+  }
+  :root:where(:not([data-skin='gazette'])) .site-nav a { flex-shrink: 0; white-space: nowrap; }
+}
 @media (max-width: 768px) {
   :where(:root:where(:not([data-skin='gazette']))) h1 { font-size: 2rem; }
   :root:where(:not([data-skin='gazette'])) .work-heading { font-size: 2rem; }
@@ -981,17 +998,11 @@
   transition:     color 0.15s;
 }
 :root:where(:not([data-skin='gazette'])) .catalog-unit { font-family: var(--font-ui); font-style: normal; color: var(--muted); }
-/* The whole collection leads, in the one accent */
-:root:where(:not([data-skin='gazette'])) .catalog-tile--works,
-:root:where(:not([data-skin='gazette'])) .catalog-tile--works:hover { background: var(--pomeg-fill); }
-:root:where(:not([data-skin='gazette'])) .catalog-tile--works .catalog-kind,
-:root:where(:not([data-skin='gazette'])) .catalog-tile--works .catalog-unit,
-:root:where(:not([data-skin='gazette'])) .catalog-tile--works .catalog-count,
-:root:where(:not([data-skin='gazette'])) .catalog-tile--works:hover .catalog-count { color: #fff; }
 @media (max-width: 768px) {
   :root:where(:not([data-skin='gazette'])) .catalog-grid li,
   :root:where(:not([data-skin='gazette'])) .catalog-grid li + li { border: none; }
-  :root:where(:not([data-skin='gazette'])) .catalog-tile { min-height: 7.5rem; padding: 1rem 1.15rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-tile { padding: 0.9rem 1rem; }
+  :root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 1.6rem; }
 }
 
 /* ── Other poets: a full-width grey band with white cards ───── */
@@ -1050,6 +1061,20 @@
   color:          var(--muted);
 }
 :root:where(:not([data-skin='gazette'])) .catalog-tile { justify-content: flex-start; }
+/* One calm row of figures: every tile the same — the number, then what it counts.
+   The units name their form ("məsnəvi fəsli"), so the section caption isn't needed */
+:root:where(:not([data-skin='gazette'])) .catalog-kind { display: none; }
+/* Tiles share a row evenly; on narrow screens they fall into even pairs */
+:root:where(:not([data-skin='gazette'])) .catalog-grid { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+:root:where(:not([data-skin='gazette'])) .catalog-grid li { flex: 1 1 0; min-width: 8.5rem; }
+:root:where(:not([data-skin='gazette'])) .catalog-grid .catalog-tile { height: 100%; }
+:root:where(:not([data-skin='gazette'])) .catalog-tile {
+  min-height: 0;
+  padding:    1.1rem 1.25rem;
+  gap:        0.15rem;
+}
+:root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 2rem; line-height: 1.1; }
+:root:where(:not([data-skin='gazette'])) .catalog-unit { font-size: 0.9rem; }
 
 /* Recent works: title first, then author, then form and year */
 :root:where(:not([data-skin='gazette'])) .works-strip-col { display: flex; flex-direction: column; }
@@ -1123,20 +1148,31 @@
 /* The poet card stays grey; the poem of the day sits on the accent's soft tint */
 :root:where(:not([data-skin='gazette'])) .home-poet,
 :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem { display: flex; flex-direction: column; }
-:root:where(:not([data-skin='gazette'])) .home-poet .featured-box { flex: 1; border-radius: var(--radius-xl); }
+:root:where(:not([data-skin='gazette'])) .home-poet .featured-box { flex: 1; margin: 0; border-radius: var(--radius-xl); }
+:root:where(:not([data-skin='gazette'])) .home-poet .featured-name,
+:root:where(:not([data-skin='gazette'])) .home-poet .featured-meta { text-align: left; justify-content: flex-start; }
+/* Both cards start on the same line and stretch to the same height; each carries
+   its own label inside, in the same place */
 :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem {
-  padding:       0 1.75rem 1.75rem;
+  margin:        0;
+  padding:       2.5rem 2rem 1.75rem;
   border-radius: var(--radius-xl);
   background:    var(--tint);
   text-align:    left;
 }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem .section-label {
-  margin:      1.6rem 0 0.25rem;
+:root:where(:not([data-skin='gazette'])) .home-hero .section-label {
+  display:     block;
+  margin:      0 0 0.75rem;
+  font-family: var(--font-ui);
   font-size:   0.875rem;
   font-weight: 600;
-  color:       var(--pomeg);
+  line-height: 1.4;
+  color:       var(--muted);
 }
-:root:where(:not([data-skin='gazette'])) .home-hero .section-label { font-size: 0.875rem; font-weight: 600; color: var(--muted); margin-bottom: 0.6rem; }
+:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem .section-label { color: var(--pomeg); }
+:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-title { margin-top: 0; }
+:root:where(:not([data-skin='gazette'])) .home-poet .featured-box-inner { height: 100%; display: flex; flex-direction: column; }
+:root:where(:not([data-skin='gazette'])) .home-poet .featured-more { margin-top: auto; padding-top: 1.25rem; }
 :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-title { font-family: var(--font-serif); font-size: 1.6rem; text-align: left; }
 :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-author { text-align: left; color: var(--muted); }
 :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-excerpt {
@@ -1166,7 +1202,7 @@
 :root:where(:not([data-skin='gazette'])) .home-browse .pill { background: var(--bg); }
 :root:where(:not([data-skin='gazette'])) .home-browse .pill:hover { background: var(--surf-2); }
 @media (max-width: 480px) {
-  :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem { padding: 0 1.25rem 1.25rem; }
+  :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem { padding: 1.75rem 1.25rem 1.25rem; }
   :root:where(:not([data-skin='gazette'])) .home-browse { padding: 1.25rem; }
 }
 

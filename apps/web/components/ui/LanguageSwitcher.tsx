@@ -22,6 +22,20 @@ export function LanguageSwitcher() {
   };
 
   return (
+    <>
+    {/* Phones: one compact control in place of the three buttons */}
+    <label className="lang-select-wrap">
+      <span className="sr-only">Language / Dil / Язык</span>
+      <select
+        className="lang-select"
+        value={currentLocale}
+        onChange={(e) => switchLocale(e.target.value)}
+      >
+        {locales.map((loc) => (
+          <option key={loc} value={loc}>{labels[loc]}</option>
+        ))}
+      </select>
+    </label>
     <div className="lang-switcher">
       {locales.map((loc) => (
         <button
@@ -34,5 +48,6 @@ export function LanguageSwitcher() {
         </button>
       ))}
     </div>
+    </>
   );
 }

@@ -8,6 +8,31 @@ import { slugify } from '../common/utils/slug';
 import { publishedArtworks } from '../common/utils/artwork';
 import { ScansService } from '../downloads/scans.service';
 
+/**
+ * A book's opening, from its first work's markdown: up to four lines of verse, or the first
+ * paragraph of prose cut at a sentence end near 320 characters. Headings, stage directions
+ * in brackets and markdown marks are left out; null when nothing readable remains.
+ */
+export function openingLines(body: string, verse: boolean): { text: string; verse: boolean } | null {
+  const clean = (s: string) =>
+    s
+      .replace(/^#+\s.*$/gm, '')
+      .replace(/[*_`>]/g, '')
+      .replace(/\[(.*?)\]\(.*?\)/g, '$1')
+      .trim();
+  const blocks = body.split(/\n{2,}/).map(clean).filter((b) => b && !/^\[.*\]$/s.test(b));
+  if (!blocks.length) return null;
+  if (verse) {
+    const lines = blocks.join('\n').split('\n').map((l) => l.trim()).filter(Boolean).slice(0, 4);
+    return lines.length ? { text: lines.join('\n'), verse: true } : null;
+  }
+  const para = blocks[0].replace(/\s+/g, ' ');
+  if (para.length <= 360) return { text: para, verse: false };
+  const cut = para.slice(0, 360);
+  const end = Math.max(cut.lastIndexOf('. '), cut.lastIndexOf('! '), cut.lastIndexOf('? '));
+  return { text: end > 120 ? cut.slice(0, end + 1) : `${cut.slice(0, cut.lastIndexOf(' '))}…`, verse: false };
+}
+
 @Injectable()
 export class CollectionsService {
   constructor(
@@ -107,7 +132,13 @@ export class CollectionsService {
     if (!collection) throw new NotFoundException('Collection not found');
     // The scanned books the collection was transcribed from
     const scans = await this.scans.forWorks(collection.id, collection.works);
-    return { ...collection, works: collection.works.map(({ sourceId: _, ...w }) => w), scans };
+    // The book's first lines, shown on its page where it has no description
+    const first = collection.works[0]
+      ? await this.prisma.work.findUnique({ where: { id: collection.works[0].id }, select: { body: true, genre: true } })
+      : null;
+    // Plays open on a cast list, which says little: they get no opening
+    const opening = first && first.genre !== 'PLAY' ? openingLines(first.body, first.genre === 'POEM') : null;
+    return { ...collection, works: collection.works.map(({ sourceId: _, ...w }) => w), scans, opening };
   }
 
   async create(dto: CreateCollectionDto) {

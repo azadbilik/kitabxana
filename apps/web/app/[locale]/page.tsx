@@ -91,7 +91,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   // Shelves of books; on Russian and English pages only books titled in that language
   const books = (q: Record<string, string | number | boolean>) =>
     api
-      .getCollections({ limit: 12, onePerAuthor: true, titledIn: titledIn(locale), ...q })
+      .getCollections({ limit: 24, onePerAuthor: true, titledIn: titledIn(locale), ...q })
       .then((r) => r.data)
       .catch(() => [] as BookSummary[]);
 
@@ -108,7 +108,13 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
   const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0).slice(0, 8);
   const booksPath = (q: Record<string, string> = {}) =>
     `${localePath(locale, '/collections')}${Object.keys(q).length ? `?${new URLSearchParams(q)}` : ''}`;
-  const shelf = (list: BookSummary[]) => list.map((b) => shelfBook(b, locale, { kind, note }));
+  // Each book on one shelf only: a later shelf skips what an earlier one already shows
+  const shown = new Set<string>();
+  const shelf = (list: BookSummary[]) => {
+    const fresh = list.filter((b) => !shown.has(b.slug)).slice(0, 12);
+    fresh.forEach((b) => shown.add(b.slug));
+    return fresh.map((b) => shelfBook(b, locale, { kind, note }));
+  };
 
   // Truncate bio to first 2 sentences for the featured box
   const bio = featured ? localeBio(featured, locale) : null;
@@ -137,10 +143,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
       {/* ── Hero: poet of the week, poem of the day ─────────── */}
       <div className="home-hero">
         <section className="home-poet" aria-labelledby="home-poet-label">
-          <p className="section-label" id="home-poet-label">{t('featured_label')}</p>
           {featured ? (
             <div className="featured-box">
               <div className="featured-box-inner">
+                <p className="section-label" id="home-poet-label">{t('featured_label')}</p>
                 <h1 className="featured-name">{localeName(featured, locale)}</h1>
                 <div className="meta-strip featured-meta">
                   {featured.bornYear && featured.diedYear && (
@@ -171,7 +177,10 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
               </div>
             </div>
           ) : (
-            <p className="empty-note">{t('coming_soon')}</p>
+            <>
+              <p className="section-label" id="home-poet-label">{t('featured_label')}</p>
+              <p className="empty-note">{t('coming_soon')}</p>
+            </>
           )}
         </section>
 

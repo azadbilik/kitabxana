@@ -56,7 +56,7 @@ export function HomeMine() {
       {work && (
         <div className="continue-card">
           <div className="continue-cover">
-            <BookCover title={bookTitle ?? title} author={author} kind={tc(`genre.${work.collection?.genre ?? work.genre}` as any)} seed={work.author.slug} size="sm" />
+            <BookCover title={bookTitle ?? title} author={author} kind={tc(`genre.${work.collection?.genre ?? work.genre}` as any)} seed={work.collection?.id ?? work.id} size="sm" />
           </div>
           <div className="continue-info">
             <p className="continue-label">{t('continue_label')}</p>

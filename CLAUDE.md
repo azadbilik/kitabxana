@@ -47,7 +47,7 @@ pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a Natio
 
 ## Design
 One design, **Nar**, in light and dark. Full system in `apps/web/DESIGN.md`.
-- A bookshop you read in (LitRes-like, calmer): white pages, ink text, grey surfaces, one pomegranate `#A81E28`; Inter for the interface, Literata for titles and reading; books shown as generated covers (`components/works/BookCover.tsx`, six cloth colours by author) on shelves (`Shelf.tsx`)
+- A bookshop you read in (LitRes-like, calmer): white pages, ink text, grey surfaces, one pomegranate `#A81E28`; Inter for the interface, Literata for titles and reading; books shown as generated covers (`components/works/BookCover.tsx`, six cloth colours and four stamped motifs picked per book) on shelves (`Shelf.tsx`)
 - Base and shared components in `apps/web/styles/globals.css`; Nar's tokens and overrides in `apps/web/styles/nar.css`, every rule scoped `:root:where(:not([data-skin='gazette']))` (no added specificity)
 - The old **Gazette** still renders underneath for developers only, no button: `localStorage.skin = 'gazette'; location.reload()` in the console (`localStorage.removeItem('skin')` to return). New components are designed for Nar and need only not break under it
 - Theme via `[data-theme]` (OS preference until the reader chooses, `localStorage.theme`), set before paint with the gazette flag by the inline script in `app/layout.tsx`

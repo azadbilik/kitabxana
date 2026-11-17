@@ -148,7 +148,7 @@ The text comes first. A poem is set large in a serif at a comfortable measure, t
 **Key characteristics**
 - White page, ink text, grey surfaces, one pomegranate red.
 - Inter for the interface and section heads; Literata for anything with a title or meant to be read.
-- Books shown as **generated covers**: no images, a cloth colour per author, the title in the book serif.
+- Books shown as **generated covers**: no images, a cloth colour and a stamped motif per book, the title in the book serif.
 - Flat. Grouping by grey surfaces and space, not by lines or ornaments. Only floating panels cast a shadow.
 - Light and dark themes (`data-theme`, from the OS until the reader chooses, set before paint).
 
@@ -169,7 +169,7 @@ The text comes first. A poem is set large in a serif at a comfortable measure, t
 - Dark theme: near-black page #121317, ink #ECEDEF, muted #A3A7B0, surfaces #1D1F25 / #272A31.
 
 ### Cloths (covers only)
-Six cover colours, picked from a hash of the author's slug so one author's books match: red #8E1B24, navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover.
+Six cover colours, picked from a hash of the book's id, so one author's books differ and a shelf or the books index never reads as a wall of one colour; on a shelf a book that would match its neighbour moves on one cloth (`clothSequence`): red #8E1B24, navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover.
 
 ### Named rules
 **The One Red Rule.** Pomegranate is the only accent; it goes on the one primary action, the one active choice in a group, and action links. No second accent hue. Cloths are not accents.
@@ -203,7 +203,7 @@ Container up to 80rem with 1.5rem side padding (1rem on phones).
 - **Header** (sticky, white, a rule below): row one is the wordmark, the red **Kataloq** button (to the books index), the search field with a black **Axtar** button, then language and theme. Row two is the section links (Poets, Writers, Playwrights, Philosophers, Works, Ghazals, Prose, Random, Contribute); the current one is red with a 2px underline. Under 900px the search takes its own row; under 600px the catalogue button joins the search row and the tools share the wordmark's row. The section row scrolls sideways on phones. It hides on scroll down under 1,119px.
 - **Home**: a hero row (poet of the week on grey, 3fr; poem of the day on tint, 2fr; stacked under 900px), then shelves — New on the shelves, Classical heritage, Novels and stories, Plays — then a grey browse band (themes, centuries, forms) and the catalogue tiles. Signed-in readers will get "Continue reading" and their own shelf here.
 - **Shelf**: a head (title, "See all") and one row of up to six covers on wide screens, scrolling sideways below that; a full shelf grid elsewhere (`repeat(auto-fill, minmax(9.5rem, 1fr))`, two columns on phones). Under each cover: title (two lines), author, a muted note.
-- **Book page** (`/collections/<slug>`): breadcrumb (Books › author › book), a 15rem cover beside the title, author, fact pills, description, the primary "Start reading", downloads; then contents as a grid of grey rows (a numbered circle, title, form); then the author's other books.
+- **Book page** (`/collections/<slug>`): breadcrumb (Books › author › book), a 15rem cover beside the title, author, fact pills (kind, year, century, language where it isn't Azerbaijani, number of parts), the description — or, where a book has none, its first lines on a grey card ("How it begins"; plays get none) — the primary "Start reading", downloads; then contents as a grid of grey rows (a numbered circle, title, form), left out for a one-part book; then the author's other books.
 - **Books index** (`/collections`): genre, century and sort pills over a cover grid, paged by 36. Filtered and re-sorted views are `noindex`.
 - **Reading measures**, unchanged: 36rem single column, 48rem Persian verse, 64rem parallel text. Wider layouts belong to indexes, never to reading.
 
@@ -211,7 +211,7 @@ Breakpoints: 480px (phones), 600px (header rows), 768px (stacking, single-column
 
 ## Covers
 
-`components/works/BookCover.tsx`. A 2:3 block: author (Inter, uppercase, two lines at most) at the top, the title (Literata 700) in the middle, the kind ("Roman", "Şeir") at the foot, a 5px darker spine on the left. The cover is a size container: its padding is in % of its width and its type in `cqi`, so one rule serves shelf, index and book-page sizes. The title size is computed from the title's length and its longest word so that no word is ever split and the title fits in six lines. Arabic-script titles switch to Naskh. Covers are decorative (`aria-hidden`); the link around them carries the title and author as text.
+`components/works/BookCover.tsx`. A 2:3 block: author (Inter, uppercase, two lines at most) at the top, the title (Literata 700) in the middle, the kind ("Roman", "Şeir") at the foot, a darker spine down the left edge with a light crease beside it, and a faint blind-stamped frame inside the board. Between author and title sits one of four small motifs in the cloth's own ink (a rule, three dots, the eight-pointed star between rules, an arch), picked by the book like the cloth; small covers leave it out. The cover is a size container: its padding is in % of its width and its type in `cqi`, so one rule serves shelf, index and book-page sizes. The title size is computed from the title's length and its longest word so that no word is ever split and the title fits in six lines. Arabic-script titles switch to Naskh. Covers are decorative (`aria-hidden`); the link around them carries the title and author as text.
 
 ## Elevation
 

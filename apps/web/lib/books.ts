@@ -18,7 +18,7 @@ export function shelfBook(
     href: localePath(locale, `/collections/${book.slug}`),
     title: localized(book, 'title', locale) ?? book.titleAz,
     author: localized(book.author, 'name', locale) ?? book.author.nameAz,
-    seed: book.author.slug,
+    seed: book.id,
     kind: kind?.(book.genre),
     note: note?.(book),
   };

@@ -49,6 +49,20 @@ const TYPE_LABELS: Record<string, Record<string, string>> = {
 };
 
 /** API query for a list page; generateMetadata and the page build the same one, so the fetch is shared */
+/** "1874 — 1918"; with one year only, "d. 1907" or "ö. 1766" — never a dangling dash */
+function lifeYears(
+  a: { bornYear?: number | null; diedYear?: number | null; bornYearApprox?: boolean; diedYearApprox?: boolean },
+  locale: string,
+): string | null {
+  const born = a.bornYear ? `${a.bornYearApprox ? '~' : ''}${a.bornYear}` : null;
+  const died = a.diedYear ? `${a.diedYearApprox ? '~' : ''}${a.diedYear}` : null;
+  if (born && died) return `${born} — ${died}`;
+  const word = (b: Record<string, string>) => b[locale] ?? b.az;
+  if (born) return `${word({ az: 'd.', ru: 'род.', en: 'b.' })} ${born}`;
+  if (died) return `${word({ az: 'ö.', ru: 'ум.', en: 'd.' })} ${died}`;
+  return null;
+}
+
 function authorsQuery(filters: { type?: string; century?: number }, sp: Record<string, string | string[] | undefined>) {
   const query = new URLSearchParams();
   if (filters.type) query.set('type', filters.type);
@@ -106,23 +120,19 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
       <hr className="rule" style={{ margin: '1rem 0' }} />
 
       {/* Alphabet strip */}
-      <div style={{ display: 'flex', gap: '3px', flexWrap: 'wrap', marginBottom: '1.5rem' }}>
+      <div className="alpha-strip">
         {AZ_ALPHABET.split('').map((letter) => (
           <Link
             key={letter}
             href={authorsPath(locale, filters, { letter: letter === sp.letter ? undefined : letter })}
-            className={`pill ${sp.letter === letter ? 'active' : ''}`}
-            style={{ minWidth: '1.75rem', textAlign: 'center', padding: '0.2rem 0.3rem' }}
+            className={`pill alpha-pill ${sp.letter === letter ? 'active' : ''}`}
+            aria-current={sp.letter === letter ? 'true' : undefined}
           >
             {letter}
           </Link>
         ))}
         {sp.letter && (
-          <Link
-            href={authorsPath(locale, filters)}
-            className="pill"
-            style={{ padding: '0.2rem 0.6rem' }}
-          >
+          <Link href={authorsPath(locale, filters)} className="pill alpha-pill" aria-label={locale === 'ru' ? 'Все буквы' : locale === 'en' ? 'All letters' : 'Bütün hərflər'}>
             ✕
           </Link>
         )}
@@ -138,35 +148,34 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
               href={localePath(locale, `/authors/${author.slug}`)}
               className="card-item"
             >
-              <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'flex-start' }}>
-                <span style={{ fontFamily: 'var(--font-serif)', fontSize: '1.05rem', fontWeight: 600 }}>
-                  {name}
-                </span>
-                <span className="author-type">
-                  {TYPE_LABELS[author.type]?.[locale] ?? TYPE_LABELS[author.type]?.az ?? author.type}
-                </span>
-              </div>
-              <div className="meta-strip" style={{ marginTop: '0.3rem' }}>
-                <span>
-                  {author.bornYearApprox && '~'}{author.bornYear}
-                  {author.diedYear && ` — ${author.diedYearApprox ? '~' : ''}${author.diedYear}`}
-                </span>
-                {author.period && (
-                  <>
-                    <span className="dot" />
-                    <span>{periodLabel(author.period, locale)}</span>
-                  </>
-                )}
-                {author._count.works > 0 && (
-                  <>
-                    <span className="dot" />
-                    <span>
-                      {author._count.works}{' '}
-                      {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}
-                    </span>
-                  </>
+              <div className="author-card-head">
+                <span className="author-card-name">{name}</span>
+                {/* On a page already filtered to one kind of author the badge would repeat the heading */}
+                {!filters.type && (
+                  <span className="author-type">
+                    {TYPE_LABELS[author.type]?.[locale] ?? TYPE_LABELS[author.type]?.az ?? author.type}
+                  </span>
                 )}
               </div>
+              {(() => {
+                const parts = [
+                  lifeYears(author, locale),
+                  author.period ? periodLabel(author.period, locale) : null,
+                  author._count.works > 0
+                    ? `${author._count.works} ${locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}`
+                    : null,
+                ].filter((p): p is string => !!p);
+                return parts.length ? (
+                  <div className="meta-strip author-card-meta">
+                    {parts.map((p, i) => (
+                      <span key={i} className="author-card-meta-item">
+                        {i > 0 && <span className="dot" />}
+                        <span>{p}</span>
+                      </span>
+                    ))}
+                  </div>
+                ) : null;
+              })()}
             </Link>
           );
         })}

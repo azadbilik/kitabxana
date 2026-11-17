@@ -12,6 +12,9 @@ import {
   paginatedResult,
 } from '../common/utils/pagination';
 
+/** Names in the order of the Azerbaijani alphabet (ICU's "az" collation) */
+const AZ_COLLATOR = new Intl.Collator('az', { sensitivity: 'base' });
+
 @Injectable()
 export class AuthorsService {
   constructor(private prisma: PrismaService) {}
@@ -50,34 +53,42 @@ export class AuthorsService {
         }
       : query.sort === 'recent' ? { ...where, works: { some: {} } } : where;
 
-    const [data, total] = await this.prisma.$transaction([
-      this.prisma.author.findMany({
-        where: listWhere,
-        skip,
-        take,
-        orderBy: query.sort === 'recent' ? { createdAt: 'desc' } : { nameAz: 'asc' },
-        select: {
-          id: true,
-          slug: true,
-          nameAz: true,
-          nameRu: true,
-          nameEn: true,
-          bornYear: true,
-          bornYearApprox: true,
-          diedYear: true,
-          diedYearApprox: true,
-          type: true,
-          period: true,
-          portraitUrl: true,
-          writingLangs: true,
-          status: true,
-          _count: { select: { works: true } },
-        },
-      }),
-      this.prisma.author.count({ where: listWhere }),
-    ]);
+    const select = {
+      id: true,
+      slug: true,
+      nameAz: true,
+      nameRu: true,
+      nameEn: true,
+      bornYear: true,
+      bornYearApprox: true,
+      diedYear: true,
+      diedYearApprox: true,
+      type: true,
+      period: true,
+      portraitUrl: true,
+      writingLangs: true,
+      status: true,
+      _count: { select: { works: true } },
+    } satisfies Prisma.AuthorSelect;
 
-    return paginatedResult(data, total, page, limit);
+    if (query.sort === 'recent') {
+      const [data, total] = await this.prisma.$transaction([
+        this.prisma.author.findMany({ where: listWhere, skip, take, orderBy: { createdAt: 'desc' }, select }),
+        this.prisma.author.count({ where: listWhere }),
+      ]);
+      return paginatedResult(data, total, page, limit);
+    }
+
+    // By name in the Azerbaijani alphabet (… g ğ h x ı i … k q …): the database's collation
+    // sorts by code point and puts "Ağa" after "Aslan", so order the names here, then page
+    const names = await this.prisma.author.findMany({ where: listWhere, select: { id: true, nameAz: true } });
+    names.sort((a, b) => AZ_COLLATOR.compare(a.nameAz, b.nameAz));
+    const ids = names.slice(skip, skip + take).map((a) => a.id);
+    const rows = await this.prisma.author.findMany({ where: { id: { in: ids } }, select });
+    const byId = new Map(rows.map((r) => [r.id, r]));
+    const data = ids.map((id) => byId.get(id)!).filter(Boolean);
+
+    return paginatedResult(data, names.length, page, limit);
   }
 
   async findById(id: string) {

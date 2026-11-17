@@ -2,7 +2,7 @@ import type { Metadata } from 'next';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { api, notFoundOn404 } from '@/lib/api';
-import { localized } from '@/lib/locale';
+import { localized, periodLabel } from '@/lib/locale';
 import { breadcrumbLd, pageMetadata, publisherLd, sameAs, SITE_URL } from '@/lib/seo';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
@@ -36,6 +36,16 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
     images: false,
   });
 }
+
+const LANG_LABELS: Record<string, Record<string, string>> = {
+  AZ_LATIN:    { az: 'Azərbaycanca', ru: 'На азербайджанском', en: 'In Azerbaijani' },
+  AZ_ARABIC:   { az: 'Azərbaycanca (ərəb əlifbası)', ru: 'На азербайджанском (араб. письмо)', en: 'In Azerbaijani (Arabic script)' },
+  AZ_CYRILLIC: { az: 'Azərbaycanca', ru: 'На азербайджанском', en: 'In Azerbaijani' },
+  FA:          { az: 'Farsca', ru: 'На персидском', en: 'In Persian' },
+  AR:          { az: 'Ərəbcə', ru: 'На арабском', en: 'In Arabic' },
+  RU:          { az: 'Rusca', ru: 'На русском', en: 'In Russian' },
+  TR:          { az: 'Türkcə', ru: 'На турецком', en: 'In Turkish' },
+};
 
 /** A book's description in the reader's language, as plain paragraphs */
 function description(collection: any, locale: string): string[] {
@@ -105,7 +115,7 @@ export default async function CollectionPage({ params }: Props) {
 
       <section className="book-head">
         <div className="book-head-cover">
-          <BookCover title={title} author={authorName} kind={genre} seed={collection.author.slug} size="lg" />
+          <BookCover title={title} author={authorName} kind={genre} seed={collection.id} size="lg" />
         </div>
 
         <div className="book-head-info">
@@ -115,13 +125,31 @@ export default async function CollectionPage({ params }: Props) {
           <ul className="book-facts">
             <li>{genre}</li>
             {collection.year && <li>{collection.yearApprox ? '~' : ''}{collection.year}</li>}
+            {collection.author.period && <li>{periodLabel(collection.author.period, locale)}</li>}
+            {/* The language only where it isn't the site's own Azerbaijani */}
+            {!['AZ_LATIN', 'AZ_CYRILLIC'].includes(collection.originalLang) && LANG_LABELS[collection.originalLang] && (
+              <li>{LANG_LABELS[collection.originalLang][locale] ?? LANG_LABELS[collection.originalLang].az}</li>
+            )}
             <li>{t('parts', { count: works.length })}</li>
           </ul>
 
-          {paragraphs.length > 0 && (
+          {paragraphs.length > 0 ? (
             <div className="book-description">
               {paragraphs.map((p, i) => <p key={i}>{p}</p>)}
             </div>
+          ) : (
+            collection.opening && (
+              // No description: the book's own first lines say what it is
+              <figure className="book-opening">
+                <figcaption className="book-opening-label">{t('opening')}</figcaption>
+                <blockquote
+                  className={collection.opening.verse ? 'book-opening-text book-opening-text--verse' : 'book-opening-text'}
+                  {...(isArabicScript(collection.opening.text) && { lang: 'fa', dir: 'rtl' })}
+                >
+                  {collection.opening.text}
+                </blockquote>
+              </figure>
+            )
           )}
 
           {works.length > 0 && (
@@ -141,7 +169,8 @@ export default async function CollectionPage({ params }: Props) {
 
       <ArtworkGallery artworks={collection.artworks ?? []} locale={locale} initial={6} />
 
-      {works.length > 0 && (
+      {/* A one-part book needs no contents: "Start reading" opens that part */}
+      {works.length > 1 && (
         <section className="book-contents" aria-labelledby="book-contents-title">
           <h2 className="shelf-title" id="book-contents-title">{t('contents')}</h2>
           <BookContents

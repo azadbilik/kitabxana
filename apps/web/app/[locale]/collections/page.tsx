@@ -6,6 +6,7 @@ import { listingLabel, pageMetadata } from '@/lib/seo';
 import { localePath } from '@/lib/i18n';
 import { shelfBook, titledIn } from '@/lib/books';
 import { ShelfItem } from '@/components/works/Shelf';
+import { clothSequence } from '@/components/works/BookCover';
 import { Pagination } from '@/components/ui/Pagination';
 
 export const dynamic = 'force-dynamic';
@@ -69,6 +70,7 @@ export default async function BooksPage({ params, searchParams }: Props) {
   const home = await getTranslations({ locale, namespace: 'home' });
   const options = await getTranslations({ locale, namespace: 'contribute.options' });
   const result = await fetchBooks(locale, f);
+  const cloths = clothSequence(result.data.map((b) => b.id));
   const sortLabel = { recent: t('sort_recent'), size: t('sort_size'), title: t('sort_title') };
 
   return (
@@ -112,9 +114,10 @@ export default async function BooksPage({ params, searchParams }: Props) {
 
       {result.data.length ? (
         <ul className="shelf-grid books-grid">
-          {result.data.map((b) => (
+          {result.data.map((b, i) => (
             <li key={b.id}>
               <ShelfItem
+                cloth={cloths[i]}
                 book={shelfBook(b, locale, {
                   kind: (g) => options(`genre.${g}` as any),
                   note: (b) => home('work_count', { count: b.workCount }),

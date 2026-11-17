@@ -179,7 +179,7 @@ export function ListsPage() {
                   {l.covers.length ? (
                     l.covers.map((c) => (
                       <span key={c.id} className="list-card-cover">
-                        <BookCover title={localized(c, 'title', locale) ?? c.titleAz} author={localized(c.author, 'name', locale) ?? c.author.nameAz} seed={c.author.slug} size="sm" />
+                        <BookCover title={localized(c, 'title', locale) ?? c.titleAz} author={localized(c.author, 'name', locale) ?? c.author.nameAz} seed={c.id} size="sm" />
                       </span>
                     ))
                   ) : (
