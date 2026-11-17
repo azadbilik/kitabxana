@@ -44,20 +44,20 @@ export default async function CollectionPage({ params }: Props) {
           '@context': 'https://schema.org',
           '@type': 'Book',
           name: title,
-          url: `${SITE_URL}/${locale}/collections/${slug}`,
+          url: `${SITE_URL}${localePath(locale, `/collections/${slug}`)}`,
           ...(collection.year && { dateCreated: String(collection.year) }),
           isAccessibleForFree: true,
           publisher: publisherLd,
           author: {
             '@type': 'Person',
             name: authorName,
-            url: `${SITE_URL}/${locale}/authors/${collection.author.slug}`,
+            url: `${SITE_URL}${localePath(locale, `/authors/${collection.author.slug}`)}`,
             sameAs: sameAs(collection.author),
           },
           hasPart: collection.works.slice(0, 100).map((w: any) => ({
             '@type': 'CreativeWork',
             name: localized(w, 'title', locale) ?? w.titleAz,
-            url: `${SITE_URL}/${locale}/works/${w.slug}`,
+            url: `${SITE_URL}${localePath(locale, `/works/${w.slug}`)}`,
           })),
         }}
       />

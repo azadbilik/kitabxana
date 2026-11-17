@@ -1,5 +1,5 @@
 import type { Metadata } from 'next';
-import { pageMetadata } from '@/lib/seo';
+import { listingLabel, pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import Link from 'next/link';
@@ -61,6 +61,19 @@ function label(item: { az: string; ru: string; en: string }, locale: string) {
 
 const one = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v);
 
+/** API query for a list page; generateMetadata and the page build the same one, so the fetch is shared */
+function worksQuery(locale: string, filters: WorkFilters, sp: Record<string, string | string[] | undefined>) {
+  const query = new URLSearchParams();
+  if (filters.form) query.set('form', filters.form);
+  if (filters.genre) query.set('genre', filters.genre);
+  if (filters.author) query.set('authorSlug', filters.author);
+  if (one(sp.lang)) query.set('lang', one(sp.lang)!);
+  if (one(sp.page)) query.set('page', one(sp.page)!);
+  query.set('limit', '30');
+  query.set('incipit', ['az', 'ru', 'en'].includes(locale) ? locale : 'az');
+  return query;
+}
+
 /** Filters from the readable path, the author they name, and the page heading */
 async function resolveFilters(locale: string, sp: Record<string, string | string[] | undefined>) {
   const { filters, invalid, given } = parseWorkFacets(sp.f);
@@ -84,12 +97,14 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
   const t = await getTranslations({ locale });
   const { filters, heading, filtered } = await resolveFilters(locale, sp);
   const page = Number(one(sp.page)) || 1;
+  const result = (await api.getWorks(worksQuery(locale, filters, sp))) as WorksResponse;
 
   return pageMetadata({
     locale,
     path: worksPath(defaultLocale, filters, { page }),
-    title: filtered ? `${heading} — ${t('nav.works')}` : t('nav.works'),
-    description: t('site.description'),
+    title: listingLabel(filtered ? `${heading} — ${t('nav.works')}` : t('nav.works'), locale, { page }),
+    description: t('works.list_description', { heading: listingLabel(heading, locale, { page }), count: result.meta.total }),
+    noindex: result.data.length === 0,
   });
 }
 
@@ -109,17 +124,8 @@ export default async function WorksPage({ params, searchParams }: Props) {
   if (canonical !== requested) permanentRedirect(canonical);
   const href = (f: WorkFilters, page?: number) => worksPath(locale, f, { lang, page });
 
-  const query = new URLSearchParams();
-  if (filters.form) query.set('form', filters.form);
-  if (filters.genre) query.set('genre', filters.genre);
-  if (filters.author) query.set('authorSlug', filters.author);
-  if (lang) query.set('lang', lang);
-  if (one(sp.page)) query.set('page', one(sp.page)!);
-  query.set('limit', '30');
-  query.set('incipit', ['az', 'ru', 'en'].includes(locale) ? locale : 'az');
-
   const [result, tags] = await Promise.all([
-    api.getWorks(query) as Promise<WorksResponse>,
+    api.getWorks(worksQuery(locale, filters, sp)) as Promise<WorksResponse>,
     api.getTags().catch(() => []),
   ]);
   const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0);

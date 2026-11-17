@@ -69,7 +69,7 @@ export default async function AuthorPage({ params }: Props) {
           '@context': 'https://schema.org',
           '@type': 'Person',
           name,
-          url: `${SITE_URL}/${locale}/authors/${slug}`,
+          url: `${SITE_URL}${localePath(locale, `/authors/${slug}`)}`,
           jobTitle: typeLabels[author.type]?.[locale],
           ...(author.bornYear && { birthDate: String(author.bornYear) }),
           ...(author.diedYear && { deathDate: String(author.diedYear) }),

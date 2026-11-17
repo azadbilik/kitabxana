@@ -3,7 +3,7 @@ import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
 import { api, notFoundOn404, type TagDetail } from '@/lib/api';
 import { localized } from '@/lib/locale';
-import { pageMetadata } from '@/lib/seo';
+import { listingLabel, pageMetadata } from '@/lib/seo';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
 import { Pagination } from '@/components/ui/Pagination';
 import { notFound } from 'next/navigation';
@@ -56,8 +56,8 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
   return pageMetadata({
     locale,
     path: tagPath(defaultLocale, slug, author?.slug, { page: one(sp.page) }),
-    title,
-    description: `${title} — ${t('works_count', { count: author?.works ?? tag.works })}`,
+    title: listingLabel(title, locale, { page: one(sp.page) }),
+    description: `${listingLabel(title, locale, { page: one(sp.page) })} — ${t('works_count', { count: author?.works ?? tag.works })}`,
     images: false,
   });
 }

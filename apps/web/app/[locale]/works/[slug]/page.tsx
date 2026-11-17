@@ -194,7 +194,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
           '@context': 'https://schema.org',
           '@type': 'CreativeWork',
           name: heading,
-          url: `${SITE_URL}/${locale}/works/${slug}`,
+          url: `${SITE_URL}${localePath(locale, `/works/${slug}`)}`,
           genre: formLabel ?? options(`genre.${work.genre}` as any),
           inLanguage: LANGUAGE_TAGS[work.originalLang],
           description: await workDescription(work, locale, authorName),
@@ -205,7 +205,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
           author: {
             '@type': 'Person',
             name: authorName,
-            url: `${SITE_URL}/${locale}/authors/${work.author.slug}`,
+            url: `${SITE_URL}${localePath(locale, `/authors/${work.author.slug}`)}`,
             sameAs: sameAs(work.author),
           },
           ...(work.translations?.length && {
@@ -219,7 +219,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
             isPartOf: {
               '@type': 'CreativeWork',
               name: collectionTitle,
-              url: `${SITE_URL}/${locale}/collections/${work.collection.slug}`,
+              url: `${SITE_URL}${localePath(locale, `/collections/${work.collection.slug}`)}`,
             },
           }),
         }}
@@ -313,11 +313,11 @@ export default async function WorkPage({ params, searchParams }: Props) {
       />
 
       <ShareBar
-        url={`${SITE_URL}/${locale}/works/${slug}`}
+        url={`${SITE_URL}${localePath(locale, `/works/${slug}`)}`}
         text={`${heading} — ${authorName}`}
       />
       <DownloadBar path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} kind="work" scans={work.scan ? [work.scan] : null} />
-      <p className="print-source">Kitabxana.az · {`${SITE_URL}/${locale}/works/${slug}`}</p>
+      <p className="print-source">Kitabxana.az · {`${SITE_URL}${localePath(locale, `/works/${slug}`)}`}</p>
 
       {(nav.prev || nav.next) && (
         <nav className="work-nav" aria-label={t('nav_label')}>

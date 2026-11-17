@@ -1,6 +1,6 @@
 import type { Metadata } from 'next';
 import { getTranslations as getMetaTranslations } from 'next-intl/server';
-import { pageMetadata } from '@/lib/seo';
+import { listingLabel, pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized, periodLabel } from '@/lib/locale';
 import Link from 'next/link';
@@ -48,19 +48,35 @@ const TYPE_LABELS: Record<string, Record<string, string>> = {
   FOLK:        { az: 'Xalq ədəbiyyatı', ru: 'Народное творчество', en: 'Folk literature' },
 };
 
+/** API query for a list page; generateMetadata and the page build the same one, so the fetch is shared */
+function authorsQuery(filters: { type?: string; century?: number }, sp: Record<string, string | string[] | undefined>) {
+  const query = new URLSearchParams();
+  if (filters.type) query.set('type', filters.type);
+  if (one(sp.period)) query.set('period', one(sp.period)!);
+  if (filters.century) query.set('century', String(filters.century));
+  if (one(sp.letter)) query.set('letter', one(sp.letter)!);
+  if (one(sp.page)) query.set('page', one(sp.page)!);
+  return query;
+}
+
 const AZ_ALPHABET = 'ABCÇDEƏFGĞHXIİJKQLMNOÖPRSŞTUÜVYZ';
 
 export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { locale } = await params;
   const sp = await searchParams;
-  const t = await getMetaTranslations({ locale });
+  const t = await getMetaTranslations({ locale, namespace: 'authors' });
   const { filters, heading } = await resolveFilters(locale, sp);
+  const letter = one(sp.letter);
+  const result = (await api.getAuthors(authorsQuery(filters, sp))) as PaginatedResponse<AuthorSummary>;
+  const suffix = { letter, page: one(sp.page) };
 
   return pageMetadata({
     locale,
-    path: authorsPath(defaultLocale, filters, { letter: one(sp.letter), page: one(sp.page) }),
-    title: heading,
-    description: t('site.description'),
+    path: authorsPath(defaultLocale, filters, suffix),
+    title: listingLabel(heading, locale, suffix),
+    description: t('list_description', { heading: listingLabel(heading, locale, suffix), count: result.meta.total }),
+    // A letter is a narrower view of the same list; keep it out of the index (empty ones would read as duplicates)
+    noindex: Boolean(letter) || result.data.length === 0,
   });
 }
 
@@ -77,14 +93,7 @@ export default async function AuthorsPage({ params, searchParams }: Props) {
   );
   if (canonical !== requested) permanentRedirect(canonical);
 
-  const query = new URLSearchParams();
-  if (filters.type) query.set('type', filters.type);
-  if (one(sp.period)) query.set('period', one(sp.period)!);
-  if (filters.century) query.set('century', String(filters.century));
-  if (letter) query.set('letter', letter);
-  if (one(sp.page)) query.set('page', one(sp.page)!);
-
-  const result = (await api.getAuthors(query)) as PaginatedResponse<AuthorSummary>;
+  const result = (await api.getAuthors(authorsQuery(filters, sp))) as PaginatedResponse<AuthorSummary>;
 
   return (
     <div className="container page-content">

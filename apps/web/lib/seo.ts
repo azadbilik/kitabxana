@@ -37,14 +37,17 @@ interface PageMeta {
   images?: string[] | false;
   /** Locales to list in hreflang; all when absent */
   hreflang?: readonly string[];
+  /** Keep the page out of the index but let crawlers follow its links */
+  noindex?: boolean;
 }
 
 export function pageMetadata({
-  locale, path, title, description, type = 'website', absoluteTitle, images, hreflang,
+  locale, path, title, description, type = 'website', absoluteTitle, images, hreflang, noindex,
 }: PageMeta): Metadata {
   return {
     ...(title && { title: absoluteTitle ? { absolute: title } : title }),
     description,
+    ...(noindex && { robots: { index: false, follow: true } }),
     alternates: alternates(locale, path, hreflang),
     openGraph: {
       type,
@@ -60,6 +63,30 @@ export function pageMetadata({
     },
     twitter: { card: 'summary_large_image', title, description },
   };
+}
+
+const PAGE_WORD: Record<string, [letter: string, page: string]> = {
+  az: ['hərfi', 'səhifə'],
+  ru: ['буква', 'страница'],
+  en: ['letter', 'page'],
+};
+
+/**
+ * A list page's title or description with its letter filter and page number, so that
+ * "Şairlər", "Şairlər — A hərfi" and "Şairlər — səhifə 2" don't share one title.
+ */
+export function listingLabel(
+  base: string,
+  locale: string,
+  { letter, page }: { letter?: string; page?: string | number },
+): string {
+  const [letterWord, pageWord] = PAGE_WORD[locale] ?? PAGE_WORD.az;
+  const n = Number(page) || 1;
+  return [
+    base,
+    letter && (locale === 'az' ? `${letter} ${letterWord}` : `${letterWord} ${letter}`),
+    n > 1 && `${pageWord} ${n}`,
+  ].filter(Boolean).join(' — ');
 }
 
 const entities: Record<string, string> = { amp: '&', lt: '<', gt: '>', quot: '"', '#39': "'", nbsp: ' ' };
