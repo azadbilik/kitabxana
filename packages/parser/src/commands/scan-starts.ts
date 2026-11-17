@@ -9,8 +9,12 @@ import { getDb } from '../importers/db';
 const run = promisify(execFile);
 
 const SCANS_DIR = process.env.SCANS_DIR || path.join(os.homedir(), 'kitabxana-scans');
-// OCR'd pages are kept here (git-ignored), so a re-run only reads new pages
-const OCR_DIR = path.resolve(__dirname, '../../data/raw/scan-ocr');
+// OCR'd pages are kept here (git-ignored), per page-segmentation mode, so a re-run only reads new pages
+const OCR_ROOT = path.resolve(__dirname, '../../data/raw/scan-ocr');
+// Tesseract's automatic layout (3) keeps the two pages of a scanned spread apart; single-column
+// reading (4) interleaves their lines, which loses the openings on Soviet-era spreads
+let PSM = '3';
+const ocrDir = () => path.join(OCR_ROOT, `psm${PSM}`);
 const OUT_FILE = path.resolve(__dirname, '../../../../apps/api/src/downloads/scan-starts.ts');
 
 /** A run of works the National Library marks at one page, up to the next mark */
@@ -28,10 +32,16 @@ const CYR: Record<string, string> = {
   ь: '', ъ: '', э: 'e',
 };
 
-/** Lower-case Latin words of 3+ letters, Cyrillic read as Latin, so OCR and stored text compare */
+// Letters folded together, so 1930s Latin prints (Yanalif: c for ç, ƣ for ğ, ь for ı, old spellings
+// like "kibi") and OCR slips still meet the modern text: what's left is the word's skeleton
+const FOLD: Record<string, string> = {
+  ç: 'c', ş: 's', ğ: 'g', ƣ: 'g', q: 'g', k: 'g', ı: 'i', ь: 'i', ö: 'o', ü: 'u', ə: 'e', ä: 'e', ʒ: 'j', y: 'i', j: 'i',
+};
+
+/** Lower-case Latin words of 3+ letters, Cyrillic read as Latin and look-alike letters folded */
 function tokens(text: string): string[] {
   const latin = [...text.replace(/-\n/g, '').toLocaleLowerCase('az')].map((c) => CYR[c] ?? c).join('');
-  return latin.match(/[a-zəğıöüçş]{3,}/g) ?? [];
+  return (latin.match(/[a-zəğıöüçşƣьäʒ]{3,}/g) ?? []).map((w) => [...w].map((c) => FOLD[c] ?? c).join(''));
 }
 
 /** The first words of a work as printed: its heading, stage direction, first lines */
@@ -63,7 +73,7 @@ async function pageCount(pdf: string) {
 }
 
 async function ocrPage(key: string, page: number): Promise<string> {
-  const out = path.join(OCR_DIR, key, `p${page}`);
+  const out = path.join(ocrDir(), key, `p${page}`);
   if (fs.existsSync(`${out}.txt`)) return fs.readFileSync(`${out}.txt`, 'utf8');
   fs.mkdirSync(path.dirname(out), { recursive: true });
   const tmp = fs.mkdtempSync(path.join(os.tmpdir(), 'scan-ocr-'));
@@ -71,7 +81,7 @@ async function ocrPage(key: string, page: number): Promise<string> {
     await run('pdftoppm', ['-r', '150', '-gray', '-png', '-f', String(page), '-l', String(page), path.join(SCANS_DIR, `${key}.pdf`), path.join(tmp, 'i')]);
     const image = fs.readdirSync(tmp).find((f) => f.endsWith('.png'));
     if (!image) return '';
-    await run('tesseract', [path.join(tmp, image), out, '-l', 'aze+aze_cyrl', '--psm', '4']);
+    await run('tesseract', [path.join(tmp, image), out, '-l', 'aze+aze_cyrl', '--psm', PSM]);
     return fs.readFileSync(`${out}.txt`, 'utf8');
   } catch {
     return '';
@@ -164,8 +174,10 @@ export const scanStartsCommand = new Command('scan-starts')
   .option('--book <key>', 'only this book, e.g. anl-8289; the others keep their entries')
   .option('--jobs <n>', 'pages OCR\'d at once', '6')
   .option('--min-score <n>', 'how clearly an opening must be found to be kept', '0.45')
+  .option('--psm <n>', "Tesseract page segmentation: 3 automatic (spreads read page by page), 4 single column", '3')
   .option('--dry-run', 'report only, write nothing')
   .action(async (opts) => {
+    PSM = String(opts.psm);
     const runs = await findRuns(opts.book);
     if (!runs.length) {
       console.log('No runs of works sharing a page mark' + (opts.book ? ` in ${opts.book}` : '') + ' with a scan.');
@@ -181,7 +193,7 @@ export const scanStartsCommand = new Command('scan-starts')
       for (let p = r.start; p <= r.end; p++) pages.push([r.key, p]);
     }
     const unique = [...new Map(pages.map((p) => [p.join(':'), p])).values()];
-    const todo = unique.filter(([key, p]) => !fs.existsSync(path.join(OCR_DIR, key, `p${p}.txt`)));
+    const todo = unique.filter(([key, p]) => !fs.existsSync(path.join(ocrDir(), key, `p${p}.txt`)));
     console.log(`${runs.length} runs in ${counts.size} books: ${unique.length} pages, ${todo.length} to OCR`);
     let done = 0;
     await pool(todo, Number(opts.jobs), async ([key, p]) => {
