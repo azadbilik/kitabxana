@@ -49,7 +49,8 @@
     "ghazals": "Ghazals",
     "prose": "Prose",
     "search_go": "Search",
-    "search_placeholder": "Search authors, works or lines"
+    "search_placeholder": "Search authors, works or lines",
+    "search_placeholder_short": "Author, work…"
   },
   "authors": {
     "title": "Authors",

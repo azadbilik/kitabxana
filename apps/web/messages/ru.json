@@ -49,7 +49,8 @@
     "ghazals": "Газели",
     "prose": "Проза",
     "search_go": "Найти",
-    "search_placeholder": "Автор, произведение или строка"
+    "search_placeholder": "Автор, произведение или строка",
+    "search_placeholder_short": "Автор, стих…"
   },
   "authors": {
     "title": "Авторы",

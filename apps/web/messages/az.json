@@ -49,7 +49,8 @@
     "ghazals": "Qəzəllər",
     "prose": "Nəsr",
     "search_go": "Axtar",
-    "search_placeholder": "Müəllif, əsər və ya misra axtar"
+    "search_placeholder": "Müəllif, əsər və ya misra axtar",
+    "search_placeholder_short": "Müəllif, əsər…"
   },
   "authors": {
     "title": "Müəlliflər",

@@ -73,6 +73,15 @@ function HeaderSearch({ locale }: { locale: string }) {
   const router = useRouter();
   const [q, setQ] = useState('');
   const action = localePath(locale, '/search');
+  // Phones get the short placeholder; the server HTML carries the long one for everyone
+  const [narrow, setNarrow] = useState(false);
+  useEffect(() => {
+    const mq = window.matchMedia('(max-width: 600px)');
+    const sync = () => setNarrow(mq.matches);
+    sync();
+    mq.addEventListener('change', sync);
+    return () => mq.removeEventListener('change', sync);
+  }, []);
 
   return (
     <form
@@ -91,7 +100,7 @@ function HeaderSearch({ locale }: { locale: string }) {
         name="q"
         type="search"
         className="header-search-input"
-        placeholder={t('search_placeholder')}
+        placeholder={t(narrow ? 'search_placeholder_short' : 'search_placeholder')}
         value={q}
         onChange={(e) => setQ(e.target.value)}
         autoComplete="off"
