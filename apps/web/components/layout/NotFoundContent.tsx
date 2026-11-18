@@ -33,7 +33,7 @@ export async function NotFoundContent() {
       </form>
 
       <p className="not-found-links">
-        <Link href={localePath(locale)} className="more">{nav('home')} →</Link>
+        <Link prefetch={false} href={localePath(locale)} className="more">{nav('home')} →</Link>
         <Link href={localePath(locale, `/random`)} prefetch={false} className="more">{home('random_poem')} →</Link>
       </p>
     </div>

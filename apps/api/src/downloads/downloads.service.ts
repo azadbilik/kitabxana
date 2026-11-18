@@ -1,7 +1,7 @@
 import { ForbiddenException, Injectable, NotFoundException } from '@nestjs/common';
 import { ConfigService } from '@nestjs/config';
 import { Language } from '@prisma/client';
-import { isPublicDomain, type DownloadFormat } from '@irs-az/shared';
+import { isPublicDomain, type DownloadFormat, RTL_LANGUAGES } from '@irs-az/shared';
 import { PrismaService } from '../prisma/prisma.service';
 import { renderMarkdown } from '../common/utils/markdown';
 import { buildEpub, buildText, type Book, type BookWork } from './book';
@@ -21,7 +21,7 @@ const WORK_FIELDS = {
   body: true,
   bodyHtml: true,
 } as const;
-const RTL: Language[] = ['FA', 'AR', 'AZ_ARABIC'];
+const RTL: Language[] = RTL_LANGUAGES;
 
 type AuthorRow = { slug: string; nameAz: string; bornYear: number | null; diedYear: number | null; period: string | null; status: string };
 type WorkRow = { slug: string; titleAz: string; titleFa: string | null; originalLang: Language; body: string; bodyHtml: string | null };

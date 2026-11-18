@@ -5,7 +5,7 @@ import {
   IsBoolean,
   IsEnum,
 } from 'class-validator';
-import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
+import { ApiProperty, ApiPropertyOptional, PartialType } from '@nestjs/swagger';
 import { Genre, Language, PoemForm, PublishStatus, ScriptDirection } from '@prisma/client';
 
 export class CreateWorkDto {
@@ -85,3 +85,6 @@ export class CreateWorkDto {
   @IsEnum(PublishStatus)
   status?: PublishStatus;
 }
+
+/** A real class (not Partial<…>), so the validation pipe checks and whitelists PATCH bodies too */
+export class UpdateWorkDto extends PartialType(CreateWorkDto) {}

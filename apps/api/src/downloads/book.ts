@@ -1,4 +1,5 @@
 import { createHash } from 'crypto';
+import { RTL_LANGUAGES } from '@irs-az/shared';
 import { Language } from '@prisma/client';
 import { zip } from './zip';
 
@@ -38,7 +39,7 @@ const BCP47: Record<Language, string> = {
   EN: 'en',
   TR: 'tr',
 };
-const RTL: Language[] = ['FA', 'AR', 'AZ_ARABIC'];
+const RTL: Language[] = RTL_LANGUAGES;
 
 const ARABIC_SCRIPT = /[؀-ۿݐ-ݿﭐ-﷿ﹰ-﻿]/;
 

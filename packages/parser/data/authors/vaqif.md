@@ -31,14 +31,8 @@ bioSources:
     wiki: en
     title: Molla Panah Vagif
 ---
-{{Yazıçı
- |adı           = Molla Pənah Vaqif
- |orijinal adı  = Pənah Mehdi ağa oğlu
- |digər adları  = 
- |şəkil         =
- |şəklin ölçüsü = 250px
- |şəklin izahı  = "*Molla Pənah Vaqif*" portreti
- |ilk adı       = Pənah
- |təxəllüsü     = Vaqif Qazax mahalının Yuxarı Salahlı kəndində doğulmuşdur. Əsl adı Pənah, atasının adı Mehdi ağa, təxəllüsü Vaqifdir. Ziyalı bir şəxs olduğuna görə ona xalq arasında "*Molla*" titulu verilmiş və o, "*Molla Pənah*" ad ünvanı ilə tanınmışdır. Vaqif yüksək təhsil görmüş, doğma dilindən əlavə ərəb-fars dillərini, bir sıra dini və dünyəvi elmləri kifayət qədər mənimsəmişdir. Onun dərs aldığı müəllimlərdən dövrünün tanınmış alimlərindən olan Şəfi Əfəndinin adı məlumdur. Şairin həyatı təxminən 42 yaşına qədər Qazaxla bağlı olmuşdur.
+Molla Pənah Vaqif (ilk adı: Pənah Mehdi ağa oğlu; 1717, Salahlı, Qarabağ bəylərbəyliyi – 1797, Şuşa) — XVIII əsr Azərbaycan şairi, məşhur siyasi və ictimai xadim, Qarabağ xanı İbrahimxəlil xan Cavanşirin baş vəziri və Qarabağ türklərinin (azərbaycanlıların) mənəvi rəhbəri.
+
+Vaqif təxminən 1717-ci ildə Qazax mahalının Yuxarı Salahlı kəndində doğulmuşdur. Əsl adı Pənah, atasının adı Mehdi ağa, təxəllüsü Vaqifdir. Ziyalı bir şəxs olduğuna görə ona xalq arasında "Molla" titulu verilmiş və o, "Molla Pənah" ad ünvanı ilə tanınmışdır. Vaqif yüksək təhsil görmüş, doğma dilindən əlavə ərəb-fars dillərini, bir sıra dini və dünyəvi elmləri kifayət qədər mənimsəmişdir. Onun dərs aldığı müəllimlərdən dövrünün tanınmış alimlərindən olan Şəfi Əfəndinin adı məlumdur. Şairin həyatı təxminən 42 yaşına qədər Qazaxla bağlı olmuşdur.
 
 Vaqifin bədii irsi tam şəkildə indiki dövrə gəlib çatmamışdır, lakin əldə olunanlar şairin əsərlərinin mövzusu, ideya-məzmunu, bədii xüsusiyyətləri və s. barədə fikir söyləməyə imkan verir. Molla Pənah Vaqif Azərbaycan xalqının orta əsrlər ənənələri ruhunda və yeni tipli, realist, şifahi xalq poeziyasına yaxın şeirlər yazmış şairlərdəndir. Onun yaradıcılığı Azərbaycan poeziyasının gələcək inkişafına böyük təsir göstərmişdir.

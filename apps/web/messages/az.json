@@ -70,7 +70,25 @@
     "wiki_az": "Azərbaycanca",
     "wiki_ru": "Rusca",
     "wiki_en": "İngiliscə",
-    "bio_license": "CC BY-SA 4.0"
+    "bio_license": "CC BY-SA 4.0",
+    "portrait_alt": "{name}, portret",
+    "bio_more": "Davamını oxu",
+    "bio_less": "Yığ",
+    "other_works": "Kitablara daxil olmayan əsərlər",
+    "all_works": "Bütün əsərləri ({count})",
+    "type_label": "Müəllif növü",
+    "century_label": "Əsr",
+    "letter_label": "Hərf",
+    "all_letters": "Bütün hərflər",
+    "sort_label": "Sıralama",
+    "sort_works": "Əsər sayına görə",
+    "sort_name": "Əlifba ilə",
+    "show_label": "Kimlər göstərilir",
+    "show_main": "Birdən çox əsəri olanlar",
+    "show_all": "Hamısı",
+    "pages": "Səhifələr",
+    "empty_main": "Bu seçimdə birdən çox əsəri olan müəllif yoxdur.",
+    "empty_show_all": "Bütün müəllifləri göstər"
   },
   "works": {
     "title": "Əsərlər",
@@ -79,9 +97,34 @@
     "original": "Əsl mətn",
     "translation": "Tərcümə",
     "parallel": "Paralel",
-    "list_description": "{heading}: {count} əsər — Azərbaycan ədəbiyyatının mətnləri, tərcümələri və paralel oxu."
+    "list_description": "{heading}: {count} əsər — Azərbaycan ədəbiyyatının mətnləri, tərcümələri və paralel oxu.",
+    "genre_label": "Janr",
+    "form_label": "Şeir forması",
+    "sort_label": "Sıralama",
+    "sort_popular": "Qarışıq",
+    "sort_year": "İlə görə",
+    "sort_title": "Əlifba ilə"
   },
   "search": {
+    "label": "Kitabxanada axtar",
+    "hint": "Müəllifin adını, əsərin adını və ya yadınızda qalan misranı yazın.",
+    "loading": "Axtarılır…",
+    "results_for": "«{q}» üzrə {count, plural, one {# əsər} other {# əsər}}",
+    "error": "Axtarış hazırda işləmir. Bir az sonra yenidən cəhd edin.",
+    "books": "Kitablar",
+    "works": "Əsərlər",
+    "filters": "Süzgəclər",
+    "filter_author": "Müəllif",
+    "filter_genre": "Janr",
+    "filter_lang": "Əslin dili",
+    "all_authors": "Bütün müəlliflər",
+    "all_genres": "Bütün janrlar",
+    "all_langs": "Bütün dillər",
+    "has_translation": "Tərcüməsi var",
+    "clear_filters": "Süzgəcləri sıfırla",
+    "no_results_for": "«{q}» üzrə heç nə tapılmadı.",
+    "no_results_hint": "Yazılışı yoxlayın və ya daha qısa söz yazın. «ə», «ş», «ı» hərfləri olmadan da axtarmaq olar.",
+    "no_results_filtered": "Seçdiyiniz süzgəclərə uyğun əsər yoxdur.",
     "placeholder": "Axtar: müəllif, əsər, söz...",
     "results": "{count} nəticə",
     "no_results": "Heç nə tapılmadı",
@@ -158,7 +201,9 @@
     "auto_note": "Teqlər açar sözlərə görə avtomatik verilib və redaktorlar tərəfindən dəqiqləşdirilir.",
     "empty": "Bu teqlə hələ əsər yoxdur.",
     "pages": "Səhifələr",
-    "work_tags": "Əsərin teqləri"
+    "work_tags": "Əsərin teqləri",
+    "authors_label": "Müəlliflər üzrə",
+    "more_authors": "{count, plural, one {Daha # müəllif} other {Daha # müəllif}}"
   },
   "theme": {
     "light": "İşıqlı",
@@ -261,6 +306,9 @@
     }
   },
   "reading": {
+    "next_in": "Növbəti · {book}",
+    "read_next": "Oxu",
+    "book_contents": "Kitabın mündəricatı",
     "mode_label": "Mətn versiyası",
     "mode_translation": "Tərcümə",
     "mode_parallel": "Paralel",
@@ -407,9 +455,14 @@
     "parts": "{count, plural, one {# əsər} other {# əsər}}",
     "home": "Ana səhifə",
     "books": "Kitablar",
-    "more_by_author": "Müəllifin digər kitabları"
+    "more_by_author": "Müəllifin digər kitabları",
+    "opening_original": "Əsli",
+    "part_no": "№ {n}"
   },
   "account": {
+    "soon_title": "Giriş tezliklə açılacaq",
+    "soon_lead": "Hesablar üzərində iş gedir: rəf, siyahılar və oxu qeydləri tezliklə işə düşəcək.",
+    "soon_note": "Hələlik bütün kitabları girişsiz oxuya bilərsiniz. Qaldığınız yer bu brauzerdə yadda saxlanılır.",
     "title": "Kitabxanaya daxil olun",
     "lead": "Kitabları rəfinizə qoyun, siyahılar tutun, oxuduqlarınızı işarələyin və qaldığınız yerdən davam edin — istənilən cihazda.",
     "google": "Google ilə davam et",
@@ -436,6 +489,13 @@
     "menu_label": "Hesab: {name}"
   },
   "library": {
+    "actions_label": "Əsərlə bağlı əməliyyatlar",
+    "mark_read_short": "Oxudum",
+    "continue_with": "Davam: {title}",
+    "nothing_title": "Hələ heç nə oxumursunuz",
+    "nothing_text": "Bir kitab açın — qaldığınız yer burada görünəcək.",
+    "load_failed": "Rəfi yükləmək alınmadı.",
+    "retry": "Yenidən cəhd et",
     "save": "Saxla",
     "saved": "Saxlanılıb",
     "start": "Oxumağa başla",
@@ -469,6 +529,10 @@
     "books_label": "Kitablar"
   },
   "lists": {
+    "limit_lists": "Ən çoxu 50 siyahı yaratmaq olar. Yenisi üçün köhnələrdən birini silin.",
+    "limit_items": "Bir siyahıda ən çoxu 1000 kitab və əsər ola bilər.",
+    "failed": "Alınmadı. Bir az sonra yenidən cəhd edin.",
+    "load_failed": "Siyahıları yükləmək alınmadı.",
     "title": "Siyahılarım",
     "add": "Siyahıya",
     "none_yet": "Hələ siyahınız yoxdur. Birincisini yaradın.",
@@ -487,6 +551,8 @@
     "signed_out": "Siyahılarınızı görmək üçün daxil olun."
   },
   "settings": {
+    "save_failed": "Dəyişiklikləri saxlamaq alınmadı. Yenidən cəhd edin.",
+    "delete_failed": "Hesabı silmək alınmadı; heç nə silinməyib. Yenidən cəhd edin.",
     "title": "Ayarlar",
     "profile": "Profil",
     "email": "E-poçt: {email}",
@@ -533,5 +599,38 @@
     "suggest_btn": "Mənbə təklif et",
     "footnote": "Saytda olan müəlliflər avtomatik yerləşdirilir; olmayanların siyahısı redaksiya seçimidir, tam biblioqrafiya deyil. İlk dövrlərin tarixləri təxminidir.",
     "no_texts": "mətnlər hələ yoxdur"
+  },
+  "labels": {
+    "lang": {
+      "AZ_LATIN": "Azərbaycanca",
+      "AZ_ARABIC": "Azərbaycanca (ərəb əlifbası)",
+      "AZ_CYRILLIC": "Azərbaycanca (kiril)",
+      "FA": "Farsca",
+      "AR": "Ərəbcə",
+      "RU": "Rusca",
+      "TR": "Türkcə",
+      "EN": "İngiliscə"
+    },
+    "lang_in": {
+      "AZ_LATIN": "Azərbaycanca",
+      "AZ_ARABIC": "Azərbaycanca (ərəb əlifbası)",
+      "AZ_CYRILLIC": "Azərbaycanca",
+      "FA": "Farsca",
+      "AR": "Ərəbcə",
+      "RU": "Rusca",
+      "TR": "Türkcə",
+      "EN": "İngiliscə"
+    },
+    "no_results": "Heç nə tapılmadı"
+  },
+  "blog": {
+    "title": "Bloq",
+    "description": "Kitabxana.az-ın yazıları: yeni kitablar, müəlliflər və layihənin xəbərləri.",
+    "empty": "Hələ yazı yoxdur. İlk yazılar burada görünəcək.",
+    "to_catalog": "Kataloqa keç",
+    "breadcrumb": "Səhifə yolu",
+    "pages_label": "Yazıların səhifələri",
+    "newer": "Yenilər",
+    "older": "Əvvəlkilər"
   }
 }

@@ -56,9 +56,18 @@ export class QueryWorksDto {
   @IsInt()
   yearTo?: number;
 
-  @ApiPropertyOptional({ description: 'Sort order: year (default) or recent' })
+  @ApiPropertyOptional({
+    description:
+      'Sort order: year (default), recent, title (alphabetical in titleLang), or popular (each author\'s most-read works in turn, most-read authors first)',
+  })
   @IsOptional()
-  sort?: 'year' | 'recent';
+  @IsIn(['year', 'recent', 'title', 'popular'])
+  sort?: 'year' | 'recent' | 'title' | 'popular';
+
+  @ApiPropertyOptional({ description: 'With sort=title: the UI language whose titles are sorted (falling back to the Azerbaijani title)', enum: ['az', 'ru', 'en'] })
+  @IsOptional()
+  @IsIn(['az', 'ru', 'en'])
+  titleLang?: 'az' | 'ru' | 'en';
 
   @ApiPropertyOptional({ description: 'Add each work\'s opening lines, preferring a translation into this UI language', enum: ['az', 'ru', 'en'] })
   @IsOptional()

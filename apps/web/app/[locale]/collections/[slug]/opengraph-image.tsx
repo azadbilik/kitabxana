@@ -13,7 +13,6 @@ export default async function Image({ params }: { params: Promise<{ locale: stri
   const { locale, slug } = await params;
   const t = await getTranslations({ locale, namespace: 'tags' });
   const collection = (await api.getCollection(slug)) as any;
-  const author = (await api.getAuthor(collection.author.slug).catch(() => null)) as any;
   const description = plainLines(localized(collection, 'description', locale)).join(' ').split(/(?<=\.)\s/)[0];
   const year = collection.year ? `${collection.yearApprox ? '~' : ''}${collection.year}` : null;
 
@@ -24,6 +23,6 @@ export default async function Image({ params }: { params: Promise<{ locale: stri
     lines: description
       ? [description]
       : collection.works.slice(0, 3).map((w: any) => localized(w, 'title', locale) ?? w.titleAz),
-    portrait: await portraitData(author?.portraitUrl),
+    portrait: await portraitData(collection.author.portraitUrl),
   });
 }

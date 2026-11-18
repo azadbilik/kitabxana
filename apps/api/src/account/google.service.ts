@@ -2,6 +2,7 @@ import { BadRequestException, Injectable, NotFoundException } from '@nestjs/comm
 import { ConfigService } from '@nestjs/config';
 import { createHash, createHmac, randomBytes, timingSafeEqual } from 'node:crypto';
 import type { Request, Response } from 'express';
+import { deriveKey } from '../common/utils/keys';
 import { readCookie } from './session.service';
 
 const OAUTH_COOKIE = 'kx_oauth';
@@ -40,7 +41,8 @@ export class GoogleService {
   }
 
   private sign(value: string) {
-    return createHmac('sha256', this.config.getOrThrow<string>('JWT_SECRET')).update(value).digest('base64url');
+    const key = deriveKey(this.config.getOrThrow<string>('JWT_SECRET'), 'oauth-state');
+    return createHmac('sha256', key).update(value).digest('base64url');
   }
 
   start(returnTo: unknown, res: Response) {

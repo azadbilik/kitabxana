@@ -28,8 +28,12 @@ export function HomeMine() {
   useEffect(() => {
     if (status === 'guest') document.documentElement.removeAttribute('data-signed-in');
     if (status !== 'signed-in') return;
-    accountFetch<ContinueEntry | null>('/me/continue').then(setCont).catch(() => setCont(null));
-    accountFetch<{ items: ShelfEntry[] }>('/me/shelf?tab=reading').then((r) => setShelf(r.items)).catch(() => {});
+    let live = true;
+    accountFetch<ContinueEntry | null>('/me/continue').then((c) => live && setCont(c)).catch(() => live && setCont(null));
+    accountFetch<{ items: ShelfEntry[] }>('/me/shelf?tab=reading').then((r) => live && setShelf(r.items)).catch(() => {});
+    return () => {
+      live = false;
+    };
   }, [status]);
 
   if (status !== 'signed-in') return status === 'unknown' ? <div className="home-mine home-mine--pending" aria-hidden="true" /> : null;
@@ -43,7 +47,21 @@ export function HomeMine() {
         })]
       : [],
   );
-  if (!cont && !books.length) return null;
+  // Nothing in progress: an invitation in the space held for this row, so the page doesn't jump
+  if (!cont && !books.length) {
+    return (
+      <section className="home-mine" aria-label={t('my_shelf_short')}>
+        <div className="continue-card continue-card--empty">
+          <div className="continue-info">
+            <p className="continue-label">{t('my_shelf_short')}</p>
+            <h2 className="continue-title">{t('nothing_title')}</h2>
+            <p className="continue-where">{t('nothing_text')}</p>
+            <Link prefetch={false} href={localePath(locale, '/collections')} className="btn btn-primary btn-lg">{t('open_catalog')}</Link>
+          </div>
+        </div>
+      </section>
+    );
+  }
 
   const work = cont?.work;
   const title = work ? localized(work, 'title', locale) ?? work.titleAz : '';
@@ -69,7 +87,7 @@ export function HomeMine() {
               </div>
             )}
             {cont?.book && cont.book.total > 1 && <p className="continue-where">{t('book_parts', { done: cont.book.done, total: cont.book.total })}</p>}
-            <Link href={localePath(locale, `/works/${work.slug}`)} className="btn btn-primary btn-lg">{t('continue')}</Link>
+            <Link prefetch={false} href={localePath(locale, `/works/${work.slug}`)} className="btn btn-primary btn-lg">{t('continue')}</Link>
           </div>
         </div>
       )}

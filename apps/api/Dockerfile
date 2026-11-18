@@ -22,9 +22,10 @@ FROM base AS runner
 ENV NODE_ENV=production PORT=4000
 WORKDIR /app
 COPY --from=build --chown=node:node /out ./
-# State for the IndexNow job; a volume mounted here inherits the ownership
+# State for the IndexNow and Telegram jobs; a volume mounted here inherits the ownership
 RUN mkdir -p /data && chown node:node /data
 USER node
 EXPOSE 4000
-# Apply pending migrations, then start
-CMD ["sh", "-c", "npx prisma migrate deploy && node dist/main"]
+# Apply pending migrations, then start. exec: node replaces the shell, so it receives
+# SIGTERM from `docker stop` and shuts down cleanly (enableShutdownHooks in main.ts)
+CMD ["sh", "-c", "npx prisma migrate deploy && exec node dist/main"]

@@ -19,6 +19,7 @@ export function shelfBook(
     title: localized(book, 'title', locale) ?? book.titleAz,
     author: localized(book.author, 'name', locale) ?? book.author.nameAz,
     seed: book.id,
+    originalLang: book.originalLang,
     kind: kind?.(book.genre),
     note: note?.(book),
   };

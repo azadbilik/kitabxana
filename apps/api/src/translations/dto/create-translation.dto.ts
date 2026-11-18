@@ -5,7 +5,7 @@ import {
   IsBoolean,
   IsEnum,
 } from 'class-validator';
-import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
+import { ApiProperty, ApiPropertyOptional, PartialType } from '@nestjs/swagger';
 import { Language, TranslationType, ScriptDirection } from '@prisma/client';
 
 export class CreateTranslationDto {
@@ -56,3 +56,6 @@ export class CreateTranslationDto {
   @IsBoolean()
   isDefault?: boolean;
 }
+
+/** A real class (not Partial<…>), so the validation pipe checks and whitelists PATCH bodies too */
+export class UpdateTranslationDto extends PartialType(CreateTranslationDto) {}

@@ -24,10 +24,12 @@ jobs:
           cache: pnpm
       - run: pnpm install --frozen-lockfile
       - run: pnpm db:generate
-      - name: Typecheck API
-        run: pnpm --filter @irs-az/api exec tsc --noEmit
-      - name: Typecheck web
-        run: pnpm --filter @irs-az/web exec tsc --noEmit
+      - name: Typecheck
+        run: pnpm check
+      - name: Test API
+        run: pnpm --dir apps/api test
+      - name: Web tests and lint
+        run: pnpm --dir apps/web test && pnpm --dir apps/web lint
 
   build:
     needs: check

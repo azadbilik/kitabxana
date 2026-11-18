@@ -30,15 +30,22 @@ export class AuthService {
     return this.issueTokens(user.id, user.role);
   }
 
+  /** A refresh token is only as good as the account behind it now: banned or deleted
+   *  staff get nothing, and a changed role takes effect on the next refresh */
   async refresh(refreshToken: string) {
+    const invalid = new UnauthorizedException('Invalid refresh token');
+    let userId: string;
     try {
-      const payload = this.jwt.verify(refreshToken, {
+      const payload = this.jwt.verify<{ sub: string }>(refreshToken, {
         secret: this.config.getOrThrow('JWT_REFRESH_SECRET'),
       });
-      return this.issueTokens(payload.sub, payload.role);
+      userId = payload.sub;
     } catch {
-      throw new UnauthorizedException('Invalid refresh token');
+      throw invalid;
     }
+    const user = typeof userId === 'string' ? await this.users.findAuthState(userId) : null;
+    if (!user || user.isBanned || !user.passwordHash) throw invalid;
+    return this.issueTokens(user.id, user.role);
   }
 
   private issueTokens(userId: string, role: string) {

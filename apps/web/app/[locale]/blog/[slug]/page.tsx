@@ -1,8 +1,10 @@
 import type { Metadata } from 'next';
+import Link from 'next/link';
+import { marked } from 'marked';
+import { getTranslations } from 'next-intl/server';
 import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { excerpt, pageMetadata } from '@/lib/seo';
-import Link from 'next/link';
 import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
@@ -10,6 +12,8 @@ export const dynamic = 'force-dynamic';
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
+
+const DATE_LOCALE: Record<string, string> = { az: 'az-AZ', ru: 'ru-RU', en: 'en-GB' };
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
@@ -28,67 +32,35 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function BlogPostPage({ params }: Props) {
   const { locale, slug } = await params;
   const post = (await api.getBlogPost(slug).catch(notFoundOn404)) as any;
+  const t = await getTranslations({ locale, namespace: 'blog' });
 
-  const title = localized(post, 'title', locale);
-  const body = localized(post, 'body', locale) ?? '';
+  const title = localized(post, 'title', locale) ?? post.titleAz;
+  // Posts are written by the site's editors, in Markdown
+  const html = await marked.parse(localized(post, 'body', locale) ?? '');
+  const by = post.author?.name || post.author?.username;
 
   return (
-    <div className="container" style={{ paddingTop: '2rem' }}>
-      <nav
-        style={{
-          fontFamily: 'var(--font-ui)',
-          fontSize: '0.8rem',
-          marginBottom: '1rem',
-        }}
-      >
-        <Link
-          href={localePath(locale, `/blog`)}
-          style={{ color: 'var(--muted)', textDecoration: 'none' }}
-        >
-          ← {locale === 'ru' ? 'Блог' : locale === 'en' ? 'Blog' : 'Bloq'}
-        </Link>
+    <div className="container page-content">
+      <nav className="breadcrumb" aria-label={t('breadcrumb')}>
+        <Link prefetch={false} href={localePath(locale, '/blog')}>{t('title')}</Link>
+        <span className="breadcrumb-sep" aria-hidden="true">›</span>
+        <span className="breadcrumb-current" aria-current="page">{title}</span>
       </nav>
 
-      <article className="reading-column">
-        <header style={{ textAlign: 'center', marginBottom: '2rem' }}>
-          <p
-            style={{
-              fontFamily: 'var(--font-ui)',
-              fontSize: '0.75rem',
-              color: 'var(--muted)',
-              textTransform: 'uppercase',
-              letterSpacing: '0.05em',
-            }}
-          >
-            {post.publishedAt &&
-              new Date(post.publishedAt).toLocaleDateString(
-                locale === 'ru' ? 'ru-RU' : locale === 'en' ? 'en-US' : 'az-AZ',
-              )}
-          </p>
-          <h1
-            style={{
-              fontSize: '2.5rem',
-              fontFamily: 'var(--font-serif)',
-              marginTop: '0.5rem',
-            }}
-          >
-            {title}
-          </h1>
-          <p
-            style={{
-              fontFamily: 'var(--font-ui)',
-              fontSize: '0.8rem',
-              color: 'var(--muted)',
-              marginTop: '0.5rem',
-            }}
-          >
-            {post.author?.name || post.author?.username}
+      <article className="blog-post">
+        <header className="page-header">
+          <h1 className="work-heading">{title}</h1>
+          <p className="meta-strip">
+            {post.publishedAt && (
+              <time dateTime={post.publishedAt}>
+                {new Date(post.publishedAt).toLocaleDateString(DATE_LOCALE[locale], { dateStyle: 'long' })}
+              </time>
+            )}
+            {post.publishedAt && by && <span className="dot" aria-hidden="true" />}
+            {by && <span>{by}</span>}
           </p>
         </header>
-
-        <div className="ornament" />
-
-        <div dangerouslySetInnerHTML={{ __html: body }} />
+        <div className="page-prose" dangerouslySetInnerHTML={{ __html: html }} />
       </article>
     </div>
   );

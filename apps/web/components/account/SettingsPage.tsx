@@ -18,7 +18,10 @@ export function SettingsPage() {
   const [name, setName] = useState('');
   const [lang, setLang] = useState('az');
   const [saved, setSaved] = useState(false);
+  const [saveError, setSaveError] = useState(false);
   const [confirm, setConfirm] = useState('');
+  const [removing, setRemoving] = useState(false);
+  const [removeError, setRemoveError] = useState(false);
 
   useEffect(() => {
     if (!user) return;
@@ -38,16 +41,28 @@ export function SettingsPage() {
 
   const save = async (e: FormEvent) => {
     e.preventDefault();
+    setSaveError(false);
     const me = await accountFetch<Me>('/me', { method: 'PATCH', body: JSON.stringify({ name: name.trim() || null, locale: lang }) }).catch(() => null);
-    if (me) {
-      setUser(me);
-      setSaved(true);
-      setTimeout(() => setSaved(false), 2500);
+    if (!me) {
+      setSaveError(true);
+      return;
     }
+    setUser(me);
+    setSaved(true);
+    setTimeout(() => setSaved(false), 2500);
   };
 
   const remove = async () => {
-    await accountFetch('/me', { method: 'DELETE' });
+    setRemoving(true);
+    setRemoveError(false);
+    try {
+      await accountFetch('/me', { method: 'DELETE' });
+    } catch {
+      // Nothing was deleted: say so and leave the reader signed in
+      setRemoveError(true);
+      setRemoving(false);
+      return;
+    }
     writeFlag(false);
     resetMarks();
     await signOut();
@@ -71,6 +86,7 @@ export function SettingsPage() {
           <button type="submit" className="btn btn-primary">{t('save')}</button>
           <span className="settings-saved" role="status">{saved ? t('saved') : ''}</span>
         </div>
+        <p className="form-alert" role="alert">{saveError ? t('save_failed') : ''}</p>
       </form>
 
       <div className="settings-card">
@@ -83,9 +99,10 @@ export function SettingsPage() {
         <p>{t('delete_text')}</p>
         <label htmlFor="settings-confirm" className="form-label">{t('delete_type', { word: t('delete_word') })}</label>
         <input id="settings-confirm" className="form-input" value={confirm} onChange={(e) => setConfirm(e.target.value)} autoComplete="off" />
-        <button type="button" className="btn btn-danger" disabled={confirm.trim().toLocaleLowerCase(locale) !== t('delete_word').toLocaleLowerCase(locale)} onClick={remove}>
+        <button type="button" className="btn btn-danger" disabled={removing || confirm.trim().toLocaleLowerCase(locale) !== t('delete_word').toLocaleLowerCase(locale)} onClick={remove}>
           {t('delete_button')}
         </button>
+        <p className="form-alert" role="alert">{removeError ? t('delete_failed') : ''}</p>
       </div>
     </div>
   );

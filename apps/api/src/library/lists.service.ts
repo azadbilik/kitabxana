@@ -1,41 +1,13 @@
 import { BadRequestException, Injectable, NotFoundException } from '@nestjs/common';
-import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
+import { bookSelect, toBook, workSelect, type Book, type WorkRow } from './selects';
 
 const MAX_LISTS = 50;
 const MAX_ITEMS = 1000;
 
-const bookSelect = {
-  id: true,
-  slug: true,
-  titleAz: true,
-  titleRu: true,
-  titleEn: true,
-  titleFa: true,
-  genre: true,
-  year: true,
-  yearApprox: true,
-  author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
-  _count: { select: { works: { where: { status: 'PUBLISHED' as const } } } },
-} satisfies Prisma.CollectionSelect;
-
-const workSelect = {
-  id: true,
-  slug: true,
-  titleAz: true,
-  titleRu: true,
-  titleEn: true,
-  genre: true,
-  form: true,
-  author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
-  collection: { select: { id: true, slug: true, titleAz: true, titleRu: true, titleEn: true, genre: true } },
-} satisfies Prisma.WorkSelect;
-
 export type ListTarget = { workId: string } | { collectionId: string };
 
-type BookRow = Omit<Prisma.CollectionGetPayload<{ select: typeof bookSelect }>, '_count'> & { workCount: number };
-type WorkRow = Prisma.WorkGetPayload<{ select: typeof workSelect }>;
-type ListItem = { id: string; type: 'book'; book: BookRow } | { id: string; type: 'work'; work: WorkRow };
+type ListItem = { id: string; type: 'book'; book: Book } | { id: string; type: 'work'; work: WorkRow };
 
 /** Reader-made lists of books and works. Private: only their owner can read them. */
 @Injectable()
@@ -105,10 +77,7 @@ export class ListsService {
       id: list.id,
       name: list.name,
       items: items.flatMap((i): ListItem[] => {
-        if (i.collection) {
-          const { _count, ...book } = i.collection;
-          return [{ id: i.id, type: 'book', book: { ...book, workCount: _count.works } }];
-        }
+        if (i.collection) return [{ id: i.id, type: 'book', book: toBook(i.collection) }];
         return i.work ? [{ id: i.id, type: 'work', work: i.work }] : [];
       }),
     };

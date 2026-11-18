@@ -14,6 +14,7 @@ import { BioCredit } from '@/components/authors/BioCredit';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { authorsPath, worksPath } from '@/lib/facets';
 import { localePath } from '@/lib/i18n';
+import { getLabels } from '@/lib/labels';
 
 export const dynamic = 'force-dynamic';
 
@@ -24,12 +25,12 @@ const CENTURIES = [
 ];
 
 // Poem forms and prose genres side by side; each links to its own filter
-const GENRES = [
-  { filter: { form: 'GHAZAL' },  az: 'Qəzəl',  ru: 'Газель', en: 'Ghazal' },
-  { filter: { form: 'MASNAVI' }, az: 'Məsnəvi', ru: 'Маснави', en: 'Masnavi' },
-  { filter: { form: 'RUBAI' },   az: 'Rübai',   ru: 'Рубаи',  en: 'Rubai' },
-  { filter: { genre: 'PROSE' },  az: 'Nəsr',    ru: 'Проза',   en: 'Prose' },
-  { filter: { genre: 'PLAY' },   az: 'Dram',    ru: 'Драма',   en: 'Drama' },
+const GENRES: { form?: string; genre?: string }[] = [
+  { form: 'GHAZAL' },
+  { form: 'MASNAVI' },
+  { form: 'RUBAI' },
+  { genre: 'PROSE' },
+  { genre: 'PLAY' },
 ];
 
 interface FeaturedAuthor {
@@ -62,18 +63,6 @@ function localeBio(item: Record<string, any>, locale: string) {
   return ownField(item, 'bio', locale);
 }
 
-function authorTypeMeta(type: string, locale: string) {
-  const map: Record<string, Record<string, string>> = {
-    POET:        { az: 'Şair',       ru: 'Поэт',       en: 'Poet' },
-    WRITER:      { az: 'Yazıçı',     ru: 'Писатель',    en: 'Writer' },
-    PLAYWRIGHT:  { az: 'Dramaturq',  ru: 'Драматург',   en: 'Playwright' },
-    PHILOSOPHER: { az: 'Filosof',    ru: 'Философ',     en: 'Philosopher' },
-    FOLK:        { az: 'Xalq ədəbiyyatı', ru: 'Народное творчество', en: 'Folk literature' },
-  };
-  const lang = locale === 'ru' ? 'ru' : locale === 'en' ? 'en' : 'az';
-  return map[type]?.[lang] ?? type;
-}
-
 export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
   const { locale } = await params;
   const t = await getTranslations({ locale, namespace: 'site' });
@@ -84,8 +73,8 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
 export default async function HomePage({ params }: { params: Promise<{ locale: string }> }) {
   const { locale } = await params;
   const t = await getTranslations('home');
-  const options = await getTranslations({ locale, namespace: 'contribute.options' });
-  const kind = (genre: string) => options(`genre.${genre}` as any);
+  const labels = await getLabels(locale);
+  const kind = (genre: string) => labels.genre(genre) ?? '';
   const note = (b: BookSummary) => t('work_count', { count: b.workCount });
 
   // Shelves of books; on Russian and English pages only books titled in that language
@@ -159,7 +148,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                     </>
                   )}
                   <span className="dot" />
-                  <span>{authorTypeMeta(featured.type, locale)}</span>
+                  <span>{labels.authorType(featured.type)}</span>
                 </div>
 
                 {bioSnippet && (
@@ -171,7 +160,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
                 )}
                 {bioSnippet && <BioCredit sources={featured.bioSources} locale={locale} />}
 
-                <Link href={localePath(locale, `/authors/${featured.slug}`)} className="more featured-more">
+                <Link prefetch={false} href={localePath(locale, `/authors/${featured.slug}`)} className="more featured-more">
                   {t('read_more')} →
                 </Link>
               </div>
@@ -188,17 +177,17 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
           <section className="daily-poem" aria-labelledby="daily-poem-title">
             <p className="section-label">{t('daily_label')}</p>
             <h2 id="daily-poem-title" className="daily-poem-title">
-              <Link href={localePath(locale, `/works/${daily.slug}`)}>{localeTitle(daily, locale)}</Link>
+              <Link prefetch={false} href={localePath(locale, `/works/${daily.slug}`)}>{localeTitle(daily, locale)}</Link>
             </h2>
             <div className="daily-poem-author">
-              <Link href={localePath(locale, `/authors/${daily.author.slug}`)}>{localeName(daily.author, locale)}</Link>
+              <Link prefetch={false} href={localePath(locale, `/authors/${daily.author.slug}`)}>{localeName(daily.author, locale)}</Link>
               {daily.year ? ` · ${daily.year}` : ''}
             </div>
             <blockquote className="daily-poem-excerpt" lang={daily.lang === 'az' ? 'az-Latn' : daily.lang}>
               {daily.excerpt.map((line, i) => <p key={i}>{line}</p>)}
             </blockquote>
             <div className="daily-poem-actions">
-              <Link href={localePath(locale, `/works/${daily.slug}`)} className="more">{t('read_full')} →</Link>
+              <Link prefetch={false} href={localePath(locale, `/works/${daily.slug}`)} className="more">{t('read_full')} →</Link>
               <Link href={localePath(locale, `/random`)} prefetch={false} className="more"><RefreshIcon /> {t('random_poem')}</Link>
             </div>
           </section>
@@ -230,7 +219,7 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <p className="home-browse-label">{t('centuries_label')}</p>
             <div className="chip-row">
               {CENTURIES.map(({ label, y }) => (
-                <Link key={label} href={authorsPath(locale, { century: y })} className="pill pill--century">{label}</Link>
+                <Link prefetch={false} key={label} href={authorsPath(locale, { century: y })} className="pill pill--century">{label}</Link>
               ))}
             </div>
           </div>
@@ -238,8 +227,8 @@ export default async function HomePage({ params }: { params: Promise<{ locale: s
             <p className="home-browse-label">{t('genres_label')}</p>
             <div className="chip-row">
               {GENRES.map((g) => (
-                <Link key={g.en} href={worksPath(locale, g.filter)} className="pill">
-                  {locale === 'ru' ? g.ru : locale === 'en' ? g.en : g.az}
+                <Link prefetch={false} key={g.form ?? g.genre} href={worksPath(locale, g)} className="pill">
+                  {labels.form(g.form) ?? labels.genre(g.genre)}
                 </Link>
               ))}
             </div>

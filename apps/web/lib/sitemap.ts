@@ -18,7 +18,7 @@ interface Entry {
   locales?: readonly string[];
 }
 
-const STATIC_PATHS = ['', '/authors', '/works', '/tags', '/blog', '/about', '/contribute', '/contact', '/privacy', '/agac'];
+const STATIC_PATHS = ['', '/authors', '/collections', '/works', '/tags', '/agac', '/about', '/contribute', '/contact', '/privacy'];
 
 export async function sectionNames(): Promise<string[]> {
   const { works } = await api.getSitemap();
@@ -34,6 +34,8 @@ export async function sectionEntries(name: string): Promise<Entry[] | null> {
     const tags = await api.getTags().catch(() => []);
     return [
       ...STATIC_PATHS.map((path) => ({ path })),
+      // The blog index is listed once it has something to read
+      ...(data.blog.length ? [{ path: '/blog' }] : []),
       ...data.blog.map((b) => ({ path: `/blog/${b.slug}`, lastModified: b.updatedAt })),
       ...tags.filter((t) => t.works > 0).map((t) => ({ path: `/tags/${t.slug}` })),
       // Readable filter pages: each form, genre and author type
@@ -47,7 +49,8 @@ export async function sectionEntries(name: string): Promise<Entry[] | null> {
   if (name === 'authors') {
     return data.authors.flatMap((a) => [
       { path: `/authors/${a.slug}`, lastModified: a.updatedAt },
-      { path: worksPath('az', { author: a.slug }), lastModified: a.updatedAt },
+      // The filtered works page is a 404 for an author with nothing published
+      ...(a.works === false ? [] : [{ path: worksPath('az', { author: a.slug }), lastModified: a.updatedAt }]),
     ]);
   }
   if (name === 'collections') {

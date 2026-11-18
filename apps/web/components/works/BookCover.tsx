@@ -1,4 +1,4 @@
-import { isArabicScript } from '@/lib/verse';
+import { scriptAttrs } from '@/lib/script';
 
 /**
  * A generated cover: no images, just the author, the title in the book serif and the kind,
@@ -62,14 +62,49 @@ function Motif({ kind }: { kind: (typeof MOTIFS)[number] }) {
 /**
  * Title size in container units (% of the cover's content width): small enough that the
  * whole title fits in six lines and its longest word fits one line, so no word is ever split.
- * A bold Literata letter is about 0.6em wide.
+ * A bold Literata letter is about 0.64em wide (names run to wide letters: M, m, ə), and the
+ * text block is about 84% of the cover's width.
  */
 function titleSize(title: string): number {
   const len = title.length;
   const byLength = len <= 14 ? 18 : len <= 24 ? 15.5 : len <= 40 ? 13 : 11;
   const longest = Math.max(...title.split(/[\s\-–—/]+/).map((w) => w.length), 1);
-  const byWord = 96 / (longest * 0.6);
+  const byWord = 84 / (longest * 0.64);
   return Math.round(Math.min(byLength, byWord) * 10) / 10;
+}
+
+/**
+ * Titles that name a kind of writing, not a book: «Şeirlər» alone heads 235 books, so a shelf
+ * of them reads as one word repeated. A cover with such a title is stamped the other way
+ * round: the author large, the title as the small line.
+ *
+ * Derived from the database on 2026-11-18: titles of published books (collections with a
+ * published work) shared by at least three authors in Azerbaijani, or by at least two in the
+ * Russian and English titles (far fewer books carry those). Titles that are works in their
+ * own right though several poets wrote one (Leyli və Məcnun, Vətən) were left out by hand.
+ * To refresh: SELECT "titleAz", count(DISTINCT "authorId") FROM "Collection" c WHERE status =
+ * 'PUBLISHED' AND EXISTS (a published work in it) GROUP BY 1 HAVING count(DISTINCT "authorId") >= 3.
+ */
+const GENERIC_TITLES = new Set(
+  [
+    // az
+    'Şeirlər', 'Qəzəllər', 'Qoşmalar', 'Gəraylılar', 'Müxəmməslər', 'Təcnislər', 'Deyişmələr', 'Divanilər',
+    'Hekayələr', 'Məqalələr', 'Rübailər', 'Cığalı təcnislər', 'Bayatılar', 'Poemalar', '«El şairləri»ndən',
+    'Əsərlər', 'Dastanlar', 'Müxtəlif şeirlər', 'Qitələr', 'Məktublar', 'Qəsidələr', 'Məsnəvilər',
+    'Bağlamalar', 'Divan', 'Növhələr', 'Felyetonlar', 'Müsəddəslər', 'Pyeslər', 'Müstəzadlar',
+    'Dodaqdəyməz təcnislər', 'Digər şeirlər', 'Digər', 'Təmsillər', 'Tərcibəndlər', 'Mənzum hekayələr',
+    'Mürəbbelər', 'Satirik şeirlər',
+    // ru
+    'Газели', 'Диван', 'Рубаи', 'Маснави', 'Мафрады', 'Тарджибанды', 'Другие стихотворения',
+    'Отдельные стихотворения', 'Кыты', 'Касыды', 'Персидский диван: газели', 'Персидский диван: касыды',
+    // en
+    'Ghazals', 'Rubais', 'Masnavis', 'Qasidas', "Qit'as", 'Tarji-bands', 'Miscellaneous Poems', 'Mufrads',
+    'Other Poems', 'Persian Divan: Ghazals', 'Persian Divan: Qasidas',
+  ].map((t) => t.toLocaleLowerCase('az')),
+);
+
+export function isGenericTitle(title: string): boolean {
+  return GENERIC_TITLES.has(title.trim().toLocaleLowerCase('az'));
 }
 
 interface Props {
@@ -82,22 +117,31 @@ interface Props {
   /** A cloth already chosen for this place on a shelf (see clothSequence) */
   cloth?: Cloth;
   size?: 'sm' | 'md' | 'lg';
+  /** The book's original language, for a title in Arabic script */
+  originalLang?: string | null;
+  /**
+   * Every book around this one is by the same author (the author's own shelf): a generic
+   * title then stays the large line, or the shelf would repeat one name instead of one word
+   */
+  sameAuthor?: boolean;
 }
 
-export function BookCover({ title, author, kind, seed, cloth, size = 'md' }: Props) {
-  const arabic = isArabicScript(title);
+export function BookCover({ title, author, kind, seed, cloth, size = 'md', originalLang, sameAuthor = false }: Props) {
   const motif = MOTIFS[(hash(seed) >>> 8) % MOTIFS.length];
+  const byAuthor = !sameAuthor && Boolean(author) && isGenericTitle(title);
+  // The large stamped line and the small one above it
+  const [small, large] = byAuthor ? [title, author] : [author, title];
   return (
     <div className={`book-cover book-cover--${size} cloth-${cloth ?? clothFor(seed)}`} aria-hidden="true">
-      <span className="book-cover-author">{author}</span>
+      <span className="book-cover-author" {...(byAuthor && scriptAttrs(title, originalLang))}>{small}</span>
       <span className="book-cover-body">
         <Motif kind={motif} />
         <span
           className="book-cover-title"
-          style={{ '--title-size': `${titleSize(title)}cqi` } as React.CSSProperties}
-          {...(arabic && { lang: 'fa', dir: 'rtl' })}
+          style={{ '--title-size': `${titleSize(large)}cqi` } as React.CSSProperties}
+          {...(!byAuthor && scriptAttrs(title, originalLang))}
         >
-          {title}
+          {large}
         </span>
       </span>
       {kind && <span className="book-cover-kind">{kind}</span>}

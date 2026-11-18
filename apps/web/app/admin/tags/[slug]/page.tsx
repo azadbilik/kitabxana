@@ -4,6 +4,7 @@ import { useCallback, useEffect, useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useParams, useRouter, useSearchParams } from 'next/navigation';
 import { adminFetch, bulkSetTag, SOURCE_LABELS, type TagSource } from '@/lib/adminTags';
+import { adminHeaders } from '@/lib/useAdminAuth';
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -52,7 +53,7 @@ export default function AdminTagPage() {
 
   useEffect(() => {
     fetch(`${API}/tags/${slug}`).then((r) => r.json()).then((t) => t.nameAz && setTagName(t.nameAz)).catch(() => {});
-    fetch(`${API}/authors?limit=100&all=true`)
+    fetch(`${API}/authors?limit=100&all=true`, { headers: adminHeaders() })
       .then((r) => r.json())
       .then((d) => setAuthors((d.data ?? []).sort((a: any, b: any) => a.nameAz.localeCompare(b.nameAz, 'az'))))
       .catch(() => {});

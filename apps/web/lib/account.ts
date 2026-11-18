@@ -17,6 +17,12 @@ export interface Me {
   createdAt: string;
 }
 
+/** Which ways of signing in the server can complete right now */
+export interface SignInProviders {
+  google: boolean;
+  email: boolean;
+}
+
 export class AccountError extends Error {
   constructor(message: string, public status: number) {
     super(message);

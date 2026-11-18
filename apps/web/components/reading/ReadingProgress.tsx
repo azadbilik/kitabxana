@@ -24,6 +24,10 @@ const PENDING = 'irs-reading-resume';
 const MIN_SCREENS = 1.5;
 // A saved place this close to either end isn't worth offering
 const EDGE = 0.02;
+// The place is kept in this browser every second, and on the account this often while the
+// reader scrolls; leaving or hiding the page sends whatever is newer
+const LOCAL_MS = 1000;
+const SYNC_MS = 10_000;
 
 function readSaved(slug: string): number | null {
   try {
@@ -51,10 +55,20 @@ export function ReadingProgress({ slug, workId, targetId, dir, pagination }: Pro
   const signedIn = status === 'signed-in' && Boolean(workId);
   const marks = useMarks();
   useLoadMarks(signedIn, { workIds: workId ? [workId] : [] });
+  // What the account was last told, so the same place isn't sent twice
+  const synced = useRef({ at: 0, progress: -1 });
   // Read by the scroll handlers, which are bound once per page
   const sync = useRef<((p: number, leaving?: boolean) => void) | null>(null);
-  // Positions next to the start aren't sent: opening a text and nudging it isn't reading it
-  sync.current = signedIn && workId ? (p, leaving) => p > EDGE && sendProgress(workId, p >= 1 - EDGE ? 1 : p, { beacon: leaving }) : null;
+  sync.current =
+    signedIn && workId
+      ? (p, leaving) => {
+          const value = p >= 1 - EDGE ? 1 : p;
+          // Positions next to the start aren't sent: opening a text and nudging it isn't reading it
+          if (p <= EDGE || value === synced.current.progress) return;
+          synced.current = { at: Date.now(), progress: value };
+          sendProgress(workId, value, { beacon: leaving });
+        }
+      : null;
   // The last place measured while the text was on screen; on leaving, the page may already be
   // scrolled back or gone, so this is what is kept, not a fresh measurement
   const lastMeasured = useRef(0);
@@ -106,11 +120,12 @@ export function ReadingProgress({ slug, workId, targetId, dir, pagination }: Pro
       lastMeasured.current = p;
       if (withinPage() > EDGE) setResumeAt(null);
       const now = Date.now();
-      if (now - lastSaved.current > 1000) {
+      if (now - lastSaved.current > LOCAL_MS) {
         lastSaved.current = now;
         save(slug, p);
-        sync.current?.(p);
       }
+      // Reaching the end is sent at once, so the text shows as read without waiting
+      if (now - synced.current.at > SYNC_MS || (p >= 1 - EDGE && synced.current.progress !== 1)) sync.current?.(p);
     };
     const onScroll = () => {
       moved = true;
@@ -138,12 +153,17 @@ export function ReadingProgress({ slug, workId, targetId, dir, pagination }: Pro
       save(slug, lastMeasured.current);
       sync.current?.(lastMeasured.current, true);
     };
+    const onVisibility = () => {
+      if (document.visibilityState === 'hidden') onHide();
+    };
     window.addEventListener('pagehide', onHide);
+    document.addEventListener('visibilitychange', onVisibility);
     return () => {
       if (frame) cancelAnimationFrame(frame);
       window.removeEventListener('scroll', onScroll);
       window.removeEventListener('resize', onScroll);
       window.removeEventListener('pagehide', onHide);
+      document.removeEventListener('visibilitychange', onVisibility);
       if (moved) {
         save(slug, lastMeasured.current);
         sync.current?.(lastMeasured.current);

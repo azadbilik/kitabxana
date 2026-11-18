@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter, useParams } from 'next/navigation';
 import { WorkTagEditor } from '@/components/admin/WorkTagEditor';
 import type { TagSource } from '@/lib/adminTags';
+import { adminHeaders } from '@/lib/useAdminAuth';
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -35,7 +36,7 @@ export default function EditWorkPage() {
 
   // Load authors list
   useEffect(() => {
-    fetch(`${API}/authors?limit=100&all=true`)
+    fetch(`${API}/authors?limit=100&all=true`, { headers: adminHeaders() })
       .then((r) => r.json())
       .then((data) => setAuthors(data.data ?? []));
   }, []);

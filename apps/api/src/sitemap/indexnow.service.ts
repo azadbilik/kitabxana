@@ -5,6 +5,12 @@ import { SitemapService } from './sitemap.service';
 
 const ENDPOINT = 'https://api.indexnow.org/indexnow';
 const LOCALES = ['az', 'ru', 'en'] as const;
+
+/** As apps/web/lib/i18n.ts localePath: Azerbaijani, the default, has no prefix */
+export function localePath(locale: string, path = ''): string {
+  if (locale === 'az') return path || '/';
+  return `/${locale}${path}`;
+}
 /** IndexNow takes at most 10,000 URLs per request */
 const BATCH = 10_000;
 const FIRST_RUN_DELAY_MS = 2 * 60_000;
@@ -52,7 +58,7 @@ export class IndexNowService implements OnApplicationBootstrap, OnApplicationShu
     const { authors, collections, works } = await this.sitemap.entries();
     const out: Snapshot = {};
     const add = (path: string, updatedAt: Date, locales: readonly string[] = LOCALES) => {
-      for (const l of locales) out[`${this.site}/${l}${path}`] = new Date(updatedAt).toISOString();
+      for (const l of locales) out[`${this.site}${localePath(l, path)}`] = new Date(updatedAt).toISOString();
     };
     for (const a of authors) add(`/authors/${a.slug}`, a.updatedAt);
     for (const c of collections) add(`/collections/${c.slug}`, c.updatedAt);

@@ -2,7 +2,7 @@ import { Injectable, NotFoundException } from '@nestjs/common';
 import { Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { CreateBlogPostDto } from './dto/create-blog-post.dto';
-import { slugify } from '../common/utils/slug';
+import { slugify, uniqueSlug } from '../common/utils/slug';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
 
 @Injectable()
@@ -19,7 +19,7 @@ export class BlogService {
         where,
         skip,
         take,
-        orderBy: { publishedAt: 'desc' },
+        orderBy: [{ publishedAt: 'desc' }, { id: 'desc' }],
         select: {
           id: true,
           slug: true,
@@ -47,17 +47,28 @@ export class BlogService {
 
     if (!post) throw new NotFoundException('Post not found');
 
-    this.prisma.blogPost
-      .update({ where: { id: post.id }, data: { viewCount: { increment: 1 } } })
-      .catch(() => {});
-
     return post;
   }
 
   async create(dto: CreateBlogPostDto, authorId: string) {
-    const slug = slugify(dto.titleAz);
+    const slug = await uniqueSlug(
+      slugify(dto.titleAz) || 'yazi',
+      async (candidate) => (await this.prisma.blogPost.count({ where: { slug: candidate } })) > 0,
+    );
     return this.prisma.blogPost.create({
-      data: { ...dto, slug, authorId },
+      data: {
+        titleAz: dto.titleAz,
+        titleRu: dto.titleRu,
+        titleEn: dto.titleEn,
+        bodyAz: dto.bodyAz,
+        bodyRu: dto.bodyRu,
+        bodyEn: dto.bodyEn,
+        excerpt: dto.excerpt,
+        coverUrl: dto.coverUrl,
+        relatedAuthorId: dto.relatedAuthorId,
+        slug,
+        authorId,
+      },
     });
   }
 

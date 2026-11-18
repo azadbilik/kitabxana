@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!-- Nightly dump of the live database into ~/kitabxana-backups. Install: see README.md "Database Backup". -->
+<plist version="1.0">
+<dict>
+  <key>Label</key><string>az.kitabxana.backup-db</string>
+  <key>ProgramArguments</key>
+  <array><string>/bin/sh</string><string>__REPO__/deploy/tunnel/backup-db.sh</string></array>
+  <key>EnvironmentVariables</key>
+  <dict><key>PATH</key><string>/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin</string></dict>
+  <key>StartCalendarInterval</key>
+  <dict><key>Hour</key><integer>4</integer><key>Minute</key><integer>10</integer></dict>
+  <key>StandardOutPath</key><string>__HOME__/Library/Logs/kitabxana-backup-db.log</string>
+  <key>StandardErrorPath</key><string>__HOME__/Library/Logs/kitabxana-backup-db.log</string>
+</dict>
+</plist>

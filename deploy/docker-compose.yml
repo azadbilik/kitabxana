@@ -25,7 +25,14 @@ services:
       SITE_URL: https://${DOMAIN}
       CONTACT_EMAIL: ${CONTACT_EMAIL:-}
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
-    depends_on: [api]
+    depends_on:
+      api: { condition: service_healthy }
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3000/robots.txt').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
 
   api:
     image: ghcr.io/nomadical/irs-az-api:${IMAGE_TAG:-latest}
@@ -37,10 +44,6 @@ services:
       MEILISEARCH_HOST: http://meilisearch:7700
       MEILISEARCH_KEY: ${MEILISEARCH_KEY}
       CORS_ORIGIN: https://${DOMAIN}
-      R2_ACCOUNT_ID: ${R2_ACCOUNT_ID:-}
-      R2_ACCESS_KEY_ID: ${R2_ACCESS_KEY_ID:-}
-      R2_SECRET_ACCESS_KEY: ${R2_SECRET_ACCESS_KEY:-}
-      R2_BUCKET_NAME: ${R2_BUCKET_NAME:-irs-az}
       # IndexNow pings (off without a key); state kept on the volume
       SITE_URL: https://${DOMAIN}
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
@@ -49,11 +52,23 @@ services:
       MAIL_FROM: ${MAIL_FROM:-Kitabxana.az <giris@kitabxana.az>}
       GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
       GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
+      # Poem of the day to a Telegram channel (off without both); hour is Baku time
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
+      TELEGRAM_CHANNEL: ${TELEGRAM_CHANNEL:-}
+      TELEGRAM_POST_HOUR: ${TELEGRAM_POST_HOUR:-9}
     volumes:
       - api-data:/data
     depends_on:
       postgres: { condition: service_healthy }
       meilisearch: { condition: service_healthy }
+    healthcheck:
+      # The image has no curl; /api/health also checks the database
+      test: ["CMD", "node", "-e", "fetch('http://localhost:4000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      # Migrations run before the server starts
+      start_period: 90s
 
   postgres:
     image: postgres:17-alpine

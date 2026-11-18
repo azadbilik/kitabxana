@@ -48,13 +48,13 @@ export function Pager({ page, pages, place }: Props) {
   return (
     <nav className="pager" aria-label={t('pages_label')}>
       {page < pages && (
-        <Link className="pager-next" href={href(page + 1)} rel="next">
+        <Link prefetch={false} className="pager-next" href={href(page + 1)} rel="next">
           {t('next_page')} <span aria-hidden="true">→</span>
         </Link>
       )}
       <div className="pager-numbers">
         {page > 1 ? (
-          <Link className="pager-step" href={href(page - 1)} rel="prev" aria-label={t('prev_page')}>←</Link>
+          <Link prefetch={false} className="pager-step" href={href(page - 1)} rel="prev" aria-label={t('prev_page')}>←</Link>
         ) : (
           <span className="pager-step" aria-hidden="true" />
         )}
@@ -64,7 +64,7 @@ export function Pager({ page, pages, place }: Props) {
           ) : n === page ? (
             <span key={n} className="pager-num active" aria-current="page">{n}</span>
           ) : (
-            <Link
+            <Link prefetch={false}
               key={n}
               // Two away from the current page: dropped on a phone, so the row fits one line
               className={`pager-num${Math.abs(n - page) === 2 && n !== 1 && n !== pages ? ' pager-num--far' : ''}`}
@@ -76,7 +76,7 @@ export function Pager({ page, pages, place }: Props) {
           ),
         )}
         {page < pages ? (
-          <Link className="pager-step" href={href(page + 1)} aria-label={t('next_page')}>→</Link>
+          <Link prefetch={false} className="pager-step" href={href(page + 1)} aria-label={t('next_page')}>→</Link>
         ) : (
           <span className="pager-step" aria-hidden="true" />
         )}

@@ -70,7 +70,25 @@
     "wiki_az": "Azerbaijani",
     "wiki_ru": "Russian",
     "wiki_en": "English",
-    "bio_license": "CC BY-SA 4.0"
+    "bio_license": "CC BY-SA 4.0",
+    "portrait_alt": "Portrait of {name}",
+    "bio_more": "Read more",
+    "bio_less": "Show less",
+    "other_works": "Works outside books",
+    "all_works": "All works ({count})",
+    "type_label": "Kind of author",
+    "century_label": "Century",
+    "letter_label": "Letter",
+    "all_letters": "All letters",
+    "sort_label": "Order",
+    "sort_works": "By number of works",
+    "sort_name": "A–Z",
+    "show_label": "Who is shown",
+    "show_main": "With more than one work",
+    "show_all": "Everyone",
+    "pages": "Pages",
+    "empty_main": "No author here has more than one work.",
+    "empty_show_all": "Show all authors"
   },
   "works": {
     "title": "Works",
@@ -79,9 +97,34 @@
     "original": "Original",
     "translation": "Translation",
     "parallel": "Parallel",
-    "list_description": "{heading}: {count, plural, one {# work} other {# works}} of Azerbaijani literature — texts, translations and parallel reading."
+    "list_description": "{heading}: {count, plural, one {# work} other {# works}} of Azerbaijani literature — texts, translations and parallel reading.",
+    "genre_label": "Genre",
+    "form_label": "Verse form",
+    "sort_label": "Order",
+    "sort_popular": "Mixed",
+    "sort_year": "By year",
+    "sort_title": "A–Z"
   },
   "search": {
+    "label": "Search the library",
+    "hint": "Type an author's name, a title, or a line you remember.",
+    "loading": "Searching…",
+    "results_for": "{count, plural, one {# work} other {# works}} for “{q}”",
+    "error": "Search isn't available right now. Please try again in a moment.",
+    "books": "Books",
+    "works": "Works",
+    "filters": "Filters",
+    "filter_author": "Author",
+    "filter_genre": "Genre",
+    "filter_lang": "Original language",
+    "all_authors": "All authors",
+    "all_genres": "All genres",
+    "all_langs": "All languages",
+    "has_translation": "Has a translation",
+    "clear_filters": "Clear filters",
+    "no_results_for": "Nothing found for “{q}”.",
+    "no_results_hint": "Check the spelling or try a shorter word. You can also search without the letters ə, ş and ı.",
+    "no_results_filtered": "No works match the filters you chose.",
     "placeholder": "Search: author, work, word...",
     "results": "{count} results",
     "no_results": "No results found",
@@ -158,7 +201,9 @@
     "auto_note": "Tags are assigned automatically from keywords and refined by editors.",
     "empty": "No works with this tag yet.",
     "pages": "Pages",
-    "work_tags": "Tags for this work"
+    "work_tags": "Tags for this work",
+    "authors_label": "By author",
+    "more_authors": "{count, plural, one {# more author} other {# more authors}}"
   },
   "theme": {
     "light": "Light",
@@ -261,6 +306,9 @@
     }
   },
   "reading": {
+    "next_in": "Next in {book}",
+    "read_next": "Read",
+    "book_contents": "Contents of the book",
     "mode_label": "Text version",
     "mode_translation": "Translation",
     "mode_parallel": "Side by side",
@@ -407,9 +455,14 @@
     "parts": "{count, plural, one {# work} other {# works}}",
     "home": "Home",
     "books": "Books",
-    "more_by_author": "More books by the author"
+    "more_by_author": "More books by the author",
+    "opening_original": "In the original",
+    "part_no": "No. {n}"
   },
   "account": {
+    "soon_title": "Sign-in is coming soon",
+    "soon_lead": "Accounts are still being set up: your shelf, lists and reading marks will be available soon.",
+    "soon_note": "Meanwhile every book can be read without signing in, and this browser remembers where you stopped.",
     "title": "Sign in to Kitabxana",
     "lead": "Put books on your shelf, keep lists, mark what you have read and pick up where you stopped — on any device.",
     "google": "Continue with Google",
@@ -436,6 +489,13 @@
     "menu_label": "Account: {name}"
   },
   "library": {
+    "actions_label": "Actions for this work",
+    "mark_read_short": "Mark read",
+    "continue_with": "Continue: {title}",
+    "nothing_title": "Nothing in progress yet",
+    "nothing_text": "Open a book and your place in it will show up here.",
+    "load_failed": "Couldn't load your shelf.",
+    "retry": "Try again",
     "save": "Save",
     "saved": "Saved",
     "start": "Start reading",
@@ -469,6 +529,10 @@
     "books_label": "Books"
   },
   "lists": {
+    "limit_lists": "You can have up to 50 lists. Delete one to make room for a new one.",
+    "limit_items": "A list can hold up to 1,000 books and works.",
+    "failed": "That didn't work. Please try again in a moment.",
+    "load_failed": "Couldn't load your lists.",
     "title": "My lists",
     "add": "Add to list",
     "none_yet": "No lists yet. Create your first one.",
@@ -487,6 +551,8 @@
     "signed_out": "Sign in to see your lists."
   },
   "settings": {
+    "save_failed": "Couldn't save your changes. Please try again.",
+    "delete_failed": "Couldn't delete the account; nothing was removed. Please try again.",
     "title": "Settings",
     "profile": "Profile",
     "email": "Email: {email}",
@@ -533,5 +599,38 @@
     "suggest_btn": "Suggest a source",
     "footnote": "Authors on the site are placed automatically; the list of missing ones is an editorial selection, not a full bibliography. Dates for the early eras are approximate.",
     "no_texts": "no texts yet"
+  },
+  "labels": {
+    "lang": {
+      "AZ_LATIN": "Azerbaijani",
+      "AZ_ARABIC": "Azerbaijani (Arabic script)",
+      "AZ_CYRILLIC": "Azerbaijani (Cyrillic)",
+      "FA": "Persian",
+      "AR": "Arabic",
+      "RU": "Russian",
+      "TR": "Turkish",
+      "EN": "English"
+    },
+    "lang_in": {
+      "AZ_LATIN": "In Azerbaijani",
+      "AZ_ARABIC": "In Azerbaijani (Arabic script)",
+      "AZ_CYRILLIC": "In Azerbaijani",
+      "FA": "In Persian",
+      "AR": "In Arabic",
+      "RU": "In Russian",
+      "TR": "In Turkish",
+      "EN": "In English"
+    },
+    "no_results": "No results found"
+  },
+  "blog": {
+    "title": "Blog",
+    "description": "Notes from Kitabxana.az: new books, authors and news from the project.",
+    "empty": "No posts yet. The first ones will appear here.",
+    "to_catalog": "Open the catalogue",
+    "breadcrumb": "Breadcrumb",
+    "pages_label": "Pages of posts",
+    "newer": "Newer",
+    "older": "Older"
   }
 }

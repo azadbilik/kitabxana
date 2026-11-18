@@ -5,7 +5,7 @@ import {
   IsBoolean,
   IsEnum,
 } from 'class-validator';
-import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
+import { ApiProperty, ApiPropertyOptional, PartialType } from '@nestjs/swagger';
 import { Genre, Language } from '@prisma/client';
 
 export class CreateCollectionDto {
@@ -67,3 +67,6 @@ export class CreateCollectionDto {
   @IsInt()
   order?: number;
 }
+
+/** A real class (not Partial<…>), so the validation pipe checks and whitelists PATCH bodies too */
+export class UpdateCollectionDto extends PartialType(CreateCollectionDto) {}

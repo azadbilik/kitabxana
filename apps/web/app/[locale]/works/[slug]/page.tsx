@@ -4,16 +4,17 @@ import { api, getWorkOrRedirect, type MoreWork, type OtherWork, type TagRef } fr
 import { localized } from '@/lib/locale';
 import { breadcrumbLd, excerpt, LANGUAGE_TAGS, pageMetadata, publisherLd, sameAs, SITE_URL, fitTitle } from '@/lib/seo';
 import Link from 'next/link';
-import { ReadingView } from '@/components/reading/ReadingView';
+import { redirect } from 'next/navigation';
+import { ReadingView, type LangChoice, type ShownTranslation, type VersionChoice } from '@/components/reading/ReadingView';
+import { prosePages } from '@/components/reading/pages';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { WorkCard } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
-import { ShareBar } from '@/components/reading/ShareBar';
+import { ShareMenu } from '@/components/reading/ShareMenu';
 import { WorkActions } from '@/components/library/WorkActions';
-import { DownloadBar } from '@/components/reading/DownloadBar';
-import { paginate } from '@/lib/paginate';
+import { DownloadMenu } from '@/components/reading/DownloadBar';
 import { getTranslations } from 'next-intl/server';
 import {
   displayTitle,
@@ -33,13 +34,73 @@ const WORDS_PER_MINUTE = 180;
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
-  searchParams: Promise<{ p?: string | string[] }>;
+  searchParams: Promise<{ p?: string | string[]; lang?: string | string[]; tr?: string | string[] }>;
 }
 
-/** The reading page asked for (`?p=3`), 1 when absent or malformed */
-function pageParam(value: string | string[] | undefined) {
-  const n = Number(Array.isArray(value) ? value[0] : value);
-  return Number.isInteger(n) && n > 1 ? n : 1;
+const first = (value: string | string[] | undefined) => (Array.isArray(value) ? value[0] : value);
+const ORIGINAL = 'original';
+
+const workPath = (locale: string, slug: string) => localePath(locale, `/works/${encodeURIComponent(slug)}`);
+const pagePath = (locale: string, slug: string, n: number) => `${workPath(locale, slug)}${n > 1 ? `?p=${n}` : ''}`;
+
+/**
+ * The reading pages of a long prose text, LitRes-style. Poems are never paged, and a text
+ * with a translation stays whole, so the two can be read side by side.
+ */
+function pagesOf(work: any) {
+  if (work.genre === 'POEM') return null;
+  const paged = prosePages(work, work.bodyHtml || work.body);
+  return { ...paged, count: work.translations?.length ? 1 : paged.pages.length };
+}
+
+/**
+ * The reading page asked for (`?p=3`). Anything but a page the text has (`?p=2` on a poem,
+ * `?p=99`, `?p=1`, `?p=x`) redirects to the page's real address, so no made-up URL is ever
+ * rendered or named as canonical.
+ */
+function resolvePage(raw: string | string[] | undefined, pageCount: number, locale: string, slug: string) {
+  if (raw === undefined) return 1;
+  const n = Number(first(raw));
+  if (Number.isInteger(n) && n > 1 && n <= pageCount) return n;
+  redirect(pagePath(locale, slug, Number.isInteger(n) && n > pageCount ? pageCount : 1));
+}
+
+/**
+ * Which translation is set beside the original: `?tr=<id>` names one, `?lang=` a language
+ * (or `original` for the text alone); otherwise the reader's own language when the work has
+ * it, then the default translation. Only the chosen one goes to the browser; the others
+ * are links.
+ */
+function chooseTranslation(work: any, locale: string, slug: string, query: { lang?: string; tr?: string }) {
+  const all: any[] = (work.translations ?? []).filter((tr: any) => tr.language !== work.originalLang);
+  const langs = [...new Set(all.map((tr) => tr.language as string))];
+  const preferred = LOCALE_LANG[locale];
+  const fallback = langs.includes(preferred)
+    ? preferred
+    : (all.find((tr) => tr.isDefault)?.language ?? langs[0] ?? ORIGINAL);
+
+  const named = query.tr ? all.find((tr) => tr.id === query.tr) : undefined;
+  const lang = named?.language ?? (query.lang === ORIGINAL || langs.includes(query.lang ?? '') ? query.lang! : fallback);
+  const inLang = lang === ORIGINAL ? [] : all.filter((tr) => tr.language === lang);
+  const standard = inLang.find((tr) => tr.isDefault) ?? inLang[0] ?? null;
+  const shown = named ?? standard;
+
+  const href = (params: Record<string, string>) => {
+    const qs = new URLSearchParams(params).toString();
+    return `${workPath(locale, slug)}${qs ? `?${qs}` : ''}`;
+  };
+  const langParams = (key: string): Record<string, string> => (key === fallback ? {} : { lang: key });
+
+  const choices: LangChoice[] = [ORIGINAL, ...langs].map((key) => ({ key, href: href(langParams(key)), active: key === lang }));
+  const versions: VersionChoice[] = inLang.map((tr) => ({
+    id: tr.id,
+    translator: tr.translator,
+    type: tr.type,
+    year: tr.year,
+    href: href(tr === standard ? langParams(lang) : { tr: tr.id }),
+    active: tr === shown,
+  }));
+  return { shown, choices, versions, translated: all.length > 0 };
 }
 
 const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
@@ -106,8 +167,8 @@ async function workDescription(work: any, locale: string, authorName: string | n
 
 export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
-  const page = pageParam((await searchParams).p);
   const work = (await getWorkOrRedirect(slug, locale)) as any;
+  const page = resolvePage((await searchParams).p, pagesOf(work)?.count ?? 1, locale, slug);
   const { titleFor } = await titleHelpers(locale);
   const { heading, number } = headingFor(work, titleFor(localized(work, 'title', locale) ?? work.titleAz, work.form));
   const authorName = localized(work.author, 'name', locale);
@@ -126,7 +187,7 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
 
 export default async function WorkPage({ params, searchParams }: Props) {
   const { locale, slug } = await params;
-  const requestedPage = pageParam((await searchParams).p);
+  const query = await searchParams;
 
   const [work, nav, more, others] = await Promise.all([
     getWorkOrRedirect(slug, locale) as Promise<any>,
@@ -152,41 +213,54 @@ export default async function WorkPage({ params, searchParams }: Props) {
   const verse = (html: string) =>
     isPoem ? formatVerse(html, { form: work.form, maqtaLabel: t('maqta') }) : { html, maqta: false };
   const original = verse(work.bodyHtml || work.body);
-  // Prose: anchor its headings for the contents list, and estimate the reading time
-  const sections: { id: string; text: string; href?: string }[] = [];
-  if (!isPoem) {
-    original.html = original.html.replace(/<h([2-4])>([\s\S]*?)<\/h\1>/g, (_m, level, inner) => {
-      const id = `section-${sections.length + 1}`;
-      sections.push({ id, text: inner.replace(/<[^>]+>/g, '').trim() });
-      return `<h${level} id="${id}">${inner}</h${level}>`;
-    });
-  }
-  const translations = (work.translations ?? []).map((tr: any) => ({
-    ...tr,
-    bodyHtml: verse(tr.bodyHtml || tr.body).html,
+  // Long prose is read a page at a time; only the current page is sent
+  const paged = pagesOf(work);
+  const pageCount = paged?.count ?? 1;
+  const page = resolvePage(query.p, pageCount, locale, slug);
+  const pageHref = (n: number) => pagePath(locale, slug, n);
+  if (paged) original.html = pageCount > 1 ? paged.pages[page - 1] : paged.pages.join('\n');
+  // Contents entries lead to the page their heading is on
+  const sections = (paged?.sections ?? []).map(({ id, text, page: on }) => ({
+    id,
+    text,
+    ...(pageCount > 1 && { href: `${pageHref(on)}#${id}` }),
   }));
-  // Long prose is read a page at a time, LitRes-style; only the current page is sent.
-  // Texts with a translation stay whole, so the two can be read side by side
-  const paged = isPoem ? null : paginate(original.html);
-  const words = paged?.words ?? 0;
-  const readingMinutes = Math.round(words / WORDS_PER_MINUTE);
-  const pageCount = paged && !translations.length ? paged.pages.length : 1;
-  const page = Math.min(requestedPage, pageCount);
-  const pageHref = (n: number) => `${localePath(locale, `/works/${encodeURIComponent(slug)}`)}${n > 1 ? `?p=${n}` : ''}`;
-  if (pageCount > 1) {
-    original.html = paged!.pages[page - 1];
-    // Contents entries lead to the page their heading is on
-    for (const section of sections) {
-      const on = paged!.pages.findIndex((html) => html.includes(`id="${section.id}"`)) + 1;
-      section.href = `${pageHref(on)}#${section.id}`;
-    }
-  }
+  const readingMinutes = Math.round((paged?.words ?? 0) / WORDS_PER_MINUTE);
+
+  const chosen = chooseTranslation(work, locale, slug, { lang: first(query.lang), tr: first(query.tr) });
+  const translation: ShownTranslation | null = chosen.shown && {
+    id: chosen.shown.id,
+    language: chosen.shown.language,
+    bodyHtml: verse(chosen.shown.bodyHtml || chosen.shown.body).html,
+    translator: chosen.shown.translator,
+    translatorNote: chosen.shown.translatorNote,
+    year: chosen.shown.year,
+    sourceNote: chosen.shown.sourceNote,
+    scriptDirection: chosen.shown.scriptDirection,
+  };
   const formLabel = work.form && work.form !== 'OTHER' ? options(`form.${work.form}` as any) : null;
 
-  const navHref = (item: { slug: string } | null) =>
-    item ? localePath(locale, `/works/${encodeURIComponent(item.slug)}`) : null;
+  const navHref = (item: { slug: string } | null) => (item ? workPath(locale, item.slug) : null);
   const navTitle = (item: any) => titleFor(localized(item, 'title', locale), work.form).text;
   const titleLang = (text: string) => (isArabicScript(text) ? { lang: 'fa', dir: 'rtl' as const } : {});
+  // At the end of a text the way on is the main thing: the next part of the book
+  const nextUp = page === pageCount ? nav.next : null;
+  const shareUrl = `${SITE_URL}${localePath(locale, `/works/${slug}`)}`;
+
+  /** A card for another work: one titled only by form and number is shown by its first line */
+  const cardFor = (item: MoreWork) => {
+    const itemTitle = titleFor(localized(item, 'title', locale), item.form);
+    const itemForm = item.form && item.form !== 'OTHER' ? options(`form.${item.form}` as any) : null;
+    const numbered = item.genre === 'POEM' && Boolean(itemTitle.original || isNumberedTitle(itemTitle.text));
+    const [opening, ...rest] = item.incipit?.lines ?? [];
+    return numbered && opening
+      ? {
+          title: opening.replace(/[\s,;:—–-]+$/u, ''),
+          incipit: { ...item.incipit, lines: rest },
+          kind: itemTitle.text,
+        }
+      : { title: itemTitle.text, incipit: item.incipit, kind: itemForm };
+  };
 
   return (
     <div className="container page-content">
@@ -195,7 +269,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
           '@context': 'https://schema.org',
           '@type': 'CreativeWork',
           name: heading,
-          url: `${SITE_URL}${localePath(locale, `/works/${slug}`)}`,
+          url: shareUrl,
           genre: formLabel ?? options(`genre.${work.genre}` as any),
           inLanguage: LANGUAGE_TAGS[work.originalLang],
           description: await workDescription(work, locale, authorName),
@@ -234,11 +308,11 @@ export default async function WorkPage({ params, searchParams }: Props) {
       />
 
       <nav className="breadcrumb" aria-label={t('breadcrumb')}>
-        <Link href={localePath(locale, `/authors/${work.author.slug}`)}>{authorName}</Link>
+        <Link prefetch={false} href={localePath(locale, `/authors/${work.author.slug}`)}>{authorName}</Link>
         {collectionTitle && (
           <>
             <span className="breadcrumb-sep" aria-hidden="true">›</span>
-            <Link href={localePath(locale, `/collections/${work.collection.slug}`)}>
+            <Link prefetch={false} href={localePath(locale, `/collections/${work.collection.slug}`)}>
               <bdi>{collectionTitle}</bdi>
             </Link>
           </>
@@ -294,10 +368,12 @@ export default async function WorkPage({ params, searchParams }: Props) {
 
       <ReadingView
         body={original.html}
-        translations={translations}
+        translation={translation}
+        choices={chosen.choices}
+        versions={chosen.versions}
+        translated={chosen.translated}
         originalLang={work.originalLang}
         scriptDirection={work.scriptDirection}
-        locale={locale}
         genre={work.genre}
         source={sourceInfo(work.sourceNote)}
         suggestHref={localePath(locale, `/contribute?type=translation&work=${encodeURIComponent(slug)}`)}
@@ -307,6 +383,43 @@ export default async function WorkPage({ params, searchParams }: Props) {
         pagination={pageCount > 1 ? { page, pages: pageCount } : null}
       />
 
+      {nextUp && (
+        <nav className="next-up-nav" aria-label={t('nav_label')}>
+          <Link href={navHref(nextUp)!} className="next-up" rel="next">
+            <span className="next-up-text">
+              <span className="next-up-label">
+                {collectionTitle ? t('next_in', { book: collectionTitle }) : t('next')}
+              </span>
+              <span className="next-up-title">
+                <bdi {...titleLang(navTitle(nextUp))}>{navTitle(nextUp)}</bdi>
+              </span>
+            </span>
+            <span className="next-up-go">
+              {t('read_next')} <span aria-hidden="true">→</span>
+            </span>
+          </Link>
+          <div className="next-up-foot">
+            {nav.prev && (
+              <Link prefetch={false} href={navHref(nav.prev)!} className="next-up-prev" rel="prev">
+                <span aria-hidden="true">← </span>
+                <span className="sr-only">{t('prev')}: </span>
+                <bdi {...titleLang(navTitle(nav.prev))}>{navTitle(nav.prev)}</bdi>
+              </Link>
+            )}
+            {work.collection && (
+              <Link prefetch={false} href={localePath(locale, `/collections/${work.collection.slug}`)} className="next-up-prev">
+                {t('book_contents')}
+              </Link>
+            )}
+          </div>
+        </nav>
+      )}
+
+      <WorkActions workId={work.id} collectionId={work.collection?.id ?? null}>
+        <ShareMenu url={shareUrl} text={`${heading} — ${authorName}`} />
+        <DownloadMenu path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} scans={work.scan ? [work.scan] : null} />
+      </WorkActions>
+
       <TagPills
         tags={(work.tags ?? []).map((wt: { tag: TagRef }) => wt.tag)}
         locale={locale}
@@ -314,19 +427,12 @@ export default async function WorkPage({ params, searchParams }: Props) {
         className="work-tag-row"
       />
 
-      <WorkActions workId={work.id} collectionId={work.collection?.id ?? null} />
+      <p className="print-source">Kitabxana.az · {shareUrl}</p>
 
-      <ShareBar
-        url={`${SITE_URL}${localePath(locale, `/works/${slug}`)}`}
-        text={`${heading} — ${authorName}`}
-      />
-      <DownloadBar path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} kind="work" scans={work.scan ? [work.scan] : null} />
-      <p className="print-source">Kitabxana.az · {`${SITE_URL}${localePath(locale, `/works/${slug}`)}`}</p>
-
-      {(nav.prev || nav.next) && (
+      {!nextUp && (nav.prev || nav.next) && (
         <nav className="work-nav" aria-label={t('nav_label')}>
           {nav.prev ? (
-            <Link href={navHref(nav.prev)!} className="work-nav-btn" rel="prev">
+            <Link prefetch={false} href={navHref(nav.prev)!} className="work-nav-btn" rel="prev">
               <span className="work-nav-dir">← {t('prev')}</span>
               <span className="work-nav-title"><bdi {...titleLang(navTitle(nav.prev))}>{navTitle(nav.prev)}</bdi></span>
             </Link>
@@ -334,16 +440,16 @@ export default async function WorkPage({ params, searchParams }: Props) {
             <span />
           )}
           {nav.next ? (
-            <Link href={navHref(nav.next)!} className="work-nav-btn work-nav-btn--next" rel="next">
+            <Link prefetch={false} href={navHref(nav.next)!} className="work-nav-btn work-nav-btn--next" rel="next">
               <span className="work-nav-dir">{t('next')} →</span>
               <span className="work-nav-title"><bdi {...titleLang(navTitle(nav.next))}>{navTitle(nav.next)}</bdi></span>
             </Link>
           ) : (
             <span />
           )}
-          <p className="work-nav-hint">{t('keys_hint')}</p>
         </nav>
       )}
+      {(nav.prev || nav.next) && <p className="work-nav-hint">{t('keys_hint')}</p>}
       {/* On a paged text the arrows turn its pages first, then move on to the next work */}
       <WorkNavKeys
         prevHref={page > 1 ? `${pageHref(page - 1)}#text` : navHref(nav.prev)}
@@ -357,22 +463,22 @@ export default async function WorkPage({ params, searchParams }: Props) {
       {more.length > 0 && (
         <section className="more-works" aria-labelledby="more-works-title">
           <h2 id="more-works-title" className="more-works-title">
-            <Link href={localePath(locale, `/authors/${work.author.slug}`)}>{t('more_by_author')}</Link>
+            <Link prefetch={false} href={localePath(locale, `/authors/${work.author.slug}`)}>{t('more_by_author')}</Link>
           </h2>
           <div className="card-grid more-works-grid">
             {more.map((item) => {
-              const itemForm = item.form && item.form !== 'OTHER' ? options(`form.${item.form}` as any) : null;
+              const card = cardFor(item);
               return (
                 <WorkCard
                   key={item.slug}
                   href={navHref(item)!}
-                  title={titleFor(localized(item, 'title', locale), item.form).text}
-                  incipit={item.incipit}
+                  title={card.title}
+                  incipit={card.incipit}
                   meta={
-                    (itemForm || item.year) && (
+                    (card.kind || item.year) && (
                       <>
-                        {itemForm && <span>{itemForm}</span>}
-                        {itemForm && item.year && <span className="dot" aria-hidden="true" />}
+                        {card.kind && <span>{card.kind}</span>}
+                        {card.kind && item.year && <span className="dot" aria-hidden="true" />}
                         {item.year && <span>{item.year}</span>}
                       </>
                     )
@@ -387,27 +493,27 @@ export default async function WorkPage({ params, searchParams }: Props) {
       {others.works.length > 0 && (
         <section className="more-works more-works--others" aria-labelledby="other-poets-title">
           <h2 id="other-poets-title" className="more-works-title">
-            <Link href={localePath(locale, others.theme ? `/tags/${others.theme.slug}` : '/works')}>
+            <Link prefetch={false} href={localePath(locale, others.theme ? `/tags/${others.theme.slug}` : '/works')}>
               {t('other_poets')}
               {others.theme && <span className="more-works-theme"> · {localized(others.theme, 'name', locale)}</span>}
             </Link>
           </h2>
           <div className="card-grid more-works-grid">
             {others.works.map((item) => {
-              const itemForm = item.form && item.form !== 'OTHER' ? options(`form.${item.form}` as any) : null;
+              const card = cardFor(item);
               return (
                 <WorkCard
                   key={item.slug}
                   href={navHref(item)!}
-                  title={titleFor(localized(item, 'title', locale), item.form).text}
-                  incipit={item.incipit}
+                  title={card.title}
+                  incipit={card.incipit}
                   meta={
                     <>
                       <span>{localized(item.author, 'name', locale)}</span>
-                      {itemForm && (
+                      {card.kind && (
                         <>
                           <span className="dot" aria-hidden="true" />
-                          <span>{itemForm}</span>
+                          <span>{card.kind}</span>
                         </>
                       )}
                     </>

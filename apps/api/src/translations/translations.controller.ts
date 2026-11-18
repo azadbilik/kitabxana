@@ -11,7 +11,8 @@ import { AuthGuard } from '@nestjs/passport';
 import { ApiBearerAuth, ApiTags } from '@nestjs/swagger';
 import { UserRole } from '@prisma/client';
 import { TranslationsService } from './translations.service';
-import { CreateTranslationDto } from './dto/create-translation.dto';
+import { CreateTranslationDto, UpdateTranslationDto } from './dto/create-translation.dto';
+import { PublicCache } from '../common/interceptors/public-cache.interceptor';
 import { Roles } from '../common/decorators/roles.decorator';
 import { RolesGuard } from '../common/guards/roles.guard';
 import { Public } from '../common/decorators/public.decorator';
@@ -22,12 +23,14 @@ export class TranslationsController {
   constructor(private translations: TranslationsService) {}
 
   @Public()
+  @PublicCache()
   @Get('work/:workId')
   findByWork(@Param('workId') workId: string) {
     return this.translations.findByWork(workId);
   }
 
   @Public()
+  @PublicCache()
   @Get('work/:workId/:lang')
   findByWorkAndLang(
     @Param('workId') workId: string,
@@ -48,7 +51,7 @@ export class TranslationsController {
   @UseGuards(AuthGuard('jwt'), RolesGuard)
   @Roles(UserRole.EDITOR, UserRole.SUPERADMIN)
   @Patch(':id')
-  update(@Param('id') id: string, @Body() dto: Partial<CreateTranslationDto>) {
+  update(@Param('id') id: string, @Body() dto: UpdateTranslationDto) {
     return this.translations.update(id, dto);
   }
 

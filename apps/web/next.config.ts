@@ -18,7 +18,50 @@ function facetRewrites(base: string, pattern: string, max: number) {
   });
 }
 
+const dev = process.env.NODE_ENV !== 'production';
+
+// The API is same-origin (/api) in production; a separate origin only in development
+const apiOrigin = (() => {
+  try {
+    return new URL(process.env.NEXT_PUBLIC_API_URL ?? '').origin;
+  } catch {
+    return '';
+  }
+})();
+
+/**
+ * Pages are cached at the edge and identical for everyone, so scripts can't carry a
+ * per-request nonce: inline scripts stay allowed (theme before paint, JSON-LD, Next's
+ * own). The policy still shuts the other doors: no foreign scripts, frames, plugins,
+ * form targets or <base>, and fetches only to the site itself.
+ */
+const csp = [
+  "default-src 'self'",
+  `script-src 'self' 'unsafe-inline'${dev ? " 'unsafe-eval'" : ''}`,
+  "style-src 'self' 'unsafe-inline'",
+  "img-src 'self' data: blob: https:",
+  "font-src 'self' data:",
+  `connect-src 'self' ${apiOrigin}${dev ? ' ws:' : ''}`.trim(),
+  "frame-src 'self'",
+  "frame-ancestors 'self'",
+  "object-src 'none'",
+  "base-uri 'self'",
+  "form-action 'self'",
+].join('; ');
+
+const securityHeaders = [
+  { key: 'Content-Security-Policy', value: csp },
+  { key: 'X-Content-Type-Options', value: 'nosniff' },
+  { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+  { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+  { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(), browsing-topics=()' },
+];
+
 const nextConfig: NextConfig = {
+  poweredByHeader: false,
+  async headers() {
+    return [{ source: '/:path*', headers: securityHeaders }];
+  },
   // Self-contained server for the Docker image (see apps/web/Dockerfile)
   output: 'standalone',
   outputFileTracingRoot: path.join(__dirname, '../..'),

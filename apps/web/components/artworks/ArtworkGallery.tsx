@@ -22,8 +22,18 @@ export interface Artwork {
   collection: { slug: string; titleAz: string; titleRu: string | null; titleEn: string | null } | null;
 }
 
+/** How many artworks a page sends with its HTML; a long gallery fetches the rest when opened */
+export const GALLERY_FIRST = 24;
+
+const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
+
 interface Props {
+  /** The first artworks (all of them for a short gallery) */
   artworks: Artwork[];
+  /** How many there are in all, when `artworks` is only the start */
+  total?: number;
+  /** API path that returns the whole list */
+  moreFrom?: string;
   locale: string;
   /** Name the poem each artwork illustrates (author page); a collection page already says it */
   showCollection?: boolean;
@@ -48,9 +58,29 @@ const commonsWidth = (url: string, width: number) => url.replace(/\/\d+px-/, `/$
 /** Strip the catalogue's quotes: "Laila and Majnun at School", Folio … → Laila and Majnun at School, Folio … */
 const plainTitle = (title: string) => title.replace(/^"([^"]+)",?/, '$1,').replace(/,$/, '');
 
-export function ArtworkGallery({ artworks, locale, showCollection = false, initial }: Props) {
+export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showCollection = false, initial }: Props) {
   const t = useTranslations('gallery');
   const [expanded, setExpanded] = useState(false);
+  const [all, setAll] = useState<Artwork[] | null>(null);
+  const [loading, setLoading] = useState(false);
+  const artworks = all ?? first;
+  const count = Math.max(total ?? 0, artworks.length);
+  const partial = !all && count > first.length && Boolean(moreFrom);
+
+  // The whole list arrives on the first "show all"; a failed fetch still opens what is here
+  const toggle = async () => {
+    if (!expanded && partial) {
+      setLoading(true);
+      try {
+        const res = await fetch(`${API}${moreFrom}`);
+        if (res.ok) setAll((await res.json()) as Artwork[]);
+      } catch {
+        /* keep the first ones */
+      }
+      setLoading(false);
+    }
+    setExpanded((e) => !e);
+  };
   const [current, setCurrent] = useState<number | null>(null);
   const dialogRef = useRef<HTMLDialogElement>(null);
   const closeRef = useRef<HTMLButtonElement>(null);
@@ -85,7 +115,7 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
     <section className="gallery" aria-labelledby="gallery-heading">
       <h2 id="gallery-heading" className="gallery-heading">
         {t('heading')}
-        <span className="gallery-count"> · {artworks.length}</span>
+        <span className="gallery-count"> · {count}</span>
       </h2>
 
       <ul className="gallery-grid">
@@ -119,7 +149,7 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
                 </span>
                 {a.objectDate && <span className="gallery-meta">{a.objectDate}</span>}
                 {showCollection && a.collection && (
-                  <Link className="gallery-meta gallery-coll" href={localePath(locale, `/collections/${a.collection.slug}`)}>
+                  <Link prefetch={false} className="gallery-meta gallery-coll" href={localePath(locale, `/collections/${a.collection.slug}`)}>
                     {localized(a.collection, 'title', locale)}
                   </Link>
                 )}
@@ -130,9 +160,9 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
       </ul>
 
       <div className="gallery-foot">
-        {initial != null && artworks.length > initial && (
-          <button type="button" className="pill pill--ghost gallery-more" onClick={() => setExpanded((e) => !e)} aria-expanded={expanded}>
-            {expanded ? t('show_less') : t('show_all', { count: artworks.length })}
+        {initial != null && count > initial && (
+          <button type="button" className="pill pill--ghost gallery-more" onClick={toggle} aria-expanded={expanded} disabled={loading} aria-busy={loading}>
+            {expanded ? t('show_less') : t('show_all', { count })}
           </button>
         )}
         {locale !== 'en' && <p className="gallery-note">{t('titles_note')}</p>}
@@ -187,7 +217,7 @@ export function ArtworkGallery({ artworks, locale, showCollection = false, initi
 
               {active.collection && showCollection && (
                 <p>
-                  <Link href={localePath(locale, `/collections/${active.collection.slug}`)} onClick={close}>
+                  <Link prefetch={false} href={localePath(locale, `/collections/${active.collection.slug}`)} onClick={close}>
                     {localized(active.collection, 'title', locale)}
                   </Link>
                 </p>

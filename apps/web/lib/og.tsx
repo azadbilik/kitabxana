@@ -5,17 +5,18 @@ import { join } from 'node:path';
 export const ogSize = { width: 1200, height: 630 };
 export const ogContentType = 'image/png';
 
-// Light-theme tokens from styles/globals.css
-const BG = '#F4EFE6';
-const INK = '#1C1916';
-const POMEG = '#8E1515';
-const MUTED = '#6B5E52';
+// Nar's light tokens (styles/nar.css)
+const BG = '#FFFFFF';
+const INK = '#16181D';
+const POMEG = '#A81E28';
+const MUTED = '#5A5F6B';
+const SURF = '#F4F5F7';
 
 const SUBSETS = ['latin', 'latin-ext', 'cyrillic'];
 
 // Satori only uses the first font registered under a name, so each subset gets
 // its own name and the families below list them as a fallback chain.
-const SERIF = SUBSETS.map((s) => `Cormorant-${s}`).join(', ');
+const SERIF = SUBSETS.map((s) => `Literata-${s}`).join(', ');
 const SANS = SUBSETS.map((s) => `Inter-${s}`).join(', ');
 
 async function loadFonts() {
@@ -23,8 +24,8 @@ async function loadFonts() {
   const load = (file: string) => readFile(join(dir, file));
   return Promise.all([
     ...SUBSETS.map(async (s) => ({
-      name: `Cormorant-${s}`, weight: 600 as const, style: 'normal' as const,
-      data: await load(`cormorant-garamond-${s}-600.woff`),
+      name: `Literata-${s}`, weight: 600 as const, style: 'normal' as const,
+      data: await load(`literata-${s}-600.woff`),
     })),
     ...SUBSETS.map(async (s) => ({
       name: `Inter-${s}`, weight: 500 as const, style: 'normal' as const,
@@ -34,10 +35,6 @@ async function loadFonts() {
 }
 
 const clip = (s: string, n: number) => (s.length > n ? `${s.slice(0, n - 1).trimEnd()}…` : s);
-
-const Diamond = ({ size = 10 }: { size?: number }) => (
-  <div style={{ width: size, height: size, background: POMEG, transform: 'rotate(45deg)' }} />
-);
 
 const PORTRAIT_TYPES = ['image/jpeg', 'image/png', 'image/gif'];
 
@@ -69,36 +66,31 @@ interface Card {
   portrait?: string;
 }
 
-/** Gazette-style 1200×630 share card. */
+/** 1200×630 share card: the masthead, a title in Literata, opening lines on a grey panel */
 export async function ogCard({ eyebrow, title, subtitle, lines = [], portrait }: Card) {
   // A portrait takes a third of the width, so text wraps and clips sooner
   const shown = lines.slice(0, 3).map((l) => clip(l, portrait ? 40 : 70));
   const long = portrait ? [30, 16] : [45, 25];
-  const titleSize = title.length > long[0] ? 60 : title.length > long[1] ? 76 : 92;
+  const titleSize = title.length > long[0] ? 52 : title.length > long[1] ? 66 : 80;
 
   return new ImageResponse(
     (
       <div
         style={{
           width: '100%', height: '100%', display: 'flex', flexDirection: 'column',
-          background: BG, color: INK, padding: '52px 72px', fontFamily: SANS,
+          background: BG, color: INK, padding: '56px 72px', fontFamily: SANS,
         }}
       >
-        <div style={{ display: 'flex', alignItems: 'flex-end', justifyContent: 'space-between' }}>
-          <div style={{ display: 'flex', fontFamily: SERIF, fontSize: 52, lineHeight: 1 }}>
-            <span style={{ color: POMEG }}>Kitabxana</span>
-            <span>.AZ</span>
+        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'space-between' }}>
+          <div style={{ display: 'flex', fontFamily: SERIF, fontSize: 44, lineHeight: 1 }}>
+            <span>Kitabxana</span>
+            <span style={{ color: POMEG }}>.az</span>
           </div>
           {eyebrow && (
-            <div style={{ fontSize: 20, letterSpacing: 4, textTransform: 'uppercase', color: MUTED }}>
+            <div style={{ fontSize: 22, color: MUTED, background: SURF, padding: '10px 22px', borderRadius: 999 }}>
               {clip(eyebrow, 40)}
             </div>
           )}
-        </div>
-
-        <div style={{ display: 'flex', flexDirection: 'column', marginTop: 18 }}>
-          <div style={{ height: 3, background: POMEG }} />
-          <div style={{ height: 1, background: POMEG, marginTop: 4 }} />
         </div>
 
         <div style={{ display: 'flex', flexGrow: 1, alignItems: 'center', gap: 56 }}>
@@ -110,8 +102,8 @@ export async function ogCard({ eyebrow, title, subtitle, lines = [], portrait }:
             {shown.length > 0 && (
               <div
                 style={{
-                  display: 'flex', flexDirection: 'column', marginTop: 32, paddingLeft: 24,
-                  borderLeft: `3px solid ${POMEG}`, fontFamily: SERIF, fontSize: 34, lineHeight: 1.3,
+                  display: 'flex', flexDirection: 'column', marginTop: 32, padding: '22px 28px',
+                  background: SURF, borderRadius: 16, fontFamily: SERIF, fontSize: 30, lineHeight: 1.4,
                 }}
               >
                 {shown.map((l, i) => (
@@ -121,18 +113,14 @@ export async function ogCard({ eyebrow, title, subtitle, lines = [], portrait }:
             )}
           </div>
           {portrait && (
-            <div style={{ display: 'flex', padding: 8, border: `1px solid ${POMEG}` }}>
+            <div style={{ display: 'flex', borderRadius: 16, overflow: 'hidden' }}>
               {/* eslint-disable-next-line @next/next/no-img-element */}
               <img src={portrait} width={300} height={370} style={{ objectFit: 'cover' }} alt="" />
             </div>
           )}
         </div>
 
-        <div style={{ display: 'flex', justifyContent: 'center', gap: 18 }}>
-          <Diamond size={8} />
-          <Diamond />
-          <Diamond size={8} />
-        </div>
+        <div style={{ height: 6, width: 96, background: POMEG, borderRadius: 3 }} />
       </div>
     ),
     { ...ogSize, fonts: await loadFonts() },

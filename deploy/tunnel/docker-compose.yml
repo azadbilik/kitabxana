@@ -25,7 +25,14 @@ services:
       SITE_URL: https://${DOMAIN}
       CONTACT_EMAIL: ${CONTACT_EMAIL:-}
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
-    depends_on: [api]
+    depends_on:
+      api: { condition: service_healthy }
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://localhost:3000/robots.txt').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      start_period: 30s
 
   api:
     image: irs-az-api:tunnel
@@ -45,18 +52,31 @@ services:
       INDEXNOW_KEY: ${INDEXNOW_KEY:-}
       # Scanned source books (<key>.pdf, e.g. anl-8283.pdf), see ScansService
       SCANS_DIR: /scans
-      # Reader sign-in. Without MAIL_API_KEY codes are only logged; without the Google pair
+      # Reader sign-in. Without MAIL_API_KEY sign-in by email is off (codes are never logged in
+      # production); without the Google pair
       # "Continue with Google" is hidden. Redirect URI: https://${DOMAIN}/api/auth/google/callback
       MAIL_API_KEY: ${MAIL_API_KEY:-}
       MAIL_FROM: ${MAIL_FROM:-Kitabxana.az <giris@kitabxana.az>}
       GOOGLE_CLIENT_ID: ${GOOGLE_CLIENT_ID:-}
       GOOGLE_CLIENT_SECRET: ${GOOGLE_CLIENT_SECRET:-}
+      # Poem of the day to a Telegram channel (off without both); hour is Baku time
+      TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
+      TELEGRAM_CHANNEL: ${TELEGRAM_CHANNEL:-}
+      TELEGRAM_POST_HOUR: ${TELEGRAM_POST_HOUR:-9}
     volumes:
       - api-data:/data
       - ${SCANS_DIR:-${HOME}/kitabxana-scans}:/scans:ro
     depends_on:
       postgres: { condition: service_healthy }
       meilisearch: { condition: service_healthy }
+    healthcheck:
+      # The image has no curl; /api/health also checks the database
+      test: ["CMD", "node", "-e", "fetch('http://localhost:4000/api/health').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+      # Migrations run before the server starts
+      start_period: 90s
 
   postgres:
     image: postgres:17-alpine

@@ -43,9 +43,16 @@ export class QueryAuthorsDto {
   @IsOptional()
   q?: string;
 
-  @ApiPropertyOptional({ description: 'Sort order: name (default) or recent' })
+  @ApiPropertyOptional({ description: 'Sort order: name (default), recent, or works (most published works first)' })
   @IsOptional()
-  sort?: 'name' | 'recent';
+  @IsIn(['name', 'recent', 'works'])
+  sort?: 'name' | 'recent' | 'works';
+
+  @ApiPropertyOptional({ description: 'Only authors with at least this many published works' })
+  @IsOptional()
+  @IsInt()
+  @Min(0)
+  minWorks?: number;
 
   @ApiPropertyOptional({ description: 'Only authors with a name and a work readable in this UI language', enum: ['az', 'ru', 'en'] })
   @IsOptional()
@@ -55,4 +62,15 @@ export class QueryAuthorsDto {
   @ApiPropertyOptional({ description: 'Include all statuses (for admin)' })
   @IsOptional()
   all?: string;
+}
+
+export class AuthorViewDto {
+  @ApiPropertyOptional({
+    description:
+      'full (default): every collection with every work. page: what the author page shows — books with work counts, the first works outside any book, totals. brief: name, dates and portrait only',
+    enum: ['full', 'page', 'brief'],
+  })
+  @IsOptional()
+  @IsIn(['full', 'page', 'brief'])
+  view?: 'full' | 'page' | 'brief';
 }

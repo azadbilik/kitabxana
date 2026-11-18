@@ -4,21 +4,15 @@
    interface, Literata for titles and reading, shelves of generated
    covers, grey surfaces instead of rules and ornaments.
 
-   globals.css underneath is the older Gazette design. It still
-   renders when <html data-skin="gazette"> is set, for developers
-   only: in the console run
-     localStorage.skin = 'gazette'; location.reload()
-   and `localStorage.removeItem('skin')` to come back. Every rule
-   here is scoped with :root:where(:not([data-skin='gazette'])),
-   which adds no specificity, so the cascade is the same as if the
-   rules were unconditional.
+   globals.css holds the base rules and shared components; this file
+   sets Nar's tokens and restyles them. Rules here start with :root so
+   they outrank the base rule for the same selector.
    ───────────────────────────────────────────────────────────── */
 
-/* Inter, Literata and Noto Naskh Arabic load with the other faces in globals.css;
-   a face's files download only when a rule uses it */
+/* Inter, Literata and Noto Naskh Arabic are self-hosted through next/font (app/layout.tsx) */
 
 /* ── Tokens — light ─────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) {
+:root {
   --bg:          #FFFFFF;
   --ink:         #16181D;
   --muted:       #5A5F6B;   /* 6.4:1 on white, 5.8:1 on --surf */
@@ -40,10 +34,10 @@
   --header-hover:  var(--surf);
   --header-accent: var(--pomeg);
 
-  --font-serif:  'Literata', Georgia, serif;
-  --font-body:   'Literata', Georgia, serif;
-  --font-ui:     'Inter', 'Helvetica Neue', Arial, sans-serif;
-  --font-arabic: 'Noto Naskh Arabic', 'Amiri', 'Geeza Pro', serif;
+  --font-serif:  var(--f-literata), Georgia, serif;
+  --font-body:   var(--f-literata), Georgia, serif;
+  --font-ui:     var(--f-inter), 'Helvetica Neue', Arial, sans-serif;
+  --font-arabic: var(--f-naskh), 'Geeza Pro', 'Noto Naskh Arabic', serif;
 
   --radius:      12px;
   --radius-lg:   16px;
@@ -57,7 +51,7 @@
 }
 
 /* ── Tokens — dark ──────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette']))[data-theme='dark'] {
+:root[data-theme='dark'] {
   --bg:          #121317;
   --ink:         #ECEDEF;
   --muted:       #A3A7B0;   /* 7.9:1 on bg */
@@ -75,7 +69,7 @@
   color-scheme: dark;
 }
 @media (prefers-color-scheme: dark) {
-  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) {
+  :root:not([data-theme='light']) {
     --bg:          #121317;
     --ink:         #ECEDEF;
     --muted:       #A3A7B0;
@@ -96,35 +90,31 @@
 
 /* ── Base ───────────────────────────────────────────────────── */
 /* Element rules sit at element specificity so component classes still win */
-:where(:root:where(:not([data-skin='gazette']))) body {
+:where(:root) body {
   font-family:     var(--font-ui);
   line-height:     1.6;
   scrollbar-color: var(--control) transparent;
 }
-:where(:root:where(:not([data-skin='gazette']))) :is(h1, h2, h3) {
+:where(:root) :is(h1, h2, h3) {
   font-family:    var(--font-ui);
   font-weight:    700;
   letter-spacing: -0.015em;
   line-height:    1.2;
 }
-:where(:root:where(:not([data-skin='gazette']))) h1 { font-size: 2.5rem; }
-:where(:root:where(:not([data-skin='gazette']))) h2 { font-size: 1.5rem; }
-:where(:root:where(:not([data-skin='gazette']))) blockquote { border-left-width: 2px; font-style: normal; }
-:root:where(:not([data-skin='gazette'])) :focus-visible { border-radius: 6px; }
-:root:where(:not([data-skin='gazette'])) .only-gazette,
-:root:where(:not([data-skin='gazette'])) .site-nav a.only-gazette { display: none; }
+:where(:root) h1 { font-size: 2.5rem; }
+:where(:root) h2 { font-size: 1.5rem; }
+:where(:root) blockquote { border-left-width: 2px; font-style: normal; }
+:root :focus-visible { border-radius: 6px; }
 
 /* Ornaments and double rules belong to the gazette */
-:root:where(:not([data-skin='gazette'])) .ornament { color: transparent; }
+:root .ornament { color: transparent; }
 /* The reading page's ornament is only a gap here: drop it, so the text sits under its title */
-:root:where(:not([data-skin='gazette'])) .work-header + .ornament { display: none; }
-:root:where(:not([data-skin='gazette'])) .home-sidebar-orn { display: none; }
-:root:where(:not([data-skin='gazette'])) .rule { border-top-width: 1px; }
-:root:where(:not([data-skin='gazette'])) .rule--double { border-top: 1px solid var(--rule); }
-:root:where(:not([data-skin='gazette'])) .dot { background: var(--control); }
+:root .work-header + .ornament { display: none; }
+:root .rule { border-top-width: 1px; }
+:root .dot { background: var(--control); }
 
 /* Section labels become plain headings */
-:root:where(:not([data-skin='gazette'])) .section-label {
+:root .section-label {
   font-size:      1.5rem;
   font-weight:    700;
   letter-spacing: -0.015em;
@@ -132,15 +122,14 @@
   color:          var(--ink);
   margin:         0 0 1rem;
 }
-:root:where(:not([data-skin='gazette'])) .section-label::before { content: none; }
+:root .section-label::before { content: none; }
 
 /* ── Header: white, a bookshop search bar, sections on a second row ── */
-:root:where(:not([data-skin='gazette'])) .site-header {
+:root .site-header {
   background:    var(--bg);
   border-bottom: 1px solid var(--rule);
 }
-:root:where(:not([data-skin='gazette'])) .dateline { display: none; }
-:root:where(:not([data-skin='gazette'])) .header-inner {
+:root .header-inner {
   display:               grid;
   grid-template-columns: auto auto minmax(0, 1fr) auto;
   grid-template-areas:   'logo catalog search tools'
@@ -149,7 +138,7 @@
   gap:                   0.25rem 1rem;
   padding:               0.85rem 1.5rem 0.25rem;
 }
-:root:where(:not([data-skin='gazette'])) .logo {
+:root .logo {
   grid-area:      logo;
   font-family:    var(--font-serif);
   font-size:      1.6rem;
@@ -157,25 +146,25 @@
   letter-spacing: -0.02em;
   color:          var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .logo em {
+:root .logo em {
   font-size:  1.6rem;
   font-style: normal;
   color:      var(--pomeg);
 }
-:root:where(:not([data-skin='gazette'])) .logo-orn {
+:root .logo-orn {
   font-size: 0;
   margin:    0;
   opacity:   1;
 }
-:root:where(:not([data-skin='gazette'])) .logo-orn::before {
+:root .logo-orn::before {
   content:   '.';
   font-size: 1.6rem;
   color:     var(--pomeg);
 }
 /* "AZ" reads as the domain: lowercase, the dot already drawn */
-:root:where(:not([data-skin='gazette'])) .logo em { text-transform: lowercase; }
+:root .logo em { text-transform: lowercase; }
 
-:root:where(:not([data-skin='gazette'])) .catalog-btn {
+:root .catalog-btn {
   grid-area:     catalog;
   display:       inline-flex;
   align-items:   center;
@@ -189,14 +178,14 @@
   font-size:     0.95rem;
   transition:    background 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .catalog-btn:hover { background: var(--pomeg-dark); color: #fff; }
+:root .catalog-btn:hover { background: var(--pomeg-dark); color: #fff; }
 
-:root:where(:not([data-skin='gazette'])) .header-search {
+:root .header-search {
   grid-area: search;
   display:   flex;
   min-width: 0;
 }
-:root:where(:not([data-skin='gazette'])) .header-search-input {
+:root .header-search-input {
   flex:          1;
   min-width:     0;
   height:        2.75rem;
@@ -209,10 +198,10 @@
   font:          inherit;
   font-size:     1rem;
 }
-:root:where(:not([data-skin='gazette'])) .header-search-input::placeholder { color: var(--muted); }
-:root:where(:not([data-skin='gazette'])) .header-search-input:focus { outline: none; border-color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .header-search-input:focus + .header-search-btn { background: var(--pomeg-fill); }
-:root:where(:not([data-skin='gazette'])) .header-search-btn {
+:root .header-search-input::placeholder { color: var(--muted); }
+:root .header-search-input:focus { outline: none; border-color: var(--pomeg); }
+:root .header-search-input:focus + .header-search-btn { background: var(--pomeg-fill); }
+:root .header-search-btn {
   display:       inline-flex;
   align-items:   center;
   gap:           0.4rem;
@@ -227,19 +216,19 @@
   cursor:        pointer;
   transition:    background 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .header-search-btn:hover { background: var(--pomeg-fill); color: #fff; }
-:root:where(:not([data-skin='gazette'])) .header-search-btn svg { display: none; }
+:root .header-search-btn:hover { background: var(--pomeg-fill); color: #fff; }
+:root .header-search-btn svg { display: none; }
 
-:root:where(:not([data-skin='gazette'])) .header-tools { grid-area: tools; gap: 0.4rem; }
+:root .header-tools { grid-area: tools; gap: 0.4rem; }
 
-:root:where(:not([data-skin='gazette'])) .site-nav {
+:root .site-nav {
   grid-area:  nav;
   gap:        0 1.5rem;
   overflow-x: auto;
   scrollbar-width: none;
 }
-:root:where(:not([data-skin='gazette'])) .site-nav::-webkit-scrollbar { display: none; }
-:root:where(:not([data-skin='gazette'])) .site-nav a {
+:root .site-nav::-webkit-scrollbar { display: none; }
+:root .site-nav a {
   display:        inline-flex;
   align-items:    center;
   min-height:     2.75rem;
@@ -251,13 +240,13 @@
   box-shadow:     inset 0 -2px 0 transparent;
   transition:     color 0.15s, box-shadow 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .site-nav a:hover { color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .site-nav a[aria-current='page'] {
+:root .site-nav a:hover { color: var(--pomeg); }
+:root .site-nav a[aria-current='page'] {
   color:      var(--pomeg);
   box-shadow: inset 0 -2px 0 var(--pomeg);
 }
 
-:root:where(:not([data-skin='gazette'])) .lang-btn {
+:root .lang-btn {
   font-family:  var(--font-ui);
   font-weight:  600;
   background:   transparent;
@@ -266,21 +255,21 @@
   padding:      0.3rem 0.65rem;
   min-height:   2.5rem;
 }
-:root:where(:not([data-skin='gazette'])) .lang-btn:first-child { border-radius: var(--radius) 0 0 var(--radius); }
-:root:where(:not([data-skin='gazette'])) .lang-btn:last-child  { border-radius: 0 var(--radius) var(--radius) 0; }
-:root:where(:not([data-skin='gazette'])) .lang-btn.active,
-:root:where(:not([data-skin='gazette'])) .lang-btn[aria-current='true'] {
+:root .lang-btn:first-child { border-radius: var(--radius) 0 0 var(--radius); }
+:root .lang-btn:last-child  { border-radius: 0 var(--radius) var(--radius) 0; }
+:root .lang-btn.active,
+:root .lang-btn[aria-current='true'] {
   background:   var(--ink);
   border-color: var(--ink);
   color:        var(--bg);
 }
-:root:where(:not([data-skin='gazette'])) .lang-btn:hover:not(.active):not([aria-current='true']) {
+:root .lang-btn:hover:not(.active):not([aria-current='true']) {
   background:   var(--surf);
   border-color: var(--rule);
   color:        var(--ink);
 }
 
-:root:where(:not([data-skin='gazette'])) .theme-btn {
+:root .theme-btn {
   width:         2.5rem;
   height:        2.5rem;
   border-radius: 50%;
@@ -288,7 +277,7 @@
   border-color:  transparent;
   color:         var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .theme-btn:hover {
+:root .theme-btn:hover {
   background:   var(--surf-2);
   border-color: transparent;
   color:        var(--ink);
@@ -296,21 +285,21 @@
 
 /* Tablets: the search keeps its row with the logo; the tools wrap under it */
 @media (max-width: 900px) {
-  :root:where(:not([data-skin='gazette'])) .header-inner {
+  :root .header-inner {
     grid-template-columns: auto minmax(0, 1fr) auto;
     grid-template-areas:   'logo    catalog tools'
                            'search  search  search'
                            'nav     nav     nav';
     row-gap:               0.6rem;
   }
-  :root:where(:not([data-skin='gazette'])) .catalog-btn { justify-self: start; }
-  :root:where(:not([data-skin='gazette'])) .header-search-btn-label { display: none; }
-  :root:where(:not([data-skin='gazette'])) .header-search-btn svg { display: block; }
+  :root .catalog-btn { justify-self: start; }
+  :root .header-search-btn-label { display: none; }
+  :root .header-search-btn svg { display: block; }
 }
 /* Phones: two clean rows — wordmark + compact tools, then catalogue + search —
    and the sections as a strip that scrolls sideways, its far edge fading out */
 @media (max-width: 600px) {
-  :root:where(:not([data-skin='gazette'])) .header-inner {
+  :root .header-inner {
     grid-template-columns: auto minmax(0, 1fr) auto;
     grid-template-areas:   'logo    .      tools'
                            'catalog search search'
@@ -318,15 +307,15 @@
     padding:               0.6rem 1rem 0;
     gap:                   0.6rem 0.5rem;
   }
-  :root:where(:not([data-skin='gazette'])) .catalog-btn { padding: 0 0.8rem; font-size: 0.9rem; }
-  :root:where(:not([data-skin='gazette'])) .header-tools { gap: 0.35rem; }
-  :root:where(:not([data-skin='gazette'])) .header-tools .lang-switcher { display: none; }
-  :root:where(:not([data-skin='gazette'])) .header-tools .lang-select-wrap { display: block; }
-  :root:where(:not([data-skin='gazette'])) .account-signin { padding: 0 0.75rem; font-size: 0.85rem; }
+  :root .catalog-btn { padding: 0 0.8rem; font-size: 0.9rem; }
+  :root .header-tools { gap: 0.35rem; }
+  :root .header-tools .lang-switcher { display: none; }
+  :root .header-tools .lang-select-wrap { display: block; }
+  :root .account-signin { padding: 0 0.75rem; font-size: 0.85rem; }
 }
 
 /* ── Controls ───────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .pill {
+:root .pill {
   font-size:     0.85rem;
   font-weight:   400;
   padding:       0.35rem 0.9rem;
@@ -335,19 +324,19 @@
   background:    var(--surf);
   color:         var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .pill:hover { background: var(--surf-2); color: var(--ink); }
-:root:where(:not([data-skin='gazette'])) .pill.active,
-:root:where(:not([data-skin='gazette'])) .pill.active:hover {
+:root .pill:hover { background: var(--surf-2); color: var(--ink); }
+:root .pill.active,
+:root .pill.active:hover {
   background: var(--pomeg-fill);
   color:      #fff;
 }
-:root:where(:not([data-skin='gazette'])) .chip-row { gap: 0.5rem; }
+:root .chip-row { gap: 0.5rem; }
 /* The opening sits on its own grey card: no quote rule as well */
-:root:where(:not([data-skin='gazette'])) .book-opening-text { border: none; padding: 0; margin: 0; font-style: normal; }
-:root:where(:not([data-skin='gazette'])) .alpha-pill { padding: 0.35rem 0.25rem; min-width: 2.05rem; }
-:root:where(:not([data-skin='gazette'])) .pill--century { min-width: 3rem; justify-content: center; }
-:root:where(:not([data-skin='gazette'])) .filter-bar { gap: 0.5rem 2rem; }
-:root:where(:not([data-skin='gazette'])) .pagination .pill {
+:root .book-opening-text { border: none; padding: 0; margin: 0; font-style: normal; }
+:root .alpha-pill { padding: 0.35rem 0.25rem; min-width: 2.05rem; }
+:root .pill--century { min-width: 3rem; justify-content: center; }
+:root .filter-bar { gap: 0.5rem 2rem; }
+:root .pagination .pill {
   min-width:     2.5rem;
   height:        2.5rem;
   display:       inline-flex;
@@ -357,7 +346,7 @@
   font-weight:   700;
 }
 
-:root:where(:not([data-skin='gazette'])) .btn {
+:root .btn {
   font-size:     0.85rem;
   font-weight:   700;
   letter-spacing: 0;
@@ -366,42 +355,42 @@
   border-radius: var(--radius);
   background:    var(--surf);
 }
-:root:where(:not([data-skin='gazette'])) .btn:hover { background: var(--surf-2); color: var(--ink); }
-:root:where(:not([data-skin='gazette'])) .btn-primary { background: var(--pomeg-fill); color: #fff; }
-:root:where(:not([data-skin='gazette'])) .btn-primary:hover { background: #A30D25; color: #fff; }
+:root .btn:hover { background: var(--surf-2); color: var(--ink); }
+:root .btn-primary { background: var(--pomeg-fill); color: #fff; }
+:root .btn-primary:hover { background: #A30D25; color: #fff; }
 
 /* Connected tabs become separate pills */
-:root:where(:not([data-skin='gazette'])) .lang-tabs { gap: 0.4rem; flex-wrap: wrap; }
-:root:where(:not([data-skin='gazette'])) .lang-tab,
-:root:where(:not([data-skin='gazette'])) .lang-tab + .lang-tab,
-:root:where(:not([data-skin='gazette'])) .appearance-step,
-:root:where(:not([data-skin='gazette'])) .appearance-step + .appearance-step {
+:root .lang-tabs { gap: 0.4rem; flex-wrap: wrap; }
+:root .lang-tab,
+:root .lang-tab + .lang-tab,
+:root .appearance-step,
+:root .appearance-step + .appearance-step {
   border:        none;
   border-radius: 999px;
   background:    var(--surf);
   font-weight:   700;
 }
-:root:where(:not([data-skin='gazette'])) .lang-tab { padding: 0.45rem 1rem; }
-:root:where(:not([data-skin='gazette'])) .appearance-steps { gap: 0.3rem; }
+:root .lang-tab { padding: 0.45rem 1rem; }
+:root .appearance-steps { gap: 0.3rem; }
 /* The font grid stays four loose pills, not the gazette's joined block */
-:root:where(:not([data-skin='gazette'])) .appearance-steps--grid .appearance-step:nth-child(n) {
+:root .appearance-steps--grid .appearance-step:nth-child(n) {
   border:        none;
   border-radius: 999px;
 }
-:root:where(:not([data-skin='gazette'])) .lang-tab:hover:not(.active):not([aria-selected='true']),
-:root:where(:not([data-skin='gazette'])) .appearance-step:hover:not(.active) {
+:root .lang-tab:hover:not(.active):not([aria-selected='true']),
+:root .appearance-step:hover:not(.active) {
   background: var(--surf-2);
   color:      var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .lang-tab.active,
-:root:where(:not([data-skin='gazette'])) .lang-tab[aria-selected='true'],
-:root:where(:not([data-skin='gazette'])) .appearance-step.active {
+:root .lang-tab.active,
+:root .lang-tab[aria-selected='true'],
+:root .appearance-step.active {
   background: var(--pomeg-fill);
   color:      #fff;
 }
-:root:where(:not([data-skin='gazette'])) .lang-tabs--versions .lang-tab { font-style: normal; font-weight: 400; }
+:root .lang-tabs--versions .lang-tab { font-style: normal; font-weight: 400; }
 
-:root:where(:not([data-skin='gazette'])) .appearance-trigger {
+:root .appearance-trigger {
   width:         2.5rem;
   height:        2.5rem;
   border:        none;
@@ -410,36 +399,36 @@
   font-family:   var(--font-body);
   font-weight:   700;
 }
-:root:where(:not([data-skin='gazette'])) .appearance-trigger:hover,
-:root:where(:not([data-skin='gazette'])) .appearance-trigger[aria-expanded='true'] { background: var(--surf-2); color: var(--ink); }
-:root:where(:not([data-skin='gazette'])) .appearance-popover {
+:root .appearance-trigger:hover,
+:root .appearance-trigger[aria-expanded='true'] { background: var(--surf-2); color: var(--ink); }
+:root .appearance-popover {
   border:        none;
   border-radius: var(--radius-lg);
   box-shadow:    var(--shadow-pop);
   padding:       1rem;
   gap:           0.75rem;
 }
-:root:where(:not([data-skin='gazette'])) .appearance-label { letter-spacing: 0.04em; }
+:root .appearance-label { letter-spacing: 0.04em; }
 /* On near-black the panel's shadow barely shows, so in dark it lifts to the surface grey,
    and its buttons step up one shade to stay visible on it */
-:root:where(:not([data-skin='gazette']))[data-theme='dark'] .appearance-popover { background: var(--surf); }
-:root:where(:not([data-skin='gazette']))[data-theme='dark'] .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette']))[data-theme='dark'] .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+:root[data-theme='dark'] .appearance-popover { background: var(--surf); }
+:root[data-theme='dark'] .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
+:root[data-theme='dark'] .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
 @media (prefers-color-scheme: dark) {
-  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) .appearance-popover { background: var(--surf); }
-  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
-  :root:where(:not([data-skin='gazette'])):not([data-theme='light']) .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+  :root:not([data-theme='light']) .appearance-popover { background: var(--surf); }
+  :root:not([data-theme='light']) .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
+  :root:not([data-theme='light']) .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
 }
 
-:root:where(:not([data-skin='gazette'])) .reading-select select {
+:root .reading-select select {
   border:        none;
   border-radius: var(--radius);
   padding:       0.4rem 0.6rem;
 }
 
 /* ── Cards ──────────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .card-grid { gap: 1rem; }
-:root:where(:not([data-skin='gazette'])) .card-item {
+:root .card-grid { gap: 1rem; }
+:root .card-item {
   margin:        0;
   border:        none;
   border-radius: var(--radius-lg);
@@ -447,89 +436,89 @@
   padding:       1.25rem 1.5rem;
   transition:    background 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .card-item:hover { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette'])) .work-card { gap: 0.5rem; min-height: 9.5rem; }
-:root:where(:not([data-skin='gazette'])) .work-card-title {
+:root .card-item:hover { background: var(--surf-2); }
+:root .work-card { gap: 0.5rem; min-height: 9.5rem; }
+:root .work-card-title {
   font-size:   1.125rem;
   font-weight: 700;
   line-height: 1.25;
 }
-:root:where(:not([data-skin='gazette'])) .work-card-title:lang(fa) { font-family: var(--font-arabic); }
-:root:where(:not([data-skin='gazette'])) .incipit {
+:root .work-card-title:lang(fa) { font-family: var(--font-arabic); }
+:root .incipit {
   font-style: normal;
   font-size:  0.95rem;
   color:      var(--ink);
   opacity:    0.82;
 }
-:root:where(:not([data-skin='gazette'])) .work-card-meta { font-size: 0.8rem; padding-top: 0.5rem; }
+:root .work-card-meta { font-size: 0.8rem; padding-top: 0.5rem; }
 
 /* ── Breadcrumb ─────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .breadcrumb { font-size: 0.85rem; margin: 1.5rem 0 1.25rem; }
-:root:where(:not([data-skin='gazette'])) .breadcrumb-sep { color: var(--control); }
-:root:where(:not([data-skin='gazette'])) .breadcrumb-current { color: var(--ink); font-weight: 700; }
+:root .breadcrumb { font-size: 0.85rem; margin: 1.5rem 0 1.25rem; }
+:root .breadcrumb-sep { color: var(--control); }
+:root .breadcrumb-current { color: var(--ink); font-weight: 700; }
 
 /* ── Reading page ───────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .work-heading {
+:root .work-heading {
   font-size:      2.5rem;
   letter-spacing: -0.015em;
 }
-:root:where(:not([data-skin='gazette'])) .work-heading-original { font-size: 1.25rem; }
-:root:where(:not([data-skin='gazette'])) .work-header .meta-strip { font-size: 0.9rem; }
-:root:where(:not([data-skin='gazette'])) .work-gloss summary { text-decoration-color: var(--control); }
-:root:where(:not([data-skin='gazette'])) .work-gloss p { font-style: normal; }
+:root .work-heading-original { font-size: 1.25rem; }
+:root .work-header .meta-strip { font-size: 0.9rem; }
+:root .work-gloss summary { text-decoration-color: var(--control); }
+:root .work-gloss p { font-style: normal; }
 
-:root:where(:not([data-skin='gazette'])) .reading-column {
+:root .reading-column {
   line-height: var(--reading-leading, 1.8);
   color:       var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) { line-height: 2.1; }
+:root .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) { line-height: 2.1; }
 
-:root:where(:not([data-skin='gazette'])) .lang-label {
+:root .lang-label {
   font-size:      0.75rem;
   font-weight:    700;
   letter-spacing: 0.08em;
   color:          var(--muted);
   border-bottom:  1px solid var(--rule);
 }
-:root:where(:not([data-skin='gazette'])) .lang-label::before { content: none; }
-:root:where(:not([data-skin='gazette'])) .parallel-cell + .parallel-cell { border-inline-start-width: 1px; }
+:root .lang-label::before { content: none; }
+:root .parallel-cell + .parallel-cell { border-inline-start-width: 1px; }
 
-:root:where(:not([data-skin='gazette'])) .tailpiece {
+:root .tailpiece {
   max-width: 6rem;
   color:     transparent;
   gap:       0;
 }
-:root:where(:not([data-skin='gazette'])) .tailpiece::before { border-top: 1px solid var(--rule); }
-:root:where(:not([data-skin='gazette'])) .tailpiece::after  { display: none; }
+:root .tailpiece::before { border-top: 1px solid var(--rule); }
+:root .tailpiece::after  { display: none; }
 
-:root:where(:not([data-skin='gazette'])) .provenance { font-size: 0.9rem; }
-:root:where(:not([data-skin='gazette'])) .provenance-key { font-weight: 700; letter-spacing: 0.06em; }
+:root .provenance { font-size: 0.9rem; }
+:root .provenance-key { font-weight: 700; letter-spacing: 0.06em; }
 
-:root:where(:not([data-skin='gazette'])) .work-nav {
+:root .work-nav {
   border-top:  none;
   padding-top: 0.5rem;
   gap:         1rem;
 }
-:root:where(:not([data-skin='gazette'])) .work-nav-btn {
+:root .work-nav-btn {
   border:        none;
   border-radius: var(--radius-lg);
   background:    var(--surf);
   padding:       1rem 1.25rem;
 }
-:root:where(:not([data-skin='gazette'])) .work-nav-btn:hover { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette'])) .work-nav-btn:hover .work-nav-dir { color: var(--muted); }
-:root:where(:not([data-skin='gazette'])) .work-nav-btn:hover .work-nav-title { color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .work-nav-dir { font-weight: 700; letter-spacing: 0.06em; }
-:root:where(:not([data-skin='gazette'])) .work-nav-title { font-weight: 700; font-size: 1.05rem; }
+:root .work-nav-btn:hover { background: var(--surf-2); }
+:root .work-nav-btn:hover .work-nav-dir { color: var(--muted); }
+:root .work-nav-btn:hover .work-nav-title { color: var(--pomeg); }
+:root .work-nav-dir { font-weight: 700; letter-spacing: 0.06em; }
+:root .work-nav-title { font-weight: 700; font-size: 1.05rem; }
 
-:root:where(:not([data-skin='gazette'])) .more-works { border-top: none; margin-top: 3.5rem; padding-top: 0; }
-:root:where(:not([data-skin='gazette'])) .more-works-title { font-size: 1.375rem; }
-:root:where(:not([data-skin='gazette'])) .more-works-title a {
+:root .more-works { border-top: none; margin-top: 3.5rem; padding-top: 0; }
+:root .more-works-title { font-size: 1.375rem; }
+:root .more-works-title a {
   display:     inline-flex;
   align-items: center;
   gap:         0.5rem;
 }
-:root:where(:not([data-skin='gazette'])) .more-works-title a::after {
+:root .more-works-title a::after {
   content:      '';
   width:        0.45em;
   height:       0.45em;
@@ -538,14 +527,14 @@
   transform:    rotate(45deg);
   transition:   transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
-:root:where(:not([data-skin='gazette'])) .more-works-title a:hover::after { transform: translateX(3px) rotate(45deg); }
+:root .more-works-title a:hover::after { transform: translateX(3px) rotate(45deg); }
 
 /* ── Tags ───────────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .tag-pills { gap: 0.5rem; }
-:root:where(:not([data-skin='gazette'])) .work-tag-row { margin-bottom: 2.5rem; }
-:root:where(:not([data-skin='gazette'])) .works-themes { margin-top: 1rem; }
-:root:where(:not([data-skin='gazette'])) .works-themes-all { font-size: 0.9rem; font-weight: 700; }
-:root:where(:not([data-skin='gazette'])) .tag-group-title {
+:root .tag-pills { gap: 0.5rem; }
+:root .work-tag-row { margin-bottom: 2.5rem; }
+:root .works-themes { margin-top: 1rem; }
+:root .works-themes-all { font-size: 0.9rem; font-weight: 700; }
+:root .tag-group-title {
   font-size:      1.375rem;
   font-weight:    700;
   letter-spacing: -0.01em;
@@ -554,37 +543,30 @@
   border-bottom:  none;
   padding-bottom: 0;
 }
-:root:where(:not([data-skin='gazette'])) .tag-group + .tag-group { margin-top: 2.5rem; }
-:root:where(:not([data-skin='gazette'])) .tag-note { font-size: 0.85rem; }
+:root .tag-group + .tag-group { margin-top: 2.5rem; }
+:root .tag-note { font-size: 0.85rem; }
 
 /* ── Homepage ───────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .home-grid {
-  grid-template-columns: 1fr 20rem;
-  gap:                   0 2.5rem;
-  padding-top:           2rem;
-}
-:root:where(:not([data-skin='gazette'])) .home-featured { padding: 0; border-right: none; }
-:root:where(:not([data-skin='gazette'])) .home-sidebar  { padding: 0; }
 
-:root:where(:not([data-skin='gazette'])) .featured-box {
+:root .featured-box {
   border:        none;
   padding:       0;
   border-radius: 20px;
   background:    var(--surf);
 }
-:root:where(:not([data-skin='gazette'])) .featured-box::before { content: none; }
-:root:where(:not([data-skin='gazette'])) .featured-box-inner {
+:root .featured-box::before { content: none; }
+:root .featured-box-inner {
   border:  none;
   padding: 2.5rem 2.75rem 2.25rem;
 }
-:root:where(:not([data-skin='gazette'])) .featured-name {
+:root .featured-name {
   font-family:    var(--font-ui);
   font-size:      3rem;
   letter-spacing: -0.02em;
   line-height:    1.05;
 }
-:root:where(:not([data-skin='gazette'])) .featured-meta { margin-top: 0.6rem; }
-:root:where(:not([data-skin='gazette'])) .featured-bio {
+:root .featured-meta { margin-top: 0.6rem; }
+:root .featured-bio {
   font-family: var(--font-body);
   font-style:  normal;
   font-size:   1.0625rem;
@@ -594,8 +576,8 @@
   margin-top:  1.25rem;
 }
 /* The pull-quote mark becomes a crimson drop cap on the first letter */
-:root:where(:not([data-skin='gazette'])) .featured-quote { display: none; }
-:root:where(:not([data-skin='gazette'])) .featured-bio--dropcap::first-letter {
+:root .featured-quote { display: none; }
+:root .featured-bio--dropcap::first-letter {
   font-family:  var(--font-body);
   font-weight:  700;
   font-size:    3.4em;
@@ -604,82 +586,53 @@
   margin:       0.08em 0.1em 0 0;
   color:        var(--pomeg);
 }
-:root:where(:not([data-skin='gazette'])) .featured-more {
+:root .featured-more {
   margin-top:     1.25rem;
   font-size:      0.9rem;
   font-weight:    700;
   letter-spacing: 0;
 }
 
-:root:where(:not([data-skin='gazette'])) .home-sidebar-section + .home-sidebar-section { margin-top: 2rem; }
-:root:where(:not([data-skin='gazette'])) .recent-item {
-  border-bottom: none;
-  padding:       0.6rem 0.75rem;
-  margin:        0 -0.75rem;
-  border-radius: var(--radius);
-  transition:    background 0.15s;
-}
-:root:where(:not([data-skin='gazette'])) .recent-item:hover { background: var(--surf); }
-:root:where(:not([data-skin='gazette'])) .recent-item-name { font-weight: 700; font-size: 1.05rem; }
-:root:where(:not([data-skin='gazette'])) .recent-item-meta { font-size: 0.8rem; }
-
-:root:where(:not([data-skin='gazette'])) .daily-poem {
+:root .daily-poem {
   border-top: none;
   margin:     3.5rem 0 0;
   padding:    0;
 }
-:root:where(:not([data-skin='gazette'])) .daily-poem-title { font-size: 2rem; font-weight: 700; }
-:root:where(:not([data-skin='gazette'])) .daily-poem-author { font-size: 0.9rem; }
-:root:where(:not([data-skin='gazette'])) .daily-poem-excerpt {
+:root .daily-poem-title { font-size: 2rem; font-weight: 700; }
+:root .daily-poem-author { font-size: 0.9rem; }
+:root .daily-poem-excerpt {
   font-style:  normal;
   font-size:   1.125rem;
   line-height: 1.8;
   color:       var(--ink);
   margin:      1.25rem auto 1.5rem;
 }
-:root:where(:not([data-skin='gazette'])) .daily-poem-actions { font-size: 0.9rem; font-weight: 700; letter-spacing: 0; }
+:root .daily-poem-actions { font-size: 0.9rem; font-weight: 700; letter-spacing: 0; }
 
-:root:where(:not([data-skin='gazette'])) .works-strip { border-top: none; margin-top: 3.5rem; padding: 0; }
-:root:where(:not([data-skin='gazette'])) .works-strip-grid { gap: 1rem; }
-:root:where(:not([data-skin='gazette'])) .works-strip-col,
-:root:where(:not([data-skin='gazette'])) .works-strip-col:first-child,
-:root:where(:not([data-skin='gazette'])) .works-strip-col:last-child {
+:root .works-strip { border-top: none; margin-top: 3.5rem; padding: 0; }
+:root .works-strip-grid { gap: 1rem; }
+:root .works-strip-col,
+:root .works-strip-col:first-child,
+:root .works-strip-col:last-child {
   padding:       1.25rem 1.5rem;
   border:        none;
   border-radius: var(--radius-lg);
   background:    var(--surf);
 }
-:root:where(:not([data-skin='gazette'])) .works-strip-type { font-weight: 700; letter-spacing: 0.06em; }
-:root:where(:not([data-skin='gazette'])) .works-strip-title { font-weight: 700; font-size: 1.125rem; }
-:root:where(:not([data-skin='gazette'])) .works-strip-author { font-size: 0.85rem; }
+:root .works-strip-type { font-weight: 700; letter-spacing: 0.06em; }
+:root .works-strip-title { font-weight: 700; font-size: 1.125rem; }
+:root .works-strip-author { font-size: 0.85rem; }
 
 /* ── Author page ────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .author-header-grid {
-  grid-template-columns: 9rem 1fr;
-  gap:                   2rem;
-  align-items:           start;
-  border-bottom:         none;
-  padding-bottom:        0.5rem;
-  margin-bottom:         2rem;
-}
-:root:where(:not([data-skin='gazette'])) .portrait-placeholder {
-  width:         9rem;
-  height:        9rem;
-  border:        none;
-  border-radius: 50%;
-  overflow:      hidden;
-}
-:root:where(:not([data-skin='gazette'])) .portrait-box img,
-:root:where(:not([data-skin='gazette'])) .portrait-placeholder img { filter: none; }
-:root:where(:not([data-skin='gazette'])) .author-name {
+:root .author-name {
   font-size:      2.75rem;
   letter-spacing: -0.02em;
   line-height:    1.05;
 }
-:root:where(:not([data-skin='gazette'])) .author-period { color: var(--muted); font-size: 0.9rem; letter-spacing: 0; }
-:root:where(:not([data-skin='gazette'])) .author-tags { gap: 0.4rem; }
-:root:where(:not([data-skin='gazette'])) .author-tag,
-:root:where(:not([data-skin='gazette'])) .tag {
+:root .author-period { color: var(--muted); font-size: 0.9rem; letter-spacing: 0; }
+:root .author-tags { gap: 0.4rem; }
+:root .author-tag,
+:root .tag {
   font-size:     0.8rem;
   padding:       0.25rem 0.75rem;
   border:        none;
@@ -687,41 +640,18 @@
   background:    var(--surf);
   color:         var(--ink);
 }
-:root:where(:not([data-skin='gazette'])) .author-bio {
+:root .author-bio {
   font-family: var(--font-body);
   font-size:   1.0625rem;
   line-height: 1.7;
   max-width:   44rem;
 }
-:root:where(:not([data-skin='gazette'])) .drop-cap::first-letter { font-family: var(--font-body); }
-
-:root:where(:not([data-skin='gazette'])) .coll-header {
-  font-size:      1.375rem;
-  font-weight:    700;
-  letter-spacing: -0.01em;
-  text-transform: none;
-  color:          var(--ink);
-  border-bottom:  none;
-  margin-bottom:  0.75rem;
-}
-:root:where(:not([data-skin='gazette'])) .coll-header::before { content: none; }
-:root:where(:not([data-skin='gazette'])) .coll-header a:hover { color: var(--pomeg) !important; }
-:root:where(:not([data-skin='gazette'])) .work-list { gap: 0.25rem 1rem; }
-:root:where(:not([data-skin='gazette'])) .work-list-item {
-  border-bottom: none;
-  border-radius: var(--radius);
-  padding:       0.5rem 0.75rem;
-}
-:root:where(:not([data-skin='gazette'])) .work-list-item:hover { background: var(--surf); }
-:root:where(:not([data-skin='gazette'])) .work-title { font-size: 1rem; }
-:root:where(:not([data-skin='gazette'])) .work-year { font-size: 0.8rem; }
-:root:where(:not([data-skin='gazette'])) .work-row { border-bottom-width: 1px; padding: 0.6rem 0; }
-:root:where(:not([data-skin='gazette'])) .work-row-title { font-size: 1rem; }
-:root:where(:not([data-skin='gazette'])) .work-row-meta { font-size: 0.7rem; }
+:root .work-list { gap: 0.25rem 1rem; }
+:root .work-title { font-size: 1rem; }
 
 /* ── Artwork gallery ────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .gallery { margin: 2.5rem 0; }
-:root:where(:not([data-skin='gazette'])) .gallery-heading {
+:root .gallery { margin: 2.5rem 0; }
+:root .gallery-heading {
   font-size:      1.375rem;
   font-weight:    700;
   letter-spacing: -0.01em;
@@ -730,29 +660,28 @@
   border-bottom:  none;
   padding-bottom: 0;
 }
-:root:where(:not([data-skin='gazette'])) .gallery-heading::before { content: none; }
-:root:where(:not([data-skin='gazette'])) .gallery-count { font-weight: 400; }
-:root:where(:not([data-skin='gazette'])) .gallery-thumb {
+:root .gallery-heading::before { content: none; }
+:root .gallery-count { font-weight: 400; }
+:root .gallery-thumb {
   border:        none;
   border-radius: var(--radius-lg);
   padding:       0.75rem;
   transition:    background 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .gallery-thumb:hover { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette'])) .gallery-title { font-style: normal; font-weight: 700; font-size: 0.95rem; }
-:root:where(:not([data-skin='gazette'])) .gallery-meta { font-size: 0.8rem; }
+:root .gallery-thumb:hover { background: var(--surf-2); }
+:root .gallery-title { font-style: normal; font-weight: 700; font-size: 0.95rem; }
+:root .gallery-meta { font-size: 0.8rem; }
 
 /* ── Search ─────────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .search-bar { gap: 0.5rem; }
-:root:where(:not([data-skin='gazette'])) .search-input {
+:root .search-input {
   border:        1px solid transparent;
   border-radius: var(--radius);
   font-family:   var(--font-ui);
   font-size:     1rem;
   padding:       0.7rem 1rem;
 }
-:root:where(:not([data-skin='gazette'])) .search-input:focus { border-color: var(--pomeg); background: var(--bg); }
-:root:where(:not([data-skin='gazette'])) .search-btn {
+:root .search-input:focus { border-color: var(--pomeg); background: var(--bg); }
+:root .search-btn {
   border-radius:  var(--radius);
   font-size:      0.85rem;
   font-weight:    700;
@@ -761,47 +690,45 @@
   padding:        0.7rem 1.25rem;
   background:     var(--pomeg-fill);
 }
-:root:where(:not([data-skin='gazette'])) .search-btn:hover { background: #A30D25; }
-:root:where(:not([data-skin='gazette'])) .search-btn::before { content: none; }
-:root:where(:not([data-skin='gazette'])) .not-found-code {
+:root .search-btn:hover { background: #A30D25; }
+:root .search-btn::before { content: none; }
+:root .not-found-code {
   font-family:    var(--font-ui);
   font-weight:    700;
   color:          var(--surf-2);
   letter-spacing: -0.03em;
 }
-:root:where(:not([data-skin='gazette'])) .not-found-text { font-style: normal; }
-:root:where(:not([data-skin='gazette'])) .not-found-links { font-size: 0.95rem; font-weight: 700; }
-:root:where(:not([data-skin='gazette'])) .search-highlight,
-:root:where(:not([data-skin='gazette'])) .work-row mark { border-radius: 3px; }
+:root .not-found-text { font-style: normal; }
+:root .not-found-links { font-size: 0.95rem; font-weight: 700; }
 
 /* ── Forms and text pages ───────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .form-input {
+:root .form-input {
   border:        1px solid transparent;
   border-radius: var(--radius);
   font-family:   var(--font-ui);
   padding:       0.65rem 0.9rem;
 }
-:root:where(:not([data-skin='gazette'])) .form-input:focus { border-color: var(--pomeg); background: var(--bg); }
-:root:where(:not([data-skin='gazette'])) .form-label { font-size: 0.85rem; font-weight: 700; letter-spacing: 0; }
-:root:where(:not([data-skin='gazette'])) .form-hint { font-size: 0.8rem; }
-:root:where(:not([data-skin='gazette'])) .work-picker-results,
-:root:where(:not([data-skin='gazette'])) .work-picker-chosen { border-radius: var(--radius); }
-:root:where(:not([data-skin='gazette'])) .page-prose { font-size: 1.0625rem; line-height: 1.75; }
-:root:where(:not([data-skin='gazette'])) .page-prose strong { font-weight: 700; }
-:root:where(:not([data-skin='gazette'])) .contribute-guide { border-color: var(--rule); }
+:root .form-input:focus { border-color: var(--pomeg); background: var(--bg); }
+:root .form-label { font-size: 0.85rem; font-weight: 700; letter-spacing: 0; }
+:root .form-hint { font-size: 0.8rem; }
+:root .work-picker-results,
+:root .work-picker-chosen { border-radius: var(--radius); }
+:root .page-prose { font-size: 1.0625rem; line-height: 1.75; }
+:root .page-prose strong { font-weight: 700; }
+:root .contribute-guide { border-color: var(--rule); }
 
 /* ── Footer ─────────────────────────────────────────────────── */
 /* The wordmark as in the bar, a muted line, bold links: no rules, no diamonds */
-:root:where(:not([data-skin='gazette'])) .footer {
+:root .footer {
   border-top: none;
   background: var(--surf);
   margin-top: 3.5rem;
   padding:    1.25rem 1.5rem;
 }
 @media (min-width: 901px) {
-  :root:where(:not([data-skin='gazette'])) .footer-inner { grid-template-columns: auto minmax(0, 1fr) auto; }
+  :root .footer-inner { grid-template-columns: auto minmax(0, 1fr) auto; }
 }
-:root:where(:not([data-skin='gazette'])) .footer-mark {
+:root .footer-mark {
   display:        block;
   font-family:    var(--font-serif);
   font-size:      1.2rem;
@@ -811,26 +738,26 @@
   color:          var(--ink);
 }
 /* The same wordmark as the header: kitabxana.az, the domain in red */
-:root:where(:not([data-skin='gazette'])) .footer-mark em { font-style: normal; font-size: 1.2rem; color: var(--pomeg); text-transform: lowercase; }
-:root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn { font-size: 0; }
-:root:where(:not([data-skin='gazette'])) .footer-mark .logo-orn::before { content: '.'; font-size: 1.2rem; color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .footer-text { font-family: var(--font-ui); font-style: normal; font-size: 0.875rem; }
-:root:where(:not([data-skin='gazette'])) .footer-links {
+:root .footer-mark em { font-style: normal; font-size: 1.2rem; color: var(--pomeg); text-transform: lowercase; }
+:root .footer-mark .logo-orn { font-size: 0; }
+:root .footer-mark .logo-orn::before { content: '.'; font-size: 1.2rem; color: var(--pomeg); }
+:root .footer-text { font-family: var(--font-ui); font-style: normal; font-size: 0.875rem; }
+:root .footer-links {
   gap:            0.4rem 1.5rem;
   font-size:      0.875rem;
   font-weight:    700;
   letter-spacing: 0;
   text-transform: none;
 }
-:root:where(:not([data-skin='gazette'])) .footer-links a { color: var(--ink); }
-:root:where(:not([data-skin='gazette'])) .footer-links a:hover,
-:root:where(:not([data-skin='gazette'])) .footer-links a:focus-visible { color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .footer-links a + a::before { content: none; }
+:root .footer-links a { color: var(--ink); }
+:root .footer-links a:hover,
+:root .footer-links a:focus-visible { color: var(--pomeg); }
+:root .footer-links a + a::before { content: none; }
 
 /* ── Responsive ─────────────────────────────────────────────── */
 /* The nav always has its own grid row here: undo the gazette's narrow-screen strip */
 @media (max-width: 1119px) {
-  :root:where(:not([data-skin='gazette'])) .site-nav {
+  :root .site-nav {
     border-top: none;
     padding:    0;
     width:      auto;
@@ -838,84 +765,69 @@
 }
 /* Phones: the sections strip scrolls sideways, its edges fading out */
 @media (max-width: 600px) {
-  :root:where(:not([data-skin='gazette'])) .site-nav {
+  :root .site-nav {
     margin:             0 -1rem;
     padding:            0 1rem;
     gap:                0 1.1rem;
     -webkit-mask-image: linear-gradient(to right, transparent 0, #000 1rem, #000 calc(100% - 2.5rem), transparent);
             mask-image: linear-gradient(to right, transparent 0, #000 1rem, #000 calc(100% - 2.5rem), transparent);
   }
-  :root:where(:not([data-skin='gazette'])) .site-nav a { flex-shrink: 0; white-space: nowrap; }
+  :root .site-nav a { flex-shrink: 0; white-space: nowrap; }
 }
 @media (max-width: 768px) {
-  :where(:root:where(:not([data-skin='gazette']))) h1 { font-size: 2rem; }
-  :root:where(:not([data-skin='gazette'])) .work-heading { font-size: 2rem; }
-  :root:where(:not([data-skin='gazette'])) .home-grid { grid-template-columns: 1fr; gap: 2.5rem; padding-top: 1.25rem; }
+  :where(:root) h1 { font-size: 2rem; }
+  :root .work-heading { font-size: 2rem; }
   /* The grid gap already stands between them; their own margin tops it up to 3.5rem */
-  :root:where(:not([data-skin='gazette'])) .home-grid > .catalog,
-  :root:where(:not([data-skin='gazette'])) .home-grid > .works-strip { margin-top: 1rem; }
-  :root:where(:not([data-skin='gazette'])) .home-featured,
-  :root:where(:not([data-skin='gazette'])) .home-sidebar { padding: 0; border: none; }
-  :root:where(:not([data-skin='gazette'])) .featured-box-inner { padding: 1.75rem 1.5rem; }
-  :root:where(:not([data-skin='gazette'])) .featured-name { font-size: 2.25rem; }
-  :root:where(:not([data-skin='gazette'])) .works-strip-col + .works-strip-col { margin-top: 0; padding-top: 1.25rem; }
-  :root:where(:not([data-skin='gazette'])) .author-header-grid { grid-template-columns: 1fr; gap: 1.25rem; }
-  :root:where(:not([data-skin='gazette'])) .portrait-placeholder { width: 7rem; height: 7rem; }
-  :root:where(:not([data-skin='gazette'])) .parallel-row { border-bottom-width: 1px; }
+  :root .featured-box-inner { padding: 1.75rem 1.5rem; }
+  :root .featured-name { font-size: 2.25rem; }
+  :root .works-strip-col + .works-strip-col { margin-top: 0; padding-top: 1.25rem; }
+  :root .parallel-row { border-bottom-width: 1px; }
 }
 @media (pointer: coarse) {
-  :root:where(:not([data-skin='gazette'])) .theme-btn { width: 2.75rem; height: 2.75rem; }
+  :root .theme-btn { width: 2.75rem; height: 2.75rem; }
 }
 /* Phones: a smaller wordmark keeps the logo and the tools on one row */
 @media (max-width: 480px) {
-  :root:where(:not([data-skin='gazette'])) .logo,
-  :root:where(:not([data-skin='gazette'])) .logo em,
-  :root:where(:not([data-skin='gazette'])) .logo-orn::before { font-size: 1.2rem; }
+  :root .logo,
+  :root .logo em,
+  :root .logo-orn::before { font-size: 1.2rem; }
 }
 /* Under 360px: the same tightening as globals.css, at the clean skin's specificity */
 @media (max-width: 359px) {
-  :root:where(:not([data-skin='gazette'])) .lang-btn { padding-left: 0.4rem; padding-right: 0.4rem; }
+  :root .lang-btn { padding-left: 0.4rem; padding-right: 0.4rem; }
 }
 @media (pointer: coarse) and (max-width: 359px) {
-  :root:where(:not([data-skin='gazette'])) .theme-btn { width: 2.5rem; height: 2.5rem; }
+  :root .theme-btn { width: 2.5rem; height: 2.5rem; }
 }
 
 /* With no ornament line to sit on, a lone "Aa" takes its own row */
-:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo {
+:root .reading-toolbar--solo {
   height:        auto;
   top:           0;
   margin-bottom: 0;
 }
-:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
+:root .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
 /* A lone poem shrinks to its longest line and centres, so its "Aa" centres above it
    rather than hanging off the edge of a row wider than the poem */
-:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo:has(+ .reading-column.is-poem) { justify-content: center; gap: 0; }
+:root .reading-toolbar--solo:has(+ .reading-column.is-poem) { justify-content: center; gap: 0; }
 /* …and its panel opens centred under it, not leftwards off a phone's edge */
-:root:where(:not([data-skin='gazette'])) .reading-toolbar--solo:has(+ .reading-column.is-poem) .appearance-popover {
+:root .reading-toolbar--solo:has(+ .reading-column.is-poem) .appearance-popover {
   inset-inline-end: auto;
   left:             50%;
   transform:        translateX(-50%);
 }
 
 /* ── Share ──────────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .share-label { letter-spacing: 0.04em; font-weight: 700; }
-:root:where(:not([data-skin='gazette'])) .share-btn {
-  border:        none;
-  border-radius: 50%;
-  width:         2.5rem;
-  height:        2.5rem;
-}
-:root:where(:not([data-skin='gazette'])) .share-btn:hover { background: var(--surf-2); color: var(--pomeg); }
 
 /* ── Download: grey pills, sentence-case label ──────────────── */
-:root:where(:not([data-skin='gazette'])) .download-label {
+:root .download-label {
   text-transform: none;
   letter-spacing: 0;
   font-size:      0.875rem;
   font-weight:    400;
   color:          var(--muted);
 }
-:root:where(:not([data-skin='gazette'])) .download-btn {
+:root .download-btn {
   border:         none;
   border-radius:  999px;
   padding:        0 1rem;
@@ -925,30 +837,30 @@
   letter-spacing: 0;
   background:     var(--surf);
 }
-:root:where(:not([data-skin='gazette'])) .download-btn:hover { background: var(--surf-2); color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .download-note { font-size: 0.8rem; }
+:root .download-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+:root .download-note { font-size: 0.8rem; }
 
 /* ── Read on ────────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .unfold-btn {
+:root .unfold-btn {
   border:         none;
   border-radius:  999px;
   letter-spacing: 0.04em;
   font-weight:    700;
   padding:        0.65rem 1.6rem;
 }
-:root:where(:not([data-skin='gazette'])) .unfold-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+:root .unfold-btn:hover { background: var(--surf-2); color: var(--pomeg); }
 
 /* ── Prose reading ──────────────────────────────────────────── */
 /* Headings inside a text: the bold interface sans, sentence case, no centring flourish */
-:root:where(:not([data-skin='gazette'])) .reading-column.is-prose :is(h2, h3, h4) {
+:root .reading-column.is-prose :is(h2, h3, h4) {
   font-family: var(--font-ui);
   font-weight: 700;
   font-size:   1.05em;
 }
 /* No hairlines in Clean: the footnotes are set off by space alone */
-:root:where(:not([data-skin='gazette'])) .reading-column.is-prose hr { border-top: none; margin-top: 3em; }
-:root:where(:not([data-skin='gazette'])) .reading-contents summary { font-weight: 700; color: var(--ink); }
-:root:where(:not([data-skin='gazette'])) .reading-contents summary::after {
+:root .reading-column.is-prose hr { border-top: none; margin-top: 3em; }
+:root .reading-contents summary { font-weight: 700; color: var(--ink); }
+:root .reading-contents summary::after {
   content:       '';
   width:         0.4em;
   height:        0.4em;
@@ -957,27 +869,27 @@
   transform:     translateY(-0.12em) rotate(45deg);
   transition:    transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
-:root:where(:not([data-skin='gazette'])) .reading-contents[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
-:root:where(:not([data-skin='gazette'])) .reading-contents ol {
+:root .reading-contents[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
+:root .reading-contents ol {
   border-top:    none;
   padding:       1rem 1.25rem 0.75rem 2.5rem;
   background:    var(--surf);
   border-radius: var(--radius-lg);
 }
-:root:where(:not([data-skin='gazette'])) .resume-btn {
+:root .resume-btn {
   border:        none;
   border-radius: 999px;
   font-weight:   700;
   padding:       0.55rem 1.3rem;
 }
-:root:where(:not([data-skin='gazette'])) .resume-btn:hover { background: var(--surf-2); color: var(--pomeg); }
+:root .resume-btn:hover { background: var(--surf-2); color: var(--pomeg); }
 
 /* ── Catalogue ──────────────────────────────────────────────── */
-:root:where(:not([data-skin='gazette'])) .catalog { border-top: none; margin-top: 3.5rem; padding: 0; }
-:root:where(:not([data-skin='gazette'])) .catalog-grid { gap: 1rem; }
-:root:where(:not([data-skin='gazette'])) .catalog-grid li,
-:root:where(:not([data-skin='gazette'])) .catalog-grid li + li { border: none; }
-:root:where(:not([data-skin='gazette'])) .catalog-tile {
+:root .catalog { border-top: none; margin-top: 3.5rem; padding: 0; }
+:root .catalog-grid { gap: 1rem; }
+:root .catalog-grid li,
+:root .catalog-grid li + li { border: none; }
+:root .catalog-tile {
   align-items:   flex-start;
   text-align:    left;
   min-height:    9.5rem;
@@ -986,10 +898,10 @@
   background:    var(--surf);
   transition:    background 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .catalog-tile:hover { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette'])) .catalog-tile:hover .catalog-count { color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .catalog-kind { font-weight: 700; letter-spacing: 0.06em; }
-:root:where(:not([data-skin='gazette'])) .catalog-count {
+:root .catalog-tile:hover { background: var(--surf-2); }
+:root .catalog-tile:hover .catalog-count { color: var(--pomeg); }
+:root .catalog-kind { font-weight: 700; letter-spacing: 0.06em; }
+:root .catalog-count {
   margin-top:     auto;
   font-family:    var(--font-ui);
   font-weight:    700;
@@ -997,61 +909,60 @@
   color:          var(--ink);
   transition:     color 0.15s;
 }
-:root:where(:not([data-skin='gazette'])) .catalog-unit { font-family: var(--font-ui); font-style: normal; color: var(--muted); }
+:root .catalog-unit { font-family: var(--font-ui); font-style: normal; color: var(--muted); }
 @media (max-width: 768px) {
-  :root:where(:not([data-skin='gazette'])) .catalog-grid li,
-  :root:where(:not([data-skin='gazette'])) .catalog-grid li + li { border: none; }
-  :root:where(:not([data-skin='gazette'])) .catalog-tile { padding: 0.9rem 1rem; }
-  :root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 1.6rem; }
+  :root .catalog-grid li,
+  :root .catalog-grid li + li { border: none; }
+  :root .catalog-tile { padding: 0.9rem 1rem; }
+  :root .catalog-count { font-size: 1.6rem; }
 }
 
 /* ── Other poets: a full-width grey band with white cards ───── */
-:root:where(:not([data-skin='gazette'])) .more-works--others {
+:root .more-works--others {
   margin-top:  4rem;
   padding:     2.5rem 0 3rem;
   background:  var(--surf);
   box-shadow:  0 0 0 100vmax var(--surf);
   clip-path:   inset(0 -100vmax);
 }
-:root:where(:not([data-skin='gazette'])) .more-works--others .card-item { background: var(--bg); }
-:root:where(:not([data-skin='gazette'])) .more-works--others .card-item:hover { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette'])) .more-works-theme { color: var(--pomeg); }
+:root .more-works--others .card-item { background: var(--bg); }
+:root .more-works--others .card-item:hover { background: var(--surf-2); }
+:root .more-works-theme { color: var(--pomeg); }
 /* When the band ends the page it runs into the footer, divided by a hairline */
-:root:where(:not([data-skin='gazette'])) .page-content:has(> .more-works--others:last-child) { padding-bottom: 0; }
-:root:where(:not([data-skin='gazette'])) body:has(.more-works--others) .footer {
+:root .page-content:has(> .more-works--others:last-child) { padding-bottom: 0; }
+:root body:has(.more-works--others) .footer {
   margin-top: 0;
   border-top: 1px solid var(--rule);
 }
 
 /* ── Finish review: no rules, no ornaments, no tracked capitals ── */
 /* Space and the grey surface separate things; lines are the gazette's */
-:root:where(:not([data-skin='gazette'])) .lang-label { border-bottom: none; padding-bottom: 0; }
-:root:where(:not([data-skin='gazette'])) .parallel-cell + .parallel-cell { border-inline-start: none; }
-:root:where(:not([data-skin='gazette'])) .parallel-row { column-gap: 3.5rem; }
-:root:where(:not([data-skin='gazette'])) .tailpiece { display: none; }
-:root:where(:not([data-skin='gazette'])) .provenance { margin-top: 2.5rem; }
-:root:where(:not([data-skin='gazette'])) .rule,
-:root:where(:not([data-skin='gazette'])) .rule--tight { border-top-color: transparent; margin: 0.75rem 0; }
-:root:where(:not([data-skin='gazette'])) body:has(.more-works--others) .footer { border-top: none; }
-:root:where(:not([data-skin='gazette'])) .footer { background: var(--surf-2); }
+:root .lang-label { border-bottom: none; padding-bottom: 0; }
+:root .parallel-cell + .parallel-cell { border-inline-start: none; }
+:root .parallel-row { column-gap: 3.5rem; }
+:root .tailpiece { display: none; }
+:root .provenance { margin-top: 2.5rem; }
+:root .rule,
+:root .rule--tight { border-top-color: transparent; margin: 0.75rem 0; }
+:root body:has(.more-works--others) .footer { border-top: none; }
+:root .footer { background: var(--surf-2); }
 
 /* Labels in sentence case, muted, untracked */
-:root:where(:not([data-skin='gazette'])) .lang-label,
-:root:where(:not([data-skin='gazette'])) .provenance-key,
-:root:where(:not([data-skin='gazette'])) .share-label,
-:root:where(:not([data-skin='gazette'])) .work-nav-dir {
+:root .lang-label,
+:root .provenance-key,
+:root .work-nav-dir {
   text-transform: none;
   letter-spacing: 0;
   font-size:      0.875rem;
   font-weight:    400;
   color:          var(--muted);
 }
-:root:where(:not([data-skin='gazette'])) .provenance-key { margin-inline-end: 0.4rem; }
+:root .provenance-key { margin-inline-end: 0.4rem; }
 
 /* Catalogue: the number leads; what it counts follows as a caption */
-:root:where(:not([data-skin='gazette'])) .catalog-count { order: 0; margin-top: 0; }
-:root:where(:not([data-skin='gazette'])) .catalog-unit { order: 1; }
-:root:where(:not([data-skin='gazette'])) .catalog-kind {
+:root .catalog-count { order: 0; margin-top: 0; }
+:root .catalog-unit { order: 1; }
+:root .catalog-kind {
   order:          2;
   margin-top:     auto;
   text-transform: none;
@@ -1060,25 +971,25 @@
   font-size:      0.8rem;
   color:          var(--muted);
 }
-:root:where(:not([data-skin='gazette'])) .catalog-tile { justify-content: flex-start; }
+:root .catalog-tile { justify-content: flex-start; }
 /* One calm row of figures: every tile the same — the number, then what it counts.
    The units name their form ("məsnəvi fəsli"), so the section caption isn't needed */
-:root:where(:not([data-skin='gazette'])) .catalog-kind { display: none; }
+:root .catalog-kind { display: none; }
 /* Tiles share a row evenly; on narrow screens they fall into even pairs */
-:root:where(:not([data-skin='gazette'])) .catalog-grid { display: flex; flex-wrap: wrap; gap: 0.75rem; }
-:root:where(:not([data-skin='gazette'])) .catalog-grid li { flex: 1 1 0; min-width: 8.5rem; }
-:root:where(:not([data-skin='gazette'])) .catalog-grid .catalog-tile { height: 100%; }
-:root:where(:not([data-skin='gazette'])) .catalog-tile {
+:root .catalog-grid { display: flex; flex-wrap: wrap; gap: 0.75rem; }
+:root .catalog-grid li { flex: 1 1 0; min-width: 8.5rem; }
+:root .catalog-grid .catalog-tile { height: 100%; }
+:root .catalog-tile {
   min-height: 0;
   padding:    1.1rem 1.25rem;
   gap:        0.15rem;
 }
-:root:where(:not([data-skin='gazette'])) .catalog-count { font-size: 2rem; line-height: 1.1; }
-:root:where(:not([data-skin='gazette'])) .catalog-unit { font-size: 0.9rem; }
+:root .catalog-count { font-size: 2rem; line-height: 1.1; }
+:root .catalog-unit { font-size: 0.9rem; }
 
 /* Recent works: title first, then author, then form and year */
-:root:where(:not([data-skin='gazette'])) .works-strip-col { display: flex; flex-direction: column; }
-:root:where(:not([data-skin='gazette'])) .works-strip-type {
+:root .works-strip-col { display: flex; flex-direction: column; }
+:root .works-strip-type {
   order:          3;
   margin:         0.35rem 0 0;
   text-transform: none;
@@ -1089,7 +1000,7 @@
 }
 
 /* Glossary toggle: a drawn chevron instead of a "+" */
-:root:where(:not([data-skin='gazette'])) .work-gloss summary::after {
+:root .work-gloss summary::after {
   content:      '';
   width:        0.4em;
   height:       0.4em;
@@ -1098,15 +1009,14 @@
   transform:    translateY(-0.12em) rotate(45deg);
   transition:   transform 0.2s cubic-bezier(0.16, 1, 0.3, 1);
 }
-:root:where(:not([data-skin='gazette'])) .work-gloss[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
+:root .work-gloss[open] summary::after { content: ''; transform: translateY(0.1em) rotate(-135deg); }
 @media (max-width: 768px) {
-  :root:where(:not([data-skin='gazette'])) .parallel-row { border-bottom: none; padding-bottom: 0.5rem; }
+  :root .parallel-row { border-bottom: none; padding-bottom: 0.5rem; }
 }
 
 /* Poem of the day inside the left column, under the poet card */
-:root:where(:not([data-skin='gazette'])) .home-featured .daily-poem { margin-top: 3rem; }
-:root:where(:not([data-skin='gazette'])) .unfold-btn { text-transform: none; letter-spacing: 0; font-size: 0.9rem; }
-:root:where(:not([data-skin='gazette'])) .catalog-kind--redundant { display: none; }
+:root .unfold-btn { text-transform: none; letter-spacing: 0; font-size: 0.9rem; }
+:root .catalog-kind--redundant { display: none; }
 
 
 
@@ -1114,53 +1024,51 @@
 
 
 /* ── Last tracked capitals: sentence case like every other clean label ── */
-:root:where(:not([data-skin='gazette'])) .appearance-label,
-:root:where(:not([data-skin='gazette'])) .work-row-meta,
-:root:where(:not([data-skin='gazette'])) .page-loading p,
-:root:where(:not([data-skin='gazette'])) .author-type {
+:root .appearance-label,
+:root .page-loading p,
+:root .author-type {
   text-transform: none;
   letter-spacing: 0;
 }
-:root:where(:not([data-skin='gazette'])) .appearance-label { font-size: 0.85rem; }
-:root:where(:not([data-skin='gazette'])) .work-row-meta { font-size: 0.8rem; color: var(--muted); }
-:root:where(:not([data-skin='gazette'])) .page-loading p { font-size: 0.9rem; }
-:root:where(:not([data-skin='gazette'])) .author-type { font-size: 0.8rem; font-weight: 700; color: var(--pomeg); }
+:root .appearance-label { font-size: 0.85rem; }
+:root .page-loading p { font-size: 0.9rem; }
+:root .author-type { font-size: 0.8rem; font-weight: 700; color: var(--pomeg); }
 
 
 
-:root:where(:not([data-skin='gazette'])) .pager-status { letter-spacing: 0; }
-:root:where(:not([data-skin='gazette'])) .pager-next {
+:root .pager-status { letter-spacing: 0; }
+:root .pager-next {
   border:        none;
   border-radius: var(--radius-lg);
   background:    var(--pomeg);
   font-weight:   700;
 }
-:root:where(:not([data-skin='gazette'])) .pager-next:hover { background: var(--ink); }
-:root:where(:not([data-skin='gazette'])) .pager-num,
-:root:where(:not([data-skin='gazette'])) .pager-step { border-radius: var(--radius-lg); }
-:root:where(:not([data-skin='gazette'])) a.pager-num,
-:root:where(:not([data-skin='gazette'])) a.pager-step { background: var(--surf); }
-:root:where(:not([data-skin='gazette'])) a.pager-num:hover,
-:root:where(:not([data-skin='gazette'])) a.pager-step:hover { background: var(--surf-2); }
-:root:where(:not([data-skin='gazette'])) .pager-num.active { background: var(--ink); }
+:root .pager-next:hover { background: var(--ink); }
+:root .pager-num,
+:root .pager-step { border-radius: var(--radius-lg); }
+:root a.pager-num,
+:root a.pager-step { background: var(--surf); }
+:root a.pager-num:hover,
+:root a.pager-step:hover { background: var(--surf-2); }
+:root .pager-num.active { background: var(--ink); }
 
 /* ── Home: the hero cards ───────────────────────────────────── */
 /* The poet card stays grey; the poem of the day sits on the accent's soft tint */
-:root:where(:not([data-skin='gazette'])) .home-poet,
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem { display: flex; flex-direction: column; }
-:root:where(:not([data-skin='gazette'])) .home-poet .featured-box { flex: 1; margin: 0; border-radius: var(--radius-xl); }
-:root:where(:not([data-skin='gazette'])) .home-poet .featured-name,
-:root:where(:not([data-skin='gazette'])) .home-poet .featured-meta { text-align: left; justify-content: flex-start; }
+:root .home-poet,
+:root .home-hero .daily-poem { display: flex; flex-direction: column; }
+:root .home-poet .featured-box { flex: 1; margin: 0; border-radius: var(--radius-xl); }
+:root .home-poet .featured-name,
+:root .home-poet .featured-meta { text-align: left; justify-content: flex-start; }
 /* Both cards start on the same line and stretch to the same height; each carries
    its own label inside, in the same place */
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem {
+:root .home-hero .daily-poem {
   margin:        0;
   padding:       2.5rem 2rem 1.75rem;
   border-radius: var(--radius-xl);
   background:    var(--tint);
   text-align:    left;
 }
-:root:where(:not([data-skin='gazette'])) .home-hero .section-label {
+:root .home-hero .section-label {
   display:     block;
   margin:      0 0 0.75rem;
   font-family: var(--font-ui);
@@ -1169,13 +1077,13 @@
   line-height: 1.4;
   color:       var(--muted);
 }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem .section-label { color: var(--pomeg); }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-title { margin-top: 0; }
-:root:where(:not([data-skin='gazette'])) .home-poet .featured-box-inner { height: 100%; display: flex; flex-direction: column; }
-:root:where(:not([data-skin='gazette'])) .home-poet .featured-more { margin-top: auto; padding-top: 1.25rem; }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-title { font-family: var(--font-serif); font-size: 1.6rem; text-align: left; }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-author { text-align: left; color: var(--muted); }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-excerpt {
+:root .home-hero .daily-poem .section-label { color: var(--pomeg); }
+:root .home-hero .daily-poem-title { margin-top: 0; }
+:root .home-poet .featured-box-inner { height: 100%; display: flex; flex-direction: column; }
+:root .home-poet .featured-more { margin-top: auto; padding-top: 1.25rem; }
+:root .home-hero .daily-poem-title { font-family: var(--font-serif); font-size: 1.6rem; text-align: left; }
+:root .home-hero .daily-poem-author { text-align: left; color: var(--muted); }
+:root .home-hero .daily-poem-excerpt {
   margin:      1rem 0 1.25rem;
   padding:     0;
   border:      none;
@@ -1184,28 +1092,503 @@
   font-size:   1.0625rem;
   line-height: 1.75;
 }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-actions {
+:root .home-hero .daily-poem-actions {
   margin-top:      auto;
   display:         flex;
   flex-wrap:       wrap;
   gap:             0.25rem 1.5rem;
   justify-content: flex-start;
 }
-:root:where(:not([data-skin='gazette'])) .home-hero .daily-poem-actions .more {
+:root .home-hero .daily-poem-actions .more {
   display:     inline-flex;
   align-items: center;
   gap:         0.35rem;
   min-height:  2.75rem;
 }
-:root:where(:not([data-skin='gazette'])) .featured-name { font-family: var(--font-serif); }
-:root:where(:not([data-skin='gazette'])) .home-browse { padding: 1.75rem; border-radius: var(--radius-xl); background: var(--surf); }
-:root:where(:not([data-skin='gazette'])) .home-browse .pill { background: var(--bg); }
-:root:where(:not([data-skin='gazette'])) .home-browse .pill:hover { background: var(--surf-2); }
+:root .featured-name { font-family: var(--font-serif); }
+:root .home-browse { padding: 1.75rem; border-radius: var(--radius-xl); background: var(--surf); }
+:root .home-browse .pill { background: var(--bg); }
+:root .home-browse .pill:hover { background: var(--surf-2); }
 @media (max-width: 480px) {
-  :root:where(:not([data-skin='gazette'])) .home-hero .daily-poem { padding: 1.75rem 1.25rem 1.25rem; }
-  :root:where(:not([data-skin='gazette'])) .home-browse { padding: 1.25rem; }
+  :root .home-hero .daily-poem { padding: 1.75rem 1.25rem 1.25rem; }
+  :root .home-browse { padding: 1.25rem; }
 }
 
 /* Work titles on the reading page in the book serif, like book titles */
-:root:where(:not([data-skin='gazette'])) .work-heading { font-family: var(--font-serif); }
-:root:where(:not([data-skin='gazette'])) .author-books { margin: 1rem 0 3rem; }
+:root .work-heading { font-family: var(--font-serif); }
+:root .author-books { margin: 1rem 0 3rem; }
+
+/* ── catalogue pages (review) ── */
+/* Author page: portrait and facts beside a folded bio, then the shelf of books */
+:root .author-head {
+  display:               grid;
+  grid-template-columns: 9rem minmax(0, 1fr);
+  gap:                   2rem;
+  align-items:           start;
+  margin-bottom:         2.5rem;
+}
+:root .author-portrait { width: 9rem; }
+:root .author-portrait-img {
+  display:       block;
+  border-radius: 50%;
+  object-fit:    cover;
+  background:    var(--surf-2);
+}
+:root .author-portrait-img--lg { width: 9rem; height: 9rem; }
+:root .author-portrait-img--sm { width: 3.5rem; height: 3.5rem; flex: none; }
+:root .author-portrait-empty {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  width:           9rem;
+  height:          9rem;
+  border-radius:   50%;
+  background:      var(--surf);
+  color:           var(--control);
+}
+:root .author-portrait-credit {
+  margin:        0.6rem 0 0;
+  font-family:   var(--font-ui);
+  font-size:     0.75rem;
+  line-height:   1.35;
+  color:         var(--muted);
+  text-align:    center;
+  overflow-wrap: anywhere;
+}
+:root .author-portrait-credit a { color: inherit; text-decoration: underline; text-underline-offset: 2px; }
+:root .author-portrait-credit a:hover { color: var(--ink); }
+:root .author-head-info { min-width: 0; }
+:root .author-head .author-name { margin: 0 0 0.5rem; text-wrap: balance; }
+:root .author-head .author-period { margin: 0 0 0.9rem; }
+:root .author-head .author-tags { list-style: none; margin: 0 0 1.1rem; padding: 0; }
+:root .author-bio-wrap { max-width: 44rem; }
+:root .author-bio p { margin: 0 0 0.75em; }
+:root .author-bio p:last-child { margin-bottom: 0; }
+/* Five lines show; the rest fades out until the reader asks for it. The text is all in
+   the page either way: the checkbox before it only lifts the fold */
+:root .author-bio-toggle:not(:checked) ~ .author-bio--folds {
+  max-height:         8.5em;
+  overflow:           hidden;
+  -webkit-mask-image: linear-gradient(to bottom, #000 55%, transparent);
+  mask-image:         linear-gradient(to bottom, #000 55%, transparent);
+}
+:root .author-bio-more {
+  display:     inline-flex;
+  align-items: center;
+  min-height:  2.75rem;
+  font-family: var(--font-ui);
+  font-size:   0.95rem;
+  font-weight: 600;
+  color:       var(--pomeg);
+  cursor:      pointer;
+}
+:root .author-bio-more:hover { color: var(--pomeg-dark); }
+:root .author-bio-toggle:focus-visible ~ .author-bio-more {
+  outline:        2px solid var(--pomeg);
+  outline-offset: 2px;
+  border-radius:  4px;
+}
+:root .author-bio-toggle:checked ~ .author-bio-more .author-bio-more-open,
+:root .author-bio-toggle:not(:checked) ~ .author-bio-more .author-bio-more-close { display: none; }
+:root .author-bio-wrap .bio-credit { margin-top: 0.25rem; }
+:root .author-bio--elsewhere { color: var(--muted); }
+:root .author-bio--elsewhere a { color: var(--pomeg); font-family: var(--font-ui); font-weight: 600; }
+:root .author-head .download-bar--start .download-bar { margin: 1rem 0 0; }
+:root .author-page .author-books { margin: 0 0 3rem; }
+
+/* Works that belong to no book: compact grey rows, like a book's contents */
+:root .author-works { margin-top: 3rem; }
+:root .author-work-list {
+  list-style:            none;
+  margin:                0;
+  padding:               0;
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(18rem, 1fr));
+  gap:                   0.6rem;
+}
+:root .author-work {
+  display:         flex;
+  flex-direction:  column;
+  justify-content: center;
+  gap:             0.1rem;
+  min-height:      3.25rem;
+  height:          100%;
+  box-sizing:      border-box;
+  padding:         0.55rem 1rem;
+  border-radius:   var(--radius);
+  background:      var(--surf);
+  color:           var(--ink);
+  transition:      background 0.15s;
+}
+:root .author-work:hover { background: var(--surf-2); }
+:root .author-work:hover .author-work-title { color: var(--pomeg); }
+:root .author-work-title { font-family: var(--font-ui); font-weight: 600; line-height: 1.3; }
+:root .author-work-meta { font-family: var(--font-ui); font-size: 0.8rem; color: var(--muted); }
+
+@media (max-width: 768px) {
+  :root .author-head { grid-template-columns: 1fr; gap: 1.25rem; margin-bottom: 2rem; }
+  :root .author-portrait { width: auto; display: flex; align-items: center; gap: 1rem; }
+  :root .author-portrait-img--lg,
+  :root .author-portrait-empty { width: 7rem; height: 7rem; flex: none; }
+  :root .author-portrait-credit { margin: 0; text-align: start; max-width: 12rem; }
+}
+@media (max-width: 480px) {
+  :root .author-work-list { grid-template-columns: 1fr; }
+}
+@media print {
+  :root .author-bio-toggle:not(:checked) ~ .author-bio--folds { max-height: none; -webkit-mask-image: none; mask-image: none; }
+  :root .author-bio-more { display: none; }
+}
+
+/* Authors index: a card is the name and facts, with a small portrait where there is one */
+:root .authors-page .alpha-strip { margin: 1.25rem 0 1rem; }
+:root .authors-view { margin-bottom: 1.5rem; }
+:root .author-grid { list-style: none; margin: 0; padding: 0; }
+:root .author-grid > li { display: grid; }
+:root .author-card {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  gap:             1rem;
+}
+:root .author-card-text { display: block; flex: 1; min-width: 0; }
+:root .author-card:hover .author-card-name { color: var(--pomeg); }
+:root .authors-empty-link { color: var(--pomeg); font-family: var(--font-ui); font-style: normal; font-weight: 600; }
+
+/* Tag page: the authors with most works, the rest behind a disclosure */
+:root .tag-authors ul { list-style: none; margin: 0; padding: 0; }
+:root .tag-authors-more { margin-top: 0.5rem; }
+:root .tag-authors-summary {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.4rem;
+  cursor:      pointer;
+  list-style:  none;
+  color:       var(--pomeg);
+  font-weight: 600;
+  background:  none;
+  padding-inline: 0.25rem;
+}
+:root .tag-authors-summary::-webkit-details-marker { display: none; }
+:root .tag-authors-summary:hover { background: none; color: var(--pomeg-dark); }
+:root .tag-authors-summary::after {
+  content:      '';
+  width:        0.4em;
+  height:       0.4em;
+  border-right: 2px solid currentColor;
+  border-bottom: 2px solid currentColor;
+  transform:    translateY(-0.15em) rotate(45deg);
+}
+:root .tag-authors-more[open] > .tag-authors-summary::after { transform: translateY(0.1em) rotate(225deg); }
+:root .tag-authors-more > ul { margin-top: 0.5rem; }
+
+/* Book contents: a part's first line under its title, on one line */
+:root .book-part-text { flex: 1; }
+:root .book-part-incipit {
+  font-family:   var(--font-body);
+  font-size:     0.9rem;
+  line-height:   1.45;
+  color:         var(--ink);
+  opacity:       0.82;
+  white-space:   nowrap;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+}
+:root .book-part-incipit:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
+  font-family: var(--font-arabic);
+  font-size:   1rem;
+  line-height: 1.7;
+}
+:root .book-opening-label--original { margin: 1rem 0 0.5rem; }
+
+/* Arabic-script titles are tagged by their own language now (ar, az-Arab), not always fa */
+:root .book-title:is(:lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); line-height: 1.5; }
+:root .book-cover-title:is(:lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); line-height: 1.6; }
+:root .book-part-title:is(:lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); font-size: 1.1em; line-height: 1.6; }
+:root .work-card-title:is(:lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); }
+:root .book-opening-text:is(:lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); font-size: 1.2rem; line-height: 2; }
+:root .breadcrumb bdi:is(:lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); font-size: 1.05em; }
+:root .shelf-item-title :is(:lang(fa), :lang(ar), :lang(az-Arab)),
+:root .shelf-item-author :is(:lang(fa), :lang(ar), :lang(az-Arab)),
+:root .author-work-title:is(:lang(fa), :lang(ar), :lang(az-Arab)) { font-family: var(--font-arabic); font-size: 1.1em; line-height: 1.6; }
+/* A generic title set as the cover's small line keeps its own script */
+:root .book-cover-author:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
+  font-family:    var(--font-arabic);
+  text-transform: none;
+  letter-spacing: 0;
+}
+
+/* ── reading, search, account (review) ── */
+
+/* Prose: ragged right unless the reader asks for justified, and then only on a wide column.
+   No browser hyphenates Azerbaijani, so a justified narrow column opens rivers of white */
+@media (max-width: 44.99rem) {
+  :root .reading-column.is-prose[data-align='justify'] { text-align: start; }
+}
+:root .reading-column.is-prose[data-align='justify'] { hyphens: manual; text-justify: inter-word; }
+
+/* Language and version switchers are links now (the server sends the chosen translation) */
+:root a.lang-tab { display: inline-flex; align-items: center; }
+
+/* The end of a text: the next part of the book is the one prominent way on */
+:root .next-up-nav { max-width: 36rem; margin: 2.5rem auto 0; font-family: var(--font-ui); }
+:root .next-up {
+  display:         flex;
+  align-items:     center;
+  justify-content: space-between;
+  gap:             1rem;
+  padding:         1.1rem 1.25rem;
+  border-radius:   var(--radius-lg);
+  background:      var(--surf);
+  color:           var(--ink);
+  transition:      background 0.15s;
+}
+:root .next-up:hover { background: var(--surf-2); }
+:root .next-up:hover .next-up-title { color: var(--pomeg); }
+:root .next-up-text { display: flex; flex-direction: column; gap: 0.2rem; min-width: 0; }
+:root .next-up-label { font-size: 0.875rem; color: var(--muted); }
+:root .next-up-title {
+  font-family: var(--font-serif);
+  font-size:   1.25rem;
+  font-weight: 700;
+  line-height: 1.25;
+  text-wrap:   balance;
+}
+:root .next-up-title bdi:lang(fa) { font-family: var(--font-arabic); }
+:root .next-up-go {
+  flex:            none;
+  display:         inline-flex;
+  align-items:     center;
+  justify-content: center;
+  gap:             0.4rem;
+  min-height:      3rem;
+  padding:         0 1.4rem;
+  border-radius:   var(--radius);
+  background:      var(--pomeg-fill);
+  color:           #fff;
+  font-size:       1rem;
+  font-weight:     700;
+}
+:root .next-up-foot {
+  display:         flex;
+  flex-wrap:       wrap;
+  justify-content: space-between;
+  gap:             0 1.5rem;
+  margin-top:      0.35rem;
+  padding:         0 0.25rem;
+  font-size:       0.875rem;
+}
+:root .next-up-prev {
+  max-width:     100%;
+  line-height:   2.75rem;
+  color:         var(--muted);
+  overflow:      hidden;
+  text-overflow: ellipsis;
+  white-space:   nowrap;
+}
+:root .next-up-prev:hover { color: var(--pomeg); }
+:root .next-up-prev bdi:lang(fa) { font-family: var(--font-arabic); }
+:root p.work-nav-hint { margin-top: 1rem; }
+
+/* Under a text: one row — save, list, read, share, download. Panels open under the row */
+:root .work-actions { position: relative; gap: 0.5rem; margin: 1.75rem auto 1.5rem; }
+:root .work-actions .list-popover { position: static; }
+:root .work-actions .save-btn,
+:root .work-actions .read-btn { min-height: 2.75rem; padding: 0 1rem; font-size: 0.9rem; white-space: nowrap; }
+:root .action-menu { gap: 0.15rem; padding: 0.4rem; }
+:root .action-menu-item {
+  display:       flex;
+  align-items:   center;
+  gap:           0.7rem;
+  width:         100%;
+  box-sizing:    border-box;
+  min-height:    2.75rem;
+  padding:       0.35rem 0.75rem;
+  border:        0;
+  border-radius: var(--radius);
+  background:    transparent;
+  color:         var(--ink);
+  font:          inherit;
+  font-size:     0.95rem;
+  line-height:   1.35;
+  text-align:    start;
+  cursor:        pointer;
+}
+:root .action-menu-item:hover { background: var(--surf); color: var(--ink); }
+:root .action-menu-item svg { flex: none; color: var(--muted); }
+:root .action-menu-sub { display: block; font-size: 0.8rem; color: var(--muted); }
+:root .action-menu-note { margin: 0.25rem 0.75rem 0.35rem; font-size: 0.8rem; line-height: 1.45; color: var(--muted); }
+:root .action-menu-status:empty { display: none; }
+@media (max-width: 480px) {
+  /* Five buttons on one line: only "read" keeps its word, the rest are their icons */
+  :root .work-actions { flex-wrap: nowrap; gap: 0.4rem; }
+  :root .work-actions .save-btn { flex: none; width: 2.75rem; padding: 0; justify-content: center; }
+  :root .work-actions .save-btn > span {
+    position:    absolute;
+    width:       1px;
+    height:      1px;
+    overflow:    hidden;
+    clip-path:   inset(50%);
+    white-space: nowrap;
+  }
+  :root .work-actions .read-btn { min-width: 0; padding: 0 0.9rem; }
+  :root .work-actions .list-popover-panel { width: 100%; box-sizing: border-box; }
+  :root .next-up { flex-direction: column; align-items: stretch; }
+}
+@media print {
+  :root .work-actions,
+  :root .next-up-nav,
+  :root .work-nav-hint { display: none !important; }
+}
+
+/* A reader's progress through a book */
+:root .book-progress { flex-wrap: wrap; row-gap: 0.25rem; }
+:root .book-progress-fill { width: calc(var(--progress, 0) * 100%); }
+:root .book-progress-next { color: var(--pomeg); font-weight: 600; }
+:root .book-progress-next:hover { text-decoration: underline; }
+:root .book-progress-at { font-weight: 400; color: var(--muted); }
+
+/* Account: no "Sign in" while nobody can sign in; errors said in words */
+:root .account-slot--off { display: none; }
+:root[data-signed-in] .account-slot--off { display: flex; }
+:root .signin-pending { min-height: 9.25rem; }
+:root .signin-onward { margin-top: 1.25rem; }
+:root .form-alert { margin: 0; font-family: var(--font-ui); font-size: 0.9rem; line-height: 1.45; color: var(--pomeg); }
+:root .form-alert:empty { display: none; }
+:root .continue-card--empty { min-height: 15rem; box-sizing: border-box; }
+
+/* Search: the bookshop field, then authors, books and works as their own groups */
+:root .search-page { max-width: 50rem; }
+:root .search-form { display: flex; margin: 0 0 0.75rem; }
+:root .search-form .search-input {
+  height:        3rem;
+  padding:       0 1rem;
+  border:        2px solid var(--ink);
+  border-right:  0;
+  border-radius: var(--radius) 0 0 var(--radius);
+  background:    var(--bg);
+  font-size:     1rem;
+}
+:root .search-form .search-input:focus { border-color: var(--pomeg); }
+:root .search-form .search-btn {
+  height:        3rem;
+  padding:       0 1.4rem;
+  border-radius: 0 var(--radius) var(--radius) 0;
+  background:    var(--ink);
+  color:         var(--bg);
+  font-size:     1rem;
+  font-weight:   600;
+  cursor:        pointer;
+}
+:root .search-form .search-btn:hover,
+:root .search-form .search-input:focus + .search-btn { background: var(--pomeg-fill); color: #fff; }
+:root .search-status { min-height: 1.5rem; margin: 0; font-size: 0.9rem; color: var(--muted); }
+:root .search-hint { max-width: 36rem; margin: 0; color: var(--muted); }
+:root .search-group { margin-top: 2rem; }
+:root .search-group-title { margin: 0 0 0.75rem; font-size: 1.125rem; }
+:root .search-chips { list-style: none; margin: 0; padding: 0; }
+:root .search-chips .pill {
+  display:     inline-flex;
+  align-items: center;
+  min-height:  2.5rem;
+  padding:     0 1rem;
+  font-size:   0.95rem;
+  font-weight: 600;
+}
+:root .search-books {
+  list-style:            none;
+  margin:                0;
+  padding:               0;
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(14rem, 1fr));
+  gap:                   0.6rem;
+}
+:root .search-book {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.15rem;
+  height:         100%;
+  box-sizing:     border-box;
+  padding:        0.8rem 1rem;
+  border-radius:  var(--radius);
+  background:     var(--surf);
+  color:          var(--ink);
+}
+:root .search-book:hover { background: var(--surf-2); }
+:root .search-book:hover .search-book-title { color: var(--pomeg); }
+:root .search-book-title { font-family: var(--font-serif); font-weight: 700; line-height: 1.3; }
+:root .search-book-title:lang(fa) { font-family: var(--font-arabic); }
+:root .search-book-meta { font-size: 0.85rem; color: var(--muted); }
+:root .search-filters { display: flex; flex-wrap: wrap; align-items: center; gap: 0.5rem; margin: 0 0 0.75rem; }
+:root .search-filter { flex: 0 1 13rem; min-width: 9rem; }
+:root .search-filter .form-input { width: 100%; box-sizing: border-box; min-height: 2.75rem; }
+:root .search-toggle {
+  display:     inline-flex;
+  align-items: center;
+  min-height:  2.75rem;
+  padding:     0 1.1rem;
+  font-family: var(--font-ui);
+  font-size:   0.9rem;
+  font-weight: 600;
+  cursor:      pointer;
+}
+:root .search-results { list-style: none; margin: 0; padding: 0; }
+:root .search-hit {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.3rem;
+  margin:         0 -1rem;
+  padding:        0.85rem 1rem;
+  border-radius:  var(--radius-lg);
+  color:          var(--ink);
+}
+:root .search-hit:hover { background: var(--surf); }
+:root .search-hit:hover .search-hit-title { color: var(--pomeg); }
+:root .search-hit-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
+:root .search-hit-title { font-family: var(--font-serif); font-size: 1.125rem; font-weight: 700; line-height: 1.3; }
+:root .search-hit-title:lang(fa) { font-family: var(--font-arabic); }
+:root .search-hit-kind { flex: none; font-size: 0.8rem; color: var(--muted); }
+:root .search-hit-author { font-size: 0.875rem; color: var(--muted); }
+:root .search-hit mark { border-radius: 3px; background: var(--hl); color: var(--pomeg); }
+:root .search-hit .search-snippet { font-style: normal; color: var(--ink); opacity: 0.82; }
+:root .search-hit .search-snippet:not([dir='rtl']) { font-size: 0.95rem; }
+:root .search-empty-hint { color: var(--muted); }
+
+/* Contribute: the title stands clear of the header */
+:root .page-header--top { padding-top: 2.5rem; }
+
+/* Blog */
+:root .blog-list {
+  list-style:            none;
+  margin:                0;
+  padding:               0;
+  display:               grid;
+  grid-template-columns: repeat(auto-fill, minmax(min(100%, 20rem), 1fr));
+  gap:                   1rem;
+}
+:root .blog-card {
+  display:        flex;
+  flex-direction: column;
+  gap:            0.5rem;
+  height:         100%;
+  box-sizing:     border-box;
+  padding:        1.25rem 1.5rem;
+  border-radius:  var(--radius-lg);
+  background:     var(--surf);
+  color:          var(--ink);
+}
+:root .blog-card:hover { background: var(--surf-2); }
+:root .blog-card:hover .blog-card-title { color: var(--pomeg); }
+:root .blog-card-title { font-family: var(--font-serif); font-size: 1.25rem; font-weight: 700; line-height: 1.25; }
+:root .blog-card-excerpt { font-family: var(--font-body); line-height: 1.6; }
+:root .blog-card-meta {
+  display:     flex;
+  align-items: center;
+  gap:         0.4rem;
+  margin-top:  auto;
+  padding-top: 0.25rem;
+  font-size:   0.85rem;
+  color:       var(--muted);
+}
+:root .blog-post .page-header { padding-bottom: 2rem; }
+:root .blog-post .meta-strip { justify-content: center; }

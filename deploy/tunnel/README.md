@@ -11,7 +11,6 @@ kitabxana.az → cloudflared → Caddy 127.0.0.1:8787 ─┬─ /api/* → api:4
 Limits:
 - Up only while the laptop is awake and `cloudflared` is running. No uptime guarantee.
 - `www.kitabxana.az` is 308-redirected to the bare domain by Caddy.
-- No uploads (R2 isn't configured).
 - Separate Compose project (`irs-az-tunnel`) — doesn't touch the dev services on `:5433` / `:7700`.
 
 ## Named Tunnel (kitabxana.az)
@@ -56,8 +55,36 @@ pg_dump --no-owner --no-acl irs_az | docker compose exec -T postgres psql -q -U 
 # 5. Start the rest; migrations run on API start
 docker compose up -d --wait
 
-# 6. Replace admin123 and build the search index — before sharing the URL
+# 6. Give the admin a new password and build the search index — before sharing the URL
 ./secure-admin.sh
+```
+
+## Updating Content
+
+Texts are imported into the local database and copied to the live one from the repo root:
+
+```bash
+scripts/sync-tunnel-db.sh
+```
+
+It replaces only the content tables (authors, books, works, translations, tags, artworks, blog posts) and leaves accounts and everything readers keep (sessions, saved items, reading positions, shelves, lists, submissions) alone; the header of the script explains how, and what stops it. Both databases must be on the same migration, so deploy the API first when a migration is pending. Afterwards rebuild the search index: `POST /api/search/reindex` as the admin (202 at once; `GET /api/search/reindex` shows progress).
+
+## Database Backup
+
+The live database holds what cannot be re-imported: accounts, shelves, lists, submissions. `backup-db.sh` dumps it nightly to `~/kitabxana-backups` (`pg_dump` custom format, private folder) and keeps the newest 14.
+
+```bash
+./backup-db.sh    # once by hand, to see it work
+sed "s|__REPO__|$(cd ../.. && pwd)|; s|__HOME__|$HOME|g" az.kitabxana.backup-db.plist > ~/Library/LaunchAgents/az.kitabxana.backup-db.plist
+launchctl bootstrap gui/$(id -u) ~/Library/LaunchAgents/az.kitabxana.backup-db.plist
+```
+
+Nightly at 04:10 (log: `~/Library/Logs/kitabxana-backup-db.log`); a laptop asleep then runs it on wake. The copies sit on the same disk as the database: they cover a bad sync or migration, not a lost laptop.
+
+Restore:
+
+```bash
+docker exec -i irs-az-tunnel-postgres-1 pg_restore -U postgres -d irs_az --clean --if-exists < ~/kitabxana-backups/<file>.dump
 ```
 
 ## New Tunnel URL (Quick Tunnel Only)

@@ -1,10 +1,10 @@
 'use client';
 
 import Link from 'next/link';
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useId, useRef, useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import { localePath } from '@/lib/i18n';
-import { useAccount } from './AccountProvider';
+import { useAccount, useSignInAvailable } from './AccountProvider';
 
 const BOOK_ICON = (
   <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinejoin="round">
@@ -12,18 +12,31 @@ const BOOK_ICON = (
   </svg>
 );
 
-/** The header's account slot: "Sign in" for guests; the shelf link and a menu when signed in */
+/**
+ * The header's account slot: "Sign in" for guests; the shelf link and a short list of account
+ * links when signed in. While the server can't sign anyone in (no mail key, no Google) and
+ * that is known, guests get no button at all.
+ */
 export function AccountMenu() {
   const t = useTranslations('account');
   const locale = useLocale();
   const { status, user, requireSignIn, signOut } = useAccount();
+  const available = useSignInAvailable();
   const [open, setOpen] = useState(false);
   const wrap = useRef<HTMLDivElement>(null);
+  const avatar = useRef<HTMLButtonElement>(null);
+  const panelId = useId();
 
   useEffect(() => {
     if (!open) return;
     const close = (e: MouseEvent | KeyboardEvent) => {
-      if (e instanceof KeyboardEvent ? e.key === 'Escape' : !wrap.current?.contains(e.target as Node)) setOpen(false);
+      if (e instanceof KeyboardEvent) {
+        if (e.key !== 'Escape') return;
+        setOpen(false);
+        avatar.current?.focus();
+      } else if (!wrap.current?.contains(e.target as Node)) {
+        setOpen(false);
+      }
     };
     document.addEventListener('mousedown', close);
     document.addEventListener('keydown', close);
@@ -33,10 +46,14 @@ export function AccountMenu() {
     };
   }, [open]);
 
-  // Holds its width while the account loads, so the header doesn't shift
-  if (status === 'unknown') return <div className="account-slot account-slot--pending" aria-hidden="true" />;
+  // Holds its width while the account loads, so the header doesn't shift. With sign-in known
+  // to be closed it holds none, except in a browser that has signed in before
+  if (status === 'unknown') {
+    return <div className={`account-slot account-slot--pending${available === false ? ' account-slot--off' : ''}`} aria-hidden="true" />;
+  }
 
   if (status === 'guest' || !user) {
+    if (available === false) return null;
     return (
       <div className="account-slot">
         <button type="button" className="account-signin" onClick={() => requireSignIn()}>
@@ -50,27 +67,29 @@ export function AccountMenu() {
 
   return (
     <div className="account-slot" ref={wrap}>
-      <Link href={localePath(locale, '/refim')} className="account-shelf">
+      <Link prefetch={false} href={localePath(locale, '/refim')} className="account-shelf">
         {BOOK_ICON}
         <span className="account-shelf-label">{t('my_shelf')}</span>
       </Link>
       <button
         type="button"
         className="account-avatar"
-        aria-haspopup="menu"
+        ref={avatar}
         aria-expanded={open}
+        aria-controls={open ? panelId : undefined}
         aria-label={t('menu_label', { name: user.name || user.email })}
         onClick={() => setOpen((o) => !o)}
       >
         {initial}
       </button>
       {open && (
-        <div className="account-menu" role="menu">
+        // A plain disclosure: links and a button in tab order, not an ARIA menu
+        <div className="account-menu" id={panelId}>
           <p className="account-menu-who">{user.name || user.email}</p>
-          <Link role="menuitem" href={localePath(locale, '/refim')} onClick={() => setOpen(false)}>{t('my_shelf')}</Link>
-          <Link role="menuitem" href={localePath(locale, '/refim/siyahilar')} onClick={() => setOpen(false)}>{t('lists')}</Link>
-          <Link role="menuitem" href={localePath(locale, '/refim/ayarlar')} onClick={() => setOpen(false)}>{t('settings')}</Link>
-          <button role="menuitem" type="button" onClick={() => { setOpen(false); signOut(); }}>{t('sign_out')}</button>
+          <Link prefetch={false} href={localePath(locale, '/refim')} onClick={() => setOpen(false)}>{t('my_shelf')}</Link>
+          <Link prefetch={false} href={localePath(locale, '/refim/siyahilar')} onClick={() => setOpen(false)}>{t('lists')}</Link>
+          <Link prefetch={false} href={localePath(locale, '/refim/ayarlar')} onClick={() => setOpen(false)}>{t('settings')}</Link>
+          <button type="button" onClick={() => { setOpen(false); signOut(); }}>{t('sign_out')}</button>
         </div>
       )}
     </div>

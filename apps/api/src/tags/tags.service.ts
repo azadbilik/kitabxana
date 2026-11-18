@@ -4,7 +4,10 @@ import { PrismaService } from '../prisma/prisma.service';
 import { slugify } from '../common/utils/slug';
 
 /** A tag as readers see it: on a published work, and not removed by an editor */
-const VISIBLE: Prisma.WorkTagWhereInput = { source: { not: 'REJECTED' }, work: { status: 'PUBLISHED' } };
+const VISIBLE: Prisma.WorkTagWhereInput = {
+  source: { not: 'REJECTED' },
+  work: { status: 'PUBLISHED', author: { status: 'PUBLISHED' } },
+};
 const SOURCES = ['RULE', 'EDITOR', 'REJECTED'] as const;
 const ASSIGNMENTS_PAGE = 50;
 
@@ -38,7 +41,7 @@ export class TagsService {
 
     const byAuthor = await this.prisma.work.groupBy({
       by: ['authorId'],
-      where: { status: 'PUBLISHED', tags: { some: { tagId: tag.id, source: { not: 'REJECTED' } } } },
+      where: { status: 'PUBLISHED', author: { status: 'PUBLISHED' }, tags: { some: { tagId: tag.id, source: { not: 'REJECTED' } } } },
       _count: { _all: true },
     });
     const authors = await this.prisma.author.findMany({

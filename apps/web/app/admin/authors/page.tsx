@@ -2,6 +2,7 @@
 
 import { useEffect, useState, useMemo } from 'react';
 import Link from 'next/link';
+import { adminHeaders } from '@/lib/useAdminAuth';
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -19,7 +20,7 @@ export default function AdminAuthorsPage() {
   const [typeFilter, setTypeFilter] = useState('');
 
   useEffect(() => {
-    fetch(`${API}/authors?limit=100&all=true`)
+    fetch(`${API}/authors?limit=100&all=true`, { headers: adminHeaders() })
       .then((r) => r.json())
       .then((data) => {
         setAuthors(data.data ?? []);

@@ -38,6 +38,9 @@ export function useMarks(): Marks {
 
 export function resetMarks() {
   marks = { saved: { work: new Set(), book: new Set(), author: new Set() }, works: {}, books: {} };
+  asked.clear();
+  queue = null;
+  epoch++;
   emit();
 }
 
@@ -47,31 +50,65 @@ interface StateResponse {
   books: Marks['books'];
 }
 
+type MarkIds = { workIds?: string[]; collectionIds?: string[]; authorIds?: string[] };
+type IdKind = keyof MarkIds;
+const KINDS: IdKind[] = ['workIds', 'collectionIds', 'authorIds'];
+// Marks asked for this recently aren't asked for again: they are kept current by the reader's
+// own actions, and a later page view picks up what changed on another device
+const FRESH_MS = 30_000;
+const asked = new Map<string, number>();
+let queue: Record<IdKind, Set<string>> | null = null;
+// Bumped on sign-out, so an answer for the previous reader is dropped
+let epoch = 0;
+
+function flush() {
+  const batch = queue;
+  queue = null;
+  if (!batch) return;
+  const sentIn = epoch;
+  const body: MarkIds = {};
+  for (const kind of KINDS) if (batch[kind].size) body[kind] = [...batch[kind]];
+  accountFetch<StateResponse>('/me/state', { method: 'POST', body: JSON.stringify(body) })
+    .then((s) => {
+      if (sentIn !== epoch) return;
+      s.saved.works.forEach((id) => marks.saved.work.add(id));
+      s.saved.books.forEach((id) => marks.saved.book.add(id));
+      s.saved.authors.forEach((id) => marks.saved.author.add(id));
+      Object.assign(marks.works, s.works);
+      Object.assign(marks.books, s.books);
+      emit();
+    })
+    .catch(() => {
+      // Not loaded: the next component to ask tries again
+      for (const kind of KINDS) batch[kind].forEach((id) => asked.delete(`${kind}:${id}`));
+    });
+}
+
+/**
+ * Asks for the marks of these ids. Every component on a page that asks in the same tick
+ * (the text's progress bar, the actions under it, a book's contents) shares one request.
+ */
+export function requestMarks(ids: MarkIds) {
+  const now = Date.now();
+  for (const kind of KINDS) {
+    for (const id of ids[kind] ?? []) {
+      const key = `${kind}:${id}`;
+      if (now - (asked.get(key) ?? 0) < FRESH_MS) continue;
+      asked.set(key, now);
+      if (!queue) {
+        queue = { workIds: new Set(), collectionIds: new Set(), authorIds: new Set() };
+        queueMicrotask(flush);
+      }
+      queue[kind].add(id);
+    }
+  }
+}
+
 /** Loads the marks for these ids once the reader is known to be signed in */
-export function useLoadMarks(
-  signedIn: boolean,
-  ids: { workIds?: string[]; collectionIds?: string[]; authorIds?: string[] },
-) {
+export function useLoadMarks(signedIn: boolean, ids: MarkIds) {
   const key = JSON.stringify(ids);
   useEffect(() => {
-    if (!signedIn) return;
-    const q = JSON.parse(key) as typeof ids;
-    if (!q.workIds?.length && !q.collectionIds?.length && !q.authorIds?.length) return;
-    let live = true;
-    accountFetch<StateResponse>('/me/state', { method: 'POST', body: JSON.stringify(q) })
-      .then((s) => {
-        if (!live) return;
-        s.saved.works.forEach((id) => marks.saved.work.add(id));
-        s.saved.books.forEach((id) => marks.saved.book.add(id));
-        s.saved.authors.forEach((id) => marks.saved.author.add(id));
-        Object.assign(marks.works, s.works);
-        Object.assign(marks.books, s.books);
-        emit();
-      })
-      .catch(() => {});
-    return () => {
-      live = false;
-    };
+    if (signedIn) requestMarks(JSON.parse(key) as MarkIds);
   }, [signedIn, key]);
 }
 
@@ -129,8 +166,9 @@ export async function setBookStatus(collectionId: string, status: BookStatus | n
 }
 
 /**
- * Sends a reading position. Debounced by the caller (ReadingProgress saves at most once a
- * second); on leaving the page it goes with keepalive so it survives the navigation.
+ * Sends a reading position. Paced by the caller (ReadingProgress syncs about every ten
+ * seconds while the reader scrolls); on leaving the page it goes with keepalive so it
+ * survives the navigation.
  */
 export function sendProgress(workId: string, progress: number, { beacon = false } = {}) {
   const prev = marks.works[workId];

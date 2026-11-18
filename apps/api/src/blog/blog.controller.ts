@@ -17,6 +17,7 @@ import { Roles } from '../common/decorators/roles.decorator';
 import { RolesGuard } from '../common/guards/roles.guard';
 import { CurrentUser } from '../common/decorators/current-user.decorator';
 import { Public } from '../common/decorators/public.decorator';
+import { PublicCache } from '../common/interceptors/public-cache.interceptor';
 
 @ApiTags('Blog')
 @Controller('blog')
@@ -24,12 +25,14 @@ export class BlogController {
   constructor(private blog: BlogService) {}
 
   @Public()
+  @PublicCache()
   @Get()
-  findAll(@Query('page') page?: number, @Query('limit') limit?: number) {
-    return this.blog.findAll({ page, limit });
+  findAll(@Query('page') page?: string, @Query('limit') limit?: string) {
+    return this.blog.findAll({ page: Number(page) || undefined, limit: Number(limit) || undefined });
   }
 
   @Public()
+  @PublicCache()
   @Get(':slug')
   findOne(@Param('slug') slug: string) {
     return this.blog.findBySlug(slug);

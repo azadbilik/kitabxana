@@ -33,6 +33,8 @@ export function ShelfPage() {
   const [tab, setTab] = useState<Tab>('reading');
   const [counts, setCounts] = useState<Counts | null>(null);
   const [items, setItems] = useState<ShelfEntry[] | null>(null);
+  const [failed, setFailed] = useState(false);
+  const [attempt, setAttempt] = useState(0);
 
   // The tab lives in the URL hash, so a reload or a shared link keeps it without a new page URL
   useEffect(() => {
@@ -42,16 +44,30 @@ export function ShelfPage() {
 
   useEffect(() => {
     if (status !== 'signed-in') return;
-    accountFetch<Counts>('/me/shelf/counts').then(setCounts).catch(() => {});
+    let live = true;
+    accountFetch<Counts>('/me/shelf/counts').then((c) => live && setCounts(c)).catch(() => {});
+    return () => {
+      live = false;
+    };
   }, [status]);
 
   useEffect(() => {
     if (status !== 'signed-in') return;
+    // A slow answer for a tab the reader has already left must not replace the current one
+    let live = true;
     setItems(null);
+    setFailed(false);
     accountFetch<{ items: ShelfEntry[] }>(`/me/shelf?tab=${tab}`)
-      .then((r) => setItems(r.items))
-      .catch(() => setItems([]));
-  }, [status, tab]);
+      .then((r) => live && setItems(r.items))
+      .catch(() => {
+        if (!live) return;
+        setItems([]);
+        setFailed(true);
+      });
+    return () => {
+      live = false;
+    };
+  }, [status, tab, attempt]);
 
   if (status === 'unknown') return <div className="shelf-page-loading" aria-busy="true" />;
   if (status === 'guest') {
@@ -73,15 +89,13 @@ export function ShelfPage() {
 
   return (
     <>
-      <div className="shelf-tabs" role="tablist" aria-label={t('shelf_title')}>
+      {/* Four views of one list, as pressed buttons: no tab pattern to half-implement */}
+      <div className="shelf-tabs" role="group" aria-label={t('shelf_title')}>
         {TABS.map((k) => (
           <button
             key={k}
             type="button"
-            role="tab"
-            id={`tab-${k}`}
-            aria-selected={tab === k}
-            aria-controls="shelf-panel"
+            aria-pressed={tab === k}
             className={`pill${tab === k ? ' active' : ''}`}
             onClick={() => {
               setTab(k);
@@ -94,13 +108,18 @@ export function ShelfPage() {
         ))}
       </div>
 
-      <div id="shelf-panel" role="tabpanel" aria-labelledby={`tab-${tab}`} className="shelf-panel">
+      <div className="shelf-panel">
         {items === null ? (
           <div className="shelf-page-loading" aria-busy="true" />
+        ) : failed ? (
+          <div className="shelf-empty" role="alert">
+            <p>{t('load_failed')}</p>
+            <button type="button" className="btn btn-primary btn-lg" onClick={() => setAttempt((n) => n + 1)}>{t('retry')}</button>
+          </div>
         ) : items.length === 0 ? (
           <div className="shelf-empty">
             <p>{t(`empty_${tab}` as any)}</p>
-            <Link href={localePath(locale, '/collections')} className="btn btn-primary btn-lg">{t('open_catalog')}</Link>
+            <Link prefetch={false} href={localePath(locale, '/collections')} className="btn btn-primary btn-lg">{t('open_catalog')}</Link>
           </div>
         ) : (
           <>
@@ -133,7 +152,7 @@ export function ShelfPage() {
                   {works.map((e) =>
                     e.type === 'work' ? (
                       <li key={e.work.id}>
-                        <Link href={localePath(locale, `/works/${e.work.slug}`)} className="shelf-work">
+                        <Link prefetch={false} href={localePath(locale, `/works/${e.work.slug}`)} className="shelf-work">
                           <span className="shelf-work-title">{localized(e.work, 'title', locale) ?? e.work.titleAz}</span>
                           <span className="shelf-work-meta">
                             {localized(e.work.author, 'name', locale)}
@@ -158,7 +177,7 @@ export function ShelfPage() {
                   {authors.map((e) =>
                     e.type === 'author' && e.author ? (
                       <li key={e.author.id}>
-                        <Link href={localePath(locale, `/authors/${e.author.slug}`)} className="pill">
+                        <Link prefetch={false} href={localePath(locale, `/authors/${e.author.slug}`)} className="pill">
                           {localized(e.author, 'name', locale)}
                         </Link>
                       </li>

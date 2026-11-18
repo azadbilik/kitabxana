@@ -29,6 +29,14 @@ export class UsersService {
     });
   }
 
+  /** What decides whether a staff token may still be issued for this account */
+  findAuthState(id: string) {
+    return this.prisma.user.findUnique({
+      where: { id },
+      select: { id: true, role: true, isBanned: true, passwordHash: true },
+    });
+  }
+
   findByEmail(email: string) {
     return this.prisma.user.findUnique({ where: { email } });
   }

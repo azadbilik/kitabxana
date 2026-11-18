@@ -15,7 +15,8 @@ const BODY: Record<string, (code: string) => string> = {
 
 /**
  * Sends the sign-in code. With MAIL_API_KEY set it goes through Resend's HTTP API from
- * MAIL_FROM; without one (local development) the code is only written to the log.
+ * MAIL_FROM. Without one, development writes the code to the log; production never logs
+ * codes, so sign-in by email is off there (`canDeliver`) until the key is set.
  */
 @Injectable()
 export class MailService {
@@ -27,9 +28,15 @@ export class MailService {
     return Boolean(this.config.get('MAIL_API_KEY'));
   }
 
+  /** Whether a requested code can reach its reader: by mail, or in the log outside production */
+  get canDeliver() {
+    return this.enabled || this.config.get('NODE_ENV') !== 'production';
+  }
+
   async sendCode(to: string, code: string, locale: string) {
     const lang = SUBJECT[locale] ? locale : 'az';
     if (!this.enabled) {
+      if (!this.canDeliver) throw new Error('Mail is not configured');
       this.log.warn(`MAIL_API_KEY not set — sign-in code for ${to}: ${code}`);
       return;
     }

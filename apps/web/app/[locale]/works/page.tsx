@@ -1,22 +1,24 @@
 import type { Metadata } from 'next';
-import { listingLabel, pageMetadata } from '@/lib/seo';
-import { api } from '@/lib/api';
-import { localized } from '@/lib/locale';
 import Link from 'next/link';
 import { getTranslations } from 'next-intl/server';
+import { notFound, permanentRedirect } from 'next/navigation';
+import { listingLabel, pageMetadata } from '@/lib/seo';
+import { api, notFoundOn404 } from '@/lib/api';
+import { localized } from '@/lib/locale';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
 import { TagPills } from '@/components/works/TagPills';
 import { Pagination } from '@/components/ui/Pagination';
-import { notFound, permanentRedirect } from 'next/navigation';
-import { notFoundOn404 } from '@/lib/api';
 import { parseWorkFacets, worksPath, type WorkFilters } from '@/lib/facets';
 import { defaultLocale, localePath } from '@/lib/i18n';
+import { getLabels } from '@/lib/labels';
 
 export const dynamic = 'force-dynamic';
 
+type SearchParams = Record<string, string | string[] | undefined>;
+
 interface Props {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<Record<string, string | string[] | undefined>>;
+  searchParams: Promise<SearchParams>;
 }
 
 interface WorkItem {
@@ -24,12 +26,13 @@ interface WorkItem {
   slug: string;
   titleAz: string;
   titleRu: string | null;
+  titleEn: string | null;
   genre: string;
   form: string | null;
   year: number | null;
   yearApprox: boolean;
   originalLang: string;
-  author: { slug: string; nameAz: string; nameRu: string | null };
+  author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
   collection: { slug: string; titleAz: string } | null;
   incipit?: Incipit;
 }
@@ -39,56 +42,56 @@ interface WorksResponse {
   meta: { total: number; page: number; limit: number; totalPages: number };
 }
 
-const FORM_FILTERS = [
-  { value: 'GHAZAL',  az: 'Qəzəl',  ru: 'Газель',  en: 'Ghazal' },
-  { value: 'MASNAVI', az: 'Məsnəvi', ru: 'Маснави', en: 'Masnavi' },
-  { value: 'RUBAI',   az: 'Rübai',   ru: 'Рубаи',   en: 'Rubai' },
-  { value: 'QASIDA',  az: 'Qəsidə',  ru: 'Касыда',  en: 'Qasida' },
-  { value: 'MURABBA', az: 'Mürəbbe', ru: 'Мураббаъ', en: 'Murabba' },
-  { value: 'OTHER',   az: 'Digər',   ru: 'Другое',  en: 'Other' },
-];
+const GENRE_FILTERS = ['POEM', 'PROSE', 'PLAY', 'ESSAY'];
+const FORM_FILTERS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA', 'OTHER'];
 
-const GENRE_FILTERS = [
-  { value: 'POEM',  az: 'Şeir',  ru: 'Поэзия', en: 'Poetry' },
-  { value: 'PROSE', az: 'Nəsr',  ru: 'Проза',  en: 'Prose' },
-  { value: 'PLAY',  az: 'Dram',  ru: 'Драма',  en: 'Drama' },
-  { value: 'ESSAY', az: 'Esse',  ru: 'Эссе',   en: 'Essay' },
-];
-
-function label(item: { az: string; ru: string; en: string }, locale: string) {
-  return locale === 'ru' ? item.ru : locale === 'en' ? item.en : item.az;
-}
+/**
+ * Orders of the list. The default takes the most-read work of each author in turn, most-read
+ * authors first, so the index opens on thirty different authors (by year it opened on
+ * sixteenth-century decrees, by size it would be thirty ghazals of one poet).
+ */
+const SORTS = ['popular', 'year', 'title'] as const;
+type Sort = (typeof SORTS)[number];
 
 const one = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v);
 
+/** What the query string asks for beyond the path's filters; defaults stay out of URLs */
+function readView(sp: SearchParams) {
+  const sort = SORTS.find((s) => s === one(sp.sort)) ?? 'popular';
+  return { lang: one(sp.lang), sort: sort === 'popular' ? undefined : sort, page: one(sp.page) };
+}
+type View = ReturnType<typeof readView>;
+
 /** API query for a list page; generateMetadata and the page build the same one, so the fetch is shared */
-function worksQuery(locale: string, filters: WorkFilters, sp: Record<string, string | string[] | undefined>) {
+function worksQuery(locale: string, filters: WorkFilters, view: View) {
+  const uiLang = ['az', 'ru', 'en'].includes(locale) ? locale : 'az';
   const query = new URLSearchParams();
   if (filters.form) query.set('form', filters.form);
   if (filters.genre) query.set('genre', filters.genre);
   if (filters.author) query.set('authorSlug', filters.author);
-  if (one(sp.lang)) query.set('lang', one(sp.lang)!);
-  if (one(sp.page)) query.set('page', one(sp.page)!);
+  if (view.lang) query.set('lang', view.lang);
+  if (view.page) query.set('page', view.page);
   query.set('limit', '30');
-  query.set('incipit', ['az', 'ru', 'en'].includes(locale) ? locale : 'az');
+  query.set('sort', view.sort ?? 'popular');
+  if (view.sort === 'title') query.set('titleLang', uiLang);
+  query.set('incipit', uiLang);
   return query;
 }
 
 /** Filters from the readable path, the author they name, and the page heading */
-async function resolveFilters(locale: string, sp: Record<string, string | string[] | undefined>) {
+async function resolveFilters(locale: string, sp: SearchParams) {
   const { filters, invalid, given } = parseWorkFacets(sp.f);
   if (invalid) notFound();
-  const author = filters.author
-    ? ((await api.getAuthor(filters.author).catch(notFoundOn404)) as Record<string, any>)
-    : null;
-  const t = await getTranslations({ locale, namespace: 'works' });
-  const genre = GENRE_FILTERS.find((g) => g.value === filters.genre);
-  const form = FORM_FILTERS.find((f) => f.value === filters.form);
+  const [author, t, labels] = await Promise.all([
+    filters.author ? api.getAuthorBrief(filters.author).catch(notFoundOn404) : null,
+    getTranslations({ locale, namespace: 'works' }),
+    getLabels(locale),
+  ]);
   const parts = [
     author && (localized(author, 'name', locale) ?? author.nameAz),
-    form ? label(form, locale) : genre ? label(genre, locale) : null,
+    labels.form(filters.form) ?? labels.genre(filters.genre),
   ].filter(Boolean) as string[];
-  return { filters, given, heading: parts.length ? parts.join(' · ') : t('title'), filtered: parts.length > 0 };
+  return { filters, given, labels, heading: parts.length ? parts.join(' · ') : t('title'), filtered: parts.length > 0 };
 }
 
 export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
@@ -96,43 +99,45 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
   const sp = await searchParams;
   const t = await getTranslations({ locale });
   const { filters, heading, filtered } = await resolveFilters(locale, sp);
-  const page = Number(one(sp.page)) || 1;
-  const result = (await api.getWorks(worksQuery(locale, filters, sp))) as WorksResponse;
+  const view = readView(sp);
+  const page = Number(view.page) || 1;
+  const result = (await api.getWorks(worksQuery(locale, filters, view))) as WorksResponse;
 
   return pageMetadata({
     locale,
-    path: worksPath(defaultLocale, filters, { page }),
+    path: worksPath(defaultLocale, filters, { sort: view.sort, page }),
     title: listingLabel(filtered ? `${heading} — ${t('nav.works')}` : t('nav.works'), locale, { page }),
     description: t('works.list_description', { heading: listingLabel(heading, locale, { page }), count: result.meta.total }),
-    noindex: result.data.length === 0,
+    // The same works in another order are one list: only the default order is indexed
+    noindex: Boolean(view.sort) || result.data.length === 0,
   });
 }
 
 export default async function WorksPage({ params, searchParams }: Props) {
   const { locale } = await params;
   const sp = await searchParams;
-  const t = await getTranslations('works');
 
-  const { filters, given, heading } = await resolveFilters(locale, sp);
-  const lang = one(sp.lang);
-  // Segments in another order (or a stray ?page=1) redirect to the one canonical URL
-  const canonical = worksPath(locale, filters, { lang, page: one(sp.page) });
-  const requested = worksPath(locale, {}, { lang, page: one(sp.page) }).replace(
+  const { filters, given, labels, heading } = await resolveFilters(locale, sp);
+  const view = readView(sp);
+  // Segments in another order (or a stray ?page=1, ?sort=popular) redirect to the one canonical URL
+  const canonical = worksPath(locale, filters, view);
+  const requested = worksPath(locale, {}, { lang: one(sp.lang), sort: one(sp.sort), page: one(sp.page) }).replace(
     localePath(locale, `/works`),
     localePath(locale, `/works${given.map((g) => `/${g}`).join('')}`),
   );
   if (canonical !== requested) permanentRedirect(canonical);
-  const href = (f: WorkFilters, page?: number) => worksPath(locale, f, { lang, page });
+  /** The list under other filters or another order, from page one */
+  const href = (f: WorkFilters, change: Partial<View> = {}) => worksPath(locale, f, { ...view, page: undefined, ...change });
 
-  const [result, tags] = await Promise.all([
-    api.getWorks(worksQuery(locale, filters, sp)) as Promise<WorksResponse>,
+  const [result, tags, t, tt] = await Promise.all([
+    api.getWorks(worksQuery(locale, filters, view)) as Promise<WorksResponse>,
     api.getTags().catch(() => []),
+    getTranslations({ locale, namespace: 'works' }),
+    getTranslations({ locale, namespace: 'tags' }),
   ]);
   const themes = tags.filter((tag) => tag.kind === 'THEME' && tag.works > 0);
-  const tt = await getTranslations('tags');
-
-  const activeForm = filters.form;
-  const activeGenre = filters.genre;
+  const sortLabel: Record<Sort, string> = { popular: t('sort_popular'), year: t('sort_year'), title: t('sort_title') };
+  const pill = (active: boolean) => ({ className: `pill ${active ? 'active' : ''}`, 'aria-current': active ? ('true' as const) : undefined });
 
   return (
     <div className="container page-content">
@@ -140,43 +145,41 @@ export default async function WorksPage({ params, searchParams }: Props) {
         <h1>{heading}</h1>
         {filters.author && (
           <p className="filter-clear">
-            <Link href={href({ ...filters, author: undefined })}>← {tt('all_authors')}</Link>
+            <Link prefetch={false} href={href({ ...filters, author: undefined })}>← {tt('all_authors')}</Link>
           </p>
         )}
       </header>
 
-      {/* Filters */}
       <div className="filter-bar">
         {/* Genre and form replace each other (a form is a kind of poem); the author stays */}
-        <div className="chip-row">
+        <div className="chip-row" role="group" aria-label={t('genre_label')}>
           {GENRE_FILTERS.map((g) => (
-            <Link
-              key={g.value}
-              href={
-                activeGenre === g.value
-                  ? href({ author: filters.author })
-                  : href({ author: filters.author, genre: g.value })
-              }
-              className={`pill ${activeGenre === g.value ? 'active' : ''}`}
+            <Link prefetch={false}
+              key={g}
+              href={href(filters.genre === g ? { author: filters.author } : { author: filters.author, genre: g })}
+              {...pill(filters.genre === g)}
             >
-              {label(g, locale)}
+              {labels.genre(g)}
             </Link>
           ))}
         </div>
 
-        {/* Form filter (poem sub-genres) */}
-        <div className="chip-row">
+        <div className="chip-row" role="group" aria-label={t('form_label')}>
           {FORM_FILTERS.map((f) => (
-            <Link
-              key={f.value}
-              href={
-                activeForm === f.value
-                  ? href({ author: filters.author })
-                  : href({ author: filters.author, form: f.value })
-              }
-              className={`pill ${activeForm === f.value ? 'active' : ''}`}
+            <Link prefetch={false}
+              key={f}
+              href={href(filters.form === f ? { author: filters.author } : { author: filters.author, form: f })}
+              {...pill(filters.form === f)}
             >
-              {label(f, locale)}
+              {labels.form(f)}
+            </Link>
+          ))}
+        </div>
+
+        <div className="chip-row" role="group" aria-label={t('sort_label')}>
+          {SORTS.map((s) => (
+            <Link key={s} href={href(filters, { sort: s === 'popular' ? undefined : s })} {...pill((view.sort ?? 'popular') === s)} prefetch={false}>
+              {sortLabel[s]}
             </Link>
           ))}
         </div>
@@ -185,32 +188,29 @@ export default async function WorksPage({ params, searchParams }: Props) {
       {themes.length > 0 && (
         <div className="works-themes">
           <TagPills tags={themes} locale={locale} label={tt('title')} />
-          <Link href={localePath(locale, `/tags`)} className="more works-themes-all">{tt('all_tags')} →</Link>
+          <Link prefetch={false} href={localePath(locale, `/tags`)} className="more works-themes-all">{tt('all_tags')} →</Link>
         </div>
       )}
 
       <hr className="rule rule--tight" />
 
-      {/* Works list */}
       <div className="card-grid card-grid--3 work-card-grid">
         {result.data.map((work) => {
-          const title = localized(work, 'title', locale);
-          const authorName = localized(work.author, 'name', locale);
-
-          const form = FORM_FILTERS.find((f) => f.value === work.form && f.value !== 'OTHER');
+          const form = work.form && work.form !== 'OTHER' ? labels.form(work.form) : null;
           return (
             <WorkCard
               key={work.id}
               href={localePath(locale, `/works/${work.slug}`)}
-              title={title ?? work.titleAz}
+              title={localized(work, 'title', locale) ?? work.titleAz}
+              originalLang={work.originalLang}
               incipit={work.incipit}
               meta={
                 <>
-                  <span>{authorName}</span>
+                  <span>{localized(work.author, 'name', locale) ?? work.author.nameAz}</span>
                   {form && (
                     <>
                       <span className="dot" aria-hidden="true" />
-                      <span>{label(form, locale)}</span>
+                      <span>{form}</span>
                     </>
                   )}
                   {work.year && (
@@ -226,16 +226,12 @@ export default async function WorksPage({ params, searchParams }: Props) {
         })}
       </div>
 
-      {result.data.length === 0 && (
-        <p className="empty-note empty-note--center">
-          {locale === 'ru' ? 'Ничего не найдено' : locale === 'en' ? 'No results found' : 'Heç nə tapılmadı'}
-        </p>
-      )}
+      {result.data.length === 0 && <p className="empty-note empty-note--center">{labels.noResults}</p>}
 
       <Pagination
         page={result.meta.page}
         totalPages={result.meta.totalPages}
-        href={(page) => href(filters, page)}
+        href={(page) => href(filters, { page: String(page) })}
         label={tt('pages')}
       />
     </div>

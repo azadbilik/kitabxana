@@ -1,20 +1,25 @@
-import { Injectable, NotFoundException } from '@nestjs/common';
+import { Injectable, NotFoundException, OnApplicationShutdown } from '@nestjs/common';
 import { Language, Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { SearchService } from '../search/search.service';
 import { ScansService } from '../downloads/scans.service';
-import { CreateWorkDto } from './dto/create-work.dto';
+import { CreateWorkDto, UpdateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
 import { safeWorkBase, slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
+import { RTL_LANGUAGES } from '@irs-az/shared';
+import type { WorkPayload } from '../submissions/dto/public-submission.dto';
 
 /**
  * Poems offered by the randomizer and the poem of the day: ones an AZ/RU/EN reader can
  * actually read, i.e. written in Latin-script Azerbaijani or with an Azerbaijani translation.
  */
+/** What readers may see: a published work of a published author */
+export const VISIBLE_WORK = { status: 'PUBLISHED', author: { status: 'PUBLISHED' } } as const satisfies Prisma.WorkWhereInput;
+
 const READABLE_POEM: Prisma.WorkWhereInput = {
-  status: 'PUBLISHED',
+  ...VISIBLE_WORK,
   genre: 'POEM',
   OR: [
     { originalLang: 'AZ_LATIN' },
@@ -37,7 +42,7 @@ export function readableIn(lang: UiLang): Prisma.WorkWhereInput {
   };
 }
 
-const readablePoem = (lang: UiLang): Prisma.WorkWhereInput => ({ status: 'PUBLISHED', genre: 'POEM', ...readableIn(lang) });
+const readablePoem = (lang: UiLang): Prisma.WorkWhereInput => ({ ...VISIBLE_WORK, genre: 'POEM', ...readableIn(lang) });
 
 /** Calendar day in Baku, the portal's home time zone (YYYY-MM-DD) */
 function bakuDate(now = new Date()) {
@@ -90,28 +95,129 @@ function withIncipit<T extends { body: string; originalLang: Language; translati
   };
 }
 
+/** Orders computed in memory (sort=title, sort=popular) are kept this long per filter */
+const ORDER_TTL_MS = 5 * 60_000;
+const ORDER_CACHE_MAX = 40;
+
+/** The randomizer's pool of slugs is re-read this often */
+const RANDOM_TTL_MS = 5 * 60_000;
+/** Views are counted in memory and written together this often */
+const VIEW_FLUSH_MS = 5 * 60_000;
+
 @Injectable()
-export class WorksService {
+export class WorksService implements OnApplicationShutdown {
   constructor(
     private prisma: PrismaService,
     private search: SearchService,
     private scans: ScansService,
-  ) {}
+  ) {
+    this.viewTimer = setInterval(() => void this.flushViews(), VIEW_FLUSH_MS);
+    this.viewTimer.unref();
+  }
 
-  private daily = new Map<UiLang, { date: string; work: unknown }>();
+  private randomPool = new Map<UiLang, { slugs: string[]; expires: number }>();
+  private views = new Map<string, number>();
+  private viewTimer: NodeJS.Timeout;
+
+  async onApplicationShutdown() {
+    clearInterval(this.viewTimer);
+    await this.flushViews();
+  }
+
+  /**
+   * viewCount feeds sort=popular. One UPDATE per page view was a write on the hottest read
+   * path (and bumped updatedAt, so every read looked like an edit to the sitemap); views
+   * are tallied here and written in one statement that leaves updatedAt alone.
+   */
+  async flushViews() {
+    if (!this.views.size) return;
+    const batch = [...this.views.entries()];
+    this.views.clear();
+    try {
+      await this.prisma.$executeRaw`
+        UPDATE "Work" AS w SET "viewCount" = w."viewCount" + v.n
+        FROM (VALUES ${Prisma.join(batch.map(([id, n]) => Prisma.sql`(${id}, ${n}::int)`))}) AS v(id, n)
+        WHERE w.id = v.id`;
+    } catch (err) {
+      console.warn(`View counts not saved: ${(err as Error).message}`);
+    }
+  }
+
+  private orders = new Map<string, { ids: string[]; expires: number }>();
+
+  /**
+   * Every matching work's id in an order the database cannot produce itself:
+   * - title: by the Azerbaijani alphabet (or the Russian/English one for titles in `titleLang`),
+   *   leading quotes and dashes ignored, "Qəzəl 9" before "Qəzəl 10";
+   * - popular: authors ranked by how much they are read (then by how much they wrote) take
+   *   turns, each giving its most-read work not yet listed, in book order where reads tie —
+   *   so the first page is thirty authors' best-read works, not thirty works of one author.
+   */
+  private async orderedIds(where: Prisma.WorkWhereInput, sort: 'title' | 'popular', titleLang: UiLang = 'az') {
+    const key = `${sort}|${titleLang}|${JSON.stringify(where)}`;
+    const hit = this.orders.get(key);
+    if (hit && hit.expires > Date.now()) return hit.ids;
+
+    let ids: string[];
+    if (sort === 'title') {
+      const field = ({ az: 'titleAz', ru: 'titleRu', en: 'titleEn' } as const)[titleLang];
+      const rows = await this.prisma.work.findMany({ where, select: { id: true, titleAz: true, titleRu: true, titleEn: true } });
+      const collator = new Intl.Collator(titleLang, { sensitivity: 'base', ignorePunctuation: true, numeric: true });
+      ids = rows
+        .map((r) => ({ id: r.id, title: r[field] || r.titleAz }))
+        .sort((a, b) => collator.compare(a.title, b.title) || (a.id < b.id ? -1 : 1))
+        .map((r) => r.id);
+    } else {
+      const [rows, collections] = await Promise.all([
+        this.prisma.work.findMany({
+          where,
+          select: { id: true, authorId: true, viewCount: true, collectionId: true, order: true },
+        }),
+        this.prisma.collection.findMany({ select: { id: true, order: true } }),
+      ]);
+      const bookOrder = new Map(collections.map((c) => [c.id, c.order ?? 0]));
+      const byAuthor = new Map<string, typeof rows>();
+      for (const r of rows) {
+        const list = byAuthor.get(r.authorId);
+        if (list) list.push(r);
+        else byAuthor.set(r.authorId, [r]);
+      }
+      const place = (r: (typeof rows)[number]) => (r.collectionId ? bookOrder.get(r.collectionId) ?? 0 : Number.MAX_SAFE_INTEGER);
+      const authors = [...byAuthor.entries()]
+        .map(([authorId, works]) => ({
+          authorId,
+          views: works.reduce((sum, w) => sum + w.viewCount, 0),
+          works: works.sort(
+            (a, b) =>
+              b.viewCount - a.viewCount || place(a) - place(b) || (a.order ?? 0) - (b.order ?? 0) || (a.id < b.id ? -1 : 1),
+          ),
+        }))
+        .sort((a, b) => b.views - a.views || b.works.length - a.works.length || (a.authorId < b.authorId ? -1 : 1));
+      ids = [];
+      for (let round = 0; ids.length < rows.length; round++) {
+        for (const a of authors) if (a.works[round]) ids.push(a.works[round].id);
+      }
+    }
+
+    if (this.orders.size >= ORDER_CACHE_MAX) this.orders.delete(this.orders.keys().next().value!);
+    this.orders.set(key, { ids, expires: Date.now() + ORDER_TTL_MS });
+    return ids;
+  }
+
+  private daily = new Map<UiLang, Awaited<ReturnType<WorksService['loadDaily']>>>();
 
   async findAll(query: QueryWorksDto) {
     const { skip, take, page, limit } = paginationArgs(query);
 
     const where: Prisma.WorkWhereInput = {
-      ...(query.all !== 'true' && { status: 'PUBLISHED' }),
+      ...(query.all !== 'true' && VISIBLE_WORK),
       ...(query.genre && { genre: query.genre }),
       ...(query.form && { form: query.form }),
       ...(query.lang && { originalLang: query.lang }),
       ...(query.yearFrom && { year: { gte: query.yearFrom } }),
       ...(query.yearTo && { year: { ...((query.yearFrom && { gte: query.yearFrom }) || {}), lte: query.yearTo } }),
       ...(query.authorSlug && {
-        author: { slug: query.authorSlug },
+        author: { slug: query.authorSlug, ...(query.all !== 'true' && { status: 'PUBLISHED' as const }) },
       }),
       ...(query.tag && { tags: { some: { tag: { slug: query.tag }, source: { not: 'REJECTED' } } } }),
       ...(query.readableIn && { AND: [readableIn(query.readableIn)] }),
@@ -123,38 +229,54 @@ export class WorksService {
     };
 
     const incipitLanguage = query.incipit ? UI_LANGUAGE[query.incipit] : undefined;
+    const select = {
+      ...(incipitLanguage && INCIPIT_SOURCE(incipitLanguage)),
+      id: true,
+      slug: true,
+      titleAz: true,
+      titleRu: true,
+      titleEn: true,
+      genre: true,
+      form: true,
+      year: true,
+      yearApprox: true,
+      originalLang: true,
+      status: true,
+      author: {
+        select: { slug: true, nameAz: true, nameRu: true, nameEn: true },
+      },
+      collection: {
+        select: { slug: true, titleAz: true, titleRu: true, titleEn: true },
+      },
+    } satisfies Prisma.WorkSelect;
+    const withIncipits = (data: object[]): object[] =>
+      incipitLanguage ? data.map((w) => withIncipit(w as Parameters<typeof withIncipit>[0])) : data;
+
+    if (query.sort === 'title' || query.sort === 'popular') {
+      const ids = await this.orderedIds(where, query.sort, query.titleLang);
+      const pageIds = ids.slice(skip, skip + take);
+      const found = await this.prisma.work.findMany({ where: { id: { in: pageIds } }, select });
+      const byId = new Map(found.map((w) => [w.id, w]));
+      const data = pageIds.map((id) => byId.get(id)).filter((w): w is (typeof found)[number] => !!w);
+      return paginatedResult(withIncipits(data), ids.length, page, limit);
+    }
+
     const [data, total] = await this.prisma.$transaction([
       this.prisma.work.findMany({
         where,
         skip,
         take,
-        orderBy: query.sort === 'recent' ? { createdAt: 'desc' } : { year: 'asc' },
-        select: {
-          ...(incipitLanguage && INCIPIT_SOURCE(incipitLanguage)),
-          id: true,
-          slug: true,
-          titleAz: true,
-          titleRu: true,
-          titleEn: true,
-          genre: true,
-          form: true,
-          year: true,
-          yearApprox: true,
-          originalLang: true,
-          status: true,
-          author: {
-            select: { slug: true, nameAz: true, nameRu: true, nameEn: true },
-          },
-          collection: {
-            select: { slug: true, titleAz: true },
-          },
-        },
+        // id last: years repeat (and are often missing), and pages must not share works
+        orderBy:
+          query.sort === 'recent'
+            ? [{ createdAt: 'desc' }, { id: 'asc' }]
+            : [{ year: { sort: 'asc', nulls: 'last' } }, { id: 'asc' }],
+        select,
       }),
       this.prisma.work.count({ where }),
     ]);
 
-    const rows: object[] = incipitLanguage ? data.map((w) => withIncipit(w as typeof w & Parameters<typeof withIncipit>[0])) : data;
-    return paginatedResult(rows, total, page, limit);
+    return paginatedResult(withIncipits(data), total, page, limit);
   }
 
   async findById(id: string) {
@@ -204,7 +326,7 @@ export class WorksService {
   /** Current slug for a work's current or previous slug, so old URLs can redirect. */
   async resolveSlug(slug: string) {
     const work = await this.prisma.work.findFirst({
-      where: { status: 'PUBLISHED', OR: [{ slug }, { previousSlugs: { has: slug } }] },
+      where: { ...VISIBLE_WORK, OR: [{ slug }, { previousSlugs: { has: slug } }] },
       select: { slug: true },
     });
     if (!work) throw new NotFoundException('Work not found');
@@ -213,7 +335,7 @@ export class WorksService {
 
   async findBySlug(slug: string) {
     const work = await this.prisma.work.findUnique({
-      where: { slug, status: 'PUBLISHED' },
+      where: { slug, ...VISIBLE_WORK },
       include: {
         author: {
           select: {
@@ -260,10 +382,7 @@ export class WorksService {
 
     if (!work) throw new NotFoundException('Work not found');
 
-    // Increment view count — fire and forget
-    this.prisma.work
-      .update({ where: { id: work.id }, data: { viewCount: { increment: 1 } } })
-      .catch(() => {});
+    this.views.set(work.id, (this.views.get(work.id) ?? 0) + 1);
 
     // The scanned book the text was transcribed from, opened at the work's page
     return { ...work, scan: await this.scans.forWork(work) };
@@ -271,8 +390,8 @@ export class WorksService {
 
   /** The prev/next navigation — most performance-critical query */
   async getNav(slug: string) {
-    const work = await this.prisma.work.findUnique({
-      where: { slug },
+    const work = await this.prisma.work.findFirst({
+      where: { slug, ...VISIBLE_WORK },
       select: { id: true, collectionId: true, order: true },
     });
 
@@ -288,7 +407,7 @@ export class WorksService {
           status: 'PUBLISHED',
         },
         orderBy: { order: 'desc' },
-        select: { slug: true, titleAz: true, titleRu: true },
+        select: { slug: true, titleAz: true, titleRu: true, titleEn: true },
       }),
       this.prisma.work.findFirst({
         where: {
@@ -297,7 +416,7 @@ export class WorksService {
           status: 'PUBLISHED',
         },
         orderBy: { order: 'asc' },
-        select: { slug: true, titleAz: true, titleRu: true },
+        select: { slug: true, titleAz: true, titleRu: true, titleEn: true },
       }),
     ]);
 
@@ -306,15 +425,14 @@ export class WorksService {
 
   /** Slug of a random readable poem */
   async random(lang: UiLang = 'az') {
-    const where = readablePoem(lang);
-    const count = await this.prisma.work.count({ where });
-    if (!count) throw new NotFoundException('No poems yet');
-    return this.prisma.work.findFirstOrThrow({
-      where,
-      orderBy: { id: 'asc' },
-      skip: Math.floor(Math.random() * count),
-      select: { slug: true },
-    });
+    let pool = this.randomPool.get(lang);
+    if (!pool || pool.expires < Date.now()) {
+      const rows = await this.prisma.work.findMany({ where: readablePoem(lang), select: { slug: true } });
+      pool = { slugs: rows.map((r) => r.slug), expires: Date.now() + RANDOM_TTL_MS };
+      this.randomPool.set(lang, pool);
+    }
+    if (!pool.slugs.length) throw new NotFoundException('No poems yet');
+    return { slug: pool.slugs[Math.floor(Math.random() * pool.slugs.length)] };
   }
 
   /**
@@ -323,7 +441,7 @@ export class WorksService {
    */
   async moreByAuthor(slug: string, locale = 'az', take = 4) {
     const work = await this.prisma.work.findFirst({
-      where: { slug, status: 'PUBLISHED' },
+      where: { slug, ...VISIBLE_WORK },
       select: { id: true, authorId: true },
     });
     if (!work) throw new NotFoundException('Work not found');
@@ -351,11 +469,11 @@ export class WorksService {
 
   /**
    * Poems by other poets, one per poet, preferring ones that share a theme with this work.
-   * Stable per work (a hash of the slug picks among the candidates), so pages cache well.
+   * Stable per work (the slug seeds the order of poets and poems), so pages cache well.
    */
   async byOtherPoets(slug: string, locale = 'az', take = 4) {
     const work = await this.prisma.work.findFirst({
-      where: { slug, status: 'PUBLISHED' },
+      where: { slug, ...VISIBLE_WORK },
       select: {
         id: true,
         authorId: true,
@@ -368,28 +486,49 @@ export class WorksService {
     });
     if (!work) throw new NotFoundException('Work not found');
 
-    const others: Prisma.WorkWhereInput = { status: 'PUBLISHED', genre: 'POEM', authorId: { not: work.authorId } };
-    /** One candidate per poet, chosen by the slug's hash so the pick differs between works */
-    const pickPerPoet = async (where: Prisma.WorkWhereInput) => {
-      const rows = await this.prisma.work.findMany({ where, orderBy: { id: 'asc' }, select: { id: true, authorId: true } });
-      const byAuthor = new Map<string, string[]>();
-      for (const r of rows) byAuthor.set(r.authorId, [...(byAuthor.get(r.authorId) ?? []), r.id]);
-      return [...byAuthor.entries()]
-        .sort(([a], [b]) => hash(slug + a) - hash(slug + b))
-        .map(([authorId, ids]) => ({ authorId, id: ids[hash(slug + authorId) % ids.length] }));
+    /**
+     * Up to `take` other poets in an order fixed by this work's slug, and one poem of each,
+     * chosen the same way. Done in the database: poets first (an index probe each), then one
+     * ordered pick per poet, instead of loading every other poet's poems to choose here.
+     */
+    const pickPerPoet = (tagId?: string) => {
+      const tagged = tagId
+        ? Prisma.sql`AND EXISTS (SELECT 1 FROM "WorkTag" wt WHERE wt."workId" = w.id AND wt."tagId" = ${tagId} AND wt.source <> 'REJECTED')`
+        : Prisma.empty;
+      return this.prisma.$queryRaw<{ authorId: string; id: string }[]>`
+        WITH poets AS (
+          SELECT a.id, md5(${slug} || a.id) AS place
+          FROM "Author" a
+          WHERE a.status = 'PUBLISHED' AND a.id <> ${work.authorId}
+            AND EXISTS (
+              SELECT 1 FROM "Work" w
+              WHERE w."authorId" = a.id AND w.status = 'PUBLISHED' AND w.genre = 'POEM' ${tagged}
+            )
+          ORDER BY place, a.id
+          LIMIT ${take}
+        )
+        SELECT p.id AS "authorId", pick.id
+        FROM poets p
+        CROSS JOIN LATERAL (
+          SELECT w.id FROM "Work" w
+          WHERE w."authorId" = p.id AND w.status = 'PUBLISHED' AND w.genre = 'POEM' ${tagged}
+          ORDER BY md5(${slug} || w.id), w.id
+          LIMIT 1
+        ) pick
+        ORDER BY p.place, p.id`;
     };
 
     // The work's first theme that other poets also wrote on
     let theme: (typeof work.tags)[number]['tag'] | null = null;
     let picks: { authorId: string; id: string }[] = [];
     for (const { tag } of work.tags) {
-      picks = await pickPerPoet({ ...others, tags: { some: { tagId: tag.id, source: { not: 'REJECTED' } } } });
+      picks = await pickPerPoet(tag.id);
       if (picks.length >= 2) {
         theme = tag;
         break;
       }
     }
-    if (!theme) picks = await pickPerPoet(others);
+    if (!theme) picks = await pickPerPoet();
 
     const ids = picks.slice(0, take).map((p) => p.id);
     const works = await this.prisma.work.findMany({
@@ -445,10 +584,25 @@ export class WorksService {
    * it can read in full (title and text in that language), with its opening lines from that text.
    */
   async poemOfTheDay(lang: UiLang = 'az') {
+    return (await this.dailyPoem(lang)).work;
+  }
+
+  /** The poem of the day with a longer opening, for posting elsewhere (Telegram) */
+  async dailyPoemOpening(lang: UiLang = 'az', lines = 8) {
+    const { work, text } = await this.dailyPoem(lang);
+    return { ...work, excerpt: excerpt(text, lines) };
+  }
+
+  private async dailyPoem(lang: UiLang) {
     const date = bakuDate();
     const cached = this.daily.get(lang);
-    if (cached?.date === date) return cached.work;
+    if (cached?.date === date) return cached;
+    const daily = await this.loadDaily(lang, date);
+    this.daily.set(lang, daily);
+    return daily;
+  }
 
+  private async loadDaily(lang: UiLang, date: string) {
     const where = readablePoem(lang);
     const count = await this.prisma.work.count({ where });
     if (!count) throw new NotFoundException('No poems yet');
@@ -478,9 +632,7 @@ export class WorksService {
 
     const { body, translations, ...rest } = work;
     const text = rest.originalLang === language ? body : translations[0]?.body ?? body;
-    const daily = { ...rest, date, lang, excerpt: excerpt(text) };
-    this.daily.set(lang, { date, work: daily });
-    return daily;
+    return { date, work: { ...rest, date, lang, excerpt: excerpt(text) }, text };
   }
 
   /** Readable, unused slug from the title; titles in other scripts fall back to the author's slug */
@@ -502,29 +654,19 @@ export class WorksService {
 
   async create(dto: CreateWorkDto) {
     const slug = await this.newSlug([dto.titleAz, dto.titleRu, dto.titleEn], dto.authorId);
-    const bodyHtml = renderMarkdown(dto.body);
     const work = await this.prisma.work.create({
-      data: { ...dto, slug, bodyHtml },
+      data: { ...workFields(dto), slug, bodyHtml: renderMarkdown(dto.body) } as Prisma.WorkUncheckedCreateInput,
     });
-    await this.reindex(work.id);
+    await this.search.reindexQuietly(work.id);
     return work;
   }
 
-  async update(id: string, dto: Partial<CreateWorkDto>) {
-    const data: Prisma.WorkUpdateInput = { ...dto };
-    if (dto.body) {
-      data.bodyHtml = renderMarkdown(dto.body);
-    }
+  async update(id: string, dto: UpdateWorkDto) {
+    const data: Prisma.WorkUncheckedUpdateInput = workFields(dto);
+    if (dto.body) data.bodyHtml = renderMarkdown(dto.body);
     const work = await this.prisma.work.update({ where: { id }, data });
-    await this.reindex(id);
+    await this.search.reindexQuietly(id);
     return work;
-  }
-
-  /** Search is secondary: an unreachable Meilisearch must not fail a save that already happened. */
-  private async reindex(workId: string) {
-    await this.search.indexWork(workId).catch((err) => {
-      console.warn(`Search reindex failed for work ${workId}: ${err.message}`);
-    });
   }
 
   async reorder(id: string, order: number) {
@@ -534,20 +676,40 @@ export class WorksService {
     });
   }
 
-  async createFromPayload(payload: Record<string, unknown>, { publish = true } = {}) {
-    const body = payload.body as string;
-    const slug = await this.newSlug(
-      [payload.titleAz as string, payload.titleRu as string, payload.titleEn as string],
-      payload.authorId as string,
-    );
-    const bodyHtml = renderMarkdown(body);
-    return this.prisma.work.create({
+  /** A work from an approved submission; `payload` has passed WorkPayload validation */
+  async createFromPayload(
+    payload: WorkPayload,
+    { publish = true, sourceNote }: { publish?: boolean; sourceNote?: string | null } = {},
+    db: Prisma.TransactionClient = this.prisma,
+  ) {
+    const slug = await this.newSlug([payload.titleAz, payload.titleRu, payload.titleEn], payload.authorId);
+    return db.work.create({
       data: {
-        ...(payload as unknown as Prisma.WorkCreateInput),
+        authorId: payload.authorId,
+        titleAz: payload.titleAz,
+        titleRu: payload.titleRu,
+        titleEn: payload.titleEn,
+        originalLang: payload.originalLang,
+        scriptDirection: RTL_LANGUAGES.includes(payload.originalLang) ? 'RTL' : 'LTR',
+        genre: payload.genre,
+        form: payload.form,
+        year: payload.year,
+        body: payload.body,
+        bodyHtml: renderMarkdown(payload.body),
+        sourceNote,
         slug,
-        bodyHtml,
         status: publish ? 'PUBLISHED' : 'DRAFT',
       },
     });
   }
+}
+
+const WORK_FIELDS = [
+  'titleAz', 'titleRu', 'titleFa', 'titleEn', 'body', 'originalLang', 'scriptDirection', 'genre', 'form',
+  'year', 'yearApprox', 'order', 'authorId', 'collectionId', 'sourceNote', 'status',
+] as const satisfies readonly (keyof CreateWorkDto)[];
+
+/** Only the columns an editor may set, whatever else the object carries */
+function workFields(dto: Partial<CreateWorkDto>) {
+  return Object.fromEntries(WORK_FIELDS.filter((k) => dto[k] !== undefined).map((k) => [k, dto[k]]));
 }

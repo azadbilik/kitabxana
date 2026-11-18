@@ -37,7 +37,7 @@ export default async function ContactPage({ params }: Props) {
             <a href={`mailto:${email}`}>{email}</a>
           ) : (
             <p>
-              <Link href={localePath(locale, `/contribute`)}>{t('email_soon')}</Link>
+              <Link prefetch={false} href={localePath(locale, `/contribute`)}>{t('email_soon')}</Link>
             </p>
           )}
         </div>

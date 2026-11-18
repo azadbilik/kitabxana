@@ -51,7 +51,8 @@ echo <PAT> | docker login ghcr.io -u nomadical --password-stdin
 2. `A` record `@` → server IP, proxied.
 3. SSL/TLS → **Full (strict)**.
 4. SSL/TLS → Origin Server → create certificate. Save it on the server as `/opt/irs-az/certs/origin.pem` and `origin-key.pem`.
-5. R2 → create buckets `irs-az` (uploads) and `irs-az-backups`, plus an API token with read/write on both.
+5. R2 → create the bucket `irs-az-backups`, plus an API token with read/write on it.
+6. Firewall ports 80 and 443 to [Cloudflare's address ranges](https://www.cloudflare.com/ips/). The API takes the visitor's address for rate limits from `CF-Connecting-IP`, which only Cloudflare can be trusted to set; an origin reachable directly would let anyone forge it.
 
 ### 5. Environment
 
@@ -69,7 +70,9 @@ pg_dump --no-owner --no-acl irs_az | gzip | ssh deploy@<host> \
   'gunzip | docker compose -f /opt/irs-az/docker-compose.yml exec -T postgres psql -q -U postgres -d irs_az'
 ```
 
-Then call `POST /api/search/reindex` as a SUPERADMIN.
+Then call `POST /api/search/reindex` as a SUPERADMIN. It answers 202 at once and indexes in the background; `GET /api/search/reindex` shows progress.
+
+The API refuses to start in production without `DATABASE_URL`, `JWT_SECRET`, `JWT_REFRESH_SECRET` (random, 32+ characters), `SITE_URL` and `CORS_ORIGIN`; Compose sets all of them from `.env`. `GET /api/health` answers 200 while the API can reach the database (the containers' healthchecks use it).
 
 ### 7. Backups
 

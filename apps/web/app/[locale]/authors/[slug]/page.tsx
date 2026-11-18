@@ -1,15 +1,19 @@
 import type { Metadata } from 'next';
-import { api, notFoundOn404 } from '@/lib/api';
-import { localized, ownField, periodLabel } from '@/lib/locale';
-import { getTranslations } from 'next-intl/server';
-import { breadcrumbLd, excerpt, pageMetadata, sameAs, SITE_URL } from '@/lib/seo';
 import Link from 'next/link';
+import { getTranslations } from 'next-intl/server';
+import { api, notFoundOn404, type AuthorPage as AuthorData } from '@/lib/api';
+import { localized, ownField, periodLabel } from '@/lib/locale';
+import { breadcrumbLd, excerpt, pageMetadata, plainLines, sameAs, SITE_URL } from '@/lib/seo';
 import { JsonLd } from '@/components/seo/JsonLd';
-import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
+import { ArtworkGallery, type Artwork } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
 import { BioCredit } from '@/components/authors/BioCredit';
+import { AuthorPortrait } from '@/components/authors/AuthorPortrait';
 import { Shelf, type ShelfBook } from '@/components/works/Shelf';
+import { worksPath } from '@/lib/facets';
 import { localePath } from '@/lib/i18n';
+import { getLabels } from '@/lib/labels';
+import { scriptAttrs } from '@/lib/script';
 
 export const dynamic = 'force-dynamic';
 
@@ -17,26 +21,12 @@ interface Props {
   params: Promise<{ locale: string; slug: string }>;
 }
 
-const langLabels: Record<string, Record<string, string>> = {
-  AZ_LATIN:   { az: 'Azərbaycanca', ru: 'Азербайджанский', en: 'Azerbaijani' },
-  AZ_ARABIC:  { az: 'Azərbaycanca (ərəb)', ru: 'Азерб. (араб.)', en: 'Azerbaijani (Arabic)' },
-  FA:         { az: 'Farsca', ru: 'Персидский', en: 'Persian' },
-  AR:         { az: 'Ərəbcə', ru: 'Арабский', en: 'Arabic' },
-  RU:         { az: 'Rusca', ru: 'Русский', en: 'Russian' },
-  TR:         { az: 'Türkcə', ru: 'Турецкий', en: 'Turkish' },
-};
-
-const typeLabels: Record<string, Record<string, string>> = {
-  POET:        { az: 'Şair', ru: 'Поэт', en: 'Poet' },
-  WRITER:      { az: 'Yazıçı', ru: 'Писатель', en: 'Writer' },
-  PLAYWRIGHT:  { az: 'Dramaturq', ru: 'Драматург', en: 'Playwright' },
-  PHILOSOPHER: { az: 'Filosof', ru: 'Философ', en: 'Philosopher' },
-  FOLK:        { az: 'Xalq ədəbiyyatı', ru: 'Народное творчество', en: 'Folk literature' },
-};
+/** A bio longer than this is folded to a few lines behind "read more" */
+const BIO_FOLD_CHARS = 600;
 
 export async function generateMetadata({ params }: Props): Promise<Metadata> {
   const { locale, slug } = await params;
-  const author = (await api.getAuthor(slug).catch(notFoundOn404)) as any;
+  const author = await api.getAuthorPage(slug).catch(notFoundOn404);
 
   return pageMetadata({
     locale,
@@ -50,42 +40,44 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 
 export default async function AuthorPage({ params }: Props) {
   const { locale, slug } = await params;
-  const author = (await api.getAuthor(slug).catch(notFoundOn404)) as any;
+  const author: AuthorData = await api.getAuthorPage(slug).catch(notFoundOn404);
+  const [t, book, home, reading, nav, labels] = await Promise.all([
+    getTranslations({ locale, namespace: 'authors' }),
+    getTranslations({ locale, namespace: 'book' }),
+    getTranslations({ locale, namespace: 'home' }),
+    getTranslations({ locale, namespace: 'reading' }),
+    getTranslations({ locale, namespace: 'nav' }),
+    getLabels(locale),
+  ]);
 
-  const name = localized(author, 'name', locale) ?? '';
+  const name = localized(author, 'name', locale) ?? author.nameAz;
   // Only a bio in the reader's language; otherwise a pointer to the Azerbaijani one
   const bio = ownField(author, 'bio', locale);
   const bioElsewhere = !bio && locale !== 'az' && Boolean(author.bioAz);
-  const t = await getTranslations({ locale, namespace: 'authors' });
-  const authorsLabel = locale === 'ru' ? 'Авторы' : locale === 'en' ? 'Authors' : 'Müəlliflər';
-  const books = await getTranslations({ locale, namespace: 'book' });
-  const home = await getTranslations({ locale, namespace: 'home' });
-  const options = await getTranslations({ locale, namespace: 'contribute.options' });
-  const booksShelf: ShelfBook[] = (author.collections ?? [])
-    .filter((c: any) => c.works?.length > 0)
-    .map((c: any) => ({
-      href: localePath(locale, `/collections/${c.slug}`),
-      title: localized(c, 'title', locale) ?? c.titleAz,
-      author: name,
-      seed: slug,
-      kind: c.genre ? options(`genre.${c.genre}` as any) : undefined,
-      note: home('work_count', { count: c.works.length }),
-    }));
+  const bioFolds = plainLines(bio).join(' ').length > BIO_FOLD_CHARS;
+  const typeLabel = labels.authorType(author.type);
+  const facts = [labels.lifeYears(author), typeLabel, periodLabel(author.period, locale)].filter(Boolean);
 
-  const years = [
-    author.bornYear ? `${author.bornYearApprox ? '~' : ''}${author.bornYear}` : null,
-    author.diedYear ? `${author.diedYearApprox ? '~' : ''}${author.diedYear}` : null,
-  ].filter(Boolean).join(' — ');
+  const books: ShelfBook[] = author.collections.map((c) => ({
+    href: localePath(locale, `/collections/${c.slug}`),
+    title: localized(c, 'title', locale) ?? c.titleAz,
+    author: name,
+    seed: c.id,
+    originalLang: c.originalLang,
+    kind: labels.genre(c.genre) ?? undefined,
+    note: home('work_count', { count: c.workCount }),
+  }));
+  const allWorksHref = worksPath(locale, { author: slug });
 
   return (
-    <div className="container page-content">
+    <div className="container page-content author-page">
       <JsonLd
         data={{
           '@context': 'https://schema.org',
           '@type': 'Person',
           name,
           url: `${SITE_URL}${localePath(locale, `/authors/${slug}`)}`,
-          jobTitle: typeLabels[author.type]?.[locale],
+          ...(typeLabel && { jobTitle: typeLabel }),
           ...(author.bornYear && { birthDate: String(author.bornYear) }),
           ...(author.diedYear && { deathDate: String(author.diedYear) }),
           ...(author.portraitUrl && { image: author.portraitUrl }),
@@ -97,55 +89,34 @@ export default async function AuthorPage({ params }: Props) {
       />
       <JsonLd
         data={breadcrumbLd([
-          { name: authorsLabel, path: localePath(locale, `/authors`) },
+          { name: nav('authors'), path: localePath(locale, '/authors') },
           { name },
         ])}
       />
 
-      {/* Breadcrumb */}
-      <div className="breadcrumb">
-        <Link href={localePath(locale, `/authors`)}>
-          ← {authorsLabel}
-        </Link>
-        <span className="breadcrumb-sep">/</span>
-        <span className="breadcrumb-current">{name}</span>
-      </div>
+      <nav className="breadcrumb" aria-label={reading('breadcrumb')}>
+        <Link prefetch={false} href={localePath(locale, '/authors')}>{nav('authors')}</Link>
+        <span className="breadcrumb-sep" aria-hidden="true">›</span>
+        <span className="breadcrumb-current" aria-current="page">{name}</span>
+      </nav>
 
-      {/* Author header — portrait + info grid */}
-      <div className="author-header-grid">
-        <div>
-          <div className="portrait-placeholder">
-            {author.portraitUrl ? (
-              <img src={author.portraitUrl} alt={name} style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
-            ) : (
-              <>
-                <svg width="44" height="58" viewBox="0 0 44 58" fill="none">
-                  <circle cx="22" cy="17" r="13" stroke="var(--rule)" strokeWidth="1"/>
-                  <path d="M2 58 Q12 42 22 38 Q32 42 42 58" stroke="var(--rule)" strokeWidth="1" fill="none"/>
-                </svg>
-                <span className="portrait-placeholder-label">
-                  {locale === 'ru' ? 'Нет портрета' : locale === 'en' ? 'No portrait' : 'Portret yoxdur'}
-                </span>
-              </>
-            )}
-          </div>
-          {/* Credit the portrait: most are public domain, some CC BY-SA (artist, year, licence) */}
+      <header className="author-head">
+        <div className="author-portrait">
+          {author.portraitUrl ? (
+            <AuthorPortrait url={author.portraitUrl} alt={t('portrait_alt', { name })} size="lg" />
+          ) : (
+            <div className="author-portrait-empty" aria-hidden="true">
+              <svg width="56" height="56" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.2" strokeLinecap="round">
+                <circle cx="12" cy="8.5" r="3.75" />
+                <path d="M4.5 20.5c1-4 4-6 7.5-6s6.5 2 7.5 6" />
+              </svg>
+            </div>
+          )}
+          {/* Most portraits are public domain, some CC BY-SA: the artist, year and licence */}
           {author.portraitUrl && author.portraitCredit && (
-            <p
-              style={{
-                fontFamily: 'var(--font-ui)',
-                fontSize: '0.7rem',
-                lineHeight: 1.3,
-                color: 'var(--muted)',
-                marginTop: '0.35rem',
-                maxWidth: '130px',
-                overflowWrap: 'anywhere',
-              }}
-            >
+            <p className="author-portrait-credit">
               {author.portraitSource ? (
-                <a href={author.portraitSource} target="_blank" rel="noopener noreferrer" style={{ color: 'inherit' }}>
-                  {author.portraitCredit}
-                </a>
+                <a href={author.portraitSource} target="_blank" rel="noopener noreferrer">{author.portraitCredit}</a>
               ) : (
                 author.portraitCredit
               )}
@@ -153,117 +124,92 @@ export default async function AuthorPage({ params }: Props) {
           )}
         </div>
 
-        <div>
+        <div className="author-head-info">
           <h1 className="author-name">{name}</h1>
-          <div className="author-period">
-            {[years, author.type && (typeLabels[author.type]?.[locale] ?? author.type), periodLabel(author.period, locale)]
-              .filter(Boolean)
-              .join(' · ')}
-          </div>
+          {facts.length > 0 && <p className="author-period">{facts.join(' · ')}</p>}
 
-          {/* Language tags */}
-          {author.writingLangs?.length > 0 && (
-            <div className="author-tags">
-              {author.writingLangs.map((l: string) => (
-                <span key={l} className="author-tag">
-                  {langLabels[l]?.[locale] ?? l}
-                </span>
+          {author.writingLangs.length > 0 && (
+            <ul className="author-tags">
+              {author.writingLangs.map((l) => (
+                <li key={l} className="author-tag">{labels.lang(l) ?? l}</li>
               ))}
+            </ul>
+          )}
+
+          {bio && (
+            <div className="author-bio-wrap">
+              {/* The whole bio is in the page; the checkbox only lifts the visual fold, so it works without scripts */}
+              {bioFolds && <input type="checkbox" id="author-bio-toggle" className="author-bio-toggle sr-only" aria-controls="author-bio" />}
+              <div id="author-bio" className={bioFolds ? 'author-bio author-bio--folds' : 'author-bio'} dangerouslySetInnerHTML={{ __html: bio }} />
+              {bioFolds && (
+                <label htmlFor="author-bio-toggle" className="author-bio-more">
+                  <span className="author-bio-more-open">{t('bio_more')}</span>
+                  <span className="author-bio-more-close">{t('bio_less')}</span>
+                </label>
+              )}
+              <BioCredit sources={author.bioSources} locale={locale} />
             </div>
           )}
-
-          {/* Bio excerpt */}
-          {bio && (
-            <>
-              <div
-                className="author-bio"
-                dangerouslySetInnerHTML={{ __html: bio }}
-              />
-              <BioCredit sources={author.bioSources} locale={locale} />
-            </>
-          )}
           {bioElsewhere && (
-            <p className="author-bio author-bio--elsewhere" style={{ color: 'var(--muted)', fontStyle: 'italic' }}>
+            <p className="author-bio author-bio--elsewhere">
               {t('bio_only_az')}{' '}
-              <Link href={localePath('az', `/authors/${slug}`)} hrefLang="az">{t('bio_read_az')} →</Link>
+              <Link prefetch={false} href={localePath('az', `/authors/${slug}`)} hrefLang="az">{t('bio_read_az')} →</Link>
             </p>
           )}
 
-          {(author.works?.length > 0 || author.collections?.some((c: any) => c.works?.length > 0)) && (
+          {author.worksCount > 0 && (
             <div className="download-bar--start">
               <DownloadBar path={`/authors/${encodeURIComponent(slug)}`} author={author} locale={locale} kind="author" />
             </div>
           )}
         </div>
-      </div>
+      </header>
 
-      {/* The author's books as covers, when there is more than one to choose between */}
-      {booksShelf.length > 1 && (
+      {/* Each book opens its own page with its contents; the works are not repeated here */}
+      {books.length > 0 && (
         <div className="author-books">
-          <Shelf id="author-books" title={books('books')} books={booksShelf} />
+          <Shelf
+            id="author-books"
+            sameAuthor
+            title={book('books')}
+            more={author.worksCount > 0 ? { href: allWorksHref, label: t('all_works', { count: author.worksCount }) } : undefined}
+            books={books}
+          />
         </div>
       )}
 
-      <ArtworkGallery artworks={author.artworks ?? []} locale={locale} showCollection initial={6} />
+      <ArtworkGallery
+        artworks={author.artworks as Artwork[]}
+        total={author.artworksCount}
+        moreFrom={`/authors/${encodeURIComponent(slug)}/artworks`}
+        locale={locale}
+        showCollection
+        initial={6}
+      />
 
-      {/* Collections with works */}
-      {author.collections?.map((collection: any, idx: number) => (
-        <section key={collection.id} style={{ marginBottom: '1rem' }}>
-          {idx > 0 && <hr className="rule" style={{ margin: '1rem 0' }} />}
-
-          <div className="coll-header">
-            <Link
-              href={localePath(locale, `/collections/${collection.slug}`)}
-              style={{ color: 'inherit', textDecoration: 'none' }}
-            >
-              {localized(collection, 'title', locale)}
-            </Link>
-            {collection.year && (
-              <span> · {collection.yearApprox && '~'}{collection.year}</span>
-            )}
-            {collection.works?.length > 0 && (
-              <span> · {collection.works.length} {locale === 'ru' ? 'произв.' : locale === 'en' ? 'works' : 'əsər'}</span>
+      {author.works.length > 0 && (
+        <section className="author-works" aria-labelledby="author-works-title">
+          <div className="shelf-head">
+            <h2 className="shelf-title" id="author-works-title">{t('other_works')}</h2>
+            {author.standaloneCount > author.works.length && (
+              <Link href={allWorksHref} className="shelf-more" prefetch={false}>
+                {t('all_works', { count: author.worksCount })}
+              </Link>
             )}
           </div>
-
-          <ul className="work-list">
-            {collection.works?.map((work: any) => (
-              <li key={work.id} className="work-list-item">
-                <Link href={localePath(locale, `/works/${work.slug}`)} style={{ color: 'inherit', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'baseline', gap: '0.5rem' }}>
-                  <span className="work-title">
-                    {localized(work, 'title', locale)}
-                  </span>
-                  <span className="work-year">
-                    {work.form && work.form !== 'OTHER' ? work.form.toLowerCase() : ''}
-                  </span>
-                </Link>
-              </li>
-            ))}
-          </ul>
-        </section>
-      ))}
-
-      {/* Standalone works */}
-      {author.works?.length > 0 && (
-        <section style={{ marginTop: '1rem' }}>
-          <hr className="rule" style={{ margin: '1rem 0' }} />
-          <div className="coll-header">
-            {locale === 'ru' ? 'Отдельные произведения' : locale === 'en' ? 'Standalone works' : 'Sərbəst əsərlər'}
-          </div>
-          <ul className="work-list">
-            {author.works.map((work: any) => (
-              <li key={work.id} className="work-list-item">
-                <Link href={localePath(locale, `/works/${work.slug}`)} style={{ color: 'inherit', textDecoration: 'none', display: 'flex', justifyContent: 'space-between', width: '100%', alignItems: 'baseline', gap: '0.5rem' }}>
-                  <span className="work-title">
-                    {localized(work, 'title', locale)}
-                  </span>
-                  <span className="work-year">
-                    {work.genre.toLowerCase()}
-                    {work.year && ` · ${work.year}`}
-                  </span>
-                </Link>
-              </li>
-            ))}
+          <ul className="author-work-list">
+            {author.works.map((work) => {
+              const title = localized(work, 'title', locale) ?? work.titleAz;
+              const meta = [labels.kind(work), work.year && `${work.yearApprox ? '~' : ''}${work.year}`].filter(Boolean).join(' · ');
+              return (
+                <li key={work.id}>
+                  <Link href={localePath(locale, `/works/${work.slug}`)} className="author-work" prefetch={false}>
+                    <span className="author-work-title" {...scriptAttrs(title, work.originalLang)}>{title}</span>
+                    {meta && <span className="author-work-meta">{meta}</span>}
+                  </Link>
+                </li>
+              );
+            })}
           </ul>
         </section>
       )}

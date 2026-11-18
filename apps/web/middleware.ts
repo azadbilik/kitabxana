@@ -1,7 +1,7 @@
 import createMiddleware from 'next-intl/middleware';
 import { NextResponse, type NextRequest } from 'next/server';
 import { locales, defaultLocale, localePath, splitLocale } from './lib/i18n';
-import { checkFacetPath, legacyRedirect, WORK_FACET_PATTERN } from './lib/facets';
+import { checkFacetPath, legacyRedirect } from './lib/facets';
 
 const intl = createMiddleware({
   locales,
@@ -15,52 +15,8 @@ const intl = createMiddleware({
 });
 
 const API_URL = process.env.API_URL ?? process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
-const WORK_FACET = new RegExp(`^${WORK_FACET_PATTERN}$`);
-
-// Resolver answers per slug: the current slug, or null when there is no such work.
-// Renames are rare, so a few minutes of staleness only delays a new redirect.
 const RESOLVE_TTL_MS = 5 * 60_000;
 const RESOLVE_CACHE_MAX = 5_000;
-const resolved = new Map<string, { current: string | null; expires: number }>();
-
-async function currentSlug(slug: string): Promise<string | null | undefined> {
-  const hit = resolved.get(slug);
-  if (hit && hit.expires > Date.now()) return hit.current;
-
-  const res = await fetch(`${API_URL}/works/resolve/${encodeURIComponent(slug)}`, {
-    signal: AbortSignal.timeout(1_500),
-  }).catch(() => null);
-  // API down or slow: let the page handle it (it has its own redirect fallback)
-  if (!res || (!res.ok && res.status !== 404)) return undefined;
-  const current = res.ok ? ((await res.json()) as { slug: string }).slug : null;
-
-  if (resolved.size >= RESOLVE_CACHE_MAX) resolved.delete(resolved.keys().next().value!);
-  resolved.set(slug, { current, expires: Date.now() + RESOLVE_TTL_MS });
-  return current;
-}
-
-/**
- * Old work URLs get a real 308 here. The page has its own redirect fallback, but by then
- * the loading boundary has already sent a 200, which crawlers don't treat as a move.
- * Every work slug is checked: renamed ones can look exactly like current ones.
- */
-async function redirectLegacyWork(req: NextRequest) {
-  const { locale, path } = splitLocale(req.nextUrl.pathname);
-  const match = path.match(/^\/works\/([^/]+)$/);
-  if (!match) return null;
-  const [, encoded] = match;
-  const slug = decodeURIComponent(encoded);
-  if (WORK_FACET.test(slug)) return null; // a filter path, not a work
-
-  const current = await currentSlug(slug);
-  // No such work: a real 404 here, since the page streams a 200 before it can say so
-  if (current === null) return NextResponse.rewrite(new URL(`/${locale}/_not-found`, req.url));
-  if (!current || current === slug) return null;
-
-  const target = new URL(localePath(locale, `/works/${encodeURIComponent(current)}`), process.env.SITE_URL ?? req.url);
-  target.search = req.nextUrl.search; // keep ?tr=<id>
-  return NextResponse.redirect(target, 308);
-}
 
 // Whether an author has published works, for muellif-<slug> filter paths
 const authorsSeen = new Map<string, { exists: boolean; expires: number }>();
@@ -80,7 +36,7 @@ async function authorHasWorks(slug: string): Promise<boolean | undefined> {
 
 /**
  * Filter paths in the wrong order get a 308 to the canonical one; unknown values and
- * authors get a real 404. Both are decided here because the page streams a 200 first.
+ * authors get a 404 before the page is rendered.
  */
 async function checkFilterPath(req: NextRequest) {
   const check = checkFacetPath(req.nextUrl.pathname);
@@ -109,7 +65,9 @@ function redirectLegacyFilters(req: NextRequest) {
 function dropDefaultPrefix(req: NextRequest) {
   const path = req.nextUrl.pathname;
   if (path !== `/${defaultLocale}` && !path.startsWith(`/${defaultLocale}/`)) return null;
-  const target = new URL(path.slice(defaultLocale.length + 1) || '/', process.env.SITE_URL ?? req.url);
+  // Set as a pathname, never parsed as a URL: /az//host must not become a redirect to another site
+  const target = new URL('/', process.env.SITE_URL ?? req.url);
+  target.pathname = path.slice(defaultLocale.length + 1).replace(/^\/+/, '/') || '/';
   target.search = req.nextUrl.search;
   return NextResponse.redirect(target, 308);
 }
@@ -125,7 +83,6 @@ export default async function middleware(req: NextRequest) {
     dropDefaultPrefix(req) ??
     redirectLegacyFilters(req) ??
     (await checkFilterPath(req)) ??
-    (await redirectLegacyWork(req)) ??
     withoutLocaleCookie(req, intl(req))
   );
 }

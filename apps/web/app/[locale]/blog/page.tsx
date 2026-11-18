@@ -1,135 +1,119 @@
 import type { Metadata } from 'next';
-import { getTranslations as getMetaTranslations } from 'next-intl/server';
+import Link from 'next/link';
+import { getTranslations } from 'next-intl/server';
 import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { localized } from '@/lib/locale';
-import Link from 'next/link';
 import { localePath } from '@/lib/i18n';
 
 export const dynamic = 'force-dynamic';
 
 interface Props {
   params: Promise<{ locale: string }>;
-  searchParams: Promise<Record<string, string | undefined>>;
+  searchParams: Promise<{ page?: string | string[] }>;
 }
 
-export async function generateMetadata({ params }: { params: Promise<{ locale: string }> }): Promise<Metadata> {
+interface PostSummary {
+  id: string;
+  slug: string;
+  titleAz: string;
+  titleRu: string | null;
+  excerpt: string | null;
+  publishedAt: string | null;
+  author: { name: string | null; username: string } | null;
+}
+
+interface PostList {
+  data: PostSummary[];
+  meta: { total: number; page: number; totalPages: number };
+}
+
+const DATE_LOCALE: Record<string, string> = { az: 'az-AZ', ru: 'ru-RU', en: 'en-GB' };
+
+function pageOf(value: string | string[] | undefined) {
+  const n = Number(Array.isArray(value) ? value[0] : value);
+  return Number.isInteger(n) && n > 1 ? n : 1;
+}
+
+const loadPosts = (page: number) =>
+  api.getBlogPosts(new URLSearchParams(page > 1 ? { page: String(page) } : {})) as Promise<PostList>;
+
+export async function generateMetadata({ params, searchParams }: Props): Promise<Metadata> {
   const { locale } = await params;
-  const t = await getMetaTranslations({ locale });
+  const page = pageOf((await searchParams).page);
+  const t = await getTranslations({ locale, namespace: 'blog' });
+  const posts = await loadPosts(page).catch(() => null);
 
   return pageMetadata({
     locale,
     path: '/blog',
-    title: t('nav.blog'),
-    description: t('site.description'),
+    title: t('title'),
+    description: t('description'),
+    // With nothing written yet, or past the first page, there is nothing here to index
+    noindex: !posts?.data.length || page > 1,
   });
 }
 
 export default async function BlogPage({ params, searchParams }: Props) {
   const { locale } = await params;
-  const sp = await searchParams;
-
-  const query = new URLSearchParams();
-  if (sp.page) query.set('page', sp.page);
-
-  const result = (await api.getBlogPosts(query)) as any;
+  const page = pageOf((await searchParams).page);
+  const t = await getTranslations({ locale, namespace: 'blog' });
+  const posts = await loadPosts(page);
+  const { totalPages } = posts.meta;
+  const pageHref = (n: number) => `${localePath(locale, '/blog')}${n > 1 ? `?page=${n}` : ''}`;
 
   return (
-    <div className="container" style={{ paddingTop: '2rem' }}>
-      <h1
-        style={{
-          fontFamily: 'var(--font-serif)',
-          fontSize: '2.5rem',
-          marginBottom: '1.5rem',
-        }}
-      >
-        ◆ {locale === 'ru' ? 'Блог' : locale === 'en' ? 'Blog' : 'Bloq'}
-      </h1>
+    <div className="container page-content">
+      <header className="page-header page-header--start">
+        <h1>{t('title')}</h1>
+      </header>
 
-      <hr className="rule rule--double" />
-
-      {result.data.length === 0 && (
-        <p style={{ color: 'var(--muted)', marginTop: '2rem', textAlign: 'center' }}>
-          {locale === 'ru'
-            ? 'Пока нет записей'
-            : locale === 'en'
-              ? 'No posts yet'
-              : 'Hələ yazı yoxdur'}
-        </p>
+      {posts.data.length === 0 ? (
+        <div className="shelf-empty">
+          <p>{t('empty')}</p>
+          <Link prefetch={false} href={localePath(locale, '/collections')} className="btn btn-primary btn-lg">
+            {t('to_catalog')}
+          </Link>
+        </div>
+      ) : (
+        <ul className="blog-list">
+          {posts.data.map((post) => {
+            const by = post.author?.name || post.author?.username;
+            return (
+              <li key={post.id}>
+                <Link href={localePath(locale, `/blog/${post.slug}`)} className="blog-card" prefetch={false}>
+                  <span className="blog-card-title">{localized(post, 'title', locale)}</span>
+                  {post.excerpt && <span className="blog-card-excerpt">{post.excerpt}</span>}
+                  <span className="blog-card-meta">
+                    {post.publishedAt && (
+                      <time dateTime={post.publishedAt}>
+                        {new Date(post.publishedAt).toLocaleDateString(DATE_LOCALE[locale], { dateStyle: 'long' })}
+                      </time>
+                    )}
+                    {post.publishedAt && by && <span className="dot" aria-hidden="true" />}
+                    {by && <span>{by}</span>}
+                  </span>
+                </Link>
+              </li>
+            );
+          })}
+        </ul>
       )}
 
-      <div
-        style={{
-          display: 'grid',
-          gridTemplateColumns: 'repeat(auto-fill, minmax(350px, 1fr))',
-          gap: '1.5rem',
-          marginTop: '2rem',
-        }}
-      >
-        {result.data.map((post: any) => {
-          const title = localized(post, 'title', locale);
-
-          return (
-            <Link
-              key={post.id}
-              href={localePath(locale, `/blog/${post.slug}`)}
-              style={{
-                border: '1px solid var(--rule)',
-                padding: '1.5rem',
-                textDecoration: 'none',
-                color: 'var(--ink)',
-              }}
-            >
-              <p
-                style={{
-                  fontFamily: 'var(--font-ui)',
-                  fontSize: '0.7rem',
-                  color: 'var(--muted)',
-                  textTransform: 'uppercase',
-                  letterSpacing: '0.05em',
-                }}
-              >
-                {post.publishedAt
-                  ? new Date(post.publishedAt).toLocaleDateString(
-                      locale === 'ru' ? 'ru-RU' : locale === 'en' ? 'en-US' : 'az-AZ',
-                    )
-                  : ''}
-              </p>
-              <h2
-                style={{
-                  fontFamily: 'var(--font-serif)',
-                  fontSize: '1.25rem',
-                  marginTop: '0.5rem',
-                }}
-              >
-                {title}
-              </h2>
-              {post.excerpt && (
-                <p
-                  style={{
-                    fontSize: '0.9rem',
-                    color: 'var(--warm-brown)',
-                    marginTop: '0.5rem',
-                    lineHeight: 1.6,
-                  }}
-                >
-                  {post.excerpt}
-                </p>
-              )}
-              <p
-                style={{
-                  fontFamily: 'var(--font-ui)',
-                  fontSize: '0.75rem',
-                  color: 'var(--muted)',
-                  marginTop: '0.75rem',
-                }}
-              >
-                {post.author?.name || post.author?.username}
-              </p>
+      {totalPages > 1 && (
+        <nav className="pagination" aria-label={t('pages_label')}>
+          {page > 1 && (
+            <Link href={pageHref(page - 1)} className="pill" rel="prev" prefetch={false}>
+              ← {t('newer')}
             </Link>
-          );
-        })}
-      </div>
+          )}
+          {page < totalPages && (
+            <Link href={pageHref(page + 1)} className="pill" rel="next" prefetch={false}>
+              {t('older')} →
+            </Link>
+          )}
+        </nav>
+      )}
     </div>
   );
 }

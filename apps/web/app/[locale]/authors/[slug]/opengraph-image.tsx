@@ -9,7 +9,7 @@ export const alt = 'Kitabxana.az';
 
 export default async function Image({ params }: { params: Promise<{ locale: string; slug: string }> }) {
   const { locale, slug } = await params;
-  const author = (await api.getAuthor(slug)) as any;
+  const author = await api.getAuthorPage(slug);
   const firstSentence = plainLines(ownField(author, 'bio', locale)).join(' ').split(/(?<=\.)\s/)[0];
 
   return ogCard({

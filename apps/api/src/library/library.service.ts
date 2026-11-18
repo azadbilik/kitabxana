@@ -2,38 +2,27 @@ import { BadRequestException, Injectable, NotFoundException } from '@nestjs/comm
 import { BookStatus, Prisma, ReadingStatus } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
 import { cleanProgress, FINISHED_AT, statusOnPartDone, statusOnPartOpened } from './rules';
+import { bookSelect, toBook as book, workSelect } from './selects';
 
 export type FavoriteKind = 'work' | 'book' | 'author';
 const FAVORITE_FIELD = { work: 'workId', book: 'collectionId', author: 'authorId' } as const;
 
-const bookSelect = {
-  id: true,
-  slug: true,
-  titleAz: true,
-  titleRu: true,
-  titleEn: true,
-  titleFa: true,
-  genre: true,
-  year: true,
-  yearApprox: true,
-  author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
-  _count: { select: { works: { where: { status: 'PUBLISHED' } } } },
-} satisfies Prisma.CollectionSelect;
+/** Books on one tab of a reader's shelf */
+const shelvedBooks = (userId: string, status: BookStatus): Prisma.BookStateWhereInput => ({
+  userId,
+  status,
+  collection: { status: 'PUBLISHED' },
+});
 
-const workSelect = {
-  id: true,
-  slug: true,
-  titleAz: true,
-  titleRu: true,
-  titleEn: true,
-  genre: true,
-  form: true,
-  author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
-  collection: { select: { id: true, slug: true, titleAz: true, titleRu: true, titleEn: true, genre: true } },
-} satisfies Prisma.WorkSelect;
-
-type BookRow = Prisma.CollectionGetPayload<{ select: typeof bookSelect }>;
-const book = ({ _count, ...b }: BookRow) => ({ ...b, workCount: _count.works });
+/** Works shown on their own on a tab: read or in progress, and not inside a book already on that tab */
+const looseWorks = (userId: string, status: 'READING' | 'DONE'): Prisma.ReadingStateWhereInput => ({
+  userId,
+  status,
+  work: {
+    status: 'PUBLISHED',
+    OR: [{ collectionId: null }, { collection: { NOT: { status: 'PUBLISHED', bookState: { some: { userId, status } } } } }],
+  },
+});
 
 /** Everything a reader keeps: saved items, read marks, reading positions, book statuses */
 @Injectable()
@@ -255,7 +244,7 @@ export class LibraryService {
       const [rows, total] = await Promise.all([
         this.prisma.favorite.findMany({
           where: { userId },
-          orderBy: { createdAt: 'desc' },
+          orderBy: [{ createdAt: 'desc' }, { id: 'asc' }],
           skip,
           take,
           select: {
@@ -281,11 +270,22 @@ export class LibraryService {
     const status = statuses[tab];
     if (!status) throw new BadRequestException('Unknown tab');
 
-    const books = await this.prisma.bookState.findMany({
-      where: { userId, status, collection: { status: 'PUBLISHED' } },
-      orderBy: { updatedAt: 'desc' },
-      select: { status: true, lastWorkId: true, updatedAt: true, collection: { select: bookSelect } },
-    });
+    // Books first, then (not on "want") works on their own: read or in progress, and not
+    // inside a book already on this tab. Both are counted and paged in the database.
+    const bookWhere = shelvedBooks(userId, status);
+    const workWhere = status === 'WANT' ? null : looseWorks(userId, status);
+
+    const [bookCount, workCount, books] = await Promise.all([
+      this.prisma.bookState.count({ where: bookWhere }),
+      workWhere ? this.prisma.readingState.count({ where: workWhere }) : 0,
+      this.prisma.bookState.findMany({
+        where: bookWhere,
+        orderBy: [{ updatedAt: 'desc' }, { id: 'asc' }],
+        skip,
+        take,
+        select: { status: true, lastWorkId: true, updatedAt: true, collection: { select: bookSelect } },
+      }),
+    ]);
     const progress = await this.bookProgress(userId, books.map((b) => b.collection.id));
     const bookItems = books.map((b) => ({
       type: 'book' as const,
@@ -295,33 +295,33 @@ export class LibraryService {
       progress: progress[b.collection.id] ?? null,
     }));
 
-    if (tab === 'want') return { total: bookItems.length, items: bookItems.slice(skip, skip + take) };
-
-    // Works on their own: read or in progress, and not inside a book already on this tab
-    const shelvedIds = books.map((b) => b.collection.id);
-    const works = await this.prisma.readingState.findMany({
-      where: {
-        userId,
-        status: tab === 'reading' ? 'READING' : 'DONE',
-        work: { status: 'PUBLISHED', OR: [{ collectionId: null }, { collectionId: { notIn: shelvedIds } }] },
-      },
-      orderBy: { updatedAt: 'desc' },
-      take: 200,
-      select: { progress: true, status: true, work: { select: workSelect } },
-    });
-    const items = [...bookItems, ...works.map((w) => ({ type: 'work' as const, status: w.status, progress: w.progress, work: w.work }))];
-    return { total: items.length, items: items.slice(skip, skip + take) };
+    const room = take - books.length;
+    const works =
+      workWhere && room > 0
+        ? await this.prisma.readingState.findMany({
+            where: workWhere,
+            orderBy: [{ updatedAt: 'desc' }, { id: 'asc' }],
+            skip: Math.max(0, skip - bookCount),
+            take: room,
+            select: { progress: true, status: true, work: { select: workSelect } },
+          })
+        : [];
+    return {
+      total: bookCount + workCount,
+      items: [...bookItems, ...works.map((w) => ({ type: 'work' as const, status: w.status, progress: w.progress, work: w.work }))],
+    };
   }
 
   /** Counts for the shelf tabs */
   async counts(userId: string) {
+    // The same filters as the shelf itself, so a tab's number is what the tab lists
     const [reading, want, done, saved, readingWorks, doneWorks] = await Promise.all([
-      this.prisma.bookState.count({ where: { userId, status: 'READING' } }),
-      this.prisma.bookState.count({ where: { userId, status: 'WANT' } }),
-      this.prisma.bookState.count({ where: { userId, status: 'DONE' } }),
+      this.prisma.bookState.count({ where: shelvedBooks(userId, 'READING') }),
+      this.prisma.bookState.count({ where: shelvedBooks(userId, 'WANT') }),
+      this.prisma.bookState.count({ where: shelvedBooks(userId, 'DONE') }),
       this.prisma.favorite.count({ where: { userId } }),
-      this.prisma.readingState.count({ where: { userId, status: 'READING' } }),
-      this.prisma.readingState.count({ where: { userId, status: 'DONE' } }),
+      this.prisma.readingState.count({ where: looseWorks(userId, 'READING') }),
+      this.prisma.readingState.count({ where: looseWorks(userId, 'DONE') }),
     ]);
     return { reading, want, done, saved, readingWorks, doneWorks };
   }

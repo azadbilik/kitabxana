@@ -6,7 +6,7 @@ import {
   IsEnum,
   IsArray,
 } from 'class-validator';
-import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
+import { ApiProperty, ApiPropertyOptional, PartialType } from '@nestjs/swagger';
 import { AuthorType, Language, PublishStatus } from '@prisma/client';
 
 export class CreateAuthorDto {
@@ -100,3 +100,6 @@ export class CreateAuthorDto {
   @IsEnum(PublishStatus)
   status?: PublishStatus;
 }
+
+/** A real class (not Partial<…>), so the validation pipe checks and whitelists PATCH bodies too */
+export class UpdateAuthorDto extends PartialType(CreateAuthorDto) {}

@@ -38,6 +38,15 @@ async function tryRefresh(): Promise<string | null> {
   }
 }
 
+/**
+ * Headers for admin requests to routes that are public but show more to staff
+ * (`?all=true` lists drafts only for a signed-in editor).
+ */
+export function adminHeaders(): HeadersInit {
+  const token = typeof window === 'undefined' ? null : localStorage.getItem('token');
+  return token ? { Authorization: `Bearer ${token}` } : {};
+}
+
 export function useAdminAuth(): AdminAuth {
   const [user, setUser] = useState<AdminUser | null>(null);
   const [token, setToken] = useState<string | null>(null);

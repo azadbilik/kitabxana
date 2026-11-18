@@ -55,3 +55,13 @@ export class QueryCollectionsDto {
   @IsBoolean()
   onePerAuthor?: boolean;
 }
+
+export class CollectionViewDto {
+  @ApiPropertyOptional({
+    description: "Add each work's first line and the book's opening in this UI language where a translation exists",
+    enum: ['az', 'ru', 'en'],
+  })
+  @IsOptional()
+  @IsIn(['az', 'ru', 'en'])
+  incipit?: 'az' | 'ru' | 'en';
+}

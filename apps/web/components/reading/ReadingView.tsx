@@ -2,34 +2,54 @@
 
 import { useRef, useState, type CSSProperties } from 'react';
 import Link from 'next/link';
-import { useSearchParams } from 'next/navigation';
+import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useReadingPrefs, type ReadingFont } from '@/lib/useReadingPrefs';
-import { isArabicScript, langTag, lineCount, localeLang, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
+import { isArabicScript, langTag, lineCount, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 import { ReadingProgress } from './ReadingProgress';
 import { Pager } from './Pager';
 
-interface Translation {
+/** The translation set beside the original: only the one being read is sent to the browser */
+export interface ShownTranslation {
   id: string;
   language: string;
-  type: string;
-  body: string;
-  bodyHtml: string | null;
+  bodyHtml: string;
   translator: string | null;
   translatorNote: string | null;
   year: number | null;
   sourceNote?: string | null;
-  isDefault: boolean;
   scriptDirection: string;
+}
+
+/** A way to read the text: the original alone, or beside a translation in one language */
+export interface LangChoice {
+  /** 'original' or a language enum */
+  key: string;
+  href: string;
+  active: boolean;
+}
+
+/** One of several translations into the chosen language (different translators) */
+export interface VersionChoice {
+  id: string;
+  translator: string | null;
+  type: string;
+  year: number | null;
+  href: string;
+  active: boolean;
 }
 
 interface Props {
   body: string;
-  translations: Translation[];
+  /** Chosen on the server from `?lang=` / `?tr=`; switching is a navigation to the choice's href */
+  translation: ShownTranslation | null;
+  choices: LangChoice[];
+  versions: VersionChoice[];
+  /** The work has at least one translation, shown or not */
+  translated: boolean;
   originalLang: string;
   scriptDirection: string;
-  locale: string;
   genre: string;
   source: SourceInfo | null;
   suggestHref: string;
@@ -60,23 +80,14 @@ const readingFontValues: Record<ReadingFont, string> = {
   system: 'var(--font-system)',
 };
 
-/** Keep the chosen version in the URL so it can be shared and survives reloads */
-function syncUrl(patch: Record<string, string | null>) {
-  const url = new URL(window.location.href);
-  url.searchParams.delete('view');
-  for (const [key, value] of Object.entries(patch)) {
-    if (value) url.searchParams.set(key, value);
-    else url.searchParams.delete(key);
-  }
-  window.history.replaceState(window.history.state, '', url);
-}
-
 export function ReadingView({
   body,
-  translations,
+  translation,
+  choices,
+  versions,
+  translated,
   originalLang,
   scriptDirection,
-  locale,
   genre,
   source,
   suggestHref,
@@ -87,25 +98,7 @@ export function ReadingView({
 }: Props) {
   const t = useTranslations('reading');
   const tc = useTranslations('contribute.options');
-  const params = useSearchParams();
-
-  // The original is never hidden: choosing a translation sets it beside the original
-  const translationLangs = [...new Set(translations.map((tr) => tr.language))].filter(
-    (lang) => lang !== originalLang,
-  );
-  const choices = [ORIGINAL, ...translationLangs];
-
-  const [selectedLang, setSelectedLang] = useState<string>(() => {
-    const requested = params.get('lang');
-    if (requested && choices.includes(requested)) return requested;
-    const preferred = localeLang[locale];
-    if (preferred && translationLangs.includes(preferred)) return preferred;
-    const fallback = translations.find((tr) => tr.isDefault && tr.language !== originalLang)?.language;
-    return fallback ?? translationLangs[0] ?? ORIGINAL;
-  });
-
-  // A language can have several translations (different translators); default first
-  const [selectedId, setSelectedId] = useState<string | null>(() => params.get('tr'));
+  const router = useRouter();
 
   const { prefs, update: updatePrefs } = useReadingPrefs();
 
@@ -114,17 +107,11 @@ export function ReadingView({
   const textRef = useRef<HTMLDivElement>(null);
   const textId = 'work-text';
 
-  const versions = selectedLang === ORIGINAL ? [] : translations.filter((tr) => tr.language === selectedLang);
-  const translation =
-    versions.find((tr) => tr.id === selectedId) ??
-    versions.find((tr) => tr.isDefault) ??
-    versions[0] ??
-    null;
   // Where the translation itself comes from, e.g. the scanned book on Internet Archive
   const translationSource = sourceInfo(translation?.sourceNote);
 
   /** Translator's name, or the translation type when there is none; numbered if still ambiguous */
-  const versionLabel = (tr: Translation, i: number) => {
+  const versionLabel = (tr: VersionChoice, i: number) => {
     const base = tr.translator ?? tc(`ttype.${tr.type}` as any);
     const ambiguous = versions.some(
       (other) => other !== tr && (other.translator ?? tc(`ttype.${other.type}` as any)) === base,
@@ -153,19 +140,8 @@ export function ReadingView({
   // Prose is read straight through: paragraph style and alignment are the reader's
   const proseAttrs = isPoem ? {} : { 'data-paragraphs': prefs.paragraphs, 'data-align': prefs.align };
 
-  function chooseLang(next: string) {
-    setSelectedLang(next);
-    setSelectedId(null);
-    syncUrl({ lang: next === ORIGINAL ? null : next, tr: null });
-  }
-
-  function chooseVersion(id: string) {
-    setSelectedId(id);
-    syncUrl({ tr: id });
-  }
-
   const originalAttrs = { lang: originalTag, dir: originalDir } as const;
-  const translationHtml = translation ? translation.bodyHtml || translation.body : '';
+  const translationHtml = translation?.bodyHtml ?? '';
   const translationAttrs = translation
     ? ({ lang: langTag[translation.language], dir: translation.scriptDirection === 'RTL' ? 'rtl' : 'ltr' } as const)
     : null;
@@ -193,29 +169,38 @@ export function ReadingView({
       ? originalBlocks.map((block, i) => [block, translationBlocks[i]] as const)
       : null;
 
+  // Each choice is a link: the server sends the page with that translation, and only that one
   const control =
     choices.length > 1 &&
     (choices.length <= MAX_SEGMENTS ? (
       <div className="lang-tabs" role="group" aria-label={t('read_as')}>
         {choices.map((choice) => (
-          <button
-            key={choice}
-            type="button"
-            onClick={() => chooseLang(choice)}
-            className={`lang-tab${selectedLang === choice ? ' active' : ''}`}
-            aria-pressed={selectedLang === choice}
+          <Link
+            key={choice.key}
+            href={choice.href}
+            replace
+            scroll={false}
+            prefetch={false}
+            className={`lang-tab${choice.active ? ' active' : ''}`}
+            aria-current={choice.active ? 'true' : undefined}
           >
-            {langName(choice)}
-          </button>
+            {langName(choice.key)}
+          </Link>
         ))}
       </div>
     ) : (
       <label className="reading-select">
         <span>{t('read_as')}</span>
-        <select value={selectedLang} onChange={(e) => chooseLang(e.target.value)}>
+        <select
+          value={choices.find((choice) => choice.active)?.key ?? ORIGINAL}
+          onChange={(e) => {
+            const next = choices.find((choice) => choice.key === e.target.value);
+            if (next) router.replace(next.href, { scroll: false });
+          }}
+        >
           {choices.map((choice) => (
-            <option key={choice} value={choice}>
-              {langName(choice)}
+            <option key={choice.key} value={choice.key}>
+              {langName(choice.key)}
             </option>
           ))}
         </select>
@@ -248,7 +233,7 @@ export function ReadingView({
             {sections.map((section) => (
               <li key={section.id}>
                 {section.href ? (
-                  <Link href={section.href}>{section.text}</Link>
+                  <Link prefetch={false} href={section.href}>{section.text}</Link>
                 ) : (
                   <a href={`#${section.id}`}>{section.text}</a>
                 )}
@@ -263,15 +248,17 @@ export function ReadingView({
       {versions.length > 1 && translation && (
         <div className="lang-tabs lang-tabs--versions" role="group" aria-label={t('version_label')}>
           {versions.map((tr, i) => (
-            <button
+            <Link
               key={tr.id}
-              type="button"
-              onClick={() => chooseVersion(tr.id)}
-              className={`lang-tab${translation.id === tr.id ? ' active' : ''}`}
-              aria-pressed={translation.id === tr.id}
+              href={tr.href}
+              replace
+              scroll={false}
+              prefetch={false}
+              className={`lang-tab${tr.active ? ' active' : ''}`}
+              aria-current={tr.active ? 'true' : undefined}
             >
               {versionLabel(tr, i)}
-            </button>
+            </Link>
           ))}
         </div>
       )}
@@ -328,7 +315,6 @@ export function ReadingView({
 
       {pagination && <Pager place="bottom" {...pagination} />}
 
-      {(!pagination || pagination.page === pagination.pages) && <div className="tailpiece" aria-hidden="true">◆</div>}
 
       <footer className="provenance">
         <p>
@@ -375,9 +361,9 @@ export function ReadingView({
           </p>
         )}
         <p className="provenance-cta">
-          {translations.length === 0 && <span>{t('no_translation')} </span>}
-          <Link href={suggestHref}>
-            {translations.length > 0 ? t('no_translation_cta') : `${t('no_translation_cta')} →`}
+          {!translated && <span>{t('no_translation')} </span>}
+          <Link prefetch={false} href={suggestHref}>
+            {translated ? t('no_translation_cta') : `${t('no_translation_cta')} →`}
           </Link>
         </p>
       </footer>

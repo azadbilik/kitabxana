@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
+import { adminHeaders } from '@/lib/useAdminAuth';
 
 const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
@@ -10,7 +11,7 @@ export default function AdminWorksPage() {
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
-    fetch(`${API}/works?limit=100&all=true`)
+    fetch(`${API}/works?limit=100&all=true`, { headers: adminHeaders() })
       .then((r) => r.json())
       .then((data) => {
         setWorks(data.data ?? []);

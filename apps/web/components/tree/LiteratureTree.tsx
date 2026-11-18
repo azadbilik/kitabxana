@@ -195,7 +195,7 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
                       <ul className="tree-leaves">
                         {leaves.map((l) => l.kind === 'author' ? (
                           <li key={l.id} className={`leaf${l.gap ? ' leaf--gap' : ''}${l.works ? '' : ' leaf--empty'}`}>
-                            <Link href={localePath(locale, `/authors/${l.slug}`)} className="leaf-link">
+                            <Link prefetch={false} href={localePath(locale, `/authors/${l.slug}`)} className="leaf-link">
                               {l.works ? <Ring part={share(Math.min(progress?.[l.id]?.done ?? 0, l.works), l.works)} /> : <span className="leaf-ghost" aria-hidden="true" />}
                               <span className="leaf-name">{l.name}</span>
                               {l.years && <span className="leaf-years">{l.years}</span>}
@@ -234,7 +234,7 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
       <section className="tree-suggest">
         <h2>{t('suggest_title')}</h2>
         <p>{t('suggest_text')}</p>
-        <Link href={localePath(locale, '/contribute')} className="btn btn-primary btn-lg">{t('suggest_btn')}</Link>
+        <Link prefetch={false} href={localePath(locale, '/contribute')} className="btn btn-primary btn-lg">{t('suggest_btn')}</Link>
       </section>
     </>
   );

@@ -24,9 +24,10 @@ const defaults: ReadingPrefs = {
   fontSize: 1,
   width: 0,
   fontFamily: 'book',
-  // Prose is set like a book page by default, as LitRes does: indented and justified
+  // Prose is set like a book page by default: indented paragraphs. Ragged right, because no
+  // browser hyphenates Azerbaijani and a justified 36rem column opens rivers; justified is a choice
   paragraphs: 'indented',
-  align: 'justify',
+  align: 'start',
 };
 
 /** A saved choice, including the older 'serif' (now 'book') */

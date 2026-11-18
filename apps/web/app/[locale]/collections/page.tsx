@@ -82,18 +82,18 @@ export default async function BooksPage({ params, searchParams }: Props) {
 
       <div className="filter-bar books-filters">
         <div className="chip-row" role="group" aria-label={t('genre_label')}>
-          <Link href={booksHref(locale, { ...f, genre: undefined, page: 1 })} className={`pill ${!f.genre ? 'active' : ''}`} aria-current={!f.genre ? 'true' : undefined}>
+          <Link prefetch={false} href={booksHref(locale, { ...f, genre: undefined, page: 1 })} className={`pill ${!f.genre ? 'active' : ''}`} aria-current={!f.genre ? 'true' : undefined}>
             {t('all')}
           </Link>
           {GENRES.map((g) => (
-            <Link key={g} href={booksHref(locale, { ...f, genre: g, page: 1 })} className={`pill ${f.genre === g ? 'active' : ''}`} aria-current={f.genre === g ? 'true' : undefined}>
+            <Link prefetch={false} key={g} href={booksHref(locale, { ...f, genre: g, page: 1 })} className={`pill ${f.genre === g ? 'active' : ''}`} aria-current={f.genre === g ? 'true' : undefined}>
               {options(`genre.${g}` as any)}
             </Link>
           ))}
         </div>
         <div className="chip-row" role="group" aria-label={t('century_label')}>
           {CENTURIES.map((c) => (
-            <Link
+            <Link prefetch={false}
               key={c}
               href={booksHref(locale, { ...f, century: f.century === c ? undefined : c, page: 1 })}
               className={`pill pill--century ${f.century === c ? 'active' : ''}`}
@@ -105,7 +105,7 @@ export default async function BooksPage({ params, searchParams }: Props) {
         </div>
         <div className="chip-row" role="group" aria-label={t('sort_label')}>
           {SORTS.map((s) => (
-            <Link key={s} href={booksHref(locale, { ...f, sort: s, page: 1 })} className={`pill ${f.sort === s ? 'active' : ''}`} aria-current={f.sort === s ? 'true' : undefined}>
+            <Link prefetch={false} key={s} href={booksHref(locale, { ...f, sort: s, page: 1 })} className={`pill ${f.sort === s ? 'active' : ''}`} aria-current={f.sort === s ? 'true' : undefined}>
               {sortLabel[s]}
             </Link>
           ))}

@@ -1,4 +1,4 @@
-import { BadRequestException, Controller, Get, Header, Param, Query, Res, UseGuards } from '@nestjs/common';
+import { BadRequestException, Controller, Get, Param, Query, Res, UseGuards } from '@nestjs/common';
 import { ApiQuery, ApiTags } from '@nestjs/swagger';
 import { Throttle } from '@nestjs/throttler';
 import type { Response } from 'express';
@@ -17,6 +17,8 @@ function parseFormat(format?: string): DownloadFormat {
 
 function send(res: Response, file: DownloadFile) {
   res.set({
+    // Set here, once the file exists: a 403 or 404 must not be cached as the download
+    'Cache-Control': 'public, max-age=3600',
     'Content-Type': file.contentType,
     'Content-Disposition': `attachment; filename="${file.filename}"`,
     'Content-Length': String(file.body.length),
@@ -34,7 +36,6 @@ export class DownloadsController {
 
   @Public()
   @Get('works/:slug/download')
-  @Header('Cache-Control', 'public, max-age=3600')
   @ApiQuery({ name: 'format', enum: DOWNLOAD_FORMATS, required: false })
   async work(@Param('slug') slug: string, @Query('format') format: string | undefined, @Res() res: Response) {
     send(res, await this.downloads.work(slug, parseFormat(format)));
@@ -42,7 +43,6 @@ export class DownloadsController {
 
   @Public()
   @Get('collections/:slug/download')
-  @Header('Cache-Control', 'public, max-age=3600')
   @ApiQuery({ name: 'format', enum: DOWNLOAD_FORMATS, required: false })
   async collection(@Param('slug') slug: string, @Query('format') format: string | undefined, @Res() res: Response) {
     send(res, await this.downloads.collection(slug, parseFormat(format)));
@@ -50,7 +50,6 @@ export class DownloadsController {
 
   @Public()
   @Get('authors/:slug/download')
-  @Header('Cache-Control', 'public, max-age=3600')
   @Throttle({ default: { limit: 6, ttl: 60_000 } })
   @ApiQuery({ name: 'format', enum: DOWNLOAD_FORMATS, required: false })
   async author(@Param('slug') slug: string, @Query('format') format: string | undefined, @Res() res: Response) {

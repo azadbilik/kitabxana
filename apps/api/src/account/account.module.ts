@@ -5,12 +5,13 @@ import { LoginCodeService } from './login-code.service';
 import { MailService } from './mail.service';
 import { GoogleService } from './google.service';
 import { ReadersService } from './readers.service';
+import { EmailThrottlerGuard } from './email-throttler.guard';
 import { MeController, ReaderAuthController } from './account.controller';
 
 /** Reader accounts: cookie sessions, sign-in by emailed code or Google, the reader's profile */
 @Module({
   controllers: [ReaderAuthController, MeController],
-  providers: [SessionService, SessionGuard, CsrfGuard, LoginCodeService, MailService, GoogleService, ReadersService],
+  providers: [SessionService, SessionGuard, CsrfGuard, LoginCodeService, MailService, GoogleService, ReadersService, EmailThrottlerGuard],
   exports: [SessionService, SessionGuard],
 })
 export class AccountModule {}

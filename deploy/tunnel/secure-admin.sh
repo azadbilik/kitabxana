@@ -1,6 +1,8 @@
 #!/usr/bin/env bash
-# Replaces the seeded admin password (admin123) with a random one, then builds the
-# search index. Run after loading data, before sharing the tunnel URL.
+# Gives admin@irs.az a new random password, then starts a rebuild of the search index
+# (it runs in the background: GET /api/search/reindex shows progress). Run after loading
+# data, before sharing the tunnel URL. The last line checks that the seed's development
+# password no longer signs in.
 set -euo pipefail
 cd "$(dirname "$0")"
 

@@ -355,7 +355,9 @@ model Translation {
   updatedAt DateTime @updatedAt
 
   // Several translations per language are allowed (different translators);
-  // isDefault marks the one shown first, at most one per work + language
+  // isDefault marks the one shown first, at most one per work + language: a partial unique
+  // index ("Translation_workId_language_default_key" … WHERE "isDefault") created in migration
+  // 20261118100000_translation_one_default, which Prisma's schema cannot express
   @@index([workId, language])
   @@index([workId])
   @@index([language])

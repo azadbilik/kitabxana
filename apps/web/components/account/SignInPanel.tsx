@@ -3,15 +3,18 @@
 import { useEffect, useRef, useState, type FormEvent } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import { accountFetch, AccountError, googleStartUrl, type Me } from '@/lib/account';
+import { localePath } from '@/lib/i18n';
+import { useAccount } from './AccountProvider';
 
 /**
  * Sign-in: "Continue with Google" (when the server has it configured) or an emailed 6-digit
- * code. Used inside the dialog and on the /giris page.
+ * code. Used inside the dialog and on the /giris page. When the server can complete neither
+ * (no mail key, no Google), it says sign-in is coming instead of showing a form that can't work.
  */
 export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) => void; headingId?: string }) {
   const t = useTranslations('account');
   const locale = useLocale();
-  const [google, setGoogle] = useState(false);
+  const { providers, loadProviders } = useAccount();
   const [step, setStep] = useState<'email' | 'code'>('email');
   const [email, setEmail] = useState('');
   const [code, setCode] = useState('');
@@ -20,9 +23,9 @@ export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) =>
   const codeRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
-    accountFetch<{ google: boolean }>('/auth/providers').then((p) => setGoogle(p.google)).catch(() => {});
+    loadProviders();
     if (location.hash === '#google-failed') setError(t('google_failed'));
-  }, [t]);
+  }, [t, loadProviders]);
 
   useEffect(() => {
     if (step === 'code') codeRef.current?.focus();
@@ -59,14 +62,32 @@ export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) =>
     }
   };
 
-  const returnTo = typeof window === 'undefined' ? '/' : location.pathname === '/giris' ? '/' : location.pathname + location.search;
+  // From the sign-in page itself (in any language) Google returns to the shelf, as the email path does
+  const returnTo =
+    typeof window === 'undefined'
+      ? '/'
+      : location.pathname === localePath(locale, '/giris')
+        ? localePath(locale, '/refim')
+        : location.pathname + location.search;
+
+  if (providers && !providers.google && !providers.email) {
+    return (
+      <div className="signin">
+        <h2 className="signin-title" id={headingId}>{t('soon_title')}</h2>
+        <p className="signin-lead">{t('soon_lead')}</p>
+        <p className="signin-note">{t('soon_note')}</p>
+      </div>
+    );
+  }
 
   return (
     <div className="signin">
       <h2 className="signin-title" id={headingId}>{t('title')}</h2>
       <p className="signin-lead">{t('lead')}</p>
 
-      {google && step === 'email' && (
+      {!providers && <div className="signin-pending" aria-busy="true" />}
+
+      {providers?.google && step === 'email' && (
         <>
           <a className="btn signin-google" href={googleStartUrl(returnTo)}>
             <svg aria-hidden="true" width="18" height="18" viewBox="0 0 48 48">
@@ -77,11 +98,11 @@ export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) =>
             </svg>
             {t('google')}
           </a>
-          <p className="signin-or"><span>{t('or')}</span></p>
+          {providers.email && <p className="signin-or"><span>{t('or')}</span></p>}
         </>
       )}
 
-      {step === 'email' ? (
+      {!providers?.email ? null : step === 'email' ? (
         <form className="signin-form" onSubmit={sendCode}>
           <label htmlFor="signin-email" className="form-label">{t('email_label')}</label>
           <input

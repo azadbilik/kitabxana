@@ -39,15 +39,15 @@ export default async function ContributePage({ params, searchParams }: Props) {
     .sort((a, b) => a.name.localeCompare(b.name, locale));
 
   const initialWork: WorkOption | null = work
-    ? { id: work.id, title: work.titleAz, authorName: work.author.nameAz }
+    ? { id: work.id, title: localized(work, 'title', locale) ?? work.titleAz, authorName: localized(work.author, 'name', locale) ?? work.author.nameAz }
     : null;
 
   return (
     <div className="container page-content">
-      <header className="page-header">
+      <header className="page-header page-header--top">
         <h1>{t('title')}</h1>
       </header>
-      <div className="ornament" />
+      <div className="ornament" aria-hidden="true" />
       <div className="contribute-column">
         <p className="contribute-intro">{t('intro')}</p>
         <details className="contribute-guide">

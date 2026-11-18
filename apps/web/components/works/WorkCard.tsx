@@ -1,6 +1,7 @@
 import Link from 'next/link';
 import type { ReactNode } from 'react';
 import { isArabicScript, langTag } from '@/lib/verse';
+import { scriptAttrs } from '@/lib/script';
 
 export interface Incipit {
   lines: string[];
@@ -29,13 +30,14 @@ interface Props {
   title: string;
   incipit?: Incipit | null;
   meta?: ReactNode;
+  /** The work's original language, for a title in Arabic script */
+  originalLang?: string | null;
 }
 
-export function WorkCard({ href, title, incipit, meta }: Props) {
-  const titleArabic = isArabicScript(title);
+export function WorkCard({ href, title, incipit, meta, originalLang }: Props) {
   return (
-    <Link href={href} className="card-item work-card">
-      <span className="work-card-title" {...(titleArabic && { lang: 'fa', dir: 'rtl' })}>{title}</span>
+    <Link prefetch={false} href={href} className="card-item work-card">
+      <span className="work-card-title" {...scriptAttrs(title, originalLang)}>{title}</span>
       {incipit && <IncipitLines incipit={incipit} />}
       {meta && <span className="meta-strip work-card-meta">{meta}</span>}
     </Link>

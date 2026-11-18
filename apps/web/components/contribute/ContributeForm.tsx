@@ -1,8 +1,9 @@
 'use client';
 
 import { ComponentProps, ReactNode, useEffect, useState } from 'react';
-import { useTranslations } from 'next-intl';
+import { useLocale, useTranslations } from 'next-intl';
 import { api, ApiError, PublicSubmission } from '@/lib/api';
+import { localized } from '@/lib/locale';
 
 type Kind = PublicSubmission['type'];
 
@@ -61,6 +62,7 @@ function WorkPicker({ authors, value, onChange }: {
   onChange: (work: WorkOption | null) => void;
 }) {
   const t = useTranslations('contribute');
+  const locale = useLocale();
   const [authorSlug, setAuthorSlug] = useState('');
   const [query, setQuery] = useState('');
   const [results, setResults] = useState<WorkOption[] | null>(null);
@@ -79,14 +81,18 @@ function WorkPicker({ authors, value, onChange }: {
       const res = (await api.getWorks(params).catch(() => null)) as { data: any[] } | null;
       if (cancelled) return;
       setResults(
-        (res?.data ?? []).map((w) => ({ id: w.id, title: w.titleAz, authorName: w.author.nameAz })),
+        (res?.data ?? []).map((w) => ({
+          id: w.id,
+          title: localized(w, 'title', locale) ?? w.titleAz,
+          authorName: localized(w.author, 'name', locale) ?? w.author.nameAz,
+        })),
       );
     }, 250);
     return () => {
       cancelled = true;
       clearTimeout(timer);
     };
-  }, [authorSlug, query]);
+  }, [authorSlug, query, locale]);
 
   if (value) {
     return (

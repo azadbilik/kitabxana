@@ -7,12 +7,9 @@ import { setBookStatus, useLoadMarks, useMarks, type BookStatus } from '@/lib/li
 import { localePath } from '@/lib/i18n';
 import { SaveButton } from './SaveButton';
 import { ListPopover } from './ListPopover';
+import { BookProgress, bookPlace, type BookPart } from './BookProgress';
 
-export interface BookPart {
-  id: string;
-  slug: string;
-  title: string;
-}
+export type { BookPart };
 
 const STATUSES: BookStatus[] = ['WANT', 'READING', 'DONE'];
 
@@ -27,13 +24,7 @@ export function BookActions({ collectionId, parts }: { collectionId: string; par
   const marks = useMarks();
   useLoadMarks(account === 'signed-in', { collectionIds: [collectionId], workIds: parts.map((p) => p.id) });
 
-  const book = marks.books[collectionId];
-  const doneCount = parts.filter((p) => marks.works[p.id]?.status === 'DONE').length;
-  // Continue at the part last opened, else the first part not yet read
-  const last = book?.lastWorkId ? parts.find((p) => p.id === book.lastWorkId) : undefined;
-  const lastDone = last && marks.works[last.id]?.status === 'DONE';
-  const next = (last && !lastDone ? last : parts.find((p) => marks.works[p.id]?.status !== 'DONE')) ?? parts[0];
-  const started = Boolean(book?.lastWorkId) || doneCount > 0;
+  const { book, next, started } = bookPlace(parts, marks, collectionId);
 
   const choose = (s: BookStatus) =>
     requireSignIn(() => {
@@ -44,7 +35,7 @@ export function BookActions({ collectionId, parts }: { collectionId: string; par
   return (
     <div className="book-actions">
       {next && (
-        <Link href={localePath(locale, `/works/${next.slug}`)} className="btn btn-primary btn-lg book-start">
+        <Link prefetch={false} href={localePath(locale, `/works/${next.slug}`)} className="btn btn-primary btn-lg book-start">
           {started && book?.status !== 'DONE' ? (
             <>
               {t('continue')}
@@ -73,14 +64,8 @@ export function BookActions({ collectionId, parts }: { collectionId: string; par
       <SaveButton kind="book" id={collectionId} />
       <ListPopover collectionId={collectionId} />
 
-      {account === 'signed-in' && doneCount > 0 && (
-        <p className="book-progress">
-          <span className="book-progress-bar" aria-hidden="true">
-            <span style={{ width: `${Math.round((doneCount / parts.length) * 100)}%` }} />
-          </span>
-          {t('parts_read', { done: doneCount, total: parts.length })}
-        </p>
-      )}
+      {/* The button above already names the part to continue with */}
+      <BookProgress collectionId={collectionId} parts={parts} link={false} />
     </div>
   );
 }

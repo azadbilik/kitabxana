@@ -5,6 +5,7 @@ import { useCallback, useEffect, useState, type FormEvent } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import { useAccount } from '@/components/account/AccountProvider';
 import { BookCover } from '@/components/works/BookCover';
+import { listError } from './ListPopover';
 import { ShelfItem } from '@/components/works/Shelf';
 import { accountFetch } from '@/lib/account';
 import { localized } from '@/lib/locale';
@@ -41,8 +42,18 @@ export function ListsPage() {
   const [detail, setDetail] = useState<ListDetail | null>(null);
   const [name, setName] = useState('');
   const [rename, setRename] = useState<string | null>(null);
+  const [error, setError] = useState<string | null>(null);
 
-  const load = useCallback(() => accountFetch<ListRow[]>('/me/lists').then(setLists).catch(() => setLists([])), []);
+  const load = useCallback(
+    () =>
+      accountFetch<ListRow[]>('/me/lists')
+        .then(setLists)
+        .catch(() => {
+          setLists((known) => known ?? []);
+          setError(t('load_failed'));
+        }),
+    [t],
+  );
 
   useEffect(() => {
     const read = () => setOpenId(location.hash.slice(1) || null);
@@ -58,8 +69,16 @@ export function ListsPage() {
   useEffect(() => {
     setDetail(null);
     setRename(null);
+    setError(null);
     if (status !== 'signed-in' || !openId) return;
-    accountFetch<ListDetail>(`/me/lists/${encodeURIComponent(openId)}`).then(setDetail).catch(() => (location.hash = ''));
+    // Opening another list before this one answers must not show the first one under its URL
+    let live = true;
+    accountFetch<ListDetail>(`/me/lists/${encodeURIComponent(openId)}`)
+      .then((d) => live && setDetail(d))
+      .catch(() => live && (location.hash = ''));
+    return () => {
+      live = false;
+    };
   }, [status, openId]);
 
   if (status === 'unknown') return <div className="shelf-page-loading" aria-busy="true" />;
@@ -75,27 +94,50 @@ export function ListsPage() {
   const create = async (e: FormEvent) => {
     e.preventDefault();
     if (!name.trim()) return;
-    await accountFetch('/me/lists', { method: 'POST', body: JSON.stringify({ name: name.trim() }) }).catch(() => {});
+    setError(null);
+    try {
+      await accountFetch('/me/lists', { method: 'POST', body: JSON.stringify({ name: name.trim() }) });
+    } catch (err) {
+      setError(listError(err, 'list', t));
+      return;
+    }
     setName('');
     load();
   };
 
   if (openId && detail) {
     const removeItem = async (itemId: string) => {
+      const before = detail.items;
+      setError(null);
       setDetail((d) => (d ? { ...d, items: d.items.filter((i) => i.id !== itemId) } : d));
-      await accountFetch(`/me/lists/${detail.id}/items/${itemId}`, { method: 'DELETE' }).catch(() => {});
+      try {
+        await accountFetch(`/me/lists/${detail.id}/items/${itemId}`, { method: 'DELETE' });
+      } catch {
+        setDetail((d) => (d && d.id === detail.id ? { ...d, items: before } : d));
+        setError(t('failed'));
+      }
     };
     const saveName = async (e: FormEvent) => {
       e.preventDefault();
       if (!rename?.trim()) return;
+      setError(null);
       const r = await accountFetch<{ name: string }>(`/me/lists/${detail.id}`, { method: 'PATCH', body: JSON.stringify({ name: rename.trim() }) }).catch(() => null);
-      if (r) setDetail({ ...detail, name: r.name });
+      if (!r) {
+        setError(t('failed'));
+        return;
+      }
+      setDetail({ ...detail, name: r.name });
       setRename(null);
       load();
     };
     const removeList = async () => {
       if (!window.confirm(t('delete_confirm', { name: detail.name }))) return;
-      await accountFetch(`/me/lists/${detail.id}`, { method: 'DELETE' }).catch(() => {});
+      try {
+        await accountFetch(`/me/lists/${detail.id}`, { method: 'DELETE' });
+      } catch {
+        setError(t('failed'));
+        return;
+      }
       location.hash = '';
       load();
     };
@@ -120,6 +162,8 @@ export function ListsPage() {
           </form>
         )}
 
+        <p className="form-alert" role="alert">{error}</p>
+
         {detail.items.length === 0 && <div className="shelf-empty"><p>{t('empty_list')}</p></div>}
 
         {books.length > 0 && (
@@ -141,7 +185,7 @@ export function ListsPage() {
               {works.map((i) =>
                 i.type === 'work' ? (
                   <li key={i.id} className="list-item list-item--work">
-                    <Link href={localePath(locale, `/works/${i.work.slug}`)} className="shelf-work">
+                    <Link prefetch={false} href={localePath(locale, `/works/${i.work.slug}`)} className="shelf-work">
                       <span className="shelf-work-title">{localized(i.work, 'title', locale) ?? i.work.titleAz}</span>
                       <span className="shelf-work-meta">{localized(i.work.author, 'name', locale)}</span>
                     </Link>
@@ -164,6 +208,7 @@ export function ListsPage() {
           <input id="list-new" className="form-input" maxLength={80} placeholder={t('new_placeholder')} value={name} onChange={(e) => setName(e.target.value)} />
           <button type="submit" className="btn btn-primary" disabled={!name.trim()}>{t('create')}</button>
         </div>
+        <p className="form-alert" role="alert">{error}</p>
       </form>
 
       {lists === null ? (

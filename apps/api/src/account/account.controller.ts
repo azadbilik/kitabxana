@@ -4,10 +4,12 @@ import { ApiTags } from '@nestjs/swagger';
 import { Throttle } from '@nestjs/throttler';
 import type { Request, Response } from 'express';
 import { ClientIpThrottlerGuard } from '../common/guards/client-ip-throttler.guard';
+import { EmailThrottlerGuard } from './email-throttler.guard';
 import { CurrentUser } from '../common/decorators/current-user.decorator';
 import { SessionService, type SessionUser } from './session.service';
 import { CsrfGuard, SessionGuard } from './session.guard';
 import { LoginCodeService } from './login-code.service';
+import { MailService } from './mail.service';
 import { GoogleService } from './google.service';
 import { ReadersService } from './readers.service';
 import { EmailStartDto, EmailVerifyDto, UpdateMeDto } from './dto';
@@ -21,13 +23,14 @@ export class ReaderAuthController {
     private codes: LoginCodeService,
     private google: GoogleService,
     private readers: ReadersService,
+    private mail: MailService,
     private config: ConfigService,
   ) {}
 
   /** Which sign-in methods the page should offer */
   @Get('providers')
   providers() {
-    return { google: this.google.enabled, email: true };
+    return { google: this.google.enabled, email: this.mail.canDeliver };
   }
 
   @Post('email/start')
@@ -39,7 +42,7 @@ export class ReaderAuthController {
   }
 
   @Post('email/verify')
-  @UseGuards(CsrfGuard, ClientIpThrottlerGuard)
+  @UseGuards(CsrfGuard, ClientIpThrottlerGuard, EmailThrottlerGuard)
   @Throttle({ default: { limit: 20, ttl: 10 * 60_000 } })
   async emailVerify(@Body() dto: EmailVerifyDto, @Req() req: Request, @Res({ passthrough: true }) res: Response) {
     const email = await this.codes.verify(dto.email, dto.code);

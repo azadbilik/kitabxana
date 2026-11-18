@@ -1,4 +1,4 @@
-import { Injectable, BadRequestException } from '@nestjs/common';
+import { Injectable, BadRequestException, ConflictException } from '@nestjs/common';
 import { Language, Prisma, SubmissionStatus, SubmissionType } from '@prisma/client';
 import { ClassConstructor, instanceToPlain, plainToInstance } from 'class-transformer';
 import { validate } from 'class-validator';
@@ -8,6 +8,7 @@ import { WorksService } from '../works/works.service';
 import { TranslationsService } from '../translations/translations.service';
 import { SearchService } from '../search/search.service';
 import { CreateSubmissionDto } from './dto/create-submission.dto';
+import { RTL_LANGUAGES } from '@irs-az/shared';
 import {
   AuthorPayload,
   PublicSubmissionDto,
@@ -22,7 +23,13 @@ const payloadClasses: Record<SubmissionType, ClassConstructor<object>> = {
   AUTHOR: AuthorPayload,
 };
 
-const RTL_LANGUAGES: Language[] = ['FA', 'AR', 'AZ_ARABIC'];
+interface Payloads {
+  WORK: WorkPayload;
+  TRANSLATION: TranslationPayload;
+  AUTHOR: AuthorPayload;
+}
+
+const REVIEWABLE: SubmissionStatus[] = ['PENDING', 'CHANGES_REQUESTED'];
 
 @Injectable()
 export class SubmissionsService {
@@ -34,31 +41,26 @@ export class SubmissionsService {
     private search: SearchService,
   ) {}
 
-  async create(dto: CreateSubmissionDto, userId: string) {
-    return this.prisma.submission.create({
-      data: {
-        type: dto.type,
-        payload: dto.payload as Prisma.InputJsonValue,
-        sourceNote: dto.sourceNote,
-        userId,
-      },
-    });
-  }
-
   /**
-   * Public submissions are untrusted: the payload is validated against a strict
-   * per-type shape, since approval spreads it straight into a Prisma create.
+   * Submissions are untrusted, signed in or not: the payload must fit a strict per-type
+   * shape. `strict` (when one is sent) refuses unknown keys; at approval the stored payload
+   * is checked again and unknown keys are only dropped, since older rows carry derived ones.
    */
-  async createPublic(dto: PublicSubmissionDto) {
-    const instance = plainToInstance(payloadClasses[dto.type], dto.payload);
-    const errors = await validate(instance, { whitelist: true, forbidNonWhitelisted: true });
+  private async cleanPayload<T extends SubmissionType>(type: T, raw: unknown, strict: boolean): Promise<Payloads[T]> {
+    if (!raw || typeof raw !== 'object' || Array.isArray(raw)) throw new BadRequestException('payload must be an object');
+    const instance = plainToInstance(payloadClasses[type], raw);
+    const errors = await validate(instance, { whitelist: true, forbidNonWhitelisted: strict });
     if (errors.length) {
       throw new BadRequestException(
         errors.flatMap((e) => Object.values(e.constraints ?? {}).map((m) => `payload.${m}`)),
       );
     }
-    const payload: Record<string, unknown> = instanceToPlain(instance);
+    return instance as Payloads[T];
+  }
 
+  /** The payload as stored: validated fields, plus what the review screen shows alongside */
+  private async storedPayload(dto: { type: SubmissionType; payload: unknown; sourceNote?: string }) {
+    const payload: Record<string, unknown> = instanceToPlain(await this.cleanPayload(dto.type, dto.payload, true));
     if (dto.type === 'WORK') {
       await this.assertExists('author', payload.authorId as string);
       payload.scriptDirection = RTL_LANGUAGES.includes(payload.originalLang as Language) ? 'RTL' : 'LTR';
@@ -68,11 +70,25 @@ export class SubmissionsService {
       payload.scriptDirection = RTL_LANGUAGES.includes(payload.language as Language) ? 'RTL' : 'LTR';
     }
     if (dto.type !== 'AUTHOR' && dto.sourceNote) payload.sourceNote = dto.sourceNote;
+    return payload as Prisma.InputJsonValue;
+  }
 
+  async create(dto: CreateSubmissionDto, userId: string) {
     return this.prisma.submission.create({
       data: {
         type: dto.type,
-        payload: payload as Prisma.InputJsonValue,
+        payload: await this.storedPayload(dto),
+        sourceNote: dto.sourceNote,
+        userId,
+      },
+    });
+  }
+
+  async createPublic(dto: PublicSubmissionDto) {
+    return this.prisma.submission.create({
+      data: {
+        type: dto.type,
+        payload: await this.storedPayload(dto),
         sourceNote: dto.sourceNote,
         contactName: dto.contactName.trim(),
         contactEmail: dto.contactEmail.trim().toLowerCase(),
@@ -133,43 +149,43 @@ export class SubmissionsService {
   /**
    * Approving publishes the new author, work or translation right away: the review is
    * the editorial check. Pass `publish: false` to create it as a draft instead.
+   *
+   * One transaction: the submission is first claimed with a conditional UPDATE, so of two
+   * approvals sent at once only one creates anything, and a failed create releases the claim.
    */
   async approve(id: string, reviewerId: string, { publish = true } = {}) {
     const sub = await this.assertReviewable(id);
-    const payload = sub.payload as Record<string, unknown>;
     const reviewed = { status: 'APPROVED' as const, reviewedById: reviewerId, reviewedAt: new Date() };
 
-    switch (sub.type) {
-      case 'AUTHOR': {
-        const author = await this.authors.createFromPayload(payload, { publish });
-        await this.prisma.submission.update({ where: { id }, data: { ...reviewed, authorId: author.id } });
-        return { type: sub.type, slug: author.slug, published: publish };
-      }
-      case 'WORK': {
-        const work = await this.works.createFromPayload(payload, { publish });
-        await this.prisma.submission.update({ where: { id }, data: { ...reviewed, workId: work.id } });
-        if (publish) await this.reindex(work.id);
-        return { type: sub.type, slug: work.slug, published: publish };
-      }
-      case 'TRANSLATION': {
-        const translation = await this.translations.createFromPayload(payload, id, { publish });
-        await this.prisma.submission.update({ where: { id }, data: reviewed });
-        // The work's search entry includes its published translations
-        if (publish) await this.reindex(translation.workId);
-        const work = await this.prisma.work.findUniqueOrThrow({
-          where: { id: translation.workId },
-          select: { slug: true },
-        });
-        return { type: sub.type, slug: work.slug, translationId: translation.id, published: publish };
-      }
-    }
-  }
+    const result = await this.prisma.$transaction(async (tx) => {
+      const claimed = await tx.submission.updateMany({ where: { id, status: { in: REVIEWABLE } }, data: reviewed });
+      if (claimed.count !== 1) throw new ConflictException('Submission was already reviewed');
+      const options = { publish, sourceNote: sub.sourceNote };
 
-  /** Search is secondary: an unreachable Meilisearch must not fail an approval that already saved. */
-  private async reindex(workId: string) {
-    await this.search.indexWork(workId).catch((err) => {
-      console.warn(`Search reindex failed for work ${workId}: ${err.message}`);
+      switch (sub.type) {
+        case 'AUTHOR': {
+          const author = await this.authors.createFromPayload(await this.cleanPayload('AUTHOR', sub.payload, false), options, tx);
+          await tx.submission.update({ where: { id }, data: { authorId: author.id } });
+          return { type: sub.type, slug: author.slug, published: publish };
+        }
+        case 'WORK': {
+          const work = await this.works.createFromPayload(await this.cleanPayload('WORK', sub.payload, false), options, tx);
+          await tx.submission.update({ where: { id }, data: { workId: work.id } });
+          return { type: sub.type, slug: work.slug, published: publish, reindex: work.id };
+        }
+        case 'TRANSLATION': {
+          const payload = await this.cleanPayload('TRANSLATION', sub.payload, false);
+          const translation = await this.translations.createFromPayload(payload, id, options, tx);
+          const work = await tx.work.findUniqueOrThrow({ where: { id: translation.workId }, select: { slug: true } });
+          // The work's search entry includes its published translations
+          return { type: sub.type, slug: work.slug, translationId: translation.id, published: publish, reindex: translation.workId };
+        }
+      }
     });
+
+    const { reindex, ...answer } = result as typeof result & { reindex?: string };
+    if (publish && reindex) await this.search.reindexQuietly(reindex);
+    return answer;
   }
 
   private async assertReviewable(id: string) {
@@ -178,6 +194,13 @@ export class SubmissionsService {
       throw new BadRequestException('Submission is not reviewable');
     }
     return sub;
+  }
+
+  /** A review decision, applied only while the submission is still open (an approval may have just landed) */
+  private async review(id: string, data: Prisma.SubmissionUncheckedUpdateManyInput) {
+    const done = await this.prisma.submission.updateMany({ where: { id, status: { in: REVIEWABLE } }, data });
+    if (done.count !== 1) throw new ConflictException('Submission was already reviewed');
+    return this.prisma.submission.findUniqueOrThrow({ where: { id } });
   }
 
   private cleanNote(reviewNote: unknown) {
@@ -189,15 +212,12 @@ export class SubmissionsService {
   async reject(id: string, reviewerId: string, reviewNote?: unknown) {
     await this.assertReviewable(id);
     const note = this.cleanNote(reviewNote);
-    return this.prisma.submission.update({
-      where: { id },
-      data: {
-        status: 'REJECTED',
-        // Without a new note, keep the one from an earlier "request changes"
-        ...(note && { reviewNote: note }),
-        reviewedById: reviewerId,
-        reviewedAt: new Date(),
-      },
+    return this.review(id, {
+      status: 'REJECTED',
+      // Without a new note, keep the one from an earlier "request changes"
+      ...(note && { reviewNote: note }),
+      reviewedById: reviewerId,
+      reviewedAt: new Date(),
     });
   }
 
@@ -206,14 +226,11 @@ export class SubmissionsService {
     await this.assertReviewable(id);
     const note = this.cleanNote(reviewNote);
     if (!note) throw new BadRequestException('A review note is required when requesting changes');
-    return this.prisma.submission.update({
-      where: { id },
-      data: {
-        status: 'CHANGES_REQUESTED',
-        reviewNote: note,
-        reviewedById: reviewerId,
-        reviewedAt: new Date(),
-      },
+    return this.review(id, {
+      status: 'CHANGES_REQUESTED',
+      reviewNote: note,
+      reviewedById: reviewerId,
+      reviewedAt: new Date(),
     });
   }
 }

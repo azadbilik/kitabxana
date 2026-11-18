@@ -7,6 +7,7 @@ import { RolesGuard } from '../common/guards/roles.guard';
 import { TagsService } from './tags.service';
 import { BulkTagDto } from './dto/bulk-tag.dto';
 import { Public } from '../common/decorators/public.decorator';
+import { PublicCache } from '../common/interceptors/public-cache.interceptor';
 
 @ApiTags('Tags')
 @Controller('tags')
@@ -14,6 +15,7 @@ export class TagsController {
   constructor(private tags: TagsService) {}
 
   @Public()
+  @PublicCache()
   @Get()
   findAll() {
     return this.tags.findAll();
@@ -63,6 +65,7 @@ export class TagsController {
   }
 
   @Public()
+  @PublicCache()
   @Get(':slug')
   findOne(@Param('slug') slug: string) {
     return this.tags.findBySlug(slug);

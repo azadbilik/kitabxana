@@ -25,10 +25,11 @@ Kitabxana.az is a non-commercial portal for Azerbaijani literary and cultural he
 
 ## Operating Context
 
-- UI languages: az (default), ru, en via `/az`, `/ru`, `/en`. There is no Persian UI locale; Persian appears as content.
+- UI languages: az (default, no URL prefix), ru (`/ru`), en (`/en`). There is no Persian UI locale; Persian appears as content.
 - Public surfaces: home (poet of the week, poem of the day, themes, centuries and forms, a section catalogue with real counts, recent additions), author index and profiles (with manuscript pages and miniatures), works index, the reading page, collection tables of contents, theme tag pages (`/tags`, `/tags/<tag>/muellif-<author>`), blog, search (Meilisearch).
-- Filter pages have readable Azerbaijani URLs in every UI language (`/az/works/muellif-fuzuli/forma-qezel`, `/az/authors/sairler/esr-12`); the vocabulary lives in `apps/web/lib/facets.ts` and is public, so values are never renamed in place.
+- Filter pages have readable Azerbaijani URLs in every UI language (`/works/muellif-fuzuli/forma-qezel`, `/authors/sairler/esr-12`); the vocabulary lives in `apps/web/lib/facets.ts` and is public, so values are never renamed in place.
 - The reading page ends with share (Telegram, WhatsApp, Facebook, copy link, the device share sheet) and print, more by the author, and other poets' poems on the same theme. Texts over 40 lines open folded.
+- Reader accounts (optional): sign-in by emailed code or Google, no passwords. A reader can save works, mark them read, keep a reading position, shelve books (want / reading / read) and keep private lists at `/refim`. Everything per reader loads in the browser; the pages themselves stay the same for everyone.
 - Admin: editors manage authors, works, collections, translations and blog posts, review submissions, and confirm, remove or bulk-assign theme tags (school use, "Məktəb üçün", is assigned only by hand). Roles: SUPERADMIN, EDITOR, CONTRIBUTOR, READER. Registration is public; contributors and above can submit.
 - Theme, mood, audience and era tags are first assigned by keyword rules (`packages/parser` `tag-works`); an editor's confirmation or removal is kept when the rules run again.
 - The corpus is imported by `packages/parser` from az/ru Wikisource, Wikipedia (author bios) and Ganjoor, then edited.
@@ -41,20 +42,18 @@ Kitabxana.az is a non-commercial portal for Azerbaijani literary and cultural he
 - Content languages: AZ (Latin, Arabic, Cyrillic scripts), FA, AR, RU, EN, TR.
 - **Non-commercial.** No ads, paywalls, monetization surfaces or tracking-heavy features.
 - **Source attribution is required.** Every text and translation shows its source (e.g. Wikisource, Ganjoor) and its translator. Licensing must be visible.
-- **Persian RTL is first-class.** Persian originals are most of the corpus (3,181 of 5,047 published works in October 2026), so RTL rendering must be as good as LTR.
-- Planned deployment at kitabxana.az: one VPS, Docker Compose, Caddy, Cloudflare (`deploy/README.md`); CI builds images on every push to `main` and deploys once the server is configured. Until then the site is shown from a laptop through a temporary Cloudflare quick tunnel (`deploy/tunnel`).
+- **Persian RTL is first-class.** Persian originals are over half the corpus (16,994 of 31,830 published works in November 2026), so RTL rendering must be as good as LTR.
+- Live at kitabxana.az from the `deploy/tunnel` Docker stack behind a named Cloudflare tunnel; HTML is cached at the edge for an hour, so pages are identical for every reader and never set cookies. A VPS deployment (`deploy/README.md`) is prepared but not in use.
 
 ## Brand Commitments
 
 - Name: **Kitabxana.az**. Tagline: "Poets · Writers · Philosophers · Works · Translations".
-- Two reader-selectable skins on shared markup, switched from the header and remembered per reader, each in light and dark (both recorded in `DESIGN.md`):
-  - **Gazette (the default):** a newspaper / literary gazette aesthetic, user-stated in the project's CLAUDE.md. Ivory, ink-black and pomegranate red, Molla Nasraddin ornamental accents (◆ diamonds, double rules).
-  - **Clean (the approved alternative):** modelled on culture.ru at the user's request: warm grey pages, one charcoal header bar, grey cards and pills, one crimson, Noto Sans and Literata, no rules or ornaments. Its refusal of the gazette's ornament is deliberate, not drift.
+- One design, **Nar**, in light and dark (recorded in `DESIGN.md`): a bookshop you read in. White pages, ink text, grey surfaces, one pomegranate red; Inter for the interface, Literata for titles and reading; books shown as generated cloth covers on shelves. No rules, ornaments or decoration.
 - Theme: the visitor's OS setting until they choose; a choice is remembered.
 
 ## Evidence on Hand
 
-- In October 2026: 5,047 published works (5,140 in all) by 12 authors with works (Xaqani, Fuzuli, Nasimi, Mahsati, Nizami, Xətai, Vaqif, Sabir, Axundzadə, Cavid, Cabbarlı, Vurğun) across 92 collections; 113 published translations (112 English, 1 Russian); 754 manuscript pages and miniatures; 25 tags. Seed data covers Fuzuli, Nizami and Nasimi.
+- In November 2026: 31,830 published works by 343 authors (361 author pages) across 1,030 books; 16,994 of the works are Persian originals, 14,780 Azerbaijani. 3,224 published translations (2,404 Azerbaijani, 613 Russian, 207 English); 754 manuscript pages and miniatures; 25 tags.
 - No logo artwork. Only favicons exist in `public/`.
 - No user counts, testimonials, partner institutions or press exist. Never fabricate them.
 

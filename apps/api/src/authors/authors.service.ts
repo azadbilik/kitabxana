@@ -3,7 +3,9 @@ import { Prisma } from '@prisma/client';
 import { readableIn, type UiLang } from '../works/works.service';
 import { PrismaService } from '../prisma/prisma.service';
 import { QueryAuthorsDto } from './dto/query-authors.dto';
-import { CreateAuthorDto } from './dto/create-author.dto';
+import { CreateAuthorDto, UpdateAuthorDto } from './dto/create-author.dto';
+import { SearchService } from '../search/search.service';
+import type { AuthorPayload } from '../submissions/dto/public-submission.dto';
 import { safeAuthorBase, slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { publishedArtworks } from '../common/utils/artwork';
@@ -17,7 +19,10 @@ const AZ_COLLATOR = new Intl.Collator('az', { sensitivity: 'base' });
 
 @Injectable()
 export class AuthorsService {
-  constructor(private prisma: PrismaService) {}
+  constructor(
+    private prisma: PrismaService,
+    private search: SearchService,
+  ) {}
 
   /** Lean list of every published author for the literature tree; one query, no bios */
   async tree() {
@@ -82,7 +87,8 @@ export class AuthorsService {
       portraitUrl: true,
       writingLangs: true,
       status: true,
-      _count: { select: { works: true } },
+      // Readers are shown what they can open; the admin list (all=true) counts drafts too
+      _count: { select: { works: query.all === 'true' ? true : { where: { status: 'PUBLISHED' as const } } } },
     } satisfies Prisma.AuthorSelect;
 
     if (query.sort === 'recent') {
@@ -95,8 +101,15 @@ export class AuthorsService {
 
     // By name in the Azerbaijani alphabet (… g ğ h x ı i … k q …): the database's collation
     // sorts by code point and puts "Ağa" after "Aslan", so order the names here, then page
-    const names = await this.prisma.author.findMany({ where: listWhere, select: { id: true, nameAz: true } });
-    names.sort((a, b) => AZ_COLLATOR.compare(a.nameAz, b.nameAz));
+    const all = await this.prisma.author.findMany({
+      where: listWhere,
+      select: { id: true, nameAz: true, _count: { select: { works: { where: { status: 'PUBLISHED' } } } } },
+    });
+    const names = query.minWorks ? all.filter((a) => a._count.works >= query.minWorks!) : all;
+    names.sort(
+      (a, b) =>
+        (query.sort === 'works' ? b._count.works - a._count.works : 0) || AZ_COLLATOR.compare(a.nameAz, b.nameAz),
+    );
     const ids = names.slice(skip, skip + take).map((a) => a.id);
     const rows = await this.prisma.author.findMany({ where: { id: { in: ids } }, select });
     const byId = new Map(rows.map((r) => [r.id, r]));
@@ -167,6 +180,104 @@ export class AuthorsService {
     };
   }
 
+  /** Name, dates and portrait: for pages that only mention the author (a filtered list's heading, a share card) */
+  async findBrief(slug: string) {
+    const author = await this.prisma.author.findUnique({
+      where: { slug, status: 'PUBLISHED' },
+      select: {
+        slug: true,
+        nameAz: true,
+        nameRu: true,
+        nameEn: true,
+        bornYear: true,
+        diedYear: true,
+        type: true,
+        period: true,
+        portraitUrl: true,
+      },
+    });
+    if (!author) throw new NotFoundException('Author not found');
+    return author;
+  }
+
+  /**
+   * The author page: the profile, the author's books with how many works each holds (their
+   * contents live on the book pages), and the first works that belong to no book.
+   */
+  async findPage(slug: string, standaloneLimit = 30) {
+    const published = { status: 'PUBLISHED' as const };
+    const author = await this.prisma.author.findUnique({
+      where: { slug, ...published },
+      include: {
+        collections: {
+          where: { ...published, works: { some: published } },
+          orderBy: { order: 'asc' },
+          select: {
+            id: true,
+            slug: true,
+            titleAz: true,
+            titleRu: true,
+            titleEn: true,
+            titleFa: true,
+            genre: true,
+            year: true,
+            yearApprox: true,
+            originalLang: true,
+            _count: { select: { works: { where: published } } },
+          },
+        },
+        works: {
+          where: { ...published, collectionId: null },
+          orderBy: [{ viewCount: 'desc' }, { year: { sort: 'asc', nulls: 'last' } }, { titleAz: 'asc' }],
+          take: standaloneLimit,
+          select: {
+            id: true,
+            slug: true,
+            titleAz: true,
+            titleRu: true,
+            titleEn: true,
+            genre: true,
+            form: true,
+            year: true,
+            yearApprox: true,
+            originalLang: true,
+          },
+        },
+        artworks: publishedArtworks,
+        _count: { select: { works: { where: published } } },
+      },
+    });
+    if (!author) throw new NotFoundException('Author not found');
+
+    const standaloneCount =
+      author.works.length < standaloneLimit
+        ? author.works.length
+        : await this.prisma.work.count({ where: { authorId: author.id, ...published, collectionId: null } });
+    const { _count, collections, artworks, ...rest } = author;
+    return {
+      ...rest,
+      // The page shows a few; the gallery asks for the rest (artworksOf)
+      artworks: artworks.slice(0, 24),
+      artworksCount: artworks.length,
+      bioAz: author.bioAz ? renderMarkdown(author.bioAz) : null,
+      bioRu: author.bioRu ? renderMarkdown(author.bioRu) : null,
+      bioEn: author.bioEn ? renderMarkdown(author.bioEn) : null,
+      collections: collections.map(({ _count: n, ...c }) => ({ ...c, workCount: n.works })),
+      worksCount: _count.works,
+      standaloneCount,
+    };
+  }
+
+  /** Every published artwork of an author, for the gallery's "show all" */
+  async artworksOf(slug: string) {
+    const author = await this.prisma.author.findUnique({
+      where: { slug, status: 'PUBLISHED' },
+      select: { artworks: publishedArtworks },
+    });
+    if (!author) throw new NotFoundException('Author not found');
+    return author.artworks;
+  }
+
   /**
    * Poet of the week for a UI language. Azerbaijani: the editor's pick, else the author with
    * the most works. Russian and English show nothing in another language, so the pick must
@@ -218,15 +329,18 @@ export class AuthorsService {
   async create(dto: CreateAuthorDto) {
     const slug = await this.newSlug([dto.nameAz, dto.nameEn, dto.nameRu]);
     return this.prisma.author.create({
-      data: { ...dto, slug },
+      data: { ...authorFields(dto), slug } as Prisma.AuthorUncheckedCreateInput,
     });
   }
 
-  async update(id: string, dto: Partial<CreateAuthorDto>) {
-    return this.prisma.author.update({
+  async update(id: string, dto: UpdateAuthorDto) {
+    const author = await this.prisma.author.update({
       where: { id },
-      data: dto,
+      data: authorFields(dto),
     });
+    // Each work's search entry carries its author's name, and is there only while the author is published
+    if (INDEXED_FIELDS.some((k) => dto[k] !== undefined)) await this.search.reindexAuthorQuietly(id);
+    return author;
   }
 
   async setFeatured(id: string) {
@@ -236,18 +350,33 @@ export class AuthorsService {
     });
   }
 
-  async createFromPayload(payload: Record<string, unknown>, { publish = true } = {}) {
-    const slug = await this.newSlug([
-      payload.nameAz as string,
-      payload.nameEn as string,
-      payload.nameRu as string,
-    ]);
-    return this.prisma.author.create({
+  /** An author from an approved submission; `payload` has passed AuthorPayload validation */
+  async createFromPayload(payload: AuthorPayload, { publish = true } = {}, db: Prisma.TransactionClient = this.prisma) {
+    const slug = await this.newSlug([payload.nameAz, payload.nameEn, payload.nameRu]);
+    return db.author.create({
       data: {
-        ...(payload as Prisma.AuthorCreateInput),
+        nameAz: payload.nameAz,
+        nameRu: payload.nameRu,
+        nameEn: payload.nameEn,
+        type: payload.type,
+        bornYear: payload.bornYear,
+        diedYear: payload.diedYear,
+        bioAz: payload.bioAz,
         slug,
         status: publish ? 'PUBLISHED' : 'DRAFT',
       },
     });
   }
+}
+
+const AUTHOR_FIELDS = [
+  'nameAz', 'nameRu', 'nameFa', 'nameEn', 'bornYear', 'bornYearApprox', 'diedYear', 'diedYearApprox', 'bornPlace', 'diedPlace',
+  'type', 'period', 'writingLangs', 'bioAz', 'bioRu', 'bioEn', 'portraitUrl', 'status',
+] as const satisfies readonly (keyof CreateAuthorDto)[];
+
+const INDEXED_FIELDS = ['nameAz', 'nameRu', 'status'] as const;
+
+/** Only the columns an editor may set, whatever else the object carries */
+function authorFields(dto: Partial<CreateAuthorDto>) {
+  return Object.fromEntries(AUTHOR_FIELDS.filter((k) => dto[k] !== undefined).map((k) => [k, dto[k]]));
 }

@@ -37,7 +37,7 @@ export async function CatalogTiles({ catalog, themes, locale }: Props) {
       <ul className="catalog-grid">
         {tiles.map(({ key, count, href, caption }) => (
           <li key={key}>
-            <Link href={href} className={`catalog-tile catalog-tile--${key}`}>
+            <Link prefetch={false} href={href} className={`catalog-tile catalog-tile--${key}`}>
               {/* The section name; the clean skin shows it only where the unit doesn't name the form */}
               <span className={`catalog-kind${caption ? '' : ' catalog-kind--redundant'}`}>{t(key as any)}</span>
               <span className="catalog-count">{number.format(count)}</span>

@@ -16,7 +16,7 @@ export function Pagination({ page, totalPages, href, label }: Props) {
   return (
     <nav className="pagination" aria-label={label}>
       {pages.map((p) => (
-        <Link
+        <Link prefetch={false}
           key={p}
           href={href(p)}
           className={`pill ${p === page ? 'active' : ''}`}

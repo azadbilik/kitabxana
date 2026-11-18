@@ -1,9 +1,22 @@
 import '@/styles/globals.css';
 import '@/styles/nar.css';
 import { Metadata } from "next";
+import { Inter, Literata, Noto_Naskh_Arabic } from 'next/font/google';
 import { ReactNode } from "react";
 import { getLocale } from 'next-intl/server';
 import { SITE_NAME, SITE_URL } from '@/lib/seo';
+
+// Self-hosted at build time: no request to Google from the reader's browser, and the
+// two faces every page uses are preloaded
+const inter = Inter({ subsets: ['latin', 'latin-ext', 'cyrillic'], variable: '--f-inter', display: 'swap' });
+const literata = Literata({
+  subsets: ['latin', 'latin-ext', 'cyrillic'],
+  style: ['normal', 'italic'],
+  axes: ['opsz'],
+  variable: '--f-literata',
+  display: 'swap',
+});
+const naskh = Noto_Naskh_Arabic({ subsets: ['arabic'], variable: '--f-naskh', display: 'swap', preload: false });
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),
@@ -31,11 +44,11 @@ export default async function RootLayout({
   const locale = await getLocale();
 
   return (
-    <html lang={locale} suppressHydrationWarning>
+    <html lang={locale} className={`${inter.variable} ${literata.variable} ${naskh.variable}`} suppressHydrationWarning>
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('skin')==='gazette')d.setAttribute('data-skin','gazette');if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','')}catch(e){}})()`,
+            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','')}catch(e){}})()`,
           }}
         />
         {children}
