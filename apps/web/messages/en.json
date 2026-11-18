@@ -214,6 +214,7 @@
   "contribute": {
     "title": "Contribute",
     "intro": "Kitabxana.az is built together. Send us texts, translations and information about authors. Editors will review them and add them to the site.",
+    "kind_label": "What are you suggesting?",
     "tab_work": "Work",
     "tab_translation": "Translation",
     "tab_author": "Author",

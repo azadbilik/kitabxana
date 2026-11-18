@@ -45,6 +45,7 @@ function Ring({ part }: { part: number }) {
 
 export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
   const t = useTranslations('tree');
+  const ta = useTranslations('authors');
   const locale = useLocale();
   const lang = (locale === 'ru' || locale === 'en' ? locale : 'az') as 'az' | 'ru' | 'en';
   const { status, requireSignIn } = useAccount();
@@ -200,7 +201,13 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
                               <span className="leaf-name">{l.name}</span>
                               {l.years && <span className="leaf-years">{l.years}</span>}
                               <span className="leaf-count">
-                                {!l.works ? t('no_texts') : me && progress?.[l.id]?.done ? `${fmt(Math.min(progress[l.id].done, l.works))}/${fmt(l.works)}` : fmt(l.works)}
+                                {!l.works ? t('no_texts') : me && progress?.[l.id]?.done ? `${fmt(Math.min(progress[l.id].done, l.works))}/${fmt(l.works)}` : (
+                                  // Seen as a number, heard with its unit («111 əsər»)
+                                  <>
+                                    <span aria-hidden="true">{fmt(l.works)}</span>
+                                    <span className="sr-only">{ta('works_count', { count: l.works })}</span>
+                                  </>
+                                )}
                               </span>
                             </Link>
                             {l.gap && <p className="leaf-gap"><span>{t('gap_label')}</span> {l.gap}</p>}

@@ -83,8 +83,10 @@ function anchor(prefix: 'b' | 'l', n: number): { id: string; mark: string } {
   };
 }
 
-function beyt(a: string, b: string, maqtaLabel: string | null, n: number | null): string {
-  const label = maqtaLabel ? `<span class="sr-only">${maqtaLabel}. </span>` : '';
+function beyt(a: string, b: string, maqtaLabel: string | null, n: number | null, labelLang?: string): string {
+  // The note is in the page's language: inside a Persian poem it must not be read as Persian
+  const lang = labelLang ? ` lang="${labelLang}" dir="ltr"` : '';
+  const label = maqtaLabel ? `<span class="sr-only"${lang}>${maqtaLabel}. </span>` : '';
   const at = n ? anchor('b', n) : { id: '', mark: '' };
   return `<p class="beyt${maqtaLabel ? ' beyt--maqta' : ''}"${at.id}>${at.mark}${label}<span class="misra">${a}</span><span class="misra">${b}</span></p>`;
 }
@@ -100,7 +102,7 @@ function beyt(a: string, b: string, maqtaLabel: string | null, n: number | null)
  */
 export function formatVerse(
   html: string,
-  opts: { form?: string | null; maqtaLabel?: string; anchors?: boolean } = {},
+  opts: { form?: string | null; maqtaLabel?: string; labelLang?: string; anchors?: boolean } = {},
 ): { html: string; maqta: boolean } {
   const paras = [...html.matchAll(PARA)].map((m) => m[1].split(BR).map((l) => l.trim()).filter(Boolean));
   if (paras.length === 0 || html.replace(PARA, '').trim()) return { html, maqta: false };
@@ -118,7 +120,7 @@ export function formatVerse(
     return {
       html: pairs
         .map(([a, b], i) =>
-          beyt(a, b, maqta && i === pairs.length - 1 ? opts.maqtaLabel ?? '' : null, opts.anchors ? i + 1 : null),
+          beyt(a, b, maqta && i === pairs.length - 1 ? opts.maqtaLabel ?? '' : null, opts.anchors ? i + 1 : null, opts.labelLang),
         )
         .join(''),
       maqta,

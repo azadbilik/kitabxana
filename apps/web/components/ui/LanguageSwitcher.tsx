@@ -9,6 +9,12 @@ const labels: Record<string, string> = {
   ru: 'RU',
   en: 'EN',
 };
+/** Each language named in itself, as its speaker's screen reader should say it */
+const names: Record<string, string> = {
+  az: 'Azərbaycanca',
+  ru: 'Русский',
+  en: 'English',
+};
 
 export function LanguageSwitcher() {
   const router = useRouter();
@@ -32,17 +38,19 @@ export function LanguageSwitcher() {
         onChange={(e) => switchLocale(e.target.value)}
       >
         {locales.map((loc) => (
-          <option key={loc} value={loc}>{labels[loc]}</option>
+          <option key={loc} value={loc} lang={loc} aria-label={`${labels[loc]} — ${names[loc]}`}>{labels[loc]}</option>
         ))}
       </select>
     </label>
-    <div className="lang-switcher">
+    <div className="lang-switcher" role="group" aria-label="Language / Dil / Язык">
       {locales.map((loc) => (
         <button
           key={loc}
           onClick={() => switchLocale(loc)}
           className={`lang-btn ${loc === currentLocale ? 'active' : ''}`}
           aria-current={loc === currentLocale ? 'true' : undefined}
+          aria-label={`${labels[loc]} — ${names[loc]}`}
+          lang={loc}
         >
           {labels[loc]}
         </button>

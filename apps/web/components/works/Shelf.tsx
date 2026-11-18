@@ -41,9 +41,10 @@ export function ShelfItem({ book, cloth, sameAuthor = false }: ItemProps) {
         originalLang={book.originalLang}
         sameAuthor={sameAuthor}
       />
+      {/* The commas are for the ear: a screen reader runs the three lines together */}
       <span className="shelf-item-title">{byAuthor ? book.author : title}</span>
-      {!sameAuthor && <span className="shelf-item-author">{byAuthor ? title : book.author}</span>}
-      {book.note && <span className="shelf-item-note">{book.note}</span>}
+      {!sameAuthor && <span className="shelf-item-author"><span className="sr-only">, </span>{byAuthor ? title : book.author}</span>}
+      {book.note && <span className="shelf-item-note"><span className="sr-only">, </span>{book.note}</span>}
     </Link>
   );
 }
@@ -68,7 +69,7 @@ export function Shelf({ title, more, books, row = false, id, sameAuthor = false 
     <section className="shelf" aria-labelledby={headingId} id={id}>
       <div className="shelf-head">
         <h2 className="shelf-title" id={headingId}>{title}</h2>
-        {more && <Link prefetch={false} href={more.href} className="shelf-more">{more.label}</Link>}
+        {more && <Link prefetch={false} href={more.href} className="shelf-more" aria-label={`${more.label}: ${title}`}>{more.label}</Link>}
       </div>
       <ul className={row ? 'shelf-grid shelf-grid--row' : 'shelf-grid'}>
         {books.map((b, i) => (

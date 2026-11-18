@@ -11,7 +11,7 @@ export function Footer() {
   return (
     <footer className="footer">
       <div className="container footer-inner">
-        <Link prefetch={false} href={localePath(locale)} className="footer-mark">
+        <Link prefetch={false} href={localePath(locale)} className="footer-mark" aria-label="Kitabxana.az">
           Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
         <p className="footer-text">{t('description')}</p>

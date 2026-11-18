@@ -214,6 +214,7 @@
   "contribute": {
     "title": "Material təklif et",
     "intro": "Kitabxana.az birlikdə yaradılır. Əlinizdə olan mətnləri, tərcümələri və müəlliflər haqqında məlumatları göndərin. Redaktorlar yoxlayıb sayta əlavə edəcəklər.",
+    "kind_label": "Nə təklif edirsiniz?",
     "tab_work": "Əsər",
     "tab_translation": "Tərcümə",
     "tab_author": "Müəllif",

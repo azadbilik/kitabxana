@@ -125,7 +125,7 @@ export function Header() {
   return (
     <header ref={headerRef} className={hidden ? 'site-header is-hidden' : 'site-header'}>
       <div className="header-inner">
-        <Link prefetch={false} href={localePath(locale)} className="logo">
+        <Link prefetch={false} href={localePath(locale)} className="logo" aria-label="Kitabxana.az">
           Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
 

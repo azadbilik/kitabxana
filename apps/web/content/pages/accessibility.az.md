@@ -18,12 +18,13 @@ Kitabxana.az hər kəsin oxuya bilməsi üçündür. Saytı ölçdüyümüz meya
 
 - **Skan edilmiş kitablar.** Yükləmək üçün təklif olunan mənbə kitabın PDF-i onun səhifələrinin şəklidir; çoxunda ekran oxuyucusunun oxuya biləcəyi mətn yoxdur. Həmin əsərin saytdakı mətni əlçatan variantdır.
 - **Skandan yığılmış mətnlər.** Bəzilərini maşın oxuyub, insanlar yoxlayıb; səhv oxunmuş hərf qala bilər və ekran oxuyucusu onu yazıldığı kimi deyəcək.
+- **Aralı yazılmış sözlər.** Bəzi köhnə nəşrlərdə vurğu hərfləri a r a l ı yazmaqla verilib və mətn bunu saxlayır; ekran oxuyucusu belə sözü hərf-hərf deyir.
 - **Qalereyalardakı şəkillər.** Muzey əşyalarının adları yalnız ingiliscədir və şəkillərin adından başqa təsviri yoxdur.
 - **Əski əlifbadakı mətnlər.** Ərəb əlifbasındakı əsərin yanında həmişə müasir latın əlifbasında variantı olmur.
 
 ## Necə yoxlanılıb
 
-Hər növ səhifə sayt hər dəfə yığılanda avtomatik testlə (axe-core), hər iki mövzuda, kompüter və telefon ekranında yoxlanılır; əl ilə isə yalnız klaviatura ilə. Son tam yoxlama: 18 noyabr 2026.
+Hər növ səhifə sayt hər dəfə yığılanda avtomatik testlə (axe-core), hər iki mövzuda, kompüter və telefon ekranında yoxlanılır; əl ilə isə yalnız klaviatura ilə. Ekran oxuyucuları üçün hər növ səhifəni brauzerin oxuyucuya verdiyi şəkildə oxumuşuq (adlar, başlıqlar, bölgələr, dillər, elan olunanlar); VoiceOver və ya NVDA ilə başdan-başa hələ dinlənilməyib. Son tam yoxlama: 18 noyabr 2026.
 
 ## Bizə yazın
 

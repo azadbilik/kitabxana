@@ -235,14 +235,14 @@ export function ContributeForm({ authors, initialKind = 'WORK', initialWork = nu
 
   return (
     <form className="form" onSubmit={onSubmit}>
-      <div className="lang-tabs" role="tablist">
+      {/* A choice inside one form, not tabs over panels: pressed buttons, as elsewhere on the site */}
+      <div className="lang-tabs" role="group" aria-label={t('kind_label')}>
         {tabs.map(([k, label]) => (
           <button
             key={k}
             type="button"
-            role="tab"
-            className="lang-tab"
-            aria-selected={kind === k}
+            className={kind === k ? 'lang-tab active' : 'lang-tab'}
+            aria-pressed={kind === k}
             onClick={() => { setKind(k); setError(null); }}
           >
             {label}

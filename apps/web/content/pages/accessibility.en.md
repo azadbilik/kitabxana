@@ -18,12 +18,13 @@ Kitabxana.az is meant to be read by everyone. The measure we hold the site to is
 
 - **Scanned books.** The PDF of a source book offered for download is a photograph of its pages; many have no text a screen reader can read. The text of the same work on the site is the accessible version.
 - **Texts typed from scans.** Some were read by machine and proofread by people; a misread letter may remain, and a screen reader will say it as written.
+- **Spaced-out words.** Some old editions set emphasis by s p a c i n g the letters, and the text keeps it; a screen reader spells such a word out letter by letter.
 - **Pictures in the galleries.** Titles of museum pieces are given in English only, and the pictures have no fuller description than their title.
 - **Old-script texts.** A work in the Arabic alphabet is not always accompanied by a version in the modern Latin one.
 
 ## How this was checked
 
-Each kind of page is checked by an automated test (axe-core) in both themes, on a desktop and a phone screen, every time the site is built, and by hand with a keyboard alone. Last full review: 18 November 2026.
+Each kind of page is checked by an automated test (axe-core) in both themes, on a desktop and a phone screen, every time the site is built, and by hand with a keyboard alone. For screen readers we read each kind of page as the browser hands it to one (names, headings, landmarks, languages, what is announced); it has not yet been listened to through with VoiceOver or NVDA. Last full review: 18 November 2026.
 
 ## Tell us
 

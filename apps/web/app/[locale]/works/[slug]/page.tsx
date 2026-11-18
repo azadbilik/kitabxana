@@ -211,7 +211,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
 
   const isPoem = work.genre === 'POEM';
   const verse = (html: string, anchors = false) =>
-    isPoem ? formatVerse(html, { form: work.form, maqtaLabel: t('maqta'), anchors }) : { html, maqta: false };
+    isPoem ? formatVerse(html, { form: work.form, maqtaLabel: t('maqta'), labelLang: locale, anchors }) : { html, maqta: false };
   // Each couplet of the original can be linked to (#b7); the translation lines up beside it
   const original = verse(work.bodyHtml || work.body, true);
   // Long prose is read a page at a time; only the current page is sent
