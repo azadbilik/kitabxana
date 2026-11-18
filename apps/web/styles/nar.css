@@ -293,7 +293,11 @@
     row-gap:               0.6rem;
   }
   :root .catalog-btn { justify-self: start; }
-  :root .header-search-btn-label { display: none; }
+  /* Not shown, still the button's name for a screen reader */
+  :root .header-search-btn-label {
+    position: absolute; width: 1px; height: 1px; margin: -1px;
+    overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap;
+  }
   :root .header-search-btn svg { display: block; }
 }
 /* Phones: two clean rows — wordmark + compact tools, then catalogue + search —
@@ -312,6 +316,15 @@
   :root .header-tools .lang-switcher { display: none; }
   :root .header-tools .lang-select-wrap { display: block; }
   :root .account-signin { padding: 0 0.75rem; font-size: 0.85rem; }
+}
+/* The narrowest phones (320px, or a larger one zoomed in): the first row has to fit */
+@media (max-width: 360px) {
+  :root .header-inner { padding-inline: 0.75rem; }
+  /* "Catalogue" is the longest of the three; without its icon it stays under the wordmark */
+  :root .catalog-btn svg { display: none; }
+  :root .header-tools { gap: 0.25rem; }
+  :root .account-signin { padding: 0 0.5rem; }
+  :root .lang-select { padding-inline-start: 0.5rem; }
 }
 
 /* ── Controls ───────────────────────────────────────────────── */
@@ -774,6 +787,10 @@
   }
   :root .site-nav a { flex-shrink: 0; white-space: nowrap; }
 }
+/* …and bleeds only as far as the header's own padding on the narrowest phones */
+@media (max-width: 360px) {
+  :root .site-nav { margin: 0 -0.75rem; padding: 0 0.75rem; }
+}
 @media (max-width: 768px) {
   :where(:root) h1 { font-size: 2rem; }
   :root .work-heading { font-size: 2rem; }
@@ -791,6 +808,11 @@
   :root .logo,
   :root .logo em,
   :root .logo-orn::before { font-size: 1.2rem; }
+}
+@media (max-width: 360px) {
+  :root .logo,
+  :root .logo em,
+  :root .logo-orn::before { font-size: 1.05rem; }
 }
 /* Under 360px: the same tightening as globals.css, at the clean skin's specificity */
 @media (max-width: 359px) {
@@ -1116,6 +1138,11 @@
 
 /* Work titles on the reading page in the book serif, like book titles */
 :root .work-heading { font-family: var(--font-serif); }
+/* …except in Arabic script: its own face, and joined letters are never tracked */
+:root .work-heading:is(:lang(fa), :lang(ar), :lang(az-Arab)) {
+  font-family:    var(--font-arabic);
+  letter-spacing: 0;
+}
 :root .author-books { margin: 1rem 0 3rem; }
 
 /* ── catalogue pages (review) ── */

@@ -11,6 +11,15 @@ export function ThemeToggle() {
     // The pre-paint script in app/layout.tsx already chose: the stored theme, else the OS's.
     // Adopt it rather than writing a default, which would flip dark-OS visitors to light.
     const root = document.documentElement;
+    // A 404 raised while a page streams is drawn in the browser, where that script never
+    // runs: make the same choice here, so a reader's stored theme holds there too
+    if (!root.hasAttribute('data-theme')) {
+      let stored: string | null = null;
+      try {
+        stored = localStorage.getItem('theme');
+      } catch {}
+      root.setAttribute('data-theme', stored ?? (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+    }
     setTheme(root.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
 
     // Until the reader picks one, keep following the OS as it changes

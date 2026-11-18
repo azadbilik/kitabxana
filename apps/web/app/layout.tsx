@@ -7,10 +7,11 @@ import { getLocale } from 'next-intl/server';
 import { SITE_NAME, SITE_URL } from '@/lib/seo';
 
 // Self-hosted at build time: no request to Google from the reader's browser, and the
-// two faces every page uses are preloaded
-const inter = Inter({ subsets: ['latin', 'latin-ext', 'cyrillic'], variable: '--f-inter', display: 'swap' });
+// two faces every page uses are preloaded. `subsets` only picks what is preloaded: the
+// Cyrillic files still ship and load when a page has Cyrillic text (unicode-range)
+const inter = Inter({ subsets: ['latin', 'latin-ext'], variable: '--f-inter', display: 'swap' });
 const literata = Literata({
-  subsets: ['latin', 'latin-ext', 'cyrillic'],
+  subsets: ['latin', 'latin-ext'],
   style: ['normal', 'italic'],
   axes: ['opsz'],
   variable: '--f-literata',

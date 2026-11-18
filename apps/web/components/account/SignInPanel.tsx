@@ -11,7 +11,16 @@ import { useAccount } from './AccountProvider';
  * code. Used inside the dialog and on the /giris page. When the server can complete neither
  * (no mail key, no Google), it says sign-in is coming instead of showing a form that can't work.
  */
-export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) => void; headingId?: string }) {
+export function SignInPanel({
+  onSignedIn,
+  headingId,
+  as: Heading = 'h2',
+}: {
+  onSignedIn: (me: Me) => void;
+  headingId?: string;
+  /** The /giris page passes h1: there the panel's title is the page's */
+  as?: 'h1' | 'h2';
+}) {
   const t = useTranslations('account');
   const locale = useLocale();
   const { providers, loadProviders } = useAccount();
@@ -73,7 +82,7 @@ export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) =>
   if (providers && !providers.google && !providers.email) {
     return (
       <div className="signin">
-        <h2 className="signin-title" id={headingId}>{t('soon_title')}</h2>
+        <Heading className="signin-title" id={headingId}>{t('soon_title')}</Heading>
         <p className="signin-lead">{t('soon_lead')}</p>
         <p className="signin-note">{t('soon_note')}</p>
       </div>
@@ -82,7 +91,7 @@ export function SignInPanel({ onSignedIn, headingId }: { onSignedIn: (me: Me) =>
 
   return (
     <div className="signin">
-      <h2 className="signin-title" id={headingId}>{t('title')}</h2>
+      <Heading className="signin-title" id={headingId}>{t('title')}</Heading>
       <p className="signin-lead">{t('lead')}</p>
 
       {!providers && <div className="signin-pending" aria-busy="true" />}

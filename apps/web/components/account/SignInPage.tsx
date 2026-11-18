@@ -17,6 +17,7 @@ export function SignInPage() {
   return (
     <div className="signin-card">
       <SignInPanel
+        as="h1"
         onSignedIn={(me) => {
           signedIn(me);
           router.push(localePath(locale, '/refim'));

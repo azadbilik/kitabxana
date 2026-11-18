@@ -223,6 +223,8 @@ a.leaf-link:focus-visible { outline: 2px solid var(--t-accent); outline-offset: 
 .leaf--missing { max-width: 22rem; border: 1px dashed var(--t-rule); border-color: color-mix(in srgb, var(--t-muted) 45%, transparent); border-radius: var(--radius, 12px); padding: 0.32rem 0.6rem 0.4rem 0.45rem; }
 .leaf--missing .leaf-link { padding: 0; background: none; color: var(--t-muted); }
 .leaf--missing .leaf-name { font-weight: 500; }
+/* These two have no pill of their own to press: on touch screens the name still gets 24px */
+@media (pointer: coarse) { .leaf--gap .leaf-link, .leaf--missing .leaf-link { min-height: 1.5rem; } }
 .leaf-ghost { width: 1.15rem; height: 1.15rem; flex: none; border-radius: 50%; border: 1.5px dashed var(--t-muted); opacity: 0.7; }
 .leaf--missing:not(:has(.leaf-gap)) { flex-direction: row; border-radius: 999px; }
 

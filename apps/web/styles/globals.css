@@ -2571,7 +2571,7 @@ a.gallery-coll:hover { text-decoration: underline; }
   .book-title { font-size: 2.1rem; }
 }
 @media (max-width: 480px) {
-  .book-parts { grid-template-columns: 1fr; }
+  .book-parts { grid-template-columns: minmax(0, 1fr); }
   .books-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1.5rem 1rem; }
 }
 
@@ -2939,6 +2939,9 @@ html[data-signed-in] .home-mine--pending { min-height: 15rem; margin-top: 2.75re
   .continue-title { font-size: 1.35rem; }
   .status-switch { width: 100%; }
   .status-switch button { flex: 1; padding: 0 0.5rem; }
+}
+@media (max-width: 360px) {
+  .status-switch button { padding: 0 0.25rem; font-size: 0.8rem; }
 }
 
 /* ── Lists and settings ─────────────────────────────────────── */
