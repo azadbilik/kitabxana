@@ -60,6 +60,8 @@ export interface Line {
   gap: number;
   /** Where the line ends: a prose line that stops short of the margin ends its paragraph */
   right: number;
+  /** Below the page's rule: a star note ("* Qəlbim sənin…"), kept only with the stars option */
+  note?: boolean;
 }
 
 async function download(url: string): Promise<Buffer> {
@@ -156,7 +158,11 @@ export async function readReprint(url: string, opts: { stars?: boolean } = {}): 
   // the page's foot ornament (Şərq-Qərb), with a line of text still below it
   const ornament = rules.filter((r) => r >= 0).length > pages.length * 0.6;
   pages.forEach((lines, n) => {
-    if (!ornament && rules[n] >= 0) lines.splice(rules[n]);
+    // With star notes the rule opens them: they stay, set small, for starNotes to pair with their marks
+    if (!ornament && rules[n] >= 0) {
+      if (opts.stars && lines.slice(rules[n]).some((l) => /^[*†‡§¶]/.test(l.text))) lines.slice(rules[n]).forEach((l) => { l.note = true; });
+      else lines.splice(rules[n]);
+    }
     // Lider's glossary notes have no rule above them: a gap, then small type to the page's foot,
     // opening "Mozalan – Heyvanları sancan…"
     if (unicode) {
@@ -187,7 +193,7 @@ export interface TocEntry {
  * "Komediyalar"), then "Title . . . . 29"; a title too long for one line runs on to the next
  */
 export function readToc(pages: Line[][], sections: string[] = []): TocEntry[] {
-  const start = pages.findIndex((p) => p.some((l) => /^(KİTABDAKILAR|MÜNDƏRİCAT)$/.test(l.text)));
+  const start = pages.findIndex((p) => p.some((l) => /^(KİTABDAKILAR|MÜNDƏRİCAT|KİTABIN İÇİNDƏKİLƏR)$/.test(l.text)));
   if (start < 0) return [];
   const entries: TocEntry[] = [];
   let section = '';
@@ -198,7 +204,7 @@ export function readToc(pages: Line[][], sections: string[] = []): TocEntry[] {
       if (m) {
         entries.push({ section, title: `${pending} ${m[1]}`.trim(), page: Number(m[2]) });
         pending = '';
-      } else if (sections.includes(l.text) || (l.text === l.text.toLocaleUpperCase('az') && /\p{L}{3}/u.test(l.text) && !/KİTABDAKILAR|MÜNDƏRİCAT/.test(l.text))) {
+      } else if (sections.includes(l.text) || (l.text === l.text.toLocaleUpperCase('az') && /\p{L}{3}/u.test(l.text) && !/KİTABDAKILAR|MÜNDƏRİCAT|KİTABIN İÇİNDƏKİLƏR/.test(l.text))) {
         if (entries.length && /CİLD|BAKI|PRESS/.test(l.text)) return entries;
         section = l.text;
         pending = '';
@@ -524,7 +530,7 @@ export function workLines(pages: Line[][], located: Located[]): Line[][] {
   const index = (at: { page: number; line: number }) => flat.findIndex((f) => f.p === at.page && f.i === at.line);
   // A work runs to the next heading on the page, whatever order the contents list them in
   const starts = located.filter((e) => e.at).map((e) => index(e.at!)).sort((a, b) => a - b);
-  const tocStart = pages.findIndex((pg) => pg.some((l) => /^(KİTABDAKILAR|MÜNDƏRİCAT)$/.test(l.text)));
+  const tocStart = pages.findIndex((pg) => pg.some((l) => /^(KİTABDAKILAR|MÜNDƏRİCAT|KİTABIN İÇİNDƏKİLƏR)$/.test(l.text)));
   const tocAt = flat.findIndex((f) => f.p === tocStart);
   return located.map((e) => {
     if (!e.at) return [];
@@ -574,6 +580,8 @@ export interface ReprintVolume {
   titles?: Record<string, string>;
   /** Notes marked with a raised asterisk ("bəkəs”*"), the note at the page's foot: the mark joins its word */
   stars?: boolean;
+  /** Poem title → the sourceId of the same poem already on the site from another source: this text replaces it, its URL redirects */
+  sourceIds?: Record<string, string>;
 }
 
 export interface PlannedReprintWork {
@@ -795,6 +803,48 @@ function poems(pages: Line[][], lines: Line[], breaks: string[] = []): { title?:
     .map((p) => (p.title ? { ...p, title: caseLike(pages, p.title.replace(/\s+/g, ' ')) } : p));
 }
 
+/**
+ * A poem's star notes (translations of its Persian lines, at the foot of the page under a rule):
+ * on each page the marks ("deləm*", "deləm**") go with the notes in order; a mark becomes a
+ * numbered <sup>, the notes, a line each as printed, go under a rule at the poem's end
+ */
+function poemNotes(body: string, lines: Line[], section: Line[], used: Map<number, number>): string {
+  // A page's notes are the section's: the poem after a marked one may start on the same page
+  const notes = new Map<number, string[][]>();
+  for (const l of section.filter((x) => x.note)) {
+    const list = notes.get(l.page) ?? [];
+    const m = l.text.match(/^\*{1,3}\s*(.*)$/);
+    const last = list[list.length - 1];
+    if (m || !last) list.push([m ? m[1] : l.text]);
+    // A line too long for the note's measure runs on in lowercase ("könül öz / sevgisini unutmur")
+    else if (/^\p{Ll}/u.test(l.text) && !/[.,;:!?]$/.test(last[last.length - 1])) last[last.length - 1] += ` ${l.text}`;
+    else last.push(l.text);
+    notes.set(l.page, list);
+  }
+  if (!notes.size) return body;
+  // Which page each verse line came from, in order
+  const pageOf = lines.filter((x) => !x.note).map((x) => ({ page: x.page, text: x.text }));
+  const out: string[] = [];
+  let n = 0;
+  let at = 0;
+  const text = body.split('\n').map((line) => {
+    if (!line.trim()) return line;
+    const key = (t: string) => t.replace(/<[^>]+>|\*+/g, '').replace(/\s+/g, ' ').trim().slice(0, 20);
+    const src = pageOf.slice(at).findIndex((x) => key(x.text) === key(line));
+    if (src >= 0) at += src + 1;
+    const page = pageOf[Math.max(0, Math.min(at - 1, pageOf.length - 1))]?.page;
+    return line.replace(/(?<=[\p{L}.,;:!?»”])\*{1,3}(?=[\s.,;:!?]|$)/gu, (mark) => {
+      const list = notes.get(page) ?? [];
+      const k = used.get(page) ?? 0;
+      if (!list[k]) return mark;
+      used.set(page, k + 1);
+      out.push(`<sup>${++n}</sup> ${list[k].join('<br>\n')}`);
+      return `<sup>${n}</sup>`;
+    });
+  }).join('\n');
+  return out.length ? `${text}\n\n---\n\n${out.join('\n\n')}` : text;
+}
+
 export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) {
   const collections: PlannedReprintCollection[] = [];
   const works: PlannedReprintWork[] = [];
@@ -842,13 +892,15 @@ export async function planReprint(authorSlug: string, volumes: ReprintVolume[]) 
       }
       if (section.poems) {
         const coll = collection({ slug: section.collection, titleAz: section.titleAz, genre: section.genre });
+        const noteUse = new Map<number, number>();
         poems(pages, lines[k], vol.breaks).forEach((poem, n) => {
-          const body = stripMarks(workText(poem.lines, section.layout).body);
+          let body = stripMarks(workText(poem.lines.filter((l) => !l.note), section.layout).body);
+          if (vol.stars) body = poemNotes(body, poem.lines, lines[k], noteUse);
           const first = body.split('\n').find((l) => l.trim() && !/^[#*]/.test(l)) ?? '';
           const title = poem.title ?? first.trim().replace(/[\s,;:–-]+$/, '');
           if (!body.trim()) return;
           works.push({
-            slug: unique(shortSlug(`${authorSlug}-${title}`)), sourceId: `anl-${vol.bibid}-${k + 1}-${n + 1}`, titleAz: title,
+            slug: unique(shortSlug(`${authorSlug}-${title}`)), sourceId: vol.sourceIds?.[title] ?? `anl-${vol.bibid}-${k + 1}-${n + 1}`, titleAz: title,
             collectionSlug: coll, genre: section.genre, form: section.form, order: works.length + 1,
             sourceNote: readerUrl(vol.bibid, poem.lines[0].page), body,
           });

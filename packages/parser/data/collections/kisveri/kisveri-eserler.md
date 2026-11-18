@@ -4,7 +4,7 @@ titleAz: Əsərlər
 authorSlug: kisveri
 genre: POEM
 originalLang: AZ_LATIN
-order: 1
+order: 8
 status: DRAFT
 ---
 

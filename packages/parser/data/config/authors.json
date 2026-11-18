@@ -2573,6 +2573,33 @@
         }
       }
     },
+    "skipSources": ["wikisource-az-22578", "wikisource-az-17648", "wikisource-az-8276-2", "wikisource-az-8276-3", "wikisource-az-8276-4"],
+    "reprint": {
+      "volumes": [
+        {
+          "bibid": 9436,
+          "stars": true,
+          "sections": {
+            "Qəzəllər": {"collection": "kisveri-qezeller", "titleAz": "Qəzəllər", "genre": "POEM", "layout": "verse", "form": "GHAZAL", "poems": true},
+            "Qəsidə": {"collection": "kisveri-qesideler", "titleAz": "Qəsidə", "genre": "POEM", "layout": "verse", "form": "QASIDA", "poems": true},
+            "Müxəmməslər": {"collection": "kisveri-muxemmesler", "titleAz": "Müxəmməslər", "genre": "POEM", "layout": "verse", "form": "OTHER", "poems": true},
+            "Təxmislər": {"collection": "kisveri-texmisler", "titleAz": "Təxmislər", "genre": "POEM", "layout": "verse", "form": "OTHER", "poems": true},
+            "Müstəzadlar": {"collection": "kisveri-mustezadlar", "titleAz": "Müstəzadlar", "genre": "POEM", "layout": "verse", "form": "OTHER", "poems": true},
+            "Mürəbbelər": {"collection": "kisveri-murebbeler", "titleAz": "Mürəbbelər", "genre": "POEM", "layout": "verse", "form": "MURABBA", "poems": true},
+            "Rübailər": {"collection": "kisveri-rubailer", "titleAz": "Rübailər", "genre": "POEM", "layout": "verse", "form": "RUBAI", "poems": true}
+          },
+          "pages": {"Qəzəllər": 14, "Qəsidə": 138, "Müxəmməslər": 139, "Təxmislər": 150, "Müstəzadlar": 159, "Mürəbbelər": 161, "Rübailər": 164},
+          "skip": ["Ön söz", "Lüğət", "Adlar göstəricisi"],
+          "sourceIds": {
+            "Ey pəri, sənsiz pərişan ruzigarəm doğrusu": "wikisource-az-22578",
+            "Əbirim, ənbərim, müşkim, ğəzalim, Çinü Maçinim": "wikisource-az-17648",
+            "Munca qan tökməkdən, ey xunxar, usanmazmısan": "wikisource-az-8276-2",
+            "Könlüm nəsibi çün ki, bəla qıldı yarədən": "wikisource-az-8276-3",
+            "Vay kim, mən oldum diyari-özgələr yari hənuz": "wikisource-az-8276-4"
+          }
+        }
+      ]
+    },
     "collections": []
   },
   {
