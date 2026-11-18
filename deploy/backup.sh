@@ -9,6 +9,8 @@ mkdir -p backups
 file="backups/irs_az-$(date -u +%Y%m%dT%H%M%SZ).sql.gz"
 docker compose exec -T postgres pg_dump -U postgres --clean --if-exists irs_az | gzip > "$file"
 
+# Off-site copy to Cloudflare R2 when its keys are in .env; otherwise only the local week
+if [ -n "${R2_ACCESS_KEY_ID:-}" ] && [ -n "${BACKUP_BUCKET:-}" ]; then
 rclone() {
   docker run --rm -v "$PWD/backups:/backups" \
     -e RCLONE_CONFIG_R2_TYPE=s3 -e RCLONE_CONFIG_R2_PROVIDER=Cloudflare \
@@ -19,6 +21,7 @@ rclone() {
 }
 rclone copy /backups "r2:$BACKUP_BUCKET" --include '*.sql.gz'
 rclone delete "r2:$BACKUP_BUCKET" --min-age 30d
+fi
 
 # Keep a week locally for quick restores
 find backups -name '*.sql.gz' -mtime +7 -delete

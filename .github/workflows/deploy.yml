@@ -66,6 +66,9 @@ jobs:
     if: github.ref == 'refs/heads/main' && vars.DEPLOY_HOST != ''
     runs-on: ubuntu-latest
     environment: production
+    permissions:
+      contents: read
+      packages: read
     steps:
       - uses: actions/checkout@v4
       - name: Copy stack files
@@ -85,7 +88,10 @@ jobs:
           key: ${{ secrets.DEPLOY_SSH_KEY }}
           script: |
             cd /opt/irs-az
+            # The job's own token pulls the private images; nothing long-lived on the server
+            echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u "${{ github.actor }}" --password-stdin
             sed -i "s/^IMAGE_TAG=.*/IMAGE_TAG=${{ github.sha }}/" .env
             docker compose pull --quiet
             docker compose up -d --remove-orphans --wait
+            docker logout ghcr.io
             docker image prune -f

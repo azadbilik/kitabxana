@@ -2,18 +2,21 @@
 name: irs-az
 
 services:
+  # Connects out to Cloudflare as the "kitabxana" named tunnel (kitabxana.az, www) and hands
+  # requests to Caddy; ./cloudflared holds config.yml and the tunnel's credentials JSON
+  cloudflared:
+    image: cloudflare/cloudflared:2025.10.0
+    restart: unless-stopped
+    command: tunnel --no-autoupdate --config /etc/cloudflared/config.yml run
+    volumes:
+      - ./cloudflared:/etc/cloudflared:ro
+    depends_on: [caddy]
+
   caddy:
     image: caddy:2.10-alpine
     restart: unless-stopped
-    ports:
-      - "80:80"
-      - "443:443"
-    environment:
-      DOMAIN: ${DOMAIN}
-      TLS: ${TLS:-internal}
     volumes:
       - ./Caddyfile:/etc/caddy/Caddyfile:ro
-      - ./certs:/etc/caddy/certs:ro
       - caddy-data:/data
     depends_on: [web, api]
 
@@ -56,8 +59,11 @@ services:
       TELEGRAM_BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:-}
       TELEGRAM_CHANNEL: ${TELEGRAM_CHANNEL:-}
       TELEGRAM_POST_HOUR: ${TELEGRAM_POST_HOUR:-9}
+      # Scanned source books (<key>.pdf), copied to /opt/irs-az/scans; see ScansService
+      SCANS_DIR: /scans
     volumes:
       - api-data:/data
+      - ./scans:/scans:ro
     depends_on:
       postgres: { condition: service_healthy }
       meilisearch: { condition: service_healthy }

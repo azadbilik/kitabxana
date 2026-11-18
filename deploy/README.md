@@ -1,84 +1,75 @@
 # Deployment
 
-Single VPS running Docker Compose behind Cloudflare. CI builds images to GHCR; pushes to `main` deploy automatically once the server is configured.
+One Hetzner VPS running Docker Compose. CI builds images to GHCR, and every push to `main` deploys them. The site reaches the server through the Cloudflare named tunnel `kitabxana`, which connects out from the server, so only SSH is open.
 
 ```
-Cloudflare (DNS, proxy, R2) → Caddy :443 ─┬─ /api/* → api:4000 (NestJS)
-                                          └─ /*     → web:3000 (Next.js)
-                              postgres, meilisearch (internal only)
+Cloudflare (DNS, TLS, edge cache) ⇠ tunnel ⇠ cloudflared → Caddy :80 ─┬─ /api/* → api:4000 (NestJS)
+                                                                    └─ /*     → web:3000 (Next.js)
+                                          postgres, meilisearch, /opt/irs-az/scans (internal only)
 ```
 
-No server yet? [tunnel/README.md](tunnel/README.md) shares the stack from a laptop via a temporary Cloudflare URL.
+[tunnel/README.md](tunnel/README.md) runs the same stack on a laptop; that was the live site until the VPS.
 
 ## One-time setup
 
 ### 1. Server
 
-Hetzner CPX21 (Ubuntu 24.04), with your SSH key added at creation.
+Hetzner CPX21-class (Ubuntu 24.04) with the admin key `~/.ssh/kitabxana_vps.pub` added at creation. Then, locally:
 
 ```bash
-# as root
-apt update && apt upgrade -y
-curl -fsSL https://get.docker.com | sh
-adduser --disabled-password --gecos "" deploy
-usermod -aG docker deploy
-mkdir -p /opt/irs-az/certs && chown -R deploy:deploy /opt/irs-az
-ufw allow OpenSSH && ufw allow 80 && ufw allow 443 && ufw enable
+ssh root@<host> 'sh -s' < deploy/provision.sh "$(cat ~/.ssh/kitabxana_vps.pub)" "$(cat ~/.ssh/kitabxana_deploy.pub)"
+echo 'LIVE_HOST=<host>' > deploy/vps.env    # scripts/sync-tunnel-db.sh reads it
 ```
 
-### 2. Deploy key
+`provision.sh` installs Docker, creates the `deploy` user, turns off password and root logins, allows only SSH through ufw, and adds swap and automatic security updates. From then on log in as `deploy` with `~/.ssh/kitabxana_vps`.
+
+### 2. CI
 
 ```bash
-ssh-keygen -t ed25519 -f irs-az-deploy -N ""      # locally
-# append irs-az-deploy.pub to /home/deploy/.ssh/authorized_keys on the server
+gh variable set DEPLOY_HOST --body <host>
+gh secret set DEPLOY_SSH_KEY < ~/.ssh/kitabxana_deploy
 ```
 
-In GitHub → repo settings:
-- **Variables** → `DEPLOY_HOST` = server IP
-- **Secrets** → `DEPLOY_SSH_KEY` = contents of `irs-az-deploy`
+The deploy job logs in to GHCR with the job's own token, so the server keeps no registry credentials.
 
-### 3. Registry access
+### 3. Stack files
 
-Images are private. On the server, as `deploy`, log in with a classic PAT that has only `read:packages`:
+On the server, in `/opt/irs-az`:
+- `.env`: from [.env.example](.env.example), plus the reader sign-in keys (`MAIL_API_KEY`, `MAIL_FROM`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`) and `INDEXNOW_KEY`.
+- `cloudflared/`: the tunnel's credentials JSON (from `~/.cloudflared/` on the machine that ran `cloudflared tunnel login`) and a `config.yml` like the laptop's, with `service: http://caddy:80`. Files must be readable by uid 65532.
+- `scans/`: the scanned books, `rsync -a ~/kitabxana-scans/ deploy@<host>:/opt/irs-az/scans/`.
+
+### 4. First deploy
+
+Run the **CI / Deploy** workflow (Actions tab, or `gh workflow run deploy.yml`). It copies the compose file, Caddyfile and backup.sh, pulls the images and starts everything; migrations run on API start.
+
+Copy the live database in full (users and reader data included) before the tunnel connects, then reindex search:
 
 ```bash
-echo <PAT> | docker login ghcr.io -u nomadical --password-stdin
+docker exec irs-az-tunnel-postgres-1 pg_dump -U postgres --clean --if-exists irs_az | gzip | \
+  ssh -i ~/.ssh/kitabxana_vps deploy@<host> 'gunzip | docker exec -i irs-az-postgres-1 psql -q -U postgres -d irs_az'
+ssh -i ~/.ssh/kitabxana_vps deploy@<host> 'docker exec -w /app irs-az-api-1 node -e "…SearchService.reindexAll()…"'
 ```
 
-### 4. Cloudflare
+Reindexing runs in the background; `GET /api/search/reindex` shows progress. The API refuses to start in production without `DATABASE_URL`, `JWT_SECRET`, `JWT_REFRESH_SECRET` (random, 32+ characters), `SITE_URL` and `CORS_ORIGIN`; Compose sets them from `.env`. `GET /api/health` answers 200 while the API reaches the database.
 
-1. Add the domain and point the nameservers at Cloudflare.
-2. `A` record `@` → server IP, proxied.
-3. SSL/TLS → **Full (strict)**.
-4. SSL/TLS → Origin Server → create certificate. Save it on the server as `/opt/irs-az/certs/origin.pem` and `origin-key.pem`.
-5. R2 → create the bucket `irs-az-backups`, plus an API token with read/write on it.
-6. Firewall ports 80 and 443 to [Cloudflare's address ranges](https://www.cloudflare.com/ips/). The API takes the visitor's address for rate limits from `CF-Connecting-IP`, which only Cloudflare can be trusted to set; an origin reachable directly would let anyone forge it.
+Then stop `cloudflared` on the laptop; Cloudflare sends everything to the server's connector. The origin has no open web port, so `CF-Connecting-IP` (used for rate limits) can only come from Cloudflare.
 
-### 5. Environment
-
-Copy [.env.example](.env.example) to `/opt/irs-az/.env` and fill it in (`openssl rand -hex 32` for secrets).
-
-### 6. First deploy
-
-Run the **CI / Deploy** workflow from the Actions tab, or push to `main`. It copies the stack files, pulls images and starts everything; migrations run on API start.
-
-Then load data and build the search index:
-
-```bash
-# locally: copy the database to the server
-pg_dump --no-owner --no-acl irs_az | gzip | ssh deploy@<host> \
-  'gunzip | docker compose -f /opt/irs-az/docker-compose.yml exec -T postgres psql -q -U postgres -d irs_az'
-```
-
-Then call `POST /api/search/reindex` as a SUPERADMIN. It answers 202 at once and indexes in the background; `GET /api/search/reindex` shows progress.
-
-The API refuses to start in production without `DATABASE_URL`, `JWT_SECRET`, `JWT_REFRESH_SECRET` (random, 32+ characters), `SITE_URL` and `CORS_ORIGIN`; Compose sets all of them from `.env`. `GET /api/health` answers 200 while the API can reach the database (the containers' healthchecks use it).
-
-### 7. Backups
+### 5. Backups
 
 ```bash
 crontab -e   # as deploy
 15 3 * * * /opt/irs-az/backup.sh >> /opt/irs-az/backups/backup.log 2>&1
+```
+
+Keeps a week of nightly dumps in `/opt/irs-az/backups`, and 30 days in R2 once `R2_*` and `BACKUP_BUCKET` are in `.env`.
+
+## Content updates
+
+Imports still run against the local database; then copy the content to the server, keeping readers' data there:
+
+```bash
+SYNC_TARGET_PSQL=scripts/vps-psql.sh scripts/sync-tunnel-db.sh
 ```
 
 ## Operations

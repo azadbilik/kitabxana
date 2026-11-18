@@ -1,8 +1,9 @@
-# TLS is "internal" (self-signed, local testing) or the Cloudflare origin
-# certificate pair: "/etc/caddy/certs/origin.pem /etc/caddy/certs/origin-key.pem"
-{$DOMAIN} {
-	tls {$TLS}
+# Plain HTTP inside the stack: cloudflared (the "kitabxana" named tunnel) terminates TLS at
+# Cloudflare and connects out from the server, so no port is open to the internet.
+:80 {
 	encode zstd gzip
+	@www header_regexp www Host ^www\.(.+)$
+	redir @www https://{re.www.1}{uri} 308
 
 	handle /api/* {
 		reverse_proxy api:4000
