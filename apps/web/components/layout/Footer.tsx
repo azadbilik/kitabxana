@@ -21,6 +21,7 @@ export function Footer() {
           <Link href={localePath(locale, `/about`)}>{nav('about')}</Link>
           <Link href={localePath(locale, `/contribute`)}>{nav('contribute')}</Link>
           <Link href={localePath(locale, `/contact`)}>{nav('contact')}</Link>
+          <Link href={localePath(locale, `/privacy`)}>{nav('privacy')}</Link>
         </nav>
       </div>
     </footer>
