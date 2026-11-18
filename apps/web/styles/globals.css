@@ -39,9 +39,9 @@
 [data-theme='dark'] {
   --bg:         #121317;
   --ink:        #ECEDEF;
-  --pomeg:      #FF8A8F;
-  --pomeg-dark: #FFB0B4;
-  --pomeg-fill: #A81E28;
+  --pomeg:      #F26D72;
+  --pomeg-dark: #F7888C;
+  --pomeg-fill: #C22A35;
   --muted:      #A3A7B0;
   --rule:       #2A2C33;
   --control:    #6E737D;
@@ -54,9 +54,9 @@
   :root:not([data-theme='light']) {
     --bg:         #121317;
     --ink:        #ECEDEF;
-    --pomeg:      #FF8A8F;
-    --pomeg-dark: #FFB0B4;
-    --pomeg-fill: #A81E28;
+    --pomeg:      #F26D72;
+    --pomeg-dark: #F7888C;
+    --pomeg-fill: #C22A35;
     --muted:      #A3A7B0;
     --rule:       #2A2C33;
     --control:    #6E737D;
@@ -2337,7 +2337,8 @@ a.gallery-coll:hover { text-decoration: underline; }
   flex-shrink: 0;
 }
 .book-cover--sm .book-cover-motif { display: none; }
-.cloth-red   { --cover-bg: #8E1B24; }
+/* Wine, not the accent's red: beside the red catalogue button a red cover read as a second accent */
+.cloth-red   { --cover-bg: #6E1626; }
 .cloth-navy  { --cover-bg: #1F3A5F; }
 .cloth-green { --cover-bg: #2F5D50; }
 .cloth-plum  { --cover-bg: #4A2C4F; }
@@ -2652,7 +2653,8 @@ a.gallery-coll:hover { text-decoration: underline; }
 .account-menu a:hover,
 .account-menu button:hover { background: var(--surf); }
 @media (max-width: 600px) {
-  .account-shelf-label { display: none; }
+  /* Not shown beside the icon on a phone, still the link's name for a screen reader */
+  .account-shelf-label { position: absolute; width: 1px; height: 1px; margin: -1px; overflow: hidden; clip: rect(0 0 0 0); white-space: nowrap; }
   .account-signin { padding: 0 0.75rem; }
 }
 

@@ -19,8 +19,9 @@ colors:
   dark-surface: "#1D1F25"
   dark-surface-deep: "#272A31"
   dark-tint: "#2A1719"
-  dark-pomegranate: "#FF8A8F"
-  cloth-red: "#8E1B24"
+  dark-pomegranate: "#F26D72"
+  dark-pomegranate-fill: "#C22A35"
+  cloth-red: "#6E1626"
   cloth-navy: "#1F3A5F"
   cloth-green: "#2F5D50"
   cloth-plum: "#4A2C4F"
@@ -213,7 +214,7 @@ The text comes first. A poem is set large in a serif at a comfortable measure, t
 ## Colors
 
 ### Accent
-- **Pomegranate** (#A81E28, 7.3:1 on white; white on it 7.3:1) is the only accent. It fills the catalogue button, the primary button ("Start reading", "Read on"), the active pill and tab, and the current section's underline. It colours links that are actions ("See all", the author on a book page), the wordmark's `.az`, and titles on hover. **Pomegranate Deep** (#7F141C, `--pomeg-fill-hover`) is the hover of every red fill in both themes; `--pomeg-dark` is a text colour (light pink in dark theme) and never goes under white text. In dark theme text lifts to #FF8A8F; fills stay #A81E28.
+- **Pomegranate** (#A81E28, 7.3:1 on white; white on it 7.3:1) is the only accent. It fills the catalogue button, the primary button ("Start reading", "Read on"), the active pill and tab, and the current section's underline. It colours links that are actions ("See all", the author on a book page), the wordmark's `.az`, and titles on hover. **Pomegranate Deep** (#7F141C, `--pomeg-fill-hover`) is the hover of every red fill in both themes; `--pomeg-dark` is a text colour (light pink in dark theme) and never goes under white text. In dark theme the text accent is #F26D72 (red rather than pink; 4.9:1 or better on every dark surface) and fills lift to #C22A35 (3.3:1 against the dark page, white on it 5.7:1), with #A81E28 as their hover.
 - **Tint** (#FBF1F1; dark #2A1719) is the accent's soft surface: the poem-of-the-day card, the reader's current place, and a couplet a link points at.
 
 ### Neutral
@@ -224,7 +225,7 @@ The text comes first. A poem is set large in a serif at a comfortable measure, t
 - **Read** (#2F6B4F, `--read`; as a mark on the dark page #7CC9A4, `--read-ink`): the one state colour, for a part the reader has marked read. It is a state, not an accent: it never colours an action.
 
 ### Cloths (covers only)
-Six cover colours, picked from a hash of the book's id, so one author's books differ and a shelf or the books index never reads as a wall of one colour; on a shelf a book that would match its neighbour moves on one cloth (`clothSequence`): red #8E1B24, navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover. Ink on sand and ochre is the page's Ink (#16181D). Every cover carries a 1px inset edge mixed from the page's ink (14%), because plum and navy on the dark page, and sand on the white one, are within 1.6:1 of it.
+Six cover colours, picked from a hash of the book's id, so one author's books differ and a shelf or the books index never reads as a wall of one colour; on a shelf a book that would match its neighbour moves on one cloth (`clothSequence`): wine #6E1626 (deliberately not the accent's red: a red cover beside the red catalogue button read as a second accent), navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover. Ink on sand and ochre is the page's Ink (#16181D). Every cover carries a 1px inset edge mixed from the page's ink (14%), because plum and navy on the dark page, and sand on the white one, are within 1.6:1 of it.
 
 ### Named rules
 **The One Red Rule.** Pomegranate is the only accent; it goes on the one primary action, the one active choice in a group, and action links. No second accent hue. Cloths are not accents.

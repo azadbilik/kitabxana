@@ -6,6 +6,7 @@ import Link from 'next/link';
 import { useTranslations } from 'next-intl';
 import { localized } from '@/lib/locale';
 import { localePath } from '@/lib/i18n';
+import { ARTWORK_THUMBS } from '@/lib/artwork-thumbs';
 
 export interface Artwork {
   id: string;
@@ -149,6 +150,10 @@ export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showC
                   {/* Resized by Next.js: museum originals run to a megabyte or more */}
                   {(() => {
                     const src = a.imageSmallUrl ?? a.imageUrl;
+                    // A PNG scan we keep a 20 KB WebP of (scripts/artwork-thumbs.py): no request to Commons
+                    if (ARTWORK_THUMBS.has(a.id)) {
+                      return <Image src={`/artworks/${a.id}.webp`} alt="" fill unoptimized />;
+                    }
                     const thumb = whole.has(a.id) ? null : commonsThumb(src, 250);
                     return isCommons(src) ? (
                       <Image

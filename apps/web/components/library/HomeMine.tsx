@@ -69,8 +69,9 @@ export function HomeMine() {
   const author = work ? localized(work.author, 'name', locale) ?? work.author.nameAz : '';
   const percent = cont ? Math.round(cont.progress * 100) : 0;
 
+  // Named apart from the shelf inside it, which is "my shelf": two regions, two names
   return (
-    <section className="home-mine" aria-label={t('my_shelf_short')}>
+    <section className="home-mine" aria-label={t('continue_label')}>
       {work && (
         <div className="continue-card">
           <div className="continue-cover">
