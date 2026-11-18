@@ -667,8 +667,9 @@ blockquote {
   font-variant-numeric: tabular-nums;
 }
 [data-numbers='on'] .verse-no:hover { color: var(--pomeg); }
-/* The fold clips at the text's own edge: widen it so the margin numbers stay in view */
-[data-numbers='on'].is-folded { margin-inline: -2rem; padding-inline: 2rem; }
+/* The fold clips at the text's own edge: widen it by the page gutter, no further, so the
+   margin numbers stay in view and a phone does not scroll sideways */
+[data-numbers='on'].is-folded { margin-inline: -1.5rem; padding-inline: 1.5rem; }
 
 /* Tailpiece: the printer's mark that closes the text */
 .tailpiece {

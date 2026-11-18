@@ -72,12 +72,16 @@ export function SignInPanel({
   };
 
   // From the sign-in page itself (in any language) Google returns to the shelf, as the email path does
-  const returnTo =
-    typeof window === 'undefined'
-      ? '/'
-      : location.pathname === localePath(locale, '/giris')
+  // Read after mount: the address is not known while the page is drawn on the server, and
+  // a different link there and here is a hydration mismatch
+  const [returnTo, setReturnTo] = useState('/');
+  useEffect(() => {
+    setReturnTo(
+      location.pathname === localePath(locale, '/giris')
         ? localePath(locale, '/refim')
-        : location.pathname + location.search;
+        : location.pathname + location.search,
+    );
+  }, [locale]);
 
   if (providers && !providers.google && !providers.email) {
     return (

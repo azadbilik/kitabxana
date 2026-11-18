@@ -12,13 +12,14 @@ export async function NotFoundContent() {
   return (
     <div className="container page-content not-found">
       <header className="page-header">
-        <p className="not-found-code" aria-hidden="true">404</p>
+        {/* A watermark, not text: the figure is drawn by CSS (the heading says what happened) */}
+        <p className="not-found-code" aria-hidden="true" />
         <h1>{t('title')}</h1>
         <p className="not-found-text">{t('text')}</p>
       </header>
 
       {/* A plain GET form: the search page reads ?q=, so this works without JavaScript */}
-      <form action={localePath(locale, `/search`)} method="get" className="not-found-search" role="search">
+      <form action={localePath(locale, `/search`)} method="get" className="not-found-search" role="search" aria-label={t('search_placeholder')}>
         <input
           type="search"
           name="q"

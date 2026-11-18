@@ -178,7 +178,7 @@ function Search() {
         <h1>{t('nav.search')}</h1>
       </header>
 
-      <form className="search-form" role="search" onSubmit={handleSearch}>
+      <form className="search-form" role="search" aria-label={t('search.label')} onSubmit={handleSearch}>
         <label htmlFor="search-q" className="sr-only">{t('search.label')}</label>
         <input
           id="search-q"

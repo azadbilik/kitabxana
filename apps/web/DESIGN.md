@@ -297,6 +297,6 @@ Unchanged in structure (`components/reading/ReadingView.tsx`): breadcrumb, centr
 - Don't add shadows to cards, tiles or buttons.
 - Don't bring back Gazette devices in Nar: ◆ ornaments, double rules, ivory, tracked uppercase labels.
 - Don't widen reading text past 36rem / 48rem / 64rem.
-- Don't set new interface text below 0.75rem.
+- Don't set new interface text below 0.7rem, or at a size between two documented steps.
 - Don't let a page set cookies: HTML is edge-cached for everyone (see the Cloudflare cache rule); per-reader state loads in the browser.
 - Don't rename a public filter URL word (`muellif-`, `janr-`, `forma-`, `esr-`, `sairler`…).

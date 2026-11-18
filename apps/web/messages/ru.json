@@ -26,7 +26,7 @@
     "shelf_prose": "Романы и рассказы",
     "shelf_drama": "Драматургия",
     "see_all": "Все",
-    "browse_label": "Каталог",
+    "browse_label": "Темы, века и формы",
     "work_count": "{count, plural, one {# произведение} few {# произведения} many {# произведений} other {# произведения}}"
   },
   "nav": {

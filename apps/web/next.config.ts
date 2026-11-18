@@ -81,6 +81,9 @@ const nextConfig: NextConfig = {
     };
   },
   images: {
+    // Museum and Commons images never change at an address: fetch each from its source once
+    // a month, not once a minute (the default), which is what gets a server rate-limited
+    minimumCacheTTL: 60 * 60 * 24 * 31,
     remotePatterns: [
       {
         protocol: 'https',

@@ -88,7 +88,7 @@
 }
 .tree-ring:first-child .tree-ring-bar { border-radius: 999px 2px 2px 999px; }
 .tree-ring:last-child .tree-ring-bar { border-radius: 2px 999px 999px 2px; }
-.tree-ring-bar i { display: block; height: 100%; background: var(--t-accent); transition: width 0.6s ease; }
+.tree-ring-bar i { display: block; height: 100%; background: var(--t-accent); transform-origin: left; transition: transform 0.6s ease; }
 .tree-ring-when { font-size: 0.7rem; font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .tree-ring:hover .tree-ring-when, .tree-ring:focus-visible .tree-ring-when { color: var(--t-ink); }
 .tree-ring:hover .tree-ring-bar { background: var(--t-rule); }

@@ -70,6 +70,7 @@ function HeaderSearch({ locale }: { locale: string }) {
     <form
       className="header-search"
       role="search"
+      aria-label={t('search')}
       action={action}
       onSubmit={(e) => {
         e.preventDefault();

@@ -146,7 +146,7 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
           const fill = me ? share(s.read, s.works) : share(s.authors, s.authors + s.missing);
           return (
             <a key={e.key} href={`#${e.key}`} className="tree-ring" style={{ flexGrow: Math.max(1, Math.log2(s.works + s.missing * 20 + 2)) }}>
-              <span className="tree-ring-bar"><i style={{ width: `${Math.round(fill * 100)}%` }} /></span>
+              <span className="tree-ring-bar"><i style={{ transform: `scaleX(${Math.round(fill * 100) / 100})` }} /></span>
               <span className="tree-ring-when">{e.when.replace(' — ', '–')}</span>
             </a>
           );

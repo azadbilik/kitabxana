@@ -618,6 +618,7 @@
 }
 :root .daily-poem-title { font-size: 2rem; font-weight: 700; }
 :root .daily-poem-author { font-size: 0.9rem; }
+:root .daily-poem-author a { display: inline-block; padding-block: 0.25rem; margin-block: -0.25rem; }
 :root .daily-poem-excerpt {
   font-style:  normal;
   font-size:   1.125rem;
@@ -710,6 +711,7 @@
 }
 :root .search-btn:hover { background: var(--pomeg-fill-hover); }
 :root .search-btn::before { content: none; }
+:root .not-found-code::before { content: '404'; }
 :root .not-found-code {
   font-family:    var(--font-ui);
   font-weight:    700;
@@ -1514,6 +1516,9 @@
 }
 :root .search-form .search-btn:hover,
 :root .search-form .search-input:focus + .search-btn { background: var(--pomeg-fill); color: #fff; }
+/* Results arrive after the page does: the page holds a screen's height from the start, so
+   the footer is not on screen to be pushed down when they come */
+:root .search-page { min-height: 100svh; }
 :root .search-status { min-height: 1.5rem; margin: 0; font-size: 0.9rem; color: var(--muted); }
 :root .search-hint { max-width: 36rem; margin: 0; color: var(--muted); }
 :root .search-group { margin-top: 2rem; }
