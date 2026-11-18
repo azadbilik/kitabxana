@@ -104,15 +104,190 @@ async function fetchPages(titles: string[]): Promise<Map<string, Page | null>> {
       }
     }
 
+    const toScan: { requested: string; from: string; scan: string }[] = [];
     for (const requested of batch) {
       let t = requested;
       t = q.normalized?.find((n) => n.from === t)?.to ?? t;
+      const from = t;
       t = q.redirects?.find((r) => r.from === t)?.to ?? t;
-      result.set(requested, byTitle.get(t) ?? null);
+      if (t !== from && SCAN_PAGE.test(t)) toScan.push({ requested, from, scan: t });
+      else result.set(requested, byTitle.get(t) ?? null);
     }
+    for (const [requested, page] of await cutScanPoems(toScan)) result.set(requested, page);
   }
 
   return result;
+}
+
+// ── Poems that redirect into a scanned book ──
+
+/**
+ * Some poem titles redirect to a proofread page of a scanned book
+ * ("Səhifə:Zodlu Abdulla (…). Bakı, Təbib, 2024.pdf/50"). Such a page holds whatever the
+ * printed page held: the end of the previous poem, this one under its bold heading, the
+ * start of the next, the page number. The poem is cut out by its heading and followed onto
+ * the next pages until another heading starts. It keeps the redirect's own page id and title,
+ * so two poems on one printed page stay two works.
+ */
+const SCAN_PAGE = /^Səhifə:(.+\.(?:pdf|djvu))\/(\d+)$/i;
+// A poem's bold heading; a bold line ending in ":" is a speaker in a debate poem, not a heading
+// and a bold line in brackets is a dedication under the heading
+const SCAN_HEADING = /^'''(?![('])(.+?[^:)])'''$/;
+const SCAN_FOLLOW = 3; // printed pages a poem may run onto
+
+const scanCache = new Map<string, string | null>();
+
+async function scanPageTexts(titles: string[]): Promise<void> {
+  const todo = [...new Set(titles)].filter((t) => !scanCache.has(t));
+  for (let i = 0; i < todo.length; i += BATCH) {
+    const batch = todo.slice(i, i + BATCH);
+    const data = await mediawikiApi<QueryResponse>(SITE, {
+      action: 'query',
+      prop: 'revisions',
+      rvprop: 'content',
+      rvslots: 'main',
+      titles: batch.join('|'),
+    });
+    const q = data.query ?? {};
+    for (const t of batch) scanCache.set(t, null);
+    for (const p of q.pages ?? []) {
+      const content = p.revisions?.[0]?.slots.main.content;
+      if (p.missing || content == null) continue;
+      const requested = q.normalized?.find((n) => n.to === p.title)?.from ?? p.title;
+      scanCache.set(requested, content);
+    }
+  }
+}
+
+/** The printed text of a scan page: no header/footer, no <poem> wrapper, no page number */
+function scanLines(wikitext: string): string[] {
+  const text = wikitext
+    .replace(/<noinclude>[\s\S]*?<\/noinclude>/gi, '')
+    .replace(/<\/?poem[^>]*>/gi, '');
+  const lines = text.split('\n').map((l) => l.trim());
+  while (lines.length && (lines[lines.length - 1] === '' || /^\d{1,4}$/.test(lines[lines.length - 1]))) lines.pop();
+  while (lines.length && lines[0] === '') lines.shift();
+  return lines;
+}
+
+const fold = (s: string) =>
+  s.toLocaleUpperCase('az').replace(/[^\p{L}\p{N}]+/gu, ' ').trim();
+
+async function cutScanPoems(
+  items: { requested: string; from: string; scan: string }[],
+): Promise<Map<string, Page | null>> {
+  const out = new Map<string, Page | null>();
+  if (items.length === 0) return out;
+
+  // The redirects' own page ids (the query above only returns their targets)
+  const ids = new Map<string, number>();
+  for (let i = 0; i < items.length; i += BATCH) {
+    const batch = items.slice(i, i + BATCH);
+    const data = await mediawikiApi<QueryResponse>(SITE, {
+      action: 'query',
+      prop: 'info',
+      titles: batch.map((b) => b.from).join('|'),
+    });
+    for (const p of data.query?.pages ?? []) if (p.pageid) ids.set(p.title, p.pageid);
+  }
+
+  const pageTitle = (book: string, n: number) => `Səhifə:${book}/${n}`;
+  const wanted: string[] = [];
+  for (const it of items) {
+    const [, book, num] = it.scan.match(SCAN_PAGE)!;
+    for (let k = -1; k <= SCAN_FOLLOW; k++) wanted.push(pageTitle(book, Number(num) + k));
+  }
+  await scanPageTexts(wanted);
+
+  for (const it of items) {
+    const [, book, num] = it.scan.match(SCAN_PAGE)!;
+    const pageid = ids.get(it.from);
+    // "Gülə-gülə (Zimistan zəhmətin çəkəndə sənin, Zodlu Abdulla)": the name, and a first line
+    // to tell apart two poems of one name
+    const m = it.from.match(/^(.*?)\s*\((.*)\)$/);
+    const name = fold(m ? m[1] : it.from);
+    const hint = m && m[2].includes(',') ? fold(m[2].slice(0, m[2].lastIndexOf(','))) : '';
+
+    // The redirect usually targets the page with the heading; sometimes the page after it,
+    // where the poem goes on
+    let base = Number(num);
+    const hasName = (text: string | null | undefined) =>
+      !!text && scanLines(text).some((l) => {
+        const h = l.match(SCAN_HEADING)?.[1];
+        return !!h && (fold(h) === name || fold(h).endsWith(` ${name}`));
+      });
+    if (!hasName(scanCache.get(pageTitle(book, base))) && hasName(scanCache.get(pageTitle(book, base - 1)))) base -= 1;
+    const first = scanCache.get(pageTitle(book, base));
+    if (!first || !pageid) {
+      console.warn(`  ${it.from}: scan page ${it.scan} not readable`);
+      out.set(it.requested, null);
+      continue;
+    }
+    const lines = scanLines(first);
+    const headings = lines
+      .map((l, i) => ({ i, h: l.match(SCAN_HEADING)?.[1] ?? '' }))
+      .filter((x) => x.h);
+    // The poem under a heading, up to the next one
+    const segment = (i: number) => {
+      const next = headings.find((x) => x.i > i)?.i ?? lines.length;
+      return lines.slice(i + 1, next);
+    };
+    // Wikisource names a poem by its refrain ("Bax"); the book may print more of it ("QƏZA BAX").
+    // Failing both, a heading whose poem repeats the name as its refrain
+    const refrainCount = (i: number) =>
+      segment(i).filter((l) => ` ${fold(l)} `.includes(` ${name} `)).length;
+    let starts = headings.filter((x) => fold(x.h) === name);
+    if (starts.length === 0) starts = headings.filter((x) => fold(x.h).endsWith(` ${name}`));
+    if (starts.length === 0) starts = headings.filter((x) => refrainCount(x.i) >= 2);
+    const firstLineAfter = (i: number) => fold(lines.slice(i + 1).find((l) => l !== '') ?? '');
+    const start =
+      starts.find((s) => hint && firstLineAfter(s.i).startsWith(hint)) ?? (starts.length === 1 ? starts[0] : undefined);
+    if (!start) {
+      console.warn(`  ${it.from}: heading not found on ${it.scan}`);
+      out.set(it.requested, null);
+      continue;
+    }
+
+    const poem: string[] = [];
+    let ended = false;
+    const take = (from: string[]) => {
+      for (const l of from) {
+        // The next poem's heading, or the bold-italic name of another poet whose poem follows
+        if (SCAN_HEADING.test(l) || /^'{5}.+'{5}$/.test(l)) {
+          ended = true;
+          return;
+        }
+        poem.push(l);
+      }
+    };
+    take(lines.slice(start.i + 1));
+    for (let k = 1; k <= SCAN_FOLLOW && !ended; k++) {
+      const next = scanCache.get(pageTitle(book, base + k));
+      if (!next) break;
+      // A page that opens with a heading means the poem ended with the previous page.
+      // Otherwise it carries on; scanLines trims the page's blank lines, so a stanza break
+      // at the page turn is restored where the last line closes a sentence
+      const cont = scanLines(next);
+      if (!cont.length || SCAN_HEADING.test(cont[0])) {
+        ended = true;
+        break;
+      }
+      if (/[.!?…»"”]$/.test(poem[poem.length - 1] ?? '')) poem.push('');
+      take(cont);
+    }
+    if (!ended) console.warn(`  ${it.from}: no next heading within ${SCAN_FOLLOW} pages, kept what was read`);
+
+    // A longer printed name ("Qəza bax" for "Bax") becomes the title
+    const printed = fold(start.h).endsWith(` ${name}`)
+      ? start.h.toLocaleLowerCase('az').replace(/^\p{L}/u, (c) => c.toLocaleUpperCase('az'))
+      : '';
+    out.set(it.requested, {
+      pageid,
+      title: it.from,
+      wikitext: `${printed ? `{{Başlıq|başlıq=${printed}}}\n` : ''}<poem>\n${poem.join('\n').trim()}\n</poem>`,
+    });
+  }
+  return out;
 }
 
 // ── Wikitext helpers ──
