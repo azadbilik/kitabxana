@@ -13,6 +13,8 @@ export interface ReadingPrefs {
   align: TextAlign;
   // Verse only: every fifth couplet or line numbered in the margin; a number links to its line
   numbers: boolean;
+  // Azerbaijani texts: a tapped word opens its dictionary entry
+  glossary: boolean;
 }
 
 export const readingFonts = ['book', 'literary', 'sans', 'system'] as const;
@@ -36,6 +38,7 @@ const defaults: ReadingPrefs = {
   paragraphs: 'indented',
   align: 'start',
   numbers: false,
+  glossary: true,
 };
 
 /** A saved choice, including the older 'serif' (now 'book') */
@@ -58,6 +61,7 @@ function load(): ReadingPrefs {
       paragraphs: paragraphStyles.includes(parsed.paragraphs) ? parsed.paragraphs : defaults.paragraphs,
       align: textAligns.includes(parsed.align) ? parsed.align : defaults.align,
       numbers: parsed.numbers === true,
+      glossary: parsed.glossary !== false,
     };
   } catch {
     return defaults;

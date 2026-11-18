@@ -358,6 +358,25 @@
     "appearance_size": "Ölçü",
     "appearance_width": "En",
     "appearance_font": "Şrift",
+    "appearance_glossary": "Lüğət",
+    "glossary_names": {
+      "off": "Bağlı",
+      "on": "Açıq"
+    },
+    "gloss_title": "Lüğət",
+    "gloss_source": "Ərəb və fars sözləri lüğəti, Bakı, 2005",
+    "gloss_origin_from": "{via}, əsli {first}",
+    "gloss_origin": {
+      "ar": "ərəbcə",
+      "fa": "farsca",
+      "az": "azərbaycanca",
+      "tr": "türkcə",
+      "el": "yunanca",
+      "la": "latınca",
+      "he": "ibranicə",
+      "sa": "sanskritcə",
+      "syr": "süryanicə"
+    },
     "appearance_leading": "Aralıq",
     "leading_names": {
       "tight": "Sıx",

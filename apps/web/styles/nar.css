@@ -1651,3 +1651,57 @@
   :root .reading > .parallel,
   :root .reading > .reading-column { margin-top: 0.75rem; }
 }
+
+/* Word gloss: the dictionary entry of a tapped word, a floating panel like the Aa menu */
+:root .word-gloss {
+  position:      absolute;
+  z-index:       60;
+  width:         min(22rem, calc(100vw - 1.5rem));
+  max-height:    min(22rem, 70vh);
+  overflow-y:    auto;
+  padding:       1rem;
+  background:    var(--bg);
+  border-radius: var(--radius-lg);
+  box-shadow:    var(--shadow-pop);
+  font-family:   var(--font-ui);
+  font-size:     0.9rem;
+  line-height:   1.5;
+  color:         var(--ink);
+}
+:root[data-theme='dark'] .word-gloss { background: var(--surf); }
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) .word-gloss { background: var(--surf); }
+}
+:root .word-gloss-entry + .word-gloss-entry {
+  margin-top:  0.75rem;
+  padding-top: 0.75rem;
+  border-top:  1px solid var(--rule);
+}
+:root .word-gloss-head {
+  margin:      0 0 0.25rem;
+  font-family: var(--font-serif);
+  font-size:   1.125rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+:root .word-gloss-phrase {
+  margin:        0 0 0.5rem;
+  padding:       0.5rem 0.625rem;
+  background:    var(--tint);
+  border-radius: var(--radius);
+}
+:root .word-gloss-sense { margin: 0; }
+:root .word-gloss-sense + .word-gloss-sense { margin-top: 0.375rem; }
+:root .word-gloss-origin {
+  margin-inline-end: 0.375rem;
+  font-size:   0.8rem;
+  color:       var(--muted);
+}
+:root .word-gloss-origin::after { content: ' ·'; }
+:root .word-gloss-source {
+  margin:      0.75rem 0 0;
+  font-size:   0.75rem;
+  color:       var(--muted);
+}
+::highlight(word-gloss) { background-color: var(--tint); }
+@media print { :root .word-gloss { display: none; } }

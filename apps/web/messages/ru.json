@@ -358,6 +358,25 @@
     "appearance_size": "Размер",
     "appearance_width": "Ширина",
     "appearance_font": "Шрифт",
+    "appearance_glossary": "Словарь",
+    "glossary_names": {
+      "off": "Выкл.",
+      "on": "Вкл."
+    },
+    "gloss_title": "Словарь",
+    "gloss_source": "Словарь арабских и персидских слов, Баку, 2005",
+    "gloss_origin_from": "{via}, из {first}",
+    "gloss_origin": {
+      "ar": "арабское",
+      "fa": "персидское",
+      "az": "азербайджанское",
+      "tr": "турецкое",
+      "el": "греческое",
+      "la": "латинское",
+      "he": "древнееврейское",
+      "sa": "санскритское",
+      "syr": "сирийское"
+    },
     "appearance_leading": "Интервал",
     "leading_names": {
       "tight": "Плотный",

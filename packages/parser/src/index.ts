@@ -20,6 +20,7 @@ import { scrapePunhanCommand } from './commands/scrape-punhan';
 import { scrapeBurhaneddinCommand } from './commands/scrape-burhaneddin';
 import { scrapeFolkCommand } from './commands/scrape-folk';
 import { linkWikidataCommand } from './commands/link-wikidata';
+import { glossaryCommand } from './commands/glossary';
 
 const program = new Command()
   .name('irs-parser')
@@ -47,5 +48,6 @@ program.addCommand(scrapePunhanCommand);
 program.addCommand(scrapeBurhaneddinCommand);
 program.addCommand(scrapeFolkCommand);
 program.addCommand(linkWikidataCommand);
+program.addCommand(glossaryCommand);
 
 program.parse();

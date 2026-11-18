@@ -358,6 +358,25 @@
     "appearance_size": "Size",
     "appearance_width": "Width",
     "appearance_font": "Font",
+    "appearance_glossary": "Dictionary",
+    "glossary_names": {
+      "off": "Off",
+      "on": "On"
+    },
+    "gloss_title": "Dictionary",
+    "gloss_source": "Dictionary of Arabic and Persian Words, Baku, 2005",
+    "gloss_origin_from": "{via}, from {first}",
+    "gloss_origin": {
+      "ar": "Arabic",
+      "fa": "Persian",
+      "az": "Azerbaijani",
+      "tr": "Turkish",
+      "el": "Greek",
+      "la": "Latin",
+      "he": "Hebrew",
+      "sa": "Sanskrit",
+      "syr": "Syriac"
+    },
     "appearance_leading": "Spacing",
     "leading_names": {
       "tight": "Tight",

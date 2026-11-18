@@ -9,6 +9,7 @@ import { isArabicScript, langTag, lineCount, sourceInfo, verseBlocks, type Sourc
 import { AppearancePopover } from './AppearancePopover';
 import { ReadingProgress } from './ReadingProgress';
 import { Pager } from './Pager';
+import { WordGloss } from './WordGloss';
 
 /** The translation set beside the original: only the one being read is sent to the browser */
 export interface ShownTranslation {
@@ -153,6 +154,8 @@ export function ReadingView({
   const translationAttrs = translation
     ? ({ lang: langTag[translation.language], dir: translation.scriptDirection === 'RTL' ? 'rtl' : 'ltr' } as const)
     : null;
+  // The dictionary reads Azerbaijani in Latin script, the original's or a translation's
+  const hasGlossary = originalTag === 'az-Latn' || translationAttrs?.lang === 'az-Latn';
 
   // Long poems open folded; decided from the text itself so server and client agree.
   // Prose opens whole: someone who came to read a chapter shouldn't have to unfold it
@@ -253,7 +256,7 @@ export function ReadingView({
         }`}
       >
         {control || <span />}
-        <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} />
+        <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} hasGlossary={hasGlossary} />
       </div>
 
       {!isPoem && <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} />}
@@ -338,6 +341,8 @@ export function ReadingView({
           dangerouslySetInnerHTML={{ __html: body }}
         />
       )}
+
+      {hasGlossary && prefs.glossary && <WordGloss root={textRef} />}
 
       {folded && (
         <div className="unfold">

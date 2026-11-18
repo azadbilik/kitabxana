@@ -14,6 +14,7 @@ import { SearchModule } from './search/search.module';
 import { BlogModule } from './blog/blog.module';
 import { SitemapModule } from './sitemap/sitemap.module';
 import { TagsModule } from './tags/tags.module';
+import { GlossaryModule } from './glossary/glossary.module';
 import { DownloadsModule } from './downloads/downloads.module';
 import { AccountModule } from './account/account.module';
 import { LibraryModule } from './library/library.module';
@@ -35,6 +36,7 @@ import { CleanupService } from './common/services/cleanup.service';
     CollectionsModule,
     WorksModule,
     TagsModule,
+    GlossaryModule,
     TranslationsModule,
     SubmissionsModule,
     SearchModule,

@@ -8,12 +8,14 @@ interface Props {
   prefs: ReadingPrefs;
   onUpdate: (patch: Partial<ReadingPrefs>) => void;
   isPoem: boolean;
+  /** The text has Azerbaijani in Latin script, which the dictionary reads */
+  hasGlossary: boolean;
 }
 
 const fontSizeSteps = ['S', 'M', 'L', 'XL'] as const;
 const widthSteps = ['standard', 'wide', 'full'] as const;
 
-export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
+export function AppearancePopover({ prefs, onUpdate, isPoem, hasGlossary }: Props) {
   const t = useTranslations('reading');
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
@@ -143,6 +145,19 @@ export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
                 {[false, true].map((on) => {
                   const name = t(`numbers_names.${on ? 'on' : 'off'}`);
                   return step(prefs.numbers === on, name, name, () => onUpdate({ numbers: on }));
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* A tapped word opens its entry in the dictionary of Arabic and Persian words */}
+          {hasGlossary && (
+            <div className="appearance-row" role="group" aria-label={t('appearance_glossary')}>
+              <span className="appearance-label" aria-hidden="true">{t('appearance_glossary')}</span>
+              <div className="appearance-steps">
+                {[false, true].map((on) => {
+                  const name = t(`glossary_names.${on ? 'on' : 'off'}`);
+                  return step(prefs.glossary === on, name, name, () => onUpdate({ glossary: on }));
                 })}
               </div>
             </div>
