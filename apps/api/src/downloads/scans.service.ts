@@ -51,6 +51,24 @@ const KNOWN_PAGES: Record<string, { from: number; to: number }> = {
   'anl-8529-t1': { from: 4, to: 93 },
 };
 
+/**
+ * Starts read off the scan by hand where `parse scan-starts` couldn't place a work (its opening is
+ * a short stage direction the OCR matches poorly). They join SCAN_STARTS, so a re-run keeps them.
+ */
+const KNOWN_STARTS: Record<string, number> = {
+  // Əsərləri (235376): the act and scene headings ("Üçüncü pərdə", "İkinci şəkil") on these pages
+  'anl-235376-t1-3': 14,
+  'anl-235376-t2-3': 31,
+  'anl-235376-t3-1': 40,
+  'anl-235376-t3-2': 47,
+  'anl-235376-t5-2': 102,
+  'anl-235376-t5-6': 125,
+  'anl-235376-t6-3': 140,
+  'anl-235376-t6-7': 157,
+  'anl-235376-t6-8': 159,
+};
+const STARTS: Record<string, number> = { ...SCAN_STARTS, ...KNOWN_STARTS };
+
 const naturalCompare = (a: string, b: string) => a.localeCompare(b, 'en', { numeric: true });
 
 /**
@@ -185,13 +203,13 @@ export class ScansService {
 
     // Exact starts, where a run's works were found in the scan: each runs to the page the next
     // work (or run) starts on, inclusive since it may start mid-page
-    const exact = placed.filter((r) => SCAN_STARTS[r.sourceId] != null);
+    const exact = placed.filter((r) => STARTS[r.sourceId] != null);
     if (exact.length) {
-      const bounds = [...new Set([...groups.map((g) => g.start), ...exact.map((r) => SCAN_STARTS[r.sourceId])])].sort(
+      const bounds = [...new Set([...groups.map((g) => g.start), ...exact.map((r) => STARTS[r.sourceId])])].sort(
         (a, b) => a - b,
       );
       for (const row of exact) {
-        const from = Math.min(SCAN_STARTS[row.sourceId], pages);
+        const from = Math.min(STARTS[row.sourceId], pages);
         const next = bounds.find((page) => page > from);
         const to = next ?? SCAN_TEXT_END[key] ?? works.get(row.sourceId)?.to ?? pages;
         works.set(row.sourceId, { from, to: Math.min(Math.max(to, from), pages) });
