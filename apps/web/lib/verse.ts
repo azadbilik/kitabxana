@@ -71,9 +71,22 @@ export function isPlaceholderTitle(title: string | null, slug: string): boolean 
 const PARA = /<p>([\s\S]*?)<\/p>/g;
 const BR = /<br\s*\/?>/;
 
-function beyt(a: string, b: string, maqtaLabel: string | null): string {
+/**
+ * The address of one couplet (`#b7`) or line (`#l12`), and its number for the margin. The
+ * number is drawn by CSS from `data-n`, so it is never part of copied or read-out text;
+ * every fifth one is marked, which is all the margin shows.
+ */
+function anchor(prefix: 'b' | 'l', n: number): { id: string; mark: string } {
+  return {
+    id: ` id="${prefix}${n}"`,
+    mark: `<a class="verse-no${n % 5 === 0 ? ' verse-no--fifth' : ''}" href="#${prefix}${n}" data-n="${n}" aria-hidden="true" tabindex="-1"></a>`,
+  };
+}
+
+function beyt(a: string, b: string, maqtaLabel: string | null, n: number | null): string {
   const label = maqtaLabel ? `<span class="sr-only">${maqtaLabel}. </span>` : '';
-  return `<p class="beyt${maqtaLabel ? ' beyt--maqta' : ''}">${label}<span class="misra">${a}</span><span class="misra">${b}</span></p>`;
+  const at = n ? anchor('b', n) : { id: '', mark: '' };
+  return `<p class="beyt${maqtaLabel ? ' beyt--maqta' : ''}"${at.id}>${at.mark}${label}<span class="misra">${a}</span><span class="misra">${b}</span></p>`;
 }
 
 /**
@@ -81,11 +94,13 @@ function beyt(a: string, b: string, maqtaLabel: string | null): string {
  * new lines. Couplets (`<p>line<br>line</p>`) become beyts of two hemistichs
  * (misra); a masnavi stored as long stanzas is re-paired into beyts; anything
  * else keeps its stanzas with each line on its own. Non-paragraph HTML is
- * returned untouched.
+ * returned untouched. With `anchors`, every couplet (or, outside couplets, every
+ * line) gets an address of its own: for the original only, so ids stay unique
+ * beside a translation.
  */
 export function formatVerse(
   html: string,
-  opts: { form?: string | null; maqtaLabel?: string } = {},
+  opts: { form?: string | null; maqtaLabel?: string; anchors?: boolean } = {},
 ): { html: string; maqta: boolean } {
   const paras = [...html.matchAll(PARA)].map((m) => m[1].split(BR).map((l) => l.trim()).filter(Boolean));
   if (paras.length === 0 || html.replace(PARA, '').trim()) return { html, maqta: false };
@@ -102,23 +117,28 @@ export function formatVerse(
     const maqta = opts.form === 'GHAZAL' && pairs.length > 2;
     return {
       html: pairs
-        .map(([a, b], i) => beyt(a, b, maqta && i === pairs.length - 1 ? opts.maqtaLabel ?? '' : null))
+        .map(([a, b], i) =>
+          beyt(a, b, maqta && i === pairs.length - 1 ? opts.maqtaLabel ?? '' : null, opts.anchors ? i + 1 : null),
+        )
         .join(''),
       maqta,
     };
   }
 
+  let n = 0;
+  const line = (l: string) => {
+    const at = opts.anchors ? anchor('l', ++n) : { id: '', mark: '' };
+    return `<span class="verse-line"${at.id}>${at.mark}${l}</span>`;
+  };
   return {
-    html: paras
-      .map((p) => `<p class="stanza">${p.map((l) => `<span class="verse-line">${l}</span>`).join('')}</p>`)
-      .join(''),
+    html: paras.map((p) => `<p class="stanza">${p.map(line).join('')}</p>`).join(''),
     maqta: false,
   };
 }
 
 /** The pieces of formatted verse, one per beyt or stanza, for line-up in parallel view */
 export function verseBlocks(html: string): string[] | null {
-  const blocks = html.match(/<p class="(?:beyt|stanza)[^"]*">[\s\S]*?<\/p>/g);
+  const blocks = html.match(/<p class="(?:beyt|stanza)[^"]*"[^>]*>[\s\S]*?<\/p>/g);
   return blocks && blocks.join('') === html ? blocks : null;
 }
 

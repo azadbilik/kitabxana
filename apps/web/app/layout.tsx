@@ -12,10 +12,20 @@ import { SITE_NAME, SITE_URL } from '@/lib/seo';
 const inter = Inter({ subsets: ['latin', 'latin-ext'], variable: '--f-inter', display: 'swap' });
 const literata = Literata({
   subsets: ['latin', 'latin-ext'],
-  style: ['normal', 'italic'],
+  style: ['normal'],
   axes: ['opsz'],
   variable: '--f-literata',
   display: 'swap',
+});
+// The italic is the same family, declared apart so that it is not preloaded: few pages
+// open on italic text, and it loads when one does
+const literataItalic = Literata({
+  subsets: ['latin', 'latin-ext'],
+  style: ['italic'],
+  axes: ['opsz'],
+  variable: '--f-literata-italic',
+  display: 'swap',
+  preload: false,
 });
 const naskh = Noto_Naskh_Arabic({ subsets: ['arabic'], variable: '--f-naskh', display: 'swap', preload: false });
 
@@ -45,7 +55,7 @@ export default async function RootLayout({
   const locale = await getLocale();
 
   return (
-    <html lang={locale} className={`${inter.variable} ${literata.variable} ${naskh.variable}`} suppressHydrationWarning>
+    <html lang={locale} className={`${inter.variable} ${literata.variable} ${literataItalic.variable} ${naskh.variable}`} suppressHydrationWarning>
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{

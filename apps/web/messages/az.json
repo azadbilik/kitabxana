@@ -390,6 +390,11 @@
       "spaced": "Aralı",
       "indented": "Girintili"
     },
+    "appearance_numbers": "Nömrələr",
+    "numbers_names": {
+      "off": "Yox",
+      "on": "Hər 5-ci"
+    },
     "appearance_align": "Düzləmə",
     "align_names": {
       "start": "Sola",

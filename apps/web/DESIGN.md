@@ -26,6 +26,8 @@ colors:
   cloth-plum: "#4A2C4F"
   cloth-sand: "#E9E2D5"
   cloth-ochre: "#D9A441"
+  read: "#2F6B4F"
+  dark-read: "#7CC9A4"
 typography:
   display:
     fontFamily: "Literata, Georgia, serif"
@@ -69,6 +71,46 @@ typography:
     fontSize: "0.875rem"
     fontWeight: 400
     lineHeight: 1.5
+  caption:
+    fontFamily: "Inter, Helvetica Neue, Arial, sans-serif"
+    fontSize: "0.8rem"
+    fontWeight: 400
+    lineHeight: 1.45
+  note:
+    fontFamily: "Inter, Helvetica Neue, Arial, sans-serif"
+    fontSize: "0.75rem"
+    fontWeight: 400
+    lineHeight: 1.4
+  fine:
+    fontFamily: "Inter, Helvetica Neue, Arial, sans-serif"
+    fontSize: "0.7rem"
+    fontWeight: 500
+    lineHeight: 1.3
+  subhead:
+    fontFamily: "Inter, Helvetica Neue, Arial, sans-serif"
+    fontSize: "1.125rem"
+    fontWeight: 600
+    lineHeight: 1.3
+  lead:
+    fontFamily: "Literata, Georgia, serif"
+    fontSize: "1.2rem"
+    fontWeight: 400
+    lineHeight: 1.6
+  title-large:
+    fontFamily: "Literata, Georgia, serif"
+    fontSize: "1.375rem"
+    fontWeight: 700
+    lineHeight: 1.25
+  display-phone:
+    fontFamily: "Literata, Georgia, serif"
+    fontSize: "2rem"
+    fontWeight: 700
+    lineHeight: 1.15
+  display-work:
+    fontFamily: "Literata, Georgia, serif"
+    fontSize: "2.5rem"
+    fontWeight: 700
+    lineHeight: 1.15
   arabic:
     fontFamily: "Noto Naskh Arabic, Amiri, Geeza Pro, serif"
     fontSize: "1.26rem"
@@ -80,6 +122,7 @@ typography:
     fontWeight: 400
     lineHeight: 1.95
 rounded:
+  mark: "3px"
   cover: "8px"
   control: "12px"
   card: "16px"
@@ -160,13 +203,14 @@ The text comes first. A poem is set large in a serif at a comfortable measure, t
 
 ### Accent
 - **Pomegranate** (#A81E28, 7.3:1 on white; white on it 7.3:1) is the only accent. It fills the catalogue button, the primary button ("Start reading", "Read on"), the active pill and tab, and the current section's underline. It colours links that are actions ("See all", the author on a book page), the wordmark's `.az`, and titles on hover. **Pomegranate Deep** (#7F141C) is its hover. In dark theme text lifts to #FF8A8F; fills stay #A81E28.
-- **Tint** (#FBF1F1; dark #2A1719) is the accent's soft surface: the poem-of-the-day card and the reader's current place.
+- **Tint** (#FBF1F1; dark #2A1719) is the accent's soft surface: the poem-of-the-day card, the reader's current place, and a couplet a link points at.
 
 ### Neutral
 - **White** page, **Ink** text (#16181D), **Muted** (#5A5F6B, 6.4:1) for authors under titles, counts, labels and captions.
 - **Surface** (#F4F5F7) and **Surface Deep** (#E9EBEF): cards, pills, contents rows, the browse band; deep is their hover.
 - **Rule** (#E8E9EC): the header's bottom line and the rare divider. **Control** (#868B96, 3.4:1): borders of inactive controls such as unread markers.
 - Dark theme: near-black page #121317, ink #ECEDEF, muted #A3A7B0, surfaces #1D1F25 / #272A31.
+- **Read** (#2F6B4F, `--read`; as a mark on the dark page #7CC9A4, `--read-ink`): the one state colour, for a part the reader has marked read. It is a state, not an accent: it never colours an action.
 
 ### Cloths (covers only)
 Six cover colours, picked from a hash of the book's id, so one author's books differ and a shelf or the books index never reads as a wall of one colour; on a shelf a book that would match its neighbour moves on one cloth (`clothSequence`): red #8E1B24, navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover.
@@ -183,14 +227,16 @@ Six cover colours, picked from a hash of the book's id, so one author's books di
 - **Noto Naskh Arabic** (falls back to Amiri) — every Arabic-script text, at 1.2× with taller leading.
 - Reader-chosen reading faces stay: Book (Literata), Literary (Alegreya), Sans (Inter), System (`system-ui`).
 
-Every reading face carries Ə/ə (U+018F/U+0259). All faces load in one Google Fonts request in `globals.css`; a face downloads only when a rule uses it.
+Every reading face carries Ə/ə (U+018F/U+0259). Inter, Literata and Naskh are self-hosted through `next/font` (`app/layout.tsx`). Only the upright Latin and Latin Extended files of Inter and Literata are preloaded; Literata's italic, the Cyrillic files and Naskh load when a page has text that needs them.
 
 ### Hierarchy
 - **Display** (Literata 700, 2.75rem; 2.1rem under 768px): book, work and author titles.
 - **Headline** (Inter 700, 1.5rem, sentence case): section and shelf heads.
 - **Title** (Inter 600, 1rem): titles under covers, contents rows.
 - **Body / Reading** (Literata): bios, descriptions, the text of a work.
-- **Label** (Inter 400, 0.875rem, muted, sentence case): authors under titles, counts, small headings over groups. Nothing below 0.75rem except text on a cover, which scales with the cover.
+- **Label** (Inter 400, 0.875rem, muted, sentence case): authors under titles, counts, small headings over groups.
+- **Small steps** (Inter): caption 0.8rem (meta lines, legends), note 0.75rem (counts, years), fine 0.7rem (the smallest label; tabular figures). Nothing below 0.7rem except text on a cover, which scales with the cover.
+- **In-between steps**: subhead 1.125rem (card and group titles), lead 1.2rem (opening lines, Arabic-script card text), title-large 1.375rem (group heads, the original-script title), 2rem (titles on phones), 2.5rem (the work title). A size between two steps is drift: take the nearer step.
 
 **The Sentence Case Rule.** No tracked uppercase anywhere except the author line on a cover.
 
@@ -232,6 +278,10 @@ Flat. Hover on cards and rows is a tone step (surface → surface deep); a cover
 
 ### Reading page (signature)
 Unchanged in structure (`components/reading/ReadingView.tsx`): breadcrumb, centred title in Literata, original-script title beneath, meta, glossary toggle; verse by beyt with hanging misras; parallel text lined up beyt by beyt; folding of long poems; paged prose with progress bar, remembered place and contents; provenance under every text; tags, share, prev/next, more by the author, the other-poets band; print styles. Nar restyles its chrome only.
+
+- **Lines have addresses.** Every couplet of the original has an id (`#b7`); verse outside couplets has one per line (`#l12`). A link to one opens a folded poem, brings the line to the middle of the screen and sets it on Tint (`lib/verse.ts`, `ReadingView`). The translation carries no ids: it lines up beside the original.
+- **Margin numbers** are the reader's choice (Aa › Numbers, off by default): every fifth couplet or line, in muted Inter outside the text's start edge, each a link to its line. The figure is drawn from `data-n`, so it is never copied or read out with the verse.
+- **On phones** the path, title block and toolbar sit 0.75rem apart, so the first lines of a poem start about halfway up the first screen, not below it.
 
 ## Do's and Don'ts
 

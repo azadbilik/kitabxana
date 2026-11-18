@@ -390,6 +390,11 @@
       "spaced": "С отбивкой",
       "indented": "С отступом"
     },
+    "appearance_numbers": "Нумерация",
+    "numbers_names": {
+      "off": "Нет",
+      "on": "Каждая 5-я"
+    },
     "appearance_align": "Выключка",
     "align_names": {
       "start": "Влево",

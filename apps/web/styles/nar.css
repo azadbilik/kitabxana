@@ -25,6 +25,9 @@
   --pomeg:       #A81E28;   /* 7.3:1 on white */
   --pomeg-dark:  #7F141C;
   --pomeg-fill:  #A81E28;   /* white on it: 7.3:1 */
+  --pomeg-fill-hover: #7F141C;
+  --read:        #2F6B4F;   /* a part marked read: the fill under its white tick */
+  --read-ink:    #2F6B4F;   /* the same green as a mark on the page: 6.3:1 on white */
   --warm-brown:  #5A5F6B;
 
   --header-bg:     var(--bg);
@@ -64,6 +67,7 @@
   --pomeg:       #FF8A8F;   /* 8.3:1 on bg */
   --pomeg-dark:  #FFB0B4;
   --pomeg-fill:  #A81E28;
+  --read-ink:    #7CC9A4;   /* 9:1 on the dark page */
   --warm-brown:  #A3A7B0;
   --shadow-pop:  0 12px 36px -8px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
   color-scheme: dark;
@@ -82,6 +86,7 @@
     --pomeg:       #FF8A8F;
     --pomeg-dark:  #FFB0B4;
     --pomeg-fill:  #A81E28;
+    --read-ink:    #7CC9A4;
     --warm-brown:  #A3A7B0;
     --shadow-pop:  0 12px 36px -8px rgba(0, 0, 0, 0.6), 0 2px 6px rgba(0, 0, 0, 0.3);
     color-scheme: dark;
@@ -370,7 +375,7 @@
 }
 :root .btn:hover { background: var(--surf-2); color: var(--ink); }
 :root .btn-primary { background: var(--pomeg-fill); color: #fff; }
-:root .btn-primary:hover { background: #A30D25; color: #fff; }
+:root .btn-primary:hover { background: var(--pomeg-fill-hover); color: #fff; }
 
 /* Connected tabs become separate pills */
 :root .lang-tabs { gap: 0.4rem; flex-wrap: wrap; }
@@ -426,11 +431,11 @@
    and its buttons step up one shade to stay visible on it */
 :root[data-theme='dark'] .appearance-popover { background: var(--surf); }
 :root[data-theme='dark'] .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
-:root[data-theme='dark'] .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+:root[data-theme='dark'] .appearance-popover .appearance-step:hover:not(.active) { background: color-mix(in srgb, var(--ink) 12%, var(--surf-2)); }
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) .appearance-popover { background: var(--surf); }
   :root:not([data-theme='light']) .appearance-popover .appearance-step:not(.active) { background: var(--surf-2); }
-  :root:not([data-theme='light']) .appearance-popover .appearance-step:hover:not(.active) { background: #3A3936; }
+  :root:not([data-theme='light']) .appearance-popover .appearance-step:hover:not(.active) { background: color-mix(in srgb, var(--ink) 12%, var(--surf-2)); }
 }
 
 :root .reading-select select {
@@ -703,7 +708,7 @@
   padding:        0.7rem 1.25rem;
   background:     var(--pomeg-fill);
 }
-:root .search-btn:hover { background: #A30D25; }
+:root .search-btn:hover { background: var(--pomeg-fill-hover); }
 :root .search-btn::before { content: none; }
 :root .not-found-code {
   font-family:    var(--font-ui);
@@ -1619,3 +1624,13 @@
 }
 :root .blog-post .page-header { padding-bottom: 2rem; }
 :root .blog-post .meta-strip { justify-content: center; }
+
+/* Phones, reading page: the text is what the reader came for, so the path, the title block
+   and the toolbar above it sit closer together and the first lines come up the screen */
+@media (max-width: 600px) {
+  :root .breadcrumb { margin: 0.75rem 0 0.5rem; }
+  :root .work-header { padding-top: 0; padding-bottom: 0.75rem; }
+  :root .reading-toolbar { margin-bottom: 0.75rem; }
+  :root .reading > .parallel,
+  :root .reading > .reading-column { margin-top: 0.75rem; }
+}

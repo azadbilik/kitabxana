@@ -390,6 +390,11 @@
       "spaced": "Spaced",
       "indented": "Indented"
     },
+    "appearance_numbers": "Numbers",
+    "numbers_names": {
+      "off": "Off",
+      "on": "Every 5th"
+    },
     "appearance_align": "Alignment",
     "align_names": {
       "start": "Left",

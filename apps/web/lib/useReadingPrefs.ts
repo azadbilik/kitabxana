@@ -9,6 +9,8 @@ export interface ReadingPrefs {
   // Prose only: paragraphs apart or book-style first-line indents, ragged or justified
   paragraphs: ParagraphStyle;
   align: TextAlign;
+  // Verse only: every fifth couplet or line numbered in the margin; a number links to its line
+  numbers: boolean;
 }
 
 export const readingFonts = ['book', 'literary', 'sans', 'system'] as const;
@@ -28,6 +30,7 @@ const defaults: ReadingPrefs = {
   // browser hyphenates Azerbaijani and a justified 36rem column opens rivers; justified is a choice
   paragraphs: 'indented',
   align: 'start',
+  numbers: false,
 };
 
 /** A saved choice, including the older 'serif' (now 'book') */
@@ -48,6 +51,7 @@ function load(): ReadingPrefs {
       fontFamily: fontOf(parsed.fontFamily),
       paragraphs: paragraphStyles.includes(parsed.paragraphs) ? parsed.paragraphs : defaults.paragraphs,
       align: textAligns.includes(parsed.align) ? parsed.align : defaults.align,
+      numbers: parsed.numbers === true,
     };
   } catch {
     return defaults;

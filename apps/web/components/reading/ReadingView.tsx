@@ -1,6 +1,6 @@
 'use client';
 
-import { useRef, useState, type CSSProperties } from 'react';
+import { useEffect, useRef, useState, type CSSProperties } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
@@ -81,7 +81,7 @@ const readingFontValues: Record<ReadingFont, string> = {
 };
 
 export function ReadingView({
-  body,
+  body: text,
   translation,
   choices,
   versions,
@@ -101,6 +101,10 @@ export function ReadingView({
   const router = useRouter();
 
   const { prefs, update: updatePrefs } = useReadingPrefs();
+
+  // The couplet or line a link points at (#b7), marked in the text as it is written out
+  const [linked, setLinked] = useState<string | null>(null);
+  const body = linked ? text.replace(` id="${linked}">`, ` id="${linked}" data-linked>`) : text;
 
   // Folding of long texts: open once expanded, across language switches
   const [expanded, setExpanded] = useState(false);
@@ -139,6 +143,7 @@ export function ReadingView({
   const columnClass = `reading-column${isPoem ? ' is-poem' : ' is-prose'}`;
   // Prose is read straight through: paragraph style and alignment are the reader's
   const proseAttrs = isPoem ? {} : { 'data-paragraphs': prefs.paragraphs, 'data-align': prefs.align };
+  const numberAttrs = isPoem && prefs.numbers ? { 'data-numbers': 'on' } : {};
 
   const originalAttrs = { lang: originalTag, dir: originalDir } as const;
   const translationHtml = translation?.bodyHtml ?? '';
@@ -153,6 +158,30 @@ export function ReadingView({
   const folded = foldable && !expanded;
   const foldClass = folded ? ' is-folded' : '';
   const foldVars = { '--folded-lines': FOLDED_LINES } as CSSProperties;
+
+  // A link to one couplet or line (#b7, #l12) may point into the folded part: open the
+  // text and bring the line into view, which the browser could not do while it was hidden.
+  // The line is marked in the HTML itself: :target does not survive the router's history
+  // writes, and a class set on the node is lost when React next writes the text
+  useEffect(() => {
+    const read = () => {
+      const id = /^#[bl]\d+$/.test(location.hash) ? location.hash.slice(1) : null;
+      const found = id && textRef.current?.querySelector(`#${id}`) ? id : null;
+      setLinked(found);
+      if (!found) return;
+      setExpanded(true);
+      // After the text is written out again with the mark: bring the line in, unless a
+      // click on its number already has it on screen
+      requestAnimationFrame(() => {
+        const line = document.getElementById(found);
+        const box = line?.getBoundingClientRect();
+        if (box && (box.top < 120 || box.bottom > innerHeight - 40)) line?.scrollIntoView({ block: 'center' });
+      });
+    };
+    read();
+    window.addEventListener('hashchange', read);
+    return () => window.removeEventListener('hashchange', read);
+  }, []);
 
   function unfold() {
     setExpanded(true);
@@ -270,6 +299,7 @@ export function ReadingView({
           id={textId}
           ref={textRef}
           tabIndex={foldable || !isPoem ? -1 : undefined}
+          {...numberAttrs}
         >
           <div className="parallel-row parallel-head" aria-hidden="true">
             {/* Each head sits on its column's start edge: the right for Persian */}
@@ -299,6 +329,7 @@ export function ReadingView({
           id={textId}
           ref={textRef}
           tabIndex={foldable || !isPoem ? -1 : undefined}
+          {...numberAttrs}
           {...proseAttrs}
           {...originalAttrs}
           dangerouslySetInnerHTML={{ __html: body }}

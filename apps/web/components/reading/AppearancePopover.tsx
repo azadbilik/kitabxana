@@ -125,6 +125,19 @@ export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
             </div>
           )}
 
+          {/* Verse only: number every fifth couplet or line; a number links to its line */}
+          {isPoem && (
+            <div className="appearance-row" role="group" aria-label={t('appearance_numbers')}>
+              <span className="appearance-label" aria-hidden="true">{t('appearance_numbers')}</span>
+              <div className="appearance-steps">
+                {[false, true].map((on) => {
+                  const name = t(`numbers_names.${on ? 'on' : 'off'}`);
+                  return step(prefs.numbers === on, name, name, () => onUpdate({ numbers: on }));
+                })}
+              </div>
+            </div>
+          )}
+
           {/* Four faces don't fit beside the label: they sit under it, two by two */}
           <div className="appearance-row appearance-row--stacked" role="group" aria-label={t('appearance_font')}>
             <span className="appearance-label" aria-hidden="true">{t('appearance_font')}</span>
