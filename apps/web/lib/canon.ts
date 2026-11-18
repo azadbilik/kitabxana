@@ -452,6 +452,12 @@ export const MISSING: Missing[] = [
   { name: 'Akif Əli', years: 'd. 1952', era: 'independence', branch: 'prose' },
   { name: 'Elmira Axundova', years: 'd. 1953', era: 'independence', branch: 'prose' },
   { name: 'Sevinc Nuruqızı', years: 'd. 1964', era: 'independence', branch: 'children' },
+  { name: 'Qulamrza Səbri Təbrizi', years: '1934–2020', era: 'south', branch: 'poetry', note: '«Vətən həsrəti»' },
+  { name: 'Həmid Arzulu', years: 'd. 1937', era: 'thaw', branch: 'prose' },
+  { name: 'Çərkəz Məcid', years: '1937–1989', era: 'thaw', branch: 'poetry' },
+  { name: 'Cəmil Əlibəyov', years: '1927–2014', era: 'thaw', branch: 'prose', note: '«Sınaq»' },
+  { name: 'Aqşin Babayev', years: '1936–2020', era: 'thaw', branch: 'prose' },
+  { name: 'Səyyad Aran', years: 'd. 1952', era: 'independence', branch: 'prose', note: '«Soyuq Günəş»' },
 ];
 
 // ── placement ───────────────────────────────────────────────────────────────
