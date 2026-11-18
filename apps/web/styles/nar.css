@@ -1597,7 +1597,9 @@
 :root .search-hit-kind { flex: none; font-size: 0.8rem; color: var(--muted); }
 :root .search-hit-author { font-size: 0.875rem; color: var(--muted); }
 :root .search-hit mark { border-radius: 3px; background: var(--hl); color: var(--pomeg); }
-:root .search-hit .search-snippet { font-style: normal; color: var(--ink); opacity: 0.82; }
+/* Softer than the title by a mixed colour, not by opacity: opacity would dim the highlighted
+   word with it (4.0:1 in dark theme) */
+:root .search-hit .search-snippet { font-style: normal; color: color-mix(in srgb, var(--ink) 82%, transparent); }
 :root .search-hit .search-snippet:not([dir='rtl']) { font-size: 0.95rem; }
 :root .search-empty-hint { color: var(--muted); }
 
