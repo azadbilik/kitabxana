@@ -71,6 +71,7 @@ const FOLDED_LINES = 24;
 const MIN_SECTIONS = 3;
 
 const fontSizeValues = ['0.95rem', '1.05rem', '1.2rem', '1.35rem'];
+const leadingShift = { tight: -0.3, normal: 0, loose: 0.3 } as const;
 const widthValues = ['36rem', '44rem', '100%'];
 // Book and sans follow the skin; literary and system are the same in both
 const readingFontValues: Record<ReadingFont, string> = {
@@ -137,7 +138,9 @@ export function ReadingView({
     '--reading-size': fontSizeValues[prefs.fontSize],
     '--reading-width': isPoem ? undefined : widthValues[prefs.width],
     '--reading-font': readingFontValues[prefs.fontFamily],
-    '--reading-leading': prefs.fontSize >= 2 ? 2.1 : 1.95,
+    '--reading-leading': (prefs.fontSize >= 2 ? 2.1 : 1.95) + leadingShift[prefs.leading],
+    // Arabic script keeps its own taller leading and moves by the same step
+    '--reading-leading-shift': leadingShift[prefs.leading],
   } as CSSProperties;
 
   const columnClass = `reading-column${isPoem ? ' is-poem' : ' is-prose'}`;

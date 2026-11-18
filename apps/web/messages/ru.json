@@ -358,6 +358,12 @@
     "appearance_size": "Размер",
     "appearance_width": "Ширина",
     "appearance_font": "Шрифт",
+    "appearance_leading": "Интервал",
+    "leading_names": {
+      "tight": "Плотный",
+      "normal": "Обычный",
+      "loose": "Свободный"
+    },
     "size_names": {
       "S": "Мелкий",
       "M": "Средний",

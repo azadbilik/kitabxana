@@ -2,7 +2,7 @@
 
 import { useState, useEffect, useRef, useId } from 'react';
 import { useTranslations } from 'next-intl';
-import { paragraphStyles, readingFonts, textAligns, type ReadingPrefs } from '@/lib/useReadingPrefs';
+import { lineSpacings, paragraphStyles, readingFonts, textAligns, type ReadingPrefs } from '@/lib/useReadingPrefs';
 
 interface Props {
   prefs: ReadingPrefs;
@@ -85,6 +85,16 @@ export function AppearancePopover({ prefs, onUpdate, isPoem }: Props) {
               {fontSizeSteps.map((s, i) =>
                 step(prefs.fontSize === i, s, t(`size_names.${s}`), () => onUpdate({ fontSize: i })),
               )}
+            </div>
+          </div>
+
+          <div className="appearance-row" role="group" aria-label={t('appearance_leading')}>
+            <span className="appearance-label" aria-hidden="true">{t('appearance_leading')}</span>
+            <div className="appearance-steps">
+              {lineSpacings.map((l) => {
+                const name = t(`leading_names.${l}`);
+                return step(prefs.leading === l, name, name, () => onUpdate({ leading: l }));
+              })}
             </div>
           </div>
 

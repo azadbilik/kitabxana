@@ -502,7 +502,7 @@
   line-height: var(--reading-leading, 1.8);
   color:       var(--ink);
 }
-:root .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) { line-height: 2.1; }
+:root .reading-column:is(:lang(fa), :lang(ar), :lang(az-Arab)) { line-height: calc(2.1 + var(--reading-leading-shift, 0)); }
 
 :root .lang-label {
   font-size:      0.75rem;

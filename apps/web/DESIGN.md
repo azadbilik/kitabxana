@@ -240,6 +240,7 @@ Six cover colours, picked from a hash of the book's id, so one author's books di
 - **Literata** — the wordmark, page titles (book, work, author, poet of the week), cover titles, body text and reading text.
 - **Noto Naskh Arabic** (falls back to Amiri) — every Arabic-script text, at 1.2× with taller leading.
 - Reader-chosen reading faces stay: Book (Literata), Literary (Alegreya), Sans (Inter), System (`system-ui`).
+- Line spacing is the reader's too (Aa › Spacing): tight, normal, loose, a 0.3 step either side of the size's own leading; Arabic script moves by the same step from its taller base.
 
 Every reading face carries Ə/ə (U+018F/U+0259). Inter, Literata and Naskh are self-hosted through `next/font` (`app/layout.tsx`). Literata is loaded by weight only, without its optical-size axis (about 100 KB a page for a difference found only by overlaying screenshots). Only the upright Latin and Latin Extended files of Inter and Literata are preloaded; Literata's italic, the Cyrillic files and Naskh load when a page has text that needs them.
 

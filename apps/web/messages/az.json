@@ -358,6 +358,12 @@
     "appearance_size": "Ölçü",
     "appearance_width": "En",
     "appearance_font": "Şrift",
+    "appearance_leading": "Aralıq",
+    "leading_names": {
+      "tight": "Sıx",
+      "normal": "Orta",
+      "loose": "Seyrək"
+    },
     "size_names": {
       "S": "Kiçik",
       "M": "Orta",

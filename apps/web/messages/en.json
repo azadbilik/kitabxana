@@ -358,6 +358,12 @@
     "appearance_size": "Size",
     "appearance_width": "Width",
     "appearance_font": "Font",
+    "appearance_leading": "Spacing",
+    "leading_names": {
+      "tight": "Tight",
+      "normal": "Normal",
+      "loose": "Loose"
+    },
     "size_names": {
       "S": "Small",
       "M": "Medium",
