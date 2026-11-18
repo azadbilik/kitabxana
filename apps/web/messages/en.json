@@ -52,7 +52,8 @@
     "search_go": "Search",
     "search_placeholder": "Search authors, works or lines",
     "search_placeholder_short": "Author, work…",
-    "tree": "Literature tree"
+    "tree": "Literature tree",
+    "accessibility": "Accessibility"
   },
   "authors": {
     "title": "Authors",
@@ -434,7 +435,11 @@
       "RU": "Russian original",
       "EN": "Original",
       "TR": "Turkish original"
-    }
+    },
+    "appearance_more": "Accessibility settings",
+    "gloss_lookup": "Look up a word",
+    "gloss_lookup_go": "Look up",
+    "gloss_none": "“{word}” is not in the dictionary"
   },
   "contact": {
     "email_label": "Email",
@@ -662,5 +667,34 @@
     "pages_label": "Pages of posts",
     "newer": "Newer",
     "older": "Older"
+  },
+  "a11y": {
+    "settings": "Settings",
+    "settings_note": "Choices apply at once, across the whole site, and are kept only in this browser.",
+    "auto": "Follow system",
+    "on": "On",
+    "off": "Off",
+    "contrast": "Contrast",
+    "contrast_hint": "Darker text, clearer lines and borders.",
+    "contrast_more": "High",
+    "text": "Text size",
+    "text_hint": "Across the site: menus, lists and the reading text grow together.",
+    "text_names": {
+      "0": "Normal size",
+      "1": "Large",
+      "2": "Larger"
+    },
+    "spacing": "Letter and word spacing",
+    "spacing_hint": "Letters and words stand further apart. Arabic script is left as it is.",
+    "legible": "Legible typeface",
+    "legible_hint": "Andika: a typeface whose letters are hard to mistake for one another, in the reading text too.",
+    "motion": "Motion",
+    "motion_hint": "Transitions and animations are switched off.",
+    "motion_reduce": "No motion",
+    "keys": "Letter shortcuts",
+    "keys_hint": "On a reading page the R key opens a random work. The arrow keys (← →) always work.",
+    "reset": "Reset",
+    "saved": "Saved",
+    "reset_done": "Settings reset"
   }
 }

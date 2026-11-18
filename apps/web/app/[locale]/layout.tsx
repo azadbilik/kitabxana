@@ -5,6 +5,7 @@ import { Header } from '@/components/layout/Header';
 import { Footer } from '@/components/layout/Footer';
 import { SkipLink } from '@/components/layout/SkipLink';
 import { OfflineReading } from '@/components/layout/OfflineReading';
+import { A11yBoot } from '@/components/a11y/A11yBoot';
 import { AccountProvider } from '@/components/account/AccountProvider';
 import { api } from '@/lib/api';
 
@@ -43,6 +44,7 @@ export default async function LocaleLayout({
         <main id="main" tabIndex={-1}>{children}</main>
         <Footer />
         <OfflineReading />
+        <A11yBoot />
       </AccountProvider>
     </NextIntlClientProvider>
   );

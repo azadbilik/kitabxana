@@ -3,6 +3,7 @@
 import { ComponentProps, ReactNode, useEffect, useState } from 'react';
 import { useLocale, useTranslations } from 'next-intl';
 import { api, ApiError, PublicSubmission } from '@/lib/api';
+import { reducedMotion } from '@/lib/a11y';
 import { localized } from '@/lib/locale';
 
 type Kind = PublicSubmission['type'];
@@ -206,7 +207,7 @@ export function ContributeForm({ authors, initialKind = 'WORK', initialWork = nu
         website: str('website'),
       });
       setSent(true);
-      window.scrollTo({ top: 0, behavior: 'smooth' });
+      window.scrollTo({ top: 0, behavior: reducedMotion() ? 'auto' : 'smooth' });
     } catch (err) {
       setError(err instanceof ApiError && err.status === 429 ? t('error_rate') : t('error_generic'));
     } finally {

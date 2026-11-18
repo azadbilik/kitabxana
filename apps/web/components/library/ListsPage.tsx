@@ -146,6 +146,8 @@ export function ListsPage() {
 
     return (
       <div className="list-detail">
+        {/* The lists are addressed by hash: an empty one is the page of all lists */}
+        {/* eslint-disable-next-line jsx-a11y/anchor-is-valid */}
         <a href="#" className="list-back">← {t('all_lists')}</a>
         {rename === null ? (
           <div className="list-detail-head">

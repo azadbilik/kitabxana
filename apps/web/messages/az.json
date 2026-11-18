@@ -52,7 +52,8 @@
     "search_go": "Axtar",
     "search_placeholder": "Müəllif, əsər və ya misra axtar",
     "search_placeholder_short": "Müəllif, əsər…",
-    "tree": "Ədəbiyyat ağacı"
+    "tree": "Ədəbiyyat ağacı",
+    "accessibility": "Əlçatanlıq"
   },
   "authors": {
     "title": "Müəlliflər",
@@ -434,7 +435,11 @@
       "RU": "Rusca əsli",
       "EN": "İngiliscə əsli",
       "TR": "Türkcə əsli"
-    }
+    },
+    "appearance_more": "Əlçatanlıq ayarları",
+    "gloss_lookup": "Lüğətdə söz axtar",
+    "gloss_lookup_go": "Axtar",
+    "gloss_none": "«{word}» lüğətdə yoxdur"
   },
   "contact": {
     "email_label": "E-poçt",
@@ -662,5 +667,34 @@
     "pages_label": "Yazıların səhifələri",
     "newer": "Yenilər",
     "older": "Əvvəlkilər"
+  },
+  "a11y": {
+    "settings": "Ayarlar",
+    "settings_note": "Seçimlər dərhal qüvvəyə minir, bütün sayta aiddir və yalnız bu brauzerdə saxlanılır.",
+    "auto": "Sistemə görə",
+    "on": "Açıq",
+    "off": "Bağlı",
+    "contrast": "Kontrast",
+    "contrast_hint": "Mətn daha tünd, xətlər və haşiyələr daha aydın olur.",
+    "contrast_more": "Yüksək",
+    "text": "Mətnin ölçüsü",
+    "text_hint": "Bütün saytda: menyular, siyahılar və oxu mətni birlikdə böyüyür.",
+    "text_names": {
+      "0": "Adi ölçü",
+      "1": "Böyük",
+      "2": "Daha böyük"
+    },
+    "spacing": "Hərf və söz arası",
+    "spacing_hint": "Hərflər və sözlər bir-birindən aralanır. Ərəb yazısına toxunmur.",
+    "legible": "Aydın şrift",
+    "legible_hint": "Andika: hərfləri bir-birinə oxşamayan şrift, o cümlədən oxu mətnində.",
+    "motion": "Hərəkət",
+    "motion_hint": "Keçidlər və animasiyalar söndürülür.",
+    "motion_reduce": "Hərəkətsiz",
+    "keys": "Hərf qısayolları",
+    "keys_hint": "Oxu səhifəsində R düyməsi təsadüfi əsər açır. Ox düymələri (← →) həmişə işləyir.",
+    "reset": "İlkin vəziyyətə qaytar",
+    "saved": "Yadda saxlanıldı",
+    "reset_done": "Ayarlar ilkin vəziyyətə qaytarıldı"
   }
 }

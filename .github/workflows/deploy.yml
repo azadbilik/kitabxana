@@ -31,8 +31,43 @@ jobs:
       - name: Web tests and lint
         run: pnpm --dir apps/web test && pnpm --dir apps/web lint
 
+  # Every kind of page, on a small fixture library, through axe-core in a real browser
+  # (WCAG 2.2 A and AA, both themes, desktop and phone): a violation stops the deploy
+  a11y:
+    runs-on: ubuntu-latest
+    services:
+      postgres:
+        image: postgres:17-alpine
+        env:
+          POSTGRES_USER: postgres
+          POSTGRES_PASSWORD: postgres
+          POSTGRES_DB: a11y
+        ports:
+          - 5432:5432
+        options: >-
+          --health-cmd "pg_isready -U postgres -d a11y"
+          --health-interval 5s
+          --health-timeout 5s
+          --health-retries 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: pnpm/action-setup@v4
+        with:
+          version: 12.3.2  # keep in sync with the Dockerfiles
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: pnpm
+      - run: pnpm install --frozen-lockfile
+      - run: pnpm db:generate
+      - run: pnpm --dir apps/web exec playwright install --with-deps chromium
+      - name: Accessibility check
+        run: scripts/a11y-ci.sh
+        env:
+          DATABASE_URL: postgresql://postgres:postgres@localhost:5432/a11y?schema=public
+
   build:
-    needs: check
+    needs: [check, a11y]
     if: github.event_name != 'pull_request'
     runs-on: ubuntu-latest
     permissions:

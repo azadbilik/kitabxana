@@ -194,6 +194,9 @@ export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showC
         {locale !== 'en' && <p className="gallery-note">{t('titles_note')}</p>}
       </div>
 
+      {/* Arrow keys step through the pictures while the dialog has focus; the click closes on
+          the backdrop only, Escape being the keyboard's way out */}
+      {/* eslint-disable-next-line jsx-a11y/no-noninteractive-element-interactions */}
       <dialog
         ref={dialogRef}
         className="lightbox"

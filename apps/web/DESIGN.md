@@ -299,6 +299,10 @@ Unchanged in structure (`components/reading/ReadingView.tsx`): breadcrumb, centr
 - **Margin numbers** are the reader's choice (Aa › Numbers, off by default): every fifth couplet or line, in muted Inter outside the text's start edge, each a link to its line. The figure is drawn from `data-n`, so it is never copied or read out with the verse.
 - **On phones** the path, title block and toolbar sit 0.75rem apart, so the first lines of a poem start about halfway up the first screen, not below it.
 
+## Accessibility
+
+WCAG 2.1 AA is the floor (PRODUCT.md). The reader's own choices live on `/accessibility` (footer; linked from the Aa panel), above the statement of what works and what doesn't: stronger contrast (7:1 text, hairlines become 5:1 lines; also follows the system's `prefers-contrast`), text size across the site (root 100% / 112.5% / 125%, on top of the browser's own setting: never set a fixed root size), wider letter and word spacing (not on Arabic script), a legible typeface (Andika, loaded only once chosen), no motion, and letter shortcuts off. They are kept in `localStorage.a11y` and set on `<html>` as `data-contrast`, `data-text`, `data-spacing`, `data-legible`, `data-motion` before paint (`lib/a11y.ts`, the inline script in `app/layout.tsx`); the rules are in `styles/a11y.css`. A new component gets its high-contrast look from the tokens; check it at 320px with large text and wide spacing on.
+
 ## Do's and Don'ts
 
 ### Do

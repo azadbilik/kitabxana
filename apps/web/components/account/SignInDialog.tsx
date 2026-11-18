@@ -19,6 +19,8 @@ export function SignInDialog({ onClose, onSignedIn }: { onClose: () => void; onS
   }, []);
 
   return (
+    // The click handler only closes on the backdrop; the keyboard's way out is Escape (onCancel)
+    // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-noninteractive-element-interactions
     <dialog
       ref={ref}
       className="signin-dialog"

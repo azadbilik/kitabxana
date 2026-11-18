@@ -22,6 +22,7 @@ pnpm check                      # typecheck every package (no build)
 pnpm --dir apps/api test        # API unit tests (vitest)
 pnpm --dir apps/web test        # web unit tests (vitest); `pnpm --dir apps/web lint` for ESLint
 pnpm --dir apps/api test        # API unit tests (vitest); CI runs both before building images
+pnpm --dir apps/web a11y [paths]   # axe-core (WCAG 2.2 A/AA) over every kind of page in a real browser, both themes, desktop and phone, high contrast too; BASE_URL picks the site (default http://localhost:3000). CI runs it through scripts/a11y-ci.sh on a fixture library (apps/api/prisma/seed-a11y.ts) and a violation stops the deploy; `pnpm --dir apps/web lint` carries jsx-a11y's recommended rules
 pnpm --dir apps/api rerender [--dry-run]   # re-render every stored bodyHtml (works, translations) through the sanitising renderer; run after changing common/utils/markdown.ts. In the API container: node dist/scripts/rerender.js
 scripts/sync-tunnel-db.sh       # copy the local library into the live tunnel DB: content tables only, readers' data untouched (see its header); then POST /api/search/reindex
 pnpm parse ocr-book --images <dir> --out <file.md> [--lang aze_cyrl]   # OCR scanned spreads (pNNN.jpg) with Tesseract into the data/proofread format; Cyrillic books are read with the Russian model and resolved to Latin by the site's word list; needs `brew install tesseract` and python3 with Pillow
@@ -65,6 +66,7 @@ One design, **Nar**, in light and dark. Full system in `apps/web/DESIGN.md`.
 - Base rules and shared components in `apps/web/styles/globals.css`; Nar's tokens and restyling in `apps/web/styles/nar.css`, whose rules start with `:root` so they outrank the base rule for the same selector. Fonts are self-hosted through `next/font` (`app/layout.tsx`)
 - Theme via `[data-theme]` (OS preference until the reader chooses, `localStorage.theme`), set before paint by the inline script in `app/layout.tsx`
 - Pages never set cookies (HTML is edge-cached for everyone); anything per reader loads in the browser
+- Accessibility: the reader's settings on `/accessibility` (contrast, text size, spacing, legible typeface, motion, letter shortcuts) are `localStorage.a11y`, set on `<html>` as `data-*` before paint (`lib/a11y.ts`, `styles/a11y.css`); the page's statement is `content/pages/accessibility.<locale>.md` — keep its lists of what works and what doesn't true. The root font size is the browser's (100%), never a fixed px
 - Offline reading: `apps/web/public/sw.js` keeps the work and book pages a reader has opened (newest 300) and the app's static files; pages always come from the network when there is one, and nothing under `/api` or `/admin` is stored
 - Unknown URLs must answer 404 and moved ones 308: don't add `loading.tsx` to routes that can call `notFound()` or redirect (a loading boundary sends a 200 first)
 - Links in lists, shelves and menus carry `prefetch={false}`: prefetches go to the origin, not the edge cache

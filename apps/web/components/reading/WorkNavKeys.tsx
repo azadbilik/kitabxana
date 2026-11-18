@@ -2,6 +2,7 @@
 
 import { useEffect } from 'react';
 import { useRouter } from 'next/navigation';
+import { loadA11y } from '@/lib/a11y';
 
 const FOCUS_FLAG = 'irs-focus-title';
 
@@ -43,7 +44,8 @@ export function WorkNavKeys({
       const onPage = !active || active === document.body || active.matches('main, #work-title, #text');
       if (!onPage) return;
       // By physical key, so R works on Cyrillic layouts too
-      if (e.code === 'KeyR') {
+      // A letter key the reader can switch off on /accessibility (WCAG 2.1.4)
+      if (e.code === 'KeyR' && loadA11y().keys) {
         flag();
         // A route handler that redirects, so a full navigation rather than router.push
         window.location.assign(randomHref);

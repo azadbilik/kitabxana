@@ -1,6 +1,6 @@
 'use client';
 
-import { useEffect, useLayoutEffect, useRef, useState, type RefObject } from 'react';
+import { useEffect, useId, useLayoutEffect, useRef, useState, type FormEvent, type RefObject } from 'react';
 import { createPortal } from 'react-dom';
 import { useTranslations } from 'next-intl';
 import { lookupWord, wordAt, type GlossMatch } from '@/lib/glossary';
@@ -17,6 +17,94 @@ const HIGHLIGHT = 'word-gloss';
 
 type Highlights = { set: (name: string, value: unknown) => void; delete: (name: string) => void };
 const highlights = () => (typeof CSS !== 'undefined' ? (CSS as unknown as { highlights?: Highlights }).highlights : undefined);
+
+/** The dictionary's articles for one word: headword, where it is from, its senses */
+export function GlossEntries({ matches }: { matches: GlossMatch[] }) {
+  const t = useTranslations('reading');
+
+  /** «ə+f» → Arabic + Persian; «ə<y» → Arabic, from Greek */
+  const origin = (mark: string) => {
+    const name = (m: string) => (ORIGIN[m] ? t(`gloss_origin.${ORIGIN[m]}` as never) : m);
+    if (mark.includes('<')) {
+      const [via, first] = mark.split('<');
+      return t('gloss_origin_from', { via: name(via), first: name(first) });
+    }
+    return mark.split('+').filter(Boolean).map(name).join(' + ');
+  };
+
+  return (
+    <>
+      {matches.map((m) => (
+        <section className="word-gloss-entry" key={m.head}>
+          {m.phrase && (
+            <p className="word-gloss-phrase">
+              <strong>{m.phrase.text}</strong> {m.phrase.gloss}
+            </p>
+          )}
+          <h3 className="word-gloss-head">{m.head}</h3>
+          {m.senses.map((s, i) => (
+            <p className="word-gloss-sense" key={i}>
+              {s.origin && <span className="word-gloss-origin">{origin(s.origin)}</span>}
+              {s.text}
+            </p>
+          ))}
+        </section>
+      ))}
+    </>
+  );
+}
+
+/**
+ * The same dictionary without a pointer: type a word of the text and read its entry. A tap
+ * cannot be made from the keyboard or with a screen reader, so this is their way in; it
+ * sits in the reading page's Aa panel.
+ */
+export function GlossLookup() {
+  const t = useTranslations('reading');
+  const id = useId();
+  const [word, setWord] = useState('');
+  const [answer, setAnswer] = useState<{ word: string; matches: GlossMatch[] } | null>(null);
+  const asking = useRef(0);
+
+  const ask = async (e: FormEvent) => {
+    e.preventDefault();
+    const w = word.trim();
+    if (!w) return;
+    const turn = ++asking.current;
+    const matches = await lookupWord(w);
+    if (turn === asking.current) setAnswer({ word: w, matches });
+  };
+
+  return (
+    <div className="gloss-lookup">
+      <form className="gloss-lookup-form" onSubmit={ask}>
+        <label htmlFor={id} className="appearance-label">{t('gloss_lookup')}</label>
+        <div className="gloss-lookup-field">
+          <input
+            id={id}
+            className="gloss-lookup-input"
+            lang="az"
+            value={word}
+            onChange={(e) => setWord(e.target.value)}
+            autoComplete="off"
+            autoCapitalize="none"
+            spellCheck={false}
+            enterKeyHint="search"
+          />
+          <button type="submit" className="appearance-step">{t('gloss_lookup_go')}</button>
+        </div>
+      </form>
+      <div className="gloss-lookup-answer" aria-live="polite" lang={answer?.matches.length ? 'az' : undefined}>
+        {answer &&
+          (answer.matches.length ? (
+            <GlossEntries matches={answer.matches} />
+          ) : (
+            <p className="gloss-lookup-none">{t('gloss_none', { word: answer.word })}</p>
+          ))}
+      </div>
+    </div>
+  );
+}
 
 /**
  * Tap a word of an Azerbaijani text and the dictionary's entry for it opens beside it: classical
@@ -94,16 +182,6 @@ export function WordGloss({ root }: { root: RefObject<HTMLElement | null> }) {
 
   if (!shown) return null;
 
-  /** «ə+f» → Arabic + Persian; «ə<y» → Arabic, from Greek */
-  const origin = (mark: string) => {
-    const name = (m: string) => (ORIGIN[m] ? t(`gloss_origin.${ORIGIN[m]}` as never) : m);
-    if (mark.includes('<')) {
-      const [via, first] = mark.split('<');
-      return t('gloss_origin_from', { via: name(via), first: name(first) });
-    }
-    return mark.split('+').filter(Boolean).map(name).join(' + ');
-  };
-
   return createPortal(
     <div
       ref={panel}
@@ -114,22 +192,7 @@ export function WordGloss({ root }: { root: RefObject<HTMLElement | null> }) {
       style={place ? { left: place.left, top: place.top } : { left: 0, top: 0, visibility: 'hidden' }}
     >
       <div aria-live="polite">
-        {shown.matches.map((m) => (
-          <section className="word-gloss-entry" key={m.head}>
-            {m.phrase && (
-              <p className="word-gloss-phrase">
-                <strong>{m.phrase.text}</strong> {m.phrase.gloss}
-              </p>
-            )}
-            <h3 className="word-gloss-head">{m.head}</h3>
-            {m.senses.map((s, i) => (
-              <p className="word-gloss-sense" key={i}>
-                {s.origin && <span className="word-gloss-origin">{origin(s.origin)}</span>}
-                {s.text}
-              </p>
-            ))}
-          </section>
-        ))}
+        <GlossEntries matches={shown.matches} />
       </div>
       <p className="word-gloss-source">{t('gloss_source')}</p>
     </div>,

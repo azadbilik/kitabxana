@@ -18,7 +18,7 @@ interface Entry {
   locales?: readonly string[];
 }
 
-const STATIC_PATHS = ['', '/authors', '/collections', '/works', '/tags', '/agac', '/about', '/contribute', '/contact', '/privacy'];
+const STATIC_PATHS = ['', '/authors', '/collections', '/works', '/tags', '/agac', '/about', '/contribute', '/contact', '/accessibility', '/privacy'];
 
 export async function sectionNames(): Promise<string[]> {
   const { works } = await api.getSitemap();

@@ -19,6 +19,7 @@ export function Footer() {
           <Link prefetch={false} href={localePath(locale, `/about`)}>{nav('about')}</Link>
           <Link prefetch={false} href={localePath(locale, `/contribute`)}>{nav('contribute')}</Link>
           <Link prefetch={false} href={localePath(locale, `/contact`)}>{nav('contact')}</Link>
+          <Link prefetch={false} href={localePath(locale, `/accessibility`)}>{nav('accessibility')}</Link>
           <Link prefetch={false} href={localePath(locale, `/privacy`)}>{nav('privacy')}</Link>
         </nav>
       </div>

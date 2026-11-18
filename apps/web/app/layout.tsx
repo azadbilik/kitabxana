@@ -1,9 +1,11 @@
 import '@/styles/globals.css';
 import '@/styles/nar.css';
+import '@/styles/a11y.css';
 import { Metadata, Viewport } from "next";
-import { Inter, Literata, Noto_Naskh_Arabic } from 'next/font/google';
+import { Andika, Inter, Literata, Noto_Naskh_Arabic } from 'next/font/google';
 import { ReactNode } from "react";
 import { getLocale } from 'next-intl/server';
+import { A11Y_BOOT } from '@/lib/a11y';
 import { SITE_NAME, SITE_URL } from '@/lib/seo';
 
 // Self-hosted at build time: no request to Google from the reader's browser, and the
@@ -29,6 +31,15 @@ const literataItalic = Literata({
   preload: false,
 });
 const naskh = Noto_Naskh_Arabic({ subsets: ['arabic'], variable: '--f-naskh', display: 'swap', preload: false });
+// The reader's choice on /accessibility (data-legible): never preloaded, fetched only once chosen
+const andika = Andika({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['400', '700'],
+  style: ['normal', 'italic'],
+  variable: '--f-andika',
+  display: 'swap',
+  preload: false,
+});
 
 // The browser's own chrome (the phone's address bar) takes the page colour of the OS theme
 export const viewport: Viewport = {
@@ -64,11 +75,12 @@ export default async function RootLayout({
   const locale = await getLocale();
 
   return (
-    <html lang={locale} className={`${inter.variable} ${literata.variable} ${literataItalic.variable} ${naskh.variable}`} suppressHydrationWarning>
+    <html lang={locale} className={`${inter.variable} ${literata.variable} ${literataItalic.variable} ${naskh.variable} ${andika.variable}`} suppressHydrationWarning>
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{
-            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','')}catch(e){}})()`,
+            // Theme, signed-in mark, then the accessibility choices (lib/a11y.ts), all before paint
+            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','');${A11Y_BOOT}}catch(e){}})()`,
           }}
         />
         {children}

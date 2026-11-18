@@ -1,7 +1,10 @@
 'use client';
 
 import { useState, useEffect, useRef, useId } from 'react';
-import { useTranslations } from 'next-intl';
+import Link from 'next/link';
+import { useLocale, useTranslations } from 'next-intl';
+import { localePath } from '@/lib/i18n';
+import { GlossLookup } from './WordGloss';
 import { lineSpacings, paragraphStyles, readingFonts, textAligns, type ReadingPrefs } from '@/lib/useReadingPrefs';
 
 interface Props {
@@ -17,6 +20,7 @@ const widthSteps = ['standard', 'wide', 'full'] as const;
 
 export function AppearancePopover({ prefs, onUpdate, isPoem, hasGlossary }: Props) {
   const t = useTranslations('reading');
+  const locale = useLocale();
   const [open, setOpen] = useState(false);
   const ref = useRef<HTMLDivElement>(null);
   const triggerRef = useRef<HTMLButtonElement>(null);
@@ -51,16 +55,24 @@ export function AppearancePopover({ prefs, onUpdate, isPoem, hasGlossary }: Prop
     };
   }, [open]);
 
+  // A step shown as a letter (S, XL) is named in words for screen readers; the name stands
+  // in the button's own text, so what is seen and what is announced never part ways
   const step = (active: boolean, label: string, name: string, onClick: () => void) => (
     <button
       key={label}
       type="button"
       className={`appearance-step${active ? ' active' : ''}`}
       aria-pressed={active}
-      aria-label={name}
       onClick={onClick}
     >
-      {label}
+      {label === name ? (
+        label
+      ) : (
+        <>
+          <span aria-hidden="true">{label}</span>
+          <span className="sr-only">{name}</span>
+        </>
+      )}
     </button>
   );
 
@@ -173,6 +185,14 @@ export function AppearancePopover({ prefs, onUpdate, isPoem, hasGlossary }: Prop
               })}
             </div>
           </div>
+
+          {/* The dictionary without a pointer: a word typed, its entry read */}
+          {hasGlossary && prefs.glossary && <GlossLookup />}
+
+          {/* Contrast, text size across the site, spacing, a legible face, motion */}
+          <Link prefetch={false} className="appearance-more" href={localePath(locale, '/accessibility')}>
+            {t('appearance_more')}
+          </Link>
         </div>
       )}
     </div>
