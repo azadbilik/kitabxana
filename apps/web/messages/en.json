@@ -51,7 +51,8 @@
     "prose": "Prose",
     "search_go": "Search",
     "search_placeholder": "Search authors, works or lines",
-    "search_placeholder_short": "Author, work…"
+    "search_placeholder_short": "Author, work…",
+    "tree": "Literature tree"
   },
   "authors": {
     "title": "Authors",
@@ -500,5 +501,37 @@
     "delete_type": "Type “{word}” to confirm",
     "delete_word": "delete",
     "delete_button": "Delete my account for good"
+  },
+  "tree": {
+    "eyebrow": "Azerbaijani literature · 7th century to 2026",
+    "title": "Literature tree",
+    "lead": "All of Azerbaijani literature from Dədə Qorqud to today on one tree: eras, branches, authors. Leaves fill in as you read; dashed ones are not on the site yet.",
+    "guest_title": "Watch the tree fill as you read",
+    "guest_text": "Sign in and every work you finish fills its author’s ring, so you can see which eras you have not opened yet.",
+    "sign_in": "Sign in",
+    "works_read": "of {total} works read",
+    "authors_started": "You have started {n} of {total} authors",
+    "eras_label": "Eras",
+    "rings_me": "Each band is an era: its width follows how much the site holds, the coloured part is how much of it you have read.",
+    "rings_guest": "Each band is an era; the coloured part is how much of it the site already holds.",
+    "filter_label": "Show",
+    "filter_all": "All",
+    "filter_read": "Read",
+    "filter_unread": "Not read yet",
+    "filter_missing": "Not on the site",
+    "legend_site": "On the site",
+    "legend_missing": "Not on the site yet",
+    "era_me": "{read} of {works} works read",
+    "era_site": "{authors} authors, {works} works on the site",
+    "era_missing": "{n, plural, one {# author or text still missing} other {# authors or texts still missing}}",
+    "empty": "Nothing here matches this filter.",
+    "gap_label": "Not yet here:",
+    "more": "{n} more poets",
+    "less": "Show fewer",
+    "suggest_title": "Someone missing?",
+    "suggest_text": "If you know an author or work that is not on the tree, or where to find an edition or scan of it, tell us and we will add it.",
+    "suggest_btn": "Suggest a source",
+    "footnote": "Authors on the site are placed automatically; the list of missing ones is an editorial selection, not a full bibliography. Dates for the early eras are approximate.",
+    "no_texts": "no texts yet"
   }
 }

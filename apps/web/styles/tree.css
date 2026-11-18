@@ -1,0 +1,259 @@
+/* Literature tree (/agac). One trunk down the left: eras are its nodes, branches grow off
+   it, authors are leaves with a ring that fills as the reader reads them. Nar tokens, with
+   fallbacks so the gazette skin still renders. */
+
+.tree-page {
+  --t-accent: var(--pomeg, #A81E28);
+  --t-ink: var(--ink, #16181D);
+  --t-muted: var(--muted, #5A5F6B);
+  --t-rule: var(--rule, #E8E9EC);
+  --t-surf: var(--surf, #F4F5F7);
+  --t-surf2: var(--surf-2, #E9EBEF);
+  --t-tint: var(--tint, #FBF1F1);
+  --t-serif: var(--font-serif, Georgia, serif);
+  --t-ui: var(--font-ui, system-ui, sans-serif);
+  --trunk-x: 7.5rem;
+  font-family: var(--t-ui);
+  padding-bottom: 4rem;
+}
+
+/* ── hero ─────────────────────────────────────────────── */
+.tree-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(16rem, 22rem);
+  gap: 2.5rem;
+  align-items: end;
+  padding: 2.5rem 0 1.75rem;
+}
+.tree-eyebrow {
+  font: 600 0.75rem/1 var(--t-ui);
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--t-accent);
+  margin: 0 0 0.9rem;
+}
+.tree-hero h1 {
+  font: 700 clamp(2.1rem, 5vw, 3.4rem)/1.05 var(--t-serif);
+  letter-spacing: -0.015em;
+  margin: 0 0 0.9rem;
+  text-wrap: balance;
+}
+.tree-lead { color: var(--t-muted); font-size: 1.05rem; line-height: 1.55; max-width: 38rem; margin: 0; }
+
+.tree-me {
+  background: var(--t-surf);
+  border-radius: var(--radius-lg, 16px);
+  padding: 1.25rem 1.35rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+.tree-me-figure { display: flex; align-items: center; gap: 0.9rem; }
+.tree-me-figure .leaf-ring { width: 3.25rem; height: 3.25rem; flex: none; }
+.tree-me-figure b { display: block; font: 700 2rem/1 var(--t-serif); font-variant-numeric: tabular-nums; }
+.tree-me-figure span { font-size: 0.85rem; color: var(--t-muted); }
+.tree-me-title { font: 600 1.1rem/1.3 var(--t-serif); margin: 0; }
+.tree-me-line { margin: 0; font-size: 0.9rem; color: var(--t-muted); line-height: 1.45; }
+.tree-me-btn { align-self: flex-start; margin-top: 0.25rem; }
+
+@media (max-width: 760px) {
+  .tree-hero { grid-template-columns: minmax(0, 1fr); gap: 1.25rem; padding-top: 1.5rem; }
+}
+
+/* ── rings: the whole history in one strip ───────────── */
+.tree-rings {
+  display: flex;
+  gap: 3px;
+  margin-top: 0.5rem;
+  overflow-x: auto;
+  scrollbar-width: none;
+  padding-bottom: 2px;
+}
+.tree-rings::-webkit-scrollbar { display: none; }
+.tree-ring {
+  flex-basis: 0;
+  min-width: 4.4rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.45rem;
+  text-decoration: none;
+  color: var(--t-muted);
+}
+.tree-ring-bar {
+  display: block;
+  height: 0.6rem;
+  background: var(--t-surf2);
+  border-radius: 2px;
+  overflow: hidden;
+}
+.tree-ring:first-child .tree-ring-bar { border-radius: 999px 2px 2px 999px; }
+.tree-ring:last-child .tree-ring-bar { border-radius: 2px 999px 999px 2px; }
+.tree-ring-bar i { display: block; height: 100%; background: var(--t-accent); transition: width 0.6s ease; }
+.tree-ring-when { font-size: 0.7rem; font-variant-numeric: tabular-nums; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.tree-ring:hover .tree-ring-when, .tree-ring:focus-visible .tree-ring-when { color: var(--t-ink); }
+.tree-ring:hover .tree-ring-bar { background: var(--t-rule); }
+.tree-rings-note { font-size: 0.8rem; color: var(--t-muted); margin: 0.6rem 0 0; }
+
+/* ── filters ──────────────────────────────────────────── */
+.tree-filters {
+  position: sticky;
+  top: 0;
+  z-index: 5;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.85rem 0;
+  margin-top: 1.5rem;
+  background: var(--bg, #fff);
+  border-bottom: 1px solid var(--t-rule);
+}
+.tree-legend { margin-left: auto; display: flex; gap: 1rem; font-size: 0.8rem; color: var(--t-muted); }
+.tree-legend span { display: inline-flex; align-items: center; gap: 0.4rem; }
+.lg { width: 0.75rem; height: 0.75rem; border-radius: 50%; display: inline-block; }
+.lg-site { border: 2px solid var(--t-accent); }
+.lg-missing { border: 1.5px dashed var(--t-muted); }
+@media (max-width: 640px) { .tree-legend { margin-left: 0; width: 100%; } }
+
+/* ── the trunk ────────────────────────────────────────── */
+.tree { list-style: none; margin: 2rem 0 0; padding: 0; position: relative; }
+.tree::before {
+  content: "";
+  position: absolute;
+  left: var(--trunk-x);
+  top: 0.6rem;
+  bottom: 0;
+  width: 2px;
+  background: linear-gradient(var(--t-accent), var(--t-accent) 85%, transparent);
+  opacity: 0.85;
+}
+.tree-era {
+  display: grid;
+  grid-template-columns: var(--trunk-x) minmax(0, 1fr);
+  padding-bottom: 3rem;
+  scroll-margin-top: 4.5rem;
+}
+.tree-era-when {
+  padding: 0.35rem 1.4rem 0 0;
+  text-align: right;
+  font: 600 0.85rem/1.3 var(--t-serif);
+  color: var(--t-muted);
+  font-variant-numeric: tabular-nums;
+}
+.tree-era-body { position: relative; padding-left: 2rem; min-width: 0; }
+.tree-era-body::before {
+  content: "";
+  position: absolute;
+  left: -0.45rem;
+  top: 0.45rem;
+  width: 0.9rem;
+  height: 0.9rem;
+  border-radius: 50%;
+  background: var(--bg, #fff);
+  border: 3px solid var(--t-accent);
+}
+.tree-era h2 { font: 600 1.55rem/1.2 var(--t-serif); margin: 0 0 0.35rem; text-wrap: balance; }
+.tree-era-gist { color: var(--t-muted); margin: 0 0 0.4rem; max-width: 44rem; line-height: 1.5; }
+.tree-era-count { font-size: 0.82rem; color: var(--t-muted); margin: 0 0 1.25rem; font-variant-numeric: tabular-nums; }
+.tree-era-missing { color: var(--t-accent); }
+.tree-empty { font-size: 0.9rem; color: var(--t-muted); font-style: italic; }
+
+.tree-branch { position: relative; margin-bottom: 1.4rem; }
+.tree-branch::before {
+  /* the twig from the trunk */
+  content: "";
+  position: absolute;
+  left: -2rem;
+  top: 0.6rem;
+  width: 1.4rem;
+  height: 1px;
+  background: var(--t-rule);
+}
+.tree-branch h3 {
+  font: 600 0.72rem/1.3 var(--t-ui);
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: var(--t-muted);
+  margin: 0 0 0.6rem;
+}
+
+@media (max-width: 720px) {
+  .tree-page { --trunk-x: 0.5rem; }
+  .tree-era { grid-template-columns: minmax(0, 1fr); padding-left: var(--trunk-x); }
+  .tree-era-when { text-align: left; padding: 0 0 0.3rem 1.6rem; }
+  .tree-era-body { padding-left: 1.6rem; }
+  .tree-era-body::before { left: -0.45rem; top: -1.45rem; }
+  .tree-branch::before { left: -1.6rem; width: 1rem; }
+}
+
+/* ── leaves ───────────────────────────────────────────── */
+.tree-leaves { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.4rem; }
+.leaf { max-width: 100%; }
+.leaf-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  max-width: 100%;
+  padding: 0.38rem 0.75rem 0.38rem 0.45rem;
+  border-radius: 999px;
+  background: var(--t-surf);
+  color: var(--t-ink);
+  text-decoration: none;
+  font-size: 0.9rem;
+  line-height: 1.25;
+  transition: background 0.15s ease;
+}
+a.leaf-link:hover { background: var(--t-tint); }
+a.leaf-link:focus-visible { outline: 2px solid var(--t-accent); outline-offset: 2px; }
+.leaf-name { font-weight: 500; overflow-wrap: anywhere; }
+.leaf-years, .leaf-count { font-size: 0.74rem; color: var(--t-muted); font-variant-numeric: tabular-nums; white-space: nowrap; }
+.leaf-count { padding-left: 0.1rem; }
+
+.leaf-ring { width: 1.15rem; height: 1.15rem; flex: none; }
+.leaf-ring-track { fill: none; stroke: var(--t-accent); stroke-width: 1.6; opacity: 0.35; }
+.leaf-ring-fill { fill: none; stroke: var(--t-accent); stroke-width: 2.6; stroke-linecap: round; transition: stroke-dasharray 0.6s ease; }
+.leaf-ring-check { fill: none; stroke: var(--t-accent); stroke-width: 1.8; stroke-linecap: round; stroke-linejoin: round; }
+
+.leaf--gap, .leaf--missing { display: flex; flex-direction: column; gap: 0.2rem; }
+.leaf--gap { padding: 0.35rem 0.5rem 0.5rem; border-radius: var(--radius, 12px); background: var(--t-surf); max-width: 26rem; }
+.leaf--gap .leaf-link { padding: 0 0.25rem 0 0; background: none; }
+.leaf-gap { margin: 0; padding-left: 1.6rem; font-size: 0.78rem; line-height: 1.4; color: var(--t-muted); }
+.leaf-gap span { color: var(--t-accent); font-weight: 500; }
+
+.leaf--missing { max-width: 22rem; border: 1px dashed var(--t-rule); border-color: color-mix(in srgb, var(--t-muted) 45%, transparent); border-radius: var(--radius, 12px); padding: 0.32rem 0.6rem 0.4rem 0.45rem; }
+.leaf--missing .leaf-link { padding: 0; background: none; color: var(--t-muted); }
+.leaf--missing .leaf-name { font-weight: 500; }
+.leaf-ghost { width: 1.15rem; height: 1.15rem; flex: none; border-radius: 50%; border: 1.5px dashed var(--t-muted); opacity: 0.7; }
+.leaf--missing:not(:has(.leaf-gap)) { flex-direction: row; border-radius: 999px; }
+
+.tree-more {
+  margin-top: 0.6rem;
+  background: none;
+  border: 0;
+  padding: 0.2rem 0;
+  font: 500 0.85rem var(--t-ui);
+  color: var(--t-accent);
+  cursor: pointer;
+}
+.tree-more:hover { text-decoration: underline; }
+
+/* ── after the tree ───────────────────────────────────── */
+.tree-suggest {
+  margin: 1rem 0 0 calc(var(--trunk-x) + 2rem);
+  padding: 1.5rem 1.6rem;
+  background: var(--t-tint);
+  border-radius: var(--radius-lg, 16px);
+  max-width: 40rem;
+}
+.tree-suggest h2 { font: 600 1.25rem/1.3 var(--t-serif); margin: 0 0 0.4rem; }
+.tree-suggest p { margin: 0 0 1rem; color: var(--t-muted); line-height: 1.5; }
+.tree-foot { margin: 1.5rem 0 0 calc(var(--trunk-x) + 2rem); font-size: 0.8rem; color: var(--t-muted); max-width: 44rem; }
+@media (max-width: 720px) { .tree-suggest, .tree-foot { margin-left: 0; } }
+
+@media (prefers-reduced-motion: reduce) {
+  .tree-ring-bar i, .leaf-ring-fill { transition: none; }
+}
+
+/* An author with a page but no texts yet: a link, drawn like a missing leaf */
+.leaf--empty .leaf-link { background: none; border: 1px dashed color-mix(in srgb, var(--t-muted) 45%, transparent); color: var(--t-muted); padding-block: calc(0.38rem - 1px); }
+.leaf--empty .leaf-count { font-style: italic; }

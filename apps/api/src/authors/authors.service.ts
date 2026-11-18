@@ -19,6 +19,20 @@ const AZ_COLLATOR = new Intl.Collator('az', { sensitivity: 'base' });
 export class AuthorsService {
   constructor(private prisma: PrismaService) {}
 
+  /** Lean list of every published author for the literature tree; one query, no bios */
+  async tree() {
+    const authors = await this.prisma.author.findMany({
+      where: { status: 'PUBLISHED' },
+      select: {
+        id: true, slug: true, nameAz: true, nameRu: true, nameEn: true,
+        bornYear: true, bornYearApprox: true, diedYear: true, diedYearApprox: true,
+        type: true, period: true, writingLangs: true,
+        _count: { select: { works: { where: { status: 'PUBLISHED' } } } },
+      },
+    });
+    return authors.map(({ _count, ...a }) => ({ ...a, works: _count.works }));
+  }
+
   async findAll(query: QueryAuthorsDto) {
     const { skip, take, page, limit } = paginationArgs(query);
 

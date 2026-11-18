@@ -88,6 +88,12 @@ export class LibraryController {
     return this.library.shelf(user.id, tab, Number(page) || 1);
   }
 
+  /** Works read and in progress per author, for the literature tree */
+  @Get('map')
+  map(@CurrentUser() user: SessionUser) {
+    return this.library.map(user.id);
+  }
+
   @Get('shelf/counts')
   counts(@CurrentUser() user: SessionUser) {
     return this.library.counts(user.id);

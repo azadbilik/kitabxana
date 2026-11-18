@@ -1,3 +1,4 @@
+import type { TreeAuthor } from '@/lib/canon';
 import { notFound, permanentRedirect } from 'next/navigation';
 import { localePath } from '@/lib/i18n';
 
@@ -92,6 +93,8 @@ export const api = {
     fetcher(`/authors${params ? `?${params}` : ''}`),
   getAuthor: (slug: string) => fetcher(`/authors/${slug}`),
   /** Poet of the week, picked so everything shown is in the reader's language */
+  /** Every published author with a work count, for the literature tree */
+  getAuthorTree: () => fetcher<TreeAuthor[]>('/authors/tree', { next: { revalidate: 600 } }),
   getFeaturedAuthor: (locale: string) => fetcher(`/authors/featured?lang=${locale}`),
 
   // Collections (the site's "books")

@@ -325,4 +325,15 @@ export class LibraryService {
     ]);
     return { reading, want, done, saved, readingWorks, doneWorks };
   }
+
+  /** { authorId: { done, reading } } over the reader's marked works, published ones only */
+  async map(userId: string) {
+    const rows = await this.prisma.$queryRaw<{ authorId: string; done: bigint; reading: bigint }[]>`
+      select w."authorId", count(*) filter (where r.status = 'DONE') as done,
+             count(*) filter (where r.status = 'READING') as reading
+      from "ReadingState" r join "Work" w on w.id = r."workId"
+      where r."userId" = ${userId} and w.status = 'PUBLISHED'
+      group by w."authorId"`;
+    return Object.fromEntries(rows.map((r) => [r.authorId, { done: Number(r.done), reading: Number(r.reading) }]));
+  }
 }

@@ -133,6 +133,7 @@ export function Header() {
     { href: localePath(locale, `/works`), label: t('works') },
     { href: worksPath(locale, { form: 'GHAZAL' }), label: t('ghazals'), only: 'nar' },
     { href: worksPath(locale, { genre: 'PROSE' }), label: t('prose'), only: 'nar' },
+    { href: localePath(locale, `/agac`), label: t('tree') },
     { href: localePath(locale, `/random`), label: t('random') },
     { href: localePath(locale, `/search`), label: t('search'), only: 'gazette' },
     { href: localePath(locale, `/contribute`), label: t('contribute') },

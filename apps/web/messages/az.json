@@ -51,7 +51,8 @@
     "prose": "Nəsr",
     "search_go": "Axtar",
     "search_placeholder": "Müəllif, əsər və ya misra axtar",
-    "search_placeholder_short": "Müəllif, əsər…"
+    "search_placeholder_short": "Müəllif, əsər…",
+    "tree": "Ədəbiyyat ağacı"
   },
   "authors": {
     "title": "Müəlliflər",
@@ -500,5 +501,37 @@
     "delete_type": "Təsdiq üçün «{word}» yazın",
     "delete_word": "sil",
     "delete_button": "Hesabı birdəfəlik sil"
+  },
+  "tree": {
+    "eyebrow": "Azərbaycan ədəbiyyatı · VII əsrdən 2026-ya",
+    "title": "Ədəbiyyat ağacı",
+    "lead": "Dədə Qorquddan bu günə qədər bütün Azərbaycan ədəbiyyatı bir ağacda: dövrlər, qollar, müəlliflər. Oxuduqca yarpaqlar rənglənir; qırıq xətli yarpaqlar saytda hələ olmayanlardır.",
+    "guest_title": "Oxuduqlarınız ağacda rənglənsin",
+    "guest_text": "Daxil olun: oxuduğunuz hər əsər öz müəllifinin halqasını doldurur və hansı dövrləri hələ açmadığınızı görürsünüz.",
+    "sign_in": "Daxil ol",
+    "works_read": "{total} əsərdən oxunub",
+    "authors_started": "{total} müəllifdən {n} müəllifi oxumağa başlamısınız",
+    "eras_label": "Dövrlər",
+    "rings_me": "Hər zolaq bir dövrdür: eni saytdakı əsərlərin sayına görə, rəngli hissə isə sizin oxuduğunuz paydır.",
+    "rings_guest": "Hər zolaq bir dövrdür; rəngli hissə həmin dövrün saytda olan payıdır.",
+    "filter_label": "Göstər",
+    "filter_all": "Hamısı",
+    "filter_read": "Oxuduqlarım",
+    "filter_unread": "Oxumadıqlarım",
+    "filter_missing": "Saytda olmayanlar",
+    "legend_site": "Saytda",
+    "legend_missing": "Saytda hələ yoxdur",
+    "era_me": "{works} əsərdən {read} əsər oxunub",
+    "era_site": "Saytda {authors} müəllif, {works} əsər",
+    "era_missing": "{n, plural, other {# müəllif və ya mətn hələ yoxdur}}",
+    "empty": "Bu süzgəcə uyğun heç nə yoxdur.",
+    "gap_label": "Hələ yoxdur:",
+    "more": "Daha {n} şair",
+    "less": "Yığ",
+    "suggest_title": "Burada kimsə çatışmır?",
+    "suggest_text": "Ağacda olmayan müəllif və ya əsər, onun nəşri və ya skan nüsxəsi barədə bilirsinizsə, yazın: əlavə edək.",
+    "suggest_btn": "Mənbə təklif et",
+    "footnote": "Saytda olan müəlliflər avtomatik yerləşdirilir; olmayanların siyahısı redaksiya seçimidir, tam biblioqrafiya deyil. İlk dövrlərin tarixləri təxminidir.",
+    "no_texts": "mətnlər hələ yoxdur"
   }
 }

@@ -29,6 +29,13 @@ export class AuthorsController {
     return this.authors.findAll(query);
   }
 
+  /** Every published author with a published-work count, for the literature tree (/agac) */
+  @Public()
+  @Get('tree')
+  tree() {
+    return this.authors.tree();
+  }
+
   @Public()
   @Get('featured')
   findFeatured(@Query('lang') lang?: string) {
