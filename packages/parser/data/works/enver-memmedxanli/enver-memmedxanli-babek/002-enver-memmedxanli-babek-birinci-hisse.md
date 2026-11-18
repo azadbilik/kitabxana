@@ -488,7 +488,7 @@ Qurtuluş yolu tapılmışdı və elə o gecə vəzir qət elədi.
 
 Orda, doğma şəhərində və öz hamamlarından birində səşənbə günü özünə həcəmət qoyduracaqdı. Və saray təbibi qoca Cəbrayıl ondan bir miqdar qan alacaqdı, beləliklə onu təqib edən o ufaq tale ulduzunun hökmü yerinə yetiriləcəkdi. Vəzir isə başının üstünü alan fəlakətdən qurtulacaqdı, üstəlik bu münasibətlə nəinki xəlifədən şahanə hədiyyə alacaqdı, hətta maaşlarını azaltdığı qoşun başçıları da ona qiymətli hədiyyələr göndərməyə məcbur olacaqdılar.
 
-Vəzir fürsəti [?] vermədi, dərhal Mərv qapılarından Sərəxs qapılarına çapar göndərdi ki, culfaçılar məhəlləsindəki böyük hamam səşənbə günü şəhər sakinlərinin üzünə bağlansın və icarədar hamamı vəzir üçün qızdırıb hazır saxlasın.
+Vəzir fürsəti fotə vermədi, dərhal Mərv qapılarından Sərəxs qapılarına çapar göndərdi ki, culfaçılar məhəlləsindəki böyük hamam səşənbə günü şəhər sakinlərinin üzünə bağlansın və icarədar hamamı vəzir üçün qızdırıb hazır saxlasın.
 
 ...Nəhayət o gün gəlib çatdı.
 
@@ -1199,7 +1199,7 @@ Sonra o vaxt ki, karvan yola tıxanmış köçün üstünə və köç də yolu t
 
 Beləliklə əks istiqamətlərə doğru hərəkət edən bir-birindən inadlı iki axın, bir-birinə çal-keçir olduğundan gah irəlidə, gah geridə tıxantılar və burulqanlar əmələ gətirməyə, getdikcə daha tez-tez toqquşmağa və getdikcə daha gec bir-birindən qopmağa başlarkən, atların kəsik və həyəcanlı kişnərtiləri, dəvələrin ağlayışı andıran nəriltiləri, uzunqulaqların boğuq hıqqantıları, karvan oğlanlarının bağırtıları, köç qadınlarının çığırtıları, yıxılıb qalanların uğultu və qarğışları bir-birinə qarışırdı ki, ağız deyəni qulaq eşitmədi.
 
-Vaxt olurdu ki, bu məhşəri hərc-mərclik burulğanı bir dəvəni, yaxud bir qatır çevirib köndələninə yolun ortasına qoyurdu. Kələf düyün düşürdü, sonra bu düyün çözülüb açılana kimi tərəflər bir-birinə lənətlər yağdırır, yumruqlarını işə salır, az qala bir-birini şil-küt edirdilər.
+Vaxt olurdu ki, bu məhşəri hərc-mərclik burulğanı bir dəvəni, yaxud bir qatırı çevirib köndələninə yolun ortasına qoyurdu. Kələf düyün düşürdü, sonra bu düyün çözülüb açılana kimi tərəflər bir-birinə lənətlər yağdırır, yumruqlarını işə salır, az qala bir-birini şil-küt edirdilər.
 
 ...Mərəkə davam eləyirdi. Əzrəkin köçü dəvə qatarlarının nizamını pozub karvanı əyiş-üyüş eləmişdi, Vəcnanın karvanı izdihamlı köçü ortasından yarıb arvad-uşağı pərən-pərən salmışdı və bu qaynar qazan içində çalxanan – dəvələrin, qatırların, uzunqulaqların arasında sıxcalanan, vurnuxan qaşqa ürgə isə artıq qopmağa hazır gərgin bir simə çevrilmişdi. Alacalanmış gözləri hədəqəsindən çıxmışdı, tövşüyüb fınxıran burun pərələri geniş açılmış, sağrısı ağ köpüklə örtülmüşdü. İndi o, hər addımbaşı ürkü və diksinti ilə şahə qalxırdı, düşməyə yer tapmayıb dal ayaqları üstə fırfıra kimi fırlanıb geri otururdu, üstündəki rəbiyyəli oğlan isə atı bir an tez bu girdabdan xilas eləməyə can atır, amma xam rəftarıyla ürgəni daha artıq çaş-baş salırdı.
 

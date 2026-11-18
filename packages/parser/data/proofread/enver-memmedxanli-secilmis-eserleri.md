@@ -3483,7 +3483,7 @@ Orda, doğma şəhərində və öz hamamlarından birində səşənbə günü ö
 
 @@ 081
 
-Vəzir fürsəti [?] vermədi, dərhal Mərv qapılarından Sərəxs qapılarına çapar göndərdi ki, culfaçılar məhəlləsindəki böyük hamam səşənbə günü şəhər sakinlərinin üzünə bağlansın və icarədar hamamı vəzir üçün qızdırıb hazır saxlasın.
+Vəzir fürsəti fotə vermədi, dərhal Mərv qapılarından Sərəxs qapılarına çapar göndərdi ki, culfaçılar məhəlləsindəki böyük hamam səşənbə günü şəhər sakinlərinin üzünə bağlansın və icarədar hamamı vəzir üçün qızdırıb hazır saxlasın.
 
 ...Nəhayət o gün gəlib çatdı.
 
@@ -4263,7 +4263,7 @@ Beləliklə əks istiqamətlərə doğru hərəkət edən bir-birindən inadlı 
 
 >>uzunqulaqların boğuq hıqqantıları, karvan oğlanlarının bağırtıları, köç qadınlarının çığırtıları, yıxılıb qalanların uğultu və qarğışları bir-birinə qarışırdı ki, ağız deyəni qulaq eşitmədi.
 
-Vaxt olurdu ki, bu məhşəri hərc-mərclik burulğanı bir dəvəni, yaxud bir qatır çevirib köndələninə yolun ortasına qoyurdu. Kələf düyün düşürdü, sonra bu düyün çözülüb açılana kimi tərəflər bir-birinə lənətlər yağdırır, yumruqlarını işə salır, az qala bir-birini şil-küt edirdilər.
+Vaxt olurdu ki, bu məhşəri hərc-mərclik burulğanı bir dəvəni, yaxud bir qatırı çevirib köndələninə yolun ortasına qoyurdu. Kələf düyün düşürdü, sonra bu düyün çözülüb açılana kimi tərəflər bir-birinə lənətlər yağdırır, yumruqlarını işə salır, az qala bir-birini şil-küt edirdilər.
 
 ...Mərəkə davam eləyirdi. Əzrəkin köçü dəvə qatarlarının nizamını pozub karvanı əyiş-üyüş eləmişdi, Vəcnanın karvanı izdihamlı köçü ortasından yarıb arvad-uşağı pərən-pərən salmışdı və bu qaynar qazan içində çalxanan – dəvələrin, qatırların, uzunqulaqların arasında sıxcalanan, vurnuxan qaşqa ürgə isə artıq qopmağa hazır gərgin bir simə çevrilmişdi. Alacalanmış gözləri hədəqəsindən çıxmışdı, tövşüyüb fınxıran burun pərələri geniş açılmış, sağrısı ağ köpüklə örtülmüşdü. İndi o, hər addımbaşı ürkü və diksinti ilə şahə qalxırdı, düşməyə yer tapmayıb dal ayaqları üstə fırfıra kimi fırlanıb geri otururdu, üstündəki rəbiyyəli oğlan isə atı bir an tez bu girdabdan xilas eləməyə can atır, amma xam rəftarıyla ürgəni daha artıq çaş-baş salırdı.
 
