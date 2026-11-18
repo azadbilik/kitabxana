@@ -84,7 +84,7 @@ export default function AdminAuthorsPage() {
               <th>Əsərlər</th>
               <th>Dillər</th>
               <th>Status</th>
-              <th></th>
+              <th><span className="sr-only">Əməliyyatlar</span></th>
             </tr>
           </thead>
           <tbody>

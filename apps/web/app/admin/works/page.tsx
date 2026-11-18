@@ -44,7 +44,7 @@ export default function AdminWorksPage() {
               <th>Janr</th>
               <th>Dil</th>
               <th>İl</th>
-              <th></th>
+              <th><span className="sr-only">Əməliyyatlar</span></th>
             </tr>
           </thead>
           <tbody>

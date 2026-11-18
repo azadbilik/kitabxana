@@ -180,20 +180,20 @@ export default function EditWorkPage() {
         <div className="adm-editor-grid">
           <div>
             <div className="adm-field">
-              <label className="adm-label">Başlıq (AZ) *</label>
-              <input className="adm-input" value={form.titleAz} onChange={(e) => update('titleAz', e.target.value)} required />
+              <label className="adm-label" htmlFor="adm-works-id-1">Başlıq (AZ) *</label>
+              <input id="adm-works-id-1" className="adm-input" value={form.titleAz} onChange={(e) => update('titleAz', e.target.value)} required />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Başlıq (RU)</label>
-              <input className="adm-input" value={form.titleRu} onChange={(e) => update('titleRu', e.target.value)} />
+              <label className="adm-label" htmlFor="adm-works-id-2">Başlıq (RU)</label>
+              <input id="adm-works-id-2" className="adm-input" value={form.titleRu} onChange={(e) => update('titleRu', e.target.value)} />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Başlıq (FA)</label>
-              <input className="adm-input" value={form.titleFa} onChange={(e) => update('titleFa', e.target.value)} dir="rtl" />
+              <label className="adm-label" htmlFor="adm-works-id-3">Başlıq (FA)</label>
+              <input id="adm-works-id-3" className="adm-input" value={form.titleFa} onChange={(e) => update('titleFa', e.target.value)} dir="rtl" />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Müəllif *</label>
-              <select className="adm-select" value={form.authorId} onChange={(e) => update('authorId', e.target.value)} required>
+              <label className="adm-label" htmlFor="adm-works-id-4">Müəllif *</label>
+              <select id="adm-works-id-4" className="adm-select" value={form.authorId} onChange={(e) => update('authorId', e.target.value)} required>
                 <option value="">Seçin…</option>
                 {authors.map((a) => (
                   <option key={a.id} value={a.id}>{a.nameAz}</option>
@@ -201,8 +201,8 @@ export default function EditWorkPage() {
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Kolleksiya</label>
-              <select className="adm-select" value={form.collectionId} onChange={(e) => update('collectionId', e.target.value)}>
+              <label className="adm-label" htmlFor="adm-works-id-5">Kolleksiya</label>
+              <select id="adm-works-id-5" className="adm-select" value={form.collectionId} onChange={(e) => update('collectionId', e.target.value)}>
                 <option value="">Müstəqil əsər</option>
                 {collections.map((c) => (
                   <option key={c.id} value={c.id}>{c.titleAz}</option>
@@ -211,12 +211,12 @@ export default function EditWorkPage() {
             </div>
             <div className="adm-field-row">
               <div className="adm-field">
-                <label className="adm-label">Sıra</label>
-                <input className="adm-input" type="number" value={form.order} onChange={(e) => update('order', e.target.value)} placeholder="#" />
+                <label className="adm-label" htmlFor="adm-works-id-6">Sıra</label>
+                <input id="adm-works-id-6" className="adm-input" type="number" value={form.order} onChange={(e) => update('order', e.target.value)} placeholder="#" />
               </div>
               <div className="adm-field">
-                <label className="adm-label">İl</label>
-                <input className="adm-input" type="number" value={form.year} onChange={(e) => update('year', e.target.value)} />
+                <label className="adm-label" htmlFor="adm-works-id-7">İl</label>
+                <input id="adm-works-id-7" className="adm-input" type="number" value={form.year} onChange={(e) => update('year', e.target.value)} />
               </div>
             </div>
             <div className="adm-field">
@@ -226,32 +226,32 @@ export default function EditWorkPage() {
               </label>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Janr</label>
-              <select className="adm-select" value={form.genre} onChange={(e) => update('genre', e.target.value)}>
+              <label className="adm-label" htmlFor="adm-works-id-8">Janr</label>
+              <select id="adm-works-id-8" className="adm-select" value={form.genre} onChange={(e) => update('genre', e.target.value)}>
                 {['POEM', 'PROSE', 'PLAY', 'ESSAY', 'PHILOSOPHY', 'LETTER', 'MEMOIR'].map((g) => (
                   <option key={g} value={g}>{g}</option>
                 ))}
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Orijinal dil</label>
-              <select className="adm-select" value={form.originalLang} onChange={(e) => update('originalLang', e.target.value)}>
+              <label className="adm-label" htmlFor="adm-works-id-9">Orijinal dil</label>
+              <select id="adm-works-id-9" className="adm-select" value={form.originalLang} onChange={(e) => update('originalLang', e.target.value)}>
                 {['AZ_LATIN', 'AZ_ARABIC', 'AZ_CYRILLIC', 'FA', 'AR', 'RU', 'TR'].map((l) => (
                   <option key={l} value={l}>{l}</option>
                 ))}
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Mənbə qeydi</label>
-              <input className="adm-input" value={form.sourceNote} onChange={(e) => update('sourceNote', e.target.value)} />
+              <label className="adm-label" htmlFor="adm-works-id-10">Mənbə qeydi</label>
+              <input id="adm-works-id-10" className="adm-input" value={form.sourceNote} onChange={(e) => update('sourceNote', e.target.value)} />
             </div>
             <WorkTagEditor workId={id} initial={tags} />
           </div>
 
           <div>
             <div className="adm-field">
-              <label className="adm-label">Mətn (Markdown) *</label>
-              <textarea
+              <label className="adm-label" htmlFor="adm-works-id-11">Mətn (Markdown) *</label>
+              <textarea id="adm-works-id-11"
                 className="adm-textarea"
                 value={form.body}
                 onChange={(e) => update('body', e.target.value)}

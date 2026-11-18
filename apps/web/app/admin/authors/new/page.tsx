@@ -108,41 +108,41 @@ export default function NewAuthorPage() {
         <div className="adm-editor-grid">
           <div>
             <div className="adm-field">
-              <label className="adm-label">Ad (AZ) *</label>
-              <input className="adm-input" value={form.nameAz} onChange={(e) => update('nameAz', e.target.value)} required />
+              <label className="adm-label" htmlFor="adm-authors-new-1">Ad (AZ) *</label>
+              <input id="adm-authors-new-1" className="adm-input" value={form.nameAz} onChange={(e) => update('nameAz', e.target.value)} required />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Ad (RU)</label>
-              <input className="adm-input" value={form.nameRu} onChange={(e) => update('nameRu', e.target.value)} />
+              <label className="adm-label" htmlFor="adm-authors-new-2">Ad (RU)</label>
+              <input id="adm-authors-new-2" className="adm-input" value={form.nameRu} onChange={(e) => update('nameRu', e.target.value)} />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Ad (EN)</label>
-              <input className="adm-input" value={form.nameEn} onChange={(e) => update('nameEn', e.target.value)} />
+              <label className="adm-label" htmlFor="adm-authors-new-3">Ad (EN)</label>
+              <input id="adm-authors-new-3" className="adm-input" value={form.nameEn} onChange={(e) => update('nameEn', e.target.value)} />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Ad (FA)</label>
-              <input className="adm-input" value={form.nameFa} onChange={(e) => update('nameFa', e.target.value)} dir="rtl" />
+              <label className="adm-label" htmlFor="adm-authors-new-4">Ad (FA)</label>
+              <input id="adm-authors-new-4" className="adm-input" value={form.nameFa} onChange={(e) => update('nameFa', e.target.value)} dir="rtl" />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Növ</label>
-              <select className="adm-select" value={form.type} onChange={(e) => update('type', e.target.value)}>
+              <label className="adm-label" htmlFor="adm-authors-new-5">Növ</label>
+              <select id="adm-authors-new-5" className="adm-select" value={form.type} onChange={(e) => update('type', e.target.value)}>
                 {['POET', 'WRITER', 'PLAYWRIGHT', 'PHILOSOPHER', 'FOLK'].map((t) => (
                   <option key={t} value={t}>{t}</option>
                 ))}
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Dövr</label>
-              <input className="adm-input" value={form.period} onChange={(e) => update('period', e.target.value)} placeholder="XII əsr" />
+              <label className="adm-label" htmlFor="adm-authors-new-6">Dövr</label>
+              <input id="adm-authors-new-6" className="adm-input" value={form.period} onChange={(e) => update('period', e.target.value)} placeholder="XII əsr" />
             </div>
             <div className="adm-field-row">
               <div className="adm-field">
-                <label className="adm-label">Doğum ili</label>
-                <input className="adm-input" type="number" value={form.bornYear} onChange={(e) => update('bornYear', e.target.value)} />
+                <label className="adm-label" htmlFor="adm-authors-new-7">Doğum ili</label>
+                <input id="adm-authors-new-7" className="adm-input" type="number" value={form.bornYear} onChange={(e) => update('bornYear', e.target.value)} />
               </div>
               <div className="adm-field">
-                <label className="adm-label">Vəfat ili</label>
-                <input className="adm-input" type="number" value={form.diedYear} onChange={(e) => update('diedYear', e.target.value)} />
+                <label className="adm-label" htmlFor="adm-authors-new-8">Vəfat ili</label>
+                <input id="adm-authors-new-8" className="adm-input" type="number" value={form.diedYear} onChange={(e) => update('diedYear', e.target.value)} />
               </div>
             </div>
             <div className="adm-field" style={{ display: 'flex', gap: '1rem' }}>
@@ -156,23 +156,23 @@ export default function NewAuthorPage() {
               </label>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Doğum yeri</label>
-              <input className="adm-input" value={form.bornPlace} onChange={(e) => update('bornPlace', e.target.value)} />
+              <label className="adm-label" htmlFor="adm-authors-new-9">Doğum yeri</label>
+              <input id="adm-authors-new-9" className="adm-input" value={form.bornPlace} onChange={(e) => update('bornPlace', e.target.value)} />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Vəfat yeri</label>
-              <input className="adm-input" value={form.diedPlace} onChange={(e) => update('diedPlace', e.target.value)} />
+              <label className="adm-label" htmlFor="adm-authors-new-10">Vəfat yeri</label>
+              <input id="adm-authors-new-10" className="adm-input" value={form.diedPlace} onChange={(e) => update('diedPlace', e.target.value)} />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Portret URL</label>
-              <input className="adm-input" value={form.portraitUrl} onChange={(e) => update('portraitUrl', e.target.value)} placeholder="https://..." />
+              <label className="adm-label" htmlFor="adm-authors-new-11">Portret URL</label>
+              <input id="adm-authors-new-11" className="adm-input" value={form.portraitUrl} onChange={(e) => update('portraitUrl', e.target.value)} placeholder="https://..." />
             </div>
           </div>
 
           <div>
             <div className="adm-field">
-              <label className="adm-label">Bioqrafiya (AZ, Markdown)</label>
-              <textarea
+              <label className="adm-label" htmlFor="adm-authors-new-12">Bioqrafiya (AZ, Markdown)</label>
+              <textarea id="adm-authors-new-12"
                 className="adm-textarea"
                 value={form.bioAz}
                 onChange={(e) => update('bioAz', e.target.value)}
@@ -180,8 +180,8 @@ export default function NewAuthorPage() {
               />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Bioqrafiya (RU, Markdown)</label>
-              <textarea
+              <label className="adm-label" htmlFor="adm-authors-new-13">Bioqrafiya (RU, Markdown)</label>
+              <textarea id="adm-authors-new-13"
                 className="adm-textarea"
                 value={form.bioRu}
                 onChange={(e) => update('bioRu', e.target.value)}

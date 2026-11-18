@@ -165,7 +165,7 @@ export default function AdminSubmissionsPage() {
               <th>İstifadəçi</th>
               <th>Tarix</th>
               <th>Status</th>
-              <th></th>
+              <th><span className="sr-only">Əməliyyatlar</span></th>
             </tr>
           </thead>
           <tbody>

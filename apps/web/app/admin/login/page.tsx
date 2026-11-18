@@ -43,7 +43,7 @@ export default function AdminLoginPage() {
   };
 
   return (
-    <div style={{
+    <main style={{
       minHeight: '100vh',
       display: 'flex',
       alignItems: 'center',
@@ -59,14 +59,16 @@ export default function AdminLoginPage() {
         borderRadius: '4px',
       }}>
         <div style={{ textAlign: 'center', marginBottom: '1.5rem' }}>
-          <div style={{
+          <h1 style={{
+            margin: 0,
+            lineHeight: 1.2,
             fontFamily: 'var(--font-serif)',
             fontSize: '1.4rem',
             fontWeight: 900,
             letterSpacing: '-0.02em',
           }}>
             Kitabxana<span style={{ color: 'var(--pomeg)' }}>◆</span>AZ
-          </div>
+          </h1>
           <div style={{
             fontFamily: 'var(--font-ui)',
             fontSize: '0.7rem',
@@ -94,8 +96,8 @@ export default function AdminLoginPage() {
         )}
 
         <div className="adm-field">
-          <label className="adm-label">E-poçt</label>
-          <input
+          <label className="adm-label" htmlFor="adm-login-1">E-poçt</label>
+          <input id="adm-login-1"
             className="adm-input"
             type="email"
             value={email}
@@ -106,8 +108,8 @@ export default function AdminLoginPage() {
         </div>
 
         <div className="adm-field">
-          <label className="adm-label">Şifrə</label>
-          <input
+          <label className="adm-label" htmlFor="adm-login-2">Şifrə</label>
+          <input id="adm-login-2"
             className="adm-input"
             type="password"
             value={password}
@@ -125,6 +127,6 @@ export default function AdminLoginPage() {
           {loading ? 'Giriş edilir...' : 'Daxil ol'}
         </button>
       </form>
-    </div>
+    </main>
   );
 }

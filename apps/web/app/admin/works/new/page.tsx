@@ -117,8 +117,8 @@ export default function NewWorkPage() {
           {/* Left: metadata sidebar */}
           <div>
             <div className="adm-field">
-              <label className="adm-label">Başlıq (AZ) *</label>
-              <input
+              <label className="adm-label" htmlFor="adm-works-new-1">Başlıq (AZ) *</label>
+              <input id="adm-works-new-1"
                 className="adm-input"
                 value={form.titleAz}
                 onChange={(e) => update('titleAz', e.target.value)}
@@ -126,16 +126,16 @@ export default function NewWorkPage() {
               />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Başlıq (RU)</label>
-              <input
+              <label className="adm-label" htmlFor="adm-works-new-2">Başlıq (RU)</label>
+              <input id="adm-works-new-2"
                 className="adm-input"
                 value={form.titleRu}
                 onChange={(e) => update('titleRu', e.target.value)}
               />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Başlıq (FA)</label>
-              <input
+              <label className="adm-label" htmlFor="adm-works-new-3">Başlıq (FA)</label>
+              <input id="adm-works-new-3"
                 className="adm-input"
                 value={form.titleFa}
                 onChange={(e) => update('titleFa', e.target.value)}
@@ -143,8 +143,8 @@ export default function NewWorkPage() {
               />
             </div>
             <div className="adm-field">
-              <label className="adm-label">Müəllif *</label>
-              <select
+              <label className="adm-label" htmlFor="adm-works-new-4">Müəllif *</label>
+              <select id="adm-works-new-4"
                 className="adm-select"
                 value={form.authorId}
                 onChange={(e) => update('authorId', e.target.value)}
@@ -157,8 +157,8 @@ export default function NewWorkPage() {
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Kolleksiya</label>
-              <select
+              <label className="adm-label" htmlFor="adm-works-new-5">Kolleksiya</label>
+              <select id="adm-works-new-5"
                 className="adm-select"
                 value={form.collectionId}
                 onChange={(e) => update('collectionId', e.target.value)}
@@ -171,8 +171,8 @@ export default function NewWorkPage() {
             </div>
             <div className="adm-field-row">
               <div className="adm-field">
-                <label className="adm-label">Sıra</label>
-                <input
+                <label className="adm-label" htmlFor="adm-works-new-6">Sıra</label>
+                <input id="adm-works-new-6"
                   className="adm-input"
                   type="number"
                   value={form.order}
@@ -181,8 +181,8 @@ export default function NewWorkPage() {
                 />
               </div>
               <div className="adm-field">
-                <label className="adm-label">İl</label>
-                <input
+                <label className="adm-label" htmlFor="adm-works-new-7">İl</label>
+                <input id="adm-works-new-7"
                   className="adm-input"
                   type="number"
                   value={form.year}
@@ -201,8 +201,8 @@ export default function NewWorkPage() {
               </label>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Janr</label>
-              <select
+              <label className="adm-label" htmlFor="adm-works-new-8">Janr</label>
+              <select id="adm-works-new-8"
                 className="adm-select"
                 value={form.genre}
                 onChange={(e) => update('genre', e.target.value)}
@@ -213,8 +213,8 @@ export default function NewWorkPage() {
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Orijinal dil</label>
-              <select
+              <label className="adm-label" htmlFor="adm-works-new-9">Orijinal dil</label>
+              <select id="adm-works-new-9"
                 className="adm-select"
                 value={form.originalLang}
                 onChange={(e) => update('originalLang', e.target.value)}
@@ -225,8 +225,8 @@ export default function NewWorkPage() {
               </select>
             </div>
             <div className="adm-field">
-              <label className="adm-label">Mənbə qeydi</label>
-              <input
+              <label className="adm-label" htmlFor="adm-works-new-10">Mənbə qeydi</label>
+              <input id="adm-works-new-10"
                 className="adm-input"
                 value={form.sourceNote}
                 onChange={(e) => update('sourceNote', e.target.value)}
@@ -238,8 +238,8 @@ export default function NewWorkPage() {
           {/* Right: body editor */}
           <div>
             <div className="adm-field">
-              <label className="adm-label">Mətn (Markdown) *</label>
-              <textarea
+              <label className="adm-label" htmlFor="adm-works-new-11">Mətn (Markdown) *</label>
+              <textarea id="adm-works-new-11"
                 className="adm-textarea"
                 value={form.body}
                 onChange={(e) => update('body', e.target.value)}

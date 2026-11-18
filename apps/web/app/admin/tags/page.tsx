@@ -55,7 +55,7 @@ export default function AdminTagsPage() {
                   {SOURCES.map((s) => (
                     <th key={s} className="right" title={SOURCE_LABELS[s].hint}>{SOURCE_LABELS[s].label}</th>
                   ))}
-                  <th></th>
+                  <th><span className="sr-only">Əməliyyatlar</span></th>
                 </tr>
               </thead>
               <tbody>

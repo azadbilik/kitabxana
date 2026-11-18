@@ -9,11 +9,13 @@ import { SITE_NAME, SITE_URL } from '@/lib/seo';
 // Self-hosted at build time: no request to Google from the reader's browser, and the
 // two faces every page uses are preloaded. `subsets` only picks what is preloaded: the
 // Cyrillic files still ship and load when a page has Cyrillic text (unicode-range)
+// Literata comes without its optical-size axis: the axis added about 100 KB to every page
+// (326 → 224 KB of fonts) for titles a hair narrower, a difference found only by overlaying
+// screenshots
 const inter = Inter({ subsets: ['latin', 'latin-ext'], variable: '--f-inter', display: 'swap' });
 const literata = Literata({
   subsets: ['latin', 'latin-ext'],
   style: ['normal'],
-  axes: ['opsz'],
   variable: '--f-literata',
   display: 'swap',
 });
@@ -22,7 +24,6 @@ const literata = Literata({
 const literataItalic = Literata({
   subsets: ['latin', 'latin-ext'],
   style: ['italic'],
-  axes: ['opsz'],
   variable: '--f-literata-italic',
   display: 'swap',
   preload: false,
