@@ -68,6 +68,9 @@ function Search() {
   const [results, setResults] = useState<SearchResult | null>(null);
   const [facets, setFacets] = useState<SearchFacets | null>(null);
   const [groups, setGroups] = useState<SearchGroups>({ authors: [], books: [] });
+  // The query whose authors and books have arrived (or failed, or taken too long): the works
+  // wait for it, so those two sections do not land above them and push them down the page
+  const [groupsFor, setGroupsFor] = useState('');
   const [state, setState] = useState<'idle' | 'loading' | 'done' | 'error'>('idle');
   const [attempt, setAttempt] = useState(0);
   // Works come 20 at a time; "show more" appends the next page
@@ -83,12 +86,16 @@ function Search() {
     setGroups({ authors: [], books: [] });
     if (!q) return;
     let current = true;
+    const settle = () => current && setGroupsFor(q);
+    const giveUp = setTimeout(settle, 1500);
     api
       .searchGroups(q)
       .then((data) => current && setGroups(data))
-      .catch(() => {});
+      .catch(() => {})
+      .finally(settle);
     return () => {
       current = false;
+      clearTimeout(giveUp);
     };
   }, [q]);
 
@@ -249,7 +256,7 @@ function Search() {
         </section>
       )}
 
-      {state !== 'idle' && state !== 'error' && (
+      {state !== 'idle' && state !== 'error' && groupsFor === q && (
         <section className="search-group" aria-labelledby="search-works-title" aria-busy={state === 'loading'}>
           <h2 id="search-works-title" className="search-group-title">{t('search.works')}</h2>
 
