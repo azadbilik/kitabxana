@@ -18,7 +18,7 @@ Hetzner CPX21-class (Ubuntu 24.04) with the admin key `~/.ssh/kitabxana_vps.pub`
 
 ```bash
 ssh root@<host> 'sh -s' < deploy/provision.sh "$(cat ~/.ssh/kitabxana_vps.pub)" "$(cat ~/.ssh/kitabxana_deploy.pub)"
-echo 'LIVE_HOST=<host>' > deploy/vps.env    # scripts/sync-tunnel-db.sh reads it
+echo 'LIVE_HOST=<host>' > deploy/vps.env    # scripts/vps-psql.sh and sync-tunnel-db.sh read it
 ```
 
 `provision.sh` installs Docker, creates the `deploy` user, turns off password and root logins, allows only SSH through ufw, and adds swap and automatic security updates. From then on log in as `deploy` with `~/.ssh/kitabxana_vps`.
@@ -69,7 +69,7 @@ Keeps a week of nightly dumps in `/opt/irs-az/backups`, and 30 days in R2 once `
 Imports still run against the local database; then copy the content to the server, keeping readers' data there:
 
 ```bash
-SYNC_TARGET_PSQL=scripts/vps-psql.sh scripts/sync-tunnel-db.sh
+scripts/sync-tunnel-db.sh        # targets the server whenever deploy/vps.env exists
 ```
 
 ## Operations

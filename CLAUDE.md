@@ -30,6 +30,10 @@ pnpm parse ocr-book --images <dir> --out <file.md> --lang aze_yanalif --engine v
 pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a National Library book whose works share one page mark (a play by act, a novel by chapter): OCR the scan pages they span and find where each starts, so a work's PDF download is just its pages; rewrites apps/api/src/downloads/scan-starts.ts (commit it, rebuild the API). OCR'd pages are cached in packages/parser/data/raw/scan-ocr/psm<n>; needs tesseract, poppler, qpdf
 ```
 
+## Live site
+- kitabxana.az runs on a Hetzner VPS (`deploy/vps.env`, SSH `deploy@` with `~/.ssh/kitabxana_vps`) behind the Cloudflare tunnel; every push to `main` that passes CI deploys it (`deploy/README.md`). The laptop `deploy/tunnel` stack is no longer live
+- Content: import into the local DB, then `scripts/sync-tunnel-db.sh` (targets the VPS, keeps readers' data); purge with `deploy/tunnel/purge-cache.sh`
+
 ## Stack
 - **Backend**: NestJS 11, Prisma 6, PostgreSQL, Meilisearch, JWT auth
 - **Frontend**: Next.js 15 (App Router), next-intl, React 19

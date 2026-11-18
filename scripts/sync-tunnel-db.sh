@@ -1,6 +1,6 @@
 #!/bin/bash
 # Copy the library's CONTENT from the local DB (DATABASE_URL in apps/api/.env) into the live
-# tunnel DB (container irs-az-tunnel-postgres-1), then compare both sides table by table.
+# live DB (the VPS from deploy/vps.env, else the laptop tunnel container), then compare both sides table by table.
 #
 # What is copied: only the tables in CONTENT_TABLES below. The live copy of each is replaced
 # by the local one, so anything edited through the live admin is overwritten.
@@ -43,7 +43,11 @@ else
   DBURL=$(grep '^DATABASE_URL' apps/api/.env | cut -d= -f2- | tr -d '"')
   L="${DBURL%%\?*}"
 fi
+# The live site runs on the VPS (deploy/vps.env) since 2026-11-18; the laptop stack only with
+# SYNC_TARGET_PSQL="docker exec -i irs-az-tunnel-postgres-1 psql -U postgres -d irs_az"
+if [ -z "${SYNC_TARGET_PSQL:-}" ] && [ -f deploy/vps.env ]; then SYNC_TARGET_PSQL=scripts/vps-psql.sh; fi
 read -r -a TARGET <<< "${SYNC_TARGET_PSQL:-docker exec -i irs-az-tunnel-postgres-1 psql -U postgres -d irs_az}"
+echo "target: ${TARGET[*]}"
 target() { "${TARGET[@]}" -v ON_ERROR_STOP=1 "$@"; }
 
 in_list() { local x="$1"; shift; for y in "$@"; do [ "$x" = "$y" ] && return 0; done; return 1; }

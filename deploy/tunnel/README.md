@@ -1,6 +1,8 @@
 # Laptop Hosting (Cloudflare Tunnel)
 
-Serves the production stack from a laptop at **kitabxana.az** through a named Cloudflare tunnel, until a [VPS](../README.md) exists. A quick tunnel (random `*.trycloudflare.com` URL, no account) still works for throwaway previews; see the end.
+> **Not live since 2026-11-18.** kitabxana.az runs on the VPS ([../README.md](../README.md)); pushes to `main` deploy there. This laptop stack is a local copy and a fallback: its `cloudflared` is off (launchd plist renamed `com.cloudflare.cloudflared.plist.disabled-vps`). Builds, restarts and syncs here no longer reach readers.
+
+Served the production stack from a laptop at **kitabxana.az** through a named Cloudflare tunnel, until the VPS. A quick tunnel (random `*.trycloudflare.com` URL, no account) still works for throwaway previews; see the end.
 
 ```
 kitabxana.az → cloudflared → Caddy 127.0.0.1:8787 ─┬─ /api/* → api:4000
