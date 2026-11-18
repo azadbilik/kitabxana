@@ -66,6 +66,22 @@ const KNOWN_STARTS: Record<string, number> = {
   'anl-235376-t6-3': 140,
   'anl-235376-t6-7': 157,
   'anl-235376-t6-8': 159,
+  // 8012 (Cyrillic): «Pərdə» headings
+  'anl-8012-t31-4': 142,
+  'anl-8012-t33-1': 152,
+  'anl-8012-t35-1': 178,
+  'anl-8012-t35-3': 189,
+  'anl-8012-t35-5': 199,
+  // 8018 (1930s Yanalif): «Şəkil» headings
+  'anl-8018-t2-1': 126,
+  'anl-8018-t2-3': 131,
+  'anl-8018-t3-1': 136,
+  'anl-8018-t3-2': 139,
+  'anl-8018-t5-1': 231,
+  'anl-8018-t5-2': 240,
+  'anl-8018-t7-1': 257,
+  'anl-8018-t7-2': 259,
+  'anl-8018-t7-3': 261,
 };
 const STARTS: Record<string, number> = { ...SCAN_STARTS, ...KNOWN_STARTS };
 
