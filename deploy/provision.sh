@@ -2,7 +2,7 @@
 # One-time setup of a fresh Ubuntu 24.04 server for the production stack, run as root:
 #   ssh root@<host> 'sh -s' < deploy/provision.sh "<admin pubkey>" "<ci deploy pubkey>"
 # Installs Docker, creates the `deploy` user (the two keys may log in as it), turns off
-# password and root SSH logins, opens only SSH (the site arrives through the Cloudflare
+# password SSH logins (root only with a key), opens only SSH (the site arrives through the Cloudflare
 # tunnel, which connects out), adds swap, automatic security updates and /opt/irs-az.
 set -eu
 ADMIN_KEY="$1"
@@ -43,9 +43,10 @@ systemctl restart docker
 cat > /etc/ssh/sshd_config.d/90-kitabxana.conf <<'CONF'
 PasswordAuthentication no
 KbdInteractiveAuthentication no
-PermitRootLogin no
+PermitRootLogin prohibit-password
 CONF
-systemctl reload ssh
+# Ubuntu 24.04+ starts sshd per connection (ssh.socket); reload only a running service
+systemctl reload ssh 2>/dev/null || true
 
 ufw default deny incoming
 ufw default allow outgoing

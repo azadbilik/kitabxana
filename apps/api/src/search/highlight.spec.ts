@@ -106,9 +106,15 @@ describe('excerpt and snippet', () => {
 
   it('stays fast when a word matches thousands of times in a long text', () => {
     const text = 'gül bülbül bağ çəmən '.repeat(20_000);
+    // Byte offsets counted as we go: measuring the whole prefix for every match is itself
+    // quadratic and took longer than the 5 s test limit on CI runners
     const positions: { start: number }[] = [];
+    let prev = 0;
+    let bytes = 0;
     for (let at = text.indexOf('gül'); at >= 0 && positions.length < 20_000; at = text.indexOf('gül', at + 1)) {
-      positions.push({ start: Buffer.byteLength(text.slice(0, at)) });
+      bytes += Buffer.byteLength(text.slice(prev, at));
+      prev = at;
+      positions.push({ start: bytes });
     }
     const started = Date.now();
     const starts = matchStarts(text.slice(0, 200_000), positions.slice(0, 5_000));
