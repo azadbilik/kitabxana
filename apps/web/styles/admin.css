@@ -425,8 +425,8 @@
   border-color: var(--pomeg);
 }
 .adm-btn-pom:hover {
-  background:   var(--pomeg-dark);
-  border-color: var(--pomeg-dark);
+  background:   var(--pomeg-fill-hover);
+  border-color: var(--pomeg-fill-hover);
   color:        white;
 }
 
@@ -771,3 +771,23 @@
   font-size:     0.8rem;
 }
 .adm-bulkbar > span { margin-right: auto; font-weight: 600; }
+
+/* ── Admin badges ───────────────────────────────────────────── */
+.badge {
+  font-family:  var(--font-ui);
+  font-size:    0.7rem;
+  font-weight:  500;
+  padding:      0.15rem 0.45rem;
+  border-radius: 3px;
+  display:      inline-block;
+}
+.badge--pending  { background: #FEF3C7; color: #92400E; }
+.badge--approved { background: #D1FAE5; color: #065F46; }
+.badge--rejected { background: #FEE2E2; color: #991B1B; }
+.badge--info     { background: #DBEAFE; color: #1E40AF; }
+
+/* Dark mode badge adjustments */
+[data-theme='dark'] .badge--pending  { background: #451A03; color: #FCD34D; }
+[data-theme='dark'] .badge--approved { background: #022C22; color: #6EE7B7; }
+[data-theme='dark'] .badge--rejected { background: #450A0A; color: #FCA5A5; }
+[data-theme='dark'] .badge--info     { background: #1E3A5F; color: #93C5FD; }

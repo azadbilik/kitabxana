@@ -50,18 +50,23 @@ function licenceUrl(licence: string): string | null {
 /**
  * Wikimedia Commons renders thumbnails itself at standard widths and rate-limits servers that
  * fetch many at once, so its images skip our resizer and load straight from Commons at the
- * size needed. Other museums' images go through next/image.
+ * size needed. Other museums' images go through next/image. Tried in November 2026 for the
+ * uploads Commons cannot shrink (a 330px PNG scan is 300–370 KB): Commons answered the
+ * server's fetches with 429, so every thumbnail failed over to the direct image anyway.
  */
 const isCommons = (url: string) => /^https:\/\/(upload|thumb)\.wikimedia\.org\//.test(url);
 const commonsWidth = (url: string, width: number) => url.replace(/\/\d+px-/, `/${width}px-`);
 /**
- * A Commons file with no rendering in its address is the upload itself, and Commons only
- * re-renders a PNG as a PNG: a 330px scan weighs 300–370 KB. Those few go through our
- * resizer after all (a 20 KB WebP, fetched from Commons once and kept a month:
- * `minimumCacheTTL` in next.config), and fall back to the upload if the resizer fails.
+ * An upload's own address (no rendering in it) is the full file: a 330px PNG scan is 300–370 KB,
+ * a museum JPEG can be megabytes. Commons renders PNG and JPEG uploads at its standard widths
+ * under /thumb/, so the grid asks for the 250px one (about half the PNG's weight), straight from
+ * the reader's browser. An upload narrower than that has no such rendering: the request fails
+ * and the thumbnail falls back to the file itself.
  */
-const isCommonsRendering = (url: string) => /\/\d+px-/.test(url);
-
+const commonsThumb = (url: string, width: number): string | null => {
+  const m = url.match(/^(https:\/\/upload\.wikimedia\.org\/wikipedia\/commons)\/([0-9a-f]\/[0-9a-f]{2})\/([^/?#]+\.(?:png|jpe?g))(?:[?#].*)?$/i);
+  return m ? `${m[1]}/thumb/${m[2]}/${m[3]}/${width}px-${m[3]}` : null;
+};
 /** Strip the catalogue's quotes: "Laila and Majnun at School", Folio … → Laila and Majnun at School, Folio … */
 const plainTitle = (title: string) => title.replace(/^"([^"]+)",?/, '$1,').replace(/,$/, '');
 
@@ -70,8 +75,8 @@ export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showC
   const [expanded, setExpanded] = useState(false);
   const [all, setAll] = useState<Artwork[] | null>(null);
   const [loading, setLoading] = useState(false);
-  // Thumbnails our resizer could not produce: shown straight from their source instead
-  const [direct, setDirect] = useState<ReadonlySet<string>>(new Set());
+  // Uploads Commons has no 250px rendering of: shown as the file itself
+  const [whole, setWhole] = useState<ReadonlySet<string>>(new Set());
   const artworks = all ?? first;
   const count = Math.max(total ?? 0, artworks.length);
   const partial = !all && count > first.length && Boolean(moreFrom);
@@ -144,16 +149,17 @@ export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showC
                   {/* Resized by Next.js: museum originals run to a megabyte or more */}
                   {(() => {
                     const src = a.imageSmallUrl ?? a.imageUrl;
-                    return (isCommons(src) && isCommonsRendering(src)) || direct.has(a.id) ? (
-                      <Image src={commonsWidth(src, 500)} alt="" fill unoptimized />
-                    ) : (
+                    const thumb = whole.has(a.id) ? null : commonsThumb(src, 250);
+                    return isCommons(src) ? (
                       <Image
-                        src={src}
+                        src={thumb ?? commonsWidth(src, 500)}
                         alt=""
                         fill
-                        sizes="(min-width: 40rem) 12rem, 45vw"
-                        onError={() => setDirect((prev) => new Set(prev).add(a.id))}
+                        unoptimized
+                        onError={thumb ? () => setWhole((prev) => new Set(prev).add(a.id)) : undefined}
                       />
+                    ) : (
+                      <Image src={src} alt="" fill sizes="(min-width: 40rem) 12rem, 45vw" />
                     );
                   })()}
                 </span>

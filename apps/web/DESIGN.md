@@ -111,6 +111,16 @@ typography:
     fontSize: "2.5rem"
     fontWeight: 700
     lineHeight: 1.15
+  display-feature:
+    fontFamily: "Literata, Georgia, serif"
+    fontSize: "3rem"
+    fontWeight: 700
+    lineHeight: 1.1
+  title-feature:
+    fontFamily: "Literata, Georgia, serif"
+    fontSize: "1.75rem"
+    fontWeight: 700
+    lineHeight: 1.2
   arabic:
     fontFamily: "Noto Naskh Arabic, Amiri, Geeza Pro, serif"
     fontSize: "1.26rem"
@@ -123,6 +133,7 @@ typography:
     lineHeight: 1.95
 rounded:
   mark: "3px"
+  focus: "6px"
   cover: "8px"
   control: "12px"
   card: "16px"
@@ -202,21 +213,23 @@ The text comes first. A poem is set large in a serif at a comfortable measure, t
 ## Colors
 
 ### Accent
-- **Pomegranate** (#A81E28, 7.3:1 on white; white on it 7.3:1) is the only accent. It fills the catalogue button, the primary button ("Start reading", "Read on"), the active pill and tab, and the current section's underline. It colours links that are actions ("See all", the author on a book page), the wordmark's `.az`, and titles on hover. **Pomegranate Deep** (#7F141C) is its hover. In dark theme text lifts to #FF8A8F; fills stay #A81E28.
+- **Pomegranate** (#A81E28, 7.3:1 on white; white on it 7.3:1) is the only accent. It fills the catalogue button, the primary button ("Start reading", "Read on"), the active pill and tab, and the current section's underline. It colours links that are actions ("See all", the author on a book page), the wordmark's `.az`, and titles on hover. **Pomegranate Deep** (#7F141C, `--pomeg-fill-hover`) is the hover of every red fill in both themes; `--pomeg-dark` is a text colour (light pink in dark theme) and never goes under white text. In dark theme text lifts to #FF8A8F; fills stay #A81E28.
 - **Tint** (#FBF1F1; dark #2A1719) is the accent's soft surface: the poem-of-the-day card, the reader's current place, and a couplet a link points at.
 
 ### Neutral
 - **White** page, **Ink** text (#16181D), **Muted** (#5A5F6B, 6.4:1) for authors under titles, counts, labels and captions.
 - **Surface** (#F4F5F7) and **Surface Deep** (#E9EBEF): cards, pills, contents rows, the browse band; deep is their hover.
-- **Rule** (#E8E9EC): the header's bottom line and the rare divider. **Control** (#868B96, 3.4:1): borders of inactive controls such as unread markers.
+- **Rule** (#E8E9EC): the header's bottom line and the rare divider. **Control** (#868B96, 3.4:1; dark #6E737D, 3.9:1): the edge of every field (inputs, selects, the phone's language control) and of inactive controls such as unread markers. A field is never told from the page by a grey fill alone. Placeholders are Muted, never the browser's grey.
 - Dark theme: near-black page #121317, ink #ECEDEF, muted #A3A7B0, surfaces #1D1F25 / #272A31.
 - **Read** (#2F6B4F, `--read`; as a mark on the dark page #7CC9A4, `--read-ink`): the one state colour, for a part the reader has marked read. It is a state, not an accent: it never colours an action.
 
 ### Cloths (covers only)
-Six cover colours, picked from a hash of the book's id, so one author's books differ and a shelf or the books index never reads as a wall of one colour; on a shelf a book that would match its neighbour moves on one cloth (`clothSequence`): red #8E1B24, navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover.
+Six cover colours, picked from a hash of the book's id, so one author's books differ and a shelf or the books index never reads as a wall of one colour; on a shelf a book that would match its neighbour moves on one cloth (`clothSequence`): red #8E1B24, navy #1F3A5F, green #2F5D50, plum #4A2C4F (white text), sand #E9E2D5, ochre #D9A441 (ink text). They never appear outside a cover. Ink on sand and ochre is the page's Ink (#16181D). Every cover carries a 1px inset edge mixed from the page's ink (14%), because plum and navy on the dark page, and sand on the white one, are within 1.6:1 of it.
 
 ### Named rules
 **The One Red Rule.** Pomegranate is the only accent; it goes on the one primary action, the one active choice in a group, and action links. No second accent hue. Cloths are not accents.
+
+**The No Black Rule.** Black appears only as alpha: the masks that fade folded text and the nav strip, the shade of a cover's spine, and `--shadow-pop`. No surface or text is ever #000.
 
 **The Surface Rule.** Things are grouped by grey surfaces and space, never by lines or ornaments.
 
@@ -236,7 +249,7 @@ Every reading face carries Ə/ə (U+018F/U+0259). Inter, Literata and Naskh are 
 - **Body / Reading** (Literata): bios, descriptions, the text of a work.
 - **Label** (Inter 400, 0.875rem, muted, sentence case): authors under titles, counts, small headings over groups.
 - **Small steps** (Inter): caption 0.8rem (meta lines, legends), note 0.75rem (counts, years), fine 0.7rem (the smallest label; tabular figures). Nothing below 0.7rem except text on a cover, which scales with the cover.
-- **In-between steps**: subhead 1.125rem (card and group titles), lead 1.2rem (opening lines, Arabic-script card text), title-large 1.375rem (group heads, the original-script title), 2rem (titles on phones), 2.5rem (the work title). A size between two steps is drift: take the nearer step.
+- **In-between steps**: subhead 1.125rem (card and group titles), lead 1.2rem (opening lines, Arabic-script card text), title-large 1.375rem (group heads, the original-script title), 1.75rem (a title inside a feature card: continue reading, the contact address), 2rem (titles and the catalogue's figures; every large title on phones), 2.5rem (the work title and plain page titles), 3rem (the poet of the week's name). A size between two steps is drift: take the nearer step.
 
 **The Sentence Case Rule.** No tracked uppercase anywhere except the author line on a cover.
 

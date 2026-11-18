@@ -127,7 +127,6 @@
   color:          var(--ink);
   margin:         0 0 1rem;
 }
-:root .section-label::before { content: none; }
 
 /* ── Header: white, a bookshop search bar, sections on a second row ── */
 :root .site-header {
@@ -183,7 +182,7 @@
   font-size:     0.95rem;
   transition:    background 0.15s;
 }
-:root .catalog-btn:hover { background: var(--pomeg-dark); color: #fff; }
+:root .catalog-btn:hover { background: var(--pomeg-fill-hover); color: #fff; }
 
 :root .header-search {
   grid-area: search;
@@ -203,7 +202,10 @@
   font:          inherit;
   font-size:     1rem;
 }
-:root .header-search-input::placeholder { color: var(--muted); }
+/* The phone's language control is a field too: its edge in Control */
+:root .lang-select { border-color: var(--control); }
+/* Every placeholder in Muted (5.4:1 or better on each surface), not the browser's grey */
+:root :is(input, textarea)::placeholder { color: var(--muted); opacity: 1; }
 :root .header-search-input:focus { outline: none; border-color: var(--pomeg); }
 :root .header-search-input:focus + .header-search-btn { background: var(--pomeg-fill); }
 :root .header-search-btn {
@@ -498,7 +500,6 @@
   color:          var(--muted);
   border-bottom:  1px solid var(--rule);
 }
-:root .lang-label::before { content: none; }
 :root .parallel-cell + .parallel-cell { border-inline-start-width: 1px; }
 
 :root .tailpiece {
@@ -572,7 +573,6 @@
   border-radius: 20px;
   background:    var(--surf);
 }
-:root .featured-box::before { content: none; }
 :root .featured-box-inner {
   border:  none;
   padding: 2.5rem 2.75rem 2.25rem;
@@ -679,7 +679,6 @@
   border-bottom:  none;
   padding-bottom: 0;
 }
-:root .gallery-heading::before { content: none; }
 :root .gallery-count { font-weight: 400; }
 :root .gallery-thumb {
   border:        none;
@@ -692,8 +691,9 @@
 :root .gallery-meta { font-size: 0.8rem; }
 
 /* ── Search ─────────────────────────────────────────────────── */
+/* A field is told from the page by its edge: Control, 3:1 or better in both themes */
 :root .search-input {
-  border:        1px solid transparent;
+  border:        1px solid var(--control);
   border-radius: var(--radius);
   font-family:   var(--font-ui);
   font-size:     1rem;
@@ -723,7 +723,7 @@
 
 /* ── Forms and text pages ───────────────────────────────────── */
 :root .form-input {
-  border:        1px solid transparent;
+  border:        1px solid var(--control);
   border-radius: var(--radius);
   font-family:   var(--font-ui);
   padding:       0.65rem 0.9rem;
@@ -772,7 +772,6 @@
 :root .footer-links a { color: var(--ink); }
 :root .footer-links a:hover,
 :root .footer-links a:focus-visible { color: var(--pomeg); }
-:root .footer-links a + a::before { content: none; }
 
 /* ── Responsive ─────────────────────────────────────────────── */
 /* The nav always has its own grid row here: undo the gazette's narrow-screen strip */
@@ -803,7 +802,7 @@
   :root .work-heading { font-size: 2rem; }
   /* The grid gap already stands between them; their own margin tops it up to 3.5rem */
   :root .featured-box-inner { padding: 1.75rem 1.5rem; }
-  :root .featured-name { font-size: 2.25rem; }
+  :root .featured-name { font-size: 2rem; }
   :root .works-strip-col + .works-strip-col { margin-top: 0; padding-top: 1.25rem; }
   :root .parallel-row { border-bottom-width: 1px; }
 }
@@ -1220,7 +1219,7 @@
 :root .author-bio-toggle:focus-visible ~ .author-bio-more {
   outline:        2px solid var(--pomeg);
   outline-offset: 2px;
-  border-radius:  4px;
+  border-radius:  6px;
 }
 :root .author-bio-toggle:checked ~ .author-bio-more .author-bio-more-open,
 :root .author-bio-toggle:not(:checked) ~ .author-bio-more .author-bio-more-close { display: none; }

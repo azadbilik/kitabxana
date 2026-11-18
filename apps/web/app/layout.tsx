@@ -1,6 +1,6 @@
 import '@/styles/globals.css';
 import '@/styles/nar.css';
-import { Metadata } from "next";
+import { Metadata, Viewport } from "next";
 import { Inter, Literata, Noto_Naskh_Arabic } from 'next/font/google';
 import { ReactNode } from "react";
 import { getLocale } from 'next-intl/server';
@@ -28,6 +28,14 @@ const literataItalic = Literata({
   preload: false,
 });
 const naskh = Noto_Naskh_Arabic({ subsets: ['arabic'], variable: '--f-naskh', display: 'swap', preload: false });
+
+// The browser's own chrome (the phone's address bar) takes the page colour of the OS theme
+export const viewport: Viewport = {
+  themeColor: [
+    { media: '(prefers-color-scheme: light)', color: '#FFFFFF' },
+    { media: '(prefers-color-scheme: dark)', color: '#121317' },
+  ],
+};
 
 export const metadata: Metadata = {
   metadataBase: new URL(SITE_URL),

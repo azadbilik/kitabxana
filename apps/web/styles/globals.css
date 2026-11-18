@@ -6,17 +6,17 @@
 /* ── Tokens — Light theme ───────────────────────────────────── */
 :root {
   /* Palette */
-  --bg:         #F4EFE6;
-  --ink:        #1C1916;
-  --pomeg:      #8E1515;
-  --pomeg-dark: #6A1010;
-  --muted:      #6B5E52;
-  --rule:       #A89070;
-  --control:    #8A7458;     /* borders of interactive controls: ≥3:1 on bg */
-  --pomeg-fill: #8E1515;     /* filled active states, white text on top */
-  --surf:       #D9CCBA;
-  --hl:         #F0E4E4;
-  --warm-brown: #6B5E52;   /* alias — keep for compat */
+  --bg:         #FFFFFF;
+  --ink:        #16181D;
+  --pomeg:      #A81E28;
+  --pomeg-dark: #7F141C;
+  --muted:      #5A5F6B;
+  --rule:       #E8E9EC;
+  --control:    #868B96;     /* borders of interactive controls: ≥3:1 on bg */
+  --pomeg-fill: #A81E28;     /* filled active states, white text on top */
+  --surf:       #F4F5F7;
+  --hl:         #FBF1F1;
+  --warm-brown: #5A5F6B;   /* alias — keep for compat */
 
   /* Typography */
   --font-serif: 'Cormorant Garamond', 'Source Serif 4', Georgia, serif;
@@ -37,32 +37,32 @@
 
 /* ── Dark theme ─────────────────────────────────────────────── */
 [data-theme='dark'] {
-  --bg:         #1A1410;
-  --ink:        #E8E0D4;
-  --pomeg:      #D96B6B;
-  --pomeg-dark: #E08080;
-  --pomeg-fill: #A63A3A;
-  --muted:      #A39384;
-  --rule:       #4A3A2C;
-  --control:    #857059;
-  --surf:       #302619;
-  --hl:         #2A1515;
-  --warm-brown: #A39384;
+  --bg:         #121317;
+  --ink:        #ECEDEF;
+  --pomeg:      #FF8A8F;
+  --pomeg-dark: #FFB0B4;
+  --pomeg-fill: #A81E28;
+  --muted:      #A3A7B0;
+  --rule:       #2A2C33;
+  --control:    #6E737D;
+  --surf:       #1D1F25;
+  --hl:         #3A1A1E;
+  --warm-brown: #A3A7B0;
 }
 
 @media (prefers-color-scheme: dark) {
   :root:not([data-theme='light']) {
-    --bg:         #1A1410;
-    --ink:        #E8E0D4;
-    --pomeg:      #D96B6B;
-    --pomeg-dark: #E08080;
-    --pomeg-fill: #A63A3A;
-    --muted:      #A39384;
-    --rule:       #4A3A2C;
-    --control:    #857059;
-    --surf:       #302619;
-    --hl:         #2A1515;
-    --warm-brown: #A39384;
+    --bg:         #121317;
+    --ink:        #ECEDEF;
+    --pomeg:      #FF8A8F;
+    --pomeg-dark: #FFB0B4;
+    --pomeg-fill: #A81E28;
+    --muted:      #A3A7B0;
+    --rule:       #2A2C33;
+    --control:    #6E737D;
+    --surf:       #1D1F25;
+    --hl:         #3A1A1E;
+    --warm-brown: #A3A7B0;
   }
 }
 
@@ -105,7 +105,7 @@ input, textarea { caret-color: var(--pomeg); }
 :focus-visible {
   outline:        2px solid var(--pomeg);
   outline-offset: 2px;
-  border-radius:  2px;
+  border-radius:  6px;
 }
 main:focus { outline: none; }
 
@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6 {
   color:       var(--ink);
 }
 
-h1 { font-size: 3rem;   letter-spacing: -0.03em; }
+h1 { font-size: 2.5rem; letter-spacing: -0.03em; }
 h2 { font-size: 2rem;   letter-spacing: -0.02em; }
 h3 { font-size: 1.25rem;letter-spacing: -0.01em; }
 
@@ -200,7 +200,7 @@ blockquote {
 
 .logo {
   font-family:  var(--font-serif);
-  font-size:    1.95rem;
+  font-size:    1.6rem;
   font-weight:  700;
   color:        var(--pomeg);
   letter-spacing: -0.03em;
@@ -209,7 +209,7 @@ blockquote {
 .logo em {
   color:       var(--ink);
   font-style:  normal;
-  font-size:   1.3rem;
+  font-size:   1.6rem;
 }
 .logo-orn {
   font-size:  0.85rem;
@@ -291,7 +291,7 @@ blockquote {
 .theme-btn {
   width:        1.75rem;
   height:       1.75rem;
-  border-radius: 4px;
+  border-radius: 50%;
   border:       1px solid var(--control);
   background:   var(--surf);
   color:        var(--ink);
@@ -320,15 +320,11 @@ blockquote {
   align-items:    center;
   gap:            0.35rem;
 }
-.section-label::before {
-  content:   '◆';
-  font-size: 0.5rem;
-}
 
 /* ── Ornamental dividers ────────────────────────────────────── */
 .ornament {
   text-align:  center;
-  font-size:   0.65rem;
+  font-size:   0.7rem;
   color:       var(--pomeg);
   letter-spacing: 0.5rem;
   line-height: 1;
@@ -349,19 +345,6 @@ blockquote {
   padding:        3px;
   position:       relative;
   margin-bottom:  1.5rem;
-}
-.featured-box::before {
-  content:    '◆  ◆  ◆';
-  font-size:  0.5rem;
-  color:      var(--pomeg);
-  position:   absolute;
-  top:        -0.55rem;
-  left:       50%;
-  transform:  translateX(-50%);
-  background: var(--bg);
-  padding:    0 0.75rem;
-  letter-spacing: 0.4rem;
-  font-family: var(--font-ui);
 }
 .featured-box-inner {
   border:   1px solid var(--pomeg);
@@ -428,8 +411,8 @@ blockquote {
   border-color: var(--pomeg);
 }
 .btn-primary:hover {
-  background:   var(--pomeg-dark);
-  border-color: var(--pomeg-dark);
+  background:   var(--pomeg-fill-hover);
+  border-color: var(--pomeg-fill-hover);
   color:        white;
 }
 
@@ -679,7 +662,7 @@ blockquote {
   max-width:   12rem;
   margin:      3rem auto 1.75rem;
   font-family: var(--font-ui);
-  font-size:   0.65rem;
+  font-size:   0.7rem;
   line-height: 1;
   color:       var(--pomeg);
 }
@@ -1076,7 +1059,6 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   align-items:    center;
   gap:            0.35rem;
 }
-.lang-label::before { content: '◆'; font-size: 0.45rem; }
 
 
 /* ── Appearance popover ────────────────────────────────────── */
@@ -1114,7 +1096,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   border:        1px solid var(--rule);
   border-radius: var(--radius);
   padding:       0.75rem;
-  box-shadow:    0 4px 16px rgba(0,0,0,0.12);
+  box-shadow:    var(--shadow-pop);
   z-index:       50;
   min-width:     14rem;
   display:       flex;
@@ -1399,7 +1381,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   letter-spacing: 0.07em;
   text-transform: uppercase;
 }
-.search-btn:hover { background: var(--pomeg-dark); }
+.search-btn:hover { background: var(--pomeg-fill-hover); }
 /* The gazette's diamond, drawn here so the clean skin can drop it */
 .search-btn::before {
   content:      '◆';
@@ -1469,26 +1451,6 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   color:       var(--ink);
 }
 
-/* ── Admin badges ───────────────────────────────────────────── */
-.badge {
-  font-family:  var(--font-ui);
-  font-size:    0.7rem;
-  font-weight:  500;
-  padding:      0.15rem 0.45rem;
-  border-radius: 3px;
-  display:      inline-block;
-}
-.badge--pending  { background: #FEF3C7; color: #92400E; }
-.badge--approved { background: #D1FAE5; color: #065F46; }
-.badge--rejected { background: #FEE2E2; color: #991B1B; }
-.badge--info     { background: #DBEAFE; color: #1E40AF; }
-
-/* Dark mode badge adjustments */
-[data-theme='dark'] .badge--pending  { background: #451A03; color: #FCD34D; }
-[data-theme='dark'] .badge--approved { background: #022C22; color: #6EE7B7; }
-[data-theme='dark'] .badge--rejected { background: #450A0A; color: #FCA5A5; }
-[data-theme='dark'] .badge--info     { background: #1E3A5F; color: #93C5FD; }
-
 /* ── Footer: the imprint line ───────────────────────────────── */
 /* The paper's motto, then the links set like the nav; the masthead above is enough */
 .footer {
@@ -1526,15 +1488,6 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
 .footer-links a { color: var(--muted); transition: color 0.15s; }
 .footer-links a:hover,
 .footer-links a:focus-visible { color: var(--pomeg); }
-.footer-links a + a::before {
-  content:        '◆';
-  content:        '◆' / '';
-  display:        inline-block;
-  margin:         0 0.9rem;
-  font-size:      0.45rem;
-  vertical-align: 0.2em;
-  color:          var(--pomeg);
-}
 /* Narrow screens: the three stack and centre */
 @media (max-width: 900px) {
   .footer-inner { grid-template-columns: 1fr; justify-items: center; text-align: center; gap: 0.4rem; }
@@ -1582,7 +1535,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
 
 /* Featured author */
 .featured-name {
-  font-size:      3.5rem;
+  font-size:      3rem;
   font-weight:    700;
   letter-spacing: -0.03em;
   font-family:    var(--font-serif);
@@ -1653,7 +1606,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
 }
 .catalog-count {
   font-family:    var(--font-serif);
-  font-size:      2.6rem;
+  font-size:      2rem;
   font-weight:    600;
   line-height:    1.05;
   letter-spacing: -0.02em;
@@ -1671,7 +1624,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   .catalog-grid li:nth-child(4n + 1) { border-left: 0.5px solid var(--rule); }
   .catalog-grid li:nth-child(2n + 1) { border-left: none; }
   .catalog-grid li:nth-child(n + 3) { border-top: 0.5px solid var(--rule); }
-  .catalog-count { font-size: 2.1rem; }
+  .catalog-count { font-size: 2rem; }
 }
 
 .inline-icon { display: inline-block; vertical-align: -0.12em; }
@@ -1809,7 +1762,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
 @media (max-width: 768px) {
   h1 { font-size: 2rem; }
 
-  .work-heading { font-size: 2.1rem; }
+  .work-heading { font-size: 2rem; }
   .work-heading-original { font-size: 1.125rem; }
 
   .card-grid--3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
@@ -1853,8 +1806,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   .logo em { font-size: 0.9rem; }
 }
 @media (max-width: 480px) {
-  /* The poet of the week's name scales with the screen, so "Məhəmməd" fits its frame at 320px */
-  .featured-name { font-size: clamp(2rem, 12vw, 3.5rem); line-height: 1.1; }
+  .featured-name { line-height: 1.1; }
   .card-grid--3 { grid-template-columns: minmax(0, 1fr); }
   .work-list    { grid-template-columns: 1fr; }
 }
@@ -2072,7 +2024,6 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   align-items:    center;
   gap:            0.4rem;
 }
-.gallery-heading::before { content: '◆'; font-size: 0.45rem; }
 .gallery-count { color: var(--muted); }
 
 .gallery-grid {
@@ -2345,13 +2296,14 @@ a.gallery-coll:hover { text-decoration: underline; }
   gap:            0.5rem;
   /* % padding follows the cover's width (it fills its parent); cqi type follows the content box */
   padding:        9% 8% 9% 11%;
-  border-radius:  var(--radius-cover, 4px);
+  border-radius:  var(--radius-cover, 8px);
   background:     var(--cover-bg);
   color:          var(--cover-ink);
+  /* A hairline edge from the page's own ink: plum and navy on the dark page, sand on the
+     white one, are within 1.6:1 of it and would lose their outline */
+  box-shadow:     inset 0 0 0 1px color-mix(in srgb, var(--ink) 14%, transparent);
   overflow:       hidden;
   position:       relative;
-  /* a hairline round the edge, so pale cloths hold their shape on white */
-  box-shadow:     inset 0 0 0 1px rgba(0, 0, 0, 0.06);
 }
 /* The spine: a darker band down the left edge, a lighter crease beside it where the board hinges */
 .book-cover::before {
@@ -2369,7 +2321,7 @@ a.gallery-coll:hover { text-decoration: underline; }
   position:       absolute;
   inset:          3.5% 3.5% 3.5% 8%;
   border:         1px solid currentColor;
-  border-radius:  2px;
+  border-radius:  3px;
   opacity:        0.16;
   pointer-events: none;
 }
@@ -2389,8 +2341,8 @@ a.gallery-coll:hover { text-decoration: underline; }
 .cloth-navy  { --cover-bg: #1F3A5F; }
 .cloth-green { --cover-bg: #2F5D50; }
 .cloth-plum  { --cover-bg: #4A2C4F; }
-.cloth-sand  { --cover-bg: #E9E2D5; --cover-ink: #1B1B1B; }
-.cloth-ochre { --cover-bg: #D9A441; --cover-ink: #1B1B1B; }
+.cloth-sand  { --cover-bg: #E9E2D5; --cover-ink: #16181D; }
+.cloth-ochre { --cover-bg: #D9A441; --cover-ink: #16181D; }
 
 .book-cover-author,
 .book-cover-kind {
@@ -2604,7 +2556,7 @@ a.gallery-coll:hover { text-decoration: underline; }
 @media (max-width: 768px) {
   .book-head { grid-template-columns: 1fr; gap: 1.5rem; }
   .book-head-cover { width: min(12rem, 60%); }
-  .book-title { font-size: 2.1rem; }
+  .book-title { font-size: 2rem; }
 }
 @media (max-width: 480px) {
   .book-parts { grid-template-columns: minmax(0, 1fr); }
@@ -2667,7 +2619,7 @@ a.gallery-coll:hover { text-decoration: underline; }
   border-radius: var(--radius-lg, 8px);
   background:    var(--bg);
   border:        1px solid var(--rule);
-  box-shadow:    var(--shadow-pop, 0 4px 16px rgba(0, 0, 0, 0.12));
+  box-shadow:    var(--shadow-pop);
   display:       flex;
   flex-direction: column;
   font-family:   var(--font-ui);
@@ -2714,7 +2666,7 @@ a.gallery-coll:hover { text-decoration: underline; }
   border-radius: var(--radius-xl, 8px);
   background:    var(--bg);
   color:         var(--ink);
-  box-shadow:    var(--shadow-pop, 0 4px 16px rgba(0, 0, 0, 0.12));
+  box-shadow:    var(--shadow-pop);
 }
 .signin-dialog::backdrop { background: rgba(10, 12, 16, 0.45); }
 .signin-dialog-panel { position: relative; padding: 2rem 1.75rem 1.5rem; }
@@ -2992,7 +2944,7 @@ html[data-signed-in] .home-mine--pending { min-height: 15rem; margin-top: 2.75re
   border-radius: var(--radius-lg, 8px);
   background:    var(--bg);
   border:        1px solid var(--rule);
-  box-shadow:    var(--shadow-pop, 0 4px 16px rgba(0, 0, 0, 0.12));
+  box-shadow:    var(--shadow-pop);
   display:       flex;
   flex-direction: column;
   gap:           0.6rem;
@@ -3036,7 +2988,7 @@ html[data-signed-in] .home-mine--pending { min-height: 15rem; margin-top: 2.75re
 .list-card:hover .list-card-name { color: var(--pomeg); }
 .list-card-covers { display: flex; gap: 0.4rem; margin-bottom: 0.5rem; min-height: 6rem; }
 .list-card-cover { width: 4rem; }
-.list-card-blank { width: 4rem; aspect-ratio: 2 / 3; border-radius: var(--radius-cover, 4px); border: 2px dashed var(--control); box-sizing: border-box; }
+.list-card-blank { width: 4rem; aspect-ratio: 2 / 3; border-radius: var(--radius-cover, 8px); border: 2px dashed var(--control); box-sizing: border-box; }
 .list-card-name { font-weight: 700; font-size: 1.05rem; }
 .list-card-count { color: var(--muted); font-size: 0.85rem; }
 .list-back { display: inline-flex; align-items: center; min-height: 2.75rem; font-family: var(--font-ui); font-weight: 600; color: var(--pomeg); }
@@ -3065,7 +3017,7 @@ html[data-signed-in] .home-mine--pending { min-height: 15rem; margin-top: 2.75re
 .settings-actions { display: flex; align-items: center; gap: 1rem; margin-top: 0.5rem; }
 .settings-saved { color: var(--muted); font-size: 0.9rem; }
 .btn-danger { background: var(--pomeg-fill); color: #fff; margin-top: 0.5rem; }
-.btn-danger:hover { background: var(--pomeg-dark); color: #fff; }
+.btn-danger:hover { background: var(--pomeg-fill-hover); color: #fff; }
 .btn-danger:disabled { opacity: 0.45; cursor: default; }
 
 /* ── Authors list: card head, meta, alphabet strip ─────────────── */
