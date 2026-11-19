@@ -2931,8 +2931,9 @@ html[data-signed-in] .home-mine--pending { min-height: 15rem; margin-top: 2.75re
   .continue-card { padding: 1.1rem; gap: 1rem; align-items: flex-start; }
   .continue-cover { width: 5.5rem; }
   .continue-title { font-size: 1.375rem; }
-  .status-switch { width: 100%; }
-  .status-switch button { flex: 1; padding: 0 0.5rem; }
+  /* Wraps to a second row only when the three words cannot fit (320px at the largest text) */
+  .status-switch { width: 100%; flex-wrap: wrap; }
+  .status-switch button { flex: 1 1 auto; padding: 0 0.5rem; }
 }
 @media (max-width: 360px) {
   .status-switch button { padding: 0 0.25rem; font-size: 0.8rem; }
