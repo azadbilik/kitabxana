@@ -1,6 +1,6 @@
 ---
 slug: mirvarid-dilbazi-mehseti-ii-perde
-sourceId: anl-14-t266-1
+sourceId: anl-14-t262-1
 titleAz: Iı pərdə
 authorSlug: mirvarid-dilbazi
 collectionSlug: mirvarid-dilbazi-mehseti

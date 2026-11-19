@@ -1,6 +1,6 @@
 ---
 slug: mirvarid-dilbazi-kor-sair
-sourceId: anl-14-t263
+sourceId: anl-14-t259
 titleAz: Kor şair
 authorSlug: mirvarid-dilbazi
 collectionSlug: mirvarid-dilbazi-poemalar

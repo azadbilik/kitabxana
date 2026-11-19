@@ -83,7 +83,7 @@ Bircə kəlmə, bircə söz
 
 @@ 005
 
-Yadigar də, amandır.
+Yadigar de, amandır.
 Səhər günəş doğanda
 Aparar karvan məni,
 Kim bilir ki, bir də sən
@@ -5569,7 +5569,7 @@ biz onu “axirət evi”nə yola saldıq,
 hamımız nənəsiz qaldıq.
 Atam şəhərdən zəngli bir saat aldı,
 bizi vaxtında oyatsın.
-Gəlinlər, qızlar hərəsan yatdılar,
+Gəlinlər, qızlar həresan yatdılar,
 xəmir vaxtında gəlsin,
 təndir vaxtında çatsın.
 Nəvələr də yata bilmədilər doyunca.

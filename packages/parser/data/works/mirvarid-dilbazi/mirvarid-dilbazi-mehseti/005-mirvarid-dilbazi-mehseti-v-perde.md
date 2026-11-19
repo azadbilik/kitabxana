@@ -1,6 +1,6 @@
 ---
 slug: mirvarid-dilbazi-mehseti-v-perde
-sourceId: anl-14-t266-4
+sourceId: anl-14-t262-4
 titleAz: V pərdə
 authorSlug: mirvarid-dilbazi
 collectionSlug: mirvarid-dilbazi-mehseti

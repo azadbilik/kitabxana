@@ -1,6 +1,6 @@
 ---
 slug: mirvarid-dilbazi-avey-dagla-sohbet
-sourceId: anl-14-t262
+sourceId: anl-14-t258
 titleAz: Avey dağla söhbət
 authorSlug: mirvarid-dilbazi
 collectionSlug: mirvarid-dilbazi-poemalar

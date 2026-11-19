@@ -24,3 +24,13 @@ Yar-yoldaşlı,
 Kimi tənha, gözü yaşlı eyləmisən.
 Ey sehirlim, yüzillərlə
 Bir cavab ver, insanlara neyləmisən?
+
+**\* \* \***
+
+Sən – xəndəsən,
+Mən – kiryəyəm,
+Özüm də bilmirəm nəyəm.
+Oxunmamış bir nəğməyəm.
+Hünərin var oxu məni!
+Aparmamış son mənzilə
+Bir əbədi yuxu məni.

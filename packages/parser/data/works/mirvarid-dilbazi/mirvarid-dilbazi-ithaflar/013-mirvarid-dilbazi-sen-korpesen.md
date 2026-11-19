@@ -40,7 +40,7 @@ Gözlərimin işığı.
 Gözlərin qara gözlər,
 Baxırlar hara gözlər?
 Bir gün səni görməsəm
-Çəkillem dara, gözlər.
+Çəkilləm dara, gözlər.
 
 Xumar gözün açıldı,
 Evimə nur saçıldı,

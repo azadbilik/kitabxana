@@ -1,6 +1,6 @@
 ---
 slug: mirvarid-dilbazi-xocali-feryadi
-sourceId: anl-14-t265
+sourceId: anl-14-t261
 titleAz: Xocalı fəryadı
 authorSlug: mirvarid-dilbazi
 collectionSlug: mirvarid-dilbazi-pyesler

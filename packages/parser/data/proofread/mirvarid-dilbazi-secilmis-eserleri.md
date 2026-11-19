@@ -2218,7 +2218,7 @@ Müdriklər elidir Azərbaycanım!
 *Bu səsi xalqa qaytardı öz yetirməsi.*
 
 Dolaşıram şəhəri ürəyim ağrıyanda,
-Nəriman bir terəfdə, Əzizbəyov o yanda,
+Nəriman bir tərəfdə, Əzizbəyov o yanda,
 Baxıb gözüm dolusu qranit heykəllərə,
 Qəlbimdəki ağrını sovuram yellərə.
 
@@ -2348,12 +2348,12 @@ Vətən hər dar günündə
 Şücaətlə dayansın
 Mərdim düşmən önündə
 İgid oğul, ər oğul
-Vətenin şöhrətidir
+Vətənin şöhrətidir
 Tədbirli Rəhbər oğul
 Xalqın səadətidir.
 
 Gül üstə gül bitirir
-Övladın ferliləri.
+Övladın fərliləri.
 Vətən tarixi olur
 Elin hünərliləri.
 
@@ -4355,7 +4355,7 @@ Gözlərimin işığı.
 Gözlərin qara gözlər,
 Baxırlar hara gözlər?
 Bir gün səni görməsəm
-Çəkillem dara, gözlər.
+Çəkilləm dara, gözlər.
 
 Xumar gözün açıldı,
 Evimə nur saçıldı,
@@ -5680,7 +5680,7 @@ Kimi tənha, gözü yaşlı eyləmisən.
 Ey sehirlim, yüzillərlə
 Bir cavab ver, insanlara neyləmisən?
 
-# Sən – xəndəsən
+**\* \* \***
 
 Sən – xəndəsən,
 Mən – kiryəyəm,
@@ -6103,7 +6103,7 @@ Dağlar uca,
 Zirvələr qar örpəkli.
 Yollara baxacaq bir şair ürəkli.
 
-# Son təmənnam budur haqdan
+**\* \* \***
 
 Son təmənnam budur haqdan:
 Yaxından göstərmək
@@ -6456,7 +6456,7 @@ Hələ qələmim yazır,
 Mən ölmək istəmirəm
 Buna deyiləm hazır.
 
-# Dost mənə yaşa deyir
+**\* \* \***
 
 Dost mənə yaşa deyir,
 İllər qəbrimi qazır.
@@ -6464,7 +6464,7 @@ Qələm düşməz əlimdən,
 Günlərim, ötmə hədər,
 O son mənzilə qədər.
 
-# Qoca köklər üstündə
+**\* \* \***
 
 Qoca köklər üstündə
 Olur meyvəli budaq.

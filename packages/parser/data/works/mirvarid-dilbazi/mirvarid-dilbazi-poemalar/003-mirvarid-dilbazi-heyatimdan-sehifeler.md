@@ -1,6 +1,6 @@
 ---
 slug: mirvarid-dilbazi-heyatimdan-sehifeler
-sourceId: anl-14-t264
+sourceId: anl-14-t260
 titleAz: Həyatımdan səhifələr
 authorSlug: mirvarid-dilbazi
 collectionSlug: mirvarid-dilbazi-poemalar

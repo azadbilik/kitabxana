@@ -34,7 +34,7 @@ Sahilə axşam qonur,
 Ayrılığın yamandır,
 Bircə kəlmə, bircə söz
 
-Yadigar də, amandır.
+Yadigar de, amandır.
 Səhər günəş doğanda
 Aparar karvan məni,
 Kim bilir ki, bir də sən

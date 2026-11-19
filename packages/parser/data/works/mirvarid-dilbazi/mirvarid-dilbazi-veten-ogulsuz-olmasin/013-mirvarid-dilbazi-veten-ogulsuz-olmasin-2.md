@@ -17,12 +17,12 @@ Vətən hər dar günündə
 Şücaətlə dayansın
 Mərdim düşmən önündə
 İgid oğul, ər oğul
-Vətenin şöhrətidir
+Vətənin şöhrətidir
 Tədbirli Rəhbər oğul
 Xalqın səadətidir.
 
 Gül üstə gül bitirir
-Övladın ferliləri.
+Övladın fərliləri.
 Vətən tarixi olur
 Elin hünərliləri.
 

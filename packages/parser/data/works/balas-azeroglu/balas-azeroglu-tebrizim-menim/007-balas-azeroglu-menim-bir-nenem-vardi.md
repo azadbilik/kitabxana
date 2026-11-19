@@ -52,7 +52,7 @@ biz onu “axirət evi”nə yola saldıq,
 hamımız nənəsiz qaldıq.
 Atam şəhərdən zəngli bir saat aldı,
 bizi vaxtında oyatsın.
-Gəlinlər, qızlar hərəsan yatdılar,
+Gəlinlər, qızlar həresan yatdılar,
 xəmir vaxtında gəlsin,
 təndir vaxtında çatsın.
 Nəvələr də yata bilmədilər doyunca.

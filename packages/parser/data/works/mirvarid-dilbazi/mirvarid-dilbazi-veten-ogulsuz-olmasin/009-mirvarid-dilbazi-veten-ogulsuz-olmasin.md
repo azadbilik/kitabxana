@@ -18,7 +18,7 @@ status: DRAFT
 *Bu səsi xalqa qaytardı öz yetirməsi.*
 
 Dolaşıram şəhəri ürəyim ağrıyanda,
-Nəriman bir terəfdə, Əzizbəyov o yanda,
+Nəriman bir tərəfdə, Əzizbəyov o yanda,
 Baxıb gözüm dolusu qranit heykəllərə,
 Qəlbimdəki ağrını sovuram yellərə.
 
