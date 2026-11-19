@@ -282,9 +282,17 @@ export class SearchService implements OnModuleInit {
         select: { slug: true, nameEn: true },
       });
       const nameEn = new Map(english.map((a) => [a.slug, a.nameEn]));
+      // Word counts (for the reading time) come from the database, not the index: they stay
+      // right without a reindex, and it is one indexed lookup for a page of hits
+      const idOf = (hit: object) => (hit as { id?: string }).id ?? '';
+      const counted = await this.prisma.work.findMany({
+        where: { id: { in: hits.map(idOf).filter(Boolean) } },
+        select: { id: true, wordCount: true },
+      });
+      const wordCount = new Map(counted.map((w) => [w.id, w.wordCount]));
       return {
         ...rest,
-        hits: hits.map((h) => ({ ...h, authorNameEn: nameEn.get(slugOf(h)) ?? null })),
+        hits: hits.map((h) => ({ ...h, authorNameEn: nameEn.get(slugOf(h)) ?? null, wordCount: wordCount.get(idOf(h)) ?? null })),
         ...(dto.facets && { facets: await this.facetCounts(dto, active, facetDistribution ?? {}, result.estimatedTotalHits ?? 0) }),
       };
     } catch (err) {

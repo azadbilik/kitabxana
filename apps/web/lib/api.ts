@@ -210,6 +210,8 @@ export interface SearchHit {
   form: string | null;
   year: number | null;
   lang: string;
+  /** From the database, for the reading time (null when the work is gone since indexing) */
+  wordCount?: number | null;
   /** HTML with <mark> around the matched words */
   _formatted?: { titleAz?: string; authorNameAz?: string; body?: string | null };
 }

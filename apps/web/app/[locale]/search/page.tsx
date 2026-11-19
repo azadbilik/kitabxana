@@ -8,6 +8,7 @@ import { api, type SearchFacets, type SearchGroups, type SearchHit, type SearchR
 import { localized } from '@/lib/locale';
 import { displayTitle, isArabicScript, isPlaceholderTitle, langTag } from '@/lib/verse';
 import { localePath } from '@/lib/i18n';
+import { formatReadingTime, readingMinutes } from '@/lib/reading-time';
 
 const GENRES = ['POEM', 'PROSE', 'PLAY', 'ESSAY', 'PHILOSOPHY', 'LETTER', 'MEMOIR'];
 const LANGS = ['AZ_LATIN', 'AZ_ARABIC', 'AZ_CYRILLIC', 'FA', 'AR', 'TR', 'RU', 'EN'];
@@ -348,6 +349,7 @@ function Search() {
                     hit={hit}
                     locale={locale}
                     kind={hit.genre && GENRES.includes(hit.genre) ? genres(hit.genre as any) : null}
+                    time={formatReadingTime((key, values) => t(`reading.${key}` as any, values), readingMinutes(hit.wordCount, hit.genre))}
                     title={displayTitle(hit.titleAz, {
                       formLabel: hit.form && hit.form !== 'OTHER' ? forms(hit.form as any) : null,
                       sectionLabel: t('reading.section'),
@@ -377,6 +379,8 @@ interface HitProps {
   hit: SearchHit;
   locale: string;
   kind: string | null;
+  /** Reading time («4 dəq») */
+  time: string | null;
   /** The Azerbaijani title, with a Persian placeholder ("شمارهٔ ۷") turned into "Qəzəl № 7" */
   title: { text: string; original: string | null };
 }
@@ -385,7 +389,7 @@ interface HitProps {
  * One found work. Title and author are shown in the page's language where the work has
  * them; the match is marked in the Azerbaijani ones, which is what the index highlights.
  */
-function Hit({ hit, locale, kind, title }: HitProps) {
+function Hit({ hit, locale, kind, time, title }: HitProps) {
   const ownTitle = locale === 'ru' ? hit.titleRu : locale === 'en' ? hit.titleEn : null;
   const ownAuthor = locale === 'ru' ? hit.authorNameRu : locale === 'en' ? hit.authorNameEn : null;
   const marked = !ownTitle && !title.original ? hit._formatted?.titleAz : null;
@@ -400,11 +404,7 @@ function Hit({ hit, locale, kind, title }: HitProps) {
         ) : (
           <span className="search-hit-title" {...(arabic && { lang: 'fa', dir: 'rtl' })}>{plainTitle}</span>
         )}
-        <span className="search-hit-kind">
-          {kind}
-          {kind && hit.year ? ' · ' : ''}
-          {hit.year}
-        </span>
+        <span className="search-hit-kind">{[kind, hit.year, time].filter(Boolean).join(' · ')}</span>
       </span>
       {ownAuthor || !hit._formatted?.authorNameAz ? (
         <span className="search-hit-author">{ownAuthor ?? hit.authorNameAz}</span>
