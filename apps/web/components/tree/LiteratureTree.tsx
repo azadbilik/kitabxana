@@ -44,17 +44,12 @@ function Ring({ part }: { part: number }) {
 }
 
 /**
- * Where "suggest a source" on a missing leaf leads: the contribute form, prefilled. An author on the
- * site gets a work under their name; «Title» alone is a work, «Author, «Title»» or a bare name an author.
+ * Where "suggest a source" on a missing leaf leads: the contribute form, blank, on the fitting tab.
+ * An author the site has, or a «Title» on its own, wants a work; any other missing name an author.
  */
 function offerHref(locale: string, l: Leaf) {
-  let q: Record<string, string>;
-  if (l.kind === 'author') q = { type: 'work', author: l.slug };
-  else {
-    const m = l.name.match(/^(.*?),?\s*«(.+)»$/);
-    q = m && !m[1] ? { type: 'work', title: m[2] } : { type: 'author', name: m?.[1] || l.name };
-  }
-  return `${localePath(locale, '/contribute')}?${new URLSearchParams(q)}`;
+  const work = l.kind === 'author' || /^«.+»$/.test(l.name);
+  return `${localePath(locale, '/contribute')}?type=${work ? 'work' : 'author'}`;
 }
 
 /** Shown on hover or keyboard focus of a missing leaf (always, small, on touch screens) */
