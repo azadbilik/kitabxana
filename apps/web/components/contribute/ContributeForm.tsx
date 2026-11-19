@@ -140,10 +140,14 @@ function WorkPicker({ authors, value, onChange }: {
   );
 }
 
-export function ContributeForm({ authors, initialKind = 'WORK', initialWork = null }: {
+export function ContributeForm({ authors, initialKind = 'WORK', initialWork = null, initialAuthorId, initialName, initialTitle }: {
   authors: AuthorOption[];
   initialKind?: Kind;
   initialWork?: WorkOption | null;
+  /** Prefilled from the literature tree's "suggest a source" links */
+  initialAuthorId?: string;
+  initialName?: string;
+  initialTitle?: string;
 }) {
   const t = useTranslations('contribute');
   const [kind, setKind] = useState<Kind>(initialKind);
@@ -256,7 +260,7 @@ export function ContributeForm({ authors, initialKind = 'WORK', initialWork = nu
         {kind === 'WORK' && (
           <>
             <Field label={t('author')}>
-              <select className="form-input" name="authorId" required defaultValue="">
+              <select className="form-input" name="authorId" required defaultValue={initialAuthorId ?? ''}>
                 <option value="" disabled>{t('author_choose')}</option>
                 {authors.map((a) => <option key={a.id} value={a.id}>{a.name}</option>)}
               </select>
@@ -269,7 +273,7 @@ export function ContributeForm({ authors, initialKind = 'WORK', initialWork = nu
             </p>
             <div className="form-row">
               <Field label={t('title_az')}>
-                <input className="form-input" name="titleAz" required maxLength={200} />
+                <input className="form-input" name="titleAz" required maxLength={200} defaultValue={initialTitle} />
               </Field>
               <Field label={t('title_ru')} optional>
                 <input className="form-input" name="titleRu" maxLength={200} />
@@ -334,7 +338,7 @@ export function ContributeForm({ authors, initialKind = 'WORK', initialWork = nu
           <>
             <div className="form-row">
               <Field label={t('name_az')}>
-                <input className="form-input" name="nameAz" required minLength={2} maxLength={200} />
+                <input className="form-input" name="nameAz" required minLength={2} maxLength={200} defaultValue={initialName} />
               </Field>
               <Field label={t('name_ru')} optional>
                 <input className="form-input" name="nameRu" maxLength={200} />

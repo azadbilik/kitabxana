@@ -259,3 +259,55 @@ a.leaf-link:focus-visible { outline: 2px solid var(--t-accent); outline-offset: 
 /* An author with a page but no texts yet: a link, drawn like a missing leaf */
 .leaf--empty .leaf-link { background: none; border: 1px dashed color-mix(in srgb, var(--t-muted) 45%, transparent); color: var(--t-muted); padding-block: calc(0.38rem - 1px); }
 .leaf--empty .leaf-count { font-style: italic; }
+
+/* "Suggest a source" on a missing leaf, an author without texts, or one with gaps. With a mouse
+   it floats under the leaf on hover or keyboard focus; on touch screens it sits in the leaf as a
+   small «+». Kept focusable while hidden (opacity, not visibility), so Tab reveals it. */
+.leaf--missing, .leaf--gap, .leaf--empty { position: relative; }
+.leaf-offer {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.3rem 0.7rem 0.3rem 0.5rem;
+  border-radius: 999px;
+  background: var(--pomeg-fill, #A81E28);
+  color: #fff;
+  font-size: 0.78rem;
+  font-weight: 600;
+  line-height: 1.2;
+  white-space: nowrap;
+  text-decoration: none;
+}
+.leaf-offer svg { width: 0.85rem; height: 0.85rem; flex: none; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; }
+.leaf-offer:hover { background: var(--pomeg-fill-hover, #7F141C); }
+.leaf-offer:focus-visible { outline: 2px solid var(--t-accent); outline-offset: 2px; }
+
+@media (hover: hover) {
+  .leaf-offer {
+    position: absolute;
+    z-index: 3;
+    top: 100%;
+    left: 0.25rem;
+    margin-top: 0.25rem;
+    box-shadow: 0 4px 14px rgb(0 0 0 / 0.16);
+    opacity: 0;
+    pointer-events: none;
+    transform: translateY(-0.2rem);
+    transition: opacity 0.12s ease, transform 0.12s ease;
+  }
+  /* Bridges the gap under the leaf, so the pointer can travel down to the button */
+  .leaf-offer::before { content: ''; position: absolute; inset: -0.35rem 0 100% 0; }
+  .leaf:hover > .leaf-offer, .leaf:focus-within > .leaf-offer { opacity: 1; pointer-events: auto; transform: none; }
+  .leaf--missing:hover, .leaf--empty:hover .leaf-link { border-color: var(--t-accent); }
+}
+
+@media (hover: none) {
+  .leaf--missing:not(:has(.leaf-gap)) { align-items: center; }
+  /* Hundreds of them on a phone: an outline, not a filled button */
+  .leaf-offer { align-self: flex-start; padding: 0.25rem; min-width: 1.5rem; min-height: 1.5rem; justify-content: center; background: none; color: var(--t-accent); border: 1px solid color-mix(in srgb, var(--t-accent) 45%, transparent); }
+  .leaf-offer:hover { background: var(--t-tint); }
+  .leaf--missing:not(:has(.leaf-gap)) .leaf-offer { align-self: center; margin-left: 0.15rem; }
+  .leaf-offer span { display: none; }
+}
+
+@media (prefers-reduced-motion: reduce) { .leaf-offer { transition: none; } }

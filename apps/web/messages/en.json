@@ -633,6 +633,7 @@
     "suggest_title": "Someone missing?",
     "suggest_text": "If you know an author or work that is not on the tree, or where to find an edition or scan of it, tell us and we will add it.",
     "suggest_btn": "Suggest a source",
+    "offer_for": "Suggest a source for {name}",
     "footnote": "Authors on the site are placed automatically; the list of missing ones is an editorial selection, not a full bibliography. Dates for the early eras are approximate.",
     "no_texts": "no texts yet"
   },

@@ -43,6 +43,31 @@ function Ring({ part }: { part: number }) {
   );
 }
 
+/**
+ * Where "suggest a source" on a missing leaf leads: the contribute form, prefilled. An author on the
+ * site gets a work under their name; «Title» alone is a work, «Author, «Title»» or a bare name an author.
+ */
+function offerHref(locale: string, l: Leaf) {
+  let q: Record<string, string>;
+  if (l.kind === 'author') q = { type: 'work', author: l.slug };
+  else {
+    const m = l.name.match(/^(.*?),?\s*«(.+)»$/);
+    q = m && !m[1] ? { type: 'work', title: m[2] } : { type: 'author', name: m?.[1] || l.name };
+  }
+  return `${localePath(locale, '/contribute')}?${new URLSearchParams(q)}`;
+}
+
+/** Shown on hover or keyboard focus of a missing leaf (always, small, on touch screens) */
+function Offer({ href, name }: { href: string; name: string }) {
+  const t = useTranslations('tree');
+  return (
+    <Link prefetch={false} href={href} className="leaf-offer" aria-label={t('offer_for', { name })}>
+      <svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 3.5v9M3.5 8h9" /></svg>
+      <span>{t('suggest_btn')}</span>
+    </Link>
+  );
+}
+
 export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
   const t = useTranslations('tree');
   const ta = useTranslations('authors');
@@ -211,9 +236,10 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
                               </span>
                             </Link>
                             {l.gap && <p className="leaf-gap"><span>{t('gap_label')}</span> {l.gap}</p>}
+                            {(l.gap || !l.works) && <Offer href={offerHref(locale, l)} name={l.name} />}
                           </li>
                         ) : (
-                          <li key={l.name} className="leaf leaf--missing" title={t('legend_missing')}>
+                          <li key={l.name} className="leaf leaf--missing">
                             <span className="leaf-link">
                               <span className="leaf-ghost" aria-hidden="true" />
                               <span className="leaf-name">{l.name}</span>
@@ -221,6 +247,7 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
                             </span>
                             {l.note && <p className="leaf-gap">{l.note}</p>}
                             <span className="sr-only">{t('legend_missing')}</span>
+                            <Offer href={offerHref(locale, l)} name={l.name} />
                           </li>
                         ))}
                       </ul>

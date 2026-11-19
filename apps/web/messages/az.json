@@ -633,6 +633,7 @@
     "suggest_title": "Burada kimsə çatışmır?",
     "suggest_text": "Ağacda olmayan müəllif və ya əsər, onun nəşri və ya skan nüsxəsi barədə bilirsinizsə, yazın: əlavə edək.",
     "suggest_btn": "Mənbə təklif et",
+    "offer_for": "{name}: mənbə təklif et",
     "footnote": "Saytda olan müəlliflər avtomatik yerləşdirilir; olmayanların siyahısı redaksiya seçimidir, tam biblioqrafiya deyil. İlk dövrlərin tarixləri təxminidir.",
     "no_texts": "mətnlər hələ yoxdur"
   },
