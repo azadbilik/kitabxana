@@ -1,6 +1,8 @@
 // Accessibility check: opens the site's kinds of page in a real browser and runs axe-core
 // (WCAG 2.0–2.2, levels A and AA) on each, in both themes, at desktop and phone widths.
-// Any violation fails the run.
+// Any violation fails the run. On phones it also checks that no page is wider than the screen
+// (WCAG 1.4.10, reflow): at 375px, and at 320px with the site's largest text setting. A page
+// wider than the screen makes mobile browsers zoom the whole page out.
 //
 //   pnpm --dir apps/web a11y                      # against http://localhost:3000
 //   BASE_URL=https://kitabxana.az pnpm --dir apps/web a11y
@@ -28,6 +30,47 @@ const FOLLOW = [
   ['/works/forma-qezel', 'main a[href^="/works/"]:not([href*="/works/forma-"]):not([href*="/works/janr-"])'],
   ['/works/janr-nesr', 'main a[href^="/works/"]:not([href*="/works/forma-"]):not([href*="/works/janr-"])'],
 ];
+
+/** Narrow screens to check for sideways overflow only: [name, viewport, localStorage] */
+const REFLOW = [
+  ['320px, largest text', { width: 320, height: 640 }, { a11y: JSON.stringify({ text: 2 }) }],
+];
+
+/**
+ * Is the page wider than the screen? If so, which elements stick out: those not clipped by a
+ * scrolling ancestor, or positioned from an ancestor outside it (a .sr-only in a shelf row).
+ */
+async function overflow(page) {
+  return page.evaluate(() => {
+    const vw = document.documentElement.clientWidth;
+    const sw = document.documentElement.scrollWidth;
+    if (sw <= vw + 1) return null;
+    const out = [];
+    for (const e of document.querySelectorAll('body *')) {
+      const r = e.getBoundingClientRect();
+      // Text spilling out of its own box (nowrap in a squeezed flex item) reaches further than the box
+      const spill = getComputedStyle(e).overflowX === 'visible' ? Math.max(0, e.scrollWidth - e.clientWidth) : 0;
+      if (r.right + spill <= vw + 1 || !r.width) continue;
+      let clip = null;
+      for (let p = e.parentElement; p && p !== document.body; p = p.parentElement) {
+        if (getComputedStyle(p).overflowX !== 'visible') { clip = p; break; }
+      }
+      const pos = getComputedStyle(e).position;
+      const escapes = clip && (pos === 'absolute' || pos === 'fixed') && !(e.offsetParent && clip.contains(e.offsetParent));
+      if (clip && !escapes) continue;
+      const cls = typeof e.className === 'string' && e.className.trim() ? '.' + e.className.trim().split(/\s+/).join('.') : '';
+      out.push(`${e.tagName.toLowerCase()}${cls} (right edge ${Math.round(r.right + spill)}px${escapes ? ', escapes its scrolling row' : ''})`);
+    }
+    return { vw, sw, culprits: out };
+  });
+}
+
+function reportOverflow(label, o) {
+  console.log(`\n✗ ${label}`);
+  console.log(`  page is ${o.sw}px wide on a ${o.vw}px screen`);
+  for (const c of o.culprits.slice(0, 5)) console.log(`    ${c}`);
+  if (o.culprits.length > 5) console.log(`    … and ${o.culprits.length - 5} more`);
+}
 
 const only = process.argv.slice(2);
 const browser = await chromium.launch();
@@ -80,6 +123,11 @@ for (const path of paths) {
       const variants = vpName === 'desktop' ? [{}, { 'a11y': JSON.stringify({ contrast: 'more' }) }] : [{}];
       for (const extra of variants) {
         const { context, page } = await open(path, viewport, theme, extra);
+        if (vpName === 'phone' && theme === 'light') {
+          const o = await overflow(page);
+          checked++;
+          if (o) { failures++; reportOverflow(`${path} · phone · wider than the screen`, o); }
+        }
         for (const state of STATES) {
           if (state.when && !(await state.when(page))) continue;
           await state.run(page);
@@ -102,6 +150,16 @@ for (const path of paths) {
         await context.close();
       }
     }
+  }
+}
+
+for (const path of paths) {
+  for (const [name, viewport, extra] of REFLOW) {
+    const { context, page } = await open(path, viewport, 'light', extra);
+    const o = await overflow(page);
+    checked++;
+    if (o) { failures++; reportOverflow(`${path} · ${name} · wider than the screen`, o); }
+    await context.close();
   }
 }
 

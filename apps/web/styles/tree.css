@@ -358,6 +358,8 @@ a.leaf-link:focus-visible { outline: 2px solid var(--t-accent); outline-offset: 
     background: none;
   }
   .tree-page .leaf-name { flex: 0 1 auto; min-width: 0; }
+  /* Years and count keep their width (squeezed, their unbreakable text spilled past the row); the name wraps */
+  .tree-page .leaf-years, .tree-page .leaf-count { flex: none; }
   .tree-page .leaf-years { margin-left: auto; padding-left: 0.5rem; }
   .tree-page .leaf-count { min-width: 2.2rem; text-align: right; }
   .tree-page .leaf--missing .leaf-years { padding-right: 0; }
@@ -369,4 +371,9 @@ a.leaf-link:focus-visible { outline: 2px solid var(--t-accent); outline-offset: 
   .tree-era-when, .tree-era-body { padding-left: 1.15rem; }
   .tree-branch::before { left: -1.15rem; width: 0.7rem; }
   .tree-suggest, .tree-foot { margin-left: 0; }
+}
+/* A narrow window with a mouse: the popover hangs from the row's right edge (placed in the grid's
+   second column it would start at that edge and push the page wider) */
+@media (max-width: 720px) and (hover: hover) {
+  .tree-page .tree-leaves .leaf .leaf-offer { grid-column: auto; grid-row: auto; left: auto; right: 0; }
 }
