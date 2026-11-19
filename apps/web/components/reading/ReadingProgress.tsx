@@ -5,7 +5,7 @@ import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useAccount } from '@/components/account/AccountProvider';
 import { sendProgress, useLoadMarks, useMarks } from '@/lib/library';
-import { formatReadingTime } from '@/lib/reading-time';
+import { TimeLeftPill } from './TimeLeft';
 
 interface Props {
   slug: string;
@@ -217,10 +217,6 @@ export function ReadingProgress({ slug, workId, targetId, dir, pagination, minut
     target.focus({ preventScroll: true });
   }
 
-  // Shown once the reader is into the text (the total is under the title) and gone at its end.
-  // Hidden from screen readers like the bar: a figure changing as one scrolls is noise there
-  const left = long && progress > EDGE && progress < 1 - EDGE ? formatReadingTime(t as never, minutes * (1 - progress)) : null;
-
   return (
     <>
       {long && (
@@ -228,11 +224,7 @@ export function ReadingProgress({ slug, workId, targetId, dir, pagination, minut
           <div className="reading-progress-bar" style={{ '--progress': progress } as CSSProperties} />
         </div>
       )}
-      {left && (
-        <p className="reading-left" aria-hidden="true">
-          {t('time_left', { time: left })}
-        </p>
-      )}
+      {long && <TimeLeftPill progress={progress} minutes={minutes} />}
       {resumeAt !== null && (
         <div className="resume">
           <button type="button" className="resume-btn" onClick={resume}>

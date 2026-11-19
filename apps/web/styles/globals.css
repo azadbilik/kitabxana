@@ -776,7 +776,7 @@ blockquote {
 }
 .reading-progress[dir='rtl'] .reading-progress-bar { transform-origin: right; }
 
-/* Time left in a long text, in the corner while reading; under the bar's rules (long prose only) */
+/* Time left in a long text, in the corner while reading (components/reading/TimeLeft.tsx) */
 .reading-left {
   position:       fixed;
   inset-block-end: 1rem;

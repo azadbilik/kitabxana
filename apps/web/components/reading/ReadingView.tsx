@@ -8,6 +8,7 @@ import { useReadingPrefs, type ReadingFont } from '@/lib/useReadingPrefs';
 import { isArabicScript, langTag, lineCount, sourceInfo, verseBlocks, type SourceInfo } from '@/lib/verse';
 import { AppearancePopover } from './AppearancePopover';
 import { ReadingProgress } from './ReadingProgress';
+import { PoemTimeLeft } from './TimeLeft';
 import { Pager } from './Pager';
 import { WordGloss } from './WordGloss';
 
@@ -262,7 +263,11 @@ export function ReadingView({
         <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} hasGlossary={hasGlossary} />
       </div>
 
-      {!isPoem && <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} minutes={minutes} />}
+      {isPoem ? (
+        <PoemTimeLeft targetId={textId} minutes={minutes} />
+      ) : (
+        <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} minutes={minutes} />
+      )}
 
       {!isPoem && sections.length >= MIN_SECTIONS && (
         <details className="reading-contents">
