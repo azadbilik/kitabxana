@@ -26,7 +26,7 @@ export interface Era {
 
 export const ERAS: Era[] = [
   { key: 'early', when: '— 1000', until: 1000,
-    title: { az: 'Kökler: şifahi dastan və ilk yazılar', ru: 'Корни: устный эпос и первые письмена', en: 'Roots: oral epic and the first writing' },
+    title: { az: 'Köklər: şifahi dastan və ilk yazılar', ru: 'Корни: устный эпос и первые письмена', en: 'Roots: oral epic and the first writing' },
     gist: { az: 'Oğuz dastanı, Alban salnaməsi, xilafət dövrünün ərəbdilli şairləri.', ru: 'Огузский эпос, албанская хроника, арабоязычные поэты эпохи халифата.', en: 'Oghuz epic, the Caucasian Albanian chronicle, Arabic-language poets of the caliphate.' } },
   { key: 'golden', when: '1000 — 1250', until: 1250,
     title: { az: 'Qızıl dövr: Gəncə, Şirvan, Təbriz', ru: 'Золотой век: Гянджа, Ширван, Тебриз', en: 'The golden age: Ganja, Shirvan, Tabriz' },
