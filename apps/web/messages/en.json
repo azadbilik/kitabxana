@@ -206,6 +206,13 @@
     "authors_label": "By author",
     "more_authors": "{count, plural, one {# more author} other {# more authors}}"
   },
+  "skin": {
+    "gazette": "Gazette look",
+    "to_gazette": "Switch to the gazette look",
+    "to_nar": "Back to the main look",
+    "dateline": "Treasury of Azerbaijani literature",
+    "city": "Baku"
+  },
   "theme": {
     "light": "Light",
     "dark": "Dark",

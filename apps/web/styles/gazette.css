@@ -1,0 +1,267 @@
+/* ─────────────────────────────────────────────────────────────
+   The Gazette — a look the reader may switch to (header button,
+   components/ui/SkinToggle.tsx). Nar stays the site's design; this
+   file re-skins it as the literary gazette the site first wore:
+   ivory paper, ink, a deep pomegranate, a Garamond masthead over a
+   double rule and a dateline, ◆ ornaments, square corners.
+
+   Every rule starts with :root[data-skin='gazette'], so it outranks
+   Nar's `:root .x` for the same element. Loaded after nar.css and
+   before a11y.css, so the reader's stronger contrast still wins.
+   Layout is Nar's: only tokens, type, edges and ornaments change.
+   Fonts (Cormorant Garamond, Source Serif 4, Alegreya Sans, Amiri)
+   are declared in app/layout.tsx and never preloaded.
+   ───────────────────────────────────────────────────────────── */
+
+/* ── Tokens — light: newsprint ──────────────────────────────── */
+:root[data-skin='gazette'] {
+  --bg:          #F4EFE6;
+  --ink:         #1C1916;
+  --muted:       #5E5247;   /* 6.6:1 on the paper, 5.3:1 on --surf */
+  --rule:        #C9B89C;
+  --control:     #8A7458;   /* 3.6:1 on the paper */
+  --surf:        #E9E0D0;
+  --surf-2:      #DDD1BC;
+  --hl:          #F0E1DC;
+  --tint:        #F0E1DC;
+  --pomeg:       #8E1515;   /* 8.5:1 on the paper */
+  --pomeg-dark:  #6A1010;
+  --pomeg-fill:  #8E1515;
+  --pomeg-fill-hover: #6A1010;
+  --read:        #2F5E44;
+  --read-ink:    #2F5E44;
+  --warm-brown:  #5E5247;
+
+  --font-serif:  var(--f-cormorant), 'Cormorant Garamond', Georgia, serif;
+  --font-body:   var(--f-source-serif), 'Source Serif 4', Georgia, serif;
+  --font-ui:     var(--f-alegreya-sans), 'Alegreya Sans', system-ui, sans-serif;
+  --font-arabic: var(--f-amiri), var(--f-naskh), 'Geeza Pro', serif;
+
+  --radius:       3px;
+  --radius-lg:    4px;
+  --radius-xl:    4px;
+  --radius-cover: 2px;
+  --shadow-pop:   0 6px 20px -6px rgba(28, 25, 22, 0.25);
+
+  color-scheme: light;
+}
+
+/* ── Tokens — dark: the same paper by lamplight ─────────────── */
+:root[data-skin='gazette'][data-theme='dark'] {
+  --bg:          #1A1410;
+  --ink:         #E8E0D4;
+  --muted:       #B3A493;   /* 7.4:1 on bg */
+  --rule:        #4A3A2C;
+  --control:     #857059;
+  --surf:        #261D16;
+  --surf-2:      #33281E;
+  --hl:          #3A1E1A;
+  --tint:        #2E1A16;
+  --pomeg:       #E07B76;   /* 6.2:1 on bg */
+  --pomeg-dark:  #EA9590;
+  --pomeg-fill:  #A63A3A;   /* white on it: 6.2:1 */
+  --pomeg-fill-hover: #8E1515;
+  --read-ink:    #8CC7A4;
+  --warm-brown:  #B3A493;
+  --shadow-pop:  0 10px 30px -8px rgba(0, 0, 0, 0.7);
+  color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  :root[data-skin='gazette']:not([data-theme='light']) {
+    --bg:          #1A1410;
+    --ink:         #E8E0D4;
+    --muted:       #B3A493;
+    --rule:        #4A3A2C;
+    --control:     #857059;
+    --surf:        #261D16;
+    --surf-2:      #33281E;
+    --hl:          #3A1E1A;
+    --tint:        #2E1A16;
+    --pomeg:       #E07B76;
+    --pomeg-dark:  #EA9590;
+    --pomeg-fill:  #A63A3A;
+    --pomeg-fill-hover: #8E1515;
+    --read-ink:    #8CC7A4;
+    --warm-brown:  #B3A493;
+    --shadow-pop:  0 10px 30px -8px rgba(0, 0, 0, 0.7);
+    color-scheme: dark;
+  }
+}
+
+/* ── Type: Garamond headings, a serif page ──────────────────── */
+:where(:root[data-skin='gazette']) body { font-family: var(--font-body); }
+:where(:root[data-skin='gazette']) :is(h1, h2, h3) {
+  font-family:    var(--font-serif);
+  font-weight:    600;
+  letter-spacing: -0.01em;
+  line-height:    1.15;
+}
+:where(:root[data-skin='gazette']) h1 { font-size: 2.9rem; }
+:where(:root[data-skin='gazette']) h2 { font-size: 1.85rem; }
+:where(:root[data-skin='gazette']) blockquote { border-left: 2px solid var(--pomeg); font-style: italic; }
+:root[data-skin='gazette'] :focus-visible { border-radius: 2px; }
+
+/* Section labels: small caps in red, led by a diamond */
+:root[data-skin='gazette'] .section-label {
+  font-family:    var(--font-ui);
+  font-size:      0.8rem;
+  font-weight:    700;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color:          var(--pomeg);
+  display:        flex;
+  align-items:    center;
+  gap:            0.45rem;
+}
+:root[data-skin='gazette'] .section-label::before { content: '◆'; content: '◆' / ''; font-size: 0.55rem; }
+
+/* The ornaments Nar hides */
+:root[data-skin='gazette'] .ornament { color: var(--pomeg); }
+:root[data-skin='gazette'] .work-header + .ornament { display: block; }
+:root[data-skin='gazette'] .rule--double { border-top: 4px double var(--pomeg); }
+
+/* ── Masthead: the wordmark, a dateline, a double rule ──────── */
+:root[data-skin='gazette'] .site-header { border-bottom: 0; }
+:root[data-skin='gazette'] .logo {
+  font-family:    var(--font-serif);
+  font-size:      2.1rem;
+  font-weight:    700;
+  letter-spacing: -0.02em;
+  color:          var(--pomeg);
+  line-height:    1;
+}
+:root[data-skin='gazette'] .logo em {
+  font-size:      1.35rem;
+  color:          var(--ink);
+  text-transform: none;
+}
+:root[data-skin='gazette'] .logo-orn { font-size: 0.85rem; margin: 0 2px; color: var(--pomeg); opacity: 0.85; }
+:root[data-skin='gazette'] .logo-orn::before { content: none; }
+
+.dateline { display: none; }
+:root[data-skin='gazette'] .dateline {
+  display:        block;
+  border-bottom:  4px double var(--pomeg);
+  font-family:    var(--font-ui);
+  font-size:      0.78rem;
+  letter-spacing: 0.05em;
+  color:          var(--muted);
+}
+:root[data-skin='gazette'] .dateline-inner {
+  max-width:   var(--container);
+  margin:      0 auto;
+  padding:     0.2rem 1.5rem;
+  border-top:  1px solid var(--rule);
+  white-space: nowrap;
+  overflow:    hidden;
+  text-overflow: ellipsis;
+}
+
+:root[data-skin='gazette'] .site-nav a {
+  font-family:    var(--font-ui);
+  font-size:      0.82rem;
+  font-weight:    500;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color:          var(--ink);
+}
+:root[data-skin='gazette'] .site-nav a:hover { color: var(--pomeg); }
+:root[data-skin='gazette'] .site-nav a[aria-current='page'] { color: var(--pomeg); box-shadow: inset 0 -2px 0 var(--pomeg); }
+
+:root[data-skin='gazette'] .catalog-btn {
+  font-family:    var(--font-ui);
+  font-weight:    700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size:      0.85rem;
+}
+:root[data-skin='gazette'] .header-search-input { border-width: 1px; border-color: var(--ink); background: var(--bg); }
+:root[data-skin='gazette'] .header-search-btn {
+  font-family:    var(--font-ui);
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  font-size:      0.85rem;
+}
+
+/* Square tools in the corner, a ruled edge instead of a grey disc */
+:root[data-skin='gazette'] .theme-btn {
+  border-radius: var(--radius);
+  border:        1px solid var(--control);
+  background:    transparent;
+}
+:root[data-skin='gazette'] .theme-btn:hover { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+:root[data-skin='gazette'] .skin-btn[aria-pressed='true'] { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+
+/* ── Controls: ruled, square, small caps on buttons ─────────── */
+/* Square, ruled; the chosen one keeps Nar's fill (not repeated here) */
+:root[data-skin='gazette'] :is(.pill, .lang-tab, .appearance-step),
+:root[data-skin='gazette'] .appearance-steps--grid .appearance-step:nth-child(n) { border-radius: var(--radius); }
+:root[data-skin='gazette'] :is(.pill, .lang-tab, .appearance-step):not(.active, [aria-selected='true'], [aria-current='true'], [aria-pressed='true']) {
+  border:     1px solid var(--rule);
+  background: transparent;
+}
+:root[data-skin='gazette'] .pill:hover,
+:root[data-skin='gazette'] .lang-tab:hover:not(.active):not([aria-selected='true']),
+:root[data-skin='gazette'] .appearance-step:hover:not(.active) { background: var(--surf); }
+:root[data-skin='gazette'] .pill.active,
+:root[data-skin='gazette'] .pill.active:hover { border-color: var(--pomeg-fill); }
+
+:root[data-skin='gazette'] .btn {
+  font-family:    var(--font-ui);
+  letter-spacing: 0.04em;
+  border:         1px solid var(--rule);
+  background:     transparent;
+}
+:root[data-skin='gazette'] .btn:hover { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+:root[data-skin='gazette'] .btn-primary,
+:root[data-skin='gazette'] .btn-danger { background: var(--pomeg-fill); border-color: var(--pomeg-fill); color: #fff; }
+:root[data-skin='gazette'] .btn-primary:hover,
+:root[data-skin='gazette'] .btn-danger:hover { background: var(--pomeg-fill-hover); border-color: var(--pomeg-fill-hover); color: #fff; }
+
+/* ── Featured box: the double frame with its diamonds ───────── */
+:root[data-skin='gazette'] .featured-box {
+  position:      relative;
+  border:        2px solid var(--pomeg);
+  border-radius: 0;
+  padding:       3px;
+  background:    transparent;
+}
+:root[data-skin='gazette'] .featured-box::before {
+  content:        '◆  ◆  ◆';
+  content:        '◆  ◆  ◆' / '';
+  position:       absolute;
+  top:            -0.55rem;
+  left:           50%;
+  transform:      translateX(-50%);
+  padding:        0 0.75rem;
+  background:     var(--bg);
+  color:          var(--pomeg);
+  font-family:    var(--font-ui);
+  font-size:      0.5rem;
+  letter-spacing: 0.4rem;
+  white-space:    pre;
+}
+:root[data-skin='gazette'] .featured-box-inner { border: 1px solid var(--pomeg); border-radius: 0; background: transparent; }
+
+/* ── Footer: an imprint line under a double rule ────────────── */
+:root[data-skin='gazette'] .footer {
+  background: transparent;
+  border-top: 4px double var(--pomeg);
+}
+:root[data-skin='gazette'] .footer-mark { font-family: var(--font-serif); color: var(--pomeg); }
+:root[data-skin='gazette'] .footer-mark em { color: var(--ink); text-transform: none; }
+:root[data-skin='gazette'] .footer-mark .logo-orn { font-size: 0.7rem; margin: 0 2px; }
+:root[data-skin='gazette'] .footer-mark .logo-orn::before { content: none; }
+:root[data-skin='gazette'] .footer-text { font-family: var(--font-body); font-style: italic; }
+
+/* ── Phones: a smaller masthead keeps the tools on its row ──── */
+@media (max-width: 600px) {
+  :root[data-skin='gazette'] .logo { font-size: 1.55rem; }
+  :root[data-skin='gazette'] .logo em { font-size: 1.05rem; }
+  :root[data-skin='gazette'] .logo-orn { font-size: 0.65rem; margin: 0 1px; }
+  :root[data-skin='gazette'] .dateline-inner { padding-inline: 1rem; font-size: 0.72rem; }
+}
+@media (max-width: 360px) {
+  :root[data-skin='gazette'] .logo { font-size: 1.35rem; }
+  :root[data-skin='gazette'] .logo em { font-size: 0.95rem; }
+}

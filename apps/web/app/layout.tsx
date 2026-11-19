@@ -1,8 +1,9 @@
 import '@/styles/globals.css';
 import '@/styles/nar.css';
+import '@/styles/gazette.css';
 import '@/styles/a11y.css';
 import { Metadata, Viewport } from "next";
-import { Andika, Inter, Literata, Noto_Naskh_Arabic } from 'next/font/google';
+import { Alegreya_Sans, Amiri, Andika, Cormorant_Garamond, Inter, Literata, Noto_Naskh_Arabic, Source_Serif_4 } from 'next/font/google';
 import { ReactNode } from "react";
 import { getLocale } from 'next-intl/server';
 import { A11Y_BOOT } from '@/lib/a11y';
@@ -41,6 +42,31 @@ const andika = Andika({
   preload: false,
 });
 
+// The Gazette, a look the reader can switch to (data-skin="gazette"): none preloaded, so a
+// reader who never chooses it downloads none of these
+const gazetteDisplay = Cormorant_Garamond({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['500', '600', '700'],
+  variable: '--f-cormorant',
+  display: 'swap',
+  preload: false,
+});
+const gazetteBody = Source_Serif_4({
+  subsets: ['latin', 'latin-ext'],
+  style: ['normal', 'italic'],
+  variable: '--f-source-serif',
+  display: 'swap',
+  preload: false,
+});
+const gazetteUi = Alegreya_Sans({
+  subsets: ['latin', 'latin-ext'],
+  weight: ['400', '500', '700'],
+  variable: '--f-alegreya-sans',
+  display: 'swap',
+  preload: false,
+});
+const gazetteArabic = Amiri({ subsets: ['arabic'], weight: ['400', '700'], variable: '--f-amiri', display: 'swap', preload: false });
+
 // The browser's own chrome (the phone's address bar) takes the page colour of the OS theme
 export const viewport: Viewport = {
   themeColor: [
@@ -75,12 +101,12 @@ export default async function RootLayout({
   const locale = await getLocale();
 
   return (
-    <html lang={locale} className={`${inter.variable} ${literata.variable} ${literataItalic.variable} ${naskh.variable} ${andika.variable}`} suppressHydrationWarning>
+    <html lang={locale} className={`${inter.variable} ${literata.variable} ${literataItalic.variable} ${naskh.variable} ${andika.variable} ${gazetteDisplay.variable} ${gazetteBody.variable} ${gazetteUi.variable} ${gazetteArabic.variable}`} suppressHydrationWarning>
       <body suppressHydrationWarning>
         <script
           dangerouslySetInnerHTML={{
-            // Theme, signed-in mark, then the accessibility choices (lib/a11y.ts), all before paint
-            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','');${A11Y_BOOT}}catch(e){}})()`,
+            // Theme, the Gazette look, signed-in mark, then the accessibility choices (lib/a11y.ts), all before paint
+            __html: `(function(){try{var t=localStorage.getItem('theme')||(matchMedia('(prefers-color-scheme:dark)').matches?'dark':'light');var d=document.documentElement;d.setAttribute('data-theme',t);if(localStorage.getItem('skin')==='gazette')d.setAttribute('data-skin','gazette');if(localStorage.getItem('signedIn')==='1')d.setAttribute('data-signed-in','');${A11Y_BOOT}}catch(e){}})()`,
           }}
         />
         {children}

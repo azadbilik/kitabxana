@@ -6,6 +6,7 @@ import { useLocale, useTranslations } from 'next-intl';
 import { usePathname, useRouter } from 'next/navigation';
 import { authorsPath, worksPath } from '@/lib/facets';
 import { ThemeToggle } from '@/components/ui/ThemeToggle';
+import { SkinToggle } from '@/components/ui/SkinToggle';
 import { LanguageSwitcher } from '@/components/ui/LanguageSwitcher';
 import { AccountMenu } from '@/components/account/AccountMenu';
 import { useHideOnScroll } from './useHideOnScroll';
@@ -101,6 +102,31 @@ function HeaderSearch({ locale }: { locale: string }) {
   );
 }
 
+const AZ_MONTHS = ['yanvar', 'fevral', 'mart', 'aprel', 'may', 'iyun', 'iyul', 'avqust', 'sentyabr', 'oktyabr', 'noyabr', 'dekabr'];
+
+/**
+ * The Gazette's dateline under the masthead (hidden in Nar). The date is filled in the browser:
+ * the page is edge-cached, and Node's and the browser's date formats differ.
+ */
+function Dateline({ locale }: { locale: string }) {
+  const t = useTranslations('skin');
+  const [date, setDate] = useState('');
+  useEffect(() => {
+    const now = new Date();
+    // Browsers ship no Azerbaijani month names (Chrome writes «2026 M11 19»): spelt here
+    setDate(locale === 'ru' || locale === 'en'
+      ? now.toLocaleDateString(locale === 'ru' ? 'ru-RU' : 'en-GB', { day: 'numeric', month: 'long', year: 'numeric' })
+      : `${now.getDate()} ${AZ_MONTHS[now.getMonth()]} ${now.getFullYear()}`);
+  }, [locale]);
+  return (
+    <div className="dateline" aria-hidden="true">
+      <div className="dateline-inner">
+        {date && <>{date} &nbsp;◆&nbsp; </>}{t('city')} &nbsp;◆&nbsp; {t('dateline')}
+      </div>
+    </div>
+  );
+}
+
 export function Header() {
   const t = useTranslations('nav');
   // From next-intl, not the route: the root 404 page has no [locale] param
@@ -140,12 +166,16 @@ export function Header() {
 
         <NavLinks links={navLinks} pathname={pathname} />
 
+        {/* Its own grid cell: beside the tools on wide screens, beside the search on phones */}
+        <SkinToggle />
+
         <div className="header-tools">
           <LanguageSwitcher />
           <ThemeToggle />
           <AccountMenu />
         </div>
       </div>
+      <Dateline locale={locale} />
     </header>
   );
 }

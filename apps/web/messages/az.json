@@ -206,6 +206,13 @@
     "authors_label": "Müəlliflər üzrə",
     "more_authors": "{count, plural, one {Daha # müəllif} other {Daha # müəllif}}"
   },
+  "skin": {
+    "gazette": "Qəzet görünüşü",
+    "to_gazette": "Qəzet görünüşünə keç",
+    "to_nar": "Əsas görünüşə qayıt",
+    "dateline": "Azərbaycan ədəbiyyatı xəzinəsi",
+    "city": "Bakı"
+  },
   "theme": {
     "light": "İşıqlı",
     "dark": "Qaranlıq",

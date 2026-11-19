@@ -1,5 +1,6 @@
 // Accessibility check: opens the site's kinds of page in a real browser and runs axe-core
-// (WCAG 2.0–2.2, levels A and AA) on each, in both themes, at desktop and phone widths.
+// (WCAG 2.0–2.2, levels A and AA) on each, in both themes, at desktop and phone widths, in
+// Nar and in the Gazette look.
 // Any violation fails the run. On phones it also checks that no page is wider than the screen
 // (WCAG 1.4.10, reflow): at 375px, and at 320px with the site's largest text setting. A page
 // wider than the screen makes mobile browsers zoom the whole page out.
@@ -34,6 +35,7 @@ const FOLLOW = [
 /** Narrow screens to check for sideways overflow only: [name, viewport, localStorage] */
 const REFLOW = [
   ['320px, largest text', { width: 320, height: 640 }, { a11y: JSON.stringify({ text: 2 }) }],
+  ['320px, largest text, gazette', { width: 320, height: 640 }, { a11y: JSON.stringify({ text: 2 }), skin: 'gazette' }],
 ];
 
 /**
@@ -120,20 +122,22 @@ for (const path of paths) {
   for (const [vpName, viewport] of Object.entries(VIEWPORTS)) {
     for (const theme of THEMES) {
       // High contrast is checked once per theme, at desktop width
-      const variants = vpName === 'desktop' ? [{}, { 'a11y': JSON.stringify({ contrast: 'more' }) }] : [{}];
+      // and the Gazette look (a reader's choice, data-skin) at both widths
+      const gazette = { skin: 'gazette' };
+      const variants = vpName === 'desktop' ? [{}, { 'a11y': JSON.stringify({ contrast: 'more' }) }, gazette] : [{}, gazette];
       for (const extra of variants) {
         const { context, page } = await open(path, viewport, theme, extra);
         if (vpName === 'phone' && theme === 'light') {
           const o = await overflow(page);
           checked++;
-          if (o) { failures++; reportOverflow(`${path} · phone · wider than the screen`, o); }
+          if (o) { failures++; reportOverflow(`${[path, 'phone', extra.skin].filter(Boolean).join(' · ')} · wider than the screen`, o); }
         }
         for (const state of STATES) {
           if (state.when && !(await state.when(page))) continue;
           await state.run(page);
           const { violations } = await new AxeBuilder({ page }).withTags(TAGS).analyze();
           checked++;
-          const label = [path, vpName, theme, extra.a11y && 'high contrast', state.name].filter(Boolean).join(' · ');
+          const label = [path, vpName, theme, extra.a11y && 'high contrast', extra.skin, state.name].filter(Boolean).join(' · ');
           if (!violations.length) continue;
           failures += violations.length;
           console.log(`\n✗ ${label}`);

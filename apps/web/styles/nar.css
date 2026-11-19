@@ -137,9 +137,9 @@
 }
 :root .header-inner {
   display:               grid;
-  grid-template-columns: auto auto minmax(0, 1fr) auto;
-  grid-template-areas:   'logo catalog search tools'
-                         'nav  nav     nav    nav';
+  grid-template-columns: auto auto minmax(0, 1fr) auto auto;
+  grid-template-areas:   'logo catalog search skin tools'
+                         'nav  nav     nav    nav  nav';
   align-items:           center;
   gap:                   0.25rem 1rem;
   padding:               0.85rem 1.5rem 0.25rem;
@@ -232,6 +232,7 @@
 :root .header-search-btn svg { display: none; }
 
 :root .header-tools { grid-area: tools; gap: 0.4rem; }
+:root .skin-btn { grid-area: skin; }
 
 :root .site-nav {
   grid-area:  nav;
@@ -298,10 +299,10 @@
 /* Tablets: the search keeps its row with the logo; the tools wrap under it */
 @media (max-width: 900px) {
   :root .header-inner {
-    grid-template-columns: auto minmax(0, 1fr) auto;
-    grid-template-areas:   'logo    catalog tools'
-                           'search  search  search'
-                           'nav     nav     nav';
+    grid-template-columns: auto minmax(0, 1fr) auto auto;
+    grid-template-areas:   'logo    catalog skin   tools'
+                           'search  search  search search'
+                           'nav     nav     nav    nav';
     row-gap:               0.6rem;
   }
   :root .catalog-btn { justify-self: start; }
@@ -316,10 +317,11 @@
    and the sections as a strip that scrolls sideways, its far edge fading out */
 @media (max-width: 600px) {
   :root .header-inner {
-    grid-template-columns: auto minmax(0, 1fr) auto;
-    grid-template-areas:   'logo    .      tools'
-                           'catalog search search'
-                           'nav     nav    nav';
+    /* The Gazette switch rides with the search: the first row is full */
+    grid-template-columns: auto minmax(0, 1fr) auto 2.5rem;
+    grid-template-areas:   'logo    .      tools  tools'
+                           'catalog search search skin'
+                           'nav     nav    nav    nav';
     padding:               0.6rem 1rem 0;
     gap:                   0.6rem 0.5rem;
   }

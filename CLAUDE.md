@@ -61,7 +61,7 @@ pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a Natio
 - Message files in `apps/web/messages/`
 
 ## Design
-One design, **Nar**, in light and dark. Full system in `apps/web/DESIGN.md`.
+One design, **Nar**, in light and dark; readers may switch to the **Gazette** look (header button, `localStorage.skin`, `<html data-skin="gazette">`, `styles/gazette.css` re-skins Nar: tokens, type, edges, ornaments, never layout). Full system in `apps/web/DESIGN.md`.
 - A bookshop you read in (LitRes-like, calmer): white pages, ink text, grey surfaces, one pomegranate `#A81E28`; Inter for the interface, Literata for titles and reading; books shown as generated covers (`components/works/BookCover.tsx`, six cloth colours and four stamped motifs picked per book) on shelves (`Shelf.tsx`)
 - Base rules and shared components in `apps/web/styles/globals.css`; Nar's tokens and restyling in `apps/web/styles/nar.css`, whose rules start with `:root` so they outrank the base rule for the same selector. Fonts are self-hosted through `next/font` (`app/layout.tsx`)
 - Theme via `[data-theme]` (OS preference until the reader chooses, `localStorage.theme`), set before paint by the inline script in `app/layout.tsx`
