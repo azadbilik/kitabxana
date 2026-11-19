@@ -2424,6 +2424,9 @@ a.gallery-coll:hover { text-decoration: underline; }
   .shelf-grid--row { grid-template-columns: none; grid-auto-columns: 42%; }
 }
 .shelf-item {
+  /* Anchors the .sr-only separators inside: positioned from an ancestor outside the scrolling row,
+     they escaped its clipping and widened the page to ~1,900px on phones (Chrome zoomed out) */
+  position:       relative;
   display:        flex;
   flex-direction: column;
   gap:            0.2rem;
