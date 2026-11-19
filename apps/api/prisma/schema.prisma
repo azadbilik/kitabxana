@@ -229,6 +229,9 @@ model Work {
 
   body     String  @db.Text
   bodyHtml String? @db.Text
+  // Words in body, for the reading time; set by a database trigger on every write of body
+  // (migration 20261119120000_work_word_count), never by the application
+  wordCount Int @default(0)
 
   originalLang    Language
   scriptDirection ScriptDirection @default(LTR)

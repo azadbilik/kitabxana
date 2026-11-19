@@ -159,6 +159,7 @@ export class CollectionsService {
             year: true,
             originalLang: true,
             order: true,
+            wordCount: true,
             sourceId: true,
           },
         },

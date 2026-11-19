@@ -19,6 +19,8 @@ export interface ContentsRow {
   incipit?: { text: string; lang?: string; dir: 'rtl' | 'ltr' } | null;
   /** Form or genre and year; left out where every part would say the same */
   kind?: string | null;
+  /** Reading time («12 dəq») */
+  time?: string | null;
 }
 
 /**
@@ -38,7 +40,8 @@ export function BookContents({ rows, collectionId, start = 0 }: { rows: Contents
       {rows.map((row, i) => {
         const mark = signedIn ? marks.works[row.id] : undefined;
         const state = mark?.status === 'DONE' ? 'done' : mark || row.id === lastWorkId ? 'now' : 'none';
-        const note = state === 'now' && mark ? t('stopped_at', { percent: Math.round(mark.progress * 100) }) : row.kind;
+        const status = state === 'now' && mark ? t('stopped_at', { percent: Math.round(mark.progress * 100) }) : row.kind;
+        const note = [status, row.time].filter(Boolean).join(' · ');
         return (
           <li key={row.id} className="book-part-row" data-state={state}>
             <Link prefetch={false} href={localePath(locale, `/works/${row.slug}`)} className="book-part">

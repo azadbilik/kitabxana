@@ -355,6 +355,7 @@ export interface MoreWork {
   genre: string;
   form: string | null;
   year: number | null;
+  wordCount?: number;
   incipit: { lines: string[]; lang: string };
 }
 

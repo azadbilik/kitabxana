@@ -242,6 +242,7 @@ export class WorksService implements OnApplicationShutdown {
       yearApprox: true,
       originalLang: true,
       status: true,
+      wordCount: true,
       author: {
         select: { slug: true, nameAz: true, nameRu: true, nameEn: true },
       },
@@ -461,6 +462,7 @@ export class WorksService implements OnApplicationShutdown {
         genre: true,
         form: true,
         year: true,
+        wordCount: true,
         ...INCIPIT_SOURCE(UI_LANGUAGE[locale] ?? 'AZ_LATIN'),
       },
     });
@@ -542,6 +544,7 @@ export class WorksService implements OnApplicationShutdown {
         genre: true,
         form: true,
         year: true,
+        wordCount: true,
         author: { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } },
         ...INCIPIT_SOURCE(UI_LANGUAGE[locale] ?? 'AZ_LATIN'),
       },

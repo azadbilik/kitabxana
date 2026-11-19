@@ -6,6 +6,7 @@ import { listingLabel, pageMetadata } from '@/lib/seo';
 import { api, notFoundOn404 } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
+import { ReadingTimeMeta } from '@/components/works/ReadingTimeMeta';
 import { TagPills } from '@/components/works/TagPills';
 import { Pagination } from '@/components/ui/Pagination';
 import { parseWorkFacets, worksPath, type WorkFilters } from '@/lib/facets';
@@ -35,6 +36,7 @@ interface WorkItem {
   author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
   collection: { slug: string; titleAz: string } | null;
   incipit?: Incipit;
+  wordCount?: number;
 }
 
 interface WorksResponse {
@@ -219,6 +221,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
                       <span>{work.yearApprox && '~'}{work.year}</span>
                     </>
                   )}
+                  <ReadingTimeMeta words={work.wordCount} genre={work.genre} locale={locale} />
                 </>
               }
             />

@@ -171,7 +171,15 @@
     "copy": "Copy link",
     "copied": "Link copied",
     "copy_failed": "Couldn't copy the link",
-    "print": "Print"
+    "print": "Print",
+    "qr": "QR code",
+    "qr_title": "QR code",
+    "qr_lead": "Print it and put it up on a wall, a shelf or a notice board: point a phone camera at it and {kind, select, book {this book} author {the author's page} other {this work}} opens.",
+    "qr_scan": "Point your phone camera here to read",
+    "qr_print": "Print card",
+    "qr_png": "Download PNG",
+    "qr_svg": "Download SVG",
+    "qr_close": "Close"
   },
   "download": {
     "pages": "scan pages {from}–{to}",
@@ -410,7 +418,11 @@
       "system": "System"
     },
     "random_poem": "Random poem",
-    "reading_time": "{n} min read",
+    "reading_time": "{time} read",
+    "time_min": "{n} min",
+    "time_h": "{h} h",
+    "time_hm": "{h} h {m} min",
+    "book_time": "Reading time: {time}",
     "contents": "Contents",
     "resume": "Continue where you left off ({percent}%)",
     "resume_page": "Continue where you left off: page {page} ({percent}%)",

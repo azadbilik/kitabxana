@@ -1,5 +1,6 @@
 'use client';
 
+import type { ReactNode } from 'react';
 import Link from 'next/link';
 import { useLocale, useTranslations } from 'next-intl';
 import { useAccount } from '@/components/account/AccountProvider';
@@ -17,7 +18,16 @@ const STATUSES: BookStatus[] = ['WANT', 'READING', 'DONE'];
  * A book page's actions: start or continue reading, want / reading / read, save.
  * Server-rendered as for a guest; a signed-in reader's state fills in after load.
  */
-export function BookActions({ collectionId, parts }: { collectionId: string; parts: BookPart[] }) {
+export function BookActions({
+  collectionId,
+  parts,
+  children,
+}: {
+  collectionId: string;
+  parts: BookPart[];
+  /** More buttons for the row, after save and list (the share menu) */
+  children?: ReactNode;
+}) {
   const t = useTranslations('library');
   const locale = useLocale();
   const { status: account, requireSignIn } = useAccount();
@@ -63,6 +73,7 @@ export function BookActions({ collectionId, parts }: { collectionId: string; par
 
       <SaveButton kind="book" id={collectionId} />
       <ListPopover collectionId={collectionId} />
+      {children}
 
       {/* The button above already names the part to continue with */}
       <BookProgress collectionId={collectionId} parts={parts} link={false} />

@@ -8,12 +8,14 @@ import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery, GALLERY_FIRST } from '@/components/artworks/ArtworkGallery';
 import { Pagination } from '@/components/ui/Pagination';
 import { DownloadBar } from '@/components/reading/DownloadBar';
+import { ShareMenu } from '@/components/reading/ShareMenu';
 import { BookCover } from '@/components/works/BookCover';
 import { Shelf } from '@/components/works/Shelf';
 import { BookActions } from '@/components/library/BookActions';
 import { BookContents } from '@/components/library/BookContents';
 import { shelfBook, titledIn } from '@/lib/books';
 import { defaultLocale, localePath, locales } from '@/lib/i18n';
+import { formatReadingTime, readingMinutes } from '@/lib/reading-time';
 import { getLabels, partTitle } from '@/lib/labels';
 import { scriptAttrs, textAttrs } from '@/lib/script';
 
@@ -115,6 +117,10 @@ export default async function CollectionPage({ params, searchParams }: Props) {
   // whose title was shortened — is told apart by its first line
   const kinds = works.map((w) => `${labels.kind(w) ?? ''}${w.year ? ` · ${w.year}` : ''}`);
   const sameKind = kinds.every((k) => k === kinds[0]);
+  const bookTime = formatReadingTime(
+    reading,
+    works.reduce((sum: number, w: any) => sum + readingMinutes(w.wordCount, w.genre), 0),
+  );
   const paged = contentsPage(works.length, c);
   const shown = paged ? works.slice(paged.start, paged.start + CONTENTS_PER_PAGE) : works;
   const rows = shown.map((work: any, k: number) => {
@@ -133,6 +139,7 @@ export default async function CollectionPage({ params, searchParams }: Props) {
       incipit: telling ? { text: line!, ...textAttrs(line!, work.incipit.lang) } : null,
       // Where every part is the same kind and has a first line to show, the kind adds nothing
       kind: sameKind && telling ? null : kinds[i] || null,
+      time: formatReadingTime(reading, readingMinutes(work.wordCount, work.genre)),
     };
   });
 
@@ -199,6 +206,7 @@ export default async function CollectionPage({ params, searchParams }: Props) {
               <li>{labels.langIn(collection.originalLang)}</li>
             )}
             <li>{t('parts', { count: works.length })}</li>
+            {bookTime && <li>{reading('book_time', { time: bookTime })}</li>}
           </ul>
 
           {paragraphs.length > 0 ? (
@@ -236,7 +244,16 @@ export default async function CollectionPage({ params, searchParams }: Props) {
                     ? t('part_no', { n: i + 1 })
                     : (localized(w, 'title', locale) ?? w.titleAz),
               }))}
-            />
+            >
+              <ShareMenu
+                url={`${SITE_URL}${localePath(locale, `/collections/${slug}`)}`}
+                text={`${title} — ${authorName}`}
+                title={title}
+                subtitle={authorName}
+                kind="book"
+                print={false}
+              />
+            </BookActions>
           )}
 
           {works.length > 0 && (

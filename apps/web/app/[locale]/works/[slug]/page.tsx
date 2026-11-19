@@ -10,6 +10,7 @@ import { prosePages } from '@/components/reading/pages';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { WorkCard } from '@/components/works/WorkCard';
+import { ReadingTimeMeta } from '@/components/works/ReadingTimeMeta';
 import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareMenu } from '@/components/reading/ShareMenu';
@@ -26,11 +27,9 @@ import {
   sourceInfo,
 } from '@/lib/verse';
 import { localePath } from '@/lib/i18n';
+import { formatReadingTime, readingMinutes } from '@/lib/reading-time';
 
 export const dynamic = 'force-dynamic';
-
-// Silent reading speed for literary prose, a little under the usual 200–250
-const WORDS_PER_MINUTE = 180;
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
@@ -226,7 +225,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
     text,
     ...(pageCount > 1 && { href: `${pageHref(on)}#${id}` }),
   }));
-  const readingMinutes = Math.round((paged?.words ?? 0) / WORDS_PER_MINUTE);
+  const readingTime = formatReadingTime(t, readingMinutes(work.wordCount, work.genre));
 
   const chosen = chooseTranslation(work, locale, slug, { lang: first(query.lang), tr: first(query.tr) });
   const translation: ShownTranslation | null = chosen.shown && {
@@ -345,10 +344,10 @@ export default async function WorkPage({ params, searchParams }: Props) {
               <span>{work.yearApprox ? '~' : ''}{work.year}</span>
             </>
           )}
-          {readingMinutes >= 2 && (
+          {readingTime && (
             <>
               <span className="dot" aria-hidden="true" />
-              <span>{t('reading_time', { n: readingMinutes })}</span>
+              <span>{t('reading_time', { time: readingTime })}</span>
             </>
           )}
         </div>
@@ -417,7 +416,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
       )}
 
       <WorkActions workId={work.id} collectionId={work.collection?.id ?? null}>
-        <ShareMenu url={shareUrl} text={`${heading} — ${authorName}`} />
+        <ShareMenu url={shareUrl} text={`${heading} — ${authorName}`} title={heading} subtitle={authorName ?? ''} />
         <DownloadMenu path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} scans={work.scan ? [work.scan] : null} />
       </WorkActions>
 
@@ -476,13 +475,12 @@ export default async function WorkPage({ params, searchParams }: Props) {
                   title={card.title}
                   incipit={card.incipit}
                   meta={
-                    (card.kind || item.year) && (
-                      <>
-                        {card.kind && <span>{card.kind}</span>}
-                        {card.kind && item.year && <span className="dot" aria-hidden="true" />}
-                        {item.year && <span>{item.year}</span>}
-                      </>
-                    )
+                    <>
+                      {card.kind && <span>{card.kind}</span>}
+                      {card.kind && item.year && <span className="dot" aria-hidden="true" />}
+                      {item.year && <span>{item.year}</span>}
+                      <ReadingTimeMeta words={item.wordCount} genre={item.genre} locale={locale} first={!card.kind && !item.year} />
+                    </>
                   }
                 />
               );
@@ -517,6 +515,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
                           <span>{card.kind}</span>
                         </>
                       )}
+                      <ReadingTimeMeta words={item.wordCount} genre={item.genre} locale={locale} />
                     </>
                   }
                 />

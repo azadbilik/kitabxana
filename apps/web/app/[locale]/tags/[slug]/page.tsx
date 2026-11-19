@@ -5,6 +5,7 @@ import { api, notFoundOn404, type TagDetail } from '@/lib/api';
 import { localized } from '@/lib/locale';
 import { listingLabel, pageMetadata } from '@/lib/seo';
 import { WorkCard, type Incipit } from '@/components/works/WorkCard';
+import { ReadingTimeMeta } from '@/components/works/ReadingTimeMeta';
 import { Pagination } from '@/components/ui/Pagination';
 import { notFound } from 'next/navigation';
 import { parseTagFacet, tagPath } from '@/lib/facets';
@@ -37,12 +38,14 @@ interface WorkItem {
   titleAz: string;
   titleRu: string | null;
   titleEn: string | null;
+  genre: string;
   form: string | null;
   year: number | null;
   yearApprox: boolean;
   originalLang: string;
   author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null };
   incipit?: Incipit;
+  wordCount?: number;
 }
 
 /** Page heading: the tag alone, or "Author: tag" when narrowed to one author */
@@ -162,6 +165,7 @@ export default async function TagPage({ params, searchParams }: Props) {
                         <span>{work.yearApprox && '~'}{work.year}</span>
                       </>
                     )}
+                    <ReadingTimeMeta words={work.wordCount} genre={work.genre} locale={locale} />
                   </>
                 }
               />

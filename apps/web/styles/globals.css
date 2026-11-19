@@ -2749,6 +2749,28 @@ a.gallery-coll:hover { text-decoration: underline; }
 }
 .signin-card .form-input,
 .signin-card .signin-google { background: var(--bg); }
+/* Share (and its QR code) under a book's or an author's head */
+.page-share { display: flex; margin-top: 1rem; }
+@media print { .page-share { display: none; } }
+
+/* QR card (share › QR code): the code stays black on white in both themes, so it scans */
+.qr-dialog .signin-dialog-panel { display: flex; flex-direction: column; gap: 0.9rem; }
+.qr-lead { font-family: var(--font-ui); }
+.qr-card {
+  margin:        0;
+  padding:       1.25rem 1rem 1rem;
+  border-radius: var(--radius-xl, 8px);
+  background:    #fff;
+  color:         #111;
+  text-align:    center;
+}
+.qr-code svg { display: block; width: min(13rem, 100%); height: auto; margin: 0 auto; }
+.qr-card figcaption { display: flex; flex-direction: column; gap: 0.15rem; margin-top: 0.75rem; }
+.qr-card-title { font-family: var(--font-serif); font-size: 1.1rem; line-height: 1.25; }
+.qr-card-author { font-family: var(--font-ui); font-size: 0.85rem; color: #555; }
+.qr-actions { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.qr-actions .btn { justify-content: center; flex: 1 1 auto; }
+
 @media (prefers-reduced-motion: no-preference) {
   .signin-dialog[open] { animation: signin-in 0.18s cubic-bezier(0.16, 1, 0.3, 1); }
   @keyframes signin-in { from { opacity: 0; transform: translateY(8px); } }

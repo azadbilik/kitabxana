@@ -171,7 +171,15 @@
     "copy": "Linki kopyala",
     "copied": "Link kopyalandı",
     "copy_failed": "Kopyalamaq alınmadı",
-    "print": "Çap et"
+    "print": "Çap et",
+    "qr": "QR kod",
+    "qr_title": "QR kod",
+    "qr_lead": "Çap edib divara, rəfə, elan lövhəsinə vurun: telefonun kamerasını tutan kimi {kind, select, book {bu kitab} author {müəllifin səhifəsi} other {bu əsər}} açılır.",
+    "qr_scan": "Oxumaq üçün telefonun kamerasını tutun",
+    "qr_print": "Kartı çap et",
+    "qr_png": "PNG yüklə",
+    "qr_svg": "SVG yüklə",
+    "qr_close": "Bağla"
   },
   "download": {
     "pages": "skanın {from}–{to}-cü səhifələri",
@@ -410,7 +418,11 @@
       "system": "Sistem"
     },
     "random_poem": "Təsadüfi şeir",
-    "reading_time": "{n} dəq oxu",
+    "reading_time": "{time} oxu",
+    "time_min": "{n} dəq",
+    "time_h": "{h} saat",
+    "time_hm": "{h} saat {m} dəq",
+    "book_time": "Oxu müddəti: {time}",
     "contents": "Məzmun",
     "resume": "Qaldığınız yerdən davam edin ({percent}%)",
     "resume_page": "Qaldığınız yerdən davam edin: səhifə {page} ({percent}%)",

@@ -7,6 +7,7 @@ import { breadcrumbLd, excerpt, pageMetadata, plainLines, sameAs, SITE_URL } fro
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery, type Artwork } from '@/components/artworks/ArtworkGallery';
 import { DownloadBar } from '@/components/reading/DownloadBar';
+import { ShareMenu } from '@/components/reading/ShareMenu';
 import { BioCredit } from '@/components/authors/BioCredit';
 import { AuthorPortrait } from '@/components/authors/AuthorPortrait';
 import { Shelf, type ShelfBook } from '@/components/works/Shelf';
@@ -162,6 +163,17 @@ export default async function AuthorPage({ params }: Props) {
               <DownloadBar path={`/authors/${encodeURIComponent(slug)}`} author={author} locale={locale} kind="author" />
             </div>
           )}
+
+          <div className="page-share">
+            <ShareMenu
+              url={`${SITE_URL}${localePath(locale, `/authors/${slug}`)}`}
+              text={name}
+              title={name}
+              subtitle={facts.join(' · ')}
+              kind="author"
+              print={false}
+            />
+          </div>
         </div>
       </header>
 
