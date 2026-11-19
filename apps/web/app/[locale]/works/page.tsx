@@ -57,10 +57,19 @@ type Sort = (typeof SORTS)[number];
 
 const one = (v: string | string[] | undefined) => (Array.isArray(v) ? v[0] : v);
 
+/**
+ * Reading-time filter, `?muddet=` (a query param like the sort, not a path facet: it makes
+ * no list worth its own address). URL value → the API's band (apps/api/src/works/reading-time.ts).
+ */
+const TIMES = { '5': 'short', '15': 'medium', '60': 'long', uzun: 'book' } as const;
+type Time = keyof typeof TIMES;
+const isTime = (v: string | undefined): v is Time => v !== undefined && Object.hasOwn(TIMES, v);
+
 /** What the query string asks for beyond the path's filters; defaults stay out of URLs */
 function readView(sp: SearchParams) {
   const sort = SORTS.find((s) => s === one(sp.sort)) ?? 'popular';
-  return { lang: one(sp.lang), sort: sort === 'popular' ? undefined : sort, page: one(sp.page) };
+  const time = one(sp.muddet);
+  return { lang: one(sp.lang), sort: sort === 'popular' ? undefined : sort, muddet: isTime(time) ? time : undefined, page: one(sp.page) };
 }
 type View = ReturnType<typeof readView>;
 
@@ -72,6 +81,7 @@ function worksQuery(locale: string, filters: WorkFilters, view: View) {
   if (filters.genre) query.set('genre', filters.genre);
   if (filters.author) query.set('authorSlug', filters.author);
   if (view.lang) query.set('lang', view.lang);
+  if (view.muddet) query.set('time', TIMES[view.muddet]);
   if (view.page) query.set('page', view.page);
   query.set('limit', '30');
   query.set('sort', view.sort ?? 'popular');
@@ -110,8 +120,9 @@ export async function generateMetadata({ params, searchParams }: Props): Promise
     path: worksPath(defaultLocale, filters, { sort: view.sort, page }),
     title: listingLabel(filtered ? `${heading} — ${t('nav.works')}` : t('nav.works'), locale, { page }),
     description: t('works.list_description', { heading: listingLabel(heading, locale, { page }), count: result.meta.total }),
-    // The same works in another order are one list: only the default order is indexed
-    noindex: Boolean(view.sort) || result.data.length === 0,
+    // The same works in another order are one list: only the default order is indexed; a
+    // reading-time slice of it isn't either
+    noindex: Boolean(view.sort) || Boolean(view.muddet) || result.data.length === 0,
   });
 }
 
@@ -123,7 +134,7 @@ export default async function WorksPage({ params, searchParams }: Props) {
   const view = readView(sp);
   // Segments in another order (or a stray ?page=1, ?sort=popular) redirect to the one canonical URL
   const canonical = worksPath(locale, filters, view);
-  const requested = worksPath(locale, {}, { lang: one(sp.lang), sort: one(sp.sort), page: one(sp.page) }).replace(
+  const requested = worksPath(locale, {}, { lang: one(sp.lang), sort: one(sp.sort), muddet: one(sp.muddet), page: one(sp.page) }).replace(
     localePath(locale, `/works`),
     localePath(locale, `/works${given.map((g) => `/${g}`).join('')}`),
   );
@@ -174,6 +185,14 @@ export default async function WorksPage({ params, searchParams }: Props) {
               {...pill(filters.form === f)}
             >
               {labels.form(f)}
+            </Link>
+          ))}
+        </div>
+
+        <div className="chip-row" role="group" aria-label={t('time_label')}>
+          {(Object.keys(TIMES) as Time[]).map((time) => (
+            <Link key={time} href={href(filters, { muddet: view.muddet === time ? undefined : time })} {...pill(view.muddet === time)} prefetch={false}>
+              {t(`time_${time}`)}
             </Link>
           ))}
         </div>

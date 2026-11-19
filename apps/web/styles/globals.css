@@ -776,6 +776,25 @@ blockquote {
 }
 .reading-progress[dir='rtl'] .reading-progress-bar { transform-origin: right; }
 
+/* Time left in a long text, in the corner while reading; under the bar's rules (long prose only) */
+.reading-left {
+  position:       fixed;
+  inset-block-end: 1rem;
+  inset-inline-end: 1rem;
+  z-index:        100;
+  margin:         0;
+  padding:        0.3rem 0.7rem;
+  border-radius:  999px;
+  background:     var(--surf);
+  box-shadow:     0 0 0 1px var(--rule);
+  color:          var(--muted);
+  font-family:    var(--font-ui);
+  font-size:      0.78rem;
+  font-variant-numeric: tabular-nums;
+  pointer-events: none;
+}
+@media print { .reading-left { display: none; } }
+
 /* "Continue where you left off": offered once, above the text */
 .resume {
   display:         flex;

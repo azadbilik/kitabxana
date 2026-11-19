@@ -104,7 +104,12 @@
     "sort_label": "Sıralama",
     "sort_popular": "Qarışıq",
     "sort_year": "İlə görə",
-    "sort_title": "Əlifba ilə"
+    "sort_title": "Əlifba ilə",
+    "time_label": "Oxu müddəti",
+    "time_5": "5 dəqiqəyədək",
+    "time_15": "5–15 dəq",
+    "time_60": "15–60 dəq",
+    "time_uzun": "1 saatdan çox"
   },
   "search": {
     "label": "Kitabxanada axtar",
@@ -422,6 +427,7 @@
     "time_min": "{n} dəq",
     "time_h": "{h} saat",
     "time_hm": "{h} saat {m} dəq",
+    "time_left": "{time} qaldı",
     "book_time": "Oxu müddəti: {time}",
     "contents": "Məzmun",
     "resume": "Qaldığınız yerdən davam edin ({percent}%)",

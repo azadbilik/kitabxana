@@ -225,7 +225,8 @@ export default async function WorkPage({ params, searchParams }: Props) {
     text,
     ...(pageCount > 1 && { href: `${pageHref(on)}#${id}` }),
   }));
-  const readingTime = formatReadingTime(t, readingMinutes(work.wordCount, work.genre));
+  const minutes = readingMinutes(work.wordCount, work.genre);
+  const readingTime = formatReadingTime(t, minutes);
 
   const chosen = chooseTranslation(work, locale, slug, { lang: first(query.lang), tr: first(query.tr) });
   const translation: ShownTranslation | null = chosen.shown && {
@@ -381,6 +382,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
         workId={work.id}
         sections={sections}
         pagination={pageCount > 1 ? { page, pages: pageCount } : null}
+        minutes={minutes}
       />
 
       {nextUp && (

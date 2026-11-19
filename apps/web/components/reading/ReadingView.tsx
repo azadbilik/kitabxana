@@ -61,6 +61,8 @@ interface Props {
   sections?: { id: string; text: string; href?: string }[];
   /** Which reading page of a long prose text this is; null when it is read whole */
   pagination?: { page: number; pages: number } | null;
+  /** Minutes the whole text takes to read, for the time left shown while reading */
+  minutes?: number;
 }
 
 const ORIGINAL = 'original';
@@ -97,6 +99,7 @@ export function ReadingView({
   workId,
   sections = [],
   pagination = null,
+  minutes = 0,
 }: Props) {
   const t = useTranslations('reading');
   const tc = useTranslations('contribute.options');
@@ -259,7 +262,7 @@ export function ReadingView({
         <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} hasGlossary={hasGlossary} />
       </div>
 
-      {!isPoem && <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} />}
+      {!isPoem && <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} minutes={minutes} />}
 
       {!isPoem && sections.length >= MIN_SECTIONS && (
         <details className="reading-contents">

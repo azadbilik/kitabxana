@@ -104,7 +104,12 @@
     "sort_label": "Order",
     "sort_popular": "Mixed",
     "sort_year": "By year",
-    "sort_title": "A–Z"
+    "sort_title": "A–Z",
+    "time_label": "Reading time",
+    "time_5": "Up to 5 min",
+    "time_15": "5–15 min",
+    "time_60": "15–60 min",
+    "time_uzun": "Over an hour"
   },
   "search": {
     "label": "Search the library",
@@ -422,6 +427,7 @@
     "time_min": "{n} min",
     "time_h": "{h} h",
     "time_hm": "{h} h {m} min",
+    "time_left": "{time} left",
     "book_time": "Reading time: {time}",
     "contents": "Contents",
     "resume": "Continue where you left off ({percent}%)",

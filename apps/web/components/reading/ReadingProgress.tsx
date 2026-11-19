@@ -5,6 +5,7 @@ import { useRouter } from 'next/navigation';
 import { useTranslations } from 'next-intl';
 import { useAccount } from '@/components/account/AccountProvider';
 import { sendProgress, useLoadMarks, useMarks } from '@/lib/library';
+import { formatReadingTime } from '@/lib/reading-time';
 
 interface Props {
   slug: string;
@@ -15,6 +16,8 @@ interface Props {
   dir: 'ltr' | 'rtl';
   /** A paged text: progress and the saved place run across all its pages */
   pagination?: { page: number; pages: number } | null;
+  /** Minutes the whole text takes, for the time left in the corner (0: none shown) */
+  minutes?: number;
 }
 
 const KEY = (slug: string) => `irs-reading-pos:${slug}`;
@@ -47,9 +50,10 @@ function save(slug: string, progress: number) {
   }
 }
 
-/** Where the reader is in a long text, a thin bar along the top of the window,
-    and an offer to go back to the place they left last time — on whichever page it is */
-export function ReadingProgress({ slug, workId, targetId, dir, pagination }: Props) {
+/** Where the reader is in a long text, a thin bar along the top of the window and the time
+    left in the corner, and an offer to go back to the place they left last time — on
+    whichever page it is */
+export function ReadingProgress({ slug, workId, targetId, dir, pagination, minutes = 0 }: Props) {
   const t = useTranslations('reading');
   const { status } = useAccount();
   const signedIn = status === 'signed-in' && Boolean(workId);
@@ -213,12 +217,21 @@ export function ReadingProgress({ slug, workId, targetId, dir, pagination }: Pro
     target.focus({ preventScroll: true });
   }
 
+  // Shown once the reader is into the text (the total is under the title) and gone at its end.
+  // Hidden from screen readers like the bar: a figure changing as one scrolls is noise there
+  const left = long && progress > EDGE && progress < 1 - EDGE ? formatReadingTime(t as never, minutes * (1 - progress)) : null;
+
   return (
     <>
       {long && (
         <div className="reading-progress" aria-hidden="true" dir={dir}>
           <div className="reading-progress-bar" style={{ '--progress': progress } as CSSProperties} />
         </div>
+      )}
+      {left && (
+        <p className="reading-left" aria-hidden="true">
+          {t('time_left', { time: left })}
+        </p>
       )}
       {resumeAt !== null && (
         <div className="resume">

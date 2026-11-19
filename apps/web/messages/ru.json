@@ -104,7 +104,12 @@
     "sort_label": "Порядок",
     "sort_popular": "Вперемешку",
     "sort_year": "По году",
-    "sort_title": "По алфавиту"
+    "sort_title": "По алфавиту",
+    "time_label": "Время чтения",
+    "time_5": "До 5 мин",
+    "time_15": "5–15 мин",
+    "time_60": "15–60 мин",
+    "time_uzun": "Больше часа"
   },
   "search": {
     "label": "Поиск по библиотеке",
@@ -422,6 +427,7 @@
     "time_min": "{n} мин",
     "time_h": "{h} ч",
     "time_hm": "{h} ч {m} мин",
+    "time_left": "осталось {time}",
     "book_time": "Время чтения: {time}",
     "contents": "Содержание",
     "resume": "Продолжить с того же места ({percent}%)",

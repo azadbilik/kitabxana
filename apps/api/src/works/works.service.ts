@@ -7,6 +7,7 @@ import { CreateWorkDto, UpdateWorkDto } from './dto/create-work.dto';
 import { QueryWorksDto } from './dto/query-works.dto';
 import { safeWorkBase, slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
+import { inReadingBand } from './reading-time';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
 import { RTL_LANGUAGES } from '@irs-az/shared';
 import type { WorkPayload } from '../submissions/dto/public-submission.dto';
@@ -220,7 +221,10 @@ export class WorksService implements OnApplicationShutdown {
         author: { slug: query.authorSlug, ...(query.all !== 'true' && { status: 'PUBLISHED' as const }) },
       }),
       ...(query.tag && { tags: { some: { tag: { slug: query.tag }, source: { not: 'REJECTED' } } } }),
-      ...(query.readableIn && { AND: [readableIn(query.readableIn)] }),
+      // Each brings its own OR, so they go side by side under AND
+      ...((query.readableIn || query.time) && {
+        AND: [...(query.readableIn ? [readableIn(query.readableIn)] : []), ...(query.time ? [inReadingBand(query.time)] : [])],
+      }),
       ...(query.q && {
         OR: (['titleAz', 'titleRu', 'titleEn'] as const).map((field) => ({
           [field]: { contains: query.q, mode: 'insensitive' as const },

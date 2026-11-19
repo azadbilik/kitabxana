@@ -74,6 +74,14 @@ export class QueryWorksDto {
   @IsIn(['az', 'ru', 'en'])
   incipit?: 'az' | 'ru' | 'en';
 
+  @ApiPropertyOptional({
+    description: 'Reading time: short (up to 5 min), medium (6–15), long (16–59), book (an hour or more)',
+    enum: ['short', 'medium', 'long', 'book'],
+  })
+  @IsOptional()
+  @IsIn(['short', 'medium', 'long', 'book'])
+  time?: 'short' | 'medium' | 'long' | 'book';
+
   @ApiPropertyOptional({ description: 'Only works readable in full in this UI language (title and text)', enum: ['az', 'ru', 'en'] })
   @IsOptional()
   @IsIn(['az', 'ru', 'en'])
