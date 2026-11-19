@@ -6,9 +6,13 @@ on:
   pull_request:
   workflow_dispatch:
 
+# A newer push no longer cancels the run before it: with pushes minutes apart, every run was
+# cancelled and nothing deployed. Pull requests still cancel their older runs. Deploys take
+# turns (the deploy job's own group below) and a run whose commit is no longer main's head
+# skips its deploy, so an older build never replaces a newer one.
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
-  cancel-in-progress: true
+  cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 jobs:
   check:
@@ -101,12 +105,26 @@ jobs:
     if: github.ref == 'refs/heads/main' && vars.DEPLOY_HOST != ''
     runs-on: ubuntu-latest
     environment: production
+    # One deploy at a time, never cancelled mid-way; a newer waiting deploy replaces an older waiting one
+    concurrency:
+      group: production-deploy
+      cancel-in-progress: false
     permissions:
       contents: read
       packages: read
     steps:
+      - name: Still main's head?
+        id: head
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          head=$(gh api "repos/${{ github.repository }}/commits/main" --jq .sha)
+          if [ "$head" = "${{ github.sha }}" ]; then echo "current=true" >> "$GITHUB_OUTPUT"
+          else echo "current=false" >> "$GITHUB_OUTPUT"; echo "::notice::main is at $head now; its own run deploys it"; fi
       - uses: actions/checkout@v4
+        if: steps.head.outputs.current == 'true'
       - name: Copy stack files
+        if: steps.head.outputs.current == 'true'
         uses: appleboy/scp-action@v0.1.7
         with:
           host: ${{ vars.DEPLOY_HOST }}
@@ -116,6 +134,7 @@ jobs:
           target: /opt/irs-az
           strip_components: 1
       - name: Pull and restart
+        if: steps.head.outputs.current == 'true'
         uses: appleboy/ssh-action@v1.2.0
         with:
           host: ${{ vars.DEPLOY_HOST }}
