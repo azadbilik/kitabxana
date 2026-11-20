@@ -179,7 +179,7 @@ Kərbəlayı Məhəmməd cavab verdi:
 
 – Sənin başına and olsun, Sultan ağa, bizi bir əhəd də görməyib. Karvanın yanında məhz üç nəfər dəvəçi idi. İkisini karvanın yanında öldürdük. Bu yazıq da bizim dalımızca qaça-qaça gəldi kəndin yavığına ki, bəlkə kişmiş taylarını bizdən saldıra; bunu da öldürdük və bədənini gətirdik buraya ki, bizim kəndin kənarında nişanə qalmasın.
 
-Bala Sulan genə dedi:
+Bala Sultan genə dedi:
 
 – Dəxi nədən qorxursunuz? Sizi görüb tanıyan olmayıb, bəs dəxi nədən qorxursunuz?
 

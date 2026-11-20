@@ -20,13 +20,13 @@ O günü camaatın başı dəfnə qarışdı. Hamı Cahandar ağanın qapısına
 
 Molla Sadıq iki gündən sonra öz arvadını və gəlinlərini yas yerinə göndərdi. "Eldən, obadan geri qalmaq ayıbdır, - dedi, gedin, hamının ölüsü-dirisi olacaq". Onun məqsədi bu yolla ağız aramaq, Cahandar ağanın evində nələr danışıldığını öyrənmək idi. O istəyirdi ki, bu yolla özünə olan münasibəti aydınlaşdırsın.
 
-Arvadlar yas yerindən razı qayıtdılar. Onlara ədəblə hörmət etdiklərini, ağlaşmadan sonra çay-çörək verib yola saldıqlarını söylədilər. Nəhayət, üçüncü gün Molla Sadığın özü cəsarətə gəlib, kəndin bir necə ağsaqqalı ilə bərabər Cahandar ağanın evinə getdi. Əgər yas yerina dəyməsə, özünün günahkar olduğunu boynuna almış olar, bəlkə də narazılıqla qurtarıb gedə biləcək bir incikliyi düşmənçiliyə çevirə bilərdi. Bəlkə Cahandar ağa onu görən kimi tüfəngi çəkdi, bəs onda nə olsun? Ara yerdə güdaza getsin? Yox, belə şey ola bilməz. Elin adəti var qanlı düşmən qanlı düşmənin qapısına gələndə ona əl qaldırmazlar.
+Arvadlar yas yerindən razı qayıtdılar. Onlara ədəblə hörmət etdiklərini, ağlaşmadan sonra çay-çörək verib yola saldıqlarını söylədilər. Nəhayət, üçüncü gün Molla Sadığın özü cəsarətə gəlib, kəndin bir necə ağsaqqalı ilə bərabər Cahandar ağanın evinə getdi. Əgər yas yerinə dəyməsə, özünün günahkar olduğunu boynuna almış olar, bəlkə də narazılıqla qurtarıb gedə biləcək bir incikliyi düşmənçiliyə çevirə bilərdi. Bəlkə Cahandar ağa onu görən kimi tüfəngi çəkdi, bəs onda nə olsun? Ara yerdə güdaza getsin? Yox, belə şey ola bilməz. Elin adəti var qanlı düşmən qanlı düşmənin qapısına gələndə ona əl qaldırmazlar.
 
 Molla Sadıq zənnində yanılmadı. Yas yerində ona heç nə demədilər. Görünür, ölüm adamları yumşaltmışdı. Qəlblərdəki kin, qəzəb bir az soyumuşdu. Bir də Molla Sadıq özü onun yanına gəlmişdi.
 
 Yas gecəsi sakit keçdi. Hətta Molla Sadıqdan xahiş etdilər, o Quran oxudu. Mərhuməyə behişt arzuladı, "Allah rəhmət eləsin" - dedi. Cahandar ağa bir kəlmə dinib-danışmadı. Hüzr yerinə gələnlər ev sahibinə başsağlığı verib dağılanda Molla Sadıqla Cahandar ağanın baxışları ani olaraq bir-birinə sancıldı və bu anı baxış ona hər şeyi aydınlaşdırdı. O başa düşdü ki, Şahnigarın ölümündə Cahandar ağanın əli var, o, taqsirkardır. Ona görə də bu qədər sükut edir. Kin, qəzəb, dərd, ələm, peşmançılıq onu əzir, ağırlaşıb qurğuşun yükü kimi qəddini əyir. Cahandar ağa canın dişinə tutub, özünü saxlayır, daxildən püskürüb çıxmaq istəyən, vulkan kimi alovlanmağa hazır olan qəzəbini hələlik boğur. Elə bil çiynini verib, uçub-tökülməkdə olan bir qayanı saxlayır. Yükün ağırlığından onun gözlərinə qan sağılır. Xırdaca damarlar az qalır ki, partlasın. Molla Sadıq dərk etdi ki, bu qəzəb bir gün püskürəcək, özü də xata ondan uzaq olmayacaq. Evə gələndən sonra yata bilmədi. Yerin içində xeyli qovruldu. Onu başqa bir şey də narahat edirdi. O qorxurdu ki, bu hadisələrdən sonra camaat arasında hörmətdən düşər, müridlərin sayı azalar. Bəs onda türbədəkilərə nə cavab verərdi? Göytəpəlilər deməzdilərmi ki, ay Molla Sadıq, bəs hanı sənin qüdrətin? Bəs hanı türbənin qəzəbi. Bir yandan da bu rus Əhməd uşaqları tovlayıb məscidə gəlməyə qoymurdu. Onları xəlvəti yanına aparır, yazı-pozu öyrədir, "kafir" kitabları oxutdururdu. O saqqallı rus kəndə gəlib gedəndən sonra uşaqlar adamın sözünə heç baxmaq istəmirdilər. Əhməd heç, onu kənddən qovmaq asan idi, bəs Cahandar ağa'? Bəlkə divan-dərəyə xəbər versin ki, Cahandar ağa doğma bacısını öldürüb, qan töküb, hə, onda necə olar? Atlı kazaklar gəlib onu tutmazdımı, əl-qolunu bağlayıb birbaş Sibirə göndərməzdilərmi? Onun izi-tozu biryolluq itməzdimi? Mən də rahat nəfəs almazdımmı? Bəs sonra?
 
-Molla Sadığı fikir götürdü. Bu işi sübut etməyin çox çətin olduğunu düşündü. Şahidin yox, dəlilin yox, nə edə bilərdin? Ölünü təzədən qəbirdən çıxarmayacaqdılar ki? Bir də, din var, şəriət var, camaat buna razı olarmı? Rusa nə var, dedin, o saat qəbri eşib tökəcəklər. Amma cammaat buna yol verməz. Lap qılıncdan keçirsələr də onları qəbristanlığını həndəvərinə hərlənməyə qoymazdılar. Əgər bu iş baş tutsa belə, sonrası pis olardı. Yerlər qulaqlıdır, tez-gec xəbər tutarlar və mənim daşımı daş üstündə qoymazlar.
+Molla Sadığı fikir götürdü. Bu işi sübut etməyin çox çətin olduğunu düşündü. Şahidin yox, dəlilin yox, nə edə bilərdin? Ölünü təzədən qəbirdən çıxarmayacaqdılar ki? Bir də, din var, şəriət var, camaat buna razı olarmı? Rusa nə var, dedin, o saat qəbri eşib tökəcəklər. Amma camaat buna yol verməz. Lap qılıncdan keçirsələr də onları qəbristanlığını həndəvərinə hərlənməyə qoymazdılar. Əgər bu iş baş tutsa belə, sonrası pis olardı. Yerlər qulaqlıdır, tez-gec xəbər tutarlar və mənim daşımı daş üstündə qoymazlar.
 
 Molla Sadıq bu cür ağır düşüncələrlə yumşaq gəbənin üstündə gəzinir, təsbehinin iri, kəhrəba muncuqlarını şaqqıldadırdı.
 
@@ -92,7 +92,7 @@ O, papirosunu yenidən tüstülətdi. Molla Sadıq dəhşətlə çırağın sol�
 
 – Olmasaydı, qapını açmazdım.
 
-Molla Sadıq lap ehtiyatlandı. Bu adamın qəsdən gəldiyini, bəlkə də Cahandar ağanın göndərdiyini güman etdi. Ona elə gəldi ki, bu saat evin dörd tərafini kəsiblər. Pusquda duranlar içəri göndərdikləri adamın nə edəcəyini gözləyirlər. Qonaq bu saat ayağa duracaq, xəncəri siyirib onu doğrayacaq, sonra da atılıb həyətə çıxacaq, atın belinə qalxıb dördnala çapacaqdır. Əgər molla uşaqlara göz eləsə, gələn adamı elə buradaca, evin içində öldürtsə, daha pis olacaqdır. Duyuq düşən düşmənlər şaraqqa-şaraqla evi gülluyə basacaq, arvad-uşağı qıracaq, ev-eşiyi də yandıracaqdılar. Molla Sadıq ehtiyatsızlıq etdiyinə, tanımadığı adamı içəri buraxdığına görə özünü danladı. "Yamanca yerdə axşamladıq. Bu namərd oğlu türbədən gəlirəm deyə məni yamanca yastığa qoydu".
+Molla Sadıq lap ehtiyatlandı. Bu adamın qəsdən gəldiyini, bəlkə də Cahandar ağanın göndərdiyini güman etdi. Ona elə gəldi ki, bu saat evin dörd tərəfini kəsiblər. Pusquda duranlar içəri göndərdikləri adamın nə edəcəyini gözləyirlər. Qonaq bu saat ayağa duracaq, xəncəri siyirib onu doğrayacaq, sonra da atılıb həyətə çıxacaq, atın belinə qalxıb dördnala çapacaqdır. Əgər molla uşaqlara göz eləsə, gələn adamı elə buradaca, evin içində öldürtsə, daha pis olacaqdır. Duyuq düşən düşmənlər şaraqqa-şaraqla evi gülləyə basacaq, arvad-uşağı qıracaq, ev-eşiyi də yandıracaqdılar. Molla Sadıq ehtiyatsızlıq etdiyinə, tanımadığı adamı içəri buraxdığına görə özünü danladı. "Yamanca yerdə axşamladıq. Bu namərd oğlu türbədən gəlirəm deyə məni yamanca yastığa qoydu".
 
 – Niyə oturmursan, molla?
 
@@ -172,7 +172,7 @@ Allahyar fikrindən ayılıb müsahibinin üzünə baxdı. Molla Sadıq onun gö
 
 – Mənə kömək elə.
 
-Molla Sadıq əslində Cahandar ağanın təzə arvadının ərini çoxdan, axtarırdı. Onu tapıb əlbir olmağı, qızışdırıb Cahandar ağanın üstürnə salmağı çoxdan arzulayırdı. Həm də bunu elə etmək istəyirdi ki, heç kəs ondan şübhələnməsin. İndi isə həmin adam özü öz ayağı ilə gəlib çıxmışdı. Molla Sadıq ürəyindən keçənləri ondan gizlətməyi və Allahyarı bir az çək-çevirə salmağı lazım bildi;
+Molla Sadıq əslində Cahandar ağanın təzə arvadının ərini çoxdan, axtarırdı. Onu tapıb əlbir olmağı, qızışdırıb Cahandar ağanın üstünə salmağı çoxdan arzulayırdı. Həm də bunu elə etmək istəyirdi ki, heç kəs ondan şübhələnməsin. İndi isə həmin adam özü öz ayağı ilə gəlib çıxmışdı. Molla Sadıq ürəyindən keçənləri ondan gizlətməyi və Allahyarı bir az çək-çevirə salmağı lazım bildi;
 
 – Sən nəyə əsasən belə bir işi mənə təklif eləyirsən?
 
@@ -182,7 +182,7 @@ Molla Sadıq əslində Cahandar ağanın təzə arvadının ərini çoxdan, axta
 
 – Molla Sadıq, sən məni uşaq yerinə qoyma. Mən hər şeyi bilirəm. Onu da bilirəm ki, Cahandar ağa bacısının hayıfını səndə qoymayacaq. Fürsət düşən kimi sənnən haqq-hesab çəkəcək. Mən gəlmişəm ki, köməkləşək. İndi özün bil.
 
-Molla Sadıq təsbehini qoluna keçirib xeyli saqqalını tumarladı. Gözlərini qıyıb lampaya baxdı. Çırağın fitilindən ox kimi uzanan ziyalar onun gözlərinə sancıldı və kirpiklərinin arasına doldu. O nəyi isə xəyalında xeyli ölçüb-biçdi və nəhayət, astadan diiləndi:
+Molla Sadıq təsbehini qoluna keçirib xeyli saqqalını tumarladı. Gözlərini qıyıb lampaya baxdı. Çırağın fitilindən ox kimi uzanan ziyalar onun gözlərinə sancıldı və kirpiklərinin arasına doldu. O nəyi isə xəyalında xeyli ölçüb-biçdi və nəhayət, astadan dilləndi:
 
 – Yaxşı, mən sənə nə kömək edə bilərəm?
 

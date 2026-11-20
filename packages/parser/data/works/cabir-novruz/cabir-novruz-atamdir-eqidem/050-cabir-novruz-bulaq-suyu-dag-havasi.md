@@ -38,7 +38,7 @@ Bulaq suyu, dağ havası.
 
 Zirvələrin başı qarlı,
 Meşələrin içi barlı,
-Ay kökünə etibarllı,
+Ay kökünə etibarlı,
 Bulaq suyu, dağ havası.
 
 Yoxuş yoran çağım hanı?

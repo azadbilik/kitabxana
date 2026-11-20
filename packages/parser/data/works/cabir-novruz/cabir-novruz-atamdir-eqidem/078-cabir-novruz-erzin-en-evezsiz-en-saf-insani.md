@@ -24,7 +24,7 @@ O evi, eyvanı, İbrahim dayı.
 
 Bir bağın vardı ki, çiçəkdi, güldü,
 Yazda açılırdı, qışda gülürdü.
-Gördüm meyvələrin sankai ölüydü,
+Gördüm meyvələrin sanki ölüydü,
 Bərk qaraldı, İbrahim dayı.
 
 Təzə mənzilinə düşdü güzarım,
@@ -44,5 +44,5 @@ Yoxdu bir nöqsanın, İbrahim dayı.
 
 Qeyrət insanıydın, insaf insanı,
 Allah insanıydın, savab insanı.
-Ərzin ən əvəfsiz, ən saf insanı,
+Ərzin ən əvəzsiz, ən saf insanı,
 Ən bədbəxt insanı, İbrahim dayı…

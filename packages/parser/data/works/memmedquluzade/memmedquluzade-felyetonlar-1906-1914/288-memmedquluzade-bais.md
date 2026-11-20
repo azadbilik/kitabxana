@@ -23,4 +23,4 @@ Yoxsa bu işlər zarafat deyil, hər birinin bir səbəbi var. Və bir də bunu 
 
 *Cırcırama*
 
-*“Molla Nəsrəddir”, 14 fevral 1910, №7*
+*“Molla Nəsrəddin”, 14 fevral 1910, №7*

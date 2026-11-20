@@ -26,7 +26,7 @@ Bu torpağı addım-addım,
 Çoxu da «ağ günə» çatdı,
 Sahibi-iqtidar oldu…
 
-Xalqım yurd-yuvasəz qaçaq,
+Xalqım yurd-yuvasız qaçaq,
 Şuşam yad əllərdə dustaq,
 Ondan sonra papaq qoymaq,
 Hər bir erkəyə ar olsun…
@@ -45,7 +45,7 @@ Bu ən müşkül azar oldu…
 Möhtəkirlər ordu-ordu,
 Alverçilər tutub yurdu,
 Dükanlardan qala qurduq,
-Azəröaycan bazar oldu…
+Azərbaycan bazar oldu…
 
 böyükAllah, dahiAllah,
 dözmək olmur daha,allah,

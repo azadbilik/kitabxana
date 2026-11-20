@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Bu axır vaxtlarda cəmi müsəlman qəzetlərində müsəlman qardaşların gözünə bir belə söz sataşıb: “Qoqol”.
 
-İndi müsəlman qardaşlar oxuyub bildilər ki, Qoqol bir məşhur rus yazıçısının adıdır; bildilər ki, bu yazıçı yüz il bundan irəli anadan olub; bildilər ki, məzhəkənəvislikdə bu şəxsə bərabər Rusiyada hələ bir kəs tapılmayıb; bildilər ki, Qoqolun xidməti rus mətbuatına və rus millətinə o dərəcədə olub ki, mərhumın doğulmağının yüzilliyini Rusiyada kəndlərdə də muciklər eşidiblər.
+İndi müsəlman qardaşlar oxuyub bildilər ki, Qoqol bir məşhur rus yazıçısının adıdır; bildilər ki, bu yazıçı yüz il bundan irəli anadan olub; bildilər ki, məzhəkənəvislikdə bu şəxsə bərabər Rusiyada hələ bir kəs tapılmayıb; bildilər ki, Qoqolun xidməti rus mətbuatına və rus millətinə o dərəcədə olub ki, mərhumun doğulmağının yüzilliyini Rusiyada kəndlərdə də muciklər eşidiblər.
 
 İndi mənim fikrimcə bir belə şey gəlir: söz yox, Köçərli cənablarının açıq və mənalı məqalələrindən, Üzeyir cənablarının şirin tərcümələrindən və qeyri yazıçılarımızın Qoqol barəsində verdikləri məlumatdan oxucularımızın həmin yazısını bir növ tanıdılar və bəlkə yaxşı tanıdılar; amma mən bunu istəyirəm deyəm ki, yenə bununla belə, yəni bu yazı-pozuların varlığı ilə, rus dilini bilməyən oxucularımız indi hələ yenə bilmirlər ki, bu yazıçının adı nədir. Məsələn, yazıçılarımız yazıblar “Qoqol” və elə xəyal eləyiblər ki, bu sözü cəmi müsəlmanlar o cür oxuyacaq, necə ki, mərhumun elə əsl adıdır.
 

@@ -155,7 +155,7 @@ Oxuyurdu astadan.
 Kişi susub bu zaman,
 Birdən dedi: - Ora bax!
 -O ki bizim gədədir!
--Bura çagır oğlunu...
+-Bura çağır oğlunu...
 ...Bala, bayaqkı nədir?
 Oxu görək bir onu...
 
@@ -190,7 +190,7 @@ Xallar vurdu, oxudu.
 -Bacı, oğlun oğuldur,
 Musiqi təbi vardır.
 Sənətkar olacaq bu,
-Oglunuz bəxtiyardır.
+Oğlunuz bəxtiyardır.
 Bacı, inanın mənə,
 Musiqi məktəbinə
 Göndəriniz uşağı.
@@ -980,7 +980,7 @@ Nigar Azad deyib, Azaddan çalır,
 Qəmər qəmli-qəmli xəyala dalır.
 Söyləyir: - Rayona gedəndən bəri,
 Olubdur bir nəğmə dilim əzbəri:
-O, kimə xoş cəlməz, söylə bir kimə?
+O, kimə xoş gəlməz, söylə bir kimə?
 Sən eşitməmisən?
 Mənə tanışdır.
 -Məncə, belə nəğmə az yaranmışdır.

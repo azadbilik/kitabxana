@@ -140,7 +140,7 @@ O vaxt susardılar xeyirdə, şərdə,
 O zaman evlərdə, idarələrdə
 Qara kabus kimi gəzərdi şübhə.
 Yaman yeyin idi şübhənin atı,
-Hamımiz qul idik, o, bəydi ancaq.
+Hamımız qul idik, o, bəydi ancaq.
 Birinin birinə münasibəti
 Şübhəydi,
 şübhəydi,
@@ -371,7 +371,7 @@ Yanır hədəfini düzgün bəlləyən
 Açıq məhəbbətim, açıq nifrətim.
 Yanır oxucuya həqiqət deyən
 Riyasız, boyasız sözüm, söhbətim.
-Dünyadan dünyaya gileyim yanir,
+Dünyadan dünyaya gileyim yanır,
 Yanan şeirlərə ürəyim yanır.
 
 Yanır, yanğısıyla məni yandırır,
@@ -640,7 +640,7 @@ Ehkamlar yaratdı, bütlər yaratdı.
 Apardı dalınca şüarlar bizi,
 Kütləşdi beynimiz, hissimiz tamam.
 Aldı əlimizdən düşüncəmizi
-Zülmün, istıbdadın maskası - ehkam!
+Zülmün, istibdadın maskası - ehkam!
 
 Müstəbid dəyişdi tariximizi,
 Biz gah midiyalı, gah filan olduq.

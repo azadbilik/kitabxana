@@ -16,7 +16,7 @@ Kəndin ortasındakı təpədə, iri tut ağacının kölgəsində, böyük bir 
 
 İndi də camaat böyük maraq və intizarla buraya toplaşmışdı. Üç gündən bəri şənliyə yayılan söz-söhbətin əslini öyrənmək və kəndi dolaşan o "keçisaqqal rus"un haradan gəldiyini və nə istədiyini bilmək həvəsi ürəkləri bürümüşdü. Kənd arasında dolaşan söhbət çoxlarını çaşbaş salmışdı. Molla Sadığın məsciddə dediyi sözlər adamları ehtiyatlandırmışdı. Təpə arı yuvası kimi qaynayırdı.
 
-Cahandar ağa da burada idi. O, atını çidarlayıb otlağa ötürmüşdü. Özü isə kürəyini tut ağacına söykəyərək domuşub oturmuş, tüfəngini də dizinin üstünə qoyub dirsəklənmişdi. Oğlu Şamxalın hadisəsindən sonra camaat arasına birinci dəfə çıxdığından sıxılırdı. Gəmiçi Qocanın da burada olması onu lap darıxdırırdı. Nə qədər çalışsa da bacarmır, kənardaca torpağın üstə bardaş qurub oturan kişini gözaltı süzürdü- Gəmiçi Qocanın beli lap əyilmişdi. Əynindəki paltar didik-didik olmuşdu. Ağ saqqalının tükləri daraqdan çıxmış yun kimi pilələnmişdi. Cuxura düşmüş gözləri güclə gorünürdü. Cahandar ağa ixtiyarsız -Şamxalı yadına saldı və ürəyində onu yamanladı. "Belin sınsın, fərsiz gör kimnən qohum oldu! Arxasını kimə dayadı! İndi mən nə edim? Qapısına gediləsi deyil ki, beş-on adam yığıb aparasan, el adətincə barışıqlıq eləyəsən. Nə də bir adamlığı var ki, kişi kimi düşmənçilik çəkəsən. Ona əl qaldırmaq heç qeyrətdən deyil. Onsuz da ayaq üstündə ölüb".
+Cahandar ağa da burada idi. O, atını çidarlayıb otlağa ötürmüşdü. Özü isə kürəyini tut ağacına söykəyərək domuşub oturmuş, tüfəngini də dizinin üstünə qoyub dirsəklənmişdi. Oğlu Şamxalın hadisəsindən sonra camaat arasına birinci dəfə çıxdığından sıxılırdı. Gəmiçi Qocanın da burada olması onu lap darıxdırırdı. Nə qədər çalışsa da bacarmır, kənardaca torpağın üstə bardaş qurub oturan kişini gözaltı süzürdü- Gəmiçi Qocanın beli lap əyilmişdi. Əynindəki paltar didik-didik olmuşdu. Ağ saqqalının tükləri daraqdan çıxmış yun kimi pilələnmişdi. Çuxura düşmüş gözləri güclə görünürdü. Cahandar ağa ixtiyarsız -Şamxalı yadına saldı və ürəyində onu yamanladı. "Belin sınsın, fərsiz gör kimnən qohum oldu! Arxasını kimə dayadı! İndi mən nə edim? Qapısına gediləsi deyil ki, beş-on adam yığıb aparasan, el adətincə barışıqlıq eləyəsən. Nə də bir adamlığı var ki, kişi kimi düşmənçilik çəkəsən. Ona əl qaldırmaq heç qeyrətdən deyil. Onsuz da ayaq üstündə ölüb".
 
 O yenidən qudasını saymazyana süzdü. Kişinin məyus və müşkül görkəmi bulud kimi tutulub susması, həmişə şuxluq edib aləmi güldürən Qocanın indi yumaq kimi büzüşməsi Cahandar ağanın da ürəyini ağrıtdı. "Allah kasıba qız verincə başına daş salsa yaxşıdır. İndi bu yazıq neyləsin? Özü də bilir ki, qapısını açıb barışığa gələn olmayacaq", - deyə xəyalından keçirdi.
 
@@ -80,7 +80,7 @@ Molla Sadıq da susub mənalı-mənalı camaatı süzdü. Onun təsbehi daha da 
 
 – Acığın tutmasın, ay Molla Sadıq, - səhərdən söhbətə qulaq asan Gəmiçi Qoca astaca dilləndi. - Nəfəsin ağırdır. Uşaqlar səndən heç nə öyrənə bilmirlər. Elə bizim Çərkəz də üç-dörd il ayaq döydü, amma bir şey çıxmadı.
 
-– Demək, Allah-taala özü sizi sirrinə vaqif elemək istəmir.
+– Demək, Allah-taala özü sizi sirrinə vaqif eləmək istəmir.
 
 – Allah-taalanın burada nə işi var, ay molla?
 
@@ -146,7 +146,7 @@ Aleksey Osipoviç Əhmədin qolundan çəkib geri dartdı. Özü qabağa yeridi.
 
 – Biz sizin xeyriniz üçün çalışırıq. Bizə kömək etmək əvəzinə molla Sadığın fitvasına nahaq uyursunuz.
 
-– İndi də mollamıza sataşırsan? - deyə bayaqkı xəncərli kişi onun sozünü kəsdi. - Əlim-ayağım dəyməmiş rədd ol burdan!!!
+– İndi də mollamıza sataşırsan? - deyə bayaqkı xəncərli kişi onun sözünü kəsdi. - Əlim-ayağım dəyməmiş rədd ol burdan!!!
 
 – Aleksey Osipoviç, nahaq yerə fitva verirsiniz, getsəniz məsləhətdir.
 
@@ -172,7 +172,7 @@ Onlar tərpənmədilər. Cahandar ağa çaxmağı hərləyərək gülləni lül�
 
 Adamlar qımışdılar. Addım-addım geri çəkilib gözlərini Cahandar ağaya zillədilər. Nə edəcəklərini bilmədən tərəddüd içində dayandılar. Bunu hiss edən Cahandar ağa da səsinin ahəngini dəyişib, məzəmmətə keçdi:
 
-– Adam bir iş görəndə fikirləşər. Hər yetənin sözünə baxb toy toğlusu kimi ortalığa düşməz. Bir də, qonağa əl qaldırmazlar.
+– Adam bir iş görəndə fikirləşər. Hər yetənin sözünə baxıb toy toğlusu kimi ortalığa düşməz. Bir də, qonağa əl qaldırmazlar.
 
 Molla Sadıq gördü ki, bir az bundan əvvəl irəli atılanlar geri çəkildilər. Cahandar ağanın sözlərini eşidib susdular. O özünün məğlub olduğunu hiss etsə də, sözündən dönmək istəmədi. Sinəsini gərib, Cahandar ağanın üstünə qabardı.
 

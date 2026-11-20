@@ -1153,7 +1153,7 @@ Kitabın əvvəlinci hissəsi
 
 8. Təbriz bazarında satılan çörəyin bir hissəsi un və üç hissəsi torpaqdır. Bu hesabla Azərbaycan vilayətinin çölləri və dağları neçə ilin müddətində fövt ola bilər?
 
-9. Ayda Qafqazda bir milyon müsəlman və erməni bizə ömrünü bağışlayır. Bu hesabla beş ildən sonra Qafqazda neçə müsləman və erməni qalar?
+9. Ayda Qafqazda bir milyon müsəlman və erməni bizə ömrünü bağışlayır. Bu hesabla beş ildən sonra Qafqazda neçə müsəlman və erməni qalar?
 
 10. Əkinçi əkdiyi buğdanın otuzdan on hissəsini verir mülkədara, on hissəsini verir molla və dərvişə (yuxu təbiri, qızdırma duası və qeyri zəhmətlərin əvəzində), on hissəsini də qlava və pristava rüşvət və divan xərci. Əkinçinin özünə nə qədər buğda qaldı?
 
@@ -1446,7 +1446,7 @@ Bir şəhrdə bax min iki yüz xanə, utanma!
 *Bəni-növi-bəşər, sən bəs neçün fəryadə yetmirsən?*
 *Şaki*
 
-Məcmuəmizin nəşrini başlayandan indiyə kimi idarəmizə Bakıdan və İrəvandan yüz on altı kağız gəlib. Kağızların başında yazılıb: “İran konsulxanasından ştkayət” və axırında imza qoyulub: “İran əhli”, yainki “İran fəhləsi”. Bu kağızların heç birini biz çap etməmişik, necə ki oxucularımıza məlumdur və çap etməyəcəyik.
+Məcmuəmizin nəşrini başlayandan indiyə kimi idarəmizə Bakıdan və İrəvandan yüz on altı kağız gəlib. Kağızların başında yazılıb: “İran konsulxanasından şikayət” və axırında imza qoyulub: “İran əhli”, yainki “İran fəhləsi”. Bu kağızların heç birini biz çap etməmişik, necə ki oxucularımıza məlumdur və çap etməyəcəyik.
 
 Çap etməməyimizin iki səbəbi var:
 
@@ -2130,7 +2130,7 @@ Yoldaşımız “Hərdəmxəyal” bu barədə bir söz danışmaq istəmədi v�
 
 Qaldı “Lağlağı”, bu evi xarab başladı: Başağrısı olmasın, bir gün var idi, bir gün yox idi, bir İrəvan şəhəri var idi, orada bir darülmüəllimin var idi, o darülmüəlliminin bir rəisi var idi ki, adına Miropyev deyirdilər. Haman Miropyev indi Qori darülmüəlliminin rəisidir.
 
-Cənab Miropyev, başağrısı olmasın on iki il bundlan irəli bir kitab yazıb və haman kitabında deyir ki, “Mən müsəlman millətini çox, çox, çox dost tuturam, amma bircə işləri xoşuma gəlmir. “Namazı müsəlman dilində qılırlar, rus dilində qılmırlar”.
+Cənab Miropyev, başağrısı olmasın on iki il bundan irəli bir kitab yazıb və haman kitabında deyir ki, “Mən müsəlman millətini çox, çox, çox dost tuturam, amma bircə işləri xoşuma gəlmir. “Namazı müsəlman dilində qılırlar, rus dilində qılmırlar”.
 
 Odur ki, cənab rəis məhz müsəlmanları istəməklik yolunda o vədədən indiyə kimi şəriət müəllimlərinə şəriəti müsəlman dilində öyrətməyi qədəğan edibdir.
 
@@ -2508,7 +2508,7 @@ Dedim: – Kimdir Ərfəüddövlə?
 
 Cavab verdi ki, “bu vücud dövləti-əliyyeyi-İranın İstambul səfirikəbiridir”.
 
-Dedim: – Çox əcəb, bunun mətləbə nə dəxli var? İstanmbul hara, Qafqaz və Rusiyada işləyən İran fəhlələri hara?
+Dedim: – Çox əcəb, bunun mətləbə nə dəxli var? İstanbul hara, Qafqaz və Rusiyada işləyən İran fəhlələri hara?
 
 Yoldaşım başladı nağıl eləməyə:
 
@@ -2638,7 +2638,7 @@ Oruc yeyənlərin ikinci bir qismi özgə cürdürlər. Zalım oğlu zalımlar b
 
 @@ 088
 
->>bir parası məşədilər və bir parası rus dərsi oxumuş cavanlardır. O ki, rusi oxumuşlardır, bunlar rus tanışlarının evlərinə gedib asanlıq ilə günlərini keçirirdilər. O ki qaldı məşədilər, bunları çoxu bu cür eləyir: bir parası alış-veriş bəhanəsi ilə başlayırlar səfər eləməyə. Məsələn, mənim tanışlarımdan bu saat Tiflisdə on yeddi məşədi var: bunların on ikisi Bakıdan, biri Şamaxıdan, ikisi Naxçıvandan və ikisi İrəvandan gəliblər və rəməzanın ikinci günü hamısı birdən Tiflisə varid olublar. Hərçənd deyirlər ki, gəlmişik mal almağa, amma yəqin edirəm ki, bu qədər xərc çəkib və əhli-əyaldlarını buraxıb Tiflisə gəlməkdə bunların qəsdi məhzh orucluğu Tiflisdə qalıb başa vurmaqdır.
+>>bir parası məşədilər və bir parası rus dərsi oxumuş cavanlardır. O ki, rusi oxumuşlardır, bunlar rus tanışlarının evlərinə gedib asanlıq ilə günlərini keçirirdilər. O ki qaldı məşədilər, bunları çoxu bu cür eləyir: bir parası alış-veriş bəhanəsi ilə başlayırlar səfər eləməyə. Məsələn, mənim tanışlarımdan bu saat Tiflisdə on yeddi məşədi var: bunların on ikisi Bakıdan, biri Şamaxıdan, ikisi Naxçıvandan və ikisi İrəvandan gəliblər və rəməzanın ikinci günü hamısı birdən Tiflisə varid olublar. Hərçənd deyirlər ki, gəlmişik mal almağa, amma yəqin edirəm ki, bu qədər xərc çəkib və əhli-əyaldlarını buraxıb Tiflisə gəlməkdə bunların qəsdi məhz orucluğu Tiflisdə qalıb başa vurmaqdır.
 
 Bu qisim oruc yeyənlərin çoxusu yalandan özlərini naxoşluğa vurub yorğan-döşəyə düşürlər. Adam göndərirlər urus həkimi gəlir və naxoşdan soruşur ki, nəyin ağrıyır? Naxoş cavab verir ki, ürəyim ağrıyır. Həkim deyir ki, gərək filan davanı gündə üç dəfə yeyəsən. Naxoş yalandan cavab verir ki, yeyə bilmənəm, orucam. Həkim “çto, çto?” deyib başını bulayır və deyir ki, davanı yeməsən ölərsən. Naxoşun anası düşür təşvişə və axırda aş pişirib öz əlilə yedirdir oğluna.
 
@@ -2656,7 +2656,7 @@ Bir qədər söhbətdən sonra yağışın səsi kəsilir və molla çıxıb gö
 
 Bunlar hamısı keçəndən sonra oruc yeməyin müsəlmanlar üçün tək bircə xeyri var: həmişə ramazan ayında müsəlmanlar bir-birindən baxəbər olurlar: məlumdur ki, oruc yeyən həmişə gözdə-qulaqda olur ki, bir molla ya hacı görəndə ehtiyatlı olsun və oruc yeməyini büruzə verməsin. Molla və hacılar da həmişə güdürlər ki, görsünlər kim orucunu yeyir. Demək ki, bunlar onları axtarır, onlar bunları. Aşkardır ki, bu işlərin hamısı bais olur müsəlmanların ittihad və ittifaqına. Orucluqda heç olmaz ki, bir cavan o biri cavanın yanına gəlib soruşmasın: “Həsən bəy, orucsan?”. “Əlbəttə orucam”. “Ay sən öləsən”. “Vallah orucam”. “Ay meyidini görüm”.
 
-Hətta Tiflisdə Qolovinski küçədə də bu cür söhbətləri eşitmək həmişə mümkündür. Görürsən, bir gürcü bir gürcü ilə danışır: “Vaso, bu gün bizim keşişlərin məclisində idareyi-ruhaniyyəmizin barəsində filan keşişin nitqi gözəl idisə də, mən onuün bəzi mülahizələrinə şərik deyiləm, çünki müşariləeyhin rəyinin bir para nitqləri hürriyətietiqadi-vicdanə ziddir” Amma bunların yanında iki müsəlman durub danışırlar: “Bu gün saat onda getdim “Bilviyo” bağında ləzzətnən zakuska elədim, heç bir müsəlman yox idi, abedi də Nikolay Pavloviçgildə elədim”. O biri cavan cavab verir: “Adə, ay bişüur, belə gödək günlərdə oruc tutmağa nə var: Vallah, mən bir tikə də acmamışam, amma bir papiros çəksəydim ölməzdim…”.
+Hətta Tiflisdə Qolovinski küçədə də bu cür söhbətləri eşitmək həmişə mümkündür. Görürsən, bir gürcü bir gürcü ilə danışır: “Vaso, bu gün bizim keşişlərin məclisində idareyi-ruhaniyyəmizin barəsində filan keşişin nitqi gözəl idisə də, mən onun bəzi mülahizələrinə şərik deyiləm, çünki müşariləeyhin rəyinin bir para nitqləri hürriyətietiqadi-vicdanə ziddir” Amma bunların yanında iki müsəlman durub danışırlar: “Bu gün saat onda getdim “Bilviyo” bağında ləzzətnən zakuska elədim, heç bir müsəlman yox idi, abedi də Nikolay Pavloviçgildə elədim”. O biri cavan cavab verir: “Adə, ay bişüur, belə gödək günlərdə oruc tutmağa nə var: Vallah, mən bir tikə də acmamışam, amma bir papiros çəksəydim ölməzdim…”.
 
 Müsəlman aləmini indi bu halətdə görürük, sabah nə halətdə görəcəyik, onu da Allah bilir.
 
@@ -3108,7 +3108,7 @@ Saxla yadında görək hacı, bəyü xanın nədir?
 
 Bir gün var idi, bir gün yox idi, bir Tiflis var idi və bu Tiflisdə hər bir şey var idi, bircə mədrəseyi-ruhaniyyə yox idi və bu Tiflisdə millət dərdi çəkənlər də var idi və bu millət dərdi çəkənlər istədilər ki, mədrəseyi-ruhaniyyə də Tiflisdə olsun və Tiflisdən savayı bir Bakı da var idi və bu Bakıda çox pul da var idi.
 
-Bir gün bu millət dərdi çəkənlər Bakıya gedib dedilər: Bizim Tiflis gözəl yerdi və Tiflisdə Şeytanbazar adında bir gözəl müsəlman məhəlləsi var və orada hər bir şey var: amma bircə mədrəseyiruhaniyyə yoxdu. Gəlin pul verin, orada bir mədrəseyi-ruhaniyyə açaq və bakılılar dedilər ki, baş üstə və bakılılar altmış min manat vədə elədilər və on min manatını qabaqca verdilər və komissiya təyin olundu və yer alındı və inciner çağrıldı və incinerə iki min manat verildi ki, mədrəsənin planını çəksin və iki min manat da girdi inciner rəfiqimizin cibinə və plan girdi millət dərdi çəkənlərin cibinə və on min manat girdi padşahlıq xəzinəsinə və o xəzinədə yüz on beş min manat mövqfat pulu da rəxtixab içində rahat yatırdı və bu on min manat da gedib girdi haman 115 min manatın rəxtixabına və başladılar bir yerdə yatmağa, necə ki, bizlərdə bir yorğan-döşək içində bir ana yatar, bir ata yatar, bir əmcək uşağı yatar, üç yaşında Gülsüm yatar, bir yeddi yaşında Heydər yatar, bir 11 yaşında Murad yatar, bir on dörd yaşında Qurban yatar, sonra on doqquz yaşında Cəfər gəlib yorğanın bir ucunu qovzar və paltarını soyunmamış girər şərakətli yorğan-döşəyə. Xəzinə də bir cüt rəxtixabdı. Orada mövqufat pulu da yatar, mədrəseyiruhaniyyə pulu da yatar, məscid pulu da yatar, məktəb pulu da yatar, orada daha bilmirəm nələr yata bilər…
+Bir gün bu millət dərdi çəkənlər Bakıya gedib dedilər: Bizim Tiflis gözəl yerdi və Tiflisdə Şeytanbazar adında bir gözəl müsəlman məhəlləsi var və orada hər bir şey var: amma bircə mədrəseyiruhaniyyə yoxdu. Gəlin pul verin, orada bir mədrəseyi-ruhaniyyə açaq və bakılılar dedilər ki, baş üstə və bakılılar altmış min manat vədə elədilər və on min manatını qabaqca verdilər və komissiya təyin olundu və yer alındı və inciner çağrıldı və incinerə iki min manat verildi ki, mədrəsənin planını çəksin və iki min manat da girdi inciner rəfiqimizin cibinə və plan girdi millət dərdi çəkənlərin cibinə və on min manat girdi padşahlıq xəzinəsinə və o xəzinədə yüz on beş min manat mövqufat pulu da rəxtixab içində rahat yatırdı və bu on min manat da gedib girdi haman 115 min manatın rəxtixabına və başladılar bir yerdə yatmağa, necə ki, bizlərdə bir yorğan-döşək içində bir ana yatar, bir ata yatar, bir əmcək uşağı yatar, üç yaşında Gülsüm yatar, bir yeddi yaşında Heydər yatar, bir 11 yaşında Murad yatar, bir on dörd yaşında Qurban yatar, sonra on doqquz yaşında Cəfər gəlib yorğanın bir ucunu qovzar və paltarını soyunmamış girər şərakətli yorğan-döşəyə. Xəzinə də bir cüt rəxtixabdı. Orada mövqufat pulu da yatar, mədrəseyiruhaniyyə pulu da yatar, məscid pulu da yatar, məktəb pulu da yatar, orada daha bilmirəm nələr yata bilər…
 
 Bəli, mətləbdən uzaq düşdük. On min manat da girdi 115 min manatın yanına. Günlərin bir günü bu pulların hamısı verildi, prosent kağızları alındı, yəni bank biletləri alındı.
 
@@ -3297,7 +3297,7 @@ Və sonra da eşitdim ki, anası Səkinəni genə bir xubunca döyüb.
 
 Ay hacı, qadan alım, bir gün mən genə sənin akoşkavun qabağından keçirdim və sən genə oxuyurdun.
 
-Yalın ki, ağardı sənə müşatqi-zən olmaz,
+Yalın ki, ağardı sənə müştaqi-zən olmaz,
 Rəftarına ya söhbətinə heç dözən olmaz,
 Başdan ayağa yaşilü alə bəzən, olmaz,
 Bostanda çürür, rəğbət edib, bir üzən olmaz,
@@ -3484,7 +3484,7 @@ Buradan bir haşiyə çıxaq:
 
 Hərdənbir oturaram və papağımı qabağıma qoyub fikirləşərəm və öz-özümə deyərəm: “Ay rəhmətliyin oğlu, axı bu müsəlmanlardan nə istəyirsən?”, sonra öz özümə cavab verərəm ki, “vallah heç özüm də bilmirəm ki, nə istəyirəm”.
 
-Məsələn, dünən yenə Misirdə çıxan “Sancaq” qəzetinin 67-ci nömrəsini qabağıma qoyub oxuyurdum, orada bir belə məqalə var idi: “Milləti-islamiyyənin inhitatı”; yəni: “Müsəlmanların yüxarıdan guruppultu ilə aşağa düşməyi”.
+Məsələn, dünən yenə Misirdə çıxan “Sancaq” qəzetinin 67-ci nömrəsini qabağıma qoyub oxuyurdum, orada bir belə məqalə var idi: “Milləti-islamiyyənin inhitatı”; yəni: “Müsəlmanların yuxarıdan guruppultu ilə aşağa düşməyi”.
 
 Bu məqaləni oxuyandan sonra, yenə öz-özümə dedim ki, axı ay rəhmətliyin oğlu, bu müsəlmanlardan nə istəyirsən? Sonra yenə özözümə dedim: “Vallah bilmirəm, nə istəyirəm”.
 
@@ -3856,7 +3856,7 @@ Məsələn, “İtqapan” kəndinin müəllimi – Mirzə Heydərdir ki, əvvə
 
 Hələ bunlar qalsın…
 
-Demək ki, müəllim tapılmır; ondan ötrü ki, seminariyadan üç ildə hıqqana-hıqqana bir müəslman müəllimi çıxır.
+Demək ki, müəllim tapılmır; ondan ötrü ki, seminariyadan üç ildə hıqqana-hıqqana bir müsəlman müəllimi çıxır.
 
 Yenə Rusiyada ildə bir Duma çıxır, amma burada ildə bir müəllim də çıxmır. Ondan ötrü ki, seminariya doludur sarı-sarı rus uşaqları ilə. Allah Miropyev direktorun vücudunu bibəla eləsin ki, neçə il bundan irəli İrəvan seminariyasında direktor idi. Bir müsəlman uşağı gəlib ərizə verərdi ki, mən istəyirəm seminariyaya girəm, cənab Miropyev əyilib diqqətlə baxardı cavanın üzünə və ərizəsini qaytarıb verərdi və deyərdi: bala, səni götürə bilmərəm; ondan ötrü ki, qaşın qaradır.
 
@@ -3894,7 +3894,7 @@ Meşədə gördüklərim
 
 Bir gün Bakıda bir evin qabağından keçirdim – gördüm bir belə səs gəlir:
 
-Ay ağa aman günüdür, məni bağışla, yazığam... Evin qapısına baxıb gördüm ki, qapının yuxarısında yazılıb: “Müsəlman məktəbi”. Mən əvvəl elə bildim ki, əlbət uşaqların birinin ayaqlarını qoyublar Molla Şükürun falaqqasına. Girdim içəri. Nə gördüm? Gördüm ki, bir zorba kişi yapışıb bir zəif kişinin yaxasından və çəkir küçəyə və iyirmi-otuzadək adam tökülüb bu zəif kişini döyürlər. Bir az da qabağa yeridim ki, görüm bu adamlar bu biçarədən nə istəyirlər. Bir şey başa düşmədim, ancaq bunu eşitdim ki, zorba kişi biçarənin peysərindən vura-vura deyir: “Bayıra çıx, filan-filan şüdə, bizə müsəlman müəllim lazım deyil”. Bu biçarə də elə hey yalvarır ki, ay qardaşlar, rəhminiz gəlsin mənə, qoyun çıxım gedim. Amma əl çəkirlərmi? Kötək kötək üstündən gəlir... Müxtəsər, yazıq kişini saldılar küçəyə”.
+Ay ağa aman günüdür, məni bağışla, yazığam... Evin qapısına baxıb gördüm ki, qapının yuxarısında yazılıb: “Müsəlman məktəbi”. Mən əvvəl elə bildim ki, əlbət uşaqların birinin ayaqlarını qoyublar Molla Şükürün falaqqasına. Girdim içəri. Nə gördüm? Gördüm ki, bir zorba kişi yapışıb bir zəif kişinin yaxasından və çəkir küçəyə və iyirmi-otuzadək adam tökülüb bu zəif kişini döyürlər. Bir az da qabağa yeridim ki, görüm bu adamlar bu biçarədən nə istəyirlər. Bir şey başa düşmədim, ancaq bunu eşitdim ki, zorba kişi biçarənin peysərindən vura-vura deyir: “Bayıra çıx, filan-filan şüdə, bizə müsəlman müəllim lazım deyil”. Bu biçarə də elə hey yalvarır ki, ay qardaşlar, rəhminiz gəlsin mənə, qoyun çıxım gedim. Amma əl çəkirlərmi? Kötək kötək üstündən gəlir... Müxtəsər, yazıq kişini saldılar küçəyə”.
 
 Bekker bizə göndərdiyi axırıncı xəbər həmin bu xəbərdir ki, çap etməmişdik. Hərçənd Qafqaz meşələrində olan işlər heç Amerika meşələrində də ola bilməz, amma genə ağla sığışmır bir nəfər aciz və fəqir və həqir və müsəlman aləmində vücudu bir qarışqa mənzələsində olan müəllimin üstünə iyirmi-otuz əliçomaqlı tökülüb döyə-döyə məktəbdən sala eşiyə.
 
@@ -4124,7 +4124,7 @@ Müsəlman vəkillərinə nəsihət
 
 Ey dumada olan müsəlman vəkilləri, and verirəm sizi öz insafınıza, bircə dəqiqəliyə mənim bu sözlərimə qulaq verin və qoca Mollanın nəsihətini qəbul edin.
 
-Eşitmişəm ki, duma çalışır Rusiyada məhzəb azadlığı olsun; yəni hər bir kəs hansı məzhəbdən hansı məzhəbə istəsə keçə bilsin və eşidirəm ki, hökumət də istəyir buna razı olsun və bunu da eşidirəm ki, siz, yəni müsəlman vəkilləri də buna razısınız. Amma mən bircə bunu bilmirəm ki, siz bu işə razılıq verəndə ağlınız harada idi?
+Eşitmişəm ki, duma çalışır Rusiyada məzhəb azadlığı olsun; yəni hər bir kəs hansı məzhəbdən hansı məzhəbə istəsə keçə bilsin və eşidirəm ki, hökumət də istəyir buna razı olsun və bunu da eşidirəm ki, siz, yəni müsəlman vəkilləri də buna razısınız. Amma mən bircə bunu bilmirəm ki, siz bu işə razılıq verəndə ağlınız harada idi?
 
 Kişi, nə qayırırsınız?! Sizin ki, dünyadan xəbəriniz yoxdur, nə ixtiyarınız var özünüzü müsəlman vəkili hesab edib, bu dərəcədə bizə xəyanət edəsiniz?! Yəni bilirsinizmi ki, məzhəb azadlığı nədir?
 
@@ -4180,7 +4180,7 @@ Bəs bu neçə yüz ilin müddətində bu qədər mövqufatın hədsiz mədaxili
 
 @@ 151
 
-Təfavüt burasındadır ki, Tiflis mövqufatının mədaxili keçdi bir rusun əlinə və rus ola-ola haman mədaxili yığıb xəzinədə saxladı ki, axırda məscid tikdirən vaxtda lazım olsun. Amma Ərdəbil şeyxinin mövqufatı keçdi bir boynu yoğun xüddambaşının əlinə, yəni bir müsəlmanın əlinə və bu müsləman, yəni xuddambaşı bir ucdan başladı məscidin bimisl qalısını ingilislərə üç min manata satmağa, bir ucdan da barama qurdu kimi daraşıb mövqufata, başladı yeməyə.
+Təfavüt burasındadır ki, Tiflis mövqufatının mədaxili keçdi bir rusun əlinə və rus ola-ola haman mədaxili yığıb xəzinədə saxladı ki, axırda məscid tikdirən vaxtda lazım olsun. Amma Ərdəbil şeyxinin mövqufatı keçdi bir boynu yoğun xüddambaşının əlinə, yəni bir müsəlmanın əlinə və bu müsəlman, yəni xuddambaşı bir ucdan başladı məscidin bimisl qalısını ingilislərə üç min manata satmağa, bir ucdan da barama qurdu kimi daraşıb mövqufata, başladı yeməyə.
 
 Yox, vallah, sağ olsun rus hökuməti.
 
@@ -4306,7 +4306,7 @@ Yəni, doğrudan da bu da bir işdi ki, qələmi al əlinə, yetənə yet, yetm�
 
 @@ 156
 
-Və bir də bunun axırı nə olacaq? Bir gün ona sataşarsan, sabah bunun üstünə gülərsən, o biri gün ayrısına dolaşarsan və lap axırda da dünyanı özünə düşmən elərsən və lap axırda da bircə nəfər də müştəri tapmazsan və milyonçü da olsan, axırda qəzetini bağlarsan.
+Və bir də bunun axırı nə olacaq? Bir gün ona sataşarsan, sabah bunun üstünə gülərsən, o biri gün ayrısına dolaşarsan və lap axırda da dünyanı özünə düşmən elərsən və lap axırda da bircə nəfər də müştəri tapmazsan və milyonçu da olsan, axırda qəzetini bağlarsan.
 
 Doğrudan da belədi; görürsən bir tərəfdən nuxalılar bizdən inciyir ki, niyə yazırsan “nuxalıların qiraətxanası açılandan qiraətxananın qəzetləri və stolları hambalların dalından yerə düşür – Bir ay bura köçür, bir ay o biri evə köçür”.
 
@@ -5162,7 +5162,7 @@ Amma dünya xəlq olunandan şapkalı millətlər içində belə işlər baş ve
 
 Hələ bunlar bir saatlığa qalsın kənara.
 
-Kimdirlər bizim balaca uşaqların dalına düşənlər, bunların dərddindən ölənlər, bunların yolunda öz evlərindəki kəbinli övrətlərini gecələr evlərdə kişisiz qoyanlar, məktəb uşaqlarımızın Bakı küçələrində yollarını kəsənlər və bu tövr eşqbazlıqlar üstündə bir-birinin qanını tökən cavanlar?
+Kimdirlər bizim balaca uşaqların dalına düşənlər, bunların dərdindən ölənlər, bunların yolunda öz evlərindəki kəbinli övrətlərini gecələr evlərdə kişisiz qoyanlar, məktəb uşaqlarımızın Bakı küçələrində yollarını kəsənlər və bu tövr eşqbazlıqlar üstündə bir-birinin qanını tökən cavanlar?
 
 Həmin papaqlı qardaşlarımız.
 
@@ -5610,7 +5610,7 @@ Məndən soruşardılar ki, “nədən qorxursan?”
 
 Mən dinməzdim.
 
-Sonra eşitdim ki, İrəvanda, Bakıda, Şuşada, Naxçıvanda, Vladiqafqazda, Gəncədə qeri şəhərlərdə “İrşad”a pul yığırlar. Bu xəbəri eşidəndə həmişə mən yanımda oturanlara deyərdim: “qorxuram”. Məndən soruşardılar ki, “nədən qorxursan?”.
+Sonra eşitdim ki, İrəvanda, Bakıda, Şuşada, Naxçıvanda, Vladiqafqazda, Gəncədə qeyri şəhərlərdə “İrşad”a pul yığırlar. Bu xəbəri eşidəndə həmişə mən yanımda oturanlara deyərdim: “qorxuram”. Məndən soruşardılar ki, “nədən qorxursan?”.
 
 Mən diqnməzdim.
 
@@ -6147,7 +6147,7 @@ Bir neçə dəfə qəzetlərdə oxudum ki, “Füyuzat”ın bağlanmağına sə
 
 * * *
 
-Raviyani-əxbar və naqilani-şəkkər-şirin göftar belə rəvayət edirlər ki, bir gün var idi, bir gün yox idi, yer üzündə Allahdan başqa heç kəs yox idi; ancaq bir Osmanlı hökuməti var idi, bir də İran hökuməti. İran hökumətində məşrutə var idi, amma Osmanlı hökumətində yox idi. Osmanlı hökuməti baxıb gördü ki, İranın məşrutəsi camaatı bir az yoldan çıxardır; məsələn, imam cümələrin anbarlarını boşaldırlar, min illik xanları yerindən oynadırlar, Urmiyanın müctəhidi Hüccətül-islamı şəhərdən qovurlar, padşahdan hesab-kitab istəyirlər və qoymurlar vəzirlər məmləkəti özbaşlarına satsınlar, – bu işləri görəndən sonra Osmanlı padşahı öz-özünə fikirləşdi və dedi ki, vallah, bunun heç çarəsi yoxdur, gərək qoymayam İranda məşrutiyyət başa gələ və bizim məmləkətə keçə.
+Raviyani-əxbar və naqilani-şəkkər-şirin göftar belə rəvayət edirlər ki, bir gün var idi, bir gün yox idi, yer üzündə Allahdan başqa heç kəs yox idi; ancaq bir Osmanlı hökuməti var idi, bir də İran hökuməti. İran hökumətində məşrutə var idi, amma Osmanlı hökumətində yox idi. Osmanlı hökuməti baxıb gördü ki, İranın məşrutəsi camaatı bir az yoldan çıxardır; məsələn, imam cümlələrin anbarlarını boşaldırlar, min illik xanları yerindən oynadırlar, Urmiyanın müctəhidi Hüccətül-islamı şəhərdən qovurlar, padşahdan hesab-kitab istəyirlər və qoymurlar vəzirlər məmləkəti özbaşlarına satsınlar, – bu işləri görəndən sonra Osmanlı padşahı öz-özünə fikirləşdi və dedi ki, vallah, bunun heç çarəsi yoxdur, gərək qoymayam İranda məşrutiyyət başa gələ və bizim məmləkətə keçə.
 
 Günlərin bir günü Osmanlı qoşunu naqafil, gecənin yarısı, xəlvətcə, hamıdan bixəbər, dinməz-söyləməz İran sərhəddini keçib, töküldü Urmiya vilayətinə və başladı yetim-yesir, ac-uc, lüt-üryan, zəif və məzlum və biçarə İran rəiyyətini qırmağa.
 
@@ -6367,7 +6367,7 @@ Bunu da yadıma salanda, məsələn, Ərfəüddövlə yadıma düşür, Mirzə �
 
 # Salam-məleyk
 
-Axund dadaş, qulluğunuzdan ki, mürəxxəs oldum gəldim İrəvana, orada cənab qazi məclisində sizin təkfirinizə hökmi-qəti verdik. Oradan gəldik Zünuza. O altı ildə ziyarətlərindən məhrum olduğumuza, pirləri ziyarət elədik. Amma Axund dadaş, Zünuz əhli bir iş gördülər ki, heç müsəlmançılığa yaraşmaz. De nə elədilər: cəm oldular məcsidə. Cəmiən övrət və kişi and içib övrət libasını bilmərrə əvəz elədilər, yəni demək olar ki, haman günü 100 top çit satılıb alındı təzə uzun şalvarlıq. Amma… Heyif ki, 100 topun hamısı urus çiti oldu, heç bir qarış da İran çiti satılmadı!!! Bir də ümumən and içdilər ki, bundan sonra vətən bezindən kəfən alsınlar, dəxi firəng malı işlətməsinlər və pirlərə də dəxi vida etsinlər və urus qəndindən İmam Hüseyn ehsanı verməsinlər. O qəndlərin pulundan üsuli-qədim məktəb açsınlar. Qərəz ki, sağ olsun Zünuz. Oradan gəldik Mərəndə, bəli, gəldik Mərəndə, elə ki, gəldik yetişdik Mərəndə, bazara girməmişdən qabaq şəhərə bir günlük yol qalırdı, yəni Mərənddən əcəb və təkəbbür, qəflət, məstlik, piyanlıq, süstlük, nəmnəmənəlik insaniyyətdən savay hər zadlıq iyisi, üfunəti qalxıb Culfada bizi çaldı, belə ki, biz də az qaldıq Mərəndin bəzi ağayanları kimi olaq. Elə ki bazara girdik, əsli müsəlman iyi: tiryək və şirə və Ağa Həmmadın damadının abcu şərab
+Axund dadaş, qulluğunuzdan ki, mürəxxəs oldum gəldim İrəvana, orada cənab qazi məclisində sizin təkfirinizə hökmi-qəti verdik. Oradan gəldik Zünuza. O altı ildə ziyarətlərindən məhrum olduğumuza, pirləri ziyarət elədik. Amma Axund dadaş, Zünuz əhli bir iş gördülər ki, heç müsəlmançılığa yaraşmaz. De nə elədilər: cəm oldular məscidə. Cəmiən övrət və kişi and içib övrət libasını bilmərrə əvəz elədilər, yəni demək olar ki, haman günü 100 top çit satılıb alındı təzə uzun şalvarlıq. Amma… Heyif ki, 100 topun hamısı urus çiti oldu, heç bir qarış da İran çiti satılmadı!!! Bir də ümumən and içdilər ki, bundan sonra vətən bezindən kəfən alsınlar, dəxi firəng malı işlətməsinlər və pirlərə də dəxi vida etsinlər və urus qəndindən İmam Hüseyn ehsanı verməsinlər. O qəndlərin pulundan üsuli-qədim məktəb açsınlar. Qərəz ki, sağ olsun Zünuz. Oradan gəldik Mərəndə, bəli, gəldik Mərəndə, elə ki, gəldik yetişdik Mərəndə, bazara girməmişdən qabaq şəhərə bir günlük yol qalırdı, yəni Mərənddən əcəb və təkəbbür, qəflət, məstlik, piyanlıq, süstlük, nəmnəmənəlik insaniyyətdən savay hər zadlıq iyisi, üfunəti qalxıb Culfada bizi çaldı, belə ki, biz də az qaldıq Mərəndin bəzi ağayanları kimi olaq. Elə ki bazara girdik, əsli müsəlman iyi: tiryək və şirə və Ağa Həmmadın damadının abcu şərab
 
 @@ 234
 
@@ -6425,7 +6425,7 @@ Oxucularımıza məlumdur ki, nemes tacirlərindən Foryer adında bir nəfər a
 
 İnsafdan uzaq olar ki, biz bu barədə bir neçə söz danışmayaq.
 
-Bəli, günlər dolanar, illər gəlib keçər və bizdən sonra gələnlər foryerlərin də ehsanlarını yada salarlar, bizim təlim almış naqqa balıqlarımızın da rəftarını yada salarlar. “Molla Nəsrəddin”in köhnəlmiş və qat yemiş nüsxələrini tapıb oxuyarlar və oxuyandan sonra bu cür deyərlər: “Ar olsun sənə, ay rəhmətlik Molla ki, yazdın, yazdın, yazdın, hər yandan yazdın; avam kərbəlayı və məşədilərdən yazdın, nadan və biçarə mollalardan yazdın, tərbiyəsiz məmurlardan yazdın, amma bizim injenerlərə gələndə onlara nahaq yerə tərəf saxladın və onların millətə olan düşmənçiliyini və xəyanətini gizlətdin. Ar olsun sənə, ay rəhmətlik Molla Nəsrəddin ki, yazdın, sataşdın, dolaşdın, hamıya toxundun, hamının üstünə güldün və hətta, az-çox ehsanları ilə şöhərt tapan tağıyevlərin də adını çəkdin, amma Fərrux bəy kimi intelligent mülkədarlarımızı görə-görə və bunların avam camaata göstərdiyi rəftarı eşidə-eşidə bircə söz yazmadın ki, gələcək üçün bir yadigar olsun”.
+Bəli, günlər dolanar, illər gəlib keçər və bizdən sonra gələnlər foryerlərin də ehsanlarını yada salarlar, bizim təlim almış naqqa balıqlarımızın da rəftarını yada salarlar. “Molla Nəsrəddin”in köhnəlmiş və qat yemiş nüsxələrini tapıb oxuyarlar və oxuyandan sonra bu cür deyərlər: “Ar olsun sənə, ay rəhmətlik Molla ki, yazdın, yazdın, yazdın, hər yandan yazdın; avam kərbəlayı və məşədilərdən yazdın, nadan və biçarə mollalardan yazdın, tərbiyəsiz məmurlardan yazdın, amma bizim injenerlərə gələndə onlara nahaq yerə tərəf saxladın və onların millətə olan düşmənçiliyini və xəyanətini gizlətdin. Ar olsun sənə, ay rəhmətlik Molla Nəsrəddin ki, yazdın, sataşdın, dolaşdın, hamıya toxundun, hamının üstünə güldün və hətta, az-çox ehsanları ilə şöhrət tapan tağıyevlərin də adını çəkdin, amma Fərrux bəy kimi intelligent mülkədarlarımızı görə-görə və bunların avam camaata göstərdiyi rəftarı eşidə-eşidə bircə söz yazmadın ki, gələcək üçün bir yadigar olsun”.
 
 * * *
 
@@ -6529,7 +6529,7 @@ Məktubu oxuyub topladım səbətə, ondan ötrü ki, bunun İrana dəxli yoxdu.
 
 Məktub sahibi yazır: “Dü əncüməni-büzürg ki yeki beismi “Əncüməni-xidmət”, digəri beismi “Əncüməni-fütüvvət” əzüməra və əyan dərhal dər Tehran təşkil şüdə ki zahirən tərəfdari pişrəft məqasidiməşrutə-tələbanənd və batinən onçe ki dər qüvvət və qüdrət darənd əzxatabiyi – məmləkət və bərhəmzədəni-övzai-məclis və həmdəsteyi badüşmənani –vətənkutahi müfərmayənd”.
 
-Kağızı oxyub qoydum kənara, amma genə bilmədim ki, İran nə səbəbə bu günə qaldı.
+Kağızı oxuyub qoydum kənara, amma genə bilmədim ki, İran nə səbəbə bu günə qaldı.
 
 Üçüncü məktubu açdım. Bu da Batumdan gəlib. Məktubda yazılıb ki, İran hacıları dəryanın kənarına düzülüb bikarçılıqdan dəryaya daş atırlar ki, qolları açılsın (məktub çox uzundu, gələn həftə bu barədə danışarıq inşallah).
 
@@ -7514,7 +7514,7 @@ Amma Rzanın bacısı oğlunun əli bir az cızıldı.
 
 Niyə, nə səbəbə? O səbəbə ki, Sadıq Rzanın sözündən çıxdı və ömrünün axırına kimi Rzanın dükanında qalmadı.
 
-Və lakin heç təfavütü yoxdur; İran və yainki Şirvan. Əgər bu iş İranda da ittifaq düşsəydi, genə Sadığa zülm olunacaq idi, ondan btrü ki, Rza Rusiya rəiyyətidir. Bundan da bu çıxır ki, Sadığın bədbəxtliyi məhz buradadır ki, İran rəiyyətidir.
+Və lakin heç təfavütü yoxdur; İran və yainki Şirvan. Əgər bu iş İranda da ittifaq düşsəydi, genə Sadığa zülm olunacaq idi, ondan ötrü ki, Rza Rusiya rəiyyətidir. Bundan da bu çıxır ki, Sadığın bədbəxtliyi məhz buradadır ki, İran rəiyyətidir.
 
 Bəs, qardaşlarım, İran ilə Şirvanın heç təfavütü yoxdur, amma iranlı ilə şirvanlının təfavütü çoxdur.
 
@@ -7896,7 +7896,7 @@ Bəli, Allah rəhmət eləsin! Hamı yəqin elədi ki, binəva Kərbəlayi Həs�
 
 Allah rəhmət eləsin.
 
-Sabahısı günü mərhumun qohum-qardaşını polisə çağırıb apardılar ki, Kabla Həsənin dükanının qıfılını sındırıb dünkanı açsınlar və dükanın malını siyahı eləsinlər ki, bilinsin vərəsəyə nə çatacaq.
+Sabahısı günü mərhumun qohum-qardaşını polisə çağırıb apardılar ki, Kabla Həsənin dükanının qıfılını sındırıb dükanı açsınlar və dükanın malını siyahı eləsinlər ki, bilinsin vərəsəyə nə çatacaq.
 
 Dükanı açıb görürlər ki, Kabla Həsən iki kəndli ilə oturub dükanın içində və özü də sağ və səlamətdir.
 
@@ -8024,7 +8024,7 @@ Yainki qəssablar az qalıblar ki, məscid həyətini sallaxana qayırsınlar. Y
 
 Səlyandan bu dəxi bəsdi.
 
-– Yoxsa, durub sənin yazdığın dörd səhifəni yazsaq, dəxi Lənkərana yer qalmaz, amma inçsaf deyil Lənkərandan yazmayaq ki, Lənkəranda hər bir molla ki, vəfat elədi, onun qəbri ziyarətgah olur, necə ki, bu yavuq vaxtlarda ölən bir göbək yazan mollanın qəbrinin üstünə övrətlər hər cümə axşamı dəstə-dəstə gəlib şam yandırırlar, birdən nə tövr oldu qəbristanın quru otu od tutub yandı və kəndə səs düşdü ki, qəbristanda möcüz olub və bazar əhli qəbristana yüyürüb gördülər ki, ağanın qəbr əhlinə acığı tutub.
+– Yoxsa, durub sənin yazdığın dörd səhifəni yazsaq, dəxi Lənkərana yer qalmaz, amma insaf deyil Lənkərandan yazmayaq ki, Lənkəranda hər bir molla ki, vəfat elədi, onun qəbri ziyarətgah olur, necə ki, bu yavuq vaxtlarda ölən bir göbək yazan mollanın qəbrinin üstünə övrətlər hər cümə axşamı dəstə-dəstə gəlib şam yandırırlar, birdən nə tövr oldu qəbristanın quru otu od tutub yandı və kəndə səs düşdü ki, qəbristanda möcüz olub və bazar əhli qəbristana yüyürüb gördülər ki, ağanın qəbr əhlinə acığı tutub.
 
 Əgər dörd səhifə Səlyandan yazsaq, məsələn, Naxçıvana yer qalmaz, amma insafdan uzaqdır yazmayaq qiraətxanaya o qədər adam cəm olur ki, iynə salmağa yer olmur.
 
@@ -8286,7 +8286,7 @@ Məsələn, “qiblənüma”, “rəhnüma”.
 
 “Qiblənüma” saat şəklində bir girdə şeydir ki, həmişə ona baxanda bilərik ki, qiblə hansı tərəfdədir.
 
-“Rəhnüma” yəni yol gösiərən. Demək olar ki, burada “nüma” – ”göstərən” mənasında işlənir. Necə ki, məsələn, “qiblənüma” – qibləni göstərən, “rəhnüma” – yol göstərən.
+“Rəhnüma” yəni yol göstərən. Demək olar ki, burada “nüma” – ”göstərən” mənasında işlənir. Necə ki, məsələn, “qiblənüma” – qibləni göstərən, “rəhnüma” – yol göstərən.
 
 * * *
 
@@ -8627,7 +8627,7 @@ Aşkar işdir ki, hələ hamballar və əttarlar Zəhiri-Hümayun cənablarını
 
 Allah yalançının evini dağıtsın!
 
-Qardaş, gəl əyri oturaq, düz danışaq. Mükəmməl ingiliscə bilən konsulu nə səbəbə Bəndər-bişəhr kimi yerə göndərmirlər, göndərirlər İrəvana. İrəvan həmşərisinə “ədə qırışmal, gəl bilet al” deməkdən ötrü məgər mükəmməl ingiliscə bilmək də lazımdır? Sən yazırsan ki, konsul cənabları ingilis dilini Bombeydə təhsil eliyib. Amma vəbalı deyənlərin boynuna olsun, deyirlər ki, Zəhiri-Hümayun cənabları ömründə heç Bombeyi görmüyübdür də. O ki qaldı rusca bilməyi, bu barədə heç sözum yoxdur, ola bilər ki, Təbrizdə Acı körpü məsələsində rusca bir az bilməyi lazım görüb Şapşal rəfiqindən rusca bir az dərs alıb. Amma bəndəyə məlum olan budur ki, yavuqlarda konsul cənabları Tiflisdə fayton ilə konsulxanaya duşəndə faytonçu ilə pul hesabını kəsməkdən ötrü küçədən keçən bir yad adamdan soruşurdu ki, “aşna, sən Allah, sən rusca bilirsən, gəl bu faytonçu ilə mənim hesabımı kəs”.
+Qardaş, gəl əyri oturaq, düz danışaq. Mükəmməl ingiliscə bilən konsulu nə səbəbə Bəndər-bişəhr kimi yerə göndərmirlər, göndərirlər İrəvana. İrəvan həmşərisinə “ədə qırışmal, gəl bilet al” deməkdən ötrü məgər mükəmməl ingiliscə bilmək də lazımdır? Sən yazırsan ki, konsul cənabları ingilis dilini Bombeydə təhsil eliyib. Amma vəbalı deyənlərin boynuna olsun, deyirlər ki, Zəhiri-Hümayun cənabları ömründə heç Bombeyi görmüyübdür də. O ki qaldı rusca bilməyi, bu barədə heç sözum yoxdur, ola bilər ki, Təbrizdə Acı körpü məsələsində rusca bir az bilməyi lazım görüb Şapşal rəfiqindən rusca bir az dərs alıb. Amma bəndəyə məlum olan budur ki, yavuqlarda konsul cənabları Tiflisdə fayton ilə konsulxanaya düşəndə faytonçu ilə pul hesabını kəsməkdən ötrü küçədən keçən bir yad adamdan soruşurdu ki, “aşna, sən Allah, sən rusca bilirsən, gəl bu faytonçu ilə mənim hesabımı kəs”.
 
 Vəbalı görənlərin və eşidənlərin boynuna.
 
@@ -8849,7 +8849,7 @@ Ol vaxtlar mədrəsədə altmış nəfər şagird elm oxumağa məşğul idi, am
 
 * * *
 
-Allah Davudxan cənablarına ömür vesin: bizi böyük zəhmətdən qurtardı; çünki vitse-konsul cənabları haman məktubda bir-iki söz yazıb və bu bir-iki söz işin əsl həqiqətini necə ki lazımdır bəyan edir. Yoxsa indi “Tərəqqi”nin 86-cı nömrəsi gedə çıxa Bolqariya, Serbiya və qeyri millətlərin içinə və onlar oxuyub görələr ki, Vladiqafqazda İran hacı və məşədiləri razı olmurlar ki, uşaqları məccani də gedib mədrəsədə dərs oxusunlar, əgər Davudxan cənabları mətləbi açmasaydı, müsəlmanları tanımayan əcnəbi millətlər elə bilərdilər ki, bəlkə mədrəsənin yolu Bakı müsəlmanlarının məhəlləsindən düşüb, ya bəlkə mədrəsədə qara əqrəb peyda olub ki, uşaqları sancıb öldürür, ya bəlkə mədrəsədə şagirdlərə Ağdaş hacıları satan undan çörək bişirib verirlər və haman çörək uşaqları şişirdir, axırda öldurur.
+Allah Davudxan cənablarına ömür versin: bizi böyük zəhmətdən qurtardı; çünki vitse-konsul cənabları haman məktubda bir-iki söz yazıb və bu bir-iki söz işin əsl həqiqətini necə ki lazımdır bəyan edir. Yoxsa indi “Tərəqqi”nin 86-cı nömrəsi gedə çıxa Bolqariya, Serbiya və qeyri millətlərin içinə və onlar oxuyub görələr ki, Vladiqafqazda İran hacı və məşədiləri razı olmurlar ki, uşaqları məccani də gedib mədrəsədə dərs oxusunlar, əgər Davudxan cənabları mətləbi açmasaydı, müsəlmanları tanımayan əcnəbi millətlər elə bilərdilər ki, bəlkə mədrəsənin yolu Bakı müsəlmanlarının məhəlləsindən düşüb, ya bəlkə mədrəsədə qara əqrəb peyda olub ki, uşaqları sancıb öldürür, ya bəlkə mədrəsədə şagirdlərə Ağdaş hacıları satan undan çörək bişirib verirlər və haman çörək uşaqları şişirdir, axırda öldurur.
 
 Allah ömür versin, Davudxan cənabları bizi qeyddən qurtardı.
 
@@ -9095,7 +9095,7 @@ Hələ “Tərəqqi” yazır ki, Tiflisdə bu günlərdə genə bir müsəlman 
 
 * * *
 
-Beynəlmiləl qanunlarına görə bir məmləkətdən keçib bir özgə məmləkətə girməyə hər bir kəsin ixtiyarı var; istər Rusiyada və istərsə Şərq məmləkətlərində; ancaq pasportlu olmaq lazımdır (amma Avropada heç pasport da lazım deyil). Rusiya məmləkətinə hər bir yad adam daxil ola bilər, istər böyük, istər kiçik, istər xan, istər gəda, kaş cibində pasportu olsun; – hər bir şəhərə daxil ola bilər (Məhz bir para yəhudilərəi Pukişkeviç və “Novoye vremya” paytaxt şəhərlərinə qoymurlar).
+Beynəlmiləl qanunlarına görə bir məmləkətdən keçib bir özgə məmləkətə girməyə hər bir kəsin ixtiyarı var; istər Rusiyada və istərsə Şərq məmləkətlərində; ancaq pasportlu olmaq lazımdır (amma Avropada heç pasport da lazım deyil). Rusiya məmləkətinə hər bir yad adam daxil ola bilər, istər böyük, istər kiçik, istər xan, istər gəda, kaş cibində pasportu olsun; – hər bir şəhərə daxil ola bilər (Məhz bir para yəhudilərə Pukişkeviç və “Novoye vremya” paytaxt şəhərlərinə qoymurlar).
 
 Xülasə, hər bir şəxs, – xah müsəlman, xah qeyri müsəlman, – Rusiyanın hər bir şəhərinə daxil ola bilər. Hər küçəsi ilə gəzə bilər, hər bir mehmanxanada qala bilər, hansı yol ilə istəsə gəlib gedə bilər və hansı paraxoda istəsə minə bilər.
 
@@ -9386,7 +9386,7 @@ Osmanlılar ha bağırsınlar ki, Ərəb İzzət türklərin arasından qaçıb.
 
 Heç şəkk yox ki, 33 ildir osmanlıların başına gələn bəlaların hamısı bu dil bəlasından olub. Çünki camaat indiyə qədər hirriyyət, müsavat, üxüvvət sözlərini öz dilləri ilə əsla eşitmiyib, öyrənmiyib. Həmin bu eşitməməzlik, bu dilsizlik sultana və onun adamlarına çox böyük yardımlıqlar edib, camaatı korluqda saxlıyıb.
 
-Təcrübələrimizə görə osmanlılar bugünkü dillərinin vücudilə heç güman etməsinlər ki, ərəb izzətləri, ərəb əbülhüdaları öldürməklə istibdaddan, zülmdən tamamilə qurtaracaqlar. Xeyr, nə qədər ki, türk ədəbiyyatı ərəb sözləriilə boğulur, nə qədər ki, Anatol türkləri: vəzayifi-müqəddəseyi-bəşəriyyə, şəmsi-müniri hürriyyət, kabusi-əlimiəsarət, təkamülati-heyrətfəzayi-kainat… sözlərini türkcə eşitmirlər, heç vaxt ərəb izzətlərin, türk rzaların, çərkəz məhəmmədlərin bəlalarından layiqilə qurtula bilməyəcəklərdir.
+Təcrübələrimizə görə osmanlılar bugünkü dillərinin vücudilə heç güman etməsinlər ki, ərəb izzətləri, ərəb əbülhüdaları öldürməklə istibdaddan, zülmdən tamamilə qurtaracaqlar. Xeyr, nə qədər ki, türk ədəbiyyatı ərəb sözlərilə boğulur, nə qədər ki, Anatol türkləri: vəzayifi-müqəddəseyi-bəşəriyyə, şəmsi-müniri hürriyyət, kabusi-əlimiəsarət, təkamülati-heyrətfəzayi-kainat… sözlərini türkcə eşitmirlər, heç vaxt ərəb izzətlərin, türk rzaların, çərkəz məhəmmədlərin bəlalarından layiqilə qurtula bilməyəcəklərdir.
 
 Osmanlıda islah və hürriyyət sözləri indi deyil, ta üçüncü Sultan Səlim zamanından başlıyıb və o vaxtdan bu vaxta qədər bir çox qanlı və faciəli inqilablar olub. Amma heç biri baş tutmayıb, çünki Osmanlının həmiyyətli vəzirləri hər şeyi bilirlərdi. Lakin bircə bunu
 
@@ -9605,7 +9605,7 @@ Zarafat kənarda qalsın, amma “Din və məişət” jurnalı da doğrudan qə
 
 Həmin əvvəlinci nömrəsində teatr oynayanlar barəsində jurnal bir doğru təkfirnamə yazıb deyir ki, müsəlman teatrçıları şəriətə xilaf olan teatr tamaşasını mömün müsəlman içinə gətirmək ilə Allah bəndələrini yoldan çıxardırlar.
 
-Əlbəttə, bu sözlər səhihdir və əlbəttə bir belə yazıçı müsəlmanlar üçün qənimətdir. İndi dəxi bundan sonra dağıstanlı əzilətli Əlqədari cənabları və bunun kimi qeyri üləmamız çox da özlərindən deməsinlər, çox da qızlarımızın oxuyub müəllimə olmaqlarına çalışmasınlar, yoxsa mən “Din və məişət”in mollalarını çıxardaram onların müqabilinə, onda görüm nə cavab verəcəklər.
+Əlbəttə, bu sözlər səhihdir və əlbəttə bir belə yazıçı müsəlmanlar üçün qənimətdir. İndi dəxi bundan sonra dağıstanlı fəzilətli Əlqədari cənabları və bunun kimi qeyri üləmamız çox da özlərindən deməsinlər, çox da qızlarımızın oxuyub müəllimə olmaqlarına çalışmasınlar, yoxsa mən “Din və məişət”in mollalarını çıxardaram onların müqabilinə, onda görüm nə cavab verəcəklər.
 
 Qənimətsən, qənimətsən, qənimət,
 Yaşa, ey möhtərəm “Din və məişət”.
@@ -9681,7 +9681,7 @@ Molla Əbdüləli də gedir sabahısı günü bir nəfərə, Əlibəyə deyir ki
 
 Bunların hamısı millətimizin tərəqqisinə böyük dəlildir və bu tərəqqimizə də səbəb bir neçə vüquat olub:
 
-Əvvələn, rus-yapon davası hamı millətlərin gözünü açdı; sonra Rusiyada hürriyyət davası başlandı və bu davanın, əlbəttə, biz müsəlmanlara da az-çox təsiri oldu. Sonra da erməni-müsəlman ədavəti başlandı – dəxi burada müsəlmaların gözləri birdən açıldı. Şəhərlər və kəndlər doldu məktəb və qiraətxanalar ilə. Hər yerdə nəşri-maarif əmələ gəldi.
+Əvvələn, rus-yapon davası hamı millətlərin gözünü açdı; sonra Rusiyada hürriyyət davası başlandı və bu davanın, əlbəttə, biz müsəlmanlara da az-çox təsiri oldu. Sonra da erməni-müsəlman ədavəti başlandı – dəxi burada müsəlmanların gözləri birdən açıldı. Şəhərlər və kəndlər doldu məktəb və qiraətxanalar ilə. Hər yerdə nəşri-maarif əmələ gəldi.
 
 Xülasə, maşaalah, müsəlmanlar bir tərəfdən özlərinin çalışmaqlığı ilə, bir tərəfdən də xüdavəndi-aləmin lütfü sayəsində o qədər qabağa gəldilər ki, Ordubadda mərsiyəxanlar başladılar Allahın evində küçə föhşləri danışmağa; Şamaxıda Mir Mehdilər, həmçinin Gəncədə yuristlərimiz başladılar mərsiyəxanlara mürid olmağa və mərsiyəxanlar da müsəlmanların belinə palan qoyub minəndən sonra, öz dillərilə dedilər ki, “bax gör, bu eşşəkləri necə minmişəm!..”.
 
@@ -9863,7 +9863,7 @@ Pillə pillədir.
 
 Bir il bundan qabaq millətlər gördülər ki, “bəli, əlbət, müsəlmanların ruhani rəisi belə olar”. Bəli, bir ay keçdi. Nə tövr oldusa, bir biabırlıq üz verdi. Belə olanda bizim qoşunlarımız uzaqdan baxa-baxa dedilər ki, “bəli, əlbət, elə şeyxülislam belə olar”.
 
-Bir ay da keçdi. Yenə müsəlmançılığa bir xəcalətlik üz verdi. Yenə ətrafımızdakı tayfalar kənardan durub, öz-özlərinə dedilər ki, “bəli, nə eybi var? Müsəlmanların ruhani atası belə olar” (yəni atası belə olanda gör oğullurı necədir).
+Bir ay da keçdi. Yenə müsəlmançılığa bir xəcalətlik üz verdi. Yenə ətrafımızdakı tayfalar kənardan durub, öz-özlərinə dedilər ki, “bəli, nə eybi var? Müsəlmanların ruhani atası belə olar” (yəni atası belə olanda gör oğulları necədir).
 
 @@ 368
 
@@ -10237,7 +10237,7 @@ Dəxi mən sözümü qurtardım. Bir tərəfdən bizi gözləri götürməyən q
 
 @@ 383
 
-Behiştliklərimizdən də təvəqqə edirəm ki, məktəblərimzin proqramına baxıb görsünlər ki, bunların hər biri özlüyündə bir balaca məsciddir; və dəxi bundan sonra bir tikə də ürəklərini sıxmasınlar.
+Behiştliklərimizdən də təvəqqə edirəm ki, məktəblərimizin proqramına baxıb görsünlər ki, bunların hər biri özlüyündə bir balaca məsciddir; və dəxi bundan sonra bir tikə də ürəklərini sıxmasınlar.
 
 Yuxarıda yazdığımız beş məktəbin adları belədir: biri İttihadi-iraniyan, biri İttifaqi-Azərbaycan, biri İqbali-Səlyan, biri İstiqbali-Lənkəran, biri Xali-canan, biri də Bali-Əmrhacıyan.
 
@@ -10247,7 +10247,7 @@ Yuxarıda yazdığımız beş məktəbin adları belədir: biri İttihadi-iraniy
 
 # Məəttəl
 
-Dünyada çox az ittifaq düşüb ki, birisinə cavab verməyə aciz qalam. Həmişə hazırcavab olub, hər bir kəsin sözünü haman saat rədd eləmişəm. Amma dünən bir söz məndən soruşdular və mən davab tapa bilməyib məəttəl qaldım.
+Dünyada çox az ittifaq düşüb ki, birisinə cavab verməyə aciz qalam. Həmişə hazırcavab olub, hər bir kəsin sözünü haman saat rədd eləmişəm. Amma dünən bir söz məndən soruşdular və mən cavab tapa bilməyib məəttəl qaldım.
 
 Dünən küçədə nuxalı dostlarımdan birisi mənim qabağımı kəsib başladı məni məzəmmət eləməyə ki, “a kişi, hələ utanmırsan da köhnə sultanı pisləyib təzəni tərifləyirsən?” İstədim ki, dostumun cavabını verəm, tez cibindən təzə sultanın şəklini çıxardıb, tutdu qabağıma və bir az hirsləndi və başladı:
 
@@ -10303,7 +10303,7 @@ Və indi yenə İrəvan gimnaziyasının beş-on nəfər müsəlman şagirdləri
 
 * * *
 
-Kimdir bizim düşmənlərimiz? Əcnəbilər də olsa, onların düşmənçiliyi hələ ki, ehtimal olunan bir şeydir; amma o əcnəbilərin birinin yolu əgər düşə bizim vilayətə və şeyxlərimizin övrətbazlığından baxəbər ola, gedib dünyaya xəbər verəçək ki, müsəlman millətində bircə tikə namus yoxdur.
+Kimdir bizim düşmənlərimiz? Əcnəbilər də olsa, onların düşmənçiliyi hələ ki, ehtimal olunan bir şeydir; amma o əcnəbilərin birinin yolu əgər düşə bizim vilayətə və şeyxlərimizin övrətbazlığından baxəbər ola, gedib dünyaya xəbər verəcək ki, müsəlman millətində bircə tikə namus yoxdur.
 
 * * *
 
@@ -10423,7 +10423,7 @@ Sən ki, Allaha şükr, insansan!
 
 “İttihad” mədrəsəsində elmi-musiqi xəbərini bakılı qardaşlar, söz yox, oxudular və bildilər ki, keçən cəmadiəl-əvvəl ayında “İttihad” əncüməni-xeyriyyəsində əksəriyyət ara ilə təlimi-musiqi təsdiq olundu.
 
-Qəzetdə bu müjdəni verəndən sonra, “İttihad” mədrəsəsinin müdiri mədrəsənin şagirdlərini təbrik edir və deyir ki, musiqi kimi ali və vəsi elmin təhsilinə çatıb xoşbəxt olacaqlar. Müdir cənabları təəssüf edir ki, mustiqinin həqiqi və dünyanın məişətində əlzəm ləvazimdən olduğu bizim üçün indiyədək aşkar olmayıb və islam ədibləri və fəlasifələri o qədər bu elmdə çalışıblar ki, heç millətdə bu qədər zəhmət çəkən yoxdur. Və hətta Avropa tarixi sübut edir ki, elmimusiqi Avropaya islamdan və İrandan sirayət eləyib.
+Qəzetdə bu müjdəni verəndən sonra, “İttihad” mədrəsəsinin müdiri mədrəsənin şagirdlərini təbrik edir və deyir ki, musiqi kimi ali və vəsi elmin təhsilinə çatıb xoşbəxt olacaqlar. Müdir cənabları təəssüf edir ki, musiqinin həqiqi və dünyanın məişətində əlzəm ləvazimdən olduğu bizim üçün indiyədək aşkar olmayıb və islam ədibləri və fəlasifələri o qədər bu elmdə çalışıblar ki, heç millətdə bu qədər zəhmət çəkən yoxdur. Və hətta Avropa tarixi sübut edir ki, elmimusiqi Avropaya islamdan və İrandan sirayət eləyib.
 
 Müdir cənablarının bu cür tərifi qəzetin bir uzun sütununu doldurub.
 
@@ -10439,7 +10439,7 @@ Müdir cənabları buyurur ki, “islam ədibləri və fəlasifələri o qədər
 
 @@ 391
 
-Müdir cənablarının bəxti o yerdə kəsıb ki, bakılılar özgə millətlərin musiqi elmindən və hər bir şeyindən bixəbərdilər. Amma elə qanıram ki, italiyalılar bu sözləri eşitsələr, elə bilərlər ki, müdir cənabları zarafat eləyir.
+Müdir cənablarının bəxti o yerdə kəsib ki, bakılılar özgə millətlərin musiqi elmindən və hər bir şeyindən bixəbərdilər. Amma elə qanıram ki, italiyalılar bu sözləri eşitsələr, elə bilərlər ki, müdir cənabları zarafat eləyir.
 
 * * *
 
@@ -10663,7 +10663,7 @@ Yazıq Nurməhəmməd əfəndi də and-aman eləyir ki. “mən heç bir yeri is
 
 Demək, bir tərəfdən camaat Nurməhəmməd əfəndinin üzv təyin olunmağına narazıdır, bir tərəfdən də Nurməhəmməd əfəndi özü də bu işə razı deyil.
 
-İndi bəs bu yazıq Nurməhəmməd əfəndi nə eləsin? Axırda götürüb idareyi-ruhaniyyəyə teleqraf göndəriblər və idarədən də cavab gəlib ki, “Nurməhəmməd əfndidən savayı özgə bir kəsin üzv təyin olunmağına razı deyilik, o səbəbə ki, qərara görə gərək məclis üzvləri bir-biri ilə qohum olsunlar”.
+İndi bəs bu yazıq Nurməhəmməd əfəndi nə eləsin? Axırda götürüb idareyi-ruhaniyyəyə teleqraf göndəriblər və idarədən də cavab gəlib ki, “Nurməhəmməd əfəndidən savayı özgə bir kəsin üzv təyin olunmağına razı deyilik, o səbəbə ki, qərara görə gərək məclis üzvləri bir-biri ilə qohum olsunlar”.
 
 Doğrudan, mənim yazığım hamıdan artıq Nurməhəmməd əfəndiyə gəlir: bir tərəfdən müfti əfəndi onu zor ilə üzv təyin edir, bir tərəfdən də camaat yapışıb yaxasından ki, “gərək çıxasan”.
 
@@ -10734,7 +10734,7 @@ Otur yerində, əzizim, get hamballığına, Bakı “Şahnamə”ləri sənsiz 
 
 Mən hər vaxt məcmuəmizdə bir məqalə yazanda, ya bir kəsə bir məktub yazanda, yainki bir məclisdə söhbət eləyəndə, bircə şeydən çox nigaran olaram: həmişə qorxaram ki, oxucular elə xəyal eləyələr ki, mənim fars dilindən və ərəb dilindən heç xəbərim yoxdur; qorxuram bilməyələr ki, mən fars və ərəb dili də oxumuşam. Və bu cəhətdən bir məqalə, ya məktub yazanda nə qədər mümkündür səy edirəm ki, yazılarımın içində bacardıqca çox fars və ərəb kəlməsi işlədim.
 
-Yəqin ki, qeyri yazıçılar da mənim günümdədir və hər kəs desə ki, “xeyr”, – əlbətt, yalan deyir.
+Yəqin ki, qeyri yazıçılar da mənim günümdədir və hər kəs desə ki, “xeyr”, – əlbəttə, yalan deyir.
 
 Məsələn, mən istəyirəm yazam ki, “keçmiş əsrlərdə osmanlı padşahları millət ilə çox görüşərdilər və bu cəhətdən hər işdə bu qədər
 
@@ -10746,7 +10746,7 @@ Bax, belə yazsam, əlbəttə dəxi hamı biləcək ki, mənim fars və ərəb d
 
 Yəqin ki, qeyri yazıçılarımız da mənim kimidilər və hər kəs desə ki, “xeyr”, – lap qırmızıca yalan deyir.
 
-Və bir də doğrudan “eyib”dir, sadə yazmaq “eyib”dir. Açıq yazmaq savadsızların peşəsidir və tarixdə də görürük ki, böyük alim və mütəşəxxis adamlar sadə yazmağı eyib tutublar. Katolik papaları deyərmişlər ki, “dil sadə və açıq olsa – fəsih olmaz”; rusun ğədim yazıçıları yazı yazanda elə bir kəlmə və ibarətlər tapıb işlədərdilər ki, xoruz səsi eşitməmiş olsunlar. Rusun qədim şairi Derjavinin şeirlərini indi adam oxuyanda elə bilir ki, guya bu sözlər göydən yerə düşüblər.
+Və bir də doğrudan “eyib”dir, sadə yazmaq “eyib”dir. Açıq yazmaq savadsızların peşəsidir və tarixdə də görürük ki, böyük alim və mütəşəxxis adamlar sadə yazmağı eyib tutublar. Katolik papaları deyərmişlər ki, “dil sadə və açıq olsa – fəsih olmaz”; rusun qədim yazıçıları yazı yazanda elə bir kəlmə və ibarətlər tapıb işlədərdilər ki, xoruz səsi eşitməmiş olsunlar. Rusun qədim şairi Derjavinin şeirlərini indi adam oxuyanda elə bilir ki, guya bu sözlər göydən yerə düşüblər.
 
 Amma aylar və günlər dolandı, – axırda nə bilim puşkinlər, jukovskilər dili lap xarab elədilər; elə sözlər yazdılar ki, kəndlilər də başa düşürdülər.
 
@@ -10837,7 +10837,7 @@ A y ı n b e ş i n d ə həzrət Musa Qülzüm dəryasından keçib və bu gün
 
 Bizim şeyxin qırx səkkiz arvadı var
 
-Molla Nəsrəddin heç vazt yalan söz danışmayıb və danışmaz. Bəlkə də qırx səkkiz olmaya, otuz səkkiz ola, otuz ola – söz burada deyil, söz buradadır ki, bizim şeyxin hər kənddə iki arvadı var.
+Molla Nəsrəddin heç vaxt yalan söz danışmayıb və danışmaz. Bəlkə də qırx səkkiz olmaya, otuz səkkiz ola, otuz ola – söz burada deyil, söz buradadır ki, bizim şeyxin hər kənddə iki arvadı var.
 
 Heç təfavütü yoxdur: Frəngistanda lotuların kefi qalxanda bir gün gedirlər bir fahişəxanaya, o biri dəfə gedirlər o biri fahişəxanaya. Bizim şeyxin də kefi qalxanda bir gün atı minib gedir “Qoşa dizə” kəndinə, o biri gün atı minib gedir “Qahab” kəndinə.
 
@@ -11308,7 +11308,7 @@ A canım, mən bu xəbərləri oxuyanda özümü ya yuxuda və ya “gipnotizm�
 
 Amma arvadların bu dərəcə həyasızlıqlarını, “Din və məşəqqət” demişkən dünya yaranandan bu yana heç eşidibsinizmi?
 
-Arvad hara, müsavat hara? Əgər onlara müsavat lazım olsaydı, Allah onları saçı uzun, ağlı qısa yaradardımı? Əgər onlara müsavat lazım olsaydı, Allah onları üzləri tüksüz yaradardımı? Arvad dedin dəxi nə qaldı ki, utanmaya-utanmaya haqq-huquq da axtarsınlar!
+Arvad hara, müsavat hara? Əgər onlara müsavat lazım olsaydı, Allah onları saçı uzun, ağlı qısa yaradardımı? Əgər onlara müsavat lazım olsaydı, Allah onları üzləri tüksüz yaradardımı? Arvad dedin dəxi nə qaldı ki, utanmaya-utanmaya haqq-hüquq da axtarsınlar!
 
 Vallah, mən bilmirəm ki, bizim bəzi axmaq yazıçılar nə istəyirlər? Deyəsən haqq və müsavat kişilərimizin başından daşıb ki, hələ arvadlara da pay axtarırlar.
 
@@ -11934,7 +11934,7 @@ Yoxsa bu işlər zarafat deyil, hər birinin bir səbəbi var. Və bir də bunu 
 
 *Cırcırama*
 
-*“Molla Nəsrəddir”, 14 fevral 1910, №7*
+*“Molla Nəsrəddin”, 14 fevral 1910, №7*
 
 # Şeyx Məhəmməd
 
@@ -12052,7 +12052,7 @@ Dur gedək tamaşaya, bax gör nə gözəl bayramdır: qəzetlər yarpaq kimi g�
 
 Həmə ruzi ma bəxti firuz bad.
 
-Allah cəmi müsəlman qardaşların bayramını mübarək eləsin, xüsusən xudayi-taala Mirzə Əli ağanın vucudunu bibəla eləsin ki, Bakıda “İttihad” mədrəsəsinin şagirdlərinin döşünə medalları düzüb ötürüb Bakının küçələrinə. Bakı “cahil”ləri görəndə “oxqay” deyirlər, amma əcnəbi millətlər də görüb ürəklərində deyirlər “nesçastnıy narod” (hər çənd ki, əcnəbilər anlamırlar).
+Allah cəmi müsəlman qardaşların bayramını mübarək eləsin, xüsusən xudayi-taala Mirzə Əli ağanın vücudunu bibəla eləsin ki, Bakıda “İttihad” mədrəsəsinin şagirdlərinin döşünə medalları düzüb ötürüb Bakının küçələrinə. Bakı “cahil”ləri görəndə “oxqay” deyirlər, amma əcnəbi millətlər də görüb ürəklərində deyirlər “nesçastnıy narod” (hər çənd ki, əcnəbilər anlamırlar).
 
 Ax, gözəl bayram, qəlbləri şad edən bayram, İran aclarını tox edən bayram! Sən olmasaydın, dövlətli İran tacirləri və dövlətli İran xanları bayram günləri bu qədər pul yığıb İran aclarına göndərməyəcək idilər. Girəm ki, yaxşı elədilər yığmadılar, Allah atalarına rəhmət eləsin; əgər yığsaydılar, İran aclarından qabaq pulların hamısını özləri yeyəcəkdilər.
 
@@ -12229,7 +12229,7 @@ Bu yavıqlarda bizim sahibmənsəblərdən birinin ölüm xəbərini qəzetlərd
 Cəhd kon dil zində gərdəd, tən çe arayi bezər?
 Mürdəra sudi nədarəd guri pür nəqşü nigar.
 
-Amma mən yenə başa düşmədim ki, bu yavuqları vəfat edən bir vücüdun barəsində niyə o qədər çığır-bağır saldılar. Mərhumun adını qəzetlərin birində qoymuşdular: “Nadirül-vücud”. Lüğəti açıb baxdım, gördüm “nadirül-vücud” o şəxsə deyirlər ki, millət yolunda heç bir əlahiddə səy və qeyrət göstərməyə və “bir kəs məndən inciməsin” – deyib ömrünün əvvəlindən axırınadək çalışmalı yerdə, rahat otura evində və öləndə də Qafqaza elə şöhrət sala ki, xalq onu doğrudan da millət mücahidi hesab edə.
+Amma mən yenə başa düşmədim ki, bu yavuqları vəfat edən bir vücudun barəsində niyə o qədər çığır-bağır saldılar. Mərhumun adını qəzetlərin birində qoymuşdular: “Nadirül-vücud”. Lüğəti açıb baxdım, gördüm “nadirül-vücud” o şəxsə deyirlər ki, millət yolunda heç bir əlahiddə səy və qeyrət göstərməyə və “bir kəs məndən inciməsin” – deyib ömrünün əvvəlindən axırınadək çalışmalı yerdə, rahat otura evində və öləndə də Qafqaza elə şöhrət sala ki, xalq onu doğrudan da millət mücahidi hesab edə.
 
 * * *
 
@@ -12279,7 +12279,7 @@ Bismillahi-rəhmanür-rəhim, xeyrətün min Allahül əzizül-həkim liflan bin
 
 Bu gözəl tədbiri tökənlər, bu planı çəkənlər olublar Rəştdə iki nəfər şəxs ki, adları: 1. Rus təbəəliyin qəbul edən məşhur qaziyi-şəriətmədar, 2.Peyğəmbər övladı seyid molla Məhəmməd.
 
-Mənə həmişə deyərdilər ki, Nəcəfdə “darülfünun” qurtaran üləmamız və müctəhidlərimiz incinar dərsi də oxuyurlar, mən inanmazdım. Səbəbi budur ki, orada təhsil tapanların yüzdə doxsan doqquzu əllərinin barmaqlarını düz sayıb başa çıxa birmirlər. Amma, söz yox, hamı oxuyan Molla Pənah olmaz; yəni insafən, ağayi-şəriətmədar və seyid molla Məhəmməd çəkdikləri plana baxanda insan deyə bilmir ki, bunlar incinar deyillər və Vladiqafqazın təzə konsulunun yerinə olsam, bu ağalara təklif edərəm Petrovsk şəhərinə ki, vaxtı tamam olmamış biletləri təzələməyə əncümənin palazlarını Qafqaza aparmağa plan çəksinlər ki, camaat mane ola bilməsin.
+Mənə həmişə deyərdilər ki, Nəcəfdə “darülfünun” qurtaran üləmamız və müctəhidlərimiz incinar dərsi də oxuyurlar, mən inanmazdım. Səbəbi budur ki, orada təhsil tapanların yüzdə doxsan doqquzu əllərinin barmaqlarını düz sayıb başa çıxa bilmirlər. Amma, söz yox, hamı oxuyan Molla Pənah olmaz; yəni insafən, ağayi-şəriətmədar və seyid molla Məhəmməd çəkdikləri plana baxanda insan deyə bilmir ki, bunlar incinar deyillər və Vladiqafqazın təzə konsulunun yerinə olsam, bu ağalara təklif edərəm Petrovsk şəhərinə ki, vaxtı tamam olmamış biletləri təzələməyə əncümənin palazlarını Qafqaza aparmağa plan çəksinlər ki, camaat mane ola bilməsin.
 
 @@ 462
 
@@ -12486,7 +12486,7 @@ Bir gün evdə oturmuşdum, gördüm ki, kişi hazırlaşır getsin Bataniçeski
 
 Kişi üstümə elə çığırdı ki, az qaldım özümdən gedəm.
 
-İndi daha bilərəm Bataniçeski bağlar biz müsəlman arvadlarının yeri deyil. Həmişə axşamlar camaat yığışıb dolanan vaxt, mən gedirəm qonşumuzda Səkinə bacını götütürəm, gedirik qəbristana, orada qəbrlərin dalına çöküb, bağa tamaşa edirik.
+İndi daha bilərəm Bataniçeski bağlar biz müsəlman arvadlarının yeri deyil. Həmişə axşamlar camaat yığışıb dolanan vaxt, mən gedirəm qonşumuzda Səkinə bacını götürürəm, gedirik qəbristana, orada qəbrlərin dalına çöküb, bağa tamaşa edirik.
 
 Pəh, pəh, pəh, bağ necə bağ! Qüdrətinə şükür ilahi! Ağacların yarpaqları hərəsi bir rəng çalır, güllərin ətri insanı bihuş edir.
 
@@ -12624,7 +12624,7 @@ Molla nə qanır qanlı faciə nə deməkdir? Daşkəndin faciəsinin adı tək 
 
 * * *
 
-Qoy “Həqiqət”in 151-ci nömərsinin dördüncü səhifəsindəki “Qanlı faciə” əhvalatını 300 milyon müsəlman oxusun, – tək bircə səndən savayı. Hər bir müsəlmanın borcu odur ki, tikə-tikə doğranmış 14 yaşında qıza və oğlana sədhəzar lənət oxuyub desin: “Mərhəba türkmənlərə, maşallah belə mücahidlərə”.
+Qoy “Həqiqət”in 151-ci nömrəsinin dördüncü səhifəsindəki “Qanlı faciə” əhvalatını 300 milyon müsəlman oxusun, – tək bircə səndən savayı. Hər bir müsəlmanın borcu odur ki, tikə-tikə doğranmış 14 yaşında qıza və oğlana sədhəzar lənət oxuyub desin: “Mərhəba türkmənlərə, maşallah belə mücahidlərə”.
 
 Budur qanlı faciə.
 
@@ -12779,7 +12779,7 @@ Vaqeən, dürüst ərz edirəm, bəlkə indi xudanəkərdə Bibiheybət ziyarət
 
 Dəxi sözün nədir, gözüvə dönüm? Əgər ümuri-diniyyəmizi hökumətə mühəvvəl etmək sənin xoşuna gəlmir, Bibiheybət ziyarətgahını hökumətin əvvəl yadına salan Bakı qazısıdır ki?!
 
-İndi gələk Pişnamazzadə cənablarına. Bu yazıq da baxıb görür ki, iş işdən keçib, görür ki, indiyə kimi ziyarətgahın mədaxilini Nəcəf uşaqları yeyəndən sonra indi də Bakı qazısı dişlərini itilədib. Və bu işləri bu halda görəndən sonra, şeyxülislamın təklifi dəxi o imiş ki, eləyibdir. İndi hər kəs bizə isbat eləsə ki, Mir Məhəmməd Kərim ağanın tamahı Nəcəf uşalarının tamahıdan əskikdir, biz “minavat” olarıq.
+İndi gələk Pişnamazzadə cənablarına. Bu yazıq da baxıb görür ki, iş işdən keçib, görür ki, indiyə kimi ziyarətgahın mədaxilini Nəcəf uşaqları yeyəndən sonra indi də Bakı qazısı dişlərini itilədib. Və bu işləri bu halda görəndən sonra, şeyxülislamın təklifi dəxi o imiş ki, eləyibdir. İndi hər kəs bizə isbat eləsə ki, Mir Məhəmməd Kərim ağanın tamahı Nəcəf uşaqlarının tamahıdan əskikdir, biz “minavat” olarıq.
 
 Amma torğ məsələsinə gəldikdə, dəxi bir sözümüz yoxdur. Doğrudan, məgər Bibiheybət ziyarətgahını da torğa qoymaq olar? A kişi, vallah, dünya “kun-fəyəkun” olar. Vallah, zəlzələ Bakını dağıdar. Sən Allah, bir insaf elə! Bu da Bakı qəzavatxanası deyil ki, siğələr torğa qoyulsun?!
 
@@ -12847,7 +12847,7 @@ Amma insaf deyil ki, bir dəfə səhv eləməklə qəzeti bağlasınlar.
 
 Doğrudur, Bakıda çıxan “İşıq” qəzeti müsəlman qardaşları işıqlandırır, amma bunu gərək biləsən ki, çox bərk işıq da bir şey deyil, adamın gözünü qamaşdırar.
 
-Onuncu nömrəsində qəzetlərin bağlanmağından söhbət açıb baş məqaləsində deyir ki: “İttihadi-müslimin bizim ruhani əmalımızdandır və Rusiya hökuməti ittihadi-müslimin yolunda çalışan müsəlman yazıçılarını həmişə dost tutub. Rusiya hökumətinin baş vəziri biz müsəlmanların ruhani əmalımızı o dərəcədə xoşlayır ki, özü həmişə məscidimizə gəlib, axund Bayazitovdan namaz qılmaq dərsini alır ki, isdam dininə müşərrəf olsun”. Sonra yazır ki, bir gün var idi, bir gün yox idi, bir qoca kişi var idi və bu qoca kişinin iki bədxasiyyət nəvəsi
+Onuncu nömrəsində qəzetlərin bağlanmağından söhbət açıb baş məqaləsində deyir ki: “İttihadi-müslimin bizim ruhani əmalımızdandır və Rusiya hökuməti ittihadi-müslimin yolunda çalışan müsəlman yazıçılarını həmişə dost tutub. Rusiya hökumətinin baş vəziri biz müsəlmanların ruhani əmalımızı o dərəcədə xoşlayır ki, özü həmişə məscidimizə gəlib, axund Bayazitovdan namaz qılmaq dərsini alır ki, islam dininə müşərrəf olsun”. Sonra yazır ki, bir gün var idi, bir gün yox idi, bir qoca kişi var idi və bu qoca kişinin iki bədxasiyyət nəvəsi
 
 @@ 484
 
@@ -13007,7 +13007,7 @@ Mir Kərim ağa bu işlərin cəmisini adbaad yazıb: yəni əvvəl nə eləmək
 
 Xülasə, hamısını da utanıram deməyə, amma qazı cənabları nədənsə utanmayıb.
 
-Sözümüz yoxdur ki, Hacı Zeynalabdın cənabları xərc çəkib, Qazı Mir Kərim ağanın təfsirini çapdan çıxardıb ki, satılan kitabların pulu qazıya çatsın; amma biz bunu deyirik ki, əgər bu təfsiri millətimiz üçün hacı cənabları mənfəətli bilirsə, qoy elədə razı olsun həmin kitabı bir nəfər Allah bəndəsi vursun qoltuğuna, gəlsin cənablarının əhli-xanəsinin içində yuxarıda ad ıerdiyimiz 587, 588-ci səhifələri oxusun. Əgər hacı cənabları razı olsa, o özgə bir işdir. Amma razı olmasa (və yəqin ki, razı olmaz, çünki heç bir həyalı üçün razı ola bilməz), bəli, əgər razı olmasa, o vədə biz məsləhət görürük ki, hacı cənabları qazını çağırıb desin:
+Sözümüz yoxdur ki, Hacı Zeynalabdın cənabları xərc çəkib, Qazı Mir Kərim ağanın təfsirini çapdan çıxardıb ki, satılan kitabların pulu qazıya çatsın; amma biz bunu deyirik ki, əgər bu təfsiri millətimiz üçün hacı cənabları mənfəətli bilirsə, qoy elədə razı olsun həmin kitabı bir nəfər Allah bəndəsi vursun qoltuğuna, gəlsin cənablarının əhli-xanəsinin içində yuxarıda ad verdiyimiz 587, 588-ci səhifələri oxusun. Əgər hacı cənabları razı olsa, o özgə bir işdir. Amma razı olmasa (və yəqin ki, razı olmaz, çünki heç bir həyalı üçün razı ola bilməz), bəli, əgər razı olmasa, o vədə biz məsləhət görürük ki, hacı cənabları qazını çağırıb desin:
 
 – Ağayi-mən, zina iki qismdir: biri zinayi-qeyri-mühəssən, birisi də zinayi-mühəssən.
 
@@ -13213,7 +13213,7 @@ Oxucularımıza məlumdur ki, indi osmanlılar və italyanlar dava edirlər və 
 
 Kağız sahiblərinin hər birisinə əlahiddə cavab yazmağı mümkün edə bilmədik; onun əvəzində burada öz mülahizəmizi yazırıq ki, hamıya cavab hesab olunsun.
 
-Osmanlıların, ümumən, dalı düşməsinə və “xüsusən” italyanlara basılmaqlarına üç səsəb var; ikisi bizə əyandır, amma biri Allah yanındadır.
+Osmanlıların, ümumən, dalı düşməsinə və “xüsusən” italyanlara basılmaqlarına üç səbəb var; ikisi bizə əyandır, amma biri Allah yanındadır.
 
 Bizə aşkar olan səbəblərin biri budur ki, osmanlılar ilə İtaliyanın davası elə bir yerdə düşüb ki, oraya osmanlıların qoşun göndərməyə yolları yoxdur; su üstündə dava eləməyə və düşmən qabağında dayanmağa dava gəmiləri lazımdır və axırıncı məsələdə osmanlılar italyanlardan çox zəifdirlər.
 
@@ -13601,7 +13601,7 @@ Belə tutaq ki, bir bütpərəst, ya xaçpərəst bizim islam dinini qəbul etm�
 
 Mən deyirəm məscid Allah evidir, orada Allaha ibadət etməkdən savayı dəxi özgə əhvalat yaraşmaz. Amma sən məscidin havasını üfutləndirirsən, mən burnumu tutub çıxıram.
 
-Mən deyirəm ki, məscid Allah evidir, orada imama təziyə saxlamaqdan savayı dəxi özgə oyunbazlıq artıqdır. Amma sən məscidi saldat-bazarına döndərirsən. Mən də cığ-vıcdan qulaqlarımı tutub qaçıram.
+Mən deyirəm ki, məscid Allah evidir, orada imama təziyə saxlamaqdan savayı dəxi özgə oyunbazlıq artıqdır. Amma sən məscidi saldat-bazarına döndərirsən. Mən də cığ-vicdan qulaqlarımı tutub qaçıram.
 
 Mən deyirəm ki, məscid Allah evidir, burada yaraşar ki, fəzilətli və həqiqi alimlərimiz hərdənbir camaatı yığıb, millətdən, insaniyyətdən, dindən və dünyadan bir para nafe moizələr edələr. Amma sən İranın bikar əmmaməlilərini və ac seyidlərini çıxardırsan minbərə, onlar da məsciddə avamdan savayı bir qanan adam görməyib, başlayırlar “Bəhrülməsaib” kitabından imamlar və peyğəmbərlər barədə elə
 
@@ -13769,7 +13769,7 @@ Bozbaşdan doymaq istəyirsənsə, qonaqlarını tox yola salmaq istəyirsənsə
 
 Təzə il gəldi, amma biz deyəsən elə həmin durduğumuz yerdə qaçırıq qabağa.
 
-Saldatların bir məşqi var: divarın dalından qudaq asanda elə bilirsən ki, qoşun gəlir. Tap!.. Tap!.. Tap!.. Tap!.. Amma gözləyirsən görürsən ki, qoşun bir yana çıxmır. Tappıltı yenə gəlir. Axırda məlum olur ki, bu da bir cür məşqdir ki, saldatlar durduqları yerdə qaçırlar. Deyəsən, biz də durduğumuz yerdə qaçmaqdayıq.
+Saldatların bir məşqi var: divarın dalından qulaq asanda elə bilirsən ki, qoşun gəlir. Tap!.. Tap!.. Tap!.. Tap!.. Amma gözləyirsən görürsən ki, qoşun bir yana çıxmır. Tappıltı yenə gəlir. Axırda məlum olur ki, bu da bir cür məşqdir ki, saldatlar durduqları yerdə qaçırlar. Deyəsən, biz də durduğumuz yerdə qaçmaqdayıq.
 
 *Molla Nəsrəddin*
 
@@ -13981,7 +13981,7 @@ Vallah, adamı qoymurlar ki, dinməz-söyləməz oturub işinə məşğul olsun.
 
 Mən müxtəsərcə burada bir söz ərz eləyim, əgər insaf əhlisən deyəcəksən: “belədir, Molla Nəsrəddin, sözün haqdır”. Əgər insaf əhli deyilsən, di qoy get işinə!
 
-Mədrəsələr dünyada ondan ötrü qoyulublar ki, orada təhsil tapanlar oxuyub-yazmaq öyənsinlər.
+Mədrəsələr dünyada ondan ötrü qoyulublar ki, orada təhsil tapanlar oxuyub-yazmaq öyrənsinlər.
 
 Bu bir aşkar mətləbdir ki, mollalara bir o qədər oxumaq və yazmaq lazım olmur. Çox yazmaq qəzetçi peşəsidir, çox kitab oxumaq bikar advokatların və dərin həkimlərin sənətidir. O ki, mollalarımızdır, bunların yazdıqları həftədə bir dəfə müxtəsər bir kəbin kağızı, ya talaq kağızıdır; əgər prixod mollasıdır, metrik dəftərinə səfər ayının dördündə anadan olan Sadığın adını yazmaq, atası Meşədi Hüseynin adını və anası Kəblə Fatmanın adını yazmaqdır; flan və flan, vəssalam, qurtardı getdi.
 
@@ -14115,7 +14115,7 @@ Bu sözləri deməkdə arnaudlar belə xəyal eləyirlər: onlar bilirlər ki, n
 
 Mən ölüm, bir az da səbr elə, bu saat qurtarıram, darıxma, dolanım başına, hövsələn təng olmasın, dayan bir, Allah sənə Kərbəla qismət eləsin, bir qədər də qulaq ver.
 
-Bu axır vaxtlarda bolqar əsgərlərinin savadlılarının hesabını bir yaxşı qəzetdə oxudum, yüz nəfərə ancaq dörd nəfər bisavad düşür. Amma Osmanlıda on min cammatdan dörd nəfər savad əhli tapılmaz. İran həmçinin, elə bizlər də o gündə; amma şükür olsun xudaya ki,
+Bu axır vaxtlarda bolqar əsgərlərinin savadlılarının hesabını bir yaxşı qəzetdə oxudum, yüz nəfərə ancaq dörd nəfər bisavad düşür. Amma Osmanlıda on min camaatdan dörd nəfər savad əhli tapılmaz. İran həmçinin, elə bizlər də o gündə; amma şükür olsun xudaya ki,
 
 @@ 532
 
@@ -14149,7 +14149,7 @@ Axırda da nə bilim həştad neçə il bundan qabaq Osmanlının bir Rəşid pa
 
 *Molla Nəsrəddin*
 
-*“Molla Nəsrəddin”, 13 ynvar 1913, №1*
+*“Molla Nəsrəddin”, 13 yanvar 1913, №1*
 
 # Övrət məsələsi
 
@@ -14285,7 +14285,7 @@ Qul edib onları tari sənə səndən ötrü.
 
 * * *
 
-Möhtərəm oxucularımıza ərz olsun ki, tibb aləmindən axır vaxtlarda danışılan məsələ “anabiyoz” məsələsidir ki, rus professorlarından məşhur Baxmetyev cənabları tərəfindən icad olunubdur. Cənab Baxmetyevin ixtiraının əsli budur ki, cəmi heyvanat bir dərəcə donmaq halına çatanda yarı diri olurlar, yarı ölü olurlar; yəni nə diri demək olur, nə ölü; nə canlı kimi hiss edirlər, nə ölü kimi hissiz olurlar.
+Möhtərəm oxucularımıza ərz olsun ki, tibb aləmindən axır vaxtlarda danışılan məsələ “anabiyoz” məsələsidir ki, rus professorlarından məşhur Baxmetyev cənabları tərəfindən icad olunubdur. Cənab Baxmetyevin ixtiranın əsli budur ki, cəmi heyvanat bir dərəcə donmaq halına çatanda yarı diri olurlar, yarı ölü olurlar; yəni nə diri demək olur, nə ölü; nə canlı kimi hiss edirlər, nə ölü kimi hissiz olurlar.
 
 Professor cənablarının fənni imtahanları elə bir qəribə nəticə bağışlayıb ki, bu xüsusda tamam Avropaya şöhrət salıb; hətta Amerika ruznamələri gün olmur ki, bu barədə yazmasınlar.
 

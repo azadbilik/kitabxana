@@ -87,12 +87,12 @@ Mən sayıram, fələk sayır,
 Fələk sayır,
 Mən sayıram.
 … Övladlarım doğuldular,
-Ata qədbim
+Ata qədim
 Ümman oldu…
 Fələk deyən olmadı ta
 Bu dəfə
 Mən sayan oldu…
-Ogul toyu elədim ki,
+Oğul toyu elədim ki,
 Gəlin gəlsin
 Evimizə…
 Bu dəfə də görünmədi

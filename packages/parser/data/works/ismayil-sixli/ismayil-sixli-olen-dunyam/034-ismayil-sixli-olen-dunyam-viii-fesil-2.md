@@ -24,7 +24,7 @@ Mustafa kişi səhərə qədər yata bilmədi. Tez-tez qalxıb ocağa odun atdı
 
 – Bu saat dağılışarsınız kəndə. Gedərsiniz evlərə. On beş yaşından yuxarı nə qədər başıpapaqlı varsa, gətirərsiniz məscidin həyətinə. Dünəndən baxmışıq, ondan münasib yer yoxdur. Həm məscidin özü böyükdü, həm də ətrafı hasarlıdı.
 
-Bir azdan kəndə hay-haray düşdü. Arvad-uşağın səs-küyünə, ağlamalarına heç kəs fikir vermədi. Rus əsgərləri kişilətri süngünün qabağına salıb məscidin həyətinə gətirdilər. Yoldaş Fətullayev məscidin və həyətin içinin dolduğunu gördü və bundan sonra hasarın üstünə çıxdı. Bayaqdan təşviş içində qalan və öz aralarında xısın-xısın söhbət edən kişilər daş hasarın üstünə çıxan Fətullayevi görüncə susdular. Fətullayev aralığa sükut çökdükdən sonra amiranə səslə dilləndi:
+Bir azdan kəndə hay-haray düşdü. Arvad-uşağın səs-küyünə, ağlamalarına heç kəs fikir vermədi. Rus əsgərləri kişiləri süngünün qabağına salıb məscidin həyətinə gətirdilər. Yoldaş Fətullayev məscidin və həyətin içinin dolduğunu gördü və bundan sonra hasarın üstünə çıxdı. Bayaqdan təşviş içində qalan və öz aralarında xısın-xısın söhbət edən kişilər daş hasarın üstünə çıxan Fətullayevi görüncə susdular. Fətullayev aralığa sükut çökdükdən sonra amiranə səslə dilləndi:
 
 – Camaat, hökumətin qərarı var: hamı silahını könüllü şəkildə təhvil verməlidir. Kimin tüfəngi, naqanı, xəncəri varsa, gətirməlidir. Kim silahını könüllü təhvil versə, ona heç nə etməyəcəyik, buraxacayıq, gedəcək evinə. Amma inad göstərsəniz, qurban verəcəksiniz. Sizə ən uzağı bir gün vaxt verirəm. Silahlarınızı gətirin!
 

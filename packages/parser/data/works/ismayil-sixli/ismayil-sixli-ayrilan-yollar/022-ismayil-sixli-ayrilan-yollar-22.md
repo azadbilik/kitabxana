@@ -214,13 +214,13 @@ Kazım Kosaoğlunu at belində görəndə:
 
 Kosaoğlu özünü sındırmadı:
 
-– Ata minəndə adaımı ürəyi tel-tel olur. Eşitməyibsən, at minən qocalmaz?!
+– Ata minəndə adamın ürəyi tel-tel olur. Eşitməyibsən, at minən qocalmaz?!
 
 – Elədir. Bir de, belə atı heç yüz maşına dəyişmərəm.
 
 – Dalımca gəl! - deyə Kosaoğlu atı sürdü. Kazım onun dalınca yortdu.
 
-Kosaoğlu atı məktəbin qabağında saxladı. Kəhər yüyəni çeynəyib kişnədi. Sədr əlindəki çubuqla müəllimlər otağıtın pəncərəsini döydü. Şüşələr az qaldı ovxalanıb tökülsün. Səs-küyə növbətçi müəllim bayıra çıxdı. Kosaoğlu salam vermədən, qəzəbli-qəzəbli soruşdu:
+Kosaoğlu atı məktəbin qabağında saxladı. Kəhər yüyəni çeynəyib kişnədi. Sədr əlindəki çubuqla müəllimlər otağının pəncərəsini döydü. Şüşələr az qaldı ovxalanıb tökülsün. Səs-küyə növbətçi müəllim bayıra çıxdı. Kosaoğlu salam vermədən, qəzəbli-qəzəbli soruşdu:
 
 – Direktor hanı?
 
@@ -290,9 +290,9 @@ O, uşaqları bayıra çağıran Kazımın üstünə qışqırdı:
 
 İmran maşını Kosaoğlunun doqqazının qabağında, qoşa qoz ağacının altında saxladı. Ağacın başına toplaşıb qozları dimdikləyən qarğalar, maşının tırıltısından hürküb qırıldaşa-qırıldaşa ətrafa dağıldılar. Silkələnən budaqlardan tozlu yola dolu kimi qoz səpələndi.
 
-Nəsib dayı yenicə tikan vurulmuş hündür çəpərli həyətə baxdı. Kosaoğlunun uşaqları eyvanda oynaşırdılar. Həyətdə toyuqiar eşələnirdi. Armud ağacının kölgəsində, ocağın üstündə yan-yana qazan asılmışdı. Bayaqdan bəri tövlənin qabağındakı çardağın kölgəsində yatan boz it, doqqazdan səs gəldiyini eşidib qulaqlarını şəklədi və birdən sıçrayıb ayağa qalxdı. Lakin o, axıra qədər qaça bilmədi. Ot tayalarının bərabərində zəncir dartıldı və boz it dal ayaqları üstünə qalxıb çırpındı. O yenidən geri qayıtdı, və bir neçə dəfə eyvanın qabağında o tərəf bu tərəfə qaçdı.
+Nəsib dayı yenicə tikan vurulmuş hündür çəpərli həyətə baxdı. Kosaoğlunun uşaqları eyvanda oynaşırdılar. Həyətdə toyuqlar eşələnirdi. Armud ağacının kölgəsində, ocağın üstündə yan-yana qazan asılmışdı. Bayaqdan bəri tövlənin qabağındakı çardağın kölgəsində yatan boz it, doqqazdan səs gəldiyini eşidib qulaqlarını şəklədi və birdən sıçrayıb ayağa qalxdı. Lakin o, axıra qədər qaça bilmədi. Ot tayalarının bərabərində zəncir dartıldı və boz it dal ayaqları üstünə qalxıb çırpındı. O yenidən geri qayıtdı, və bir neçə dəfə eyvanın qabağında o tərəf bu tərəfə qaçdı.
 
-Nəsib dayı ilə yanaşı dayanan İmran, itin zəncirinin həyət boyu çəkilmiş yoğun məftilə keçirildiyini gördü. İt qaçdıqca, zəncir məftilin üstü ilə sürüşüb cingildəyirdi. İmran acı-acı gülümsündü: "Zalım oğlu gör nə fıkirləşib, qapı-bacasını necə də güdür!"
+Nəsib dayı ilə yanaşı dayanan İmran, itin zəncirinin həyət boyu çəkilmiş yoğun məftilə keçirildiyini gördü. İt qaçdıqca, zəncir məftilin üstü ilə sürüşüb cingildəyirdi. İmran acı-acı gülümsündü: "Zalım oğlu gör nə fikirləşib, qapı-bacasını necə də güdür!"
 
 Şahnaz səs-küyə bayıra çıxdı. Onun başı açıq idi. Əlindəki daraqla yoğun hörüklərinin ucunu düzəldirdi. O, itə acıqlandı, evə qayıdıb əyninə başqa paltar geymək istədi, lakin fikrindən daşındı.
 
@@ -330,7 +330,7 @@ O tələsmədi, qazanların yanında hərləndi, pıqqıldayıb qaynayan bəhmə
 
 Nəsib dayı əsəbiləşsə də, özünü saxlayırdı. Şahnaz gözünü İmrandan çəkmirdi. Özünü laqeyd aparan İmran da hərdənbir gözaltı qıza baxır, onun dəyişdiyini, daha da gözəlləşdiyini görürdü.
 
-Sayalı asta-asta onlara yaxınlaşdt:
+Sayalı asta-asta onlara yaxınlaşdı:
 
 – Nə istəyirsiniz? - deyə qəzəblə soruşdu.
 

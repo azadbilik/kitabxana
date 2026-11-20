@@ -40,6 +40,6 @@ Bütün qatarlara, təyyarələrə,
 Dağlara, düzlərə, çəmənliklərə
 İstefa vermişəm şerə görə,
 Mənəm, dörd divardır, kağız qələmdir,
-Ymidim, köməyim yalnız qələmdir...
+Ümidim, köməyim yalnız qələmdir...
 
 *1993.*

@@ -27,7 +27,7 @@ Günorta tamam olur. Şəhər saatı uzaqdan on iki dəfə zəng çalır və int
 
 Və həmin vaxt uzaqdan əzan səsi gəlir, musiqi minacat havasını çalır, mömün musəlman “lailahə-illəllah” – deyib uşaqlara pul verib gedir.
 
-Qalır uşaqların yanında tək bircə lal. Bu nə zəngi eşitdi, nə əzanı; ancaq məşğuldur uşaqlara. Uşaqlar yenə ağlamağa başlayanda lal gedir dizi üstə çökür uşaqların qabağında və iki əlləri ilə qucağını açıb, uşaqları qucağına almaq istəyir. Uşaqlar əvvəl laldan qorxan kimi olub geri çəkilirlər. Külək qalxır və soyuqdanmı, qorxudanmı, uşaqlar başlayırlar titrəməyə. Lal bunu görcək qalxır ayağa və bir qədər geri çəkilir. Uşaqlar sağa-sola baxıb, bir kəsi görmürlər, başlayırlar “dədə vay!” – deyib ağlamağa və yavaş-yavaş yavuqlaşırlar lala tərəf. Bu da dübarə gəlib çökur dizi üstə, əllərinin birinin üstünə uşaqların birini və o birinin üstünə digərini mindirib, durur ayağa və başlayır getməyə.
+Qalır uşaqların yanında tək bircə lal. Bu nə zəngi eşitdi, nə əzanı; ancaq məşğuldur uşaqlara. Uşaqlar yenə ağlamağa başlayanda lal gedir dizi üstə çökür uşaqların qabağında və iki əlləri ilə qucağını açıb, uşaqları qucağına almaq istəyir. Uşaqlar əvvəl laldan qorxan kimi olub geri çəkilirlər. Külək qalxır və soyuqdanmı, qorxudanmı, uşaqlar başlayırlar titrəməyə. Lal bunu görcək qalxır ayağa və bir qədər geri çəkilir. Uşaqlar sağa-sola baxıb, bir kəsi görmürlər, başlayırlar “dədə vay!” – deyib ağlamağa və yavaş-yavaş yavuqlaşırlar lala tərəf. Bu da dübarə gəlib çökür dizi üstə, əllərinin birinin üstünə uşaqların birini və o birinin üstünə digərini mindirib, durur ayağa və başlayır getməyə.
 
 Musiqi buna munasib hava çalır.
 

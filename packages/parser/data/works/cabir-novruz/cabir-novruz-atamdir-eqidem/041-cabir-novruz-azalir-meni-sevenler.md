@@ -43,7 +43,7 @@ Qanımda saflaşma gedir…
 
 Azalır yalan qiymətlər,
 Keyfi, ruhu şad oluram.
-Süni mehr-məhəbblətlər,
+Süni mehr-məhəbbətlər,
 Torundan azad oluram.
 
 Necə glçüm, görən, necə,

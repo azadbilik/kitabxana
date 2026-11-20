@@ -15,7 +15,7 @@ Ha iki gündən bir qəzetlərdə oxuyuruq ki, filan bakılı vurdu filan bakıl
 
 * * *
 
-Mən bu məsələni ondan ötrü ortalığa qoymuram ki, bakılıların o dünyaya getmələrinə çox darıxıram; yox, mənim məqsədim oxucularımın nəzərinə bunu yetirməkdir ki, burada bu qədər qan tökülməyə bais müsəlman qardaşların bir-birindən “qisas” almağıdır və bu da, necə ki məlumdur, islam dininnn təqazalarından biridir.
+Mən bu məsələni ondan ötrü ortalığa qoymuram ki, bakılıların o dünyaya getmələrinə çox darıxıram; yox, mənim məqsədim oxucularımın nəzərinə bunu yetirməkdir ki, burada bu qədər qan tökülməyə bais müsəlman qardaşların bir-birindən “qisas” almağıdır və bu da, necə ki məlumdur, islam dininin təqazalarından biridir.
 
 * * *
 

@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Həsən ağa ətrafa səpələnmiş quru budaqlardan bir qucaq yığdı, gətirib meyitin yanında yerə tökdü. Əlləri əsə-əsə ciblərini axtardı. Kibrit çıxardıb ocaq qaladı. Meşəyə qızıl dilli alovun işığı yayıldı. Sonra iri bir kötüyü sürüyüb ocağa qoydu. Bir xeyli çartıltıyla yanan odunlara baxdı.
 
-Alan yerə yatdı. Qabaq ayaqlarının üstündə, xəzəli xışıldada-xişıldada, zingildəyə-zingildəyə meyitin bərabərinə qədər süründü. Onu imsilədi və birdən dik atılıb geri sıçradı. Həsən ağa dolmuşdu. Başını əlləri arasına alıb, için-için, korun-korun ağladı. Elə bil Alan bunu başa düşdü. Ulamasına ara verib təzədən yerə yatdı. Bu dəfə sürünə-sürünə Həsən ağaya yaxınlaşdı. İtin zingiltisini eşidən kişi əlini onun başına çəkdi. İt özünə həyan tapmış kimi sivişib ona lap yaxınlaşdı. Quyruğunu buladı, Həsən ağanın bədəninə qısıldı. Hər ikisi titrəyirdi. Həsən ağa itin bu hərəkətindən ürəkləndi, özünə həmdərd tapmış kimi oldu. Bədəninin titrəməsi azaldi. Əlini əsim-əsim əsən Alanın başına çəkdi. "İndi nə eləyək, Alan, bu dərdi kimə söyləyək? Özün gördün ki, məndə günah olmadı, bədbəxt oğlunu əcəl çəkib bura gətirdi! Özünün də evini yıxdı, mənim də. İndi mənə kim inanacaq?". Kişinin yanaqlarından yaş yuvarlandı. Elə bil Alan da ağlayırdı, ocağın işığında gözləri parıldayırdı.
+Alan yerə yatdı. Qabaq ayaqlarının üstündə, xəzəli xışıldada-xişıldada, zingildəyə-zingildəyə meyitin bərabərinə qədər süründü. Onu imsilədi və birdən dik atılıb geri sıçradı. Həsən ağa dolmuşdu. Başını əlləri arasına alıb, için-için, korun-korun ağladı. Elə bil Alan bunu başa düşdü. Ulamasına ara verib təzədən yerə yatdı. Bu dəfə sürünə-sürünə Həsən ağaya yaxınlaşdı. İtin zingiltisini eşidən kişi əlini onun başına çəkdi. İt özünə həyan tapmış kimi sivişib ona lap yaxınlaşdı. Quyruğunu buladı, Həsən ağanın bədəninə qısıldı. Hər ikisi titrəyirdi. Həsən ağa itin bu hərəkətindən ürəkləndi, özünə həmdərd tapmış kimi oldu. Bədəninin titrəməsi azaldı. Əlini əsim-əsim əsən Alanın başına çəkdi. "İndi nə eləyək, Alan, bu dərdi kimə söyləyək? Özün gördün ki, məndə günah olmadı, bədbəxt oğlunu əcəl çəkib bura gətirdi! Özünün də evini yıxdı, mənim də. İndi mənə kim inanacaq?". Kişinin yanaqlarından yaş yuvarlandı. Elə bil Alan da ağlayırdı, ocağın işığında gözləri parıldayırdı.
 
 Xeyli beləcə oturdular. Sonra Həsən ağa astaca ayağa durdu. Tüfəngləri götürüb qamətini düzəltdi. Bir xeyli çatırtı ilə yanan ocağa, alovun işığında uzanmış Ələddinin sifətinə baxdı. Köksünü ötürüb asta addımlarla uzaqlaşmağa başladı. İt də durdu. Quyruğunu qısıb yazıq-yazıq boylandı. Həsən ağa geri döndü. Gözləri Alanın gözlərinə sataşdı və gördü ki, itin üzündə, gözlərinin altı bərabərində iki sulu zolaq işıldayır. Onu yenidən qəhər boğdu: "Sən burda qalarsan, yaxşımı, Alan, Ələddini meşədə tək qoymaq olmaz. Onun yanında, ocağın qırağında oturarsan. Qoymazsan qurd-quş yaxın gələ, yaxşımı? Mən də gedim kəndə görüm neyləyirəm, başıma haranın daşını salıram". Alan elə bil deyilənləri başa düşdü. Bir ocağın işığında aydın görünən meyitə, bir də Həsən ağaya baxdı. Çömbəldi. Həsən ağa qaranlıqda gözdən itəndən sonra ağzını göyə tutub, acı-acı uladı.
 
@@ -32,7 +32,7 @@ Birdən qabaqdan şıqqıltı və at fınxırtısı eşidildi. Həsən ağa diks
 
 – Nə olub?
 
-Həsən ağa dinmədi. Şəıniddin ağa gördü ki, qardaşı büzüşüb. Elə bil onun enli kürəyi, geniş sinəsi qatlanmış, beli də oyilmişdi. Şəmid-din ağa otrafa boylandı.
+Həsən ağa dinmədi. Şəıniddin ağa gördü ki, qardaşı büzüşüb. Elə bil onun enli kürəyi, geniş sinəsi qatlanmış, beli də əyilmişdi. Şəmid-din ağa ətrafa boylandı.
 
 – Bə, Ələddin hanı?
 
@@ -66,4 +66,4 @@ Həsən ağa dinmədi. Bilmədi sözə nədən və necə başlasın, əhvalatı 
 
 Qardaşının acıqlı səsi elə bil Həsən ağanı özünə gətirdi. Əlinin arxası ilə gözünü silib dirçəldi. Şəmiddin ağa atını yedəkləyib qabağa düşdü. İri addımlarla işıq gələn tərəfə yeridi.
 
-Alan çənəsini biləklərinin üstünə qoyub meyitin yanında uzanmışdı. Xəzəl xışıitısı və at fınxırtısı eşidən kimi dik atıldı. At onu görən təkin oxrandı. Alan iki-üç sıçrayışla özünü onların üstünə saldı. İt atı, at da iti imsilədi. Alan sahibinin ayaqlarına dolaşdı, quyruğunu bulayıb fırlandı. Birdən nəyisə xatırlamış kimi dayandı. Ağzını göyə tutub acı-acı uladı. At da onun səsinə səs verdi. Ayaqlarını yerə döyüb kişnədi.
+Alan çənəsini biləklərinin üstünə qoyub meyitin yanında uzanmışdı. Xəzəl xışıltısı və at fınxırtısı eşidən kimi dik atıldı. At onu görən təkin oxrandı. Alan iki-üç sıçrayışla özünü onların üstünə saldı. İt atı, at da iti imsilədi. Alan sahibinin ayaqlarına dolaşdı, quyruğunu bulayıb fırlandı. Birdən nəyisə xatırlamış kimi dayandı. Ağzını göyə tutub acı-acı uladı. At da onun səsinə səs verdi. Ayaqlarını yerə döyüb kişnədi.

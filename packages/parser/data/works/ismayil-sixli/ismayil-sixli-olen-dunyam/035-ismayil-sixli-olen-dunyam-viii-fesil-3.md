@@ -36,7 +36,7 @@ Fətullayev ayağa durdu. Otaqda bir xeyli gəzindi və üzünü yenə Mustafa k
 
 – Mustafa qağa, Çapıq Əmrahı gətirdilər.
 
-Mustafa kişidən qabaq yaldaş Fətullayev təəccüb və həyəcanla dilləndi:
+Mustafa kişidən qabaq yoldaş Fətullayev təəccüb və həyəcanla dilləndi:
 
 – Kimi?!
 

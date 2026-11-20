@@ -20,7 +20,7 @@ Zeynəb əvvəllər ötən günləri yadına salmazdı. İndi özü də bilməd�
 
 Zeynəb birbaş taxılın içinə qaçdı; dayanıb sünbülləri sinəsinə basdı. Birdən onun qulağına tanış bir səs gəldi. Dönüb qaldı. Özündən xeyli aralı taxılın içində dayanan İmranı gördü. Qaçıb yanına getmək istədi. Amma qüruruna sığışdırmadı. "Qoy o mənim yanıma gəlsin, mən qız ola-ola onun ayağına getməyəcəm ha".
 
-Lakin İmran ona ötəri bir nəzər salıb uzaqlaşdı. Zeynəb buna dözə bilmədi. Taxılın arasından çıxıb çaya tərəf qaçdı. Elə bu vaxt zorba bir it onun üstünə atıldı. Zeynəb ancaq bircə dəfə qışqırdı. Səsə özünü yetirən İmran, Zeynəbin boğazından yapışmaq istəyən iti qovdu. Onlar çaya qədər sakitcə getdilər. Sahildə ayaqqabılarını çıxartdılar. Zeynəb donunun ətəyini dəstələyib, İmranın qolundan tutdu. Su elə duru idi ki, çayın dibinduki daşlar, sürü ilə qaçan balıqlar aydın görünürdü. Ortalara getdikcə çay dərinləşirdi. Zeynəbin ayağının altından daşlar qaçır, qum ovulurdu. O yıxılmamaq üçün İmrana daha möhkəm qısılırdı. İmran qolunu onun belinə doladı. Zeynəb üşüdüyündənmi, yoxsa nədənsə titrədi. İmran dönüb onun gözlərinə baxdı. -Zeynəb...
+Lakin İmran ona ötəri bir nəzər salıb uzaqlaşdı. Zeynəb buna dözə bilmədi. Taxılın arasından çıxıb çaya tərəf qaçdı. Elə bu vaxt zorba bir it onun üstünə atıldı. Zeynəb ancaq bircə dəfə qışqırdı. Səsə özünü yetirən İmran, Zeynəbin boğazından yapışmaq istəyən iti qovdu. Onlar çaya qədər sakitcə getdilər. Sahildə ayaqqabılarını çıxartdılar. Zeynəb donunun ətəyini dəstələyib, İmranın qolundan tutdu. Su elə duru idi ki, çayın dibindəki daşlar, sürü ilə qaçan balıqlar aydın görünürdü. Ortalara getdikcə çay dərinləşirdi. Zeynəbin ayağının altından daşlar qaçır, qum ovulurdu. O yıxılmamaq üçün İmrana daha möhkəm qısılırdı. İmran qolunu onun belinə doladı. Zeynəb üşüdüyündənmi, yoxsa nədənsə titrədi. İmran dönüb onun gözlərinə baxdı. -Zeynəb...
 
 – Nə var?
 
@@ -50,7 +50,7 @@ Səhər tezdən qaça-qaça Nərgiz müəllimənin yanına getdi. İçəri girə
 
 – Dedi ki, səni sevirəm. Bilirsənmi, Nərgiz müəllimə, özümü necə itirdim! Yadıma düşəndə indi də titrəyirəm. Üzümə elə baxırdı ki...
 
-Nərgiz müəllimə fikrə getdi. Onun gözləri hara isə uzaqlara baxırdı. Sifəti rəngdən-rəngə düşürdd. Nəhayət, Zeynəb bunu sezdi. "Görəsən ona nə oldu, qəlbinə toxunan bir söz demədim ki?"
+Nərgiz müəllimə fikrə getdi. Onun gözləri hara isə uzaqlara baxırdı. Sifəti rəngdən-rəngə düşürdü. Nəhayət, Zeynəb bunu sezdi. "Görəsən ona nə oldu, qəlbinə toxunan bir söz demədim ki?"
 
 – Nərgiz bacı.
 

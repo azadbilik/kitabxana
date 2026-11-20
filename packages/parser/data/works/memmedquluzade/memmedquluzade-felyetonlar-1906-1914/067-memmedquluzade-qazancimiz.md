@@ -43,7 +43,7 @@ Buradan bir haşiyə çıxaq:
 
 Hərdənbir oturaram və papağımı qabağıma qoyub fikirləşərəm və öz-özümə deyərəm: “Ay rəhmətliyin oğlu, axı bu müsəlmanlardan nə istəyirsən?”, sonra öz özümə cavab verərəm ki, “vallah heç özüm də bilmirəm ki, nə istəyirəm”.
 
-Məsələn, dünən yenə Misirdə çıxan “Sancaq” qəzetinin 67-ci nömrəsini qabağıma qoyub oxuyurdum, orada bir belə məqalə var idi: “Milləti-islamiyyənin inhitatı”; yəni: “Müsəlmanların yüxarıdan guruppultu ilə aşağa düşməyi”.
+Məsələn, dünən yenə Misirdə çıxan “Sancaq” qəzetinin 67-ci nömrəsini qabağıma qoyub oxuyurdum, orada bir belə məqalə var idi: “Milləti-islamiyyənin inhitatı”; yəni: “Müsəlmanların yuxarıdan guruppultu ilə aşağa düşməyi”.
 
 Bu məqaləni oxuyandan sonra, yenə öz-özümə dedim ki, axı ay rəhmətliyin oğlu, bu müsəlmanlardan nə istəyirsən? Sonra yenə özözümə dedim: “Vallah bilmirəm, nə istəyirəm”.
 

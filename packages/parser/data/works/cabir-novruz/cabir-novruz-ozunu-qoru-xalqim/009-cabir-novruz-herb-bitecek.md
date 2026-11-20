@@ -88,7 +88,7 @@ Onda necə çıxacaqlar
 El içinə…
 Soruşuram dönə-dönə, təkrar-təkrar,
 Hansı üzlə onlar, axı,
-Hansı üzlə tıxacaqlar,
+Hansı üzlə çıxacaqlar,
 Çörəyini bu torpağın?..
 Soruşuram, təkrar-təkrar, dönə-dönə,
 Eşidirəm ürəyimin qərarını,

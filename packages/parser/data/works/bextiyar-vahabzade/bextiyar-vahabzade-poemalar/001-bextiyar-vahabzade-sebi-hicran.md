@@ -185,7 +185,7 @@ Biri deyir ki, sənət hər bir şeydən öncədir.
 Biri deyir ki, sənət adicə əyləncədir.
 Biri deyir ki, sənət cəlb edə bilmir məni.
 Biri deyir ki, sənət insan düşüncəsini,
-Fikrini, xəyalnı uçurur qanadında...
+Fikrini, xəyalını uçurur qanadında...
 Tələbələr içində Əbdül Kərim adında
 Bir sivaslı gənc vardı,
 Tay-tuşları hamısı ona hörmət qoyardı.
@@ -371,7 +371,7 @@ Səslənir şairin qulaqlarında.
 Leyla qızıl donlu bir səhər kimi
 Süzülüb qapıdan girir bu anda.
 Məhəmməd - Aman, bu xəyalmı, röyamı? Əsla!
-Yox, bu xəyal deyil, özudür...
+Yox, bu xəyal deyil, özüdür...
 – Leyla!
 Leyla - Məhəmməd!
 Məhəmməd - Ah, Leyla de, bu sənmisən?
@@ -450,7 +450,7 @@ Sən Türk diyarının öz övladısan!
 Doğrudur, sən indi qürbət eldəsən,
 Ancaq ürəyində yaşasın Vətən.
 Vətənin öz dili, öz tarixi var,
-Ölsün Vətənini tanimayanlar!
+Ölsün Vətənini tanımayanlar!
 Qoy sənin şeirində dil açsın Vətən!
 Onun küləkləri, onun çayları,
 Biz ayrı düşsək də, öz elimizdən,
@@ -653,7 +653,7 @@ Onun əlindən aman, onun felindən aman!
 
 Bu dərdə tutulanlar insanlığa yad olur.
 Adı insan olsa da, insana cəllad olur!
-Şərqin dərdi böyükdür qəditn tarixi qədər,
+Şərqin dərdi böyükdür qədim tarixi qədər,
 Didir biri-birini təriqətlər, nəsillər.
 Qardaş qardaşa düşmən, oğul ataya düşmən,
 Didir biri-birini xaqanlar hikkəsindən.
@@ -2196,7 +2196,7 @@ Məlul-məlul boylanıb, qan ağlayır elə bil.
 İnsan baxışlarıdır,
 Bunlar soyuq daş deyil.
 Dəhşət alır qocanı.
-Basir onu soyuq tər.
+Basır onu soyuq tər.
 Bütün bu cahi-cəlal, bu daşlar, bu bəzəklər
 Özü öz ayağıyla toplanmamış bu qəsrə.
 O, qabıqdan çıxıbdır hər biriyçün min kərə.
@@ -2235,7 +2235,7 @@ Aman Allah, işə bax!
 Füzulisən yoxsa sən? Sükut...
 – Sən gərdişə bax!
 Dayan, deyə o keçdi yan otağa...
-Bir azdan əlində bir medalyon o, qayıtdi.
+Bir azdan əlində bir medalyon o, qayıtdı.
 – Ah!.. Aman!
 Medalyonu görüncə şair dondu yerində,
 Tərpənə də bilmədi, o uçundu yerində.
@@ -2271,7 +2271,7 @@ Onun o düyümlənən müqəvvəs qaşlarında
 Ağsaçlı qoca Şərqin dərdi yatır elə bil.
 Alnındakı qırışlar adicə qırış deyil,
 Öz xalqının keçdiyi iztirab yollarıdır!
-Gözdən axan incilər dovlətidir, varıdır.
+Gözdən axan incilər dövlətidir, varıdır.
 Quşqonmaz zirvələri andırır bu halında,
 Göz yaşı həlqələnmiş elə bil saqqalında
 Vətən qayalarının üzündə kölgəsi var,
@@ -2384,7 +2384,7 @@ Verir onu Fəzliyə.
 *Ki, məlum ola dərd əhlinə qəbrim ol əlamətdən...*
 
 Müqəddəs Kərbəlaya bəla gəldi, bir bəla.
-Bir həftədə qocalib əldən düşdü Kərbəla.
+Bir həftədə qocalıb əldən düşdü Kərbəla.
 Taun gəldi, nə gəldi, bu bəlanı, bu dərdi,
 İlahinin özümü bu diyara göndərdi?
 Qiyamədir bəlkə bu?

@@ -16,7 +16,7 @@ Nərgiz müəllimə bu səhər lap tezdən durmuşdu. O, tarlaları gəzmək, t�
 
 Kəndin ortası ilə bir dəstə qız gedirdi. Yaşıl, bənövşəyi, sarı, qırmızı, yelənli kəlağayıların ucları yellənirdi. İpək koftatar, güllü donlar adamın gözünü qamaşdırırdı. Çiyinlərində kətmən qızlar gülüşür, arabir də zarafat edib bir-birini qovurdular.
 
-Bağlardakı ağacların budaqları çəpərin üstündən aşıb yola kölgə salmışdı. Qızlar ağacların altından keçdikcə, çiyinlərində çal-çarpaz kölgələr oynaşırdı. Yolun dar yerlərində ağacların budaqları o tay-bu taydan bir-birinə qarışmışdı. Yollar ala-bəzək idi, ağ, çəhrayı çıçəklər yerə səpələnmişdi.
+Bağlardakı ağacların budaqları çəpərin üstündən aşıb yola kölgə salmışdı. Qızlar ağacların altından keçdikcə, çiyinlərində çal-çarpaz kölgələr oynaşırdı. Yolun dar yerlərində ağacların budaqları o tay-bu taydan bir-birinə qarışmışdı. Yollar ala-bəzək idi, ağ, çəhrayı çiçəklər yerə səpələnmişdi.
 
 Nərgiz müəllimə qızlardan bir az aralı asta-asta gedir, hərdan başını qaldırıb, damların üstündə oxuyan sığırçınlara baxırdı. Günəşin şüaları altında parıldayan bu quşlar tüklərini qabardıb dimdiklərinı şaqqıldada-şaqqıldada oxuyurdular. Elə bil onları titrətmə tutmuşdu. Boynu göy qurşağı kimi yüz rəngə çalan sığırçınlar susmamış bülbüllər cəh-cəh vururdular.
 
@@ -60,7 +60,7 @@ Nərgiz müəllimə bir uşaq sadəlövhlüyü ilə sevinib dərindən nəfəs a
 
 – Hələ dalına qulaq as. Gəlin quşa dönüb çəmənə qonandan sonar yadına düşür ki, bıçaq taxçadakı boxçadadır. Elə o vaxtdan oxuya-oxuya gəzir. Bircə qulaq as.
 
-Quş doğradan da elə bil Zeynəbin dediklərini təkrar edirdi: "Taxçada, boxçada",
+Quş doğrudan da elə bil Zeynəbin dediklərini təkrar edirdi: "Taxçada, boxçada",
 
 – Bəs o gəlinin adı nəymiş?
 
@@ -80,7 +80,7 @@ Nərgiz könülsüz cavab verdi:
 
 – Eşitməyibsən nə söz çıxardıblar?
 
-– Belə, ağrım ürəklərinə! O qədər danışsınlar ki... Sizin ki aramzda bir söhbət olmayıb... Yoxsa...
+– Belə, ağrım ürəklərinə! O qədər danışsınlar ki... Sizin ki aramızda bir söhbət olmayıb... Yoxsa...
 
 O, diqqətlə Nərgiz müəllimin üzünə baxdı. Ürəyi döyündü. Səbirsizliklə onun nə deyəcəyini gözlədi. Qız elə bir vəziyyət aldı ki, guya bütün həyat müəllimənin verəcəyi cavabdan asılı idi. Nərgiz də özünü itirdi. Yanaqları xəfifcə qızardı.
 

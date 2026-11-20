@@ -19,7 +19,7 @@ Gah vaxt yay fəsli küçə ilə keçən vaxt görürsən ki, Məşədi Molla H�
 
 Qış fəsli məscidin qabağından keçəndə görürsən ki, Məşədi Molla Həsən əbaya bürünüb və qabağına bir manğal qoyub, əyilib az qalır manğalı qucaqlasın. Ya bir vaxt keçəndə görürsən bir qəribə çömbəlib Məşədinin qabağında və əlləri ilə yavaş-yavaş manğalın odlarını deşir və Məşədi Molla Həsən sol əlində yazılı bir kağız tutub, sağ əlini qoltuğuna soxub kağızı oxuyur: “Məndən dua yetirəsiniz əmoğlum Kərbəlayı Qasıma, dayıoğlum Cəfərə, bibimə, Səkinə xanıma, Gülsüm əmiqızıma. Məndən dua yetirin Heydərə, Kərbəlayı Əliyə. Məndən dua yetirin Məşədi Xəlilə, Məşədi İskəndərə və Hüseynə və Qulaməliyə və Məşədi Zülfüqara və Usta Zeynala. Məndən çox-çox dua yetirin Məşədi Rüstəm əmimə və Nəcəfəliyə və Bayrama, Orucəliyə və Səbzəliyə və Kərbəlayı İsmayıla və Məhəmmədə. Və Məhəmmədə degilən ki, qardaşı Murtuzaqulu sağ və salamatdır və İrəvanda Hacı Həmidin bağında bağbandır və bir arvad da alıb, uşağı da olub və çox-çox dua göndərir və uşağın gözləri ağrıyır, amma şükür Allaha, özü salamatdır və çox-çox dua göndərir…”.
 
-Məşədi Molla Həsən İran əhlidir. On-on iki il bundan irəli Məşədi İraəvanda başına yeddi-səkkiz müsəlman uşağı yığıb müdərrislik elərdi. Axırda uşaqlar bir-bir başladılar dağılmağa; o səbəbə ki, uşağın biri dərsini bilməyəndə Məşədi Molla Həsən tüpürürdü uşağın üzünə. Bir neçə dəfə uşaqlar gedib atalarına şikayət elədilər, bir neçə dəfə uşaqların atası gəlib Mollanın üzünə tüpürdü. Amma bunlar hamısı ötüşərdi, əgər uşaqlar dağılmasa idilər.
+Məşədi Molla Həsən İran əhlidir. On-on iki il bundan irəli Məşədi İrəvanda başına yeddi-səkkiz müsəlman uşağı yığıb müdərrislik elərdi. Axırda uşaqlar bir-bir başladılar dağılmağa; o səbəbə ki, uşağın biri dərsini bilməyəndə Məşədi Molla Həsən tüpürürdü uşağın üzünə. Bir neçə dəfə uşaqlar gedib atalarına şikayət elədilər, bir neçə dəfə uşaqların atası gəlib Mollanın üzünə tüpürdü. Amma bunlar hamısı ötüşərdi, əgər uşaqlar dağılmasa idilər.
 
 Uşaqlar dağıldılar.
 
@@ -393,9 +393,9 @@ Kərbəlayı Məmmədəli paltarını geyib, durdu getdi işə və günortadan i
 
 – Bir şey yoxdu.
 
-Pərinisə gətirdi ərinin qabağına pendir-çörək qoydu və özü də oturdu ərinin yanında. Kərbəlayı Məmmədəli çörəkdən bir tikə ağzına qoyub bvşladı:
+Pərinisə gətirdi ərinin qabağına pendir-çörək qoydu və özü də oturdu ərinin yanında. Kərbəlayı Məmmədəli çörəkdən bir tikə ağzına qoyub başladı:
 
-– Ay qız, bə sənin yuxun necə oldu? Bə deyirdın: bu gün xəbər çıxacaq?
+– Ay qız, bə sənin yuxun necə oldu? Bə deyirdin: bu gün xəbər çıxacaq?
 
 Pərinisə belə cavab verdi:
 

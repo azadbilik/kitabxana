@@ -198,7 +198,7 @@ Biri deyir ki, sənət hər bir şeydən öncədir.
 Biri deyir ki, sənət adicə əyləncədir.
 Biri deyir ki, sənət cəlb edə bilmir məni.
 Biri deyir ki, sənət insan düşüncəsini,
-Fikrini, xəyalnı uçurur qanadında...
+Fikrini, xəyalını uçurur qanadında...
 Tələbələr içində Əbdül Kərim adında
 Bir sivaslı gənc vardı,
 Tay-tuşları hamısı ona hörmət qoyardı.
@@ -394,7 +394,7 @@ Səslənir şairin qulaqlarında.
 Leyla qızıl donlu bir səhər kimi
 Süzülüb qapıdan girir bu anda.
 Məhəmməd - Aman, bu xəyalmı, röyamı? Əsla!
-Yox, bu xəyal deyil, özudür...
+Yox, bu xəyal deyil, özüdür...
 – Leyla!
 Leyla - Məhəmməd!
 Məhəmməd - Ah, Leyla de, bu sənmisən?
@@ -477,7 +477,7 @@ Sən Türk diyarının öz övladısan!
 Doğrudur, sən indi qürbət eldəsən,
 Ancaq ürəyində yaşasın Vətən.
 Vətənin öz dili, öz tarixi var,
-Ölsün Vətənini tanimayanlar!
+Ölsün Vətənini tanımayanlar!
 Qoy sənin şeirində dil açsın Vətən!
 Onun küləkləri, onun çayları,
 Biz ayrı düşsək də, öz elimizdən,
@@ -692,7 +692,7 @@ Onun əlindən aman, onun felindən aman!
 
 Bu dərdə tutulanlar insanlığa yad olur.
 Adı insan olsa da, insana cəllad olur!
-Şərqin dərdi böyükdür qəditn tarixi qədər,
+Şərqin dərdi böyükdür qədim tarixi qədər,
 Didir biri-birini təriqətlər, nəsillər.
 Qardaş qardaşa düşmən, oğul ataya düşmən,
 Didir biri-birini xaqanlar hikkəsindən.
@@ -2315,7 +2315,7 @@ Məlul-məlul boylanıb, qan ağlayır elə bil.
 İnsan baxışlarıdır,
 Bunlar soyuq daş deyil.
 Dəhşət alır qocanı.
-Basir onu soyuq tər.
+Basır onu soyuq tər.
 Bütün bu cahi-cəlal, bu daşlar, bu bəzəklər
 Özü öz ayağıyla toplanmamış bu qəsrə.
 O, qabıqdan çıxıbdır hər biriyçün min kərə.
@@ -2356,7 +2356,7 @@ Aman Allah, işə bax!
 Füzulisən yoxsa sən? Sükut...
 – Sən gərdişə bax!
 Dayan, deyə o keçdi yan otağa...
-Bir azdan əlində bir medalyon o, qayıtdi.
+Bir azdan əlində bir medalyon o, qayıtdı.
 – Ah!.. Aman!
 Medalyonu görüncə şair dondu yerində,
 Tərpənə də bilmədi, o uçundu yerində.
@@ -2394,7 +2394,7 @@ Onun o düyümlənən müqəvvəs qaşlarında
 Ağsaçlı qoca Şərqin dərdi yatır elə bil.
 Alnındakı qırışlar adicə qırış deyil,
 Öz xalqının keçdiyi iztirab yollarıdır!
-Gözdən axan incilər dovlətidir, varıdır.
+Gözdən axan incilər dövlətidir, varıdır.
 Quşqonmaz zirvələri andırır bu halında,
 Göz yaşı həlqələnmiş elə bil saqqalında
 Vətən qayalarının üzündə kölgəsi var,
@@ -2513,7 +2513,7 @@ Verir onu Fəzliyə.
 *Ki, məlum ola dərd əhlinə qəbrim ol əlamətdən...*
 
 Müqəddəs Kərbəlaya bəla gəldi, bir bəla.
-Bir həftədə qocalib əldən düşdü Kərbəla.
+Bir həftədə qocalıb əldən düşdü Kərbəla.
 Taun gəldi, nə gəldi, bu bəlanı, bu dərdi,
 İlahinin özümü bu diyara göndərdi?
 Qiyamədir bəlkə bu?
@@ -3793,7 +3793,7 @@ Yarım o tayda qaldı.
 Toyum burda çalındı,
 Yarım o tayda qaldı.
 Daha bu əzablara
-Canimda bir tabım yox...
+Canımda bir tabım yox...
 Mən təpədən-dırnağa
 Sualam...
 Cavabım yox...
@@ -3882,7 +3882,7 @@ Onun gülüşləri səbirdənmi?
 Yox!.. O, kinin, qəzəbin qəhqəhəsidir.
 Onun gülüşləri bir atəş, bir ox!
 Səbrə qılınc çəkən üsyan səsidir!
-Dardini xalqıyla bölüb ağladı,
+Dərdini xalqıyla bölüb ağladı,
 O gülüb ağladı, gülüb ağladı!
 
 Cahilə nə var ki?.. Ürəklər dələn
@@ -3935,7 +3935,7 @@ Bədbəxtlər də onu anlamayanda.
 Sözüylə, şeirilə o, zaman-zaman
 Donuq şüurlara min toxum əkdi.
 Dəmir çəkic altda fəryad qoparan
-Dəmir parçasi tək o, nalə çəkdi.
+Dəmir parçası tək o, nalə çəkdi.
 Qızılı döydülər... Haray-həşirsiz
 Yapıxıb mum kimi eləcə qaldı.
 
@@ -4109,7 +4109,7 @@ O bilmir ilk mənzili
 Son mənzili haradır;
 Bu günkü əməliylə
 O, sabahı yaradır.
-Ömrü bir nur parçasi
+Ömrü bir nur parçası
 O, sabahın carçısı!..
 
 Bəli, müəllim olmaq!
@@ -4166,7 +4166,7 @@ Ona vəsiqə gərək.
 Özü bilir dalını...
 Min cənnətə dəyişməz
 O ki öz amalını.
-Mənasiz suallara
+Mənasız suallara
 Cavab verir
 Birbəbir
 O, bığaltı gülərək.
@@ -5773,7 +5773,7 @@ Bu günsə...
 başqadır hökmü zamanın,
 Cahanı qorxudur insan fitnəsi,
 Atom bombaları - köhnə dünyanın
-Başmın üstündə barmaq hədəsi.
+Başımın üstündə barmaq hədəsi.
 
 @@ 151
 
@@ -5814,7 +5814,7 @@ Həyata necə də qəlbən vuruldu.
 Elə ki, tapdılar nəşəni qəmdə,
 Hər biri özünə bir qatil oldu.
 Onlar dedilər ki, - əsəblərimiz
-Daha dözə bilmir, gərilıb simtək.
+Daha dözə bilmir, gərilib simtək.
 Könüllü gəlmədik bu dünyaya biz,
 Nə olar, dünyadan könüllü getsək?..
 
@@ -6478,7 +6478,7 @@ Onunçun elm-yük,
 Zəhmət - ziyandır.
 O, elmin yolunda mücahid deyil,
 Vurğun yolçuları yamsılayandır.
-Uzümə şiniyib o veyil-veyil,
+Özümə şiniyib o veyil-veyil,
 işarır yenə,
 Yəqin ki, o indi özünün deyil,
 Gülür tanışının gücsüzlüyünə.
@@ -7317,7 +7317,7 @@ Dəryalar ləngərlədən tufandı, tufan Çahargah.
 
 @@ 190
 
-Guşələr göy gurladır, yer titrədir, sel oynadir,
+Guşələr göy gurladır, yer titrədir, sel oynadır,
 Göndərir yadelliyə imzalı fərman Çahargah.
 
 Simlərin mizrab ilə toqquşmasından od çıxar,
@@ -7331,7 +7331,7 @@ Bəxtiyaram, heyranam bərdaştda çılğın səslərə,
 
 ### Qalalar
 
-Abşeironun qalaları
+Abşeronun qalaları
 Daşlardakı o oymalar,
 Dalğasımı qatardakı
 Həzin, şirin
@@ -7937,7 +7937,7 @@ Gir mağara,
 Yağ, ey yağış,
 Vur nağara..."
 Yağış yağır,
-Ürəymin yanğısına
+Ürəyimin yanğısına
 Dağın, daşın.
 Tut ucundan sən göyə çıx,
 Bu yağışın.
@@ -8136,7 +8136,7 @@ Daş ürəklərdə yanıb daşları sındırdı muğam.
 Haqqa düşmən olanı haqqa tapındırdı muğam.
 
 Nə güman eyləmisən ondakı tilsimləri sən,
-"Kürü ahıyla qurutdu", "Salı yandırdi" muğam.
+"Kürü ahıyla qurutdu", "Salı yandırdı" muğam.
 
 @@ 211
 
@@ -8454,7 +8454,7 @@ Açdı pəncərəni, yer-göy qışqırır.
 Qışqırır masanın üstə kitablar.
 Qışqırır qapı da, pəncərələr də.
 Qışqırır çarpayı, qışqırır divar,
-Qışqırır görpənin yatdığı yer də.
+Qışqırır körpənin yatdığı yer də.
 
 Tutdu qulağını sıxdıqca sıxdı,
 O elə bildi ki, səs çöldən gəlir.
@@ -8574,7 +8574,7 @@ Bu nə müsibətdir, gülüşlərində
 Hönkürür qəlbinin hayı, harayı.
 Özü çörək yeyir...
 Amma döşündə
-Sızlayıb ağlayır korpənin payı...
+Sızlayıb ağlayır körpənin payı...
 
 Bu nə müsibətdir, bu ne müsibət,
 Buna tablamağa bir ürək hanı?
@@ -8586,7 +8586,7 @@ Dandığın gerçəyi gerçək bil yenə.
 İnsan bir əlilə yandırır,
 ancaq
 O biri əlilə vurur dizinə.
-O da dizlərinə vurab ağladı,
+O da dizlərinə vurub ağladı,
 Oturub ağladı, durub ağladı:
 
 @@ 223
@@ -9243,7 +9243,7 @@ boylandı termometrə,
 – A kişi, bəs niyə üşüyürük biz?
 – Hava nə istiymiş, xəbərimiz yox.
 – Çölümüz istidir, içimiz soyuq.
-İndi sən gordünmü haqlıyam, lələ,
+İndi sən gördünmü haqlıyam, lələ,
 Davadan, dərmandan kar aşmaz bizə.
 Boş-boş ümidlərlə, təsəllilərlə
 Özünü aldatmaq yaraşmaz bizə.
@@ -9706,7 +9706,7 @@ Onlar çox danışıb, çox gülüşdülər.
 – Mən özüm anayam.
 O, döndü birdən
 Bələkli kuklanı götürdü yerdən.
-Qışqırdı: - Bunun da anasi mənəm.
+Qışqırdı: - Bunun da anası mənəm.
 Heç kəsə, heç kəsə bunu vermərəm!
 – Di, yaxşı, qoy olsun o, sənin balan.
 Axı, kimdir onu əlindən alan?
@@ -9973,7 +9973,7 @@ O vaxt susardılar xeyirdə, şərdə,
 O zaman evlərdə, idarələrdə
 Qara kabus kimi gəzərdi şübhə.
 Yaman yeyin idi şübhənin atı,
-Hamımiz qul idik, o, bəydi ancaq.
+Hamımız qul idik, o, bəydi ancaq.
 Birinin birinə münasibəti
 Şübhəydi,
 şübhəydi,
@@ -10216,7 +10216,7 @@ Yanır hədəfini düzgün bəlləyən
 Açıq məhəbbətim, açıq nifrətim.
 Yanır oxucuya həqiqət deyən
 Riyasız, boyasız sözüm, söhbətim.
-Dünyadan dünyaya gileyim yanir,
+Dünyadan dünyaya gileyim yanır,
 Yanan şeirlərə ürəyim yanır.
 
 Yanır, yanğısıyla məni yandırır,
@@ -10499,7 +10499,7 @@ Ehkamlar yaratdı, bütlər yaratdı.
 Apardı dalınca şüarlar bizi,
 Kütləşdi beynimiz, hissimiz tamam.
 Aldı əlimizdən düşüncəmizi
-Zülmün, istıbdadın maskası - ehkam!
+Zülmün, istibdadın maskası - ehkam!
 
 Müstəbid dəyişdi tariximizi,
 Biz gah midiyalı, gah filan olduq.
@@ -11583,7 +11583,7 @@ Yaman nalə təpərdik gülçülərin əlindən,
 Deyərdik, bu gülçülər bazarlarda pul qırır,
 "Qərənfil gözəlindən".
 Rusiya bazarında,
-Yaman rusvay edirlər, - deyərdik onlar bizi.
+Yaman rüsvay edirlər, - deyərdik onlar bizi.
 "Alverçi" damğasıyla, vallah, ləkələyirlər
 Bizim şərəfimizi.
 Həmin o alverçilər, bu gün isə əvəzsiz,

@@ -121,7 +121,7 @@ Pərvər. Dayı, vallah, mən bilmirəm ki, dəxi nə eyləyim?
 
 Mürşüd dayı o tərəfə-bu tərəfə baxır, ağzını istəyir aça bir söz danışa, amma yenə o tərəfə, bu tərəfə baxır, heç bir şey demir.
 
-Pərvər. Dayıcan, mən ölüm, de görüm, nə demək isətyirsən?
+Pərvər. Dayıcan, mən ölüm, de görüm, nə demək istəyirsən?
 
 Mürşüd dayı (alçaqdan). Amma gərək söz verəsən ki, bu söhbət öz aramızda qalacaq.
 

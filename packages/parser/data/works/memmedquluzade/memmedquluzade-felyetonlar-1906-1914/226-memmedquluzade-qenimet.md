@@ -24,7 +24,7 @@ Zarafat kənarda qalsın, amma “Din və məişət” jurnalı da doğrudan qə
 
 Həmin əvvəlinci nömrəsində teatr oynayanlar barəsində jurnal bir doğru təkfirnamə yazıb deyir ki, müsəlman teatrçıları şəriətə xilaf olan teatr tamaşasını mömün müsəlman içinə gətirmək ilə Allah bəndələrini yoldan çıxardırlar.
 
-Əlbəttə, bu sözlər səhihdir və əlbəttə bir belə yazıçı müsəlmanlar üçün qənimətdir. İndi dəxi bundan sonra dağıstanlı əzilətli Əlqədari cənabları və bunun kimi qeyri üləmamız çox da özlərindən deməsinlər, çox da qızlarımızın oxuyub müəllimə olmaqlarına çalışmasınlar, yoxsa mən “Din və məişət”in mollalarını çıxardaram onların müqabilinə, onda görüm nə cavab verəcəklər.
+Əlbəttə, bu sözlər səhihdir və əlbəttə bir belə yazıçı müsəlmanlar üçün qənimətdir. İndi dəxi bundan sonra dağıstanlı fəzilətli Əlqədari cənabları və bunun kimi qeyri üləmamız çox da özlərindən deməsinlər, çox da qızlarımızın oxuyub müəllimə olmaqlarına çalışmasınlar, yoxsa mən “Din və məişət”in mollalarını çıxardaram onların müqabilinə, onda görüm nə cavab verəcəklər.
 
 Qənimətsən, qənimətsən, qənimət,
 Yaşa, ey möhtərəm “Din və məişət”.

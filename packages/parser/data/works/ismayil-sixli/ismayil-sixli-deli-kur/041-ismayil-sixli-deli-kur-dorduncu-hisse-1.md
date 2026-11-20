@@ -14,9 +14,9 @@ status: DRAFT
 ---
 Axşam qaranlığı qatı bir kölgə kimi Qorinin üzərinə çökmüşdü. Yarımca saat bundan əvvəl zirvəsində günəşin son sarılıqlarını əks etdirən dağlar boyun-boyuna verib mürgüləyirdi. Buranın təbiəti şimala bənzəmirdi, nə bəyaz gecələr, nə də uzun sürən yay axşamları var idi. Birdən-birə zil qaranlıq çökür, birdən-birə də dan yerində şəfəqlər oynaşırdı.
 
-Semyonov artıq bunlara vərdiş etmişdi. Əvvəllər Peterburqun bəyaz gecələrinə vurğun olan Dmitri Dmitriyeviç indi də cənub axşamlarına məftunluq göstərirdi. O hər axşam pəncərə qabağında dayanıb qüruba tamaşa etməyi sevirdi. Bu gün də adəti üzrə, həmişəki yerində durub üfüqlərə baxırdı, bağ-bağat içində itən Qorinin kiçik daxmalarında yanan çıraqlar qaranlıqda parıldayan yaqlız qurdları kimi işıldayırdı.
+Semyonov artıq bunlara vərdiş etmişdi. Əvvəllər Peterburqun bəyaz gecələrinə vurğun olan Dmitri Dmitriyeviç indi də cənub axşamlarına məftunluq göstərirdi. O hər axşam pəncərə qabağında dayanıb qüruba tamaşa etməyi sevirdi. Bu gün də adəti üzrə, həmişəki yerində durub üfüqlərə baxırdı, bağ-bağat içində itən Qorinin kiçik daxmalarında yanan çıraqlar qaranlıqda parıldayan yalqız qurdları kimi işıldayırdı.
 
-Semyonov əllərini sinəsində çarpazlayıb şəhərin kənarında Kürlə qucaqlaşan Liaxva çayının qıjıltısına qulaq asırdı. Pəncərədən içəri dolan xəfif külək onun ağarmaqda olan saçını oynadır, çənəsinin aşağısında haçalanmış topa saqqalının yumşaq tükləri arasında dolanırdı. O tərəfdə, dağların ətəyində yerləşən balaca dəmiryolu vağzalının solğun işıqları görunürdü. Qatarlar ötdükcə təkərlər yeknəsəqliklə taqqıldayır, parovozlar kəsik-kəsik fit verirdi.
+Semyonov əllərini sinəsində çarpazlayıb şəhərin kənarında Kürlə qucaqlaşan Liaxva çayının qıjıltısına qulaq asırdı. Pəncərədən içəri dolan xəfif külək onun ağarmaqda olan saçını oynadır, çənəsinin aşağısında haçalanmış topa saqqalının yumşaq tükləri arasında dolanırdı. O tərəfdə, dağların ətəyində yerləşən balaca dəmiryolu vağzalının solğun işıqları görünürdü. Qatarlar ötdükcə təkərlər yeknəsəqliklə taqqıldayır, parovozlar kəsik-kəsik fit verirdi.
 
 Qapı döyüldü. Olqa Konstantinovna əlindəki tikişi kənara qoyub, asta addımlarla dəhlizə yaxınlaşdı. Qapını açarkən Aleksey Osipoviçlə qarşılaşdı. Boynunu azacıq yana əyib, qonağı içəri dəvət etdi:
 
@@ -36,13 +36,13 @@ Onlar evin küncündəki yazı masasının yanına getdilər. Dmitri Dmitriyevi�
 
 Aleksey Osipoviç ona cavab vermək istəyirdi ki, qonşu otağın qapısı açıldı. Olqa Konstantinovna yerindən durana qədər balaca Lida qonağın böyründə dayandı. Yüngülcə təzim etdi:
 
-– Xoş gördük, cənab inspektol.
+– Xoş gördük, cənab inspektor.
 
 Aleksey Osipoviç dərhal yerindən qalxdı. Ayaqlarını cütləyib balaca Lidanın önündə dayandı:
 
 – Xoş gördük, Lida Dimitriyevna, necəsiniz?
 
-– Diqqətinizə gölə minnətdalam.
+– Diqqətinizə gölə minnətdaram.
 
 Aleksey Osipoviç aşağı əyilib Lidanın balaca, zərif əlindən öpdü. Lida daha da nazlandı:
 
@@ -66,7 +66,7 @@ Olqa Konstantinovna Aleksey Osipoviçlə ərinin vacib işi olduğunu bildiyind�
 
 Lida qaşqabağını salladı. Altdan-yuxarı anasının üzünə baxdı və yerində silkələndi:
 
-– Yuxum gəlmil.
+– Yuxum gəlmir.
 
 – Adam anasının sözünə baxar. İndi get yat. Havaxt istəsən gəlib sənə nağıl danışaram.
 
@@ -150,7 +150,7 @@ Elə bil qaranlıq gecə Yer kürəsinin üzərinə qara pərdə salmaq, onu bü
 
 – Mütləq, – deyə o qətiyyətlə dilləndi. – Qığılcımlar qorlandıqca çoxalacaq, alovlanıb ətrafa işıq saçacaq. Qığılcımlardan od törəyəcək. Bilirsinizmi, Aleksey Osipoviç, mən hər axşam bu qaranlıq cənub gecələrində daxmalarda yanan işıqlara baxanda özümüzü, öz zəhmətimizi xatırlayıram. Biz qaranlıq gecədə, zülmət səltənətində yaşayırıq, deyilmi? Bizim hər bir əməlimiz qaranlıqda ildırım kimi çaxacaq, şimşək kimi parıldayacaq. Niyə susursunuz? Yoxsa mənim dediklərimi təsdiq etmək istəmirsiniz? Qorxmayın, mən inqilabçı deyiləm.
 
-Qapı döyüldü. Olqa Konstantinovna o biri otaqdan çıxıb dəhlizə getdi. Dmitri Dmitriyeviç sözünə ara verib, vaxtsız gələn qonağın kim olduğunu bilmək məqsədi ilə gözünü qapıya zillədi. Olqa Konstantinovna geriyə dönüb təlaşla ərinin üzünə baxdı. Ucaboy və namərbud hərəkətli bir polis nəfəri içəri girdi. Bir an dayanıb gözləri ilə kimi isə axtardı. Dmitri Dmitriyeviçi görən kimi dabanlarını bir-birinə vurub hərbi qaydada təzim etdi. Doşəmə silkələndi. Yoğun bir səs otağın divarlarını cingildətdi:
+Qapı döyüldü. Olqa Konstantinovna o biri otaqdan çıxıb dəhlizə getdi. Dmitri Dmitriyeviç sözünə ara verib, vaxtsız gələn qonağın kim olduğunu bilmək məqsədi ilə gözünü qapıya zillədi. Olqa Konstantinovna geriyə dönüb təlaşla ərinin üzünə baxdı. Ucaboy və namərbud hərəkətli bir polis nəfəri içəri girdi. Bir an dayanıb gözləri ilə kimi isə axtardı. Dmitri Dmitriyeviçi görən kimi dabanlarını bir-birinə vurub hərbi qaydada təzim etdi. Döşəmə silkələndi. Yoğun bir səs otağın divarlarını cingildətdi:
 
 – Cənab direktor, Sizə qayət məxfi bir məktub var. Zati-aliləri şəxsən Sizə təqdim etməyi əmr etmişdir.
 
@@ -162,7 +162,7 @@ Semyonov əsəbi hərəkətlə məktubu ondan aldı. Yazı masasına yaxınlaş�
 
 Semyonov kürsüdə əyləşdi. Şamdanı qabağına çəkdi. Zərfi işığa tutub diqqətlə baxdı. Sonra adəti üzrə siyirtmədən balaca qayçı çıxardıb zərfi ehmalca kəsdi. Eynəyini gözünə taxdı. Peşəkar bir katibin əli ilə yazılmış səliqəli məktubu oxuduqdan sonra məktubu kənara atdı və barmaqları ilə masanı taqqıldatdı.
 
-Divar saatının zəngi aramla on bir dəfə danqıldadı. Dmitri Dmitriyeviç düşüncələrdən ayrıldı. Onu sakit etmək üçün "qulluq kağızıdır", – deyə cavab verdi. Olqa Konstantinovna rahat nəfəs alıb, o biri otağa, uşaqların yanına getdi. Aleksey Osipoviç də getməyə hazırlaşdı. Məktubun gəlməsi ilə birdən-birə halı dəyişən Semyonova mane olmamağı, onu tək buraxmağı qərara aldl. Ancaq Dmitri Dmitriyeviç ona icazə vermədi. Yenidən otaqda var-gəl etdi. Birdən Aleksey Osipoviçin qarşısında dayanıb düz onun gözünün içinə baxdı:
+Divar saatının zəngi aramla on bir dəfə danqıldadı. Dmitri Dmitriyeviç düşüncələrdən ayrıldı. Onu sakit etmək üçün "qulluq kağızıdır", – deyə cavab verdi. Olqa Konstantinovna rahat nəfəs alıb, o biri otağa, uşaqların yanına getdi. Aleksey Osipoviç də getməyə hazırlaşdı. Məktubun gəlməsi ilə birdən-birə halı dəyişən Semyonova mane olmamağı, onu tək buraxmağı qərara aldı. Ancaq Dmitri Dmitriyeviç ona icazə vermədi. Yenidən otaqda var-gəl etdi. Birdən Aleksey Osipoviçin qarşısında dayanıb düz onun gözünün içinə baxdı:
 
 – Nə üçün məktubla maraqlanmırsınız?
 
@@ -172,7 +172,7 @@ Divar saatının zəngi aramla on bir dəfə danqıldadı. Dmitri Dmitriyeviç d
 
 Aleksey Osipoviç məktubu götürüb nəzərdən keçirdi.
 
-"Mərhəmotli ağa!
+"Mərhəmətli ağa!
 
 Siz cənablara məlumdur ki, Sizin təhdi-himayənizdə olan seminariyada, gürcü dilindən dərs demək üçün cənab Kipianiyə rəsmi olaraq bu şərtlə icazə verdik ki, Siz daim ona nəzarət yetirəsiniz və onu gözdən qoymayasınız. Bu işə məsul olasınız. Buna baxmayaraq, Qoridə yaşayan etibarlı və rəsmi bir şəxs məlumat vermişdir ki, Kipiani şübhəli işlərlə məşğul olur, evinə müxtəlif adamlar yığıb hökumət əleyhinə kitablar oxuyur.
 

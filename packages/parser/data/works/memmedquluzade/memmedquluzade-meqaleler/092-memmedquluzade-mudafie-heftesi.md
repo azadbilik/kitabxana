@@ -17,7 +17,7 @@ Bu qara niyyətini yerinə yetirmək məqsədi ilə Çemberlen hökuməti dünya
 
 Şura-İngiltərə münasibəti kəsiləndən bu yana görürük ki, məğrib tərəfdəki qonşu Baltik Hökumətləri, xüsusən Polşa, Rumıniya – hərə bir növ mıqqıldamağa başlayıbdırlar.
 
-Aşkardır ki, həmin vüquatın vücudu ilə Şura İttfaqı, həmişə sülh və müsalimət axtaran Şura İttifaqı daha xab-qəflətdə qalmağı əlbəttə, özünə rəva görməyəcəkdir və bərayi-ehtiyat özü üçün lazımi tədbirlər tökəcəkdir.
+Aşkardır ki, həmin vüquatın vücudu ilə Şura İttifaqı, həmişə sülh və müsalimət axtaran Şura İttifaqı daha xab-qəflətdə qalmağı əlbəttə, özünə rəva görməyəcəkdir və bərayi-ehtiyat özü üçün lazımi tədbirlər tökəcəkdir.
 
 * * *
 

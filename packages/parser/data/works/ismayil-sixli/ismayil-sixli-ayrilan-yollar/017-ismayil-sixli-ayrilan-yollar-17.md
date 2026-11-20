@@ -28,11 +28,11 @@ Nərgiz dinmədi.
 
 – Əgər qorxutdumsa, üzr istəyirəm. Mən qapını döymək istəyirdim, özünüz qabağıma çıxdınız.
 
-Onlar bir az beləcə dayandılar. Nərgiz bir əli ilə qapının dəstəyindən tutub durmuşdu. Qaranlığı yaran işıq zolağı eyvanın və pilləkəni aydınlaşdrıb, həyətdəki yaşıllığın üstünə sərilmişdi. Xırdaca bocəklər işıqda qaynaşırdı. Ortalıqdakı sükut elə dərin idi ki, arxa sıçrayıb düşən qurbağaların suyu şappıldatması eşidilirdi. Elə bil hər ikisi bir anlığa hər şeyi unudub, gecənin sakitliyini dinlədi.
+Onlar bir az beləcə dayandılar. Nərgiz bir əli ilə qapının dəstəyindən tutub durmuşdu. Qaranlığı yaran işıq zolağı eyvanın və pilləkəni aydınlaşdrıb, həyətdəki yaşıllığın üstünə sərilmişdi. Xırdaca böcəklər işıqda qaynaşırdı. Ortalıqdakı sükut elə dərin idi ki, arxa sıçrayıb düşən qurbağaların suyu şappıldatması eşidilirdi. Elə bil hər ikisi bir anlığa hər şeyi unudub, gecənin sakitliyini dinlədi.
 
 Heç biri cürət edib qabağa düşə bümirdi. Nə İmran dillənir, nə də Nərgiz onu içəri dəvət edirdi.
 
-Külək otları, yarpaqları xışıldatdı. Nsrgiz fikirdən ayıldı.
+Külək otları, yarpaqları xışıldatdı. Nərgiz fikirdən ayıldı.
 
 – Haradan gəlirsiniz?
 
@@ -156,7 +156,7 @@ Bu hadisədən bir gün sonra dərsə gələndə özüm də hiss etmədən gözl
 
 Artıq kursumuzdakı oğlanları gözüm görmürdü. Onların səsi sifətlərinə qarışır, nəzərimdə elə bil dumana bürünürdü. Bu duman içərisində mən həmişə Teymurun gözlərini görürdüm. O harada otursa, mən o səmtə baxırdım, hara dönsə, mən də dönürdüm. Günəbaxan günəşə boylanıb boynunu əydiyi kimi, mən də Teymuru gözümdən qoymurdum. Bəzən evdə özüm-özümü danlayırdım. Axmaqlıq elədiyimi fikirləşir, bir daha onunla maraqlanmayacağıma söz verirdim. Ertəsi günü instituta qəti qərarla gəlirdim ki, bir də ona baxmayacağam, amma mümkün olmurdu. Mühazirə zamanı gözlərim yenə ona dikəlirdi. O isə nəinki mənimlə yanaşı oturmurdu, heç yanıma da gəlmirdi. Yenə əvvəlki kimi, oğlanlarla bir kənara çəkilirdi. Belə hallarda mən hirslənirdim. O öz soyuqluğu ilə məni yandırıb-yaxırdı.
 
-Axadan bir ay keçdi. Mən sınıxmağa başladım. Qızlar məndən soruşdular:
+Aradan bir ay keçdi. Mən sınıxmağa başladım. Qızlar məndən soruşdular:
 
 – Nərgiz, sənə nə olub?
 
@@ -164,7 +164,7 @@ Axadan bir ay keçdi. Mən sınıxmağa başladım. Qızlar məndən soruşdular
 
 – Bilmirəm... Heç nə bilmirəm, - deyə cavab verirdim.
 
-Təskinlik tapmaq üçün gecə-gündüz roman oxumağa başladım. Tramvayda, tənəffusdə də romanlardan ayrılmazdım. Ancaq mümkün olmurdu. Bəzən gecə yerin içinə girib kitab oxuduğum zaman bir də hiss edirdim ki, dayanmışam. Sətirlərin arasından baş qaldıran Teymur gözlərini mənə zilləmişdir...
+Təskinlik tapmaq üçün gecə-gündüz roman oxumağa başladım. Tramvayda, tənəffüsdə də romanlardan ayrılmazdım. Ancaq mümkün olmurdu. Bəzən gecə yerin içinə girib kitab oxuduğum zaman bir də hiss edirdim ki, dayanmışam. Sətirlərin arasından baş qaldıran Teymur gözlərini mənə zilləmişdir...
 
 Bir gün əla oxuduğuna görə qəzetdə onun şəklini vermişdilər. Mən həmin qəzeti götürdüm. Otağıma çəkildim, qapını örtüb qəzeti stolun üstünə sərdim. Baxdım, baxmaqdan doymadım. Qayçını götürüb ehtiyatla şəkli kəsdim. Stolun üstündə, şüşənin altında cürbəcür şəkillər vardı. Onu da həmin şəkillərin arasına qoymaq istədim, ancaq fikrimi dəyişdim. Şəkli kitabların birisinin arasında gizlətdim. Bəli, mən onu gizlətdim. Niyə? Məgər mən onu başqa şəkillərin yanına qoya bilməzdim? Soruşan olsaydı, "yoldaşımdır" demək olmazdımı? Bəs mən onu nə üçün gizlətdim?
 
@@ -208,7 +208,7 @@ Birgün Leyla yanıma gəldi. Onun sifəti tutqun idi. Hiss edirdim ki, mənə n
 
 – Sənə nə var, gözəldir ya çirkindir! Sənə deyirəm, ona nişan taxıblar. Ağlını başına yığ!
 
-Leyla nə qədər danlayıb öyüd-nəsihət verdisə, olmadı. O gedəndən sonra oturıb gözlərimə dəm verdim. Səhəri uşaqlar Teymuru təbrik edirdilər. Bəziləri də zarafatla "sağ əlin başımıza" - deyirdi. Leyla məni bir küncə çəkdi.
+Leyla nə qədər danlayıb öyüd-nəsihət verdisə, olmadı. O gedəndən sonra oturub gözlərimə dəm verdim. Səhəri uşaqlar Teymuru təbrik edirdilər. Bəziləri də zarafatla "sağ əlin başımıza" - deyirdi. Leyla məni bir küncə çəkdi.
 
 – Özünü biabır eləmə. Gəl gedək sən də onu təbrik elə.
 
@@ -254,15 +254,15 @@ Mən daha dözə bilmədim.
 
 – Yanıram, Teymur, - dedim, - bircə əlini üzümə vur.
 
-O, əlini ehmalca mənim yanağıma vurdu. Dütıya başıma hərlotıdi. Özüm də bilmodən əlini tutub yanağıma sıxdım. Başımı onun qoluna söykədim.
+O, əlini ehmalca mənim yanağıma vurdu. Dütıya başıma hərlotıdi. Özüm də bilmədən əlini tutub yanağıma sıxdım. Başımı onun qoluna söykədim.
 
-Aradan nə qədər keçdiyini bilmədim. Gözümü açanda Teymurun üzümə zillənmiş gözlərini gördüm. Mən inana bilmirdim ki, bütün bunlar həqiqətdir. Teymur doğrudan da mənim yanımdadır, mən onun sinəsinə qısılmışam. O, tirtrək əlləri ilə saçımı sığallayır.
+Aradan nə qədər keçdiyini bilmədim. Gözümü açanda Teymurun üzümə zillənmiş gözlərini gördüm. Mən inana bilmirdim ki, bütün bunlar həqiqətdir. Teymur doğrudan da mənim yanımdadır, mən onun sinəsinə qısılmışam. O, titrək əlləri ilə saçımı sığallayır.
 
 Xeyli beləcə dayandım. Birdən qəhər məni boğdu. Ağladım, doyunca ağladım.
 
 – Məni bağışla, Teymur. Mən beç təsəvvürümə gətirə bilməzdim ki, biz beləcə yanaşı dayana bilərik. Mənim nələr çəkdiyimi bilirsənmi, Teymur?
 
-– Bilirəm, Nərgiz... Leyla mənə hamısını danışıb, mən səndən də çox əziyyət çəkirəm. Mən əvvəllər bunu hiss eləmirdim. Heç ağlıma da gəlməzdl Sənin mənə görə əziyyət çəkdiyini görəndə nə edəcəyimi bilmədim.
+– Bilirəm, Nərgiz... Leyla mənə hamısını danışıb, mən səndən də çox əziyyət çəkirəm. Mən əvvəllər bunu hiss eləmirdim. Heç ağlıma da gəlməzdi Sənin mənə görə əziyyət çəkdiyini görəndə nə edəcəyimi bilmədim.
 
 O məni sahildən uzaqlaşdırdı. Fəvvarənin yanındakı skamyalardan birində oturduq.
 
@@ -290,11 +290,11 @@ Evimizin yanında ayrılanda Teymur mənimlə daha açıq danışdı:
 
 Onun dediyi kimi də oldu. Biz bir daha görüşmədik. Ancaq mən sakitləşən kimi oldum. Gecələr rahat yatdım. Elə bil bu görüşümüz mənə ürək-dirək verdi.
 
-Dövlət imtahanını da pis qurtarmadım. Axırıncı itntahandan çıxanda Teymur mənə yaxınlaşıb əlimi sixdı, təbrik etdi.
+Dövlət imtahanını da pis qurtarmadım. Axırıncı itntahandan çıxanda Teymur mənə yaxınlaşıb əlimi sıxdı, təbrik etdi.
 
 Biz ayrıldıq.
 
-Mən ata-anamın etirazına baxmayaraq kəndə gəidim. Burada sakit dolanacağımı qət etdim. Ancaq olmadı. Qəlbim sözümə baxmadı. İndi də başqası..."
+Mən ata-anamın etirazına baxmayaraq kəndə gəldim. Burada sakit dolanacağımı qət etdim. Ancaq olmadı. Qəlbim sözümə baxmadı. İndi də başqası..."
 
 İmran axırıncı vərəqi çevirdikdən sonra xeyli hərəkətsiz dayandı. Qəmli bir hekayə oxumuş kimi mütəəssir oldu. Yavaşca əlini cibinə apardı, papiros götürdü, barmaqları arasında xeyli saxladı, sonra damağına alıb ayağa durdu. Onun gözləri bir nöqtəyə zillənmişdisə də, heç nə görmür, beç nə düşünə bilmirdi. O sarsılmışdı. İmran kibrit axtardı, tapmadı. Stolun üstündə yanan lampanı təzəcə görümıüş kimi oldu. Piltəni yuxarı qaldırıb papirosunu yandırdı. Bir nəfəsə yarıya qədər sümürdü. Otağı duman bürüdü. O, qutudan bir papiros da götürdü. Yalnız bu zaman sol ovcunda sıxdığı kibrit gözünə dəydi. Başını bulayıb dəftəri də vərəqlədi. "Belə..." deyib köksünü ötürdü. Qaşqabağını sallayıb, asta-asta pilləkəni endi, otların arasında qıvrılan nazik cığıra düşdü. Arxın üstündəki balaca körpüyə qədər getdi. Ayna kimi parıldayan su onun gözlərini oxşadı. İmran dayandı. Suda ulduzlar sayrışırdı, topa-topa buludları yaran ay qaçırdı. İmrana elə gəldi ki, buludlar ayı bürüyür, onun qabağına keçir, yol vermək istəmir, ay isə çırpınıb gah buludlara baş vurur, gah qılınc kimi sıyrılır, gah da duman içində görünməz olur.
 

@@ -19,7 +19,7 @@ Dur gedək tamaşaya, bax gör nə gözəl bayramdır: qəzetlər yarpaq kimi g�
 
 Həmə ruzi ma bəxti firuz bad.
 
-Allah cəmi müsəlman qardaşların bayramını mübarək eləsin, xüsusən xudayi-taala Mirzə Əli ağanın vucudunu bibəla eləsin ki, Bakıda “İttihad” mədrəsəsinin şagirdlərinin döşünə medalları düzüb ötürüb Bakının küçələrinə. Bakı “cahil”ləri görəndə “oxqay” deyirlər, amma əcnəbi millətlər də görüb ürəklərində deyirlər “nesçastnıy narod” (hər çənd ki, əcnəbilər anlamırlar).
+Allah cəmi müsəlman qardaşların bayramını mübarək eləsin, xüsusən xudayi-taala Mirzə Əli ağanın vücudunu bibəla eləsin ki, Bakıda “İttihad” mədrəsəsinin şagirdlərinin döşünə medalları düzüb ötürüb Bakının küçələrinə. Bakı “cahil”ləri görəndə “oxqay” deyirlər, amma əcnəbi millətlər də görüb ürəklərində deyirlər “nesçastnıy narod” (hər çənd ki, əcnəbilər anlamırlar).
 
 Ax, gözəl bayram, qəlbləri şad edən bayram, İran aclarını tox edən bayram! Sən olmasaydın, dövlətli İran tacirləri və dövlətli İran xanları bayram günləri bu qədər pul yığıb İran aclarına göndərməyəcək idilər. Girəm ki, yaxşı elədilər yığmadılar, Allah atalarına rəhmət eləsin; əgər yığsaydılar, İran aclarından qabaq pulların hamısını özləri yeyəcəkdilər.
 

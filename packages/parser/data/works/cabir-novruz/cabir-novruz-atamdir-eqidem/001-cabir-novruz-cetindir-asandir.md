@@ -54,7 +54,7 @@ Bir təhərlə baş girləmək asandır.
 Özgələrin kəlamını, fikrini
 Yeyib, söküb məngirləmək asandır.
 
-«Can, ay qardaş!» çagırmağa nə var ki,
+«Can, ay qardaş!» çağırmağa nə var ki,
 bax, o canın özü olmaq çətindir.
 Kişilikdən dəm vurmağa nə var ki,
 Çətin gündə kişi olmaq çətindir,

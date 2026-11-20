@@ -25,7 +25,7 @@ Yazıq Nurməhəmməd əfəndi də and-aman eləyir ki. “mən heç bir yeri is
 
 Demək, bir tərəfdən camaat Nurməhəmməd əfəndinin üzv təyin olunmağına narazıdır, bir tərəfdən də Nurməhəmməd əfəndi özü də bu işə razı deyil.
 
-İndi bəs bu yazıq Nurməhəmməd əfəndi nə eləsin? Axırda götürüb idareyi-ruhaniyyəyə teleqraf göndəriblər və idarədən də cavab gəlib ki, “Nurməhəmməd əfndidən savayı özgə bir kəsin üzv təyin olunmağına razı deyilik, o səbəbə ki, qərara görə gərək məclis üzvləri bir-biri ilə qohum olsunlar”.
+İndi bəs bu yazıq Nurməhəmməd əfəndi nə eləsin? Axırda götürüb idareyi-ruhaniyyəyə teleqraf göndəriblər və idarədən də cavab gəlib ki, “Nurməhəmməd əfəndidən savayı özgə bir kəsin üzv təyin olunmağına razı deyilik, o səbəbə ki, qərara görə gərək məclis üzvləri bir-biri ilə qohum olsunlar”.
 
 Doğrudan, mənim yazığım hamıdan artıq Nurməhəmməd əfəndiyə gəlir: bir tərəfdən müfti əfəndi onu zor ilə üzv təyin edir, bir tərəfdən də camaat yapışıb yaxasından ki, “gərək çıxasan”.
 

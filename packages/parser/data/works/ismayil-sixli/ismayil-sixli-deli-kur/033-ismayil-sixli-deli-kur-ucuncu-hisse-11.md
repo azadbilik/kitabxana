@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Əhməd "Zayej"in qabağında təkcə oturmuşdu. Tez-tez tərini silir və zəhlətökən bir səslə cikkildəşən boz sərçələrə baxırdı. Onlar gah divarın daşları arasındakı ovuqlara girir, gah da eyvanın məhəccərinə qonur, gah da bir-birini didə-didə çəpərə doluşurdular. Onların zil səsi adamın beynini deşirdi. Nədənsə Əhməd isti yay günlərində sərçələrin cikkiltisinə qulaq asanda qüssələnirdi. O hamı tərəfindən unudulmuş bir adam kimi yalqızlıq hiss edirdi.
 
-Sərçələr hay-küylə havaya qalxdılar. Onların səsi eşidilməz oldu. Əhmədin qulaqları cingildədi. O darıxdı. Ayağa durub xır yoluna boylandı. Uşaqlar onun yanına gəlməli, dünən öyrəndiklərini bu gün təkrar edib yoxlamalı idilər, vaxta az qalırdı. El dağdan qayıdanda Əhməd onları Qoriyə, seminariyaya imtahana aparmalı idi. "Yazıqlar yəqin yenə istinin əlindən özlərini Kürə veriblər, axşama qədər sudan çıxmayacaqlar", – deyə düşündü. Onun da ürəyindən çimmək keçdi. Eyvana getdi. Elə bu vaxt bir şey tappıltı ilə onun qabağına düşdü. Əhməd diksinib geri çəkildi. Yumaq kimi yumrulanan qızıl ilan qıvrılıb açıldi və dərhal quyruğu üstə qalxıb fısıldadı. Əhməd onun soyuq üzünü, açıq ağzını, tez-tez çıxardığı qara dilini və qarmaq dışlərini aydınca gördü. O bircə an da geciksə ilan üstünə atılacaqdı. Əhməd ona imkan vermə. Divarın dibindəki yabanı götürüb, başını əzdi. Bir xeyli ilanın qıvrılan quyruğuna baxdı. "Ulduz görməsə ölməyəcək", – deyə düşündü. Yaba ilə götürüb çəpərin üstünə atdı. İlanın qarnının altı parıldadı.
+Sərçələr hay-küylə havaya qalxdılar. Onların səsi eşidilməz oldu. Əhmədin qulaqları cingildədi. O darıxdı. Ayağa durub xır yoluna boylandı. Uşaqlar onun yanına gəlməli, dünən öyrəndiklərini bu gün təkrar edib yoxlamalı idilər, vaxta az qalırdı. El dağdan qayıdanda Əhməd onları Qoriyə, seminariyaya imtahana aparmalı idi. "Yazıqlar yəqin yenə istinin əlindən özlərini Kürə veriblər, axşama qədər sudan çıxmayacaqlar", – deyə düşündü. Onun da ürəyindən çimmək keçdi. Eyvana getdi. Elə bu vaxt bir şey tappıltı ilə onun qabağına düşdü. Əhməd diksinib geri çəkildi. Yumaq kimi yumrulanan qızıl ilan qıvrılıb açıldı və dərhal quyruğu üstə qalxıb fısıldadı. Əhməd onun soyuq üzünü, açıq ağzını, tez-tez çıxardığı qara dilini və qarmaq dişlərini aydınca gördü. O bircə an da geciksə ilan üstünə atılacaqdı. Əhməd ona imkan vermə. Divarın dibindəki yabanı götürüb, başını əzdi. Bir xeyli ilanın qıvrılan quyruğuna baxdı. "Ulduz görməsə ölməyəcək", – deyə düşündü. Yaba ilə götürüb çəpərin üstünə atdı. İlanın qarnının altı parıldadı.
 
 Sərçələr hay-küylə çəpərə qondular. İlana baxıb cikkildədilər. Qanadlarını çırpıb boğazlarını pırpızlaşdırdılar. Elə bil onu didib-parçalamaq, nəyinsə intiqamını almaq istəyirdilər.
 
@@ -142,7 +142,7 @@ Rüstəm kişi susdu. Əhmədi birinci dəfə görürmüş kimi heyrətlə süzd
 
 – Camaatıma kömək.
 
-– Bayaq dedim, a bala, sənin əlində nə var ki, camaata da kömək eleyəsən?
+– Bayaq dedim, a bala, sənin əlində nə var ki, camaata da kömək eləyəsən?
 
 – Mənim əlimdə heç nəyim olmasa da savadım var. Mən camaata bununla kömək eləyərəm. Əgər hamı oxusa, savadlı olsa, belə haqsızlıqlar baş verməz. Biz cəhənnəm, heç olmasa bizdən sonra gələnlər yaxşı dolansınlar, xeyiri şərdən seçə bilsinlər. Bax, mənim istədiyim budur. Rüstəm əmi, mən istəyirəm ki, sənin oğlun Səlim oxusun, savadlı olsun. Xeyir-şərini başa düşsün. Daha onun-bunun əvəzinə işləməsin. Aydındırmı?
 
@@ -264,7 +264,7 @@ Qoca kişi yetim qalmış qardaşı oğlunun oxumaq arzusunda olduğunu çoxdan 
 
 – Mən apararam. Sənin əvəzindən pay verərəm.
 
-– Çox sağ ol, a bala, ata payının ləzzəti başqa olur. – Kişi çiynini çəkdı. Sanki bununla "Yoxsulluğun üzü qara olsun, nə eləyim?" – demək istədi. – Yaxşı yol, bala, uşaqlardan muğayat ol.
+– Çox sağ ol, a bala, ata payının ləzzəti başqa olur. – Kişi çiynini çəkdi. Sanki bununla "Yoxsulluğun üzü qara olsun, nə eləyim?" – demək istədi. – Yaxşı yol, bala, uşaqlardan muğayat ol.
 
 Əhməd, kişinin səsindəki titrəyişdən duydu ki, kövrəlmişdir. Onun qəlbi riqqətə gəldi. Bu saat Qoca kişi ilə özünün arasında bır yaxınlıq olduğunu hiss etdi. Qoca kişi doğma kəndində yaşasa da, tamamilə tək və yalqız idi. Əhməd başa düşdü ki, kişi qızından çox oğlunun dərdini çəkir. Çərkəzin onu qoca vaxtında qara damın altında tək qoyub şəhərə gedəcəyindən qorxur. Əhməd bu anda Qoca kişiyə haqq verdi. Çünki özü çox yaxşı bilirdi ki, təklik ağır dərddir.
 

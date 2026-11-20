@@ -75,7 +75,7 @@ Nəzərəli. Məşədi Ağakişi! Aç qapını, yüzbaşıynan uşqol sizə gəl
 
 Məşədi Ağakişi gedib qapını açır, həyətə daxil olurlar: yüzbaşı Pirverdi bəy, əlində şallaq, Uçitel Həsənov, Molla Movlamverdi, Nəzərəli çavuş əlində şallaq və bir neçə kəndli. Çamaat gəlib düzülür həyətin ortasına.
 
-Pirverdi bəy (Məşədi Ağakişiyə). Məşədi Ağakişi, yaxşı qulaq as, gör nə deyirəm. Sizə məlumdu ki, mən on yeddi ildi ki, istəkli padşahımıza ixilas ilə qulluq eləyirəm. Və bir dəfə də olmayıb ki, mən dövlət yanında başı aşağı olum. Və bunu siz yaxşı bilirsiniz. Mən indi də razı olmanam ki, hər yanda danışalar ki, nəçərnik ağa gəlib Danabaş kəndində bir uşqol açdı, amma danabaşlılar yüzbaşı Priverdi bəydən (özünü əli ilə nişan verir) qorxmadılar, uşaqlarını uşqoldan qaçırdıb kərmə qalağında gizlətdilər.
+Pirverdi bəy (Məşədi Ağakişiyə). Məşədi Ağakişi, yaxşı qulaq as, gör nə deyirəm. Sizə məlumdu ki, mən on yeddi ildi ki, istəkli padşahımıza ixilas ilə qulluq eləyirəm. Və bir dəfə də olmayıb ki, mən dövlət yanında başı aşağı olum. Və bunu siz yaxşı bilirsiniz. Mən indi də razı olmanam ki, hər yanda danışalar ki, nəçərnik ağa gəlib Danabaş kəndində bir uşqol açdı, amma danabaşlılar yüzbaşı Pirverdi bəydən (özünü əli ilə nişan verir) qorxmadılar, uşaqlarını uşqoldan qaçırdıb kərmə qalağında gizlətdilər.
 
 Camaatdan bir neçəsi gülüşür.
 
@@ -87,7 +87,7 @@ Nəzərəli çavuş (gedib başını uzadır qalağın içinə). Yüzbaşı, ba�
 
 Qasım kişi. Yoxdu, yoxdu. Hər kəs deyibsə, yalan deyib.
 
-Şaban nənə (üzü örtulü, dalı camaata tərəf, çarşovlu). Yoxdu, yoxdu.
+Şaban nənə (üzü örtülü, dalı camaata tərəf, çarşovlu). Yoxdu, yoxdu.
 
 Molla Movlamverdi (Şaban nənəyə acıqlı və ucadan). Kəs səsini, bihəya! Övrət xəlayiqinin kişilər içində danışmağı qəbihdir. Həya lazımdır, həya!
 
@@ -159,7 +159,7 @@ Molla Movlamverdi. Bəli, bəli, işin əsl həqiqəti budur ki, qara ləkə ağ
 
 Kərbəlayı Heydər (uçitelə) hə, uşqol, di cavab ver, nə deyirsən? Niyə dinmirsən? Hanı bəs çəyirtgənin qulaqları?
 
-Adamlar gülüşur.
+Adamlar gülüşür.
 
 Pirverdi bəy (Kərbəlayı Heydərə). Sən hər nə eləyirsən elə, amma bu şallağı yadından çıxartma. Mən bura sizi uşqolnan deyişməyə çağırmamışam; mənə uşaq lazımdı, uşaq!
 
@@ -181,7 +181,7 @@ Molla Movlamverdi (uçitelə). Cənab uşqol, o sözü ki, indi dediniz, “osa�
 
 Uçitel. “Osa”, yəni eşşəkarısı.
 
-Adamlar güluşür.
+Adamlar gülüşür.
 
 Xub, başa düşmürsünüz, götürək müsəlman sözünü. Məsələn, “ot”; haman otu deyirəm ki, çöllərdə bitir və heyvanlar yeyir. İndi biz istəyirik yazaq “ot”. Axı “ot” sözündə iki səs var: biri “o”, biri də “t”. Əvvəl yazırıq “o”, sonra da yazırıq “t”; olur: “ot”.
 
@@ -223,7 +223,7 @@ Qasım kişi (mollaya). Ay molla, sən nə deyirsən? Sənin ağlın nə kəsir?
 
 Molla Movlamverdi (bir qədər fikir edib o tərəf-bu tərəfə baxır). Bəli, əlbəttə, təhsili-ülum və fünun, bir dərəcədə ki, etiqad aləminə rəxnə yetirməyə, fərayizdən məhsub olunur və lakin əcnəbi dil-lərinin və ayinlərinin təhsili bu şərt ilə ki, məsələn, belə fərz edək ki... (duruxur).
 
-Uçitel. Cənab Molla Movlamverdi, çənab inspektor məni vəkil edib sizə təklif edəm ki, həmin uşqolda həftədə iki saat şəriət dərsi deyib, ayda on iki manat yarım hüquq alasınız. Buna nədir fərmayişiniz?
+Uçitel. Cənab Molla Movlamverdi, cənab inspektor məni vəkil edib sizə təklif edəm ki, həmin uşqolda həftədə iki saat şəriət dərsi deyib, ayda on iki manat yarım hüquq alasınız. Buna nədir fərmayişiniz?
 
 Molla Movlamverdi (bir qədər dikəlib və həvəslənib). Bəli, bəli, inşallah çiddi-cəhd elərik və yüzbaşının nüfuzu sayəsində inşallah uşaqları da cəm elərik. Əlbəttə, elm təhsil eləmək hər bir babətdən lazımdır və padşahi-mehribanımızın dilini bilmək dəxi əlzəmdir; nə eybi var? Elm həmişə elmdir. Allah mübarək eləsin; Allah padşahımızı da səlamət eləsin.
 

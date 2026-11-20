@@ -75,7 +75,7 @@ Heç başa gəlmədi. Həyətdə bir-iki dustaqxana qulluqçusu məni əhatə ed
 
 Bir az keçdi, qaranlıqladı, çıraqları yandırdılar və dustaqların hərəsinə bir yekə qara çörəklə bir stəkan dişləmə çayı gətirdilər; mənə də habelə.
 
-Çaydan sonra yatışdıq. Mən də qeyri dustaqlar tək içi küləşli döşək üstə uzandım, üstümə yorğan kimi bir şey salıdım və yatdım.
+Çaydan sonra yatışdıq. Mən də qeyri dustaqlar tək içi küləşli döşək üstə uzandım, üstümə yorğan kimi bir şey saldım və yatdım.
 
 Səhər çayından sonra məni çağırdılar dustaqxananın kantoruna.
 

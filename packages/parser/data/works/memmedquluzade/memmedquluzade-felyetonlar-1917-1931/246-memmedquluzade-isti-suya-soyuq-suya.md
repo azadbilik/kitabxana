@@ -37,4 +37,4 @@ Güman edirəm ki, bu hal ta o vaxta kimi davam edəcək ki, xah qatar rəisi v�
 
 *Molla Nəsrəddin*
 
-*“Molla Nəsrədin”, 20 noyabr 1926, №47*
+*“Molla Nəsrəddin”, 20 noyabr 1926, №47*

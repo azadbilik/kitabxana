@@ -22,7 +22,7 @@ Gərək hər bir kəs öz sözünü danışsın. Onunçün mən Molla Nəsrəddi
 
 Söhbət Oktyabr inqilabının on illik bayramı barəsindədir.
 
-Və çün axır vaxtlarda eşidirəm və qəzetlərdə oxuyuram ki, Şura məmləkətlərinin zəhmətkeşləri Oktyabr inqalabının on illik bayramını saxlamağa hazırlaşırlar və çün digər tərəfdən də mən baxıram ki, bu söhbətlərin içində heç mollaların adı çəkilmir, o səbəbdən mən burada öz həmsinif və həmkarlarım barəsində bir neçə söz demək istərdim.
+Və çün axır vaxtlarda eşidirəm və qəzetlərdə oxuyuram ki, Şura məmləkətlərinin zəhmətkeşləri Oktyabr inqilabının on illik bayramını saxlamağa hazırlaşırlar və çün digər tərəfdən də mən baxıram ki, bu söhbətlərin içində heç mollaların adı çəkilmir, o səbəbdən mən burada öz həmsinif və həmkarlarım barəsində bir neçə söz demək istərdim.
 
 * * *
 

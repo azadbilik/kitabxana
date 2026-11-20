@@ -76,7 +76,7 @@ Bir gün kənddə yenə toy vardı. Oktyabr bayramının ildönümünü qeyd edi
 
 Hava xoş idi. Elə məktəbin həyətində son bahar yaşıllığının üstünə gəbə- kilim də döşəmişdilər. Kəndin ahıl arvadları, qızları, gəlinləri bardaş qurub oturmuşdular. Zurnaçılar ortada, stulda əyləşmişdilər.
 
-Əvvəlcə cıdırhəngi çalindı, sonra güləşəngi. Cavanlar at çapıb, qurşaq tutub yorulandan sonra oyun başladı. Kəndin gözəlləri qoşalaşdılar.
+Əvvəlcə cıdırhəngi çalındı, sonra güləşəngi. Cavanlar at çapıb, qurşaq tutub yorulandan sonra oyun başladı. Kəndin gözəlləri qoşalaşdılar.
 
 İlyasın gözü bacısıyla Zöhrədəydi. Onlar yanaşı oturmuşdular. Bu gün hər şey həll olunmalıydı. İlyasın bacısı meydana çıxmalı, ortada bir az hərlənəndən sonra Zöhrəni çağırıb oynatmalı idi.
 
@@ -126,7 +126,7 @@ Qaçaq Süleyman kənddən getməzdən əvvəl atının cilovunu çəkdi.
 
 – Camaat, - dedi - yadınızda saxlayın, məni çöllərə salan elin namusudur. Nə qədər sağam, qoymaram bu mahalda bir adamın namusuna toxunsunlar!
 
-İlyas səhər çay kənarında Rəşidlə sözləşəndən sonra bunları yadına saldı və dağlara üz tutdu. Onun gözünə heç nə görünmürdü. Nə şaxtanı hiss edir, nə də qaranlığa düşüb qurd-quşa yem ola biləcəyini ağlına gətirirdi. Onun beynində bircə fikir dolaşırdı: harda olsa, Qaçaq Süleymanı tapmaq, ürəyindən kcçənləri düz gözünün içinə demək. O bilirdi ki, qaçaq öz adamlarına tapşırıb onu tikə-tikə doğratdıra bilər, ya da özü əli titrəmədən onaçılanın tətiyini sıxar və həddini aşmış bu cavanı bir andaca yox edər. İlyas bunların hamısını ürəyində ölçüb- biçmişdi və necə deyərlər, kəfəni boynuna dolamışdı. Yəqin etmişdi ki, bu yoldan sağ-salamat qayıtmayacaq, amma fikrindən dönməmişdi.
+İlyas səhər çay kənarında Rəşidlə sözləşəndən sonra bunları yadına saldı və dağlara üz tutdu. Onun gözünə heç nə görünmürdü. Nə şaxtanı hiss edir, nə də qaranlığa düşüb qurd-quşa yem ola biləcəyini ağlına gətirirdi. Onun beynində bircə fikir dolaşırdı: harda olsa, Qaçaq Süleymanı tapmaq, ürəyindən keçənləri düz gözünün içinə demək. O bilirdi ki, qaçaq öz adamlarına tapşırıb onu tikə-tikə doğratdıra bilər, ya da özü əli titrəmədən onaçılanın tətiyini sıxar və həddini aşmış bu cavanı bir andaca yox edər. İlyas bunların hamısını ürəyində ölçüb- biçmişdi və necə deyərlər, kəfəni boynuna dolamışdı. Yəqin etmişdi ki, bu yoldan sağ-salamat qayıtmayacaq, amma fikrindən dönməmişdi.
 
 – Dayan, kimsən?
 
@@ -154,7 +154,7 @@ O, içəri girəndə Qaçaq Süleyman qara damın küncündə, peçin yanına qo
 
 – Xeyir ola, komsomol, niyə gəlibsən?
 
-Bu səs onu ayıltdı. Beyninin uğultusu, qulaqlarının güyültüsü bircə anda yoxa çıxdı və qaçağın özü də elə bil dumandan siyrılıb bütün aydınlığı ilə önündə dayandı. İlyas qurumuş dodaqlarını dili ilə islatdı və düz onun gözünün içinə baxdı.
+Bu səs onu ayıltdı. Beyninin uğultusu, qulaqlarının güyültüsü bircə anda yoxa çıxdı və qaçağın özü də elə bil dumandan sıyrılıb bütün aydınlığı ilə önündə dayandı. İlyas qurumuş dodaqlarını dili ilə islatdı və düz onun gözünün içinə baxdı.
 
 – Sənin üzünə tüpürməyə.
 
@@ -170,9 +170,9 @@ Kişini elə bil ilan çaldı. Yerindən sıçrayıb dik atıldı.
 
 – Koxalıların Rəşidi.
 
-Qaçaq Süleymanm qaşları çatıldı. Üzünim tükləri biz-biz oldu. İlyas gördü ki, kişinin geniş sinəsi körük kimi qabarıb endi. Bir xeyli fikirli-fikirli ortada hərləndıkdən sonra taxtın üstünə uzanıb mütəkkəyə dirsəkləndi.
+Qaçaq Süleymanın qaşları çatıldı. Üzünim tükləri biz-biz oldu. İlyas gördü ki, kişinin geniş sinəsi körük kimi qabarıb endi. Bir xeyli fikirli-fikirli ortada hərləndıkdən sonra taxtın üstünə uzanıb mütəkkəyə dirsəkləndi.
 
-İlyasın sözü onu yaman tutmuşdu. Doğrudan da, onu çöllərə salan nəydi? Neçə il idi ki, evindən-eşiyindən niyə didərgin düşmüşdü? Kim idi onu yuvasından hürküdən? Süleymanın atası da, özü də, elə qohum-qardaşları da şura hökuməti qurulanda hamıdan çox sevinmişdilər. Yenicə ayrılan açılıb, dirçəlmişdilər. Onların nəsli kasıb dolanmışdı, amma heç kəsin qabağında əyilməmişdilər. Atası həmişə onlara deyərdi ki, kişinin birinci sifəti namusdur. Gərək təkcə öz namusunu yox, qonum-qonşunun, el-obanın da namusunu qoruyasan. Kişi olan başqasınin qız-gəlininə xain gözlə baxmaz. Bu sözlər uşaqlıqdan onun beyninə həkk olunmuşdu. Sonra böyüyüb kəndin dəliqanlılarına qoşulanda da, toyda-mağarda cıdıra çıxıb at çapanda da, kəndin cavanları ilə qurşaq tutub güləşəndə də atasının sözləri qulaqlarından getmirdi. Onu barmaqla göstərirdilər. Kürəkləri enli, beli nazik idi, az qalırdı üzükdən keçsin. Ona gözü düşənlər çox idi. Bilirdi ki, kəndin qızları onun dalınca həsrətlə boylanırdəlar və az qalırdılar ki, qabağa düşüb ürəklərini açsınlar, altdan yuxarı üzünə baxıb həyadan pörtə-pörtə "No olar, mənciyəzi al" desinlər. Ona söz atan gəlinlər də olurdu. Amma Süleyman onlara gözünün ucuyla da baxmırdı. Kəndin ağsaqalları "halal olsun, kişinin oğluna" - deyib, onunla qürurlanardılar.
+İlyasın sözü onu yaman tutmuşdu. Doğrudan da, onu çöllərə salan nəydi? Neçə il idi ki, evindən-eşiyindən niyə didərgin düşmüşdü? Kim idi onu yuvasından hürküdən? Süleymanın atası da, özü də, elə qohum-qardaşları da şura hökuməti qurulanda hamıdan çox sevinmişdilər. Yenicə ayrılan açılıb, dirçəlmişdilər. Onların nəsli kasıb dolanmışdı, amma heç kəsin qabağında əyilməmişdilər. Atası həmişə onlara deyərdi ki, kişinin birinci sifəti namusdur. Gərək təkcə öz namusunu yox, qonum-qonşunun, el-obanın da namusunu qoruyasan. Kişi olan başqasının qız-gəlininə xain gözlə baxmaz. Bu sözlər uşaqlıqdan onun beyninə həkk olunmuşdu. Sonra böyüyüb kəndin dəliqanlılarına qoşulanda da, toyda-mağarda cıdıra çıxıb at çapanda da, kəndin cavanları ilə qurşaq tutub güləşəndə də atasının sözləri qulaqlarından getmirdi. Onu barmaqla göstərirdilər. Kürəkləri enli, beli nazik idi, az qalırdı üzükdən keçsin. Ona gözü düşənlər çox idi. Bilirdi ki, kəndin qızları onun dalınca həsrətlə boylanırdəlar və az qalırdılar ki, qabağa düşüb ürəklərini açsınlar, altdan yuxarı üzünə baxıb həyadan pörtə-pörtə "No olar, mənciyəzi al" desinlər. Ona söz atan gəlinlər də olurdu. Amma Süleyman onlara gözünün ucuyla da baxmırdı. Kəndin ağsaqalları "halal olsun, kişinin oğluna" - deyib, onunla qürurlanardılar.
 
 Onu kənddə yenicə düzəlmiş komsomol özəyinə katib seçdilər. Cavanları başına topladı. əkinə-biçinə, məktəbə, savad kurslarına kömək elədi. Dəstə getdikcə böyüdü, Süleymanın sorağı da böyüdü, ətraf kəndlərə də yayıldı.
 
@@ -184,9 +184,9 @@ Beyin bir cüt maral kimi qızı vardı, abırlı, həyalı. Kəndin arasına az
 
 Bir dəfə gecədən xeyli keçmiş idarədən işıq gəldiyini gördü. Qanrıldı. Elə bildi ki, rayondan təhkimçi gəlib, nə isə vacib bir işi var.
 
-Qapının ağzına çatanda heyrətləndi. içəridəti taqqıltı gəlirdi. Elə bil süpürüşürdülər. Kimsə hıçqırırdı. Süleyman çiynini qapıya verdi və ona elə bir güc gəldi ki, zirəzə yerindən oynadı. İçəri girəndn gözlərinə inanmadı. Əbdürrəhman bəyin qızları küncə qısılmişdılar. Üst-başları cırıq-cırıq idi, saçları üzlərinə dağılmışdı. Keçəl Xondulu porsuq kimi qızarmışdı. Qollarını çirməmiş, köynəyinin yaxasını açmışdı. Şalvarının üstündən tumanbağısı sallanırdı. Gözləri pişik gözü kimi parıldayırdı. Qapı açılanda boynunu içəri çəkib belini donqarlandırdı və qan hərisi vəhşiyə dönərək yay kimi gərildi. Bircə atı da keçsə, irəli atılacaqdı. Süleymanın beyni uğuldadı və gözlərinə qan sağıldı. Naqanı çixartmağı ilə tətiyi çəkməyi bir oldu. Şaqqıltı qopdu. Dalbadal, altı dəfə...
+Qapının ağzına çatanda heyrətləndi. içəridəki taqqıltı gəlirdi. Elə bil süpürüşürdülər. Kimsə hıçqırırdı. Süleyman çiynini qapıya verdi və ona elə bir güc gəldi ki, zirəzə yerindən oynadı. İçəri girəndə gözlərinə inanmadı. Əbdürrəhman bəyin qızları küncə qısılmişdılar. Üst-başları cırıq-cırıq idi, saçları üzlərinə dağılmışdı. Keçəl Xondulu porsuq kimi qızarmışdı. Qollarını çirməmiş, köynəyinin yaxasını açmışdı. Şalvarının üstündən tumanbağısı sallanırdı. Gözləri pişik gözü kimi parıldayırdı. Qapı açılanda boynunu içəri çəkib belini donqarlandırdı və qan hərisi vəhşiyə dönərək yay kimi gərildi. Bircə atı da keçsə, irəli atılacaqdı. Süleymanın beyni uğuldadı və gözlərinə qan sağıldı. Naqanı çixartmağı ilə tətiyi çəkməyi bir oldu. Şaqqıltı qopdu. Dalbadal, altı dəfə...
 
-Bayırda at fınxırdı. Ayaq tappıltıları və qarışıq səslər eşidildi. Sonra qara damın qapısı cırıltı ilə açıldı. Qapı aralanan kimi içəri soxulan işıq zolağı damın yarıqaranlıq havasını qılınc kimi doğradı, divarda süründü və taxtın üstündə uzanmış Süleymanın üstünə düşdü, qapı örtülən kimi də yox oldu. İlyas dik atıldı. Qarlı havadan sonra gözü qamaşan və evin ortasında dayanıb boylanan Rəşidi görəndə qan beyninə sıçradı. Amma Qaçaq Süleyman yerindən tərpənmədi. Gözü qaranlığa alışandan sonra qollarını açıb üstünə yeriyən Rəşidə əhəmiyyət vermədi. Mütəkkəyə dirsəkli halda uzandi, bir azca ayaqlarını yığıb, taxtın aşağı tərəfində ona yer elədi. Rəşid pərt olsa da, üstünü vurmadı, ayaq tərəfdə oturdu. Onlara çay gətirdilər. Yalnız bundan sonra Qaçaq Süleyman başını qaldırıb qonağın üzünə baxdı:
+Bayırda at fınxırdı. Ayaq tappıltıları və qarışıq səslər eşidildi. Sonra qara damın qapısı cırıltı ilə açıldı. Qapı aralanan kimi içəri soxulan işıq zolağı damın yarıqaranlıq havasını qılınc kimi doğradı, divarda süründü və taxtın üstündə uzanmış Süleymanın üstünə düşdü, qapı örtülən kimi də yox oldu. İlyas dik atıldı. Qarlı havadan sonra gözü qamaşan və evin ortasında dayanıb boylanan Rəşidi görəndə qan beyninə sıçradı. Amma Qaçaq Süleyman yerindən tərpənmədi. Gözü qaranlığa alışandan sonra qollarını açıb üstünə yeriyən Rəşidə əhəmiyyət vermədi. Mütəkkəyə dirsəkli halda uzandı, bir azca ayaqlarını yığıb, taxtın aşağı tərəfində ona yer elədi. Rəşid pərt olsa da, üstünü vurmadı, ayaq tərəfdə oturdu. Onlara çay gətirdilər. Yalnız bundan sonra Qaçaq Süleyman başını qaldırıb qonağın üzünə baxdı:
 
 – Kürkünü soyun, soyuq dəyər.
 
@@ -216,7 +216,7 @@ Rəşid tələsik cavab verdi:
 
 – Nədən qorxacam? Dalımda dağ kimi dayanıbsan.
 
-Qaçaq Süleyman papağını çıxardıb dizinin üstünə qoydu. Fikirli-fikirli başını ovxaladı. Ortalığa çökən sükut xeyli çəkdi. Birdən onun qaqqıltısı divarda şaqqıldadı. Rəşid də ona qoşuldu, Gözləri yaşarıncaya qədər güluşdülər.
+Qaçaq Süleyman papağını çıxardıb dizinin üstünə qoydu. Fikirli-fikirli başını ovxaladı. Ortalığa çökən sükut xeyli çəkdi. Birdən onun qaqqıltısı divarda şaqqıldadı. Rəşid də ona qoşuldu, Gözləri yaşarıncaya qədər gülüşdülər.
 
 – Ağzıyın dadını yaman bilirsən ha.
 
@@ -240,7 +240,7 @@ Hava ayazımışdı. Gün işıldasa da soyuq idi. Meşəyə, talalara sərilmi�
 
 – Atları bəri çəkin!
 
-Qaçaqlar bir göz qırpımında tövlədə saxladıqları yəhərli-yüyənli atları gətirdilər. Qaçaq Süleyman ayağını üzəngiyə qoyan kimi sıçrayıb atın belinə qalxdı. O bıriləri də atlandılar. Yalnız bu zaman İlyas özünü itirdi. Buraya gəldiyinə peşman oldu, özünü danladı.
+Qaçaqlar bir göz qırpımında tövlədə saxladıqları yəhərli-yüyənli atları gətirdilər. Qaçaq Süleyman ayağını üzəngiyə qoyan kimi sıçrayıb atın belinə qalxdı. O biriləri də atlandılar. Yalnız bu zaman İlyas özünü itirdi. Buraya gəldiyinə peşman oldu, özünü danladı.
 
 Qaçaq Süleyman bu saat iki il bundan əvvəl müəllimin boğazına kəndir salıb kəndə gəldiyi şəklə düşmüşdü. Qaşları çatılmış, üzünün tükləri biz-biz olub kirpi tikanına dönmüşdü. Beşaçılanı yəhərin qaşından asılmışdı, çalın-çarpaz bağladığı qoltuqaltıları, onaçılanı yerindəydi. İlyas gözlədi ki, bu saat onun paltarını soyunduracaqlar, boğazına ip salıb atın döşünə qatacaqlar, dərə aşağı sürüyüb kəndə aparacaqlar və kim bilir başına daha nə kimi oyunlar açacaqlar. Ürəyində özünü yaman danladı, uşaqlıq elədiyini başa düşdü. "Özüm heç, bir can borcluyam, öldürərlər cəhənnəmə öldürsünlər, amma el-oba biabır olacaq". Rəşid atın üstündən dönüb rişxəndlə ona baxanda az qaldı ürəyi partlasın.
 
@@ -276,7 +276,7 @@ Rəşid döyükdü. Süleymanın üzünə baxdı. Bilmədi gülsün, yoxsa ciddi
 
 – Zarafat niyə, düz sözümdür, axşam qız yanında olacaqsan.
 
-Rəşid atm ciləvunu çəkib qaçağın üzünə bozardı:
+Rəşid atm cilovunu çəkib qaçağın üzünə bozardı:
 
 – Başına at təpibdir, nədir, məni ələ salırsan?
 
@@ -294,4 +294,4 @@ Onu sürüyüb yerə saldılar. Kürkünü, şalvarını, pencəyini çıxartdı
 
 İlyası iki atlının müşayiəti ilə yola saldılar.
 
-Həmin axşam iki yerdə səhərəcən işıq yandı. Birii Murad kişinin həyətində, o biri isə Rəşidin evində. Murad kişinin həyətində yanan lopa idi, Rəşidin evində otuzluq lampa. Murad kişinin tərtəmiz silinib-süpürülmüş və palaz döşənmiş samanlığında mağar idi - çalıb-oynayırdılar, Rəşidgildə isə sətəlcəmdən od tutub yanan kişiyə küpə salır, üstünü yorğanla bərk-bərk örtürdülər. Səhər tezdən zurnaçılar damın üstünə çıxıb "atdandırma" çalanda bir dəstə atlı dağlara qalxdı. Cağ yerinə qədər ot döşənib üstünə gəbə, yorğan-döşək salınmış arabada bəzəkli bir gəlin üzünə salınmış duvağı aralayıb göz qamaşdıran qarda cığır salan təkərlərin izi ilə evlərinə baxıb kövrələ-kövrələ Murad kişinin qapısına gəldi. Kəndin aşağısında, koxalılar tərəfdənsə ağlaşma səsi ucaldı.
+Həmin axşam iki yerdə səhərəcən işıq yandı. Biri Murad kişinin həyətində, o biri isə Rəşidin evində. Murad kişinin həyətində yanan lopa idi, Rəşidin evində otuzluq lampa. Murad kişinin tərtəmiz silinib-süpürülmüş və palaz döşənmiş samanlığında mağar idi - çalıb-oynayırdılar, Rəşidgildə isə sətəlcəmdən od tutub yanan kişiyə küpə salır, üstünü yorğanla bərk-bərk örtürdülər. Səhər tezdən zurnaçılar damın üstünə çıxıb "atdandırma" çalanda bir dəstə atlı dağlara qalxdı. Cağ yerinə qədər ot döşənib üstünə gəbə, yorğan-döşək salınmış arabada bəzəkli bir gəlin üzünə salınmış duvağı aralayıb göz qamaşdıran qarda cığır salan təkərlərin izi ilə evlərinə baxıb kövrələ-kövrələ Murad kişinin qapısına gəldi. Kəndin aşağısında, koxalılar tərəfdənsə ağlaşma səsi ucaldı.

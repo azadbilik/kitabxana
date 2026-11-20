@@ -19,7 +19,7 @@ Məndən soruşardılar ki, “nədən qorxursan?”
 
 Mən dinməzdim.
 
-Sonra eşitdim ki, İrəvanda, Bakıda, Şuşada, Naxçıvanda, Vladiqafqazda, Gəncədə qeri şəhərlərdə “İrşad”a pul yığırlar. Bu xəbəri eşidəndə həmişə mən yanımda oturanlara deyərdim: “qorxuram”. Məndən soruşardılar ki, “nədən qorxursan?”.
+Sonra eşitdim ki, İrəvanda, Bakıda, Şuşada, Naxçıvanda, Vladiqafqazda, Gəncədə qeyri şəhərlərdə “İrşad”a pul yığırlar. Bu xəbəri eşidəndə həmişə mən yanımda oturanlara deyərdim: “qorxuram”. Məndən soruşardılar ki, “nədən qorxursan?”.
 
 Mən diqnməzdim.
 

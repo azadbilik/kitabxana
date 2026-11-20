@@ -32,7 +32,7 @@ Onlar vaqona doluşduqdan və arabalar getdikdən sonra xeyli sakitləşə bilm�
 
 Hər şey yerbəyer edildikdən sonra bir milis nəfəri ehmalca başını qapıdan içəri saldı və üzünü Güllü xanıma tutdu:
 
-– Xanım, qab-qacağınız varsa, özünüzlə çoxlu su gotürün. Yolunuz uzaq olacaq.
+– Xanım, qab-qacağınız varsa, özünüzlə çoxlu su götürün. Yolunuz uzaq olacaq.
 
 Güllü xanım onun səsindəki mehribanlıqdan başa düşdü ki, kişinin sürülənlərə ürəyi yanır.
 
@@ -52,7 +52,7 @@ Hərə bir tərəfdə özünə yer elədi və azacıq sonra səhər mürgüsü v
 
 Güllü xanımın böyük oğlunun neçə ildən bəri evləndiyinə baxmayaraq övladı olmurdu. Nə qədər nəzir-niyaz demiş, qurban kəsdirmiş, pirə gedib dua yazdırmışdılarsa da, xeyri olmamışdı. Amma çox qəribə idi kt, kənddə işlər qarışan zaman gəlin birdən-birə hamilə olmuş və oğlan doğmuşdu. Ailənin sevinci yerə-göyə sığmırdı. Bəlkə də elə buna görə Şəmiddin qardaşı Həsən ağa ilə getməmişdi. O, yurdunda qalacaq oğlunu böyütmək arzusu ilə yaşayırdı. Ancaq onu gecə apardıqdan və geri qayıtmadığından gəlinin ürəyi uşağın üstündə nanə yarpağı kimi əsirdi. O, hər şeyi unutmuşdu. Evi-eşiyi yaddan çıxartmışdı. Fikri-zikri körpəsi idi. Gündüzlər pərvanə kimi başına fırlanır, gecələr də gözünə yuxu getmir, onun keşiyini çəkirdi. Güllü xanım gəlinini və nəvəsini gözaltı süzür, onlara xəlvəti göz qoyur, oğrun-oğrun izləyirdi.
 
-O, üzə vurmasa da, gəlindən daha çox narahatlıq keçirirdi. Oğlunun yurdunda qalacaq bu uşaqla nəfəs alırdı. Onun səsi çıxan kimi ürəyi döyünürdü. Tez-tez əllərni göyə qaldırıb "Ey yeri-göyü yaradan Tanrı, Sən balamın yurdunda cücərən bu körpəni özün xətadan-bəladan xilas elə. İraq canından, oğlumu sonsuz, yurdunu boş qoyma. Görünür, balamın başı əlində deyil, salamat olsaydı, indiyəcən bir xəbəri çıxardı. Allah mərdiməzarların evini yıxsın. Mənim balam kimə nə pislik eləmişdi?"
+O, üzə vurmasa da, gəlindən daha çox narahatlıq keçirirdi. Oğlunun yurdunda qalacaq bu uşaqla nəfəs alırdı. Onun səsi çıxan kimi ürəyi döyünürdü. Tez-tez əllərini göyə qaldırıb "Ey yeri-göyü yaradan Tanrı, Sən balamın yurdunda cücərən bu körpəni özün xətadan-bəladan xilas elə. İraq canından, oğlumu sonsuz, yurdunu boş qoyma. Görünür, balamın başı əlində deyil, salamat olsaydı, indiyəcən bir xəbəri çıxardı. Allah mərdiməzarların evini yıxsın. Mənim balam kimə nə pislik eləmişdi?"
 
 İndi vaqonda, küncdə, döşəkçə üstündə oturan Güllü xanım gəlinindən gözünü çəkmir və onun uşağı necə yorğana bükdüyünə, necə sinəsinə sıxdığına, nəfəsini uşağın üzündə necə gəzdirdiyinə, ətirli şamama qoxulayan kimi, necə qoxuladığına göz qoyurdu. Gəlin isə bunlardan xəbərsiz idi. O, uşaqdan başqa heç nə görmür, uşağın mışıltısından başqa heç nə eşitmirdi.
 

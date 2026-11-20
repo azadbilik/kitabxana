@@ -23,7 +23,7 @@ Burada Şura hökuməti tərəfindən nümayəndələr göndərildi və oradakı
 
 – Ay Allahın mömin bəndələri! Heç görübsünüz daş yeriyə?
 
-Axirül-əmr çamaat öz səhvini düşündu, ara sakit oldu və hər kəs getdi işinə.
+Axirül-əmr çamaat öz səhvini düşündü, ara sakit oldu və hər kəs getdi işinə.
 
 İndi burada yazdığımız bu bir neçə sətir qoy hamı məktub sahiblərinə cavab olsun, ta heç kəs deməsin ki, Molla Nəsrəddin kağızlara cavab vermir və əhəmiyyətli suallara səhlənkarlıqla baxır, kağız sahiblərini intizarda buraxır.
 

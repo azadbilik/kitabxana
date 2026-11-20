@@ -15,7 +15,7 @@ Mən ölüm diqqətnən oxu
 
 Tiflis–Bakı dəmir yolu əlahiddə və müstəqil bir hökumətdir. Bu hökumət heç kəsə tabe deyil: nə Gürcüstana, nə Azərbaycana, nə İrəvana və nə də Moskvaya.
 
-Həmin bu hökumət bir neçə əlahiddə ştatlardan təşkil tapıb; necə ki, məsələn, Amerika cümhriyyəti. Bu balaca ştatlar ibarətdirlər ayrı–ayrı poyezdlərdən: poçtavoy poyezd, skori poyezd, tavarni poyezd, neft poyezdi, qoşun poyezdi, təmirat poyezdi, ekspres, azarlı poyezdi və qeyriləri.
+Həmin bu hökumət bir neçə əlahiddə ştatlardan təşkil tapıb; necə ki, məsələn, Amerika cümhuriyyəti. Bu balaca ştatlar ibarətdirlər ayrı–ayrı poyezdlərdən: poçtavoy poyezd, skori poyezd, tavarni poyezd, neft poyezdi, qoşun poyezdi, təmirat poyezdi, ekspres, azarlı poyezdi və qeyriləri.
 
 Hər bir ştat özlüyündə bir müstəqil hökumətdir. Bu hökumətlərin baş vəziri “naçalnik poyezda” və qeyri vəzirlərin adı kanduktorlardır.
 

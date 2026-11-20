@@ -21,7 +21,7 @@ Yainki qəssablar az qalıblar ki, məscid həyətini sallaxana qayırsınlar. Y
 
 Səlyandan bu dəxi bəsdi.
 
-– Yoxsa, durub sənin yazdığın dörd səhifəni yazsaq, dəxi Lənkərana yer qalmaz, amma inçsaf deyil Lənkərandan yazmayaq ki, Lənkəranda hər bir molla ki, vəfat elədi, onun qəbri ziyarətgah olur, necə ki, bu yavuq vaxtlarda ölən bir göbək yazan mollanın qəbrinin üstünə övrətlər hər cümə axşamı dəstə-dəstə gəlib şam yandırırlar, birdən nə tövr oldu qəbristanın quru otu od tutub yandı və kəndə səs düşdü ki, qəbristanda möcüz olub və bazar əhli qəbristana yüyürüb gördülər ki, ağanın qəbr əhlinə acığı tutub.
+– Yoxsa, durub sənin yazdığın dörd səhifəni yazsaq, dəxi Lənkərana yer qalmaz, amma insaf deyil Lənkərandan yazmayaq ki, Lənkəranda hər bir molla ki, vəfat elədi, onun qəbri ziyarətgah olur, necə ki, bu yavuq vaxtlarda ölən bir göbək yazan mollanın qəbrinin üstünə övrətlər hər cümə axşamı dəstə-dəstə gəlib şam yandırırlar, birdən nə tövr oldu qəbristanın quru otu od tutub yandı və kəndə səs düşdü ki, qəbristanda möcüz olub və bazar əhli qəbristana yüyürüb gördülər ki, ağanın qəbr əhlinə acığı tutub.
 
 Əgər dörd səhifə Səlyandan yazsaq, məsələn, Naxçıvana yer qalmaz, amma insafdan uzaqdır yazmayaq qiraətxanaya o qədər adam cəm olur ki, iynə salmağa yer olmur.
 

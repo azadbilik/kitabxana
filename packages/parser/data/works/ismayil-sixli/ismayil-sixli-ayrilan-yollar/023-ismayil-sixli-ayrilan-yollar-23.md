@@ -12,7 +12,7 @@ order: 23
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=11'
 status: DRAFT
 ---
-İmran dan yeri ağaranda yuxudan durub geyindi və həyətə çıxdı. Əvvəlcə qolundakı saata, sonra qızaran üfüqlərə baxdı. Göy üzünə səpələnmiş ulduzlar solğunlaşıb bir-bir sonürdü. Yalnız şərq tərəfdə dan ulduzu iri almaz parçası kimi titrəyirdi.
+İmran dan yeri ağaranda yuxudan durub geyindi və həyətə çıxdı. Əvvəlcə qolundakı saata, sonra qızaran üfüqlərə baxdı. Göy üzünə səpələnmiş ulduzlar solğunlaşıb bir-bir sönürdü. Yalnız şərq tərəfdə dan ulduzu iri almaz parçası kimi titrəyirdi.
 
 "Yaman gecikmişəm" - deyə o, fikrindən keçirdi.
 
@@ -38,11 +38,11 @@ Maşın yüngülcə tərpəndi, həyətdən çıxıb yola düşdü. İmran bu ma
 
 İmran anasını öpüb pulu götürmüşdü.
 
-"Moskviç" kəndin içinə çıxanda kəsik-kəsik fit verdi. Səhər-səhər bu fıti eşidən kimi, demək olar hamı eyni şeyi düşünürdü: "Aqronom oyanıb, işə getmək vaxtıdır".
+"Moskviç" kəndin içinə çıxanda kəsik-kəsik fit verdi. Səhər-səhər bu fiti eşidən kimi, demək olar hamı eyni şeyi düşünürdü: "Aqronom oyanıb, işə getmək vaxtıdır".
 
 İmran maşını idarənin yanından sürdü. Qapı ağzında onu gözləyən Nəsib dayını götürdü. Birlikdə kəndin arasında dolandılar.
 
-Göyün üzü yamam ağardı. Qəfil qalxan xəfif külək ağacların yarpaqlarını xışıldatdı. Xoruzlar səs-səsə verdi. Evlərin qapılan açılıb-örtüldü. Küçələr adamla doldu.
+Göyün üzü yaman ağardı. Qəfil qalxan xəfif külək ağacların yarpaqlarını xışıldatdı. Xoruzlar səs-səsə verdi. Evlərin qapılan açılıb-örtüldü. Küçələr adamla doldu.
 
 – Bir-iki dəfə də siqnal ver, gecikən olar.
 
@@ -54,9 +54,9 @@ Maşın, yolun kənarı ilə gülüşə-gülüşə işə gedən qızların yanı
 
 İmran gözünü yollara zilləyib fikrə getmişdi. Bir aydan çox idi ki, dərslər başlanmışdı, lakin Nərgiz hələ gəlib çıxmamışdı. Tükəzban xala Bakıdan qayıdandan sonra da İmran ümidini kəsməmişdi. O, əmin idi ki, Nərgiz dərs vaxtı gəlib çıxacaqdır. Axı onlar bir-birinə söz verib əhd-peyman bağlamışdılar. Nərgiz yay tətilinə gedəndə İmran özü onu yola salmışdı. Onlar rayon mərkəzinə qədər piyada getmişdilər. Nərgiz özü xahiş etmişdi ki, "gəzə-gəzə gedək". Onlar böyük torpaq yoldan çıxıb cığıra düşmüşdülər. Nərgiz uşaq kimi sevinirdi. Gah çiçək dalınca qaçır, gah da palıd ağacının dibində dayanıb quşların civiltisinə qulaq asırdı. Ağaclar sıxlaşdıqca hava bürküləşirdi. Nərgiz kəlağayısını əlinə almışdı, sinəsi açıq idi. Güllü şifon koftasının tünd-yaşıl yaxalığı ağ boynunu daha da gözəl göstərirdi. İmran diqqətlə baxdıqca, Nərgizdə yeni-yeni gözəlliklər tapırdı.
 
-Qızın açıq qolları nə qədər də yumşaq və zərif idi! Güləndə sinəsi necə də titrəyirdi! Saçları ipək kimi axıb çiyninə tökülmüşdü. Nərgizin elə bil xasiyyəti də dəyişmişdi. Tez-tez İmranın qoluna girir, onun hər sözünə qaqqıltı ilə gülür, cüzi bir məsələ üstündə höcətləşirdi. İmran qızın sevindiyini aydınca görürdü. Ancaq o nəyə sevinirdi? Bəlkə Bakıya getdiyinə, özünün köhnə tanış-bilişləri ilə görüşmək üçün imkan tapdığına sevinirdi? Bəlkə indi Teymur da ordadır? Bəlkə Nərgizi qanadlandıran elə bu göruş arzusudur?
+Qızın açıq qolları nə qədər də yumşaq və zərif idi! Güləndə sinəsi necə də titrəyirdi! Saçları ipək kimi axıb çiyninə tökülmüşdü. Nərgizin elə bil xasiyyəti də dəyişmişdi. Tez-tez İmranın qoluna girir, onun hər sözünə qaqqıltı ilə gülür, cüzi bir məsələ üstündə höcətləşirdi. İmran qızın sevindiyini aydınca görürdü. Ancaq o nəyə sevinirdi? Bəlkə Bakıya getdiyinə, özünün köhnə tanış-bilişləri ilə görüşmək üçün imkan tapdığına sevinirdi? Bəlkə indi Teymur da ordadır? Bəlkə Nərgizi qanadlandıran elə bu görüş arzusudur?
 
-İmrannı qaşları çatıldı. Nərgiz bunu hiss etmədi. Qaçıb palıdın kölgəsindəki göylükdə oturdu. İmran dinməz-söyləməz onun yanında əyləşdi. Meşə min bir dillə pıçıldaşırdı.
+İmranın qaşları çatıldı. Nərgiz bunu hiss etmədi. Qaçıb palıdın kölgəsindəki göylükdə oturdu. İmran dinməz-söyləməz onun yanında əyləşdi. Meşə min bir dillə pıçıldaşırdı.
 
 İmran yerdən bir ot qoparıb dişləriylə didişdirməyə başladı.
 
@@ -74,9 +74,9 @@ Nərgiz İmrana daha yaxın oturdu. Əllərini İmranın boynuna salıb çarpazl
 
 Nərgiz onu öpüb qaçmaq istədi. Ancaq bacarmadı...
 
-Onlar vaxtın necə gəlib keçdiyini bilmədilər. Gün əyiləndə göyün üzünə qara bulud gəldi, iri damlalı yağış çilədi. Onlar bunu da hiss etmədılər. Yağışdan sonrakı göy qurşağını belə görmədilər. Ancaq otluqda üst-başlarının şehə batdığını görüb təəccübləndilər.
+Onlar vaxtın necə gəlib keçdiyini bilmədilər. Gün əyiləndə göyün üzünə qara bulud gəldi, iri damlalı yağış çilədi. Onlar bunu da hiss etmədilər. Yağışdan sonrakı göy qurşağını belə görmədilər. Ancaq otluqda üst-başlarının şehə batdığını görüb təəccübləndilər.
 
-Sahildə dayandılar. Suların qızaran, kölgələrin uzanan vaxü idi.
+Sahildə dayandılar. Suların qızaran, kölgələrin uzanan vaxt idi.
 
 – Mən bunu heç vaxt unutmayacam, İmran!
 
@@ -108,11 +108,11 @@ Nəsib dayı da fikirli idi. O, gözaltı İmranı süzür və ürəyində Nərg
 
 Nəsib dayı atalıq borcunu yalnız övladı yaxşı geyindirib yedirməkdə görən adamlara gülərdi. Belə atalar adətən həmişə övladlarını sıxır, "mən səni saxlamışam, boğazımdan kəsib sənə vermişəm, mənə borclusan, ona görə də mən nə desəm, o olmalıdır" deyirlər. Övladlarının müstəqil yaşamasının əleyhinə çıxırlar. Çalışırlar ki, uşaqları da onlar kimi düşünsün, onlar kimi hərəkət etsin, onlar kimi yaşasınlar. Bu cür adamlar elə zənn edirdilər ki, həyatı, yaşayışı dünyada onlardan düzgün başa düşən yoxdur, heç kəs onların dediyinin əleyhinə çıxa bilməz. Övlad onun dediyini dinməz-söyləməz yerinə yetirib cavab qaytarmamalıdır. Bu qanun pozulduqda onlar müstəbidləşirlər.
 
-Nəsib dayı bu cür adamları bədbəxt hesab edirdi. Çünki onlar öz aləmlərində övlada yaxşdıq edib qayğısına qalır, onun xoşbəxtliyinə çalışır, əsllndə isə qaş düzəltmək əvəzinə göz tökürlər. Unudurlar ki, hər quşun öz uçuşu var; ata körpəsini pərvazlandırıb uçurtduqdan sonra onun qanadını bağlaya bilməz.
+Nəsib dayı bu cür adamları bədbəxt hesab edirdi. Çünki onlar öz aləmlərində övlada yaxşdıq edib qayğısına qalır, onun xoşbəxtliyinə çalışır, əslində isə qaş düzəltmək əvəzinə göz tökürlər. Unudurlar ki, hər quşun öz uçuşu var; ata körpəsini pərvazlandırıb uçurtduqdan sonra onun qanadını bağlaya bilməz.
 
 Muradov belə atalardan idi. Nəsib dayı elə ilk söhbətdən bunu duymuşdu. Ancaq o, Nərgizin iradəsizliyinə inana bilmirdi.
 
-O, aqronoma təskinlik vermək istəyirdisə də bacarmırdı. Nəsib dayı ilk sevginin nə demək olduğunu, nakam məbəbbətin dəhşətlərini çox yaxşı bilirdi...
+O, aqronoma təskinlik vermək istəyirdisə də bacarmırdı. Nəsib dayı ilk sevginin nə demək olduğunu, nakam məhəbbətin dəhşətlərini çox yaxşı bilirdi...
 
 Nəhayət o, papirosunu maşının pəncərəsindən kənara atıb dilləndi:
 
@@ -160,13 +160,13 @@ Onlar geri qayıdanda briqada çinar ağacının kölgəsinə toplaşmışdı. T
 
 Çinar ağacının kölgəsində böyük məclis qurulınuşdu. Briqada bayram edirdi.
 
-Zeynəb, planı dolduran kimi elə tarlada öz üzvlərinə qonaqlıq verəcəyini yığıma başlayanda qərara almışdı. Bu gün onun briqadası planı doldururdu. Adamlar yavaş-yavaş çinarın kölgasinə toplaşir, ortada hərlənib göstəriş verən briqadirə söz atırdılar.
+Zeynəb, planı dolduran kimi elə tarlada öz üzvlərinə qonaqlıq verəcəyini yığıma başlayanda qərara almışdı. Bu gün onun briqadası planı doldururdu. Adamlar yavaş-yavaş çinarın kölgəsinə toplaşır, ortada hərlənib göstəriş verən briqadirə söz atırdılar.
 
 – Bu nədir, ay Zeynəb, kimin toyudur?
 
-– Briqadanın toyudur. Əhd eləmişəm, plant iki yüz faiz yerinə yetirəndə elə burada daha böyük məclis düzəldəcəm.
+– Briqadanın toyudur. Əhd eləmişəm, planı iki yüz faiz yerinə yetirəndə elə burada daha böyük məclis düzəldəcəm.
 
-Bir dəstə kolxozçu İmranın başına toplaşmışdı. Onlar qizğın mübahisə edirdilər.
+Bir dəstə kolxozçu İmranın başına toplaşmışdı. Onlar qızğın mübahisə edirdilər.
 
 – Məsələ təkcə pambığı əkib-becərməkdə deyil. Gərək onu vaxtında yığmağı bacarasan. Hələlik havalar yaxşıdır. Qorxusu yoxdur.
 

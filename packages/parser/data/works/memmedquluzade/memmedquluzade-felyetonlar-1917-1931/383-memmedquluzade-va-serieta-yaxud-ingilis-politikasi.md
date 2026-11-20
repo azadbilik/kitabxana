@@ -17,7 +17,7 @@ Amma işin əsli binövrəsinə baxsaq, ingilis politikasının tən yarı hiss�
 
 Hal-hazırda yavuqdakı işlərdən danışaq.
 
-Yenə keçən günləri ingilis qəzetləri göz yaşı tökürdulər. İngilis qəzetləri dad-fəryad edirlər ki, ax-vay, şəriət əldən getdi, kilsə əldən getdi, din və iman əldən getdi.
+Yenə keçən günləri ingilis qəzetləri göz yaşı tökürdülər. İngilis qəzetləri dad-fəryad edirlər ki, ax-vay, şəriət əldən getdi, kilsə əldən getdi, din və iman əldən getdi.
 
 İngilis qəzetləri milyonlarca nadan Şərq rəiyyətlərinin dini mütəəssibliyinə pənah aparıb özünü tülkü kimi abid və dinpərəstlik cildinə salıb deyir: “Baxın, ay Allah bəndələri, görün bu Şuralar necə dinin və etiqadın kökünü kəsmək istəyirlər”.
 

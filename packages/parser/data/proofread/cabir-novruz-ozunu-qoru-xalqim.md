@@ -258,7 +258,7 @@ Zühur etdi,
 Peydə oldu,
 Əqidələr elə bil ki,
 Edam oldu…
-Kəlmə başı aldatldılar
+Kəlmə başı aldatdılar
 Bu milləti,
 Anasını ağlatdılar
 Bu millətin…
@@ -272,7 +272,7 @@ Birdən-birə…
 Birdən-birə…
 Gədə-güdə birdən bizə
 Ata çıxdı,
-Cörəyimiz qıta çıxdı…
+Çörəyimiz qıta çıxdı…
 Qurutdular suyumuzu,
 Yas qatdılar toyumuza,
 Bərəkətli torpağımız
@@ -708,7 +708,7 @@ Onda necə çıxacaqlar
 El içinə…
 Soruşuram dönə-dönə, təkrar-təkrar,
 Hansı üzlə onlar, axı,
-Hansı üzlə tıxacaqlar,
+Hansı üzlə çıxacaqlar,
 Çörəyini bu torpağın?..
 Soruşuram, təkrar-təkrar, dönə-dönə,
 Eşidirəm ürəyimin qərarını,
@@ -948,7 +948,7 @@ Kəsilib elin kələyi…
 Dava qanlı bir xəlbirdir,
 Bütün milləti ələyir…
 Ələyir bir-bir ədəyir,
-Ədində xəlbir ələyi…
+Əlində xəlbir ələyi…
 Ayırır bədəndən qolu,
 Baş bir yana, leş bir yana,
 
@@ -2268,7 +2268,7 @@ Neçə əsrdir ki, xalq adlanırıq,
 
 Böyük zəkaları qurban edirik,
 Şəxsi xeyrimizə, nəfsimizə biz…
-Öz qızıl qanına qəltən edirik,
+Öz qızıl qanına qəlbən edirik,
 
 @@ 050
 
@@ -3384,7 +3384,7 @@ Bir təhərlə baş girləmək asandır.
 Özgələrin kəlamını, fikrini
 Yeyib, söküb məngirləmək asandır.
 
-«Can, ay qardaş!» çagırmağa nə var ki,
+«Can, ay qardaş!» çağırmağa nə var ki,
 bax, o canın özü olmaq çətindir.
 Kişilikdən dəm vurmağa nə var ki,
 Çətin gündə kişi olmaq çətindir,
@@ -3423,7 +3423,7 @@ Havayı fallardan ümid gözləmə.
 Məsləki hallardan ymid gözləmə.
 Ata hesabına, dayı gücünə
 Mənsəb alanlardan ymid gözləmə…
-Myasir bəylərdən,bəyzadələrdən,
+Müasir bəylərdən,bəyzadələrdən,
 Təzə marallardan ümid gözləmə…
 Çörəyi dizinin üstündə olan,
 Vicdanı çallardan ümid gözləmə.
@@ -3584,7 +3584,7 @@ Hansı şəxsə, hansı kəsə,
 İnsan deyib çağırasan?...
 Cavab çətin, sual asan?...
 Deyin xoşbəxt sayaq kimi,
-Varlınımı, zənginimi?
+Varlığımı, zənginimi?
 Zalımımı, fağırımı?!
 Dünya qorxunc nağıl imiş,
 Sual imiş başdan-başa,
@@ -3898,7 +3898,7 @@ Lövbər salıb o yerlərə,
 Amma min-min təmiz, naçar,
 Həsrət qalıb o yerlərə…
 Su yoluna dönüb Məkkə,
-Can qalmayıb Məfdinədə…
+Can qalmayıb Mədinədə…
 Pulları da ətək-ətək,
 Axıb gedir xəzinəmiz…
 Bu keçmişdən bizə miras,
@@ -3928,7 +3928,7 @@ Videolara çəkdirirlər,
 Bir yol da çəkdirəydilər
 Ticarət eyləyən yerdə…
 Ömrü boyu kələk ilə
-Yahayan bu fırıldaqlar…
+Yaşayan bu fırıldaqlar…
 Bir Məkkəyə getmək ilə,
 Guya ki, saf olacaqlar…
 Keyflərini xoş edirlər,
@@ -4070,7 +4070,7 @@ Dünya malında gözüm olmadı…
 
 Çoxu pul yığıb çin-çin düzdülər,
 Mən dövlət dedim şerlərimə…
-Sətir çinlədim sətir üstünə,
+Sətir dinlədim sətir üstünə,
 Qızıl yerinə, altun yerinə…
 
 Məni də belə yaratdın, tanrım,
@@ -4453,7 +4453,7 @@ Bu torpağı addım-addım,
 Çoxu da «ağ günə» çatdı,
 Sahibi-iqtidar oldu…
 
-Xalqım yurd-yuvasəz qaçaq,
+Xalqım yurd-yuvasız qaçaq,
 Şuşam yad əllərdə dustaq,
 Ondan sonra papaq qoymaq,
 Hər bir erkəyə ar olsun…
@@ -4474,7 +4474,7 @@ Bu ən müşkül azar oldu…
 Möhtəkirlər ordu-ordu,
 Alverçilər tutub yurdu,
 Dükanlardan qala qurduq,
-Azəröaycan bazar oldu…
+Azərbaycan bazar oldu…
 
 böyükAllah, dahiAllah,
 dözmək olmur daha,allah,
@@ -4965,7 +4965,7 @@ Ana südü, ölüm suyu əmə-əmə…
 İllər ötdü sonra duydum, sonra qandım,
 Yuxu imiş, xəyal imiş hər şey demə…
 
-Kiidir verən, kimdir alan bizi belə,
+Kimdir verən, kimdir alan bizi belə,
 Bu bəşərin ən əbədi dərdi imiş…
 Var olmağın, yox olmağın özü belə,
 Yaşamağın özü belə şərti imiş…
@@ -5010,7 +5010,7 @@ Rəiyyət rəiyyət, şah da şah idi,
 İndi bir fırıldaq dükan sahibi,
 Dükanına gələn dahini saymır…
 
-İnsana nə etsə, məhs insan edir,
+İnsana nə etsə, məhv insan edir,
 Adam var könlü pərişan edir,
 Yanında anası ah-fəqan edir,
 Doğma anasının ahını saymır…
@@ -5568,7 +5568,7 @@ Dönə gəncliyinin
 Odlu anları,
 Arzular qoynunda
 Deyib güləsən.
-Həyatda müyüssər
+Həyatda müyəssər
 Olmayanları,
 Barı yuxularda
 Görə biləsən…
@@ -5656,7 +5656,7 @@ Qanımda saflaşma gedir…
 
 Azalır yalan qiymətlər,
 Keyfi, ruhu şad oluram.
-Süni mehr-məhəbblətlər,
+Süni mehr-məhəbbətlər,
 Torundan azad oluram.
 
 Necə glçüm, görən, necə,
@@ -5723,7 +5723,7 @@ O sükutun maşınını yaşıl edərdim.
 Maralgölə qonaq getdim yaz vədəsində,
 Şəffaf idi, büllur idi, diləkli idi.
 Bir tapılmaz sükut vardı əhatəsində
-Sykutu da təmiz idi, gərəkli idi.
+Sükutu da təmiz idi, gərəkli idi.
 
 # Arzuların ən yaxşısını buludda
 
@@ -5843,7 +5843,7 @@ Dünyamızda bu gün insan qıtlığıdır,
 Bu gün kütlə bolluğudur yer şarında…
 Əhalinin milyardlardır say-hesabı,
 Amma çoxu cəsəddilər, fiqurdular…
-Mənsə insan axtarırım qapı-qapı,
+Mənsə insan axtarıram qapı-qapı,
 Yoxsa tamam tükəndilər, yox oldular…
 Nanəciblər gözə girir tikan kimi,
 Nanəciblərin azalmada sayı gündə…
@@ -6120,7 +6120,7 @@ Bulaq suyu, dağ havası.
 
 Zirvələrin başı qarlı,
 Meşələrin içi barlı,
-Ay kökünə etibarllı,
+Ay kökünə etibarlı,
 Bulaq suyu, dağ havası.
 
 Yoxuş yoran çağım hanı?
@@ -6449,7 +6449,7 @@ O bütün canlılara müştəridir…
 Zir-zibildən törəyən milçəyə də,
 Körpəyə, gəncə, hər ağbirçəyə də,
 Yeddi qardaşa, təkə, bircəyə də,
-Dəliyə, kara, kora myştəridir…
+Dəliyə, kara, kora müştəridir…
 
 Sürünənlər, yeriyənlər ona ram,
 Göydə cövlan eləyənlər ona ram,
@@ -6659,12 +6659,12 @@ Mən sayıram, fələk sayır,
 Fələk sayır,
 Mən sayıram.
 … Övladlarım doğuldular,
-Ata qədbim
+Ata qədim
 Ümman oldu…
 Fələk deyən olmadı ta
 Bu dəfə
 Mən sayan oldu…
-Ogul toyu elədim ki,
+Oğul toyu elədim ki,
 Gəlin gəlsin
 Evimizə…
 Bu dəfə də görünmədi
@@ -6731,7 +6731,7 @@ Saydın daha…
 Əsr eyləmişəm…
 Balaca iş masamı
 Qələ qəsr eyləmişəm…
-Çəkmişəm duyğüların dağdan
+Çəkmişəm duyğuların dağdan
 Ağır dağ yükünü,
 Düşmüşəm misralar ardınca
 Qərib ahu kimi,
@@ -6983,7 +6983,7 @@ Bu, mənə bir zərbə idi…
 -Nə təhərsən, lap yaxşıyam,
 yaxşı deyib can verirdi.
 Mənim ömrüm, mənim dünyam,
-Gölümsəyib can verirdi…
+Gülümsəyib can verirdi…
 
 -Nə təhərsən,-lap yaxşıyam,
 bu mənə bir ağrı oldu…
@@ -7139,7 +7139,7 @@ Yuxun olsun şirin sənin…
 
 # Demə…
 
-Bir səma artında neçə bahar-qış,
+Bir səma altında neçə bahar-qış,
 Bir isti ocaqda, bir ailədə,
 Demə, səadətlə yaşayırıqmış,
 Xəbərimiz yoxdur bircə gilə də…
@@ -7219,7 +7219,7 @@ Qarışıb gecəm-gündüzüm.
 O dünyada qalıb gözüm,
 Sənin ölümündən sonra…
 
-Shyuyub isti evimiz,
+Soyuyub isti evimiz,
 Tutqun dənizdi evimiz,
 Laldır, dilsizdir evimiz,
 Sənin ölümündən sonra…
@@ -7559,7 +7559,7 @@ Dünyanın əşrəfi insan yalandır…
 Budur, əzrayıl da əli qılınclı,
 Başımın üstünü kəsdi, dayandı…
 
-Əlvidv, əlvida yalançı dünya,
+Əlvida, əlvida yalançı dünya,
 Çökür gözlərimə zülmət qaranlıq…
 Əlvida,əlvida yalançı dünya,
 Həqiqi dünyama yetirəm artıq…
@@ -7630,10 +7630,10 @@ Bir anam, bir də ki, nəvəm Təbrizə…
 
 Ay ana, düşürsən tez-tez yadıma,
 Təzədən dönürəm uşaq oluram.
-Diztnə baş qoyub bərk-bərk yatıram,
+Dizinə baş qoyub bərk-bərk yatıram,
 Bütün qayğılardan uzaq oluram.
 
-Görürəm çiynində yenə də çapşab,
+Görürəm çiynində yenə də çarşab,
 Obaşdan durmusan sübh namazına.
 Əlində o ulu, müqəddəs kitab,
 Yenə üz tutmusan göylərə, ana.
@@ -7784,7 +7784,7 @@ O evi, eyvanı, İbrahim dayı.
 
 Bir bağın vardı ki, çiçəkdi, güldü,
 Yazda açılırdı, qışda gülürdü.
-Gördüm meyvələrin sankai ölüydü,
+Gördüm meyvələrin sanki ölüydü,
 Bərk qaraldı, İbrahim dayı.
 
 Təzə mənzilinə düşdü güzarım,
@@ -7804,7 +7804,7 @@ Yoxdu bir nöqsanın, İbrahim dayı.
 
 Qeyrət insanıydın, insaf insanı,
 Allah insanıydın, savab insanı.
-Ərzin ən əvəfsiz, ən saf insanı,
+Ərzin ən əvəzsiz, ən saf insanı,
 Ən bədbəxt insanı, İbrahim dayı…
 
 *1992*
@@ -7930,7 +7930,7 @@ Bu yolda…
 Yanar təfəkkürlər, odlu ocaqlar
 Tüstüsüz bacalar gördüm-
 Bu yolda…
-Qocaykən cavanlvr, sağkən ölülər,
+Qocaykən cavanlar, sağkən ölülər,
 Cavankən qocalar gördüm-
 Bu yolda…
 Müasir ağalar, bəylər, paşalar,
@@ -8056,7 +8056,7 @@ Mən sonuncu
 Şer acıyam…
 Hər şeyimi as yazıram…
 Ac olanda çox yazıram,
-Tox landa az yazıram.
+Tox olanda az yazıram.
 Misra ilə doyuyuram,
 Özümü mən,
 Boş süfrəmə doldururam
@@ -8420,7 +8420,7 @@ Elə bil ki, vəcdə gəlib tanrının özü,
 Əsla bitib-tükənmədi söz əmanətim,
 Yollarıma gecə-gündüz o tutdu məşəl.
 Amma məni duymadılar bu zəmanədə,
-Yəqin ayrə zəmanədə başa düşürlər...
+Yəqin ayrı zəmanədə başa düşürlər...
 
 Ürəklərə toxum səpdin, vermədi səmər,
 Ha çağırdım yatan kütlə sanma ayıldı...
@@ -8455,7 +8455,7 @@ Bir də, bir sözlərimin çiyinlərində.
 # Mənimki sözdür, sizinki para...
 
 Siz rüşvət alan, mən şer yazan,
-Möhtəkir hara, sənqətkar hara?!
+Möhtəkir hara, sənətkar hara?!
 Mənimki çətin, sizinki asan,
 Mənimki sözdür, sizinki para...
 Şairlər heç vaxt zəngin olmayım,
@@ -8591,7 +8591,7 @@ Bütün qatarlara, təyyarələrə,
 Dağlara, düzlərə, çəmənliklərə
 İstefa vermişəm şerə görə,
 Mənəm, dörd divardır, kağız qələmdir,
-Ymidim, köməyim yalnız qələmdir...
+Ümidim, köməyim yalnız qələmdir...
 
 *1993.*
 
@@ -9390,7 +9390,7 @@ Sükuta qərq olur, evim, ürəyim…
 Qara bulud kimi tutuluram mən,
 Dadını itirir suyum, çörəyim.
 
-Səsin gələn kimi vaplığım əsir,
+Səsin gələn kimi varlığım əsir,
 Canıma elə bil təzə can gəlir.
 Səsin gəlməyəndə elə bil səsim,
 Bir zülmət qaranlıq quyudan gəlir.
@@ -9867,7 +9867,7 @@ Gündə yüz butka qururlar,
 Düz şəhərin beşiyində.
 Vətəndən sayıq dururlar,
 Saqqızların keşiyində…
-Gamaat axır bazara,
+Camaat axır bazara,
 Alver dönüb köləliyə…
 Kimdə vətən qeyrəti var,
 Çıxsın gərək irəliyə…
@@ -9908,7 +9908,7 @@ Pulla alınır vəzifə,
 Torpaqlar verilib pulla…
 Başçı elədilər bizə
 Birovuc dəlini pulla…
-Alveçi nəyimə gərək,
+Alverçi nəyimə gərək,
 Yurdun silaha, əsgərə,
 Ehtiyacı olan yerdə…
 Heç olarmı qalib gəlmək,
@@ -10028,9 +10028,9 @@ Belə yalan olan yerdə?..
 Bu qədər qan olan yerdə?..
 Yetər dözdüyümüz, yetər,
 Ya ölüb, ya qalmalıyıq…
-Farşistlərin mərhəməti,
+Faşistlərin mərhəməti,
 Bizə daha gərək deyil…
-Qarabatı, o cənnəti,
+Qarabağı, o cənnəti,
 Biz can verib almalıyıq…
 Yoxsa bizə yolçu payı,
 Məzlum payı gərək deyil…
@@ -10071,7 +10071,7 @@ Heç bir dəstə göy verən yox,
 Bir vicdanın qiymətinə…
 Şər olub xeyr, xeyr olub şər,
 Qoyun, keçi qiymətinə,
-Keəi qoyun qiymətinə…
+Kefi qoyun qiymətinə…
 Bir kilo ət verməyirlər,
 Nizaminin qiymətinə…
 Füzulinin qiymətinə
@@ -10592,7 +10592,7 @@ Heç olmasa beş günlüyə azad quş oldu,
 Odlar görmüş həm o yanlı, bu yanlı xalqım…
 
 Heç olmasa əhval tutub danışa bildik,
-Öz doğmaca qardahımla bir lisanda biz.
+Öz doğmaca qardaşımla bir lisanda biz.
 Heç olmasa gəzə bildik, dolaşa bildik,
 Bu dünyanın cənnət bağı Gülüstanda biz…
 
@@ -10627,7 +10627,7 @@ Bilə-bilə qoymadılar, qoymadılar ki,
 
 @@ 214
 
-Bütbv vahid millət olaq, bir yerdə olaq…
+Bütöv vahid millət olaq, bir yerdə olaq…
 
 Qorxuludur hər millətin bütövü, tamı,
 Millət batır, millət itir parçalananda…
@@ -10745,7 +10745,7 @@ Səsim, ünüm, hay-harayım qaldı içimdə.
 Qədim Novruz bayramımız-familim, soyum,
 İllər ilə həbs edildi xalqın içində.
 
-Familimdən diksimdim də hərdən elə bil,
+Familimdən diksindim də hərdən elə bil,
 Amma qəlbə qürurlandım Novruz gələndə.
 Hamı gizli bayram etdi Novruzu hər il,
 Plov asdı, xonça tutdu bu əziz gündə…
@@ -10794,7 +10794,7 @@ Səhənd öldü hüzuruna gedə bilmədik.
 Yüz yol şəxsi işimizi varaqladılar,
 Günahımız, təqsirimiz nədi,-bilmədik…
 
-Yzeyir bəy gözlərini yumdu əbədi,
+Üzeyir bəy gözlərini yumdu əbədi,
 Uzaq-uzaq ellər gəlib gördü bu yası.
 O tərəfdən bir quş belə səkə bilmədi,
 Biz də kimi qanlı tutduq-yazıq Arazı.
@@ -11068,7 +11068,7 @@ Gözəl-gözəl yaylaqlardan endirib bizi,
 Tökürdülər odlu Muğan düzənlərinə…
 
 Deyirdilər, başlı başın saxlasın daha,
-Bu şoranlıq düzləri hara, o dablar hara?!
+Bu şoranlıq düzləri hara, o dağlar hara?!
 Bircə qurtum bulaq suyu ömürdən baha,
 Bircə udum dağ havası gəlməz xəyala…
 
@@ -11150,12 +11150,12 @@ Tez yığışdı dövrəsinə Bakı qızları,
 Hərə bir şey sual edib, soruşdu ondan…
 
 O, qızların hüzurunda çaşdı, duruxdu,
-Bir sadəlöhv, bir günahsız uşaqdı sanki…
+Bir sadəlövh, bir günahsız uşaqdı sanki…
 Qara saçlar ilahidən buruq-buruqdu,
 Ala gözlər bir sehirli bulaqdı sanki.
 
 Mən anamın gözlərindən başqa dünyada,
-Heç bir zaman o cür şəfaf göz görməmişdim…
+Heç bir zaman o cür şəffaf göz görməmişdim…
 Kəndimizdə qızlar vardı namuslu, sadə,
 Amma heç vaxt bu həyatda qız görməmişdim…
 
@@ -11169,7 +11169,7 @@ Bizə qonşu olanların ovudu onlar.
 Sonra bildim yurdsuzdu onlar, ünvansızdılar,
 Sonra bildim İrəvandan qovulub onlar…
 
-Bir dəhşətli heyran hissi üarandı məndə,
+Bir dəhşətli heyran hissi yarandı məndə,
 Elə bil ki, azıb qaldım duman içində.
 Pedaqoji məktəb varmış ana dilində,
 Bağlayıblar, dağıdıblar bir an içində.
@@ -11196,7 +11196,7 @@ Stol altda, pəncərədə yatır körpələr,
 @@ 225
 
 Krantlarda ayda, ildə bir yol su gələr,
-Tarakanlar ədab-ərkan bilmirlər əsla.
+Tarakanlar ədəb-ərkan bilmirlər əsla.
 
 …Olurmuşlar İrəvanın düz ortasında,
 Dörd tərəfdə Azərbaycan məhəllələri…

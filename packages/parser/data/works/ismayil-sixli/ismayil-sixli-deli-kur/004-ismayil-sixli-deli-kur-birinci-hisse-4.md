@@ -26,7 +26,7 @@ Birdən Çərkəz hövlnak oyanıb, başını yorğanın altından çıxartdı:
 
 – Hə, dur, ay çoxdan doğub.
 
-Çərkəz yorğanı üstündon atıb ayağa durdu. Qollarını açıb gərnəşdi. Sərin havanı ciyərlərinə çəkib bərkdən əsnədi.
+Çərkəz yorğanı üstündən atıb ayağa durdu. Qollarını açıb gərnəşdi. Sərin havanı ciyərlərinə çəkib bərkdən əsnədi.
 
 – Deyəsən, yatıb qalmışıq.
 
@@ -80,7 +80,7 @@ Səs eşidən şələquyruq bir tülkü gözləri parıldaya-parıldaya qaçıb,
 
 – Qurbağa tutmağa. Qarmağa keçirəcəyəm.
 
-O özünü şappıltı ilə suya atdı. Bir az bundan qabaq səs-səsə verib suyun üzündə süzən qurbağalar susdular. Çərkəz balaca gölməçədə xeyli əlləşdi. Bir-iki dəfə əlinə toxunan soyuq və süruşkən qurbağaları qaçırtdı.
+O özünü şappıltı ilə suya atdı. Bir az bundan qabaq səs-səsə verib suyun üzündə süzən qurbağalar susdular. Çərkəz balaca gölməçədə xeyli əlləşdi. Bir-iki dəfə əlinə toxunan soyuq və sürüşkən qurbağaları qaçırtdı.
 
 Şamxal dolaqlarını açıb ayaqlarını soyunana qədər çərkəz qayıtdı. Onun əlində beş-altı qurbağa vardı. Çərkəz onları başıaşağı sallamışdı. Qurbağaların qarnı ağarırdı.
 

@@ -17,7 +17,7 @@ Havayı fallardan ümid gözləmə.
 Məsləki hallardan ymid gözləmə.
 Ata hesabına, dayı gücünə
 Mənsəb alanlardan ymid gözləmə…
-Myasir bəylərdən,bəyzadələrdən,
+Müasir bəylərdən,bəyzadələrdən,
 Təzə marallardan ümid gözləmə…
 Çörəyi dizinin üstündə olan,
 Vicdanı çallardan ümid gözləmə.

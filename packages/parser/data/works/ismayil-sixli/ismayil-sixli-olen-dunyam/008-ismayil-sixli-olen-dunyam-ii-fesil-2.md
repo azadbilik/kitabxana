@@ -12,7 +12,7 @@ order: 8
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=237'
 status: DRAFT
 ---
-Qəza firqə özəyinin qapısında dayanan keşikçilər Kəsəmənlini görən kimi gülümsünüb ona yol verdilər. Kabı kişi üst-başını düzəltdi, saçaqlı papağını gözünün üstündən azca geri itələdi və şax addımlarla dəhliz boyu getdi. Üstünə qəza fırqə özək katibinin adı yazılmış qapını aralayıb içəridəkilərə salam verdi. Firqə özək katibi Abdal kişi qaş-qabaqlı idi. Telefonda kiminləsə acı-acı danışırdı. O, dilucu salamı aldı və Kəsnmənliyə oturmaq üçün yer göstərdi. Kəsəmənli neçə aydan bəri qəzaya təhkim olunmuş Çekanın nümayəndəsilə qabaq-qənşər oturası oldu. O, adəti üzrə ayağını ayağının üstünə aşırmışdı. Biləkləri didilmiş qara tumac gödəkçəsinin ortasını enli qalın kəmərlə boğmalamışdı. Bir yandan naqanı, bir yandan da çantası sallanırdı. Başındakı papaq da nimdaş idi. Bircə ulduzdan başqa. Elə bil ulduzu qəsdən seçmişdi; hər gün tozunu alıb papağının alnına yapışdırırdı.
+Qəza firqə özəyinin qapısında dayanan keşikçilər Kəsəmənlini görən kimi gülümsünüb ona yol verdilər. Kabı kişi üst-başını düzəltdi, saçaqlı papağını gözünün üstündən azca geri itələdi və şax addımlarla dəhliz boyu getdi. Üstünə qəza firqə özək katibinin adı yazılmış qapını aralayıb içəridəkilərə salam verdi. Firqə özək katibi Abdal kişi qaş-qabaqlı idi. Telefonda kiminləsə acı-acı danışırdı. O, dilucu salamı aldı və Kəsnmənliyə oturmaq üçün yer göstərdi. Kəsəmənli neçə aydan bəri qəzaya təhkim olunmuş Çekanın nümayəndəsilə qabaq-qənşər oturası oldu. O, adəti üzrə ayağını ayağının üstünə aşırmışdı. Biləkləri didilmiş qara tumac gödəkçəsinin ortasını enli qalın kəmərlə boğmalamışdı. Bir yandan naqanı, bir yandan da çantası sallanırdı. Başındakı papaq da nimdaş idi. Bircə ulduzdan başqa. Elə bil ulduzu qəsdən seçmişdi; hər gün tozunu alıb papağının alnına yapışdırırdı.
 
 Onların baxışları ani olaraq toqquşdu. Kəsəmənliyə elə gəldi ki, Fətullayevin gözlərində qıvrılıb yatan ilan fısıldayıb ayıldı və qarşısındakı adamın üstünə atılmağa hazırlaşdı. Fətullayev də Kəsəmənlinin gözlərində ildırım kimi şaxıyan amansız baxışları gördü. Lakin özlərini çox sakit apardılar. Kəsəmənli başa düşdü ki, onu buraya boş-boşuna çağırmayıblar.
 
@@ -32,9 +32,9 @@ Fətullayev ilan vurmuş kimi qıvrıldı və Kabı kişinin üstünə qışqır
 
 – Ağına-bozuna baxmadan da hamısına güllələnmə kəsirsən, eləmi? Firudin bəy Köçərlini neylədin?
 
-– Lazımi cəzasına çatdırdim.
+– Lazımi cəzasına çatdırdım.
 
-– Axı, o, neynəmişdi? Qəzamızda seminariya açmış, görkəmli müəllimləri başına yığmış, uşaqları kəndlərdən yığıb oxumağa getirmişdi. Nə idi onun günahı?
+– Axı, o, neynəmişdi? Qəzamızda seminariya açmış, görkəmli müəllimləri başına yığmış, uşaqları kəndlərdən yığıb oxumağa gətirmişdi. Nə idi onun günahı?
 
 – Bəs onun Musavat partiyasının üzvü olmasını niyə demirsən?
 

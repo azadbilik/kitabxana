@@ -15,7 +15,7 @@ Elan
 
 Əbdürrəhim bəy Haqverdiyevin 35 illik ədəbi fəaliyyətini qeyd etmək üçün Tiflisdə bu yanvarın 28-də, Rustaveli teatrosunda, “Yeni fikir” qəzetəsi binagüzarlığı ilə tərtib yubileyi axşamı veriləcəkdir.
 
-Bizə qalsa, bu yubiley hələ tezdir. Yaxşı olardı ki, bir yüz il də gözləyərdik. Biryolluq möhtərəm ədibin yüz otuz beş illik fəaliyyəti gəlib çataydı. Çünki yazdıqları əsərlər də hələ azdır. Ancaq on-on beş böyük əsər və pyeslərdir. Bir o qədər kiçik əsərlər, vodevillərdir, bir o qədər hekayədir və hədsid böyük və kiçik məqalələrdir.
+Bizə qalsa, bu yubiley hələ tezdir. Yaxşı olardı ki, bir yüz il də gözləyərdik. Biryolluq möhtərəm ədibin yüz otuz beş illik fəaliyyəti gəlib çataydı. Çünki yazdıqları əsərlər də hələ azdır. Ancaq on-on beş böyük əsər və pyeslərdir. Bir o qədər kiçik əsərlər, vodevillərdir, bir o qədər hekayədir və hədsiz böyük və kiçik məqalələrdir.
 
 Bunlar hamısı keçəndən sonra Əbdürrəhim bəy Haqverdiyev hər bir şeydən qabaq “Molla Nəsrəddin” məcmuəsinin ibtidasından ta bu vaxtadək məcmuənin ən yavuq əməkdaşlarından və məsləhətçi dərəcəsində yoldaşlarından hesab olunur.
 

@@ -19,7 +19,7 @@ Köks ötürüb ürəyində dillənir.
 Arifə bir işarədir üç nöqtə,
 
 Uzun-uzun mətləblərin qisası.
-Üzr, ifşa, ibarədir üç nöqtə,
+Üzr, ifşa, ibarətdir üç nöqtə,
 Hissin-ruhun qövr eləyən qisası.
 
 Dayaz fikri dərin etməz üç nöqtə,

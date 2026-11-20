@@ -37,7 +37,7 @@ Molla bu sözləri deyib, bir az da üzümə baxdı və soruşdu:
 
 – Yalandı, ya yox?
 
-Mən dinmədim; çünki fikrim çox yerlərə getdi. Fikrim getdi haman Təzəpir məscidinin həyətinə ki, orada bu axırıncı illərdə tut ağaclarının kölgəsində dəstə-dəstə müsəlman oxumuşları dərin-dərin fənn kitabları qoltuqlarında mərhumun cənazəsinin məsciddən çıxmağına müntəzirdirlər. Burada camaat ilə bir yerdə namaza duranlar içində təbiyyat müəllimləri tanışlarımdan, coğrafiya və tarix müəllimləri də yadıma düşür. Avropa darülfünununda uca elmlər təhsilini tapmış cavanlar yadıma gəlir; qalanlarının çoxu yenə orta məktəblərdə fənn dərsləri deyən müəllimlər olub. Bunlar hamısı, özləri kimi, Avropa təhsili tapmış mərhum rəfiqinin cənazəsini Təzəpir məsçidinə gətiriblər ki, mərhumun əgər günahları olmuş olsa, bağışlansın.
+Mən dinmədim; çünki fikrim çox yerlərə getdi. Fikrim getdi haman Təzəpir məscidinin həyətinə ki, orada bu axırıncı illərdə tut ağaclarının kölgəsində dəstə-dəstə müsəlman oxumuşları dərin-dərin fənn kitabları qoltuqlarında mərhumun cənazəsinin məsciddən çıxmağına müntəzirdirlər. Burada camaat ilə bir yerdə namaza duranlar içində təbiyyat müəllimləri tanışlarımdan, coğrafiya və tarix müəllimləri də yadıma düşür. Avropa darülfünununda uca elmlər təhsilini tapmış cavanlar yadıma gəlir; qalanlarının çoxu yenə orta məktəblərdə fənn dərsləri deyən müəllimlər olub. Bunlar hamısı, özləri kimi, Avropa təhsili tapmış mərhum rəfiqinin cənazəsini Təzəpir məscidinə gətiriblər ki, mərhumun əgər günahları olmuş olsa, bağışlansın.
 
 Mollanın sözünə bir cavab tapa bilmədim, ancaq xəcalət çəkdim və bir para fikirlərə getdim.
 

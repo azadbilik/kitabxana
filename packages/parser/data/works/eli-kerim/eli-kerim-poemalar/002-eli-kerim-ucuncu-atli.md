@@ -89,7 +89,7 @@ Titrəyə-titrəyə,
 Qəm yeyə-yeyə.
 Alovla bir yerdə enir torpağa,
 Elə az qalır ki, düşsün ocağa,
-Onu alovların əlındən alan,
+Onu alovların əlindən alan,
 Sonra öpən cavan, oxşayan cavan:
 -Tamam qurumayıb, hələ də sağdır,
 Yazıq beş-on gün də yaşayacaqdır -
@@ -257,7 +257,7 @@ Amma qaralırdı ayaq izləri.
 O sınmış, əzilmiş otlar ki vardı,
 Əlləşib, vuruşub səhərdən bəri
 Başını qaldırıb qalxırdı yenə.
--Yadıma el düşdü görənda bunu,
+-Yadıma el düşdü görəndə bunu,
 A dost, göz dağıdır kainat mənə, -
 Mişel seyr elədi könül dostunu,
 Əlini oynadıb dedi ucadan:
@@ -307,7 +307,7 @@ Bir də çətin coşar bu sakit adam.
 
 Onun söhbətidir elə bil sular,
 Dalğası nurludur, sürəti aram.
-Dostunun gözündə gütümsədi qəm:
+Dostunun gözündə gülümsədi qəm:
 -Elə ki ilk dəfə dinlədim səni,
 Dedim görməliyəm sizin vətəni.
 Mən sizin diyarı gəzmək istərəm,
@@ -394,7 +394,7 @@ Dağların qoynunda qoçaqlar da var ,
 Parçala bağrını, öldür özünü,
 Bununla, ey çarım, üsyanmı yatar?!"
 O dinmir, o baxır axan buluda,
-Az qalır ona da acıği tuta.
+Az qalır ona da acığı tuta.
 "Bü Günəş nə üçün gecikir yenə?
 Günəş də bircə gün soldatım ola!"
 -Mən sənə deyirəm, Mixail, sənə.
@@ -436,7 +436,7 @@ Sinəmə belə dağ çəkilməmişdir.
 Şamaxı. Ucalır faytonçuların
 Yenə "ay xəbərdar, xəbərdar" səsi.
 Gəlir uğultusu böyük bazarın,
-Baqqaln, tüccarın coşur həvəsi.
+Baqqalın, tüccarın coşur həvəsi.
 Fanarlı faytonu uçuran atlar
 Gümüş sinəbəndli, qapqara yallı.
 Yollar kənarında pinəçilər var
@@ -868,7 +868,7 @@ Doymaq istəmədi, duymaq istədi.
 
 Yenə də duydu ki, az yaşayacaq,
 Düşündü: "Taledə namərdliyə bax!"
-Onun yazdığıni pozmaq istədi,
+Onun yazdığını pozmaq istədi,
 Qoyub qabağına neçə dəftəri
 Birdən hamısında yazmaq istədi
 Pyesi, poemanı, romanı, şeiri...
@@ -883,7 +883,7 @@ Bu eşqin yaşasın bir əsər kimi".
 Şairin gözləri alacalanmış,
 O iri gözlərdə təbəssüm ki var,
 Min ildir elə bil küsmüş sevincdən.
-Sonsuz üffüqlərdən üfüqlərəcən
+Sonsuz üfüqlərdən üfüqlərəcən
 Dünyanı fəth edən dəli bir vüqar
 Müqəddəs dizini qoymuşdu yerə.
 Şair bir də baxdı çalan əllərə,
@@ -945,7 +945,7 @@ O, yastıq gətirdi dirsəklənməyə.
 Şair gülümsündü: - Cənnətdir, - deyə, -
 -Baba, öldürəsən getmərəm burdan.
 -Oğul, gedənləri öldürür baban.
-Şairə tərcumə etdilər bunu,
+Şairə tərcümə etdilər bunu,
 Unutdu məclisdə oturduğunu.
 Puşkin ölən gündən indiyə qədər
 Heç belə qəhqəhə çəkməmişdi o,
@@ -975,10 +975,10 @@ Qoynunda yer verdi soyuğa şair,
 Yapıncı altında qızdırdı onu.
 Bu qəmli gecəyə vurulduğunu
 Açdı ağaclara, ota, yarpağa,
-Verdi təbitlə dodaq-dodağa.
+Verdi təbiətlə dodaq-dodağa.
 Sabah getməlidir bu diyardan o,
 
-At minib qaçaydi irtizardan o!
+At minib qaçaydi intizardan o!
 Deyir ki, taleyin oyununa bax!
 Bilsəydim ayrılıq çətin olacaq,
 Heç bura at sürüb gələrdimmi mən?

@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Məgər ürəyimin bu zamanında
 Sən məni heç atıb getməlisənmi?
-Mənim kədərimə, dərdımə bir an
+Mənim kədərimə, dərdimə bir an
 Yad baxıb, əlvida etməlisənmi?
 
 Nə olar, hər şeyi deyə bilmirəm,

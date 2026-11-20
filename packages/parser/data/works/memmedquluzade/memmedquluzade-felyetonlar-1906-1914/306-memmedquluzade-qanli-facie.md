@@ -29,7 +29,7 @@ Molla nə qanır qanlı faciə nə deməkdir? Daşkəndin faciəsinin adı tək 
 
 * * *
 
-Qoy “Həqiqət”in 151-ci nömərsinin dördüncü səhifəsindəki “Qanlı faciə” əhvalatını 300 milyon müsəlman oxusun, – tək bircə səndən savayı. Hər bir müsəlmanın borcu odur ki, tikə-tikə doğranmış 14 yaşında qıza və oğlana sədhəzar lənət oxuyub desin: “Mərhəba türkmənlərə, maşallah belə mücahidlərə”.
+Qoy “Həqiqət”in 151-ci nömrəsinin dördüncü səhifəsindəki “Qanlı faciə” əhvalatını 300 milyon müsəlman oxusun, – tək bircə səndən savayı. Hər bir müsəlmanın borcu odur ki, tikə-tikə doğranmış 14 yaşında qıza və oğlana sədhəzar lənət oxuyub desin: “Mərhəba türkmənlərə, maşallah belə mücahidlərə”.
 
 Budur qanlı faciə.
 

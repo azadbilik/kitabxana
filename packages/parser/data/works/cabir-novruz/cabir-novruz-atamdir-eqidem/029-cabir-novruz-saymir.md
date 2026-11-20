@@ -26,7 +26,7 @@ Rəiyyət rəiyyət, şah da şah idi,
 İndi bir fırıldaq dükan sahibi,
 Dükanına gələn dahini saymır…
 
-İnsana nə etsə, məhs insan edir,
+İnsana nə etsə, məhv insan edir,
 Adam var könlü pərişan edir,
 Yanında anası ah-fəqan edir,
 Doğma anasının ahını saymır…

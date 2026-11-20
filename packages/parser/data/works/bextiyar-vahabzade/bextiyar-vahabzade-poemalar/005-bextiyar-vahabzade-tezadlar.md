@@ -1284,7 +1284,7 @@ Bu günsə...
 başqadır hökmü zamanın,
 Cahanı qorxudur insan fitnəsi,
 Atom bombaları - köhnə dünyanın
-Başmın üstündə barmaq hədəsi.
+Başımın üstündə barmaq hədəsi.
 
 Elə bil Nəsimi qalxıb məzardan,
 Deyir: - Mən güvəndim sənə, ey insan.
@@ -1321,7 +1321,7 @@ Həyata necə də qəlbən vuruldu.
 Elə ki, tapdılar nəşəni qəmdə,
 Hər biri özünə bir qatil oldu.
 Onlar dedilər ki, - əsəblərimiz
-Daha dözə bilmir, gərilıb simtək.
+Daha dözə bilmir, gərilib simtək.
 Könüllü gəlmədik bu dünyaya biz,
 Nə olar, dünyadan könüllü getsək?..
 

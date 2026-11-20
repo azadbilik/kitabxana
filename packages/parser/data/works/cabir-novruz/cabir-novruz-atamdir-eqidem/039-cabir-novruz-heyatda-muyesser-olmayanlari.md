@@ -80,7 +80,7 @@ Dönə gəncliyinin
 Odlu anları,
 Arzular qoynunda
 Deyib güləsən.
-Həyatda müyüssər
+Həyatda müyəssər
 Olmayanları,
 Barı yuxularda
 Görə biləsən…

@@ -104,7 +104,7 @@ Aleksey Osipoviç səsə qanrılıb baxdı.
 
 – Bəs bunlar nədir?
 
-– Dəftərdir. Uşaqlar yaziblar.
+– Dəftərdir. Uşaqlar yazıblar.
 
 – Bilirəm uşaqlar yazıb, bəs sizin evdə nə gəzir?
 
@@ -142,7 +142,7 @@ Aleksey Osipoviç gülməyinə ara verib, dəsmalla gözünü sildi. Sonra ağ d
 
 – Peterburqda.
 
-– Başı bəlalı adama oxşayırsan, qardaş, - deyə Aleksey Osipoviç müsahibinin üzünə baxdı, sonra da stul çəkib əyləşdi. Onunla üzbəüz dayanan Əhməd eşmə papirosunu yandırandan sonra qonağın hələ də sual dolu baxışlarla onu süzdüyünü görub dilləndi:
+– Başı bəlalı adama oxşayırsan, qardaş, - deyə Aleksey Osipoviç müsahibinin üzünə baxdı, sonra da stul çəkib əyləşdi. Onunla üzbəüz dayanan Əhməd eşmə papirosunu yandırandan sonra qonağın hələ də sual dolu baxışlarla onu süzdüyünü görüb dilləndi:
 
 – Oxuyurdum.
 
@@ -264,7 +264,7 @@ Aleksey Osipoviç saatının qapağını şaqqıltı ila qapayıb, döş cibinə
 
 – Ot tayaları yanır, - dedi.
 
-– Ogurluğa gələn otu niyə yandırır?
+– Oğurluğa gələn otu niyə yandırır?
 
 Əhməd məhəccərin üstündən aşağı endi.
 

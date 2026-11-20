@@ -25,7 +25,7 @@ nə qəmini.
 Saçlarında ağardardı sitəmini.
 Hər acıya qatlaşardı,
 o, aşardı
-Aşılmayan sirti, dağı,
+Aşılmayan sırtı, dağı,
 Onun üçün ən dəhşətli bir əzabdı,
 Əzabından danışmağı...
 Bir pərdəyə köklənmişdi onun qəlbi -

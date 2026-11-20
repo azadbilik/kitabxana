@@ -14,11 +14,11 @@ status: DRAFT
 ---
 Şamxal kəndin kənarında, biçənəklərin üst tərəfindəki təpənin qaşında özünə ev tikdi. Kənd cavanları ona kömək etdilər. Birləşib yer qazdılar. Meşədən dirək, kərən gətirdilər. Üç gün gecəli-gündüzlü işləyəndən sonra qazma daxmanın üstünü örtdülər.
 
-Damın pərdilərini Şamxal özü örtdü. Enli qovaq ağaclarını doğrayıb ortadan yardılar. Səliqə ilə yonub yan-yana qoydular. Şamxal evin dal tərəfindən balaca bir pəncərə açdı. Uşaqların hardansa tapib gətirdikləri bir parça şüşəni ora saldı. Qara damın həyətində iri bir çardaq da tikdilər. Şamxal özü çardağın ətrafını yulğun çubuğu ilə hördü, torpağın süzülüb axmasının qabağını aldı. Həyətdəki ot-ələfi təmizlədi. Harda xırman açacağını, samanlığı, tövləni harda tikəcəyini indidən müəyyənləşdirdi.
+Damın pərdilərini Şamxal özü örtdü. Enli qovaq ağaclarını doğrayıb ortadan yardılar. Səliqə ilə yonub yan-yana qoydular. Şamxal evin dal tərəfindən balaca bir pəncərə açdı. Uşaqların hardansa tapıb gətirdikləri bir parça şüşəni ora saldı. Qara damın həyətində iri bir çardaq da tikdilər. Şamxal özü çardağın ətrafını yulğun çubuğu ilə hördü, torpağın süzülüb axmasının qabağını aldı. Həyətdəki ot-ələfi təmizlədi. Harda xırman açacağını, samanlığı, tövləni harda tikəcəyini indidən müəyyənləşdirdi.
 
 Kənd camaatı əvvəlcə bu işə təəccüb etdi. Şaraxalın yanına gəlib onu danlayan ağsaqqallar da oldu. Ancaq o, sözündən dönmədi.
 
-Bu xəbər Cahandar ağanı təəccübləndirmədi. "Tərs oğlu tərs, südünə çəkib, - deyə ürəyində onu yamanladı. - İnadın birıdir. Bilirdim ki, axırı belə olacaq". O bu işə bir tərəfdən sevinir, oğlunun öz atasına belə boyun əymədiyıni, kişi kimi sözünün üstündə durduğunu bəyənirdi. O biri tərəfdən də onun, Cahandar ağanın oğlunun qara damda yaşamasını şəninə sığışdıra bilmirdi. "Bir gün ağıllanar, başı əlhəd daşına dəyib geri qayıdar" - deyirdi. Ancaq onun gözlədiyi kimi olmadı. Bir dəfə ilxıçılar xəbər gətirdilər kı, Şamxal çəmənliyə gəlib ayağı səkil qaşqa atı aparmışdır. O heç kəsə heç nə demədən birbaş ılxının içinə girib atı yallamış və quş kimi sıçrayıb belinə qalxmışdı. Dikdiri çıxıb kəndə doğru gedyn atlının qabağına heç kəs keçə bilməmişdi. Bu xəbər Cahandar ağanı hirsləndirsə də dinməmişdi.
+Bu xəbər Cahandar ağanı təəccübləndirmədi. "Tərs oğlu tərs, südünə çəkib, - deyə ürəyində onu yamanladı. - İnadın biridir. Bilirdim ki, axırı belə olacaq". O bu işə bir tərəfdən sevinir, oğlunun öz atasına belə boyun əymədiyıni, kişi kimi sözünün üstündə durduğunu bəyənirdi. O biri tərəfdən də onun, Cahandar ağanın oğlunun qara damda yaşamasını şəninə sığışdıra bilmirdi. "Bir gün ağıllanar, başı əlhəd daşına dəyib geri qayıdar" - deyirdi. Ancaq onun gözlədiyi kimi olmadı. Bir dəfə ilxıçılar xəbər gətirdilər kı, Şamxal çəmənliyə gəlib ayağı səkil qaşqa atı aparmışdır. O heç kəsə heç nə demədən birbaş ılxının içinə girib atı yallamış və quş kimi sıçrayıb belinə qalxmışdı. Dikdiri çıxıb kəndə doğru gedyn atlının qabağına heç kəs keçə bilməmişdi. Bu xəbər Cahandar ağanı hirsləndirsə də dinməmişdi.
 
 Əri iIə küsü saxlayan Zərnigar xanım da buna dözə bilməmiş, "Axır ki, istəyinə çatdın. İndi ürəyin dincəlsin", - deyə ərini sancmışdı. Cahandar ağa oğlunun yenə nə isə aparacağını gözləyirdi, ancaq Şamxal bir daha buralarda hərlənməmişdi.
 
@@ -28,17 +28,17 @@ Bu xəbər Cahandar ağanı təəccübləndirmədi. "Tərs oğlu tərs, südün�
 
 Şamxal bir həftə beləcə yaşadı.
 
-Bir axşam həyətdə oturmuşdu. Çardağın dirəyindən asılan qara çırağın başına dolanan pərvanələrin, xırdaca böcəklərin sayı-hesabı yox idi. Ətraf yaşıllıq olduğundan, uçub işığa gələn cücülərin ardı-arası kəsilmirdi. Dirəyə bağlanmış at qabağındakı göy otu xımırtladırdı. Şamxal həmişəki kimi bu axşam da atını Kürə sulamağa aparmış, qayıdanda biçənəkdən bir qucaq ot çalımşdı.
+Bir axşam həyətdə oturmuşdu. Çardağın dirəyindən asılan qara çırağın başına dolanan pərvanələrin, xırdaca böcəklərin sayı-hesabı yox idi. Ətraf yaşıllıq olduğundan, uçub işığa gələn cücülərin ardı-arası kəsilmirdi. Dirəyə bağlanmış at qabağındakı göy otu xımırtladırdı. Şamxal həmişəki kimi bu axşam da atını Kürə sulamağa aparmış, qayıdanda biçənəkdən bir qucaq ot çalışdı.
 
 O, içəri keçib taxtın üstünə uzandı. Ulduzlar sayrışırdı. Cırcıramaların səsi bir-birinə qarışmışdı. Cələdəki çaqqallar səs-səsə verib ulaşdıqca kənd itləri hürüşürdü. Kimsə xır yolunda araba sürürdü. Təkərlər qıcıldayırdı.
 
 Şamxalı fikir götürmüşdü. "Bəlkə Habil oğlu Qasımın yanına getsin? Onun dəstəsinə qoşulub çapqınçılığa başlasın? Maldan-qaradan oğurlayıb birbaş həftəbazarına sürsün? Bircə günün içində xırıd edib paltar-palazdan alsın, ev-eşiyini sahmana salsın? Axı, deyirlər, çox adam bu yolla varlanıb? Hərçənd bu yolda ölüm-itim də var. Ancaq nə olsun, yaranan bir gün ölməyəcəkmi?"
 
-O, yanı üstə çevrildi. Papiros eşib-yandırdı. Dalbadal sümürüb tüstünü kənara üfürdu. Yenə fikrinə davam etdi. "Yox, nahaq bu xəyallara düşürəm. Haramçılıqdan bir şey çıxmaz. Adam öləndə də bir şey üstündə ölər. Yoxsa oğurluq üstündə ölmək heç kişilikdən deyil. Camaat adamın cəmdəyinə tüpürər".
+O, yanı üstə çevrildi. Papiros eşib-yandırdı. Dalbadal sümürüb tüstünü kənara üfürdü. Yenə fikrinə davam etdi. "Yox, nahaq bu xəyallara düşürəm. Haramçılıqdan bir şey çıxmaz. Adam öləndə də bir şey üstündə ölər. Yoxsa oğurluq üstündə ölmək heç kişilikdən deyil. Camaat adamın cəmdəyinə tüpürər".
 
 Şenliyin aşağısından səs-küy qalxdı. Kimsə damın üstünə çıxıb bərk qıy çəkdi. Dalbadal güllə atıldı. İtlər səs-səsə verib ulaşdılar. Şamxal qalxıb oturdu. Şirin-şirin ot yeyən at qulaqlarını şəkləyib fınxırdı. İtlər nəyi isə qovub cələyə doğru apardılar. Beş-on dəqiqədən sonra hər şey sakitləşdi. Cırcıramaların səsi, Kürün qıjıltısı aydınca eşidildi,
 
-Şamxal yaxında hənirti duyub qulaq kəsildi. Göy otluqda araba surürdülər. Təkərlərin otları əzməsi və öküzlərin arabir fısıldayıb ot qoparması eşidilirdi. Arabaçı tez-tez çubuğunu şaqqıldadır, "ho-ho, hiş" - deyə heyvanları səsləyirdi. Görünür, o, qabağa düşmüş və yo-iz olmayan yerlərdə arabanı xəndəyə salmaqdan ehtiyat edirdi. Şamxal gələnlərin ötüb gedəcəyini zənn etdi. Ancaq səs-küy yaxınlaşdı. Araba düz işığa gəldi. Şamxal nökərləri Tapdiğı tanıdı.
+Şamxal yaxında hənirti duyub qulaq kəsildi. Göy otluqda araba sürürdülər. Təkərlərin otları əzməsi və öküzlərin arabir fısıldayıb ot qoparması eşidilirdi. Arabaçı tez-tez çubuğunu şaqqıldadır, "ho-ho, hiş" - deyə heyvanları səsləyirdi. Görünür, o, qabağa düşmüş və yo-iz olmayan yerlərdə arabanı xəndəyə salmaqdan ehtiyat edirdi. Şamxal gələnlərin ötüb gedəcəyini zənn etdi. Ancaq səs-küy yaxınlaşdı. Araba düz işığa gəldi. Şamxal nökərləri Tapdığı tanıdı.
 
 – Xoş gördük, ağa.
 
@@ -52,7 +52,7 @@ O, yanı üstə çevrildi. Papiros eşib-yandırdı. Dalbadal sümürüb tüstü
 
 – Qaytar geri, mənə heç nə lazım deyil.
 
-Indiyəcən arabanın üstündən düşməyib, qardaşının nə deyəcəyini gözləyən Salatın dözmədi. Yerə enib bnun yanına gəldi. Quş kimi qanadlanıb Şamxalın boynuna sarıldı.
+İndiyəcən arabanın üstündən düşməyib, qardaşının nə deyəcəyini gözləyən Salatın dözmədi. Yerə enib onun yanına gəldi. Quş kimi qanadlanıb Şamxalın boynuna sarıldı.
 
 – Qurbanın olum, ay qağa, nə təhərsən?
 
@@ -88,7 +88,7 @@ Salatın boş evin ortasında dayandı. Divar nəm idi. Yaş kərən və Pərdə
 
 Özümü öldürrəm, səni bu cür qoymaram.
 
-Onlar ay doğana qədər əlləşdilər. Gətirdikləri şeylərin hamısını dasıyıb içəri doldurdular. Tapdıq geri qayıtdı. Salatın qardaşından ayrılmadı.
+Onlar ay doğana qədər əlləşdilər. Gətirdikləri şeylərin hamısını daşıyıb içəri doldurdular. Tapdıq geri qayıtdı. Salatın qardaşından ayrılmadı.
 
 – Səni tək qoyub, heç yana gedən deyiləm.
 

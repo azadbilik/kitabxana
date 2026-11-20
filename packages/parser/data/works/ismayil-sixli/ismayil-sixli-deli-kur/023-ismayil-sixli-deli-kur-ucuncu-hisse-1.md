@@ -62,7 +62,7 @@ Stansiya ilə meşənin arası beş-altı verst olardı. Ətraf yamyaşıl idi. 
 
 Əşrəf meşəyə çatdı. Ağacların qatı kölgəsi axşamın yaxınlaşmasını bir az da tezləşdirdi. Yol isə hələ çox idi. Əşrəf yalnız indi, axşamüstü nahaq yola çıxdığını düşündü. "Gərək stansiyada gecələyəydim. Bir-təhər sahilə çatsam da, Kürü keçə bilməyəcəyəm. Gecə vaxtı kim mənim qabağına gəmi gətirəcək?".
 
-Cığır talaya çıxdı. Sıx yarpaqlı iri palıd ağaclarının tompal kölgələri uzanıb, qaladakı güllü-çiçəkli otların üstünə sərilmişdi. Bir cüt qır-qovul cığırın otrafında hərlənib yem axtarırdı. Onlardan bir az o yana isə meşəxoruzu oxuyurdu. Əşrəf onları hürkütməmək və bir az dincini almaq üçün dayandı. Çamadanmı yerə qoyub üstümdə oturdu. Köynəyinin yaxasını açıb şapkası ilə özünü yellədi.
+Cığır talaya çıxdı. Sıx yarpaqlı iri palıd ağaclarının tompal kölgələri uzanıb, qaladakı güllü-çiçəkli otların üstünə sərilmişdi. Bir cüt qır-qovul cığırın ətrafında hərlənib yem axtarırdı. Onlardan bir az o yana isə meşəxoruzu oxuyurdu. Əşrəf onları hürkütməmək və bir az dincini almaq üçün dayandı. Çamadanmı yerə qoyub üstümdə oturdu. Köynəyinin yaxasını açıb şapkası ilə özünü yellədi.
 
 Meşə zümzümə edirdi. İlbizlər oxuyur, harada isə bülbül cəh-cəh vururdu. Onun səsi budaqlarda əks-səda verib bütün meşəyə yayılırdı. Arabir ağacların arasında qanad şaqqıldayırdı. Qarasu tərəfdə qaz qaqqıldayırdı.
 
@@ -92,7 +92,7 @@ Tapdıq Əşrəfin şapkasına, balağı düz şalvarına baxdı və cilovu çə
 
 – Al, paltarını dəyiş.
 
-Əşrəf yəhərin üstündən qanrılıb Tapdığa baxdı. O isə sözünə davam etdı:
+Əşrəf yəhərin üstündən qanrılıb Tapdığa baxdı. O isə sözünə davam etdi:
 
 – Ağa tapşırdı ki, kəndə rus libasında gəlməsin, ayıbdı.
 
@@ -106,7 +106,7 @@ Qarşıdan səs gəldi. Çaxmaq şaqqıldadı. Əşrəf özünə gələnə qəd�
 
 – Dayan!
 
-O, atın cilovunu dartdı. Kəhər özünü saxlaya bilməyib büdrədi. Sonra dal ayaqları üstə qalxıb fınxırdı. Əşrəf yəhərin qaşına sindi. Tapdıqgil ağacların dalına girdilər. Bir xeyli beləca nəfəslərini dərmədən dayandılar. Qaraltılar irəli çıxdı. Əşrəf onların atlı kazak olduğunu gördükdə təəccübləndi və dönüb yoldaşlarına baxdı.
+O, atın cilovunu dartdı. Kəhər özünü saxlaya bilməyib büdrədi. Sonra dal ayaqları üstə qalxıb fınxırdı. Əşrəf yəhərin qaşına sindi. Tapdıqgil ağacların dalına girdilər. Bir xeyli beləcə nəfəslərini dərmədən dayandılar. Qaraltılar irəli çıxdı. Əşrəf onların atlı kazak olduğunu gördükdə təəccübləndi və dönüb yoldaşlarına baxdı.
 
 Kazaklar onlarla üzbəüz dayandılar:
 
@@ -192,7 +192,7 @@ O, əlini uzadıb cilovdan yapışdı. Qaranlıqda gözünü Əşrəfə bərəlt
 
 – Atdan düş!
 
-Tapdıq artıq dözə bilmədi. Atı ehmalca mahmızlayıb ciğırdan çıxdı. Əlini yəhərin tərkindəki irəşməyə uzatdı. Arxa tərəfdən kazaka yaxınlaşdı və gözlənilmədən irəşməni hərləyib atdı. İrəşmə göydə ilan kimi qıvrılıb kazakın boynuna dolandı. O, əl-ayaq atana qədər Tapdıq süruyüb kazakı atdan saldı. O biri kazak çaxmağı hərlədi. Ancaq Əşrəfin əmisi oğlu ona aman vermədi. Xəncərin siyirib şığıdı. Kazakın əlindəki tüfəngin qundağı ortadan iki bölünüb yerə düşdü. Əşrəf quş kimi atılıb atın tərkinə mindi və daldan kazakı qucaqlayıb qollarını tutdu. Tapdığın atdan yıxdığı kazak bir xeyli kəməndlə bərabər süründükdən sonra ayağa qalxdı. Qılıncını siyirib, arxadan Əşrəfə hücum etdi. At kişnədi və ilan sancmış kimi kənara sıçradı. Yenidən əlbəyaxa döyüş başladı. Torpaq eşim-eşim oldu. Otlar, çiçəklər əzildi. Atlar kişnəyib talaya qaçdı. Əşrəfgil yarımsaatlıq vuruşmadan sonra kazakları üstələdilər. Onların tüfənglərini, qılınclarını alıb qollarını çatdılar, palıd ağacına sarıdılar.
+Tapdıq artıq dözə bilmədi. Atı ehmalca mahmızlayıb ciğırdan çıxdı. Əlini yəhərin tərkindəki irəşməyə uzatdı. Arxa tərəfdən kazaka yaxınlaşdı və gözlənilmədən irəşməni hərləyib atdı. İrəşmə göydə ilan kimi qıvrılıb kazakın boynuna dolandı. O, əl-ayaq atana qədər Tapdıq sürüyüb kazakı atdan saldı. O biri kazak çaxmağı hərlədi. Ancaq Əşrəfin əmisi oğlu ona aman vermədi. Xəncərin siyirib şığıdı. Kazakın əlindəki tüfəngin qundağı ortadan iki bölünüb yerə düşdü. Əşrəf quş kimi atılıb atın tərkinə mindi və daldan kazakı qucaqlayıb qollarını tutdu. Tapdığın atdan yıxdığı kazak bir xeyli kəməndlə bərabər süründükdən sonra ayağa qalxdı. Qılıncını siyirib, arxadan Əşrəfə hücum etdi. At kişnədi və ilan sancmış kimi kənara sıçradı. Yenidən əlbəyaxa döyüş başladı. Torpaq eşim-eşim oldu. Otlar, çiçəklər əzildi. Atlar kişnəyib talaya qaçdı. Əşrəfgil yarımsaatlıq vuruşmadan sonra kazakları üstələdilər. Onların tüfənglərini, qılınclarını alıb qollarını çatdılar, palıd ağacına sarıdılar.
 
 Tapdıq çəmənlikdəki atları cilovlayıb yaxına gətirdi. Əşrəf atının yəhərini düzəltdi. Dal tərəfə keçib kəhərin buduna baxdı. Qılıncın yaraladığı yerdən qan axırdı. Onun ata yazığı gəldi və qəzəblə kazaklara yaxınlaşdı-hirsindən dişini-dişinə sıxdı:
 
@@ -208,7 +208,7 @@ Kazak dartındı. Qolunun kəndirini açmağa çalışdı və xırıltılı səs
 
 – Ə, belə dur, qoy səsini kəsim.
 
-– İşin olmasın, - deyə Əşrəf dabanı üstə fırlandı və tufəngin lüləsini əli ilə kənara itələdi. - Bunlarda nə təqsir var?
+– İşin olmasın, - deyə Əşrəf dabanı üstə fırlandı və tüfəngin lüləsini əli ilə kənara itələdi. - Bunlarda nə təqsir var?
 
 – Bə kimdədir?
 
@@ -264,4 +264,4 @@ Tapdıq dərhal atını mahmızladı.
 
 – Ağa, tez ol, aradan çıxaq.
 
-Əşrəf cilovu buraxdı. Atlar dördnala çapıb meşədə gorünməz oldu
+Əşrəf cilovu buraxdı. Atlar dördnala çapıb meşədə görünməz oldu

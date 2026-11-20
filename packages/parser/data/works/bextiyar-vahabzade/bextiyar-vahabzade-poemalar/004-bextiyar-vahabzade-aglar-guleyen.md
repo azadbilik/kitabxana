@@ -220,7 +220,7 @@ Yarım o tayda qaldı.
 Toyum burda çalındı,
 Yarım o tayda qaldı.
 Daha bu əzablara
-Canimda bir tabım yox...
+Canımda bir tabım yox...
 Mən təpədən-dırnağa
 Sualam...
 Cavabım yox...
@@ -305,7 +305,7 @@ Onun gülüşləri səbirdənmi?
 Yox!.. O, kinin, qəzəbin qəhqəhəsidir.
 Onun gülüşləri bir atəş, bir ox!
 Səbrə qılınc çəkən üsyan səsidir!
-Dardini xalqıyla bölüb ağladı,
+Dərdini xalqıyla bölüb ağladı,
 O gülüb ağladı, gülüb ağladı!
 
 Cahilə nə var ki?.. Ürəklər dələn
@@ -356,7 +356,7 @@ Bədbəxtlər də onu anlamayanda.
 Sözüylə, şeirilə o, zaman-zaman
 Donuq şüurlara min toxum əkdi.
 Dəmir çəkic altda fəryad qoparan
-Dəmir parçasi tək o, nalə çəkdi.
+Dəmir parçası tək o, nalə çəkdi.
 Qızılı döydülər... Haray-həşirsiz
 Yapıxıb mum kimi eləcə qaldı.
 
@@ -520,7 +520,7 @@ O bilmir ilk mənzili
 Son mənzili haradır;
 Bu günkü əməliylə
 O, sabahı yaradır.
-Ömrü bir nur parçasi
+Ömrü bir nur parçası
 O, sabahın carçısı!..
 
 Bəli, müəllim olmaq!
@@ -575,7 +575,7 @@ Ona vəsiqə gərək.
 Özü bilir dalını...
 Min cənnətə dəyişməz
 O ki öz amalını.
-Mənasiz suallara
+Mənasız suallara
 Cavab verir
 Birbəbir
 O, bığaltı gülərək.

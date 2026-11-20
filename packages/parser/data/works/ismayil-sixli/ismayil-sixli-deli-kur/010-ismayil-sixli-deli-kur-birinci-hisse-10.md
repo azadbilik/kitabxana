@@ -12,7 +12,7 @@ order: 10
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Güləsər gecikmişdi. Səhər tezdən ev-eşiyi süpürmüş, qızlarla pencərə getmiş, geri qayıdanda səhəngin boş olduğunu görmüşdü. Atası indicə gələcəkdi. Çərkəz də axşamüstü evə dönəcəkdi. Heç olmazsa onlara bir stəkan çay vermək lazımdı.
+Güləsər gecikmişdi. Səhər tezdən ev-eşiyi süpürmüş, qızlarla pəncərə getmiş, geri qayıdanda səhəngin boş olduğunu görmüşdü. Atası indicə gələcəkdi. Çərkəz də axşamüstü evə dönəcəkdi. Heç olmazsa onlara bir stəkan çay vermək lazımdı.
 
 O, səhəngi götürüb birbaş Kürə yollandı. Gün yaxmışdı. Kəndin qərb tərəfindəki hündür təpələrin zirvəsi narıncı rəngə boyanmışdı. Sahildəki söyüd ağaclarının budaqları qızılı rəngə çalırdı. Güləsər hündür yarğanın yanından sola burulub cığırla aşağı endi. Çəmənlikdə oynaşan uşaqlar malları qabağına qatıb kəndə doğru haylayırdılar. Lap uzaqda bir oğlan at çapırdı. Ətrafa sərinlik gətirən kölgə çökürdü. Güləsər addımlarını yeyinlətdi. Suyun yaxası boyu uzanan yarğanın qaşı ilə getdi. Göyün üzündə süzən saysız-hesabsız qızlarquşunun səsi bir-birinə qarışmışdı. Suların şırıltısı, cələdəki salxım söyüd yarpaqlarının xışıltısı çəmənlərdən küləyin qovub gətirdiyi çiçək qoxuları Güləsəri məst etmişdi. O hərdənbir ayaq saxlayır, Kürün balıq qoxusu verən nəm havasını ciyərlərinə doldururdu.
 
@@ -22,7 +22,7 @@ Güləsər Suvadağa çatanda sahilə qatı bir kölgə çökdü. Qız başını
 
 Güləsər səhəngi suya basıb doldurdu. Kənara çəkib ağzını tıxacladı. Tələsik üzünə su çırpıb saçını sığalladı. Tezcə də yola düşmək istədi.
 
-Birdən onun bədəninə üşütmə gəldi. Sinəsində göyərçin kimi çapalayan ürəyi koftasını titrətdi. Qız vahimələnən kimi olub səhəngin qulpundan yapışdı. Elə bu an sahildəki yulğun kollarının arxasından bir qayıq çıxdı. Qız cəld səhəngini çiyninə alıb yarğanın qaşına dırmanmaq istədi. Kimsə onu çağırdı. Güləsər tanış səs eşidib geri dönəndə Şamxalla qarşı-qarşıya dayandı. Bir müddət heç biri dinmədi. Güləsər gözlənilməyən bu təsadüfdən özünü itirdi. Axşamüstü çay kənarında onları bir yerdə görsələr, nə deyərlər? El içində biabır olmazdımı? Qız başını qaldırıb Şamxalın üzünə baxdı. Onun dinmədiyini, tez-tez nəfəs aldığını gördü. Gözucu yarğanın aşağısında sahilə yan almış qayığa və orada intizarla Şamxalı gözləyən Tapdığa baxdı. Qızın gözlərinə Kürun üstünə enən kölgədən də qatı bir kölgə endi. Aralanmaq istədi, ancaq Şamxal onun biləyindən yapışdı. Səhəng yerə düşdü. Diğırlanıb sahilə qədər getdi. İri daşa toxunub dayandı. Tıxac siçrayıb çıxdı. Səhəngin suyu loqqultu ilə süzülüb sahil daşlarını islatdı.
+Birdən onun bədəninə üşütmə gəldi. Sinəsində göyərçin kimi çapalayan ürəyi koftasını titrətdi. Qız vahimələnən kimi olub səhəngin qulpundan yapışdı. Elə bu an sahildəki yulğun kollarının arxasından bir qayıq çıxdı. Qız cəld səhəngini çiyninə alıb yarğanın qaşına dırmanmaq istədi. Kimsə onu çağırdı. Güləsər tanış səs eşidib geri dönəndə Şamxalla qarşı-qarşıya dayandı. Bir müddət heç biri dinmədi. Güləsər gözlənilməyən bu təsadüfdən özünü itirdi. Axşamüstü çay kənarında onları bir yerdə görsələr, nə deyərlər? El içində biabır olmazdımı? Qız başını qaldırıb Şamxalın üzünə baxdı. Onun dinmədiyini, tez-tez nəfəs aldığını gördü. Gözucu yarğanın aşağısında sahilə yan almış qayığa və orada intizarla Şamxalı gözləyən Tapdığa baxdı. Qızın gözlərinə Kürün üstünə enən kölgədən də qatı bir kölgə endi. Aralanmaq istədi, ancaq Şamxal onun biləyindən yapışdı. Səhəng yerə düşdü. Diğırlanıb sahilə qədər getdi. İri daşa toxunub dayandı. Tıxac sıçrayıb çıxdı. Səhəngin suyu loqqultu ilə süzülüb sahil daşlarını islatdı.
 
 Güləsər qışqırmaq istədisə, güclü bir əl onun ağzını qapadı. Şamxal qucağında titrəyən qızın çapalamasına baxmadı. Üz-gözünün cırılmasına da fikir vermədi. Ac canavar quzu götürən kimi qızı basmarlayıb "qayığa saldı. Tapdığa "tərpən" - dedi. Özü isə dal tərəfdə oturub, paçasının arasına saldığı qızı sinəsinə sıxdı. Onun çapalayıb qayığı çevirməsinə, ya da suya atılmasına imkan vermədi. Lal suları yarıb şütüyən qayıq Kürün ortasındakı adanın arxasında görünməz oldu...
 
@@ -76,11 +76,11 @@ Kişi dayandı. Sualedici nəzərlərlə arvadına, sonra da qızına baxdı. G�
 
 – Əziyyət çəkməyin, Züleyxa xala, sizin çayınız qəndsiz də şirin olar. Güləsər süzdüyü çayı Şamxalın qabağına qoydu və nə üçünsə başını qaldırıb onun üzünə baxdı. Qızın dodaqlarındakı təbəssüm donub qaldı. Üzünə zillənən gözlərdə həm mehriban, həm də qəlbə nüfuz edən qəribə bir ifadə oxudu. Qız ömründə ilk dəfə duyduğu və mənasını başa düşmədiyi bir hissin təsiri ilə sarsıldı. Ona elə gəldi ki, üzünə zillənən gözlər köz kimi onu yandırıb qarsadı. Deyəsən, özü də hiss etmədən bir xeyli beləcə dayandı. Yoxsa atası öskürüb bərkdən içini arıtlamaz, Çərkəz də qaş-göz oynatmazdı.
 
-Güləsər atasının "taxsırın hamısı bu xalası göyçəkdədir," - deyə oğlunu göstərdiyini və onu xəbərsiz qonaq gətirməkdə məzəmmət etdiyini eşidəndon sonra əlini stəkandan çəkdi. Onun qulaqları güyüldədi. Samovarın istisi vurduqca qızarmış yanaqları daha da pörtdü. Kişilərin söhbətini güclə eşitdi. Ayağa durub uzaqlaşmaq istədisə də bacarmadı.
+Güləsər atasının "taxsırın hamısı bu xalası göyçəkdədir," - deyə oğlunu göstərdiyini və onu xəbərsiz qonaq gətirməkdə məzəmmət etdiyini eşidəndən sonra əlini stəkandan çəkdi. Onun qulaqları güyüldədi. Samovarın istisi vurduqca qızarmış yanaqları daha da pörtdü. Kişilərin söhbətini güclə eşitdi. Ayağa durub uzaqlaşmaq istədisə də bacarmadı.
 
 Şamxal çox oturmadı. Çayı içən kimi ayağa durdu. "Ağzınız şirin olsun", - deyə təşəkkür etdi. Çərkəzlə bərabər arabadan uzaqlaşmazdan əvvəl dönüb bir də Güləsərə baxdı. Qız onun Çərkəzə:
 
-– Maşallah, bacın lap böyüyüb, - dediyinı aydınca eşitdi.
+– Maşallah, bacın lap böyüyüb, - dediyini aydınca eşitdi.
 
 Güləsər dağların kölgə saldığı cığırla güneyə doğru addımlayan Şamxalı və qardaşını xır yoluna qədər gözdən qoymadı. Anası onu səsləməsəydi, bəlkə də axşama qədər beləcə dayanacaqdı.
 
@@ -104,7 +104,7 @@ Qız qorxusundanmı, yoxsa imdad axtardığındanmı, nədənsə, heç özu də 
 
 Şamxal ələ keçirdiyi ovu yırtıcı bir ehtirasla parçalamaq fikrində deyildi. O, Güləsəri evinə aparmaq və həmişəlik özünə arvad etmək istəyirdi. İndiyəcən atasının bu işə qol qoymayacağını bildiyindən, sirrini heç kəsə açmamışdı. Ancaq indi işlər tərsinə dönmüşdü. Görünür, insan öz taleyindən qaça biiməzmiş!
 
-On yeddi yaşı yenicə tamam olan Güləsər isə başına gələn əhvalatdan heç nə anlamır, elə buradaca, kolun dibində dəhşətli və eyni zamanda cazibədar bir maraqla gözlədiyi əhvalatın baş verəcəyindən qorxurdu. Hələ indiyə qadər bir oğlan əli toxunmayan bədəni Şamxalın təmasından daha şiddətlə titrəyirdi. Oğlan onu qucaqlayanda sudan kənara atılmış balıq kirni çapalayır, əl-qolu tutulanda isə dartınıb çirpınırdı.
+On yeddi yaşı yenicə tamam olan Güləsər isə başına gələn əhvalatdan heç nə anlamır, elə buradaca, kolun dibində dəhşətli və eyni zamanda cazibədar bir maraqla gözlədiyi əhvalatın baş verəcəyindən qorxurdu. Hələ indiyə qədər bir oğlan əli toxunmayan bədəni Şamxalın təmasından daha şiddətlə titrəyirdi. Oğlan onu qucaqlayanda sudan kənara atılmış balıq kirni çapalayır, əl-qolu tutulanda isə dartınıb çırpınırdı.
 
 Şamxal onun özünü həlak edəcəyini görüb, ehtiras və həyəcandan boğulan bir səslə dilləndi:
 
@@ -148,7 +148,7 @@ Onlar dəyirmanın üst tərəfındən keçib qaşdakı tut ağacının yaxınl�
 
 Şamxal təpələrin dalından yenicə doğan ay işığında qızı başdan-ayağa süzdü.
 
-– İndl fikrin nədir? Hara getmək istəyirsən?
+– İndi fikrin nədir? Hara getmək istəyirsən?
 
 Qız dinmədi. Yerindəcə silkələnib dayandı. Danışmaq istədisə də bacarmadı. Yaş onu boğdu. Yaylığının ucunu ağzına salıb didişdirdi.
 
@@ -208,7 +208,7 @@ Salatın həyadan qızardı. Qızlıq ismətinin bakirəliyini saxlamağın çox
 
 – Heç yana getmək lazım deyil. Şenliyi özünə güldürməkmi istəyirsən?
 
-Salatın hirslənmişdi. Qardaşının heç kəslə məsləhətləşməyib, özbaşına arvad alması ona yaman toxunmuşdu. "Bu gədə lap ağlını itirib. Axırda kişinin ürəyi partlamasa yaxşıdır", - deyə xəyalında onu asıb-kəsirdi. Digər tərəfdən, ürəyinin lap dərinliyində baş qaldıran bir hiss onu sevindirirdi. Qardaşı evlənirdi. Məgər o bu günü çoxdan arzulamırdımı? Tez-tez Şamxala sataşıb "nə vaxt gəlin gətirirsən?" - deyən o deyidimi? Bəs indi niyə hirslənir? Gülüb oynamaq əvəzinə niyə qaşqabağını tökür? Bu suallara Salatın özü də cavab tapa bilmirdi. Bəlkə qardaşının belə xəlvəti evlənməyi, cah-cəlalla toy etməyib, qız götürüb qaçması ona toxunurdu? Axı, Salatın Şamxalın toyunda dovunca oynamağı əhd etmişdi! Onun arzuları niyə puç olurdu? Bəlkə Güləsəri bəyənmirdi? Yox, Güləsər onun çoxdan xoşuna gəlirdi. On-az görüşsələr də, bir-birinə çox yaxın idilər.
+Salatın hirslənmişdi. Qardaşının heç kəslə məsləhətləşməyib, özbaşına arvad alması ona yaman toxunmuşdu. "Bu gədə lap ağlını itirib. Axırda kişinin ürəyi partlamasa yaxşıdır", - deyə xəyalında onu asıb-kəsirdi. Digər tərəfdən, ürəyinin lap dərinliyində baş qaldıran bir hiss onu sevindirirdi. Qardaşı evlənirdi. Məgər o bu günü çoxdan arzulamırdımı? Tez-tez Şamxala sataşıb "nə vaxt gəlin gətirirsən?" - deyən o deyildimi? Bəs indi niyə hirslənir? Gülüb oynamaq əvəzinə niyə qaşqabağını tökür? Bu suallara Salatın özü də cavab tapa bilmirdi. Bəlkə qardaşının belə xəlvəti evlənməyi, cah-cəlalla toy etməyib, qız götürüb qaçması ona toxunurdu? Axı, Salatın Şamxalın toyunda dovunca oynamağı əhd etmişdi! Onun arzuları niyə puç olurdu? Bəlkə Güləsəri bəyənmirdi? Yox, Güləsər onun çoxdan xoşuna gəlirdi. On-az görüşsələr də, bir-birinə çox yaxın idilər.
 
 – Yaxşı, bəsdi. Yad yerə ha gəlməyibsən?
 
@@ -228,7 +228,7 @@ Elə bil Salatını birdən-birə dəyişdirdilər, azca bundan əvvəlki donuq 
 
 Bu yüngüllük və şıtıxlıq Güləsərə də təsir etdi. Onun da çöhrəsi açıldı. Qaşlarını oynadıb gulümsündü. Salatın çırağın işığında onun yaşlı gözlərinin dərinliklərində parlayan qığılcımlan duydu. Qız koftasını soyunanda Salatın Güləsərin alt paltarının da islaq olduğunu gördü. Onun yenicə ətə dolan ağ sinəsinə baxdı. Yaş köynək qızın yumru döşlərinə yapışmışdı. Bəzi yerlərdə ətlə paltar arasında hava qalmışdı. Ağ zolaqların arasında açıq-çəhrayı rəngə çalan bədəni görünürdü.
 
-Salatının ürəyi çırpınırdı. Gicgahlarındakı damarlar nəbzinin ahənginə uyğun olaraq vurmağa başladı. Elə bil qızın sifətinə isti buğ verdılər. Yanaqları allanıb pörtdü. Birdən Güləsər də dayandı. Əlindəki donu sinəsinə tutub geri çəkildi.
+Salatının ürəyi çırpınırdı. Gicgahlarındakı damarlar nəbzinin ahənginə uyğun olaraq vurmağa başladı. Elə bil qızın sifətinə isti buğ verdilər. Yanaqları allanıb pörtdü. Birdən Güləsər də dayandı. Əlindəki donu sinəsinə tutub geri çəkildi.
 
 – Sən Allah, üzünü o yana tut. Qoy köynəyimi dəyişdirim.
 

@@ -28,7 +28,7 @@ Düş bəri, qadan alım.
 
 – deyə oxuduğunu gördü. O dərhal əzilib-büzüldü və pəncərədən geri çəkildi. "Aşıq, qızı hürkütdün" - deyə cavanlar gülüşdülər.
 
-Günlər keçdi... O, yavaş-yavaş həyətə, küçoyə çıxdı, bəzənib-düzəndi. Dayısı Kosaoğlu ondan heç nə əsirgəmədi.
+Günlər keçdi... O, yavaş-yavaş həyətə, küçəyə çıxdı, bəzənib-düzəndi. Dayısı Kosaoğlu ondan heç nə əsirgəmədi.
 
 Üç-dörd aydan sonra Şahnaz təkcə gözəlliyi ilə deyil, geyimi-kecimi ilə yoldaşlarından seçildi. O, şəhər cavanlarının gözündən yayınmadı. Hamı tibb məktəbinə təzə, gözəl bir qız gəldiyini söyləyirdi. Şahnaz küçələri, mağazaları gəzməyə başladı. O, bir dükandan o birinə girir, satılan şeylərə baxır, qiymət soruşur, bir sözlə, şəhərin başından vurub ayağından çıxırdı. Kiçik rayon mərkəzi elə bil ona dar gəlirdi. Bir gündə hər küçəni iki-üç dəfə dolanırdı.
 
@@ -82,7 +82,7 @@ Bir dəfə yenə onlar yol kənarında, təpə döşündəki çəmənlikdə daya
 
 – İndi fikrin nədir, xalqın qızını biabır eləyəcəksən? Özünü yığışdır, deyirəm yoxsa dünyanı başına dar elərəm.
 
-Məmməd udqunur, cavab vermirdi. Şahnaz onun alovlu gözlərinə baxıb yenə çırpırıdı.
+Məmməd udqunur, cavab vermirdi. Şahnaz onun alovlu gözlərinə baxıb yenə çırpırdı.
 
 – Bura bax, ay dəli, qolunu boşalt, belimi sındırdın. Qoy oturub ağıllı-başlı söhbət eləyək. Sənə sözüm var.
 
@@ -118,13 +118,13 @@ Təpənin başında Məmməd özünu yetirdi. Qızın qolundan tutub sinəsinə 
 
 – Aldatmırsan ki?
 
-...O gündən Məmməd Şahnazın dalınca kö1gə kimi sürünməyə başladı. Qız məktəbi qurtarıb kəndə qayıdanda Məmməd də "İyirmi altılar" kolxozuna gəldi. Şahnazın xətrinə Kosaoğlunun "Pobeda"sına şofer oldu. O, hələ də Şahnazdan qəti cavab ala bilmirdi. Qız yenə həmişəki kimi gülür, nazlanır, ancaq ciddi bir cavab vermirdi. İmran gələndən sonra Şahnaz birdən-birə Məmməddən üz döndərdi. Şofer susdu, işin sonunu gözlədi. Deyəsən, axır vaxtlar külək yenə onun təəfinə əsirdi. Şahnaz "Pobeda"dan düşmürdü.
+...O gündən Məmməd Şahnazın dalınca kö1gə kimi sürünməyə başladı. Qız məktəbi qurtarıb kəndə qayıdanda Məmməd də "İyirmi altılar" kolxozuna gəldi. Şahnazın xətrinə Kosaoğlunun "Pobeda"sına şofer oldu. O, hələ də Şahnazdan qəti cavab ala bilmirdi. Qız yenə həmişəki kimi gülür, nazlanır, ancaq ciddi bir cavab vermirdi. İmran gələndən sonra Şahnaz birdən-birə Məmməddən üz döndərdi. Şofer susdu, işin sonunu gözlədi. Deyəsən, axır vaxtlar külək yenə onun tərəfinə əsirdi. Şahnaz "Pobeda"dan düşmürdü.
 
 Yenə onlar səhər tezdən tarlaları gəzirdilər. Şahnaz itik axtaran kimi, maşını gah bu, gah da o biri briqadaya sürdürürdü. Məmməd dinməz-söyləməz qızın əmrinə əməl edirdi. Əyri-üyrü yollar toza-dumana bürünürdü.
 
 Pambıq kolları qoza tökmüşdü. Bu gün-sabah çatlayıb ağarışacaqdı. Çöllərdən adam seyrəlmişdi. Taxıl çoxdan biçilmişdi. Kombaynla biçilən yerlərdə traktorların izi qalmışdı. Dərə-təpələrdə pencəyə vurulmuş taxılları xırmana araba ilə daşıyırdılar.
 
-Maşın kolxozun tarlasının yanından keçib sola burulanda uzaqdan bir qaraltı göründü. Məmməd ona yaxnılaşanda "Pobeda"nı saxladı. Şahnaz atılıb yerə düşdü. Xarab olmuş motosikllə əlləşən İmranın başı üstündə dayanıb əllərini belinə qoydu. Cingiltili səslə qəhqəhə çəkdi.
+Maşın kolxozun tarlasının yanından keçib sola burulanda uzaqdan bir qaraltı göründü. Məmməd ona yaxınlaşanda "Pobeda"nı saxladı. Şahnaz atılıb yerə düşdü. Xarab olmuş motosikllə əlləşən İmranın başı üstündə dayanıb əllərini belinə qoydu. Cingiltili səslə qəhqəhə çəkdi.
 
 – Yoldaş ağranom, bu nədir, səni nə kökdə görürəm?!
 
@@ -132,7 +132,7 @@ Maşın kolxozun tarlasının yanından keçib sola burulanda uzaqdan bir qaralt
 
 – Nə buyurdunuz, Şahnaz xanım?
 
-Qız, İmranın baxlşlarına dözə bilməyib, sözünü dəyişdi:
+Qız, İmranın baxışlarına dözə bilməyib, sözünü dəyişdi:
 
 – Heç... dedim özünü niyə yorursan?
 
@@ -150,7 +150,7 @@ Qız, İmranın baxlşlarına dözə bilməyib, sözünü dəyişdi:
 
 – Onda salamat qalın.
 
-Motosikl gurultu ilə onlardan uzaqlaşdı. Şahnaz toz-duman içərisində itən İmranın arxasınca baxıb, hirsindən alt dodağmı çeynədi. Şahnaz dabanı üstündə fırlanıb maşına mindi, qapını çırpdı.
+Motosikl gurultu ilə onlardan uzaqlaşdı. Şahnaz toz-duman içərisində itən İmranın arxasınca baxıb, hirsindən alt dodağını çeynədi. Şahnaz dabanı üstündə fırlanıb maşına mindi, qapını çırpdı.
 
 – Sür!
 

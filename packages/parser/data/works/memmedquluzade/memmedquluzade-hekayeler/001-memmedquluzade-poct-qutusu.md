@@ -95,7 +95,7 @@ Xan una baxandan sonra buyurdu nökərə küçə qapısını bağlasın və çö
 
 Çörəyin yeyilməyi iki saat çəkdi. Ancaq çörəkdən sonra Noruzəlinin kağızı poçta aparmağı xanın yadına düşdü. Xan nökəri çağırıb soruşdu və nökər cavab verdi ki, hələ kəndli poçtdan qayıtmayıb. Xan Noruzəlinin bu qədər yubanmağına təəccüb elədi və fikrinə gəldi ki, bəlkə Noruzəli kağızı poçta salıb özünü verdi bazara çörəkdən-zaddan alıb yesin və yainki bazarlığı-zadı var, eləsin. Bir saat da keçdi, Noruzəli gəlmədi.
 
-Xan, nökəri çağırıb dedi ki, getsin poçta səmt və görsün harda qaldı Noruzəli və nə bais oldu ki, bu qədər yubandı. Yarım saat keçməmiş nökər qayıdıb cavab verdi ki, kəndlini görə bilmədi. Xan çıxdı balkona və bir papiros yandırıb başladı var-gəl eləməyə. Dəxi ona aşkar oldu ki, Noruzəlinin başına bir iş gəldi ki, bu qədər yubandı. Xan bu fikiirdə idi – polis yasovulu dayandı qapıya və xanı görcək dedi:
+Xan, nökəri çağırıb dedi ki, getsin poçta səmt və görsün harda qaldı Noruzəli və nə bais oldu ki, bu qədər yubandı. Yarım saat keçməmiş nökər qayıdıb cavab verdi ki, kəndlini görə bilmədi. Xan çıxdı balkona və bir papiros yandırıb başladı var-gəl eləməyə. Dəxi ona aşkar oldu ki, Noruzəlinin başına bir iş gəldi ki, bu qədər yubandı. Xan bu fikirdə idi – polis yasovulu dayandı qapıya və xanı görcək dedi:
 
 – Xan, pristav buyurur gələsiniz polsaya və kəntdinizə zamın olasınız. Yoxsa zamını olmasan, pristav göndərəcək navaxta.
 

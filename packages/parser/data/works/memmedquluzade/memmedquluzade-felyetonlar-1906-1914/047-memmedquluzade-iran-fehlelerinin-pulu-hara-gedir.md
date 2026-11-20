@@ -55,7 +55,7 @@ Dedim: – Kimdir Ərfəüddövlə?
 
 Cavab verdi ki, “bu vücud dövləti-əliyyeyi-İranın İstambul səfirikəbiridir”.
 
-Dedim: – Çox əcəb, bunun mətləbə nə dəxli var? İstanmbul hara, Qafqaz və Rusiyada işləyən İran fəhlələri hara?
+Dedim: – Çox əcəb, bunun mətləbə nə dəxli var? İstanbul hara, Qafqaz və Rusiyada işləyən İran fəhlələri hara?
 
 Yoldaşım başladı nağıl eləməyə:
 

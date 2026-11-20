@@ -12,7 +12,7 @@ order: 21
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Molla Sadığın on iki kərənli uzun evi başdan-başa gəbə ilə doşənmişdi. Divar boyu döşəkcələr salınmışdı.
+Molla Sadığın on iki kərənli uzun evi başdan-başa gəbə ilə döşənmişdi. Divar boyu döşəkcələr salınmışdı.
 
 Hər tərəf tərtəmiz süpürülmüş, tavandan asılan çırağın məftili elə bil qəsdən lap aşağıya endirilmişdi. Divara vurulan ala-bəzək kilimlərin tozu alınmış, künc-bucağın qurumu da təmizlənmişdi. Ev adamın üzünə gülürdü.
 
@@ -34,7 +34,7 @@ Bir neçə il bundan qabaq bu uzunsaqqal müridlərdən biri Göytəpəyə gəli
 
 Molla Sadıq çox fikirləşmədi. Buradan qazanc iyinin gəldiyini duyub dərhal işə başladı. Ona türbəyə toplanan nəzirlərdən pay göndəriləcəyini vəd etmişdilər.
 
-Bu hadisədən bir neçə ay sonra Göytəpədə uzunsaqqal kişilər gorünməyə başladı. Uşaqların "keçisaqqal" - deyə ələ saldıqları bu adamların sayı tədricən artdı. Hətta cavanlardan da bu işə qoşulan, şəvə kimi qara saqqal uzadanlar oldu. Molla Sadıq onları müdafiə etdi. Kənd əhlini məscidə toplayıb, minbərə qalxdı. "Camaat, hamınız sünnüsünüz, məzhəbinizdən dönməyin, şəkk eləməyin, sonra axirət dünyasında cəhənnəm oduna yanarsınız", - dedi. Adamlar xofa düşüb susdular.
+Bu hadisədən bir neçə ay sonra Göytəpədə uzunsaqqal kişilər görünməyə başladı. Uşaqların "keçisaqqal" - deyə ələ saldıqları bu adamların sayı tədricən artdı. Hətta cavanlardan da bu işə qoşulan, şəvə kimi qara saqqal uzadanlar oldu. Molla Sadıq onları müdafiə etdi. Kənd əhlini məscidə toplayıb, minbərə qalxdı. "Camaat, hamınız sünnüsünüz, məzhəbinizdən dönməyin, şəkk eləməyin, sonra axirət dünyasında cəhənnəm oduna yanarsınız", - dedi. Adamlar xofa düşüb susdular.
 
 Bundan sonra Göytəpədə müridlər çoxaldı. Qəribə idi, kim bircə dəfə onların məclisinə düşsə,əl çəkmir, elə həmin günün səhərisi saqqalını uzatmağa başlayırdı.
 
@@ -104,7 +104,7 @@ Hacı Əmrah əfəndi əlindəki stəkanı yerə qoyub gülümsündü və ayağ�
 
 – Ayağımı sıxırdı, mən də kəsdim. Kəsməyə də bilərdim. Amma cəddinə qurban olduğum deyir ki, insan gərək bu dünyada özünə əziyyət verməsin. Nəfsini qaytarıb, gözünü ac qoymasın. Kim bu dünyada sıxıntı çəksə, elə axirətdə də əzab içində qıvrılacaq. İnsan gərək havalı və eşqli olsun. Eşqdir bu dünyanın əzəli. Qəlbində Allaha məhəbbəti olmayan bu dünyada yaşaya bilməz. Elə cəddinə qurban olduğum Seyid Nigari bir eşqlə yanıb kül olmadımı? Onun Nigara olan eşqi ilahi bir eşqə çevrildi. Xaliq özü belə buyurmuşdur. Aşiq və məşuq öz eşqləri ilə Yaradana qovuşurlar. Dünyanın sirri budur, əzizlərim. Qəlbində eşqi çox olan adam Allaha daha tez qovuşar.
 
-Müridlər qulaq kəsilmişdilər. Müridlər də gözlərini bu ağ sinəli, yaşı əllini keçmiş olsa da, gümrahlığını itirməyən kişinin ağzına zilləmişdilər. Meyxanaya gələn arvadların bəzisi bu sözləri əvvəllər də eşitmişdi. Ancaq yenə də qulaq asırdılar. Hətta arabir sual verənləri də olurdu. Ancaq belə məclisə yenicə gələnlər hələ utanır, küncə qısılıb, üzlərini gizlədir, acgözlüklə Hacıya qulaq asıb dediklərinin mahiyyətini dərk etməyə çalışırdılar. Onlar xof və həyəcan içində oturur, ruhların mələklərə necə qovuşacağı haqqında fikirləşirdilər. Kəlağayılarının altında gizlətdikləri kitabı sinələrinə qısıb titrəşirdilər. Onlar çox qəribə hal keçirirdilər. Deyilənə görə, əsl müridlərin çoxu yol getdikləri yerdə belə, Allahı görür, mələklərə rast gəlirdilər. Hətta onlarla söhbət də edirdilər. Belə bir səadatə nə vaxt və necə çatacaqlarını düşünən müridlər maraq və intizar içində qıvrılırdılar. Onların bu məclisə gəlməsinin əsas səbəbi də bu idi. Ona görə də Hacı Əmrah əfəndinin dediklərini o qədər də yaxşı anlaya bilmirdilər.
+Müridlər qulaq kəsilmişdilər. Müridlər də gözlərini bu ağ sinəli, yaşı əllini keçmiş olsa da, gümrahlığını itirməyən kişinin ağzına zilləmişdilər. Meyxanaya gələn arvadların bəzisi bu sözləri əvvəllər də eşitmişdi. Ancaq yenə də qulaq asırdılar. Hətta arabir sual verənləri də olurdu. Ancaq belə məclisə yenicə gələnlər hələ utanır, küncə qısılıb, üzlərini gizlədir, acgözlüklə Hacıya qulaq asıb dediklərinin mahiyyətini dərk etməyə çalışırdılar. Onlar xof və həyəcan içində oturur, ruhların mələklərə necə qovuşacağı haqqında fikirləşirdilər. Kəlağayılarının altında gizlətdikləri kitabı sinələrinə qısıb titrəşirdilər. Onlar çox qəribə hal keçirirdilər. Deyilənə görə, əsl müridlərin çoxu yol getdikləri yerdə belə, Allahı görür, mələklərə rast gəlirdilər. Hətta onlarla söhbət də edirdilər. Belə bir səadətə nə vaxt və necə çatacaqlarını düşünən müridlər maraq və intizar içində qıvrılırdılar. Onların bu məclisə gəlməsinin əsas səbəbi də bu idi. Ona görə də Hacı Əmrah əfəndinin dediklərini o qədər də yaxşı anlaya bilmirdilər.
 
 Cahandar ağanın bacısı Şahnigar xanım da bunların içində idi. Onun çox qəribə taleyi vardı. Keçən il ərini ilan vurandan sonra damın altında tək qalmışdı. Kişinin ölümündən sonra arıqlamaq əvəzinə kökəlmiş, buxaq sallayıb, buğum-buğum ət tökmüşdü. Qardaşı ona "çıx, gəl evimizə" - demişdisə də, Şahnigar xanım razı olmamışdı. "Ərimin var-dövləti təkcə mənə qalıb, oturub sağa-sola xərcləyəcəm. Nə işinə qalıb ki, özümü cəncələ salıram? Yengə əlinə baxıb, minnətlə qardaş çörəyi yeməkdənsə, damın altında tək qalmaq yaxşıdır", - deyə fikirləşmişdi.
 
@@ -136,7 +136,7 @@ Lap uşaqlıqdan cinə, ərdoya inanan, qorxulu, uydurma nağılları bir həqiq
 
 Şahnigar xanım Seyid Nigarinin kitabını Quranla yanaşı qoydu. Gecələr çətinliklə də olsa mollaxanada oxuduğu hərfləri yadına salıb höccələyə-höccələyə şerləri əzbərlədi. "Ərim yox, uşağım yox, elə Allahın bədbəxtiyəm, - deyə düşündü. - Bəlkə qəzəbə gəlmişəm. Günahım çoxdur. Onun üçün də rəhminə qurban olduğum mənə kəc baxır. Bəlkə gec deyil, elə bu müridlərə qoşulsam kəramət sahibi məndən mərhəmətini əsirgəməz?". Arvad çox düşündü. Belə bir yoldan geri dönsə, axirət dünyasında oda qalanacağını gözünün qabağına gətirdi və razılıq verdi.
 
-Haradansa qardaşı Cahandar ağa bu işləri eşitdi və ona sifarış elədi ki, "qulağıma söz-zad dəyir, bax ha, ağlını oğurladarsan, ondan sonra məndən küsmə, böyük tikəni qulağın boyda edərəm".
+Haradansa qardaşı Cahandar ağa bu işləri eşitdi və ona sifariş elədi ki, "qulağıma söz-zad dəyir, bax ha, ağlını oğurladarsan, ondan sonra məndən küsmə, böyük tikəni qulağın boyda edərəm".
 
 Şahnigar xanım odla su arasında qaldı. Qəribə idi, arvad Allah yolundan dönməkdən daha çox xoflanırdı. Nəhayət, ibadət hissi qorxuya üstün gəldi. Şahnigar xanım qardaşının kənddə olmamasından istifadə edib, böyük tərəddüdlə də olsa, ilk dəfə Molla Sadığın evinə, müridlərin meyxanasına gəldi.
 
@@ -164,7 +164,7 @@ Ağız deyəni qulaq eşitmirdi. Artıq bir-birinə fikir verən yox idi. Elə b
 
 Birdən kimsə ilan çalmış kimi atılıb ortaya düşdü. Çiyinlərini yuxarı çəkib, boynunu qısdı. Əvvəlcə sağa, sonra da sola əyilib, dabanı üstündə dingildədi. Şahnigar xanım bu ətli kişinin dabanlarını yerə vurduqca yırım-yırım yırğalandığını gördü. O çox qəribə bir hala düşmüşdü: dəli kimi əl-qol atır, həm oynayır, həm də oxuyurdu. Həm də hər misradan sonra "puffa, puffa!" - deyə ağzını tavana tutub fısıldayırdı. Yavaş-yavaş bu hal başqalarına da sirayət etdi. Şahnigar xanım gördü ki, hamı ayağa qalxdı, arvad, kişi bir-birinə qarışdı. Yalli oynayan kimi qatarlaşıb, yerlərində ləngər vurdular. Puffultu, tısıltı çoxaldı. Ağızlar köpükləndi, sinələr qalxıb-düşdü. Hər şeyi unudub, əcaib bir şeyə tamaşa edirmiş kimi yerindəcə çaşbaş qalan Şahnigar xanım ürəyində "dınqıra süzmək bu imiş", - deyə pıçıldadı. Onu gülmək tutdu. "Ay camaat, sizə nə olub, başınıza havamı gəlib?" – deyə qışqırmaq istədi. Elə bu zaman kimsə onu tərpətdi. O da ayağa durdu. Şahnigar xanım heç nə başa düşmürdü. O, pəncərə taxtalarının necə, nə zaman bağlandığını görmədi. Çıraqların işığının nə üçün öləziyib, titrəməsinin səbəbini anlamadı. O yalnız bircə şeyi, qızışıb cəzb olan müridlərin çırağın ahında fısıldayıb dingildədiklərini, iki-üç nəfərin bihuş halda yerə sərələndiyini görə bildi. Şahnigar xanım qarışıq və eybəcərləşmiş sifətlər arasında Molla Sadığın gözlərini gördü. Kişi ağzından köpük daşlana-daşlana onun ətrafında fırlanırdı.
 
-Şahnigar xanımı dəhşət bürüdü. Yuxudan ayılan kimi oldu. O haraya düşmüşdü? Arvad xoflandı. Bəli, bu hürkü Allah xofundan da dəhşətli idi. Birdən-birə bədəninə soyuq tər gələn Şahnigar xanım qapıya yaxınlaşdı. Elə bu zaman işıqlar söndü. Şahnigar xanım otaqdakıların başı kəsilmiş toyuq kimi partapartla yerə sərilib çırpındıqların, hiss etdi. O, əlini qapının cəftəsinə uzatmaq istədikdə, kimsə qolundan yapışdı. Küncə dogru dartışdırdı. Elə bil arvadın qoynuna ilan saldılar Buz kimi soyuq bir şey belinə dolanıb, dırnaqlarının ucuna qədər yeridi saçlarının dibi üşüdü. Şahnigar xanım qolundan yapışan əlin təmasından kişiliyini duydu. Qolunu hərlədi. Otağa qulaqbatırıcı bir şaqqıltı düşdü. - Haramzada köpək oğlu, burax məni!
+Şahnigar xanımı dəhşət bürüdü. Yuxudan ayılan kimi oldu. O haraya düşmüşdü? Arvad xoflandı. Bəli, bu hürkü Allah xofundan da dəhşətli idi. Birdən-birə bədəninə soyuq tər gələn Şahnigar xanım qapıya yaxınlaşdı. Elə bu zaman işıqlar söndü. Şahnigar xanım otaqdakıların başı kəsilmiş toyuq kimi partapartla yerə sərilib çırpındıqların, hiss etdi. O, əlini qapının cəftəsinə uzatmaq istədikdə, kimsə qolundan yapışdı. Küncə doğru dartışdırdı. Elə bil arvadın qoynuna ilan saldılar Buz kimi soyuq bir şey belinə dolanıb, dırnaqlarının ucuna qədər yeridi saçlarının dibi üşüdü. Şahnigar xanım qolundan yapışan əlin təmasından kişiliyini duydu. Qolunu hərlədi. Otağa qulaqbatırıcı bir şaqqıltı düşdü. - Haramzada köpək oğlu, burax məni!
 
 Şahnigar xanım çırpınıb inildədi. Elə bu vaxt güclü bir zərbədən zirəzələri qopan qapı taybatay açıldı. Divanın suvağı qopub töküldü. Heybətli bir səs qulaqlarda cingildədi.
 
@@ -180,6 +180,6 @@ Kimsə eşələndi. Az sonra işıq yandı. Otağa dolmuş qaranlıq xəcalət �
 
 Heç kəs cavab vermədi. Evin dal tərəfindəki pəncərə açıq idi. Kilimin biri də aralanmışdı. Ev sahibindən başqa heç kəsin bilmədiyi qapının bir qanadı görünürdü.
 
-Cahandar ağa gözü ilə hər yeri axtardıqdan sonra küncdə tir-tir əsən bacısını gördü. Onun pırpızlaşmış saçı gözünə sataşanda otaq başına hərləndi. Qamçını havaya nə zaman qaldırdığını bilmədi. Qamçi ilə bərabər Şahnigar xanım da ilan kimi qıvrılıb, yerindəcə qovruldu.
+Cahandar ağa gözü ilə hər yeri axtardıqdan sonra küncdə tir-tir əsən bacısını gördü. Onun pırpızlaşmış saçı gözünə sataşanda otaq başına hərləndi. Qamçını havaya nə zaman qaldırdığını bilmədi. Qamçı ilə bərabər Şahnigar xanım da ilan kimi qıvrılıb, yerindəcə qovruldu.
 
 – Düş qabağıma, qancıq!!!

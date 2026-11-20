@@ -38,7 +38,7 @@ Gəlinlər ona fikir vermədilər. Keçəl Xondulu yəhərin qaşından əyilib 
 
 Güllü xanım götürə bildikləri şeyləri yığdıqdan sonra arabaya minməzdən əvvəl üzü Kürə baxan samanlığın üstünə çıxdı. Əlini belinə qoyub Kürün sahilinə enən yaşıllıqlara, əyri-üyrü cığırlara, suya enən qız-gəlinə tamaşa etdi. Körpəlikdən gəzib dolaşdığı bu yerlərin elə bil ətrini sinəsinə doldurub saxlamağa çalışdı. Su yolunda, yarğanların altında qızlarla deyib güldüyü günləri xatırladı. Ağalıq şənliyinin qızları Kürü üzüb o taya keçən, meşədən cır alma- armud yığar. Qara bulağın suyundan içib Kürdə çimişərdilər. Güllü xanım su pəriləri kimi çayda çimən, oxuyub zümzümə edən və öz bədənlərinin gözəlliklərinə heyran qalan bu qızların çox vaxt başçısı olardı. Bəzən saatlarla güllü-çiçəkli talaların ortasındakı palıd ağaclarının kölgəsində əyləşib qırqovulların, meşə xoruzlarının səsinə qulaq asmaqdan doymazdılar. Güllü xanım bir andaca xəyalən o günlərə gedib qayıtdı. Köksünü ötürüb qollarını sinəsində çarpazladı. Gözündə gilələnən yaşı sinəsinə axıtdı. Sonra həyətə düşüb astaca addımlarla eyvana çıxdı. Keçəl Xondulu ona acıqlanmaq, arvadı geri qaytarmaq istədi. Bunu gürən Qaybalı kişi hirsləndi.
 
-– Ə, nə insafsiz adamsan. Qoysana arvad ev-eşiyi ilə halallaşa.
+– Ə, nə insafsız adamsan. Qoysana arvad ev-eşiyi ilə halallaşa.
 
 Bəlkə bir də buraları görməyəcək.
 
@@ -52,7 +52,7 @@ Keçəl Xondulunun uşağı döyməsini bayaqdan marığa yatan Alan da görmü�
 
 Uşağın da öz tədbiri var imiş. Alan Keçəl Xondulunu atdan salan kimi axşamdan evin zirzəmisinə yığdığı neft tökülmüş ota od vurdu və qaçıb arabaya mindi.
 
-Çıraqlıların arabaları çoxdan xır yolunda idi. Yoldaş Fətullayevin işarəsi ilə Alqazaxlıların köçü də xır yoluna yaxınlaşdı. Güllü xanımgilin evini birdən alov bürüdü. Ətrafdakılar özünə gələnə qədər yanan evlərin çatırtısı və tüstü qarışıq alovları göyə qalxdı. Evin ətrafinı kəsən silahlı dəstə özünü itirdi. Yoldaş Fətullayev təlaşla köməyə adam çağırırmış kimi ətrafa boylandı.
+Çıraqlıların arabaları çoxdan xır yolunda idi. Yoldaş Fətullayevin işarəsi ilə Alqazaxlıların köçü də xır yoluna yaxınlaşdı. Güllü xanımgilin evini birdən alov bürüdü. Ətrafdakılar özünə gələnə qədər yanan evlərin çatırtısı və tüstü qarışıq alovları göyə qalxdı. Evin ətrafını kəsən silahlı dəstə özünü itirdi. Yoldaş Fətullayev təlaşla köməyə adam çağırırmış kimi ətrafa boylandı.
 
 – Xondulu hanı?!
 

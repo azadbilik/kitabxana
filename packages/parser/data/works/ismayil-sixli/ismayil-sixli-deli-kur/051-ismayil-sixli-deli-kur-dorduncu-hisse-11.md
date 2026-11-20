@@ -20,7 +20,7 @@ Saat yeknəsəq bir ahəngdarlıqla danqıldadı. Semyonov düşüncələrdən a
 
 – Bu sizə çatacaq.
 
-Semyonov zərfi aldı. Şamın işığına tutub diqqətlə nəzərdön keçirdi. Kağızın üstündə nə poçt möhüru vardı, nə də surğuc.
+Semyonov zərfi aldı. Şamın işığına tutub diqqətlə nəzərdən keçirdi. Kağızın üstündə nə poçt möhürü vardı, nə də surğuc.
 
 – Kimdəndir?
 
@@ -36,7 +36,7 @@ Semyonov çaşıb qaldı. Frakını və şlyapasını stolun üstünə atıb kü
 
 Kişi lap darıxdı. Yataqxanaya getmək istədiyini, Çernyayevskini gözlədiyini unutdu, ayağa durub fikirli-fikirli otaqda gəzindi. Saat on ikiyə az qalırdı. Yəqin indi uşaqların hamısı yatır. Əgər bu xəbər doğrudursa, kazaklar səhər tezdən burada olmalıdırlarsa, indi Tiflisdən yola düşüblər. Onlar bütün gecəni yatmayacaq, məktəb yuxuda ikən üstümüzü almağa çalışacaqlar. Görəsən bu kimin qurğusudur? Yoxsa mənim özümü də ləkələmək istəyirlər? Yoxsa bizim seminariyanı da şübhəli məktəblər cərgəsinə qatmaq istəyirlər? Bizim uşaqların əlində nə ola bilər?
 
-O bir qədər sakitləşdi və təşvişə düşməyi yersiz saydi, hətta bu barədə heç kəsə bir söz deməməyi qərara aldı. Yenidən şlyapasını və frakını götürdü. Qapıya çatmamış bayırda ayaq səsi eşidib dayandı. Aleksey Osipoviç içəri girdi və azacıq əyilib direktora təzim etdi.
+O bir qədər sakitləşdi və təşvişə düşməyi yersiz saydı, hətta bu barədə heç kəsə bir söz deməməyi qərara aldı. Yenidən şlyapasını və frakını götürdü. Qapıya çatmamış bayırda ayaq səsi eşidib dayandı. Aleksey Osipoviç içəri girdi və azacıq əyilib direktora təzim etdi.
 
 – Üzr istəyirəm, gecikdim.
 
@@ -130,7 +130,7 @@ Otağa ağır sükut çökdü. Saat kəfgirinin tıqqıltısı daha da güclənd
 
 – Müsəlman şöbəsi də bir o qədər toplayıb.
 
-– Yaxşı iş görmüsünüz, bala, sizin alicənablığınızdan xoşum gəldi. Pulları verin mənə. Sabah müəllimlərdən də toplayarıq, lazımi yerlərlə özum danışaram. Çalışaram ki, siz deyən kimi olsun. Siz necə məsləhət görürsünüz, Aleksey Osipoviç?
+– Yaxşı iş görmüsünüz, bala, sizin alicənablığınızdan xoşum gəldi. Pulları verin mənə. Sabah müəllimlərdən də toplayarıq, lazımi yerlərlə özüm danışaram. Çalışaram ki, siz deyən kimi olsun. Siz necə məsləhət görürsünüz, Aleksey Osipoviç?
 
 – Bu barədə müəllimlərlə danışmağı mən öhdəmə götürürəm. – Görək məbləği heç olmasa min manata çatdıraq.
 

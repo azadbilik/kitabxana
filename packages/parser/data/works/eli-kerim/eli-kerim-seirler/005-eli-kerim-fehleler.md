@@ -30,7 +30,7 @@ Kimin nəyi vardı, çıxardı:
 çörək, kartof, yumurta.
 üzrxahsız təbəssüm,
 bir də başından içilmiş çaxırdı.
-Öturüb boğazdan aşağı,
+Ötürüb boğazdan aşağı,
 Tərif demədilər
 Bəzilərimiz kimi boğazdan
 yuxarı,

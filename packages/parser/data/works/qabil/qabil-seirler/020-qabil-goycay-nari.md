@@ -43,7 +43,7 @@ Arabir tarlada yananda dil-dodaq
 Dirəkdən asılmış şaxədən alaraq,
 Səni bir iştahla böləndə sevmişəm,
 Ləkəni əlimdən siləndə sevmişəm.
-Möhtəşəm ölkəmin bir yanı uraldır,
+Möhtəşəm ölkəmin bir yanı ucaldır,
 Hələlik orada nar bağı xəyaldır.
 Eybi yox, sibirə sovqatım halaldır,
 Bəlkə də sarısaç bir gözəl bir zaman

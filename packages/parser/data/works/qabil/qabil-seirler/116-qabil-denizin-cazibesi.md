@@ -107,7 +107,7 @@ Burda hökmən kimi şair, kimi də
 rəssam olur.
 Dənizə aldanaraq ömrü-günü
 axşam olur...
-Oxuyur nəcməsini bəmdə Xəzər,
+Oxuyur nəğməsini bəmdə Xəzər,
 zildə Xəzər
 Baxır öz çəkdiyi öz klipinə
 sahildə Xəzər.

@@ -30,7 +30,7 @@ Gələnə-gedənə yoldaş oldum mən.
 Bu da bəsindir.
 Bu yaşda nə hünər,
 Nə həvəsindir?
-Şükr elə mörünün möhlətinə sən,
+Şükr elə ömrünün möhlətinə sən,
 Şükr elə bəxtinin qismətinə sən,
 Şükr elə anarın ad gününə sən,
 Şükr elə dostların şad gününə sən.

@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Rza şahın şah olmaq söhbətini qabaqlarda mən zarafat sanırdım və indi də zarafat sanıram. Səbəbi budur ki, indiki əsrdə təzədən taxta çıxıb, tac qoymaq söhbətini bir yanda eşidəndə adam elə bilir ki, küçə uşaqları küçədə şah-şah oyunu oynayırlar.
 
-Amma İranın işi çox məzəlidir. Bir neçə ay bundan qabaq İranın bıvşi (keçmiş) padşahı Əhməd şah Firəngistandan İrana gəlməyə hazırlaşanda İran azadixahları Əhməd şaha kağız yazmışdılar ki, sənin indiki əsrdə Tehrana qayıtmağın bicadır. Çünki dünyada cəmi hökumətlər cümhuriyyət şəklini aldığı halda, biz iranlılar ozümüzü bundan sonra bir nəfər şahın istibdadı altına salmarıq. Hətta Rza şah özü də axırıncı məktubunda bu məzmunda Əhməd şaha bir vəsiyyət yazmışdı. İndi belə məlum olur ki, bunlar hamısı biclik imiş. Demək, beləliklə, biçarə Əhmədin başının altına yasdıq qoymuşlar və qoydular da.
+Amma İranın işi çox məzəlidir. Bir neçə ay bundan qabaq İranın bıvşi (keçmiş) padşahı Əhməd şah Firəngistandan İrana gəlməyə hazırlaşanda İran azadixahları Əhməd şaha kağız yazmışdılar ki, sənin indiki əsrdə Tehrana qayıtmağın bicadır. Çünki dünyada cəmi hökumətlər cümhuriyyət şəklini aldığı halda, biz iranlılar özümüzü bundan sonra bir nəfər şahın istibdadı altına salmarıq. Hətta Rza şah özü də axırıncı məktubunda bu məzmunda Əhməd şaha bir vəsiyyət yazmışdı. İndi belə məlum olur ki, bunlar hamısı biclik imiş. Demək, beləliklə, biçarə Əhmədin başının altına yasdıq qoymuşlar və qoydular da.
 
 Mənim sözüm orada deyil. Mənim sözüm İran azərbaycanlıları barəsindədir. Çünki Tehran barəsində bir o qədər məlumatım yoxdur. Amma Təbrizin işləri çox qəribədir. Çox eşitməli və çox da gülməlidir.
 

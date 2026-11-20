@@ -30,7 +30,7 @@ Keçəl Xondulu onun üstünə acıqlandı:
 
 – Oğlun hardadı?
 
-Güllü xanım esasına söykənib ayağa durdu və atın döşünə salınmış Şəmiddini göstərdi.
+Güllü xanım əsasına söykənib ayağa durdu və atın döşünə salınmış Şəmiddini göstərdi.
 
 Həsən ağa suvadağdan Kürə enmək istədikdə, atın böyründə dayanan Alanı gördü. Cilovu çəkdi. İt bunu hiss edib qabaq ayaqlarını yəhərin üzəngisinə qoydu və ağlayırmış kimi için-için zingildədi.
 

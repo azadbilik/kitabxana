@@ -42,7 +42,7 @@ Anbardar hirslə kağızları eşələdi. Üstünə toz qonmuş çötkənin alt�
 
 Kərim kişi əlləri əsə-əsə kağızı o üz-bu üzə çevirdi. Adını tapıb qabağında qol çəkdi.
 
-Musa pulları sayıb kişinin qabağına atdı. Qoca dağılib yerə səpələnən əllilikləri yığıb yoxladı və təəccüblə çiynini çəkdi.
+Musa pulları sayıb kişinin qabağına atdı. Qoca dağılıb yerə səpələnən əllilikləri yığıb yoxladı və təəccüblə çiynini çəkdi.
 
 – Bala, bəs bunun beş yüz manatı hanı?
 
@@ -82,7 +82,7 @@ Onun boğazının damarları şişdi. Sifəti boğuq qırmızı rəngə çaldı.
 
 – Kosaoğlu nə haqla elə deyir, balam, dərəbəylikdir?
 
-– Hünəriniz var, gedin özüylə danişın.
+– Hünəriniz var, gedin özüylə danışın.
 
 Söhbətin ciddiləşdiyini görən Kosaoğlu fikrə getdi. O, sədrliyə keçəndən bəri kolxozda hərdən belə hadisələr baş verirdi. Lazım olanda Kosaoğlu cədvəl tutdurub camaata qol çəkdirir, "MTS-in traktorçularına pul paylamışıq, onun kağızıdır" deyirdi. O, Musaya tapşırmışdı ki, "gözün su içmədiyi adamları yanına çağır, xəlvətcə pullarını ver, özlərinə də de ki, heç kimə bildirməsinlər". Beləliklə cədvəllər hazır olub işə tikilir, pullar da yığılıb qalırdı. Kolxozçular çox sorğu-sual edəndə isə Kosaoğlu hirslənir, "bəs MTS bu yerləri sizə müftə əkir? - deyirdi. - Bir yandan istəyirsiniz plan dolsun, mükafat alasınız, bir yandan da qəpik-quruş davası eləyirsiniz. Mən sizin pullarınızı cibimə ha qoymuram!"
 
@@ -148,7 +148,7 @@ Kolxozçular əvvəlcə heç nə demədilər. Sonra yavaş-yavaş öz aralarınd
 
 – Maya qoymasan, qazanc götürməzsən, - deyə hətta biri zarafata da başladı.
 
-Kosaoğlu deyilənlərə qulaq verdikcə ürəyi şadlanırdı. Əslinə baxsan, məsələnin altından bu qədər asanlıqla çıxdığına o heç də inanmırdı. Ancaq Kosaoğlu deyilənlərin hamıya eyni cür təsir etmədiyini, bəzi üzlərdəki narazılığı da görürdü. O bu fürsətdən də istifadə etməyj lazım bildi. Yanzarafat, yanciddi:
+Kosaoğlu deyilənlərə qulaq verdikcə ürəyi şadlanırdı. Əslinə baxsan, məsələnin altından bu qədər asanlıqla çıxdığına o heç də inanmırdı. Ancaq Kosaoğlu deyilənlərin hamıya eyni cür təsir etmədiyini, bəzi üzlərdəki narazılığı da görürdü. O bu fürsətdən də istifadə etməyə lazım bildi. Yanzarafat, yanciddi:
 
 – Hə... nə davanız varsa, gedib ağranomla eləyərsiniz. İndi cədvələ qol çəkin, nə verirlər dinməz-söyləməz alıb evinizə gedin. İstəmirsinizsə, ayrı məsələ. Onda, a bala, a Musa, pullarını qaytar ver özlərinə, o zərəri mən çəkərəm. İnsan oğluna yaxşılıq yoxdur.
 
@@ -164,11 +164,11 @@ Musa nə edəcəyini bilmirdi. Əlində qıfıl döyükürdü. Bu, Kosaoğlunu d
 
 – Baş üstə, dayı...
 
-Musa cəld adamları bayıra çıxartdı. Qapını bağlayıb uzaqlaşdı. Adamlar da bir-bir dağılışmağa başladılar. Kosaoğlu anbarın qabağında bir qədər də dayandı. Gözünü qıyıb Kərim kişinin arxasınca baxdı. Qoca çəliyini belinin ortasına keçirmişdi. Pencəyinin dirsəyi yırtıldığından pambığı ağarırdı. Beli azacıq əyilmişdi. Kosaoğlu onu nifrətlə gözdən keçirib dişini qıcadı. Dodağınnı altında nə isə dedi. Cibindən bıçaq çıxardıb, yerdən götürdüyü çubuğu yona-yona idarəyə sarı addımladı.
+Musa cəld adamları bayıra çıxartdı. Qapını bağlayıb uzaqlaşdı. Adamlar da bir-bir dağılışmağa başladılar. Kosaoğlu anbarın qabağında bir qədər də dayandı. Gözünü qıyıb Kərim kişinin arxasınca baxdı. Qoca çəliyini belinin ortasına keçirmişdi. Pencəyinin dirsəyi yırtıldığından pambığı ağarırdı. Beli azacıq əyilmişdi. Kosaoğlu onu nifrətlə gözdən keçirib dişini qıcadı. Dodağını altında nə isə dedi. Cibindən bıçaq çıxardıb, yerdən götürdüyü çubuğu yona-yona idarəyə sarı addımladı.
 
 O sakitləşə bilmirdi. Son zamanlar kimi dindirirdisə, sözü yerə düşürdü. Halbuki əvvəllər onun ağzından nə çıxsa idi, danışıqsız yerinə yetirirdilər. Gözü su içmədiyi adamları müxtəlif yollarla kənddən uzaqlaşdırırdı. Kimisini neft mədənlərinə işləməyə göndərər, kimisini Mingəçevirə, ya Daşkəsənə yola salırdı. Çalışırdı ki, bir oxla iki hədəf vursun: həm "nadinc adamlardan" canını qurtarsın, həm də rayonda sinəsinə döyüb desin ki, '"mən öz kolxozumdan mədənlərə köməyə filan qədər adam vermişəm".
 
-Əvvəllər o, bu işi çox asanlıqla görə bilirdi: müharibə dövründə işçi qüvvəsi çatışmadığından, çox vaxt bu işlər səfərbərlik şəklində bəyata keçirilirdi. Kosaoğlu fursotdən istifadə edir. kimdən xoşu gəlmirdisə, səfərbərliyə salırdı. Ancaq son vaxtlar vəziyyət dəyişdi. Bu il isə lap çətinləşdi. İlin əvvəlində Nəsib dayını ilk partiya təşkilatına katib seçdilər. Kosaoğlu elə zənn edirdi ki, Nəsib rayon mərkəzini buraxıb kəndə gəlməyəcək, lakin o, məmnuniyyətlə kəndə qayıtdı.
+Əvvəllər o, bu işi çox asanlıqla görə bilirdi: müharibə dövründə işçi qüvvəsi çatışmadığından, çox vaxt bu işlər səfərbərlik şəklində həyata keçirilirdi. Kosaoğlu fursotdən istifadə edir. kimdən xoşu gəlmirdisə, səfərbərliyə salırdı. Ancaq son vaxtlar vəziyyət dəyişdi. Bu il isə lap çətinləşdi. İlin əvvəlində Nəsib dayını ilk partiya təşkilatına katib seçdilər. Kosaoğlu elə zənn edirdi ki, Nəsib rayon mərkəzini buraxıb kəndə gəlməyəcək, lakin o, məmnuniyyətlə kəndə qayıtdı.
 
 Nəsib dayı işi çox adi bir şeydən başladı. Partiya təşkilatı üçün otaq ayırdı. Kabineti səliqəyə saldı, bər axşam idarədə oturub camaatı başına yığmağa, vacib məsələlər haqqında onlarla söhbət etməyə başladı. Elə bu vaxtdan Kosaoğlunun suyu bulandı. Bu tərəfdən də İmran gəldi. O da elə ilk gündən ayrı hava çaldı.
 
@@ -180,7 +180,7 @@ Kosaoğlu burada da darıxdı. Eyvandan enib xırman yerinə getdi. Orada da kim
 
 Kosaoğlu veyllənə-veyllənə gəlib təpənin üstündə dayandı. Təpənin döşü yamyaşıl idi. Balaca bir oğlan dizinin üstünə qoyduğu kitabı yeknəsəq ahənglə bərkdən oxuyur, arabir də göylükdə otlayan ala quzulara, atılıb-düşən təpəl çəpişə baxırdı.
 
-Aram-aram vurulan zəngin səsi gəldi. Məkləbin həyəti uşaqlarla doldu. Kosaoğlu çantasını qoltuğuna vurub ötüşən oğlanlara, başı kəlağayılı balaca qızlara baxdı. İndi də ona səs-küy xoş gəlmədi. Asta-asta təpədən endi. Nəhayət, Kosaoğlu evə qayıtdı. Armud ağacının altında, "Pobeda"nın yanında dayanmış şoferi çağırdı:
+Aram-aram vurulan zəngin səsi gəldi. Məktəbin həyəti uşaqlarla doldu. Kosaoğlu çantasını qoltuğuna vurub ötüşən oğlanlara, başı kəlağayılı balaca qızlara baxdı. İndi də ona səs-küy xoş gəlmədi. Asta-asta təpədən endi. Nəhayət, Kosaoğlu evə qayıtdı. Armud ağacının altında, "Pobeda"nın yanında dayanmış şoferi çağırdı:
 
 – Məmməd, maşını yola çıxart!
 
@@ -188,7 +188,7 @@ Bir az sonra Kosaoğlunun maşını kənd yollarında cücərən zərif otların
 
 Qarşıda geniş tarlalar görünürdü. Traktorlar şumun içində hərlənirdi. Ortada qaçışıb, çiyid daşıyan qızların al-əlvan paltarları yellənirdi. Maşın arxların yaxasınca gedirdi. Şofer hərdən sürəti azaldır, cücərən pambıqları sədrə göstərirdi.
 
-Yaşıl yemişan pöhrənliyinin arxasından ipək paltarh bir qız çıxdı. Əlindəki günlüyü yelləyib dayandı. Maşın silkələnib durdu.
+Yaşıl yemişan pöhrənliyinin arxasından ipək paltarlı bir qız çıxdı. Əlindəki günlüyü yelləyib dayandı. Maşın silkələnib durdu.
 
 – Şahnaz, hara belə? - deyə şofer soruşdu.
 

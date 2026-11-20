@@ -12,7 +12,7 @@ order: 27
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=11'
 status: DRAFT
 ---
-Tükəzban gözünü açanda ətrafa boylandı. Harada olduğunu müəyyənləşdirə bilmədi. Sonra başının üslündə dayanmış Zeynəbi gördü:
+Tükəzban gözünü açanda ətrafa boylandı. Harada olduğunu müəyyənləşdirə bilmədi. Sonra başının üstündə dayanmış Zeynəbi gördü:
 
 – Bura haradır, qızım?
 
@@ -78,9 +78,9 @@ Zeynəb Tükəzban xalanın nə demək istədiyini başa düşdü. Amma ölüm a
 
 O, inildəyib yenə gözlərini qapıya zillədi.
 
-– Zeynəb... bala... özünbilirsən ki, İmranın heç kəsi yoxdnr... O lap tək qalır. Onu sənə tapşirıram... İmran əmanəti, dərdin alım!.. Onu tək buraxma... Özün qulluğunu elə, onun anası, bacısı ol... Bəs niyə gəlmədi?
+– Zeynəb... bala... özünbilirsən ki, İmranın heç kəsi yoxdur... O lap tək qalır. Onu sənə tapşırıram... İmran əmanəti, dərdin alım!.. Onu tək buraxma... Özün qulluğunu elə, onun anası, bacısı ol... Bəs niyə gəlmədi?
 
-Tükəzban xala snsdu, onun gözləri yenə qapıda idi. Aradan xeyli keçdi. Qapı açıldı. Nəsib dayı ilə İmran içəri girdi. Səs-küy eşidən arvad zarıdı. Zeynəb göz yaşını saxlaya bilmədi.
+Tükəzban xala susdu, onun gözləri yenə qapıda idi. Aradan xeyli keçdi. Qapı açıldı. Nəsib dayı ilə İmran içəri girdi. Səs-küy eşidən arvad zarıdı. Zeynəb göz yaşını saxlaya bilmədi.
 
 – Tükəzban xala, İmran gəldi.
 
@@ -92,7 +92,7 @@ Zeynəb dəsmalı ağzına tutub çarpayıdan aralandı. Açıq pəncərənin qa
 
 – Ana!
 
-– Can... səsinə qurban... bardasan?
+– Can... səsinə qurban... hardasan?
 
 – Burdayam, ana, yanındayam.
 

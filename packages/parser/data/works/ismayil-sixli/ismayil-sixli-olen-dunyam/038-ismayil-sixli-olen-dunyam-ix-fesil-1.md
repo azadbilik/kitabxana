@@ -18,7 +18,7 @@ Faytonu əhatəyə aldılar. İki milis qabaqda, iki milis arxada, ikisi də yan
 
 Faytonun küncünə çəkilən yoldaş Fətullayev kəndə yaxınlaşanda onaçılanı taxta qoburuna qoydu. Faytonun irəli çəkilmiş günlüyünü geri qatladı. Küncdən çıxıb qabağa gəldi və yan tərəfə dirsəkləndi.
 
-Çöllər cücərmək istəyirdi. Torpaq şirələşmişdi, quzeylərdə ala-tala qar ağarırdı. Kənd evlərinin bacalarından burula-burula qalxan tüstülər azalımışdı. Fayton kəndə yaxınlaşdı və ikimərtəbəli evin qarşısında dayandı, milislər atdan düşdülər. Yoldaş Fətullayev ayağa qalxdı.
+Çöllər cücərmək istəyirdi. Torpaq şirələşmişdi, quzeylərdə ala-tala qar ağarırdı. Kənd evlərinin bacalarından burula-burula qalxan tüstülər azalmışdı. Fayton kəndə yaxınlaşdı və ikimərtəbəli evin qarşısında dayandı, milislər atdan düşdülər. Yoldaş Fətullayev ayağa qalxdı.
 
 Elə faytonun içindəcə uzun şinelinin üstündən bağladığı onaçılanı yana çəkdi. Aşırmasını düzəltdi. Ulduzlu papağını qaşının üstünə endirdi. Elə bil kəndə gəlməyini hamıya bildirmək, boy-buxununu göstərmək istəyirdi.
 
@@ -76,7 +76,7 @@ Yoldaş Fətullayev aşığın keçirdiyi həyəcanlardan, onun təzədən qalay
 
 – Deyəsən, evdə sənə yaxşı baxırlar. Göbək-zad bağlamısan.
 
-Aşıq ilan çalmiş kimi dik atıldı, başı toppuza oxşar yumru ağacını havada oynatdı.
+Aşıq ilan çalmış kimi dik atıldı, başı toppuza oxşar yumru ağacını havada oynatdı.
 
 – Kimliyinə baxmaram, başını əzərəm. Mənim göbəyimdə sənin nə işin var? Oğraş!!!
 
@@ -136,13 +136,13 @@ Qaybalı kişi bu dəfə lap ehtiyatlandı.
 
 Bu dəfə Fətullayev dinmədi. Böyründən asılmış çantasını çıxarıb stolun üstünə qoydu, oradakı möhürlü kağızlardan birini götürüb vərəqlədi.
 
-İdarənin qapısı açıldı. Əvvəlcə kənd firqə özək katibi, sonra isə komsomalçular əllərində silah içəri girdilər. Bir azca da keçdi. Şura sədrinin otağı adamla doldu. İçərini tüstü-duman bürüdü.
+İdarənin qapısı açıldı. Əvvəlcə kənd firqə özək katibi, sonra isə komsomolçular əllərində silah içəri girdilər. Bir azca da keçdi. Şura sədrinin otağı adamla doldu. İçərini tüstü-duman bürüdü.
 
 Yoldaş Fətullayev hamının yığışdığını yəqin etdikdən sonra yerini rahatladı və gizli bir sirr açırmış kimi söhbətə başladı.
 
 – Bu saat adamlarınızı göndərin kəndə gəlib-gedən yolları kəssinlər. Heç kəsi şənliyə buraxmasınlar. Bizim burdakı danışığımızdan heç kəs xəbər tutmamalıdır. - O, şinelinin yaxasını aralayıb nəfəsini dərdi. - Artıq rəhbərin dediklərinin vaxtı çatmışdır. Qolçomaqları bir sinif kimi ləğv etmək lazımdır.
 
-İçəridəki yaşlı kişilərdən biri qəzetdən bükdüyü maxorka papirusunu bir-iki dəfə sümürüb kötüyü yerə atdı və astaca soruşdu:
+İçəridəki yaşlı kişilərdən biri qəzetdən bükdüyü maxorka papirosunu bir-iki dəfə sümürüb kötüyü yerə atdı və astaca soruşdu:
 
 – Bunu nə təhər eləyəcəyik, yoldaş Fətullayev?
 

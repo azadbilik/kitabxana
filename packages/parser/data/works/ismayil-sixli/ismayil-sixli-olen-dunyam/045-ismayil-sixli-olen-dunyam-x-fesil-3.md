@@ -72,8 +72,8 @@ Kabı kişinin əli sezilmədən qobura yaxınlaşdı. Naqanın çıxması ilə 
 
 – Mən qayıdası olmayacam. Mənə görə arvad-uşağınızı başsız qoymayın.
 
-Milislər onun sözünə baxmadılar. Birlikdə qaçaqların alaçığına yaxınlaşdılar. Həsən ağa qabağa yeridi. Halay bəyi görməyəndə Kəsəmənlinin gözünə baxdı. Bu zabitəli və zəhmli kişinin gözlərində yaş giklənmişdi.
+Milislər onun sözünə baxmadılar. Birlikdə qaçaqların alaçığına yaxınlaşdılar. Həsən ağa qabağa yeridi. Halay bəyi görməyəndə Kəsəmənlinin gözünə baxdı. Bu zabitəli və zəhmli kişinin gözlərində yaş gizlənmişdi.
 
-– Namərdlərdən qoruya bilmədim. - O, birdən-birə kişiyə yaraşmayan daxili bir çılğınlıqla hönkürdü. Sakitləşdikdən sonra hələ də bir şey anlamayan Həsən ağaya dedi. - Yoldaşlarına de, hazırlaşsınlar. Üstümüzü almamış burdan getməliyik. - O, atın üscündən qanrılıb Noylu bulağa baxdı. Ciyəri yanırdı. Bunu başa düşən bir gəlin iri qalaylı bir parçı su ilə doldurub ona yaxınlaşdı. Kəsəmənli qabı götürüb başına çəkdi.
+– Namərdlərdən qoruya bilmədim. - O, birdən-birə kişiyə yaraşmayan daxili bir çılğınlıqla hönkürdü. Sakitləşdikdən sonra hələ də bir şey anlamayan Həsən ağaya dedi. - Yoldaşlarına de, hazırlaşsınlar. Üstümüzü almamış burdan getməliyik. - O, atın üstündən qanrılıb Noylu bulağa baxdı. Ciyəri yanırdı. Bunu başa düşən bir gəlin iri qalaylı bir parçı su ilə doldurub ona yaxınlaşdı. Kəsəmənli qabı götürüb başına çəkdi.
 
-Qaçaqlar atlandılar. Tərpənməzdən əvvəl zirvəsi qarlı dağlara, güllü-çiçiəkli alp çəmənliklərinə, meşədən qarağat və çiyələk yığan uşaqlara baxdılar. Atları tərpətdilər. Qarşıda Arazın lilli və boz-bulanıq suları axırdı.
+Qaçaqlar atlandılar. Tərpənməzdən əvvəl zirvəsi qarlı dağlara, güllü-çiçəkli alp çəmənliklərinə, meşədən qarağat və çiyələk yığan uşaqlara baxdılar. Atları tərpətdilər. Qarşıda Arazın lilli və boz-bulanıq suları axırdı.

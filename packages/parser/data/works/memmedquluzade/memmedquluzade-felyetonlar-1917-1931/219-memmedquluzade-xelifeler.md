@@ -11,7 +11,7 @@ order: 219
 sourceNote: 'https://www.kitabxana.net/files/books/file/1259951834.pdf#page=258'
 status: DRAFT
 ---
-Hərçənd ki, bu saat ingilis əmələlərinin tətil söhbəti nəinki tək bircə küreyi-ərzin bütün “məhafilin”də danışılır, hələ bəlkə Marsa da gedib çıxıbdır. Bununla bərabər, biz Molla Nəsrəddin əmi, – möhtərəm oxucularımız da bunu görur və Allah da buna şahiddir, – bu məsələyə nə keçmişdə qarışmışıq, nə indi qarışmaq istəyirik və nə də gələcəkdə qarışmaq xəyali-fasidində olacağıq.
+Hərçənd ki, bu saat ingilis əmələlərinin tətil söhbəti nəinki tək bircə küreyi-ərzin bütün “məhafilin”də danışılır, hələ bəlkə Marsa da gedib çıxıbdır. Bununla bərabər, biz Molla Nəsrəddin əmi, – möhtərəm oxucularımız da bunu görür və Allah da buna şahiddir, – bu məsələyə nə keçmişdə qarışmışıq, nə indi qarışmaq istəyirik və nə də gələcəkdə qarışmaq xəyali-fasidində olacağıq.
 
 Buna da səbəblər var.
 

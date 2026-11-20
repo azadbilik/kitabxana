@@ -22,7 +22,7 @@ Bu yavıqlarda bizim sahibmənsəblərdən birinin ölüm xəbərini qəzetlərd
 Cəhd kon dil zində gərdəd, tən çe arayi bezər?
 Mürdəra sudi nədarəd guri pür nəqşü nigar.
 
-Amma mən yenə başa düşmədim ki, bu yavuqları vəfat edən bir vücüdun barəsində niyə o qədər çığır-bağır saldılar. Mərhumun adını qəzetlərin birində qoymuşdular: “Nadirül-vücud”. Lüğəti açıb baxdım, gördüm “nadirül-vücud” o şəxsə deyirlər ki, millət yolunda heç bir əlahiddə səy və qeyrət göstərməyə və “bir kəs məndən inciməsin” – deyib ömrünün əvvəlindən axırınadək çalışmalı yerdə, rahat otura evində və öləndə də Qafqaza elə şöhrət sala ki, xalq onu doğrudan da millət mücahidi hesab edə.
+Amma mən yenə başa düşmədim ki, bu yavuqları vəfat edən bir vücudun barəsində niyə o qədər çığır-bağır saldılar. Mərhumun adını qəzetlərin birində qoymuşdular: “Nadirül-vücud”. Lüğəti açıb baxdım, gördüm “nadirül-vücud” o şəxsə deyirlər ki, millət yolunda heç bir əlahiddə səy və qeyrət göstərməyə və “bir kəs məndən inciməsin” – deyib ömrünün əvvəlindən axırınadək çalışmalı yerdə, rahat otura evində və öləndə də Qafqaza elə şöhrət sala ki, xalq onu doğrudan da millət mücahidi hesab edə.
 
 * * *
 

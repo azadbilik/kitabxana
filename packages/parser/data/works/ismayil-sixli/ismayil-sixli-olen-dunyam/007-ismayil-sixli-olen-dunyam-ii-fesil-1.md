@@ -18,7 +18,7 @@ Qapı astaca aralandı. Növbətçi milisioner əlində səhər yeməyi içəri 
 
 Onun iş otağında hansı bəyinsə evindən gətirilmiş ayaqları və yan taxtaları, siyirmələri naxışlarla bəzədilmiş iri bir yazı masası var idi. Masanın üstü göy mahuddan idi. İri yazı ləvazimatında iki iri mürəkkəbqabı, qələmdan və kağız kəsmək üçün fil sümüyündən xüsusi bıçaq var idi. Mürəkkəbqabının biri bənövşəyi, o birisi isə qırmızı mürəkkəblə dolu idi.
 
-O, masanın arxasında yrrini rahatlayan kimi qapı azacıq aralandı, içəri qara pencəyinin boynu və biləkləri didilmiş bir adam girdi. Ayağında uzunboğaz çəkmə, başında isə əynindəki pencək kimi nimdaş, ulduzlu şapka var idi. O da çiyinlərindən çalın-çarpaz qayış aşırmışdı. Bir yanından naqan, bir yanından isə dəri çanta sallanırdı. O, içəri girən kimi stol çəkib oturdu, qoltuğundakı qovluğu açıb masanın üstünə bir kağız qoydu.
+O, masanın arxasında yerini rahatlayan kimi qapı azacıq aralandı, içəri qara pencəyinin boynu və biləkləri didilmiş bir adam girdi. Ayağında uzunboğaz çəkmə, başında isə əynindəki pencək kimi nimdaş, ulduzlu şapka var idi. O da çiyinlərindən çalın-çarpaz qayış aşırmışdı. Bir yanından naqan, bir yanından isə dəri çanta sallanırdı. O, içəri girən kimi stol çəkib oturdu, qoltuğundakı qovluğu açıb masanın üstünə bir kağız qoydu.
 
 – Bu nədir?
 
@@ -58,7 +58,7 @@ Kəsəmənli dönüb ona necə baxdısa, o özünü itirib ayağa durdu və qovl
 
 Durub otaqda gəzindi. O, aşıq Qaməti çox yaxşı tanıyırdı. Orta boylu, dolu bədənli bir kişi idi. Kəndin kənarında taxtapuşlu qara damı vardı. İki uşağı və arvadı ilə orada yaşayırdı. Bir toya, məclisə çağırılanda sazı səliqə ilə köynəyinə salar, qayışı çiyninə aşırardı. Sağ əlində isə toppuza bənzər yumru başlı ağac gəzdirərdi. Ağacın əl tutan yerində qayış var idi. Qayışı qoluna keçirər, toppuza bənzər əl ağacından həm çəlik kimi istifadə edər, həm də özünü kənd itlərindən qoruyardı. Onun qalın göyçək bığı var idi. Həmişə gözündən gülərdi. Çox yaraşıqlı bir kişi idi. Kəsəmənli dəfələrlə onun məclisində olmuşdu. Onun çox məlahətli zil səsi, həm də gözəl dili var idi. Axşamdan başladığı dastanı səhərə yaxın qurtarardı. Oxuduqca cuşa gələr, otuzluq çırağın altında dayanıb zəngulə vurardı. Fitilin işığı titrəyər, bəzən də öləziyib sönərdi. Bütün mahalda onu sevərdilər. Heç kəsdə işi olmaz, heç kəsin sözünü yerə salmaz, toyda-mağarda çalıb oxuyardı. İndi ona güllələnmək kəsmişdilər. Nə var-nə var, yaylaqda qaçaqların məclisində saz çalıb, mahnı oxumuşdu.
 
-O qaytdıb yerində əyləşdi, qələmi qırmızı mürəkkəbə batırıb aşığın adının üstündən iri bir xətt çəkdi. Özünü yüngülləşmiş hiss etdi və dərindən nəfəs aldı. Sonra masanın küncündəki balaca zəngi götürüb cingildətdi. Növbətçi milisioner qapıda göründü.
+O qayıdıb yerində əyləşdi, qələmi qırmızı mürəkkəbə batırıb aşığın adının üstündən iri bir xətt çəkdi. Özünü yüngülləşmiş hiss etdi və dərindən nəfəs aldı. Sonra masanın küncündəki balaca zəngi götürüb cingildətdi. Növbətçi milisioner qapıda göründü.
 
 – Uşaqlardan iki nəfər yolla qalaya. Çoban Kərəməlini tez yanıma gətirsinlər. O yan-bu yan eləyən olsa, desinlər ki, yoldaş Kəsəmənli onunla danışacaq.
 
@@ -112,11 +112,11 @@ Kərəməli yerini rahatladı, bir az bundan əvvəl canına hopmuş qor xunu un
 
 – Kabı dayı, Şura hökuməti yeni qurulanda olan aclıq ili yadınıza gəlirmi? Yadınızdadımı kəndimizdə neçə adam acından şişib tuluğa döndü. Damların altında para əppəkdən ötrü uşaqlar sabah açılana qədər mələşirdilər. Bax onda mən də balalarımnan birlikdə damın altında ac qalmışdım, Uşaqlar yerlərinə qor dolmuş kimi yorğanın altında çapalayır, gözlərinə yuxu getmirdi. Eşitməyibsənmi ilan vuran yatar, ac yatmaz. Səndən də üzüm qara, uşaqların anası da yorğana bürünüb hıçqırırdı. Elə mən özüm də. Gözümü damın his basmış pərdilərinə zilləyib elə hey fikirləşirdim. Evdə satılası bir şeyim yox idi ki, bazara çıxardım. Nə qonumda bir şey var idi, nə də qonşuda. Hamı mənim günümdə idi. Səhəri diri gözlü açdım. Dan qızaranda evdən çıxdım, gün xeyli qalxana qədər fikrimdə aranı dağa koçürdüm, dağı arana:
 
-Gümanım gələn yerləri, adamları bir-bir yadıma saldım. Hətta yaxın adamlardan bir-ikisinin qapısını döydüm də. Amma əliboş geri qayıtdım. Uşaqların içəridən səsi gəlirdi. Anaları onları ovundurmağa çalışırdısa da, qarnı ac tifillərin hıçqırığı kəsmirdi. Bir istədim xəncəri çıxarıb özümü doğram- doğram eləyim. Hər gün diri gözlü ölməkdənsə, bir dəfəlik ölmək yaxşı idi. Bax, Kabı dayı, bilmirəm, Allahın işi idi, yoxsa nə idi, birdən-birə Halay bəy yadıma düşdü. Tez ayağa durdum, balaca heybəni çiynimə aşırdım, Allaha pənah deyib, bəyin qapısına yollandım. Dedim, Allah onun ürəyinə insaf salar, hes olmasa, bir-iki xamralı çörəyi verər. Lap qarğıdalı olsun, arpa çörəyi olsun, gətirim, uşaqlar göyşüyüb səslərini kəssinlər. Yadınızda olar, Halay bəyin evi: dörd tərəfi hasarlı, darvazalı, ikimərtəbəli imarət idi. Mən qorxa-qorxa darvazaya yaxınlaşıb tərəddüd içində dayandım. Xeyli nə edəcəyimi bilmədim. Arada bir qəsdəndim geri qayıdım, amma uşaqların sifəti gözümün qabağına gələndə ürəkiənib qapını döydüm. Nökər darvazanı aralayıb üzümə baxdı:
+Gümanım gələn yerləri, adamları bir-bir yadıma saldım. Hətta yaxın adamlardan bir-ikisinin qapısını döydüm də. Amma əliboş geri qayıtdım. Uşaqların içəridən səsi gəlirdi. Anaları onları ovundurmağa çalışırdısa da, qarnı ac tifillərin hıçqırığı kəsmirdi. Bir istədim xəncəri çıxarıb özümü doğram- doğram eləyim. Hər gün diri gözlü ölməkdənsə, bir dəfəlik ölmək yaxşı idi. Bax, Kabı dayı, bilmirəm, Allahın işi idi, yoxsa nə idi, birdən-birə Halay bəy yadıma düşdü. Tez ayağa durdum, balaca heybəni çiynimə aşırdım, Allaha pənah deyib, bəyin qapısına yollandım. Dedim, Allah onun ürəyinə insaf salar, hes olmasa, bir-iki xamralı çörəyi verər. Lap qarğıdalı olsun, arpa çörəyi olsun, gətirim, uşaqlar göyşüyüb səslərini kəssinlər. Yadınızda olar, Halay bəyin evi: dörd tərəfi hasarlı, darvazalı, ikimərtəbəli imarət idi. Mən qorxa-qorxa darvazaya yaxınlaşıb tərəddüd içində dayandım. Xeyli nə edəcəyimi bilmədim. Arada bir qəsdəndim geri qayıdım, amma uşaqların sifəti gözümün qabağına gələndə ürəklənib qapını döydüm. Nökər darvazanı aralayıb üzümə baxdı:
 
 – Nə istəyirsən?
 
-– Bəyə sozüm var.
+– Bəyə sözüm var.
 
 Nökər səsini bəyin eşidəcəyindon qorxurmuş kimi az qala pıçıldadı:
 
@@ -124,7 +124,7 @@ Nökər səsini bəyin eşidəcəyindon qorxurmuş kimi az qala pıçıldadı:
 
 Doğrudan da ikinci mərtəbənin eyvanında stol açmışdılar. Sarı mis samovar da bir tərəfdə poqquldayırdı.
 
-Halay bəyin yanında oxuyan maşın var idi. Nəsə oxuyurdular. Mənim gözümə nə oxuyan maşın görünürdü, nə da mahnı eşidirdim. Ürəyimdə deyirdim ki, nə olaydi Allahın altında o süfrədəki yeməklər bizim evdə olaydı, samovar da böyründə. Uşaqları düyunca yedizdirib, üstündən də hərəsinə bir stəkan çay verəydim. Elə özüm də çaydan doyunca içərdim.
+Halay bəyin yanında oxuyan maşın var idi. Nəsə oxuyurdular. Mənim gözümə nə oxuyan maşın görünürdü, nə da mahnı eşidirdim. Ürəyimdə deyirdim ki, nə olaydi Allahın altında o süfrədəki yeməklər bizim evdə olaydı, samovar da böyründə. Uşaqları doyunca yedizdirib, üstündən də hərəsinə bir stəkan çay verəydim. Elə özüm də çaydan doyunca içərdim.
 
 Üzümə salıb içəri girmək istədim, amma nökər döşümdən geri itələdi. Deyəsən, Halay bəyin gözü bunu aldı. Elə eyvandan nökəri səslədi;
 
@@ -166,7 +166,7 @@ Key kimi idim. Çaşıb qalmışdım. Nə edəcəyimi bilmirdim. Birdən əyilib
 
 Mən ayaqlarım dolaşa-dolaşa darvazadan uzaqlaşanda hiss etdım ki, Halay bəy ikinci mərtəbənin eyvanında dayanıb arxamca baxır...
 
-Evdə xurcunu açanda gördüm ki, bir gözündə təndir və xamralı çörəyi, o biri gözündə isə yağ, pendir, hətta qənd, çay da var. Arvad tez ortaya süfrə saldı, isti çörəklərdən kəsib uşaqlara verdi, uşaqlar çörəyin arasına pendir doldurub dürmək elədilər. Biz özümüzün də ac olduğumuzu yaddan çıxartdıq. Uşaqların acgözlüklə çörək yediyini, rənglərinin özünə gəldiyini görəndə ürəyimiz rahatlandı. Arvad başındakı şalın ucu ilə gözünün yaşını silib ayağa durdu, hətta çay da qoydu. O gün uşaqların da, özümüzün də qarnı doydu. Axşamüstü qara damımızın qapısında bir araba dayandı. Arabada üç çuval var idi. Arabadakılarnan kömukləşib çuvalları çardağın altına düşürdük. Gələnlərdən biri bayaq məni darvazadan içəri buraxmayan idi. O, gülümsündü və astadan dilləndi:
+Evdə xurcunu açanda gördüm ki, bir gözündə təndir və xamralı çörəyi, o biri gözündə isə yağ, pendir, hətta qənd, çay da var. Arvad tez ortaya süfrə saldı, isti çörəklərdən kəsib uşaqlara verdi, uşaqlar çörəyin arasına pendir doldurub dürmək elədilər. Biz özümüzün də ac olduğumuzu yaddan çıxartdıq. Uşaqların acgözlüklə çörək yediyini, rənglərinin özünə gəldiyini görəndə ürəyimiz rahatlandı. Arvad başındakı şalın ucu ilə gözünün yaşını silib ayağa durdu, hətta çay da qoydu. O gün uşaqların da, özümüzün də qarnı doydu. Axşamüstü qara damımızın qapısında bir araba dayandı. Arabada üç çuval var idi. Arabadakılarnan köməkləşib çuvalları çardağın altına düşürdük. Gələnlərdən biri bayaq məni darvazadan içəri buraxmayan idi. O, gülümsündü və astadan dilləndi:
 
 – Çatdımı?
 
@@ -174,7 +174,7 @@ Evdə xurcunu açanda gördüm ki, bir gözündə təndir və xamralı çörəyi
 
 Həmin taxılla dul bacımın özünü də, yetim uşağını da yaza çıxardım. İndi özünüz deyin, Kabı dayı, adam belə yaxşıbğı unuda bilərmi?
 
-Kəsəmənli bir xeyli fikirli-fikirli, gözləri yol çəkirmiş kimi lal-dinməz oturdu. Sonra ayağa durub pəncərəyə yaxınlaşdı. Frençinin cibindən gümüş papiros qutusunu çıxartdı. Papiros yandırıb iki dəfə ciyəri dolusu nəfəs aldı. Ağ tüstü layları otağı bürüdü. Duman çəkildikdən sonra, gözünü şəhərin kənarı ilə axan çaya, kəndlərə doğru uzanan yollara zillədi. Onu fikir götürmüşdü. Çekanın mərkəzdən göndərdiyi Fətullayev hər yerdə, hər adamın simasında müzür ünsür görürdü. Kim əlinə keçirdisə, ən ağır cəza verməyə çalışırdı. Qəzada qaçaqların sayı getdikcə çoxalırdı. Gözəgəlimli kişilər tüfənglərini götürüb meşələrə, yaylaqlara üz tuturdular. Elə biri - Halay bəy. Vaxtilə Qori müəllimlər seminariyasında oxumuş bu adam bütün ömrü boyu müəllimlik etmişdi. Riyaziyyatı gözəl bilirdi. Kəsəmənlinin uşaqlıq dostu, məktəb yoldaşı idi. Qoridə bir yerdə oxumuşdular. O zaman Kəsəmənli tələbə yığıncaqlarında iştirak edirdi. Halay bəyi də öz cərgələrinə qoşmağa çalışırdı. Amma Halay bəy heç nəyə qarışmir, "Mənim yolum maarifçilik yoludur" deyirdi. Doğrudan da, Halay bəy sonradan müəllimlik etmiş və qəza mərkəzində açılan məktəbdə dərs demişdi. Amma Kəsəmənli eşidirdi ki, yığıncaqlarda cavan müəllimlər, tələbələr onu tez- tez sıxışdırırlar, bəyliyin nümayəndəsi kimi tənqid atəşinə tuturlar. Kəsəmənli onu yanına çağırmağa hazırlaşırdı ki, Halay bəy bir gecə yoxa çıxdı. Onun sorağını dağlardan - qaçaqların dəstəsindən aldılar. İndi də bu yazıq Kərəməli ələ keçmişdi.
+Kəsəmənli bir xeyli fikirli-fikirli, gözləri yol çəkirmiş kimi lal-dinməz oturdu. Sonra ayağa durub pəncərəyə yaxınlaşdı. Frençinin cibindən gümüş papiros qutusunu çıxartdı. Papiros yandırıb iki dəfə ciyəri dolusu nəfəs aldı. Ağ tüstü layları otağı bürüdü. Duman çəkildikdən sonra, gözünü şəhərin kənarı ilə axan çaya, kəndlərə doğru uzanan yollara zillədi. Onu fikir götürmüşdü. Çekanın mərkəzdən göndərdiyi Fətullayev hər yerdə, hər adamın simasında müzür ünsür görürdü. Kim əlinə keçirdisə, ən ağır cəza verməyə çalışırdı. Qəzada qaçaqların sayı getdikcə çoxalırdı. Gözəgəlimli kişilər tüfənglərini götürüb meşələrə, yaylaqlara üz tuturdular. Elə biri - Halay bəy. Vaxtilə Qori müəllimlər seminariyasında oxumuş bu adam bütün ömrü boyu müəllimlik etmişdi. Riyaziyyatı gözəl bilirdi. Kəsəmənlinin uşaqlıq dostu, məktəb yoldaşı idi. Qoridə bir yerdə oxumuşdular. O zaman Kəsəmənli tələbə yığıncaqlarında iştirak edirdi. Halay bəyi də öz cərgələrinə qoşmağa çalışırdı. Amma Halay bəy heç nəyə qarışmır, "Mənim yolum maarifçilik yoludur" deyirdi. Doğrudan da, Halay bəy sonradan müəllimlik etmiş və qəza mərkəzində açılan məktəbdə dərs demişdi. Amma Kəsəmənli eşidirdi ki, yığıncaqlarda cavan müəllimlər, tələbələr onu tez- tez sıxışdırırlar, bəyliyin nümayəndəsi kimi tənqid atəşinə tuturlar. Kəsəmənli onu yanına çağırmağa hazırlaşırdı ki, Halay bəy bir gecə yoxa çıxdı. Onun sorağını dağlardan - qaçaqların dəstəsindən aldılar. İndi də bu yazıq Kərəməli ələ keçmişdi.
 
 Kəsəmənli pəncərənin önündən çəkilib Kərəməliyə baxdı.
 
@@ -200,7 +200,7 @@ Elə bu vaxt masanın üstündəki dəstəkli telefon cingildədi. Kəsəmənli 
 
 – Sorğu-suala başlama, bura gəl, bilərsən.
 
-O, astaca dəstəyi yerinə qoydu və hiss etdi ki, barmaqları titrəyir. Qan sağılmış gözləri bir az da qızardi və heç nə görmədi. Çiyni bir-iki defə qalxıb endi. Başı azacıq titrədi. Kişinin halının birdən-birə dəyişdiyini görən Kərəməli dərhal su qabını doldurub Kabı kişiyə verdi. Kişi suyu bir nəfəsə başına çəkəndən sonra azacıq sakitləşdi və özünü ələ almaq üçün yazı masasına dirsəklənərək başını qollarına söykədi.
+O, astaca dəstəyi yerinə qoydu və hiss etdi ki, barmaqları titrəyir. Qan sağılmış gözləri bir az da qızardı və heç nə görmədi. Çiyni bir-iki defə qalxıb endi. Başı azacıq titrədi. Kişinin halının birdən-birə dəyişdiyini görən Kərəməli dərhal su qabını doldurub Kabı kişiyə verdi. Kişi suyu bir nəfəsə başına çəkəndən sonra azacıq sakitləşdi və özünü ələ almaq üçün yazı masasına dirsəklənərək başını qollarına söykədi.
 
 Küncdəki iri kəfgirli saat əsəbləri yumşaldan məlahətli səslə astadan danqıldadı. Elə bil bu səs Kəsəmənlinin əsəblərini sakitləşdirdi. O, ayağa durub üst-başını səliqəyə saldı, bir xeyli otaqda gəzindi və əvvəlki təmkini özünə qayıtdı.
 

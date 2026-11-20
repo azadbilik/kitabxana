@@ -25,7 +25,7 @@ status: DRAFT
 
 * * *
 
-Beynəlmiləl qanunlarına görə bir məmləkətdən keçib bir özgə məmləkətə girməyə hər bir kəsin ixtiyarı var; istər Rusiyada və istərsə Şərq məmləkətlərində; ancaq pasportlu olmaq lazımdır (amma Avropada heç pasport da lazım deyil). Rusiya məmləkətinə hər bir yad adam daxil ola bilər, istər böyük, istər kiçik, istər xan, istər gəda, kaş cibində pasportu olsun; – hər bir şəhərə daxil ola bilər (Məhz bir para yəhudilərəi Pukişkeviç və “Novoye vremya” paytaxt şəhərlərinə qoymurlar).
+Beynəlmiləl qanunlarına görə bir məmləkətdən keçib bir özgə məmləkətə girməyə hər bir kəsin ixtiyarı var; istər Rusiyada və istərsə Şərq məmləkətlərində; ancaq pasportlu olmaq lazımdır (amma Avropada heç pasport da lazım deyil). Rusiya məmləkətinə hər bir yad adam daxil ola bilər, istər böyük, istər kiçik, istər xan, istər gəda, kaş cibində pasportu olsun; – hər bir şəhərə daxil ola bilər (Məhz bir para yəhudilərə Pukişkeviç və “Novoye vremya” paytaxt şəhərlərinə qoymurlar).
 
 Xülasə, hər bir şəxs, – xah müsəlman, xah qeyri müsəlman, – Rusiyanın hər bir şəhərinə daxil ola bilər. Hər küçəsi ilə gəzə bilər, hər bir mehmanxanada qala bilər, hansı yol ilə istəsə gəlib gedə bilər və hansı paraxoda istəsə minə bilər.
 

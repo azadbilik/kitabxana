@@ -23,7 +23,7 @@ A canım, mən bu xəbərləri oxuyanda özümü ya yuxuda və ya “gipnotizm�
 
 Amma arvadların bu dərəcə həyasızlıqlarını, “Din və məşəqqət” demişkən dünya yaranandan bu yana heç eşidibsinizmi?
 
-Arvad hara, müsavat hara? Əgər onlara müsavat lazım olsaydı, Allah onları saçı uzun, ağlı qısa yaradardımı? Əgər onlara müsavat lazım olsaydı, Allah onları üzləri tüksüz yaradardımı? Arvad dedin dəxi nə qaldı ki, utanmaya-utanmaya haqq-huquq da axtarsınlar!
+Arvad hara, müsavat hara? Əgər onlara müsavat lazım olsaydı, Allah onları saçı uzun, ağlı qısa yaradardımı? Əgər onlara müsavat lazım olsaydı, Allah onları üzləri tüksüz yaradardımı? Arvad dedin dəxi nə qaldı ki, utanmaya-utanmaya haqq-hüquq da axtarsınlar!
 
 Vallah, mən bilmirəm ki, bizim bəzi axmaq yazıçılar nə istəyirlər? Deyəsən haqq və müsavat kişilərimizin başından daşıb ki, hələ arvadlara da pay axtarırlar.
 

@@ -22,7 +22,7 @@ Gələnlər dəyələri axtarırdılar. Zərnigar xanım onların içəri necə 
 
 Lap yaxından kobud, xırıltılı kişi səsi eşidildi. Arvad-uşağı dəyədən bayıra tökdülər. Kimsə bərkdən söydü:
 
-– Ay köpək uşağı, nə gəzirsiniz, arvad-uşaqdan nə istəyirsıniz?
+– Ay köpək uşağı, nə gəzirsiniz, arvad-uşaqdan nə istəyirsiniz?
 
 – Qız hanı?
 
@@ -34,7 +34,7 @@ Zərnigar xanım qarışıqlıqda Salatının adını eşitdi. Arvadın bədəni
 
 Səs-küy lap yaxınlaşdı. Çənəsi şaqqıldayan Salatının bədəni uçundu. O, anasının böyrünə qısılıb yorğanı başına çəksə də, hər şeyi eşidir və vəziyyəti başa düşürdü. O da çıxış yolu axtarırdı, lakin tapa bilmirdi. "Bəlkə farmaşa girim, ya da keçəyə bürünüb çətənin böyründə dayanım? Nəmiyə girsəm necə olar?"
 
-Basqınçılar Cahandar ağanın dəyələrinə yaxınlaşdılar. Nökərlər comaq götürüb yolu kəsdilər. Əlbəyaxa vuruşma başladı. Ağac şaqqıldadı, xəncər cingildədi. Zərnigar xanım da, Salatın da başa düşdü ki, gələnlərin qabağını saxlamaq mümkün deyil.
+Basqınçılar Cahandar ağanın dəyələrinə yaxınlaşdılar. Nökərlər çomaq götürüb yolu kəsdilər. Əlbəyaxa vuruşma başladı. Ağac şaqqıldadı, xəncər cingildədi. Zərnigar xanım da, Salatın da başa düşdü ki, gələnlərin qabağını saxlamaq mümkün deyil.
 
 Qız birdən yorğanı üstündən atdı. Elə alt köynəkdə, ayaqyalın, başıaçıq bayıra qaçdı. Əvvəlcə dərəyə enmək istədi. Sonra dəyələrin qabağındakı palıd ağacının altına getdi. Birtəhər ağaca çıxmağı, orada, budaqların arasında gizlənməyi qərara aldı. Ancaq nə qədər çalışdısa, şaxdan yapışa bilmədi. Onun ayaqları əsir, əlləri titrəyirdi.
 
@@ -94,7 +94,7 @@ Onun əl-qol atıb çapalamağına fikir vermədilər. Yaxın gələnlərin üz-
 
 – Vay, evim yıxıldı, Əşrəf, qızı apardılar.
 
-Bu qışqırtını Əşrəfdən qabaq Əhməd eşidib dik atıldı. Şalvarını geyinməsi ilə tüfəngi götürüb dəyədən çıxması bir oldu. Birbaş səs gələn tərəfə yüyürdü. İtlər qayalığa basqın edirdilər. Sığırçılar hay-haray salmışdılar. Qarmaqarışıq səs gəlir, arabir at kişnəyirdi. Əhməd cığırla qayanın üst tərəfinə yüyürdü. Basqınçıların qabağını kəsmək istədi. Ancaq ondan qabaq özünü yetirən Əşrəf qayalığa dalbadal iki güllə atdı. At kişnədi. Basqınçılar da güllə atdılar. Əhməd qayalıqda ayaq üstə dayanan Əşrəfi dartıb yerə yıxdı. Tövşuyə-tövşüyə soruşdu:
+Bu qışqırtını Əşrəfdən qabaq Əhməd eşidib dik atıldı. Şalvarını geyinməsi ilə tüfəngi götürüb dəyədən çıxması bir oldu. Birbaş səs gələn tərəfə yüyürdü. İtlər qayalığa basqın edirdilər. Sığırçılar hay-haray salmışdılar. Qarmaqarışıq səs gəlir, arabir at kişnəyirdi. Əhməd cığırla qayanın üst tərəfinə yüyürdü. Basqınçıların qabağını kəsmək istədi. Ancaq ondan qabaq özünü yetirən Əşrəf qayalığa dalbadal iki güllə atdı. At kişnədi. Basqınçılar da güllə atdılar. Əhməd qayalıqda ayaq üstə dayanan Əşrəfi dartıb yerə yıxdı. Tövşüyə-tövşüyə soruşdu:
 
 – Nə olub?
 
@@ -112,7 +112,7 @@ Atışma başlandı. Basqınçılar bir xeyli qayaların ətrafında fırlandıl
 
 Əhməd Əşrəfi o tərəfdə, dağın döşündə tapdı. O doluxsunmuşdu.
 
-– Aradan çıxdılar, Əhməd lələ, indi nə eleyək, qız əldən getdi!
+– Aradan çıxdılar, Əhməd lələ, indi nə eləyək, qız əldən getdi!
 
 – Dallarınca düşmək lazımdır.
 
@@ -172,7 +172,7 @@ Allahyar əlini cibinə saldı. Əvvəlcədən ayırıb hazırladığı pulu ç�
 
 – Bir sözdü, deyirəm, fikirləş.
 
-Allahyar qarşısında dayanan adamın saçaqlı papağına, tüklü sifətinə baxdı. Bir xeyli tərıddüd içində dayandı. Onun fikrindən nələr keçirdiyini bilmək istədi. Həsən ağa araya çökən sükutu zarafatyana tərzdə pozdu:
+Allahyar qarşısında dayanan adamın saçaqlı papağına, tüklü sifətinə baxdı. Bir xeyli tərəddüd içində dayandı. Onun fikrindən nələr keçirdiyini bilmək istədi. Həsən ağa araya çökən sükutu zarafatyana tərzdə pozdu:
 
 – Kişini yola sal, könlü balıq istəyən gərək suya girsin.
 

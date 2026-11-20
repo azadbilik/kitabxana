@@ -11,7 +11,7 @@ order: 87
 sourceNote: 'https://www.kitabxana.net/files/books/file/1259951834.pdf#page=111'
 status: DRAFT
 ---
-Məcmuəmizin 12-ci nömrəsində yazmışdıq ki, poçtxana məcmüəmizin bir nüxsəsini Bakıdan kənara göndərməyə iki milyon yarım istəyir, “Yeni yol” qəzetinə iki milyon istəyir.
+Məcmuəmizin 12-ci nömrəsində yazmışdıq ki, poçtxana məcmüəmizin bir nüsxəsini Bakıdan kənara göndərməyə iki milyon yarım istəyir, “Yeni yol” qəzetinə iki milyon istəyir.
 
 İndi Qax şəhərindən bizə yazırlar ki, məcmuəmizə abunə olmaq Qax əhalisinə mümkün deyil; çünki abunə olanlar hər həftə poçtxanaya gərək on milyon poçt xərci verələr. Həmin Qax şəhərindən yenə birisi idarəmizə dörd dənə məqalə bir paket içində göndərib yazır ki, bu məqalələri bir qabda göndərmək ondan ötrüdür ki, poçt xərci çox bahadır.
 

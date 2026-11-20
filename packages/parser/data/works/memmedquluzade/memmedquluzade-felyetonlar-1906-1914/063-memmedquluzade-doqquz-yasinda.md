@@ -33,7 +33,7 @@ Və sonra da eşitdim ki, anası Səkinəni genə bir xubunca döyüb.
 
 Ay hacı, qadan alım, bir gün mən genə sənin akoşkavun qabağından keçirdim və sən genə oxuyurdun.
 
-Yalın ki, ağardı sənə müşatqi-zən olmaz,
+Yalın ki, ağardı sənə müştaqi-zən olmaz,
 Rəftarına ya söhbətinə heç dözən olmaz,
 Başdan ayağa yaşilü alə bəzən, olmaz,
 Bostanda çürür, rəğbət edib, bir üzən olmaz,

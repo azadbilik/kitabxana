@@ -107,7 +107,7 @@ Qapıçı Dəli Şahzadənin və müavinlərinin üstündən baş doktorun palta
 
 Qapıçı. Allah sənə insaf versin; yəqin ki, dünya aləmi biabır elədin. Bizim də evimizi yıxdın. Bilirəm, bu işin üstə baş doktor ikimizi də qulluqdan çıxardacaq.
 
-Bundan sonra hər üçünün qolundan yapışıb, aparır qatır dəli kişilər söbəsinə.
+Bundan sonra hər üçünün qolundan yapışıb, aparır qatır dəli kişilər şöbəsinə.
 
 Şəhər nəzarətçisi (qapıçılara). Çox qəribə. Bəs, bunlar məgər doktorlar deyil ki? Biz elə güman edirik bunlar həqiqətdə həkimdirlər. Ancaq keflənib, düşüblər küçələrərə.
 
@@ -115,7 +115,7 @@ Qapıçı. A kişi, Allah bunların evini yıxsın. Həkim hansıdır, üçü d�
 
 Şəhər nəzarətçisi (bir qədər fikir eləyir). Bu, yaxşı iş olmadı. Necə sizin üçün və bütün xəstəxana üçün bu bir intizamsızlığa dəlalətdir, habelə bizim şəhər nəzarəti üçün böyük bir əsbabi-zəhmət olacaq. Bu səbəbdən ötrü şəhərdə bu saat böyük bir vəlvələ var.
 
-Caamat hay-küy salır. Qeyrətmənd, Millətpərəst və Azaditələb – bunlar yumruqlarını qapıçılara tərəf tutub, uca səs ilə hədələyirlər.
+Camaat hay-küy salır. Qeyrətmənd, Millətpərəst və Azaditələb – bunlar yumruqlarını qapıçılara tərəf tutub, uca səs ilə hədələyirlər.
 
 Şəhər nəzarətçiləri (Camaata). Vətəndaşlar! Xahiş olunur, coşmayasınız! Hər nə eləyirsiniz, qanundan çıxmayasınız.
 

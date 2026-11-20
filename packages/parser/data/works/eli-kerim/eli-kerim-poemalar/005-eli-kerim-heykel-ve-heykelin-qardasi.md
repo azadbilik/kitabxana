@@ -430,7 +430,7 @@ Küçələri titrədir
 "Zonder-yunq" dəstələri.
 Bu ötkəm,
 şıq geyimli,
-Addmıları müqəyyəd
+Addımları müqəyyəd
 
 Gənclər səhərdən bəri.
 Hitler - onlara günəş,
@@ -872,7 +872,7 @@ hara gedir
 Vzvodunu başsız qoyub
 vuruşmanın yansından?!
 Al qan axır su yerinə.
-Qan qarışib bir-birinə.
+Qan qarışıb bir-birinə.
 Suda yağı qanı da var;
 Qan qarışır qanımıza.
 Əsgər içər yad qanını
@@ -923,7 +923,7 @@ təmənnası.
 Var çiynində
 Cəmilin
 çiyninin xoş təması.
-Kənddə bir kəs də bilrnir
+Kənddə bir kəs də bilinir
 O vuruşmuşdur necə,
 Fris öldürüb neçə.
 Ağır, ya asan idi
@@ -1054,7 +1054,7 @@ Heykəl olub qalmamış.
 Əhməd deyir:
 – Sənin heç bir əmrini
 Yerə salmamışam mən.
-Qəm eləmə, nə oslun,
+Qəm eləmə, nə olsun,
 orden almamışam mən.
 Rahat ol, ay əzizim,
 barı heykəlliyində.

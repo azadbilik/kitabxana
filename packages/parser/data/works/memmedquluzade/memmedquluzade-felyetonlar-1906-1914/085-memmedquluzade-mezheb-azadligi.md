@@ -15,7 +15,7 @@ Müsəlman vəkillərinə nəsihət
 
 Ey dumada olan müsəlman vəkilləri, and verirəm sizi öz insafınıza, bircə dəqiqəliyə mənim bu sözlərimə qulaq verin və qoca Mollanın nəsihətini qəbul edin.
 
-Eşitmişəm ki, duma çalışır Rusiyada məhzəb azadlığı olsun; yəni hər bir kəs hansı məzhəbdən hansı məzhəbə istəsə keçə bilsin və eşidirəm ki, hökumət də istəyir buna razı olsun və bunu da eşidirəm ki, siz, yəni müsəlman vəkilləri də buna razısınız. Amma mən bircə bunu bilmirəm ki, siz bu işə razılıq verəndə ağlınız harada idi?
+Eşitmişəm ki, duma çalışır Rusiyada məzhəb azadlığı olsun; yəni hər bir kəs hansı məzhəbdən hansı məzhəbə istəsə keçə bilsin və eşidirəm ki, hökumət də istəyir buna razı olsun və bunu da eşidirəm ki, siz, yəni müsəlman vəkilləri də buna razısınız. Amma mən bircə bunu bilmirəm ki, siz bu işə razılıq verəndə ağlınız harada idi?
 
 Kişi, nə qayırırsınız?! Sizin ki, dünyadan xəbəriniz yoxdur, nə ixtiyarınız var özünüzü müsəlman vəkili hesab edib, bu dərəcədə bizə xəyanət edəsiniz?! Yəni bilirsinizmi ki, məzhəb azadlığı nədir?
 

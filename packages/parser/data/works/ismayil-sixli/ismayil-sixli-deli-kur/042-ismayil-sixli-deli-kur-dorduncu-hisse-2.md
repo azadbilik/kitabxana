@@ -34,7 +34,7 @@ Mina xalanın kölgəsi divarda bir xeyli titrədi. Sinəsi bulud kimi boşalıb
 
 Elə bil bu göz yaşları onu yüngülləşdirdi. Arvad ağır yük altından çıxmış kimi ayağa durdu. Ərinin paltarını gotürüb taxtın üstünə qoydu. Oğlunun əyninə gəlib-gəlməyəcəyini gözəyarı ölçdü. Xəyalən Osmanı atası ilə yanaşı qoydu. Osman onun çiynindən idi. Çuxanı geyinsə ətəyi yerlə sürünəcəkdi, şalvar da boğazına çıxacaqdı. Bəs nə etsin? Bəlkə qayçını götürüb kəssin, uşağı yuxudan qaldırıb onun üstünə ölçüb-biçsin? Səhərə qədər yatmayıb tiksin? Bəs Osman özü buna nə deyər?
 
-Mina xalanı yenidən fikir götürdü. O başa düşdü ki, oğlu anasınun fikri ilə razılaşmayacaq. Üstəlik onunla savaşıb uzaq səfərə küsülü gedəcək. Arvad köksünü ötürdü. Paltarları qatlayıb yenidən sandığa yaxınlaşdı. Nə isə tappıltı ilə yerə düşdü. Mina xala əyildi, əlinə yumşaq bir şey dəydi. İşığa gətirib baxdı. Barmaqları əsə-əsə kisənin ağzını açdı. Əli soyuq və yuvarlaq bir şeyə toxundu. Bu soyuq təmas arvadı titrətdi. Azacıq sonra isə həmin soyuqluq isindi, el bil Mina xalanın damarlarına ilıq qan vurdular. Arvadın bədəni qızışdı, gözləri işiqlandı. Çırağı yaxına çəkdi, ovcuna baxdı. Soyuq metal parıldadı.
+Mina xalanı yenidən fikir götürdü. O başa düşdü ki, oğlu anasının fikri ilə razılaşmayacaq. Üstəlik onunla savaşıb uzaq səfərə küsülü gedəcək. Arvad köksünü ötürdü. Paltarları qatlayıb yenidən sandığa yaxınlaşdı. Nə isə tappıltı ilə yerə düşdü. Mina xala əyildi, əlinə yumşaq bir şey dəydi. İşığa gətirib baxdı. Barmaqları əsə-əsə kisənin ağzını açdı. Əli soyuq və yuvarlaq bir şeyə toxundu. Bu soyuq təmas arvadı titrətdi. Azacıq sonra isə həmin soyuqluq isindi, el bil Mina xalanın damarlarına ilıq qan vurdular. Arvadın bədəni qızışdı, gözləri işıqlandı. Çırağı yaxına çəkdi, ovcuna baxdı. Soyuq metal parıldadı.
 
 "Görünür, sən məndən tədbirlisənmiş, a kişi, cibində pul gizlədib dar günə saxlayırsanmış. Elə bil sümüyün duyubmuş ki, bir gün oğlun məktəbə gedəcək, ona xərclik lazım olacaq. Sən nə yaman yerdə harayıma çatdın, a kişi, mən başı batmışsa səni etibarsız bilirdim".
 
@@ -52,7 +52,7 @@ Gəmi yarğanın dibində idi. Xırdaca ləpələr onu yırğaladıqca, təknəy
 
 Qoca kişi gəminin kəndirini yoxladı. Suyun daşıb-daşmadığını bilmək üçün sahilə, yarğanın dibindəki ləpədöyənə baxdı. Ağac qırıntıları vo boz köpük zehi əvvəlki yerində idi. Kişi solğunlaşan ulduzlara fikir vermədən atılıb gəmiyə mindi. Çəpi, kürəyi yoxladı. Dal tərəfə keçib heybəni götürdü. Bir tayı yarımçıq qalmış çarığı çıxartdı. Bizi, kövşəni əlinə aldı.
 
-Dünən yuxarıdakı dağ kəndlərindən gəmi ilə keçirdiyi kəndlilərdən bir ona bir cüt gön vermişdi. Kişinin ayağı yalın idi. Bu gön onun əlinə göydən düşmüşdü. Qoca kişi qaranlıq qarışan kimi ocağın işığında gonü köyşələmiş və özünə çarıq tikməyə başlamışdı. Ancaq ağcaqanadlar ona aman verməmişdi.
+Dünən yuxarıdakı dağ kəndlərindən gəmi ilə keçirdiyi kəndlilərdən bir ona bir cüt gön vermişdi. Kişinin ayağı yalın idi. Bu gön onun əlinə göydən düşmüşdü. Qoca kişi qaranlıq qarışan kimi ocağın işığında günü köyşələmiş və özünə çarıq tikməyə başlamışdı. Ancaq ağcaqanadlar ona aman verməmişdi.
 
 Qoca kişi çarığı götürdü. Suvadağa adamlar gələnə qədər tikib geymək istədi. Gün xeyli qalxdı. Yarğanın kölgəsi geri çəkildi. Sular qızardı. Kişi heç nəyə fikir vermədi. Çarığı tikib qurtardı, şirincə gərnəşib bərkdən əsnədi. Ayağını qurulayıb çarığın bir tayını geydi. Elə bu vaxt yarğanın qaşından onu səslədilər. Kişi əlinin üstə qoyub baxdı. Dikdirdə dayananların içində qardaşı oğlu Osmanı görəndə bir xeyli təəccüb etdi. Mina xala, Əşrəf, Əhməd və kəndin arvad-uşağı da yarğanın qaşında idi. Qoca kişi birdən-birə hər şeyi başa düşdü. Çarığı soyundu. Cütləyib kənara qoydu. "Deyəsən qocalıq məni yaman üstələyib, uşaqların uşkola gedəcəyini lap yadımdan çıxartmışam. Gərək Osmanın yoluna bir şey tapaydım".
 
@@ -114,9 +114,9 @@ Uşaqlar hərəkətə gəldilər. Gülüşdülər. Səlim dil altında qalmadı:
 
 – Qoca dayı, yol üstündəyik, bizə sataşma.
 
-– Söz güləşdirmə, a nişanlisı göyçək, sonra gecikərik.
+– Söz güləşdirmə, a nişanlısı göyçək, sonra gecikərik.
 
-Rüstəm kişi qabağa gəldi, əlini uzadib kəndirdən yapışdı:
+Rüstəm kişi qabağa gəldi, əlini uzadıb kəndirdən yapışdı:
 
 – Uşaqlarda işin olmasın, özümüz çəkərik, qoy ayaqları islanmasın.
 

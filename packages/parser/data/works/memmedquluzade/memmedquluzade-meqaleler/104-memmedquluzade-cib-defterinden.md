@@ -26,7 +26,7 @@ Təbrizdə şəkildən ötrü tema: Teatr qaranlıq, səhnədə yapışıblar re
 
 Ziyarətə gedən dövlətlilərdən ki, qabağını seyidlər kəsib tapança gücü ilə pul alırlar, haqlıdırlar; zira ki, fəqir-füqəranı burada ac qoyub pulları ziyarət müsafirətinə xərc etmək rəva deyil.
 
-Gedənlərdən çoxları aclıq ilində min-mıin tümən qazananlardır. Mirzə Cavad ağa, Hacı Mirzə Cavadın nəvəsi, Malik, çox dövlətli, doqquz nəfər erməni müştərisi ki, araq çəkir və neçə dəllaləsi...
+Gedənlərdən çoxları aclıq ilində min-min tümən qazananlardır. Mirzə Cavad ağa, Hacı Mirzə Cavadın nəvəsi, Malik, çox dövlətli, doqquz nəfər erməni müştərisi ki, araq çəkir və neçə dəllaləsi...
 
 Hacı Məhəmməd Cəfər İsfahani, Xiyaban qapısında, xəsis bir dövlətmənd.
 

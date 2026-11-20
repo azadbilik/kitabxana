@@ -29,7 +29,7 @@ Filhəqiqə, bu nə sirdir? Nədir bunun hikməti ki, min üç yüz illik müdd�
 
 * * *
 
-Camaatimüsliminin həmin səfahəti müddəti mütəmadi bir çox qərb və şərq hükəmasının bu məsələyə tədqiq və təvəccöhünə səbəb oublar. Xah Amerika misyonerləri xah bəhayi mübəlliğələri bu möcüzənin əsrarının mənbə və mənşəyinə dəfələrlə diqqət yetirmək istəyiblər. Bunlar filhəqiqə bu vaxtadək bu sirri yenə kəşf edə bilməyiblər ki, aya, camaati-müsliminin hər bir sinifinin, hər bir təbəqəsinin, axundun, müəllimin, seyidin, baqqalın və hətta tərbxorun və oğrunun oruca bu dərəcədə müti, bu dərəcədə giriftar, bu dərəcədə bənd olmalarına səbəb nədir?
+Camaatimüsliminin həmin səfahəti müddəti mütəmadi bir çox qərb və şərq hükəmasının bu məsələyə tədqiq və təvəccöhünə səbəb olublar. Xah Amerika misyonerləri xah bəhayi mübəlliğələri bu möcüzənin əsrarının mənbə və mənşəyinə dəfələrlə diqqət yetirmək istəyiblər. Bunlar filhəqiqə bu vaxtadək bu sirri yenə kəşf edə bilməyiblər ki, aya, camaati-müsliminin hər bir sinifinin, hər bir təbəqəsinin, axundun, müəllimin, seyidin, baqqalın və hətta tərbxorun və oğrunun oruca bu dərəcədə müti, bu dərəcədə giriftar, bu dərəcədə bənd olmalarına səbəb nədir?
 
 Bu suallara bu axır vaxtlarda bir növ sakitedici, bir növ məntiqli və sübutlu cavabı Hindistanın Kəlküttə şəhərində yaşayan, sabiq “Həblülmətin” qəzetəsi mühərrirlərindən məşhur ədib və filosof Feyzulla Əl- Ələvi Bombeydə təzə çap etdiyi risaləsində verir. Məzkur mühərrir belə yazır.
 

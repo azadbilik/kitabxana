@@ -53,7 +53,7 @@ Mir Kərim ağa bu işlərin cəmisini adbaad yazıb: yəni əvvəl nə eləmək
 
 Xülasə, hamısını da utanıram deməyə, amma qazı cənabları nədənsə utanmayıb.
 
-Sözümüz yoxdur ki, Hacı Zeynalabdın cənabları xərc çəkib, Qazı Mir Kərim ağanın təfsirini çapdan çıxardıb ki, satılan kitabların pulu qazıya çatsın; amma biz bunu deyirik ki, əgər bu təfsiri millətimiz üçün hacı cənabları mənfəətli bilirsə, qoy elədə razı olsun həmin kitabı bir nəfər Allah bəndəsi vursun qoltuğuna, gəlsin cənablarının əhli-xanəsinin içində yuxarıda ad ıerdiyimiz 587, 588-ci səhifələri oxusun. Əgər hacı cənabları razı olsa, o özgə bir işdir. Amma razı olmasa (və yəqin ki, razı olmaz, çünki heç bir həyalı üçün razı ola bilməz), bəli, əgər razı olmasa, o vədə biz məsləhət görürük ki, hacı cənabları qazını çağırıb desin:
+Sözümüz yoxdur ki, Hacı Zeynalabdın cənabları xərc çəkib, Qazı Mir Kərim ağanın təfsirini çapdan çıxardıb ki, satılan kitabların pulu qazıya çatsın; amma biz bunu deyirik ki, əgər bu təfsiri millətimiz üçün hacı cənabları mənfəətli bilirsə, qoy elədə razı olsun həmin kitabı bir nəfər Allah bəndəsi vursun qoltuğuna, gəlsin cənablarının əhli-xanəsinin içində yuxarıda ad verdiyimiz 587, 588-ci səhifələri oxusun. Əgər hacı cənabları razı olsa, o özgə bir işdir. Amma razı olmasa (və yəqin ki, razı olmaz, çünki heç bir həyalı üçün razı ola bilməz), bəli, əgər razı olmasa, o vədə biz məsləhət görürük ki, hacı cənabları qazını çağırıb desin:
 
 – Ağayi-mən, zina iki qismdir: biri zinayi-qeyri-mühəssən, birisi də zinayi-mühəssən.
 

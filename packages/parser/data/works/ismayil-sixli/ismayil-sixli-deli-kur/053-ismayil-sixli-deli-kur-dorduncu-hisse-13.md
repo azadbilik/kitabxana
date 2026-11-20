@@ -16,7 +16,7 @@ Zər paqonlu cavan bir zabit meşin çəkilmiş qapını açıb Semyonovu içər
 
 Kim isə öskürdü. Semyonov astaca addımlarla küncə doğru irəlilədi. İri yazı masasının önünə çatanda kürsüdə əyləşən qubernatoru gördü və azacıq əyilib təzim etdi. Qubernator ona başını tərpətməklə cavab verdi və əli ilə işarə etdi ki, əyləşsin. Semyonov yumşaq stullardan birində oturdu və qarşısındakı kağızlara baxan qubernatora göz qoydu. Onun boyu balaca idi. Qıvrım saçları ağarmışdı. Hətta bəzi yerlər papiros hisinə düşmüş kimi saralmışdı. Çiynindəki paqonun zərli saçaqları astaca tərpənirdi. Qubernatorun bakenbardı az qala uzun bığlarına qarışmışdı. O sakit və qaraqabaq adama oxşayırdı.
 
-Semyonov qubernatoru süzdükdən sonra gözünü onun üzündən yayındırıb divara baxdı. Hər yer yağlı boya ilə rənglənmişdi. Həm də firça elə işlədilmişdi ki, adam divara suvaq yox, palıd ağacından qabıq çəkildiyini zənn edirdi. Qubernatorun başı üstündə imperatorun tavandan döşəməyə qədər divarı tutan iri şəkli asılmışdı. Həmin şəklin önündə qubernator lap balacalaşır və iri masa arxasında əyləşən bir oyuncağa dönürdü.
+Semyonov qubernatoru süzdükdən sonra gözünü onun üzündən yayındırıb divara baxdı. Hər yer yağlı boya ilə rənglənmişdi. Həm də fırça elə işlədilmişdi ki, adam divara suvaq yox, palıd ağacından qabıq çəkildiyini zənn edirdi. Qubernatorun başı üstündə imperatorun tavandan döşəməyə qədər divarı tutan iri şəkli asılmışdı. Həmin şəklin önündə qubernator lap balacalaşır və iri masa arxasında əyləşən bir oyuncağa dönürdü.
 
 Döşəməni neftlə sildiklərindən hava ağırlaşmışdı. İçəridəki bu kəsif qoxu və ağır sükut adamı darıxdırırdı. Üstəlik, küncdən iri saatın ahəngdar tıqqıltısı otağa hüznlü bir səs yayırdı.
 
@@ -68,7 +68,7 @@ Onun vəziyyəti çox ağırdır.
 
 – Mənə bir direktor kimi etimad edilməməsindən. Mən xahiş edirəm, göstəriş verəsiniz, bundan sonra bir daha tələbələrin və müəllimlərin izzət-nəfsinə toxunmasınlar. Elə bilirəm biz nə iş tutduğumuzu polislərdən yaxşı başa düşürük.
 
-Qubernator kürsüdə bir az yayxandı və gozünü qıyıb müsahibinə baxdı. Dmitri Dmitriyeviç də gözünü ondan çəkmədi. O nə qədər çalışdısa da, sifətinin bircə əzası belə tərpənməyən, soyuq baxışlı qubernatorun nə duşündüyünü, onun dedikləri ilə şərik olub-olmadığını müəyyənləşdirə bilmədi. Qubernator yenə əvvəlki kimi sakit və təmkinli idi. Ona görə də onun verdiyi sual Semyonov üçün çox gözlənilməz oldu.
+Qubernator kürsüdə bir az yayxandı və gözünü qıyıb müsahibinə baxdı. Dmitri Dmitriyeviç də gözünü ondan çəkmədi. O nə qədər çalışdısa da, sifətinin bircə əzası belə tərpənməyən, soyuq baxışlı qubernatorun nə düşündüyünü, onun dedikləri ilə şərik olub-olmadığını müəyyənləşdirə bilmədi. Qubernator yenə əvvəlki kimi sakit və təmkinli idi. Ona görə də onun verdiyi sual Semyonov üçün çox gözlənilməz oldu.
 
 – Peterburqdan çoxdanmı çıxmısınız?
 
@@ -138,7 +138,7 @@ Qubernator siyirtməni çəkdi. Xeyli eşələndikdən sonra iri bir şəkil ç�
 
 – Bunu tanıyırsınızmı?
 
-Dmitri Dmitriyeviç şəkli götürdü. Jiletinin döş cibindən eynəyini cıxardıb gözünə taxdı və diqqətlə baxdı:
+Dmitri Dmitriyeviç şəkli götürdü. Jiletinin döş cibindən eynəyini çıxardıb gözünə taxdı və diqqətlə baxdı:
 
 – Tanıyıram. Müəllimdir. Bizim seminariyaya tələbə gətirmişdi.
 
@@ -154,7 +154,7 @@ Semyonov şəklə baxdı. Təəccüblə çiyinlərini çəkdi. Sonra ayağa duru
 
 – Bunun oğlu Sizin seminariyada oxuyur. Özü isə meydanda at oynadıb bizim kazaklarla döşləşir. Heç kəsi tanımaq istəmir. Başa düşdünüzmü bunlar nə deməkdir, cənab Semyonov? Əgər onları vaxtında əzməsək, bizə qan uddurarlar. Unutmayın ki, biz buraya qoşunla, ordu ilə gəlmişik. Süngülər, kazak qılıncları, qalalar olmasa, bircə gün də hakimiyyəti əldə saxlaya bilmərik. Aydındırmı? Bizə Sizin maarif ordunuz yox, əli qılınclı kazak lazımdır.
 
-Qubernator dabanı üstə qalxıb bir-iki dəfə ləngər vurduqdan sonra keçib yerində əyləşdi. Dərhal əvvəiki kimi balacalaşdı və sakitləşdi:
+Qubernator dabanı üstə qalxıb bir-iki dəfə ləngər vurduqdan sonra keçib yerində əyləşdi. Dərhal əvvəlki kimi balacalaşdı və sakitləşdi:
 
 – Qəhvənizi için.
 
@@ -192,7 +192,7 @@ Semyonov əyri-üyrü küçələrdən, dar dalanlardan keçdi və özü də hiss
 
 Semyonov suyun axarı ilə xeyli irəlilədi və Metex qalasının bərabərində ayaq saxladı. O birinci dəfə görürmüş kimi qarşıdakı sahilə gözünü zillədi. Hündür yarğanın lap üstündə iki, üçmərtəbəli evlər tikilmişdi. Eyvanlar süzüb Kürün üstünə gəlmişdi. Külək dirəklərə bağlanmış iplərin üstünə sərilən paltarları havada oynadırdı. Adama elə gəlirdi ki, bu saat yarğanın torpağı axıb töküləcək, evlərin divarları qarınlanıb gurultu ilə suya düşəcək. Orada yaşamaq bir yana qalsın, kənardan tamaşa etmək insanı vahimələndirir. Ancaq bu evlərin sakinləri heç nəyi veclərinə almırdılar. Əksinə, suya baxan pəncərələri açıb qurşağa qədər sallanır, qonşularını səsləyib nə isə deyirdilər. Uşaqlar eyvanlarda qaçışırdılar.
 
-Semyonov bir xeyli sıldırım qayalıqlardakı qartal yuvalarını xatırladan bu evlərə baxdıqdan sonra gözünü Metex qalasına zillədi. Kilseyə oxşayan bu bina nəhəng bir qayanın üstündə tikilmişdi. Sal daşların ətəyini Kürün ləpələri yalayırdı. Sular özünü həmin qayaya çırpır, sonra da bunu əzilmiş kimi geri çəkilib yatağına qısılırdı. Qala divarlarının üstündə keşikçilər dolaşırdılar. Onlar açıq səmanın fonunda xırdaca qarışqalara bənzəyirdilər. Semyonov istər-istəməz Kipianini xatırladı. Ona elə gəldi ki, o, buradadır. Bəlkə dar barmaqlıqların arasından şəhərə boylanır? Bəlkə o da Semyonov kimi gözünü Kürün burulğanlı sularına zilləyib həsrətlə sahili seyr eləyir? Semyonov xəyalında yarğanın hündürlüyünü ölçdü: "Yəqin altmış arşın olar. Yox, lap çoxdur. Bəlkə də lap yüz arşındır? Görəsən, oradan atılıb suya düşmək olarmı? Adam qayalara dəyib parçalanmazmı? Yox, çətin işdir. Bu zindandan yaxa qurtarmaq heç ağlasığan iş deyil". Semyonov köksünü ötürüb yenidən qalanın zirvəsinə baxdı. Qüllənin arxasında səmanın açıq-maviyə çalan bir parçası görünürdü. Orada iki qartal qanad çalıb süzürdü. Onların kölgəsi bəzən qalanın üstünə düşür, bəzən də bərilərə gəlirdi.
+Semyonov bir xeyli sıldırım qayalıqlardakı qartal yuvalarını xatırladan bu evlərə baxdıqdan sonra gözünü Metex qalasına zillədi. Kilsəyə oxşayan bu bina nəhəng bir qayanın üstündə tikilmişdi. Sal daşların ətəyini Kürün ləpələri yalayırdı. Sular özünü həmin qayaya çırpır, sonra da bunu əzilmiş kimi geri çəkilib yatağına qısılırdı. Qala divarlarının üstündə keşikçilər dolaşırdılar. Onlar açıq səmanın fonunda xırdaca qarışqalara bənzəyirdilər. Semyonov istər-istəməz Kipianini xatırladı. Ona elə gəldi ki, o, buradadır. Bəlkə dar barmaqlıqların arasından şəhərə boylanır? Bəlkə o da Semyonov kimi gözünü Kürün burulğanlı sularına zilləyib həsrətlə sahili seyr eləyir? Semyonov xəyalında yarğanın hündürlüyünü ölçdü: "Yəqin altmış arşın olar. Yox, lap çoxdur. Bəlkə də lap yüz arşındır? Görəsən, oradan atılıb suya düşmək olarmı? Adam qayalara dəyib parçalanmazmı? Yox, çətin işdir. Bu zindandan yaxa qurtarmaq heç ağlasığan iş deyil". Semyonov köksünü ötürüb yenidən qalanın zirvəsinə baxdı. Qüllənin arxasında səmanın açıq-maviyə çalan bir parçası görünürdü. Orada iki qartal qanad çalıb süzürdü. Onların kölgəsi bəzən qalanın üstünə düşür, bəzən də bərilərə gəlirdi.
 
 Körpünün altından bir qayıq çıxdı. Suyun axan ilə irəlilədi. Semyonov onların geyimindən başa düşdü ki, gələnlər kintolardır. Qayın qalanın bərabərinə çatanda kintolardan biri çaxır tuluğunu havaya qaldırdı. Balabançılar nəyi inildətdilər. Qayıqdakılar xorla oxudular. Onların səsi sal daşlara toxunub parçalandı. Köpüklü sular qayığı bura-bura uzaqlaşdırdı.
 

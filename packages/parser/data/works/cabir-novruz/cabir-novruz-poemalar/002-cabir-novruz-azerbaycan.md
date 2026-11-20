@@ -225,7 +225,7 @@ Heç olmasa beş günlüyə azad quş oldu,
 Odlar görmüş həm o yanlı, bu yanlı xalqım…
 
 Heç olmasa əhval tutub danışa bildik,
-Öz doğmaca qardahımla bir lisanda biz.
+Öz doğmaca qardaşımla bir lisanda biz.
 Heç olmasa gəzə bildik, dolaşa bildik,
 Bu dünyanın cənnət bağı Gülüstanda biz…
 
@@ -258,7 +258,7 @@ Qovladılar, çıxartdılar o taydan bizi.
 Yuxarıdan hökm gəldi, sən hökmə bir bax…
 Bilə-bilə qoymadılar, qoymadılar ki,
 
-Bütbv vahid millət olaq, bir yerdə olaq…
+Bütöv vahid millət olaq, bir yerdə olaq…
 
 Qorxuludur hər millətin bütövü, tamı,
 Millət batır, millət itir parçalananda…
@@ -372,7 +372,7 @@ Səsim, ünüm, hay-harayım qaldı içimdə.
 Qədim Novruz bayramımız-familim, soyum,
 İllər ilə həbs edildi xalqın içində.
 
-Familimdən diksimdim də hərdən elə bil,
+Familimdən diksindim də hərdən elə bil,
 Amma qəlbə qürurlandım Novruz gələndə.
 Hamı gizli bayram etdi Novruzu hər il,
 Plov asdı, xonça tutdu bu əziz gündə…
@@ -419,7 +419,7 @@ Səhənd öldü hüzuruna gedə bilmədik.
 Yüz yol şəxsi işimizi varaqladılar,
 Günahımız, təqsirimiz nədi,-bilmədik…
 
-Yzeyir bəy gözlərini yumdu əbədi,
+Üzeyir bəy gözlərini yumdu əbədi,
 Uzaq-uzaq ellər gəlib gördü bu yası.
 O tərəfdən bir quş belə səkə bilmədi,
 Biz də kimi qanlı tutduq-yazıq Arazı.
@@ -683,7 +683,7 @@ Gözəl-gözəl yaylaqlardan endirib bizi,
 Tökürdülər odlu Muğan düzənlərinə…
 
 Deyirdilər, başlı başın saxlasın daha,
-Bu şoranlıq düzləri hara, o dablar hara?!
+Bu şoranlıq düzləri hara, o dağlar hara?!
 Bircə qurtum bulaq suyu ömürdən baha,
 Bircə udum dağ havası gəlməz xəyala…
 
@@ -761,12 +761,12 @@ Tez yığışdı dövrəsinə Bakı qızları,
 Hərə bir şey sual edib, soruşdu ondan…
 
 O, qızların hüzurunda çaşdı, duruxdu,
-Bir sadəlöhv, bir günahsız uşaqdı sanki…
+Bir sadəlövh, bir günahsız uşaqdı sanki…
 Qara saçlar ilahidən buruq-buruqdu,
 Ala gözlər bir sehirli bulaqdı sanki.
 
 Mən anamın gözlərindən başqa dünyada,
-Heç bir zaman o cür şəfaf göz görməmişdim…
+Heç bir zaman o cür şəffaf göz görməmişdim…
 Kəndimizdə qızlar vardı namuslu, sadə,
 Amma heç vaxt bu həyatda qız görməmişdim…
 
@@ -780,7 +780,7 @@ Bizə qonşu olanların ovudu onlar.
 Sonra bildim yurdsuzdu onlar, ünvansızdılar,
 Sonra bildim İrəvandan qovulub onlar…
 
-Bir dəhşətli heyran hissi üarandı məndə,
+Bir dəhşətli heyran hissi yarandı məndə,
 Elə bil ki, azıb qaldım duman içində.
 Pedaqoji məktəb varmış ana dilində,
 Bağlayıblar, dağıdıblar bir an içində.
@@ -805,7 +805,7 @@ Stol altda, pəncərədə yatır körpələr,
 Ər-arvad da bir-birini görmürlər əsla.
 
 Krantlarda ayda, ildə bir yol su gələr,
-Tarakanlar ədab-ərkan bilmirlər əsla.
+Tarakanlar ədəb-ərkan bilmirlər əsla.
 
 …Olurmuşlar İrəvanın düz ortasında,
 Dörd tərəfdə Azərbaycan məhəllələri…

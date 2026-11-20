@@ -31,7 +31,7 @@ Bakının işçi dairələrində, məsələn, Balaxanı, Suraxanı, Zabrat, Bibi
 
 “Molla Nəsrəddin” çalışacaq ki, o dairələrin gözüaçıq və düşüncəli işçiləri hamı bir yerdə söz qoyub aralarındakı molla, mərsiyəxan, fala baxan, rəml atan, dua yazan, cəddinin payını yığmaq üçün Ərdəbildən buraya gələnlərin hamısını aralarından, fəhlə dairələrindən çıxarıb qovlasınlar.
 
-“Molla Nəsrəddin” çalışacaq ki, 1930-cu ildə 15-20 illik stajı olan həqiqi zəhmətkeşlər öz haqlarını tanısınlar, sinfi duşmənlərini dostlarından ayıra bilsinlər.
+“Molla Nəsrəddin” çalışacaq ki, 1930-cu ildə 15-20 illik stajı olan həqiqi zəhmətkeşlər öz haqlarını tanısınlar, sinfi düşmənlərini dostlarından ayıra bilsinlər.
 
 “Molla Nəsrəddin” çalışacaq ki, təşkilatlaşmış işçilər öz aralarında apardıqları işləri sonra da mütəşəkkil olmayan şəhər əhalisinə, kəndlilərə də təbliğ etsinlər; onlar üçun nümunə olsunlar, onlara yol göstərsinlər, gözlərini açsınlar.
 

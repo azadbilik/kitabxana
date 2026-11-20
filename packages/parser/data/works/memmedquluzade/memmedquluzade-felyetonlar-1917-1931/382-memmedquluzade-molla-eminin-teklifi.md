@@ -39,7 +39,7 @@ Habelə islam tarixi. İslam tarixi hardan başlanır? Məhəmməd peyğəmbəri
 
 Xülasə... nəticəyə gələk. Sözün düzu, peyğəmbərlərin dalınca getmək və o tarixlərə tabe olmaq biz şura əsrinin insanları üçün ayıbdır. Bəs, nə edək?
 
-Büsbutünə tullamaq, köhnə tarixlərin üstunə qırmızı qələm çəkmək.
+Büsbutünə tullamaq, köhnə tarixlərin üstünə qırmızı qələm çəkmək.
 
 Sonra? Sonra neyləmək?
 

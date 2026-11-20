@@ -68,7 +68,7 @@ Məni yola saldılar
 Kiçik vağzala kimi.
 Nələr yoxdu gözlərdə:
 Acı qəmdən, kədərdən
-Şirin vusala kimi...
+Şirin vüsala kimi...
 O gözlərdə görürdüm
 Davaya qarşı dava,
 Ölümə qarşı ölüm,
@@ -321,7 +321,7 @@ nə də dindi,
 Baxdı mənə komandirim,
 Bildim çatıb növbəm mənim.
 Qalxdım dağa...
-İrəilyə baxa-baxa,
+İrəliyə baxa-baxa,
 Qəzəbimi boğa-boğa
 Dişlərimlə
 Nifrətimi sıxa-sıxa,

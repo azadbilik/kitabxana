@@ -66,7 +66,7 @@ Kasaoğlu çiynini çəkib gülümsündü.
 
 – Nə pambıq?
 
-– Kişisən, ə, özünü qanmaz yerinə qoyma. Planı qabaqca doldurmaq üçün məndən otuz ton pambıq almadınmı? İndi işin üstü açilıb.
+– Kişisən, ə, özünü qanmaz yerinə qoyma. Planı qabaqca doldurmaq üçün məndən otuz ton pambıq almadınmı? İndi işin üstü açılıb.
 
 Ya pambığı qaytar, ya da pulunu ver ki, yaxamızı qurtaraq. Yoxsa gurultu ilə gedirik fələyin xərcinə. Başa düşdünmü?
 
@@ -88,19 +88,19 @@ Ya pambığı qaytar, ya da pulunu ver ki, yaxamızı qurtaraq. Yoxsa gurultu il
 
 – Məni nə hədələyirsən? Əlində qəbzim-zadım var? Pambığı satıb yeyibsən, özün də cavabını ver.
 
-Qonaq papirosu sümürüb kölüyü hirslə yerə çırpdı.
+Qonaq papirosu sümürüb kötüyü hirslə yerə çırpdı.
 
 – Yaxşı, Kosaoğlu!.. Mən dedim köməkləşək, bu xatadan qurtaraq. İndi ki, belə oldu, məndən incimə.
 
 – Neyləyəcəksən?
 
-– Onu özüm bilərəm. Özümdən qabaq səni dama basdırmasam, atamın oğlu deyüəm.
+– Onu özüm bilərəm. Özümdən qabaq səni dama basdırmasam, atamın oğlu deyiləm.
 
 Kosaoğlu qorxuya düşdü.
 
 – Yaxşı, artıq-əskik danışma, kömək istəyirsən de, eləyim. Daha dünyanı başına niyə götürübsən? Sən get, mən özüm prokuroru görərəm.
 
-Qonaq yola düşəndən sonra Kosaoğlu evdə xeyli gəzindi. İndi o, haraya, kimin yanına getməli idi? Dərdini kimə deməli idi? Onun indi pənah gətirəcəyi yeganə adam var idisə, o da Əsədov idi. Deyəsən, axır vaxtlar o da yaxasını kənara çəkirdi. Hətta Kosaoğlunun özüilədə ehtiyatla danışırdi.
+Qonaq yola düşəndən sonra Kosaoğlu evdə xeyli gəzindi. İndi o, haraya, kimin yanına getməli idi? Dərdini kimə deməli idi? Onun indi pənah gətirəcəyi yeganə adam var idisə, o da Əsədov idi. Deyəsən, axır vaxtlar o da yaxasını kənara çəkirdi. Hətta Kosaoğlunun özüilədə ehtiyatla danışırdı.
 
 Kosaoğlu papirosu papirosun oduna yandırırdı. İndi mən neyləyim. Adamın bir gəlhagəli olur, bir də gethagedi. Görünür, mənim gethagedimdir. Mənə deyən gərək, ay axmaq məntəqədən pambıq alanmı olubsan? Keçən il işlər ayrı cür idi, anbar da, kassa da əlimdəydi. İndi kimdi məni özbaşına buraxan? Səhv elədim, gərək pambıq məsələsinə başımı qatmayaydım. Bir yandan da ki, bu Şahnaz günü-qara adımızı batırdı.
 
@@ -112,7 +112,7 @@ Sayalı otağa girdi. Ərinin üz-gözündən zəhər töküldüyünü görüb �
 
 – Nə oldu, gədəni yola gətirə bildinizmi?
 
-– Bir az yumşalan kimi olub, Şahnaz bütün günü dilə tutdu. Özüm qapının dalındatı pusurdum. Gədə əvvəlcə nəm-nüm elədi, qız əl çəkmədi. Dedi: "Gəl davasız-şavasız bu işi qurtaraq, yoxsa özümü öldürüb qanımı üstünə tökərəm". Kosaoğlunun səbri tükəndi:
+– Bir az yumşalan kimi olub, Şahnaz bütün günü dilə tutdu. Özüm qapının dalındakı pusurdum. Gədə əvvəlcə nəm-nüm elədi, qız əl çəkmədi. Dedi: "Gəl davasız-şavasız bu işi qurtaraq, yoxsa özümü öldürüb qanımı üstünə tökərəm". Kosaoğlunun səbri tükəndi:
 
 – Yaxşı, axırı nə oldu?
 

@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Nə vaxt görüşmüşük?
 Harda? Nə zaman?
-Doğrusu, elə bil yadmıdan çıxıb.
+Doğrusu, elə bil yadımdan çıxıb.
 Təbəssüm səhəri doğdu üzündən,
 Dayandın ehmalca əlimi sıxıb.
 

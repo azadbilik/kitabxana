@@ -19,7 +19,7 @@ Məsələn, “qiblənüma”, “rəhnüma”.
 
 “Qiblənüma” saat şəklində bir girdə şeydir ki, həmişə ona baxanda bilərik ki, qiblə hansı tərəfdədir.
 
-“Rəhnüma” yəni yol gösiərən. Demək olar ki, burada “nüma” – ”göstərən” mənasında işlənir. Necə ki, məsələn, “qiblənüma” – qibləni göstərən, “rəhnüma” – yol göstərən.
+“Rəhnüma” yəni yol göstərən. Demək olar ki, burada “nüma” – ”göstərən” mənasında işlənir. Necə ki, məsələn, “qiblənüma” – qibləni göstərən, “rəhnüma” – yol göstərən.
 
 * * *
 

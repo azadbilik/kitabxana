@@ -12,7 +12,7 @@ order: 8
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Qoca ağır-ağır yoxuşu qalxırdi. Əlindəki söyüd çubuğuna keçirdiyı balıqların pulları parıldayır və quyruqları açıq-çəhrayı rəngə çalırdı. Kişi yorulmuşdu. Tez-tez dayanıb nəfəsini dərir, çiynindəki əndırləri silkələyib kürəyinin ortasına atırdı. O, möhkəm islanmışdı. Dizi yamaqlı şalvarı, arxalığının altından görünən boynu qara sapla işlənmiş kirli alt köynəyi belə yaş idi. Çarıqlarını və iplik corabını soyunub əlinə almışdı. Gecəli-gündüzlü suda qaldığından ağappaq olan dabanını və codlaşmış ayaq barmaqlarını qızmış tozlu torpağa basdıqca, bədəninə istilik yayılırdı. O, iri, saçaqlı papağını boynunun dalına itələmişdi. Qırxıq başından buğ qalxırdı. Sinəsinə düşən ağ saqqalının pərakəndə tüklərini səhər küləyi oynadırdı.
+Qoca ağır-ağır yoxuşu qalxırdı. Əlindəki söyüd çubuğuna keçirdiyi balıqların pulları parıldayır və quyruqları açıq-çəhrayı rəngə çalırdı. Kişi yorulmuşdu. Tez-tez dayanıb nəfəsini dərir, çiynindəki əndırləri silkələyib kürəyinin ortasına atırdı. O, möhkəm islanmışdı. Dizi yamaqlı şalvarı, arxalığının altından görünən boynu qara sapla işlənmiş kirli alt köynəyi belə yaş idi. Çarıqlarını və iplik corabını soyunub əlinə almışdı. Gecəli-gündüzlü suda qaldığından ağappaq olan dabanını və codlaşmış ayaq barmaqlarını qızmış tozlu torpağa basdıqca, bədəninə istilik yayılırdı. O, iri, saçaqlı papağını boynunun dalına itələmişdi. Qırxıq başından buğ qalxırdı. Sinəsinə düşən ağ saqqalının pərakəndə tüklərini səhər küləyi oynadırdı.
 
 Kişi dayanıb nəfəsini dərdi. Bir xeyli Kürdə çimişən uşaqlara, yulğunluğa doluşan mal-qaraya baxdı. Öküzünün burada olub-olmadığını yoxladı. Sonra yenə yoluna davam etdi. Dikdirin qaşına çatanda bir dəstə uşaqla qarşılaşdı. Onların əllərində balaca qarmaqlar var idi.
 
@@ -76,7 +76,7 @@ Axı sənə yazığım gəlir.
 
 – Paçalama üstünə minib, tumanının bağı ilə səni boğar.
 
-Uşaqlar qəhqəhə çəkib gülüşdülor. Qoca kişi də onlara qoşuldu.
+Uşaqlar qəhqəhə çəkib gülüşdülər. Qoca kişi də onlara qoşuldu.
 
 – Ay haramzadalar, məni bağladınız. Gəlin, balıqları sizə verim, aparın nişanlınıza.
 
@@ -100,7 +100,7 @@ Yoxuşu çıxıb qaşı aşandan sonra dayandı. Təpələrdən əsib gələn ba
 
 Gəmiçi Qoca ətrafını ot basmış cığırla kəndin ucqarındakı evinə doğru addımladı. Onun qara damı torpaqdan güclə seçilirdi. Damın ətrafındakı kalafalıqları, xırman yerini, çardağın yanını ot basmışdı. Hətta qazmanın üstündə belə ot cücərmişdi. Arvadı Züleyxa ölənə qədər ev səliqəli olardı. Ancaq iki il idi ki, qarı rəhmətə getmişdi. Bundan sonra kişinin əl-ayağı soyumuşdu. O, həftələrlə evə baş sala bilmirdi. Əgər qızı Güləsər olmasaydı, bəlkə də aylarla gəminin yanında qalar, heç evə qayıtmazdı.
 
-O, düz bir həftə idi ki, evə gəlmirdi, binəyə köçənləri o taya, meşəyə, yaylağa hazırlaşanları isə bəri üzə, kəndə keçirirdi. Aldığı haqdan, pendirdən. çörəkdən yeyib, oralarda dolanırdı. Hərdənbir də uşaqlar ona balıq gətirirdiler. Əgər srağagün Güləsər onun yanına gəlməsəydi, bəlkə heç bu gün də evə qayıtmayacaqdı. Gəmiçi Qoca həm də heç olmasa, bir-iki gün dincəlməli idi. Axı bu gün-sabah el yaylağa qalxacaqdı. Meşədən köçüb gələn binələrin, qoyun sürülərınin, mal-qaranın sayı-hesabı olmayacaqdı. Onların çoxunu Qoca kişi öz gəmisində bəri üzə keçirməli idi.
+O, düz bir həftə idi ki, evə gəlmirdi, binəyə köçənləri o taya, meşəyə, yaylağa hazırlaşanları isə bəri üzə, kəndə keçirirdi. Aldığı haqdan, pendirdən. çörəkdən yeyib, oralarda dolanırdı. Hərdənbir də uşaqlar ona balıq gətirirdilər. Əgər srağagün Güləsər onun yanına gəlməsəydi, bəlkə heç bu gün də evə qayıtmayacaqdı. Gəmiçi Qoca həm də heç olmasa, bir-iki gün dincəlməli idi. Axı bu gün-sabah el yaylağa qalxacaqdı. Meşədən köçüb gələn binələrin, qoyun sürülərınin, mal-qaranın sayı-hesabı olmayacaqdı. Onların çoxunu Qoca kişi öz gəmisində bəri üzə keçirməli idi.
 
 Kəndin girəcəyində başını qaldırıb ətrafa baxdı. Güləsər taxılın içində pencər yığan qızlardan aralanıb atasına doğru gəlirdi. O, çit donunun ətəyini belinə sancmışdı. Ayaqları yalın idi. Yemlik yeməkdən əlləri və dodaqları bir az qaralıb, şabalıdı rəngə düşmüşdü. Çöllərin küləyi qızın yanağını cızmışdı. Dodaqları da qaysaqlanan kimi olmuşdu. Onun ətəyi dolu idi. Əlindəki bıçaq və dırnaqları nəm torpağa bulaşmışdı. Kişi qızını gorəndə sevindi. Ayaq saxladı. Güləsər bərabərinə çatanda gulümsündü:
 
@@ -108,7 +108,7 @@ Kəndin girəcəyində başını qaldırıb ətrafa baxdı. Güləsər taxılın
 
 – Sənə pencər dərirəm.
 
-– Mən də gör sənə nə gətirmışəm.
+– Mən də gör sənə nə gətirmişəm.
 
 – Bıy nə yaxşı balıqlardır, ay dədə, özünmü tutubsan?
 
@@ -132,7 +132,7 @@ Niyə dəymir, ay bala, özüm horradan-zaddan bişirirəm.
 
 O, əlindəki balıqları qızına verib qabağa keçdi. Güləsər atasının çatlamış dabanlarına baxa-baxa onun izi ilə getdi.
 
-Hər şey oyanmışdı. Yolun kənarındakı çiçəklərin üstünə qonan xallı kəpənəklər qanadlarını oynada-oynada şirə sorur, bəzən də havanın ətrindən xoşlanıb göyə qalxır və bir-biri ilə zarafatlaşır kimi çəmənlərin dərinliklərinə uçurdular. Onlarla bəhsə girən bal arıları güllərin başına dolanırdılar. Cığırlarda cığır salan qarışqalar harasa tələsir, əllərinə keçənləri daşıyıb yuvalarına doldururdular. Güləsər dayanıb baxdı. İki dozanqurdu mal təzəyini yumurlayıb aparırdı. Onlar başıaşağı durub, dal ayaqları ilə kürəciyi dığırlayırdılar. Bir-birini necə də başa düşür, necə də köməkləşirdilər! Arabir lap yaxından, Qoca kişinln az qala ayağının altından pırıltı ilə qalxan quşlar uçub qabağa düşür və bir xeyli cığırın ortasında səkirdilər. Bəli, yaz gəlmişdi. Bütün canlılar əlləşib işləyirdilər. Qəribə idi. Həmişə gül-çiçək içində üzən kəpənəklər necə də gözəl idilər. Onlar əziyyət çəkmir, səhərdən axşama qədər çiçəkdən-çiçəyə qonurdular. Amma qarışqalar, ya da təzək yuvarladan dozanqurdular əlləşirdilər...
+Hər şey oyanmışdı. Yolun kənarındakı çiçəklərin üstünə qonan xallı kəpənəklər qanadlarını oynada-oynada şirə sorur, bəzən də havanın ətrindən xoşlanıb göyə qalxır və bir-biri ilə zarafatlaşır kimi çəmənlərin dərinliklərinə uçurdular. Onlarla bəhsə girən bal arıları güllərin başına dolanırdılar. Cığırlarda cığır salan qarışqalar harasa tələsir, əllərinə keçənləri daşıyıb yuvalarına doldururdular. Güləsər dayanıb baxdı. İki dozanqurdu mal təzəyini yumurlayıb aparırdı. Onlar başıaşağı durub, dal ayaqları ilə kürəciyi dığırlayırdılar. Bir-birini necə də başa düşür, necə də köməkləşirdilər! Arabir lap yaxından, Qoca kişinin az qala ayağının altından pırıltı ilə qalxan quşlar uçub qabağa düşür və bir xeyli cığırın ortasında səkirdilər. Bəli, yaz gəlmişdi. Bütün canlılar əlləşib işləyirdilər. Qəribə idi. Həmişə gül-çiçək içində üzən kəpənəklər necə də gözəl idilər. Onlar əziyyət çəkmir, səhərdən axşama qədər çiçəkdən-çiçəyə qonurdular. Amma qarışqalar, ya da təzək yuvarladan dozanqurdular əlləşirdilər...
 
 Güləsər köksünü ötürdü və ondan xeyli aralanan atasının yorğun görkəminə tamaşa etdi. Kişi qocalıb əldən düşmüşdü. Güləsərin əlacı olsa, onu heç yana buraxmazdı. Özü qolunu çırmayıb ortaya atılardı. Amma neyləsin, qızın əlindən nə gələ bilərdi?
 
@@ -156,13 +156,13 @@ Kişi çiynindəki kəndiri həyətə atdı. İslanmış corablarını talvarın
 
 – A bala, elə yerə qoy ki, it-pişik aparmasın. Zəhrimar islanıb cılğıya dönüb.
 
-Güləsər atasının altı deşilmiş çarığını gözdən keçirdi və içəri adladı. Orta ocaqda korun-korun yanan kötüyün ucunu vurub qorlandırdı çır-çırpı yığıb üstünə tökdü. Ocaq tüstüləndi. Ətrafı boğaz acışdıran göyümsov bir tüstü bürüdü. Bu duman bir müddət laylanıb evin içinə çökdü və yavaş-yavaş orta bacadan burulub çıxdı. Qız bir-iki dəfə ocağı püflədisə, odun yanmadı. Güləsər göz yaşını və buruunu silib, uzun donunun ətəyi ilə ocağı yellədi. Kösövlər çatırdadı və birdən alışıb parıldadı. Tüstüdən nəfəsi kəsilən Güləsər eşiyə çıxdı.
+Güləsər atasının altı deşilmiş çarığını gözdən keçirdi və içəri adladı. Orta ocaqda korun-korun yanan kötüyün ucunu vurub qorlandırdı çır-çırpı yığıb üstünə tökdü. Ocaq tüstüləndi. Ətrafı boğaz acışdıran göyümsov bir tüstü bürüdü. Bu duman bir müddət laylanıb evin içinə çökdü və yavaş-yavaş orta bacadan burulub çıxdı. Qız bir-iki dəfə ocağı püflədisə, odun yanmadı. Güləsər göz yaşını və burnunu silib, uzun donunun ətəyi ilə ocağı yellədi. Kösövlər çatırdadı və birdən alışıb parıldadı. Tüstüdən nəfəsi kəsilən Güləsər eşiyə çıxdı.
 
 – Ay dədə, sənə pencərmi bişirim, balıqmı?
 
 – Pencər yaxşıdır. Heç bu il nübar eləməmişəm. İstəyirsən balığı da pörtdət.
 
-Çərkəz fırladıb o üz-bu üzünə baxdığı təkəri əlindən buraxdı. Təkər həyətin ortasında dığırlanıb bir-ikı dövrə vurdu və göy otluğa düşdü. Onun şini cingilti ilə çıxıb, təkərdən üç-dörd addım kanardakı çokəyə yuvarlandı. Çərkəz əlınin tozunu silib, taxtın üstündə oturan atasına yaxınlaşdı.
+Çərkəz fırladıb o üz-bu üzünə baxdığı təkəri əlindən buraxdı. Təkər həyətin ortasında dığırlanıb bir-ikı dövrə vurdu və göy otluğa düşdü. Onun şini cingilti ilə çıxıb, təkərdən üç-dörd addım kənardakı çokəyə yuvarlandı. Çərkəz əlinin tozunu silib, taxtın üstündə oturan atasına yaxınlaşdı.
 
 – Ay dədə, deyəsən, balıq tutmusan, hanı, göstər görüm?
 
@@ -188,9 +188,9 @@ Bir azdan yağda qızardılmış soğan iyi ətrafa yayıldı. Güləsər iri mi
 
 „Ay dədə, - dedi, - sarımsaqlı yaxşıdır. İştahan açılar. Balığa da asmışam. Bu saat hazır olar. Soyutma bişirirəm.
 
-Qoca kişi qızının bu mehribanlığına qarşı necə minnətdarlıq edəcəvini bilmədi. Ancaq onun üzünə baxıb gülümsəməklə kifayətləndi. Camı qabağına çəkib bardaş qurdu. Çörəkdən kəsib pencəri çömçələdi.
+Qoca kişi qızının bu mehribanlığına qarşı necə minnətdarlıq edəcəyini bilmədi. Ancaq onun üzünə baxıb gülümsəməklə kifayətləndi. Camı qabağına çəkib bardaş qurdu. Çörəkdən kəsib pencəri çömçələdi.
 
-Kisi quru çörəyi dişsiz damağında övkələdikcə çənəsi şaqqıldayır, gicsahlarındakı damarlar oynayırdı. O, tez-tez əyilib fətir götürən qızım gözaltı süzürdü. Güləsər böyümüşdü. Heç bir il bundan qabaqkı arıq, quru qıza oxşamırdi. Elə bil rəngi də ağarmışdı. Döşləri nimdaş qoftasını dik tuturdu. Kişi bunun fərqinə indi vardığından, təəccüblə ona baxır, deməyə söz tapmırdı. O indiyə qədər Güləsəri uşaq hesab edirdi. Amma bu gün elə bil yuxudan ayılmışdı.
+Kişi quru çörəyi dişsiz damağında övkələdikcə çənəsi şaqqıldayır, gicsahlarındakı damarlar oynayırdı. O, tez-tez əyilib fətir götürən qızım gözaltı süzürdü. Güləsər böyümüşdü. Heç bir il bundan qabaqkı arıq, quru qıza oxşamırdı. Elə bil rəngi də ağarmışdı. Döşləri nimdaş qoftasını dik tuturdu. Kişi bunun fərqinə indi vardığından, təəccüblə ona baxır, deməyə söz tapmırdı. O indiyə qədər Güləsəri uşaq hesab edirdi. Amma bu gün elə bil yuxudan ayılmışdı.
 
 Güləsər qardaşı ilə bir qabda xörək yeyirdi. Tez-tez şitlik edir, Çərkəzin qabağındakı pencəri çömçələyib götürürdü. Qardaşını cinləndirib xısın-xısın gülürdü. Kişi görürdü ki, qızı şuxluq edir. Zarafatlaşmaq, əzilib-büzülmək istəyir. Gözləri oyur-oyur oynayır. Yanaqları rəngdən-rəngə düşür. Güləsərdə ilk dəfə müşahidə etdiyi bu hal kişini hürkütdü. "Günü qara lap özünü açıb, - deyə xəyalından keçirdi, -indidən mazaqlaşmaq istəyir. Allah sizin damazlığınızı kəssin. Boyları bir qamçı olan kimi adamın belinə sıçrayırlar".
 

@@ -11,7 +11,7 @@ order: 21
 sourceNote: 'https://www.kitabxana.net/files/books/file/1262796743.pdf#page=138'
 status: DRAFT
 ---
-Türkiyə sultanlarına hələ XVIII əsrdə aydın olmuşdu ki, ümumiyyətlə, dövlət quruluşunda və xüsusilə-hərbi təsisatda olan anomaliya Turkiyənin mədəni inkişafını və habelə işğalçılıqdakı müvəffəqiyyətli hərəkətini ləngidir.
+Türkiyə sultanlarına hələ XVIII əsrdə aydın olmuşdu ki, ümumiyyətlə, dövlət quruluşunda və xüsusilə-hərbi təsisatda olan anomaliya Türkiyənin mədəni inkişafını və habelə işğalçılıqdakı müvəffəqiyyətli hərəkətini ləngidir.
 
 Böyük sərkərdələr Napalyon və Suvorov bütün dünyaya səs saldıqları zaman, onlardan birincisinin müzəffər qoşunları Misrə, digərininkilər isə Qərbi Avropaya hücum etdikləri zaman, nəhayət, türk qoşunları Avstriya və Rusiyanın birləşmiş qoşunları tərəfindən Serbiya və Rumıniyada büsbütün darmadağın edildikləri zaman dahi Sultan Səlim salis çox aydın başa düşdü ki, onun dövründəki dövlət quruluşu Türkiyə imperiyasını açıq-aşkar uçuruma doğru aparmaqdadır.
 
@@ -31,15 +31,15 @@ Midhət paşa elə görkəmli dövlət xadimlərindəndir ki, onlara mövcud qur
 
 O, mükəmməl Avropa təhsili alıb, bütün həyatını öz vətəninin dövlət məsələlərinə həsr etmiş və eyni zamanda yüksək inzibati vəzifələrdə olmuşdur. Onun dövlət işindəki fəaliyyəti heyrətamiz dərəcədə səmərəli keçmişdir. Məsələn, o, Bağdad mahalının general-qubernatoru vəzifəsində işlədiyi az bir müddət ərzində ölkənin mədəni və iqtisadi qüvvələrini lazımi yüksəkliyə qaldıra bilmişdir.
 
-O, bir inzibatçı kimi böyük nüfuz sahibi idi. Müstəsna natiqlik qabiliyyətinə malik olan Midhət paşada xüsusi bir təsir qüvvəsi vardı; o, coşğun başları sakitləşdirməyi baçardığı kimi, lazım gələndə bu başları oyadıb həyəcana gətirməyi də bacarırdı. Məsələn, Bolqarıstanı qan tökülmədən ram etməsi onun ən böyük şücaətlərindən biridir.
+O, bir inzibatçı kimi böyük nüfuz sahibi idi. Müstəsna natiqlik qabiliyyətinə malik olan Midhət paşada xüsusi bir təsir qüvvəsi vardı; o, coşğun başları sakitləşdirməyi bacardığı kimi, lazım gələndə bu başları oyadıb həyəcana gətirməyi də bacarırdı. Məsələn, Bolqarıstanı qan tökülmədən ram etməsi onun ən böyük şücaətlərindən biridir.
 
 Bütün həyatını xalq mənafeyinə xidmətə həsr edən və xalqın ehtiyac və tələblərinə yaxından bələd olan Midhət paşa, aydındır ki, çoxmilyonlu xalq kütlələrini əsarətdə saxlamış müstəbid sultan üsuli-idarəsinə laqeyd bir tamaşaçı kimi baxa bilməzdi. Və o, Avropa xalqları dövlət quruluşunun tarixini nəzərə aldıqda onda belə bir əqidə yarandı ki, onun həmvətənlərinin xoşbəxtliyi yalnız sultanın ali hakimiyyətinin istibdadını aradan qaldırmaq yolu ilə mümkün olar. Midhət paşa təkçə xalqın rəğbətinə deyil, habelə dövlətin bütün silahlı qüvvələrinə bel bağlayırdı.
 
-Bu dahi dövlət xadimi öz niyyyətində səhv etmirdi. Lakin bu yolda onun qabağına çıxa biləcək yeganə qorxunc qüvvə ali ruhanilik idi. Ruhaniliyin fitvası olmadan Midhət paşanın hər bir addımı, müqəddəs şəriətə görə, qəsbkarlıq hesab edilə bilərdi. Midhət paşa hərbi nazir Hüseyn Övni paşanın, bəhriyyə naziri Əhməd paşanın və baş qərargah rəisi, nüfuzlu general Süleyman paşanın razılığı ilə şeyxül-islam Xeyrəddin əfəndinin yanına gedir, qəti rədd cavabı aldıqda onu ölümlə hədələyib, fərmani-hümayunu imzalamağa məcbur edir. Fərmanda deyilirdi ki, “xalqın iradəsi və Allahın musaidəsi ilə sultanlıq taxtı ləyaqətsiz Sultan Əzizdən alınır, vətəndaşların sevimlisi Murad paşaya verilir və vətəndaşlara məşrutə quruluşu əta edilir”.
+Bu dahi dövlət xadimi öz niyyətində səhv etmirdi. Lakin bu yolda onun qabağına çıxa biləcək yeganə qorxunc qüvvə ali ruhanilik idi. Ruhaniliyin fitvası olmadan Midhət paşanın hər bir addımı, müqəddəs şəriətə görə, qəsbkarlıq hesab edilə bilərdi. Midhət paşa hərbi nazir Hüseyn Övni paşanın, bəhriyyə naziri Əhməd paşanın və baş qərargah rəisi, nüfuzlu general Süleyman paşanın razılığı ilə şeyxül-islam Xeyrəddin əfəndinin yanına gedir, qəti rədd cavabı aldıqda onu ölümlə hədələyib, fərmani-hümayunu imzalamağa məcbur edir. Fərmanda deyilirdi ki, “xalqın iradəsi və Allahın musaidəsi ilə sultanlıq taxtı ləyaqətsiz Sultan Əzizdən alınır, vətəndaşların sevimlisi Murad paşaya verilir və vətəndaşlara məşrutə quruluşu əta edilir”.
 
 Gecəyarısı Midhət paşa saraya gəlir. Hüseyn Övni paşa qoşunlarını saraya tərəf yeridib sarayı muhasirəyə alır.
 
-Əhməd paşa hərb gəmilərini Bosfora çəkir. Süleyman paşa sultanın bütün məiyyətini bir yerə yığır. Saraya birinci olaraq Midhət paşa daxil olur və şahzadə Murad paşanın qabağında dayanıb fitvanı ona oxuyur. Midhət paşanın işarəsi ilə yaylım salam atəşi açıldığı zaman Sultan Əziz cəld yatağından sıçrayıb pəncərədən bayıra baxır və şöhrətli ordusunun sıraya duzülmüş olduğunu görcək artıq işinin bitdiyini başa düşür.
+Əhməd paşa hərb gəmilərini Bosfora çəkir. Süleyman paşa sultanın bütün məiyyətini bir yerə yığır. Saraya birinci olaraq Midhət paşa daxil olur və şahzadə Murad paşanın qabağında dayanıb fitvanı ona oxuyur. Midhət paşanın işarəsi ilə yaylım salam atəşi açıldığı zaman Sultan Əziz cəld yatağından sıçrayıb pəncərədən bayıra baxır və şöhrətli ordusunun sıraya düzülmüş olduğunu görcək artıq işinin bitdiyini başa düşür.
 
 Türk tarixinin cahanşümul hadisəsi 1876-cı ildə bu cür vaqe oldu.
 

@@ -27,7 +27,7 @@ Xülasə, millət tüstü içində boğulmaqdadır! Və boğula-boğula nicata m
 
 – Hər bir vicdan sahibindən, hər bir həqiqi vətən dostundan, hər bir bəni-növi-bəşərə rəhmi gələnlərdən.
 
-Millət boğulur, tustülər milləti hər tərəfdən əhatə eləyib. Əgər dadü fəryada tez yetişməsəz, mümkündür ki, millətdən bir əsər dəxi qalmaya.
+Millət boğulur, tüstülər milləti hər tərəfdən əhatə eləyib. Əgər dadü fəryada tez yetişməsəz, mümkündür ki, millətdən bir əsər dəxi qalmaya.
 
 Tələsmək lazımdır.
 

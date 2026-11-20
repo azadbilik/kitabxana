@@ -37,7 +37,7 @@ yana.
 Saxlamalıydım ki,
 gecəbəgündüz
 Sən ona dərd verə,
-ezab verəsən.
+əzab verəsən.
 Həsrət aləminin
 dolaylarında
 yol göstərəsən.

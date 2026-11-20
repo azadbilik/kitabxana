@@ -11,7 +11,7 @@ order: 209
 sourceNote: 'https://www.kitabxana.net/files/books/file/1259951834.pdf#page=246'
 status: DRAFT
 ---
-Əvvəla deyirsən ki, Ağdam qəzasının Seyidli kəndinə gedən yollar əldən duşmüşdür: hara baxırsan kalandır. Gəlib-gedən kəndlilər əziyyət çəkirlər. Halbuki, bunu düzəltmək çox asandır; çunki kəndin yavuqluğunda daş və qum vardır. Camaata təklif olunsa, hərə bir araba gətirib, yola tökə bilər. Elə axırda da deyirsən ki, qəza kommunal şöbəsi tədbir görməlidir.
+Əvvəla deyirsən ki, Ağdam qəzasının Seyidli kəndinə gedən yollar əldən düşmüşdür: hara baxırsan kalandır. Gəlib-gedən kəndlilər əziyyət çəkirlər. Halbuki, bunu düzəltmək çox asandır; çunki kəndin yavuqluğunda daş və qum vardır. Camaata təklif olunsa, hərə bir araba gətirib, yola tökə bilər. Elə axırda da deyirsən ki, qəza kommunal şöbəsi tədbir görməlidir.
 
 Molla Nəsrəddin: bu sözlər boş sözdür, ondan ötru ki, insan hər işdə gərək zəhmət çəksin.
 

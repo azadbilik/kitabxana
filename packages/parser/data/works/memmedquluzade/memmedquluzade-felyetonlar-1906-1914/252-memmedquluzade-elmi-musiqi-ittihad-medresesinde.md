@@ -13,7 +13,7 @@ status: DRAFT
 ---
 “İttihad” mədrəsəsində elmi-musiqi xəbərini bakılı qardaşlar, söz yox, oxudular və bildilər ki, keçən cəmadiəl-əvvəl ayında “İttihad” əncüməni-xeyriyyəsində əksəriyyət ara ilə təlimi-musiqi təsdiq olundu.
 
-Qəzetdə bu müjdəni verəndən sonra, “İttihad” mədrəsəsinin müdiri mədrəsənin şagirdlərini təbrik edir və deyir ki, musiqi kimi ali və vəsi elmin təhsilinə çatıb xoşbəxt olacaqlar. Müdir cənabları təəssüf edir ki, mustiqinin həqiqi və dünyanın məişətində əlzəm ləvazimdən olduğu bizim üçün indiyədək aşkar olmayıb və islam ədibləri və fəlasifələri o qədər bu elmdə çalışıblar ki, heç millətdə bu qədər zəhmət çəkən yoxdur. Və hətta Avropa tarixi sübut edir ki, elmimusiqi Avropaya islamdan və İrandan sirayət eləyib.
+Qəzetdə bu müjdəni verəndən sonra, “İttihad” mədrəsəsinin müdiri mədrəsənin şagirdlərini təbrik edir və deyir ki, musiqi kimi ali və vəsi elmin təhsilinə çatıb xoşbəxt olacaqlar. Müdir cənabları təəssüf edir ki, musiqinin həqiqi və dünyanın məişətində əlzəm ləvazimdən olduğu bizim üçün indiyədək aşkar olmayıb və islam ədibləri və fəlasifələri o qədər bu elmdə çalışıblar ki, heç millətdə bu qədər zəhmət çəkən yoxdur. Və hətta Avropa tarixi sübut edir ki, elmimusiqi Avropaya islamdan və İrandan sirayət eləyib.
 
 Müdir cənablarının bu cür tərifi qəzetin bir uzun sütununu doldurub.
 
@@ -27,7 +27,7 @@ O ki, müdir həzrətləri buyururlar ki, elmi-musiqi Avropaya islamdan və İra
 
 Müdir cənabları buyurur ki, “islam ədibləri və fəlasifələri o qədər bu elmdə çalışıblar ki, heç millətdə bu qədər zəhmət çəkən yoxdur”.
 
-Müdir cənablarının bəxti o yerdə kəsıb ki, bakılılar özgə millətlərin musiqi elmindən və hər bir şeyindən bixəbərdilər. Amma elə qanıram ki, italiyalılar bu sözləri eşitsələr, elə bilərlər ki, müdir cənabları zarafat eləyir.
+Müdir cənablarının bəxti o yerdə kəsib ki, bakılılar özgə millətlərin musiqi elmindən və hər bir şeyindən bixəbərdilər. Amma elə qanıram ki, italiyalılar bu sözləri eşitsələr, elə bilərlər ki, müdir cənabları zarafat eləyir.
 
 * * *
 

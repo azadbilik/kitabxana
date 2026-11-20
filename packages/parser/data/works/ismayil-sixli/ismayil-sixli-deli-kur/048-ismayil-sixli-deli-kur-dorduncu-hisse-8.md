@@ -12,7 +12,7 @@ order: 48
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Əşrəf yuxudan ayılan kimi əlini sinəsinin üstünə apardı. Kitabı tapmadıqda yorğanı atib yerindən sıçradı. Yastığını qaldırdı, döşəyin altını yoxladı, gözünə heç nə dəymədi. Rəngi kağız kimi ağardı. Çarpayının dörd yanına fırlandı, əyilib aşağı baxdı, pəncərənin qabağını axtardı. "Bu necə ola bilər?" – deyə düşündü. Yoldaşlarını oyatmaq, onlardan bir-bir kitab görüb-görmədiklərini soruşmaq istədi. Ancaq ürək eləmədi. Axı bu kitabı ona gizlincə vermişdilər, özü də tapşırmışdılar ki, heç kəsə göstərməsin.
+Əşrəf yuxudan ayılan kimi əlini sinəsinin üstünə apardı. Kitabı tapmadıqda yorğanı atıb yerindən sıçradı. Yastığını qaldırdı, döşəyin altını yoxladı, gözünə heç nə dəymədi. Rəngi kağız kimi ağardı. Çarpayının dörd yanına fırlandı, əyilib aşağı baxdı, pəncərənin qabağını axtardı. "Bu necə ola bilər?" – deyə düşündü. Yoldaşlarını oyatmaq, onlardan bir-bir kitab görüb-görmədiklərini soruşmaq istədi. Ancaq ürək eləmədi. Axı bu kitabı ona gizlincə vermişdilər, özü də tapşırmışdılar ki, heç kəsə göstərməsin.
 
 Uşaqlar oyanana qədər Əşrəf yataqxananı bir də dolaşdı, gümanı gəldiyi yerlərin hamısını yoxladı. "Mən yerimə uzananda kitab əlimdə idi, axırıncı səhifələrini oxuyurdum. Görünür, yuxu məni aparıb, haçan yatdığımdan xəbərim olmayıb – deyə öz-özünə düşündü. – Kitab əlimdən düşsə yerin içində olardı, ya da çarpayının ətrafında. Bəs bu necə oldu? Yoxsa uşaqlardan biri götürüb? Bəlkə Firidun bilir, axı o bu gecə növbətçi idi?"
 
@@ -66,9 +66,9 @@ Birdən o, sözünə ara verdi. Kənardaca, Firidunun yanında dayanan Əşrəfi
 
 – Niyə qaş qabaqlısan?
 
-O, çiynini çəkib susdu. Kipiani tələbəsinin çənəsinin altından tutub yuxarı qaldırdı. Əşrəf yalnız indi onun sifətinə baxa bildi. Zəhmli, qəzəbli baxış əvəzinə gülümsər gözləri gördükdə bir azacıq sakitləşdi. Onun əlindən yapışıb üzr istəmək və müəllim, məni danlamayın, özum gedib kitabı geri alacağam. Ölsəm də Sizin adınızı vermərəm" – demək istədi.
+O, çiynini çəkib susdu. Kipiani tələbəsinin çənəsinin altından tutub yuxarı qaldırdı. Əşrəf yalnız indi onun sifətinə baxa bildi. Zəhmli, qəzəbli baxış əvəzinə gülümsər gözləri gördükdə bir azacıq sakitləşdi. Onun əlindən yapışıb üzr istəmək və müəllim, məni danlamayın, özüm gedib kitabı geri alacağam. Ölsəm də Sizin adınızı vermərəm" – demək istədi.
 
-Məktəbin zəngi aram-aram danqıldadı. Uşaqlar tərpənənə qədər Boris Mixayloviç Pettovun cır səsi eşidildi:
+Məktəbin zəngi aram-aram danqıldadı. Uşaqlar tərpənənə qədər Boris Mixayloviç Petrovun cır səsi eşidildi:
 
 – Xristianlar sağ tərəfə, müsəlmanlar isə sol tərəfə, ikibir düzlənin!
 
@@ -122,7 +122,7 @@ Petrovun cır səsi yenidən eşidildi:
 
 Tələbələr ayaq saxladılar. Petrov isə boynunu əyib, eynəyinin altından tərs-tərs Kipianiyə baxdı. O buna əhəmiyyət vermədi və üzünü uşaqlara tutdu:
 
-– Tarix dərnəyinın üzvləri ibadətdən sonra yanıma gəlsinlər. Məşğələmiz və bir balaca gəzintimiz olacaq.
+– Tarix dərnəyinin üzvləri ibadətdən sonra yanıma gəlsinlər. Məşğələmiz və bir balaca gəzintimiz olacaq.
 
 Petrov etiraz etdi:
 
@@ -168,7 +168,7 @@ Tələbələr nizami əsgər kimi iri addımlarla həyətdən çıxdılar. Xrist
 
 Əşrəf udqundu. Gözlərini zilləyib müəlliminə baxdı. Onun dediklərinin ciddimi, yoxsa zarafatını olduğunu bilmək istədi. Bu saat Kipianinin onun haqqında nələr düşündüyünü öyrənməyə çalışdı. Onun arzusu bu idi ki, müəllimi ona inansın, onu xain, xəbərçi hesab etməsin. Kipiani də öz növbəsində Əşrəfin baxışlarından onun nələr düşündüyünü öyrənməyə çalışırdı. O başa düşdü ki, uşaq həyəcanlıdır, narahatdır. Gözlərindən oxudu ki, peşmançılıqla xəcalət hissi bir-birinə qarışmışdır. Əşrəf iztirab çəkir, səhv bir iş tutduğundan utanır, həm də qorxur. Özü də onu narahat edən odur ki, başqasını fəlakətə sala bilər. Kipiani onu da başa düşdü ki, Əşrəf buraxdığı səhvini düzəltmək üçün hər şeydən keçməyə hazırdır.
 
-Aralığa çökən bu adi sükut Əşrəfə bir il qədər uzun göründü və o heç nə söyləmədən, heç nə danışmadan geri dönüb Kipianidən aralanmaq istədi. Ancaq müəllim onun qolundan tutub saxladi:
+Aralığa çökən bu adi sükut Əşrəfə bir il qədər uzun göründü və o heç nə söyləmədən, heç nə danışmadan geri dönüb Kipianidən aralanmaq istədi. Ancaq müəllim onun qolundan tutub saxladı:
 
 – Kitabı oxuyub qurtardınmı?
 

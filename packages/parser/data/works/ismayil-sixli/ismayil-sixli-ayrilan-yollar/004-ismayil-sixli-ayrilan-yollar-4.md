@@ -38,7 +38,7 @@ Ayağının altı qıdıqlananda Qurban özünü saxlaya bilmədi:
 
 – Bəs deyirdin qıdığım gəlmir? Gördün ki, səni güldürdüm, ay dayı,
 
-– Şahnazm iri, ala gözləri oynadı. – Niyə bikefsən, yoxsa sənə söz deyən olub? Allah vurmuşdu onları! Dayımın qabağında dillənənin dilini dibindən qopardaram!
+– Şahnazın iri, ala gözləri oynadı. – Niyə bikefsən, yoxsa sənə söz deyən olub? Allah vurmuşdu onları! Dayımın qabağında dillənənin dilini dibindən qopardaram!
 
 Qurban qımışdı.
 
@@ -56,7 +56,7 @@ Qurban yerini bir az da rahatladı.
 
 Şahnaz quş kimi yerindən sıçradı. Aftafa-ləyəni aparıb eyvana qoydu. Dərhal geri qayıdıb gəbənin üstünə süfrə saldı, samovarı stolun üstündən endirdi. Qurban mütəkkəyə dirsəkləndi.
 
-Sayalı tez-tez qonşu otağa gedir, qapıları taqqıldadır, xörəkləri daşıyıb süfrəyə düzürdü. Şahnaz nə isə danışır, tez-tez şaqqıldayıb gülür, qaşını oynadıb gözlərini süzdürür, dayısının kefini açırdi - Bu Sayalıya xoş gəlirdi. O, həmişə ərini hirsli görəndə Şahnazı qabağa verər, "bu qız ilanı da yuvasından çıxardar" - deyərdi. Sonra isə özü ərinin dizinin dibini kəsdirər, asta-asta söhbət edər, idarədə nələr olduğunu soruşardı. Kolxozda kimin nə iş gördüyü, haraya gedib, haradan gəldiyi haqqında ərindən məlumat alardı. Sonra ərinə məsləhət verər, kimi işdən çıxardıb, kimi işə təyin etməyin lazım gəldiyini söyləyərdi.
+Sayalı tez-tez qonşu otağa gedir, qapıları taqqıldadır, xörəkləri daşıyıb süfrəyə düzürdü. Şahnaz nə isə danışır, tez-tez şaqqıldayıb gülür, qaşını oynadıb gözlərini süzdürür, dayısının kefini açırdı - Bu Sayalıya xoş gəlirdi. O, həmişə ərini hirsli görəndə Şahnazı qabağa verər, "bu qız ilanı da yuvasından çıxardar" - deyərdi. Sonra isə özü ərinin dizinin dibini kəsdirər, asta-asta söhbət edər, idarədə nələr olduğunu soruşardı. Kolxozda kimin nə iş gördüyü, haraya gedib, haradan gəldiyi haqqında ərindən məlumat alardı. Sonra ərinə məsləhət verər, kimi işdən çıxardıb, kimi işə təyin etməyin lazım gəldiyini söyləyərdi.
 
 Qurban çox vaxt arvadının məsləhətindən çıxmazdı. Kişiyə elə gəlirdi ki, bu kənddə onu istəyən, işinə-gücünə kömək edən yeganə bir adam varsa, o da Sayalıdır. Sayalı onun hər dərdinə şərik olur, ərinin gündən-günə yüksəlməsini istəyirdi. əslinə baxsan, Qurbanın sağ qalıb, bu dərəcəyə çıxmasına səbəb Sayalı idi. O öz həyatını Sayalıya borclu bilirdi...
 
@@ -76,7 +76,7 @@ Arabir bəzi adam inciyəcəkdir,
 
 Müftəxor mollaları yandıracaqdır..."
 
-Cavanlar ona əl çalar. qocalar narazılıqla başlarını bulayar, "bu kişi qızını niyə özbaşına buraxıb?" – deyərdilər. Az sonra kənd arasında pıçildaşmağa, Sayalının haqqında cürbəcür sözlər danışmağa başladılar: dünən gecə filan yerdən keçirdi, filankəsin oğlu ilə mazaqlaşırdı. Sayalı isə rayon mərkəzində açılan altı aylıq müəllimlər knrsuna getməyə hazırlaşirdı. Ancaq bu, ona müyəssər olmadı.
+Cavanlar ona əl çalar. qocalar narazılıqla başlarını bulayar, "bu kişi qızını niyə özbaşına buraxıb?" – deyərdilər. Az sonra kənd arasında pıçildaşmağa, Sayalının haqqında cürbəcür sözlər danışmağa başladılar: dünən gecə filan yerdən keçirdi, filankəsin oğlu ilə mazaqlaşırdı. Sayalı isə rayon mərkəzində açılan altı aylıq müəllimlər knrsuna getməyə hazırlaşırdı. Ancaq bu, ona müyəssər olmadı.
 
 Bir axşam evə gələrkən, atasının yanında cavan, suyuşirin bir oğlan gördü. O, qonağa qulluq elədi, çay-çörək verdi. Gecədən xeyli keçdi. Qonaq getmədi. Atası Sayalını yanına çağırdı.
 
@@ -90,7 +90,7 @@ Sayalını elə bil ildırım vurdu. Atasının boynuna sarılıb ağladı, yalv
 
 – Əgər ölmək istəmirsən, səsini kəs! Yoxsa bu saat ayağımın altına salıb, dəli inək buzovunu ayaqlayan kimi ayaqlaram. Ya mən deyən olacaq, ya da səni tikə-tikə doğrayıb qapıdakı itlərə atacam.
 
-Sayalı ərə getdi. Ancaq onlar çox yaşamadılar. Evlənəndən bir-iki ay sonra oğlan gecələr başladı evə gəlməməyə. Bəzən günlərlə yox olurdu. Sayalı hərdənbir atasının da onunla getdiyini görürdü. O, bir neçə dəfə ərindən hara getdiklərini, gecələr nə iş gördüklərini soruşmuşdusa da, cavab ala bilməmişdi. Əri hirsli-hirsli ona baxıb, gözlərini bərəltmiş, "arvadsan, otur yerində, - demişdi, - kişinin işinə qarışma", - Sayalının atası da kürəkəninin tərəfıni saxlamış, "kişi arvada sırrini verməz" - demişdiz.
+Sayalı ərə getdi. Ancaq onlar çox yaşamadılar. Evlənəndən bir-iki ay sonra oğlan gecələr başladı evə gəlməməyə. Bəzən günlərlə yox olurdu. Sayalı hərdənbir atasının da onunla getdiyini görürdü. O, bir neçə dəfə ərindən hara getdiklərini, gecələr nə iş gördüklərini soruşmuşdusa da, cavab ala bilməmişdi. Əri hirsli-hirsli ona baxıb, gözlərini bərəltmiş, "arvadsan, otur yerində, - demişdi, - kişinin işinə qarışma", - Sayalının atası da kürəkəninin tərəfini saxlamış, "kişi arvada sirrini verməz" - demişdiz.
 
 Bir gün Sayalının ərini tutdular. Oğurlayıb kəsdiyi camışın gönünü onun çiyninə verib kəndin ortası ilə apardılar. Sayalı utandığından evdən bayıra çıxmadı. Uşaqların "oğru, oğru" - qışqırdıqlarını eşitməmək üçün pəncərəni bağladı...
 
@@ -164,11 +164,11 @@ Bir neçə gün sonra kəndə səs yayıldı ki, Qurban Sayalını aparıb... On
 
 İlk günlər Sayalı çox darıxdı. Evə baş sala bilmədi. Uşaqlara baxdıqca gözləri doldu. Hər gün doqqaza - poçtalyonun qabağına yüyürdü, Qurbandan gah hər gün məktub gəlir, gah da aylarla xəbər-ətər olmurdu. Onun məktubları həmişə şikayətlə dolu olurdu. Soyuğa, əziyyətə dözə bilmədiyini yazırdı. Sayalı hiss edirdi ki, əri döyüşdən çox evə qayıtmaq haqqında düşünür.
 
-Sayali bəzən gecə səhərə qədər yata bilmir, yerinə qor dolmuş kimi o üz-bu üzə çevrilirdi. Bayırda külək əsən kimi diksinir, adi bir taqqıltıdan oyanır, çox vaxt alt paitarında eşiyə çıxıb çovğuna, qara baxırdı. Qayıdıb yerinə girdikdən sonra da yata bilmirdi. "Görəsən indi hardadır? Bu soyuqda səngərdədir, düzdədir? Yazıq necə dözür? Sağ-salamat qayıdıb gələcəkmi?" O, hər gün qəzetlərə baxır, kənddə gedən söz-söhbətə qulaq verirdi. Kiminin yaralandığını, kiminin qəhrəmanlıqla vuruşub orden aldığını eşidir, onun da ürəyində şirin arzular doğurdu. Qurbanın haqqında şad xəbər eşilmək, bir qadın kimi əri ilə fəxr etmək istəyirdi.
+Sayali bəzən gecə səhərə qədər yata bilmir, yerinə qor dolmuş kimi o üz-bu üzə çevrilirdi. Bayırda külək əsən kimi diksinir, adi bir taqqıltıdan oyanır, çox vaxt alt paltarında eşiyə çıxıb çovğuna, qara baxırdı. Qayıdıb yerinə girdikdən sonra da yata bilmirdi. "Görəsən indi hardadır? Bu soyuqda səngərdədir, düzdədir? Yazıq necə dözür? Sağ-salamat qayıdıb gələcəkmi?" O, hər gün qəzetlərə baxır, kənddə gedən söz-söhbətə qulaq verirdi. Kiminin yaralandığını, kiminin qəhrəmanlıqla vuruşub orden aldığını eşidir, onun da ürəyində şirin arzular doğurdu. Qurbanın haqqında şad xəbər eşilmək, bir qadın kimi əri ilə fəxr etmək istəyirdi.
 
-Sayalı Qurbana ərə gedəndən sonra qəlbində qəribə bir hissin baş qaldırdığını duyurdu. O istəyirdi ki, əri adli-sanlı adam olsun, Sayalını barmaqla göstərib "filankəsin arvadıdır" desinlər. Amma hər dəfə məktub alanda Sayalı məyus olurdu. Qurban hey zarıyırdı.
+Sayalı Qurbana ərə gedəndən sonra qəlbində qəribə bir hissin baş qaldırdığını duyurdu. O istəyirdi ki, əri adlı-sanlı adam olsun, Sayalını barmaqla göstərib "filankəsin arvadıdır" desinlər. Amma hər dəfə məktub alanda Sayalı məyus olurdu. Qurban hey zarıyırdı.
 
-Sayalı əvvəlcə ürəyində onu asıb kəsir, "tabsız", hətta "qorxaq" deyə qarasına danışırdı. Bəzən də "neyləsin? - deyirdi, - yazıq çöl gorməmişdi". Gah da o, ərinin qayıtmayacağını təsəvvürünə gətirirdi. Belə hallarda körpələrinə baxıb dəhşətə gəlirdi. "Yox, qoy şikest olsun, iraq canından, bir qolu, bir qıçı olmasın, amma qayıdıb evinə gəlsin, balalarını yetim qalmasın" - deyirdi.
+Sayalı əvvəlcə ürəyində onu asıb kəsir, "tabsız", hətta "qorxaq" deyə qarasına danışırdı. Bəzən də "neyləsin? - deyirdi, - yazıq çöl görməmişdi". Gah da o, ərinin qayıtmayacağını təsəvvürünə gətirirdi. Belə hallarda körpələrinə baxıb dəhşətə gəlirdi. "Yox, qoy şikəst olsun, iraq canından, bir qolu, bir qıçı olmasın, amma qayıdıb evinə gəlsin, balalarını yetim qalmasın" - deyirdi.
 
 Qaranlıq bir qış gecəsində, bu cür qarmaqarışıq fikirlərdən sonra Sayalı yenicə yuxuya getmişdi ki, birdən itlər hürüşdü, sonra qapı döyüldü. O səksəkəli halda soruşdu: "Kimsən?" Bayırdan boğuq səs eşidildi: "Mənəm, aç qapını".
 
@@ -230,13 +230,13 @@ Uşaqlar da hönkürüşdülər. Sayalı özünü toplayıb ayağa durdu. Göz y
 
 – Dədəm niyə gəlmədi, ay ana?
 
-Sayalı uşaqlarıni bir xeyli süzdü. Elə bil onlar analarından imdad istəyir, "bizi atasız qoyma" deyirdilər. Sayalı titrədi, uşaqlarının yetim qalacağını düşünüb dəhşətə gəldi.
+Sayalı uşaqlarını bir xeyli süzdü. Elə bil onlar analarından imdad istəyir, "bizi atasız qoyma" deyirdilər. Sayalı titrədi, uşaqlarının yetim qalacağını düşünüb dəhşətə gəldi.
 
 Qaranlıq qarışdı. Sayalı ocağı qalamadı, lampanı yandırmadı. Uşaqlarına yer saldı, özü isə gəbənin üstünə uzanıb dirsəkləndi. Səhərə qədər gözlərini yuma bilmədi. "Bəs el-oba bilsə buna nə deyər? El içində rüsvay olaram. Camaatın üzünə necə baxacam? Axı mənim bəxtim niyə qaradır?!" O, əvvəlki ərinin necə tutulub aparıldığını gözünün qabağına gəlirdi. İkinci dəfə bu cür rüsvay olacağını düşünəndə bədəni əsdi...
 
 Sayalı qapıdakı camışı və gəbələrdən birini satdi. Hərbi xəstəxananın qapısına ayaq döyməyə başladı, çətinliklə də olsa, istədiyi adamı tapdı...
 
-Bir aydan sonra Qurban yarım illik möhlət alıb evlərinə qayıtdı. Kənddə ona hörməl etdilər. Hətta arvadlar yığışıb onu sədr seçdilər. Qurban o qalmaqla qaldı.
+Bir aydan sonra Qurban yarım illik möhlət alıb evlərinə qayıtdı. Kənddə ona hörmət etdilər. Hətta arvadlar yığışıb onu sədr seçdilər. Qurban o qalmaqla qaldı.
 
 İlk günlər o hamının hörmətini qazanmağa çalışdı. Əsgər ailələrinə kömək etdi, otu olmayana ot, taxılı olmayana taxıl payladı. Kolxozun sulu yerini əl altından bölüşdürüb istədiyi adamlara payladı. "Qarğıdalı əkin, bostan becərin. - dedi, - birtəhər başınızı dolandirın". Bəzən Sayalı ərinin hərəkətlərinin səbəbini soruşanda "arvad, sən qarışma,         deyə Kosaoğlu cavab verirdi, - mən nə elədiyimi bilirəm".
 
@@ -268,11 +268,11 @@ Kazımın məsələni başa düşmədiyini hiss edən Kosaoğlunun qaşları ça
 
 Kazım heç nə demədi. Dinməz-söyləməz evə qayıtdı, bostandan qazandığı pulun yarısını gətirib Kosaoğluna verdi.
 
-Var-dövlət artdıqca Kosaoğlu özünə dost tutmağa çalışır, rayondan kolxoza gələnləri dərhal evinə aparır, onları yedirib-içirməmiş buraxmırdı. Ortada əl iyi kimi fırlanan Kazım gah dükana, gah anbara qaçır, gah da kolxozçuların birinin qapısinı döyüb, "kişinin rayondan qonağı gəlib, bir heyvan ver" - deyirdi.
+Var-dövlət artdıqca Kosaoğlu özünə dost tutmağa çalışır, rayondan kolxoza gələnləri dərhal evinə aparır, onları yedirib-içirməmiş buraxmırdı. Ortada əl iyi kimi fırlanan Kazım gah dükana, gah anbara qaçır, gah da kolxozçuların birinin qapısını döyüb, "kişinin rayondan qonağı gəlib, bir heyvan ver" - deyirdi.
 
 Bəzi rayon işçiləri bu evə ayaq açandan sonra Kosaoğlu daha da dirçəldi.
 
-Sayalı evinin cah-cəlalmı gördükcə sevinir, Qurbanın başına pərvanə kimi dolanırdı. Əvvəllər qonaqlara özü qulluq edən Sayalı yavaş-yavaş əlini işdən çəkdi. Nə çox idi qonum-qonşuda bir qarın çörək üçün kömək istəyən...
+Sayalı evinin cah-cəlalını gördükcə sevinir, Qurbanın başına pərvanə kimi dolanırdı. Əvvəllər qonaqlara özü qulluq edən Sayalı yavaş-yavaş əlini işdən çəkdi. Nə çox idi qonum-qonşuda bir qarın çörək üçün kömək istəyən...
 
 Sayalı nəyinki ev işindən, kolxozun işindən də əl çəkdi. Qurban ona dedi ki, "evdə otur, heç yerə getmə. Görürsən ki, qapımızdan qonaq əksik olmur". Aylar ötdükcə Sayalı ətə dolub qəşəngləşir, ipək paltarın birini soyunub, o birini geyinirdi. Kənddə bir toy, bir məclis onsuz keçmirdi. Oğluna nişan qoyan da, qızını ərə verən də, evinə gəlin gətirən də, əsgərlikdən oğlu gələn də əvvəlcə onunla məsləhtıtləşməliydi, yoxsa Sayalının burun-damağını yığıb-yığışdırmaq olmazdı.
 

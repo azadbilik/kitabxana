@@ -88,7 +88,7 @@ mavi nəğmə zilinə,
 Şagirdini
 gözündən
 iraq qoymamaq üçün,
-Onun tərlaıı gözünə
+Onun tərlanı gözünə
 baxıb doymamaq üçün.
 
 * * *
@@ -266,7 +266,7 @@ biri hirslənir).
 Santimetrdə -
 havası,
 boşluğu,
-xəfəsi sıxılmış,
+nəfəsi sıxılmış,
 cövhəri sağılmış
 verstlər!
 İnsanın arzusundan keçirilmiş,
@@ -295,7 +295,7 @@ O atılır
 yıxılır,
 durub yenə atılır.
 Atılır,
-axı, onu göydə gözləiyr ürək,
+axı, onu göydə gözləyir ürək,
 Qopub düşəcək
 bir meteortək,
 dayaq tapmasa
@@ -354,7 +354,7 @@ O atılır,
 yıxılır,
 baş tutmayır uçuşu.
 Məşqçinin ucalır
-sərt Mefıstofel bası...
+sərt Mefistofel bası...
 Dostumuzdan çox qabaq
 bizim qəlbimiz düşür,
 Durur... Baxır yuxarı.

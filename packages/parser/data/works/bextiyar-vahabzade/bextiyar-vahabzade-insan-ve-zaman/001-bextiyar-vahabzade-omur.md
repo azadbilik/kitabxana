@@ -44,7 +44,7 @@ Dedi, səmalarda öz oylağım var.
 Ömrü insan kimi başa vuranlar.
 
 "Bu dünya beş gündür",- deyib hər yerdə
-Sağ ikən qəbirdə izanan da var.
+Sağ ikən qəbirdə uzanan da var.
 Öz alın tərilə bircə ömürdə
 Yüz insan ömrünü qazanan da var.
 

@@ -27,7 +27,7 @@ Məktubu oxuyub topladım səbətə, ondan ötrü ki, bunun İrana dəxli yoxdu.
 
 Məktub sahibi yazır: “Dü əncüməni-büzürg ki yeki beismi “Əncüməni-xidmət”, digəri beismi “Əncüməni-fütüvvət” əzüməra və əyan dərhal dər Tehran təşkil şüdə ki zahirən tərəfdari pişrəft məqasidiməşrutə-tələbanənd və batinən onçe ki dər qüvvət və qüdrət darənd əzxatabiyi – məmləkət və bərhəmzədəni-övzai-məclis və həmdəsteyi badüşmənani –vətənkutahi müfərmayənd”.
 
-Kağızı oxyub qoydum kənara, amma genə bilmədim ki, İran nə səbəbə bu günə qaldı.
+Kağızı oxuyub qoydum kənara, amma genə bilmədim ki, İran nə səbəbə bu günə qaldı.
 
 Üçüncü məktubu açdım. Bu da Batumdan gəlib. Məktubda yazılıb ki, İran hacıları dəryanın kənarına düzülüb bikarçılıqdan dəryaya daş atırlar ki, qolları açılsın (məktub çox uzundu, gələn həftə bu barədə danışarıq inşallah).
 

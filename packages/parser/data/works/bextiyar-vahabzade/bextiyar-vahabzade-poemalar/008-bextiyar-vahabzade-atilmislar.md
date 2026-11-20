@@ -295,7 +295,7 @@ Açdı pəncərəni, yer-göy qışqırır.
 Qışqırır masanın üstə kitablar.
 Qışqırır qapı da, pəncərələr də.
 Qışqırır çarpayı, qışqırır divar,
-Qışqırır görpənin yatdığı yer də.
+Qışqırır körpənin yatdığı yer də.
 
 Tutdu qulağını sıxdıqca sıxdı,
 O elə bildi ki, səs çöldən gəlir.
@@ -409,7 +409,7 @@ Bu nə müsibətdir, gülüşlərində
 Hönkürür qəlbinin hayı, harayı.
 Özü çörək yeyir...
 Amma döşündə
-Sızlayıb ağlayır korpənin payı...
+Sızlayıb ağlayır körpənin payı...
 
 Bu nə müsibətdir, bu ne müsibət,
 Buna tablamağa bir ürək hanı?
@@ -421,7 +421,7 @@ Dandığın gerçəyi gerçək bil yenə.
 İnsan bir əlilə yandırır,
 ancaq
 O biri əlilə vurur dizinə.
-O da dizlərinə vurab ağladı,
+O da dizlərinə vurub ağladı,
 Oturub ağladı, durub ağladı:
 
 -Qalmadı bir şeyə - dedi - gümanım,
@@ -1044,7 +1044,7 @@ boylandı termometrə,
 – A kişi, bəs niyə üşüyürük biz?
 – Hava nə istiymiş, xəbərimiz yox.
 – Çölümüz istidir, içimiz soyuq.
-İndi sən gordünmü haqlıyam, lələ,
+İndi sən gördünmü haqlıyam, lələ,
 Davadan, dərmandan kar aşmaz bizə.
 Boş-boş ümidlərlə, təsəllilərlə
 Özünü aldatmaq yaraşmaz bizə.
@@ -1485,7 +1485,7 @@ Onlar çox danışıb, çox gülüşdülər.
 – Mən özüm anayam.
 O, döndü birdən
 Bələkli kuklanı götürdü yerdən.
-Qışqırdı: - Bunun da anasi mənəm.
+Qışqırdı: - Bunun da anası mənəm.
 Heç kəsə, heç kəsə bunu vermərəm!
 – Di, yaxşı, qoy olsun o, sənin balan.
 Axı, kimdir onu əlindən alan?

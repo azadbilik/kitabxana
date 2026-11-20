@@ -11,7 +11,7 @@ order: 68
 sourceNote: 'https://www.kitabxana.net/files/books/file/1323753568.pdf#page=145'
 status: DRAFT
 ---
-Bir səma artında neçə bahar-qış,
+Bir səma altında neçə bahar-qış,
 Bir isti ocaqda, bir ailədə,
 Demə, səadətlə yaşayırıqmış,
 Xəbərimiz yoxdur bircə gilə də…

@@ -26,9 +26,9 @@ Bu cığır İmrana çoxdan tanış idi. Məktəbdə oxuduğu vaxt, qış və ya
 
 Aram-aram vurulan zəng səsi onu fikirdən ayırdı. Başını qaldırıb ağ daşdan tikilmiş böyük məktəb binasına baxdı. Həyəti səs-küylə dolduran uşaqlar bir-birini qovur, qar topu oynayırdılar.
 
-İmran öz uşaqlığını xatırladı. Məktəbə gedib-gəldiyi günləri, qışda bir-birlərini qara basdıqlarını, yaz aylarında çəmənlikdə oynayıb, kolların dibindən bənövşə yığdıqlarını yadına saldı. Onlar hər səhər günəşlə birlikdə oyanar, al-əlvan çiçəkli meyvə ağaclarının altından keçərək məktəbə gedərdilər. Zəngdən əvvəl məktəbin həyətində qoşa-qoşa gəzərək dərslərini təkrar edərdilər. Uşaqların səsləri bir-birinə qarışardı. Tənəffüslərdə həyətə qaçar, turnikdə fırlanar, top-top oynayardılar. Havanın ətri otaqlara dolur, sinfi bəzəyən qızılgüllərin rayihəsinə qarışıb adamı məst edirdi. Hələ qızlar!.. Onlar yenicə açılan güllərdən daha təravətli olurdular. Gözləri qaynayır, yanaqları rəngdən-rəngə düşürdü. Aşağı sinifdə oxuyarkən atılıb-düşərək dəcəllik edən bu şıltaq qızlar, doqquz-onuncu siniflərdə ağırlaşır, adam çox olan yerlərdə özlərini sakit aparır, tək qalanda isə yenidən şaqqıldayıb gülürdülər. Umu-küsülər, mübabisələr, qaşqabaq töküb dodaq büzmələr o qədar olurdu ki!
+İmran öz uşaqlığını xatırladı. Məktəbə gedib-gəldiyi günləri, qışda bir-birlərini qara basdıqlarını, yaz aylarında çəmənlikdə oynayıb, kolların dibindən bənövşə yığdıqlarını yadına saldı. Onlar hər səhər günəşlə birlikdə oyanar, al-əlvan çiçəkli meyvə ağaclarının altından keçərək məktəbə gedərdilər. Zəngdən əvvəl məktəbin həyətində qoşa-qoşa gəzərək dərslərini təkrar edərdilər. Uşaqların səsləri bir-birinə qarışardı. Tənəffüslərdə həyətə qaçar, turnikdə fırlanar, top-top oynayardılar. Havanın ətri otaqlara dolur, sinfi bəzəyən qızılgüllərin rayihəsinə qarışıb adamı məst edirdi. Hələ qızlar!.. Onlar yenicə açılan güllərdən daha təravətli olurdular. Gözləri qaynayır, yanaqları rəngdən-rəngə düşürdü. Aşağı sinifdə oxuyarkən atılıb-düşərək dəcəllik edən bu şıltaq qızlar, doqquz-onuncu siniflərdə ağırlaşır, adam çox olan yerlərdə özlərini sakit aparır, tək qalanda isə yenidən şaqqıldayıb gülürdülər. Umu-küsülər, mübahisələr, qaşqabaq töküb dodaq büzmələr o qədar olurdu ki!
 
-"Eh, uşaqlıq!" - deyə pıçıldayan İmran kəndin ortasından keçən arxm üstündəki körpüyə yaxınlaşdı. Qabaq tərəfdən gələn bir qız İmranı görcək kolağayısını düzəltdi, başmı aşağı salaraq, ötüb keçmək istədi. İmran cığırdan kənara çıxdı. Nəyi isə səliqə ilə qəzetə büküb qolu üstündə sinəsinə sıxan qız, onun bərabərinə çatanda gözaltı İmrana baxdı. Birdən onun iri qara gözləri təəccüblə genişləndi. Ayaq saxlayaraq, gülümsədi. Yanaqları daha da allaşdı.
+"Eh, uşaqlıq!" - deyə pıçıldayan İmran kəndin ortasından keçən arxın üstündəki körpüyə yaxınlaşdı. Qabaq tərəfdən gələn bir qız İmranı görcək kolağayısını düzəltdi, başmı aşağı salaraq, ötüb keçmək istədi. İmran cığırdan kənara çıxdı. Nəyi isə səliqə ilə qəzetə büküb qolu üstündə sinəsinə sıxan qız, onun bərabərinə çatanda gözaltı İmrana baxdı. Birdən onun iri qara gözləri təəccüblə genişləndi. Ayaq saxlayaraq, gülümsədi. Yanaqları daha da allaşdı.
 
 – İmran, sənsən?
 
@@ -126,7 +126,7 @@ Tükəzban xala ətəyinin ucu ilə gözlərini sildi.
 
 – Canım sənə sadağa olsun, ay bala, eşikdə durma, keç içəri, hava soyuqdur, dərdin alım.
 
-İmran çamadanını gölürüb pilləkəni çixmaq istəyirdi ki, eyvanda dayanan qızı gördü. Boynunu azca yana əyib dirəyə söykonmiş bu qızın kolağayısı sürüşüb çiyninə düşmüşdü. Sarışın saçları tən ortadan ayrılmışdı. Telləri yanaqlarında qıvrılmışdı. Nazik, qara qaşları çatılmışdı. Çənəsinin sağ tərəfində, buxağında, balaca xalı da vardı. Qızı başdan-ayağa süzən, onun gözlərinə kölgə salan kirpiklərinə diqqət yetirən İmran qeyri-ixtiyari olaraq: "Zalım balası nə qəşəngdir!"
+İmran çamadanını götürüb pilləkəni çıxmaq istəyirdi ki, eyvanda dayanan qızı gördü. Boynunu azca yana əyib dirəyə söykənmiş bu qızın kolağayısı sürüşüb çiyninə düşmüşdü. Sarışın saçları tən ortadan ayrılmışdı. Telləri yanaqlarında qıvrılmışdı. Nazik, qara qaşları çatılmışdı. Çənəsinin sağ tərəfində, buxağında, balaca xalı da vardı. Qızı başdan-ayağa süzən, onun gözlərinə kölgə salan kirpiklərinə diqqət yetirən İmran qeyri-ixtiyari olaraq: "Zalım balası nə qəşəngdir!"
 
 – dey’ xəyalından keçirdi.
 
@@ -200,7 +200,7 @@ Onlar yenə baş-başa verib düyü təmizlədilər. Birdən Zeynəb dayanıb di
 
 – Nə qəzet? - deyə İmran qaşlarını çatdı.
 
-– Özünü niyə bilməməzliyə qoyursan? Bir ay bundan əvvəl çıxmamışdımı? Kəsib saxtamışam, bax budur, - deyə o, cəld ayağa durdu.
+– Özünü niyə bilməməzliyə qoyursan? Bir ay bundan əvvəl çıxmamışdımı? Kəsib saxlamışam, bax budur, - deyə o, cəld ayağa durdu.
 
 Bayaq qəzetə büküb gətirdiyi kitabı açıb arasından səliqə ilə qatlanmış şəkli çıxartdı. - Hamıdan qəşəng sən düşübsən. Elə qəzeti alan kimi Tükəzban xalanın yanına qaçıb dedim ki, muştuluğumu ver. İmran ərizə yazıb kolxoza işləməyə gəlir. Arvad inanmadı ki, yalandır, o hələ oxuyacaq. Axır şəkli göstərib güc-bəla ilə inandırmışam. Doğrudan şəkildə qəşəng düşübsən, amma..,
 
@@ -214,7 +214,7 @@ O yenə güldü. İmran azacıq qızarıb, başı ilə ehmalca Nərgiz müəllim
 
 – Kosaoğluyla nə işin var?
 
-– Nə tez tərəf durdun? Amma o sənin gəldiyini eşidəndə, ağlım kəsmır ki, sevinsin. Hələ özünü görməmişdən qəzetdəki şəklinə baxıb ağız-burnunu əyirdi.
+– Nə tez tərəf durdun? Amma o sənin gəldiyini eşidəndə, ağlım kəsmir ki, sevinsin. Hələ özünü görməmişdən qəzetdəki şəklinə baxıb ağız-burnunu əyirdi.
 
 İmranın qaşqabağının töküldüyünü görən Zeynəb güldü.
 

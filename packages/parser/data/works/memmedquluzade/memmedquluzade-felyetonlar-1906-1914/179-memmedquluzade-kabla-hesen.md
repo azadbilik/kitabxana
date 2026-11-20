@@ -23,7 +23,7 @@ Bəli, Allah rəhmət eləsin! Hamı yəqin elədi ki, binəva Kərbəlayi Həs�
 
 Allah rəhmət eləsin.
 
-Sabahısı günü mərhumun qohum-qardaşını polisə çağırıb apardılar ki, Kabla Həsənin dükanının qıfılını sındırıb dünkanı açsınlar və dükanın malını siyahı eləsinlər ki, bilinsin vərəsəyə nə çatacaq.
+Sabahısı günü mərhumun qohum-qardaşını polisə çağırıb apardılar ki, Kabla Həsənin dükanının qıfılını sındırıb dükanı açsınlar və dükanın malını siyahı eləsinlər ki, bilinsin vərəsəyə nə çatacaq.
 
 Dükanı açıb görürlər ki, Kabla Həsən iki kəndli ilə oturub dükanın içində və özü də sağ və səlamətdir.
 

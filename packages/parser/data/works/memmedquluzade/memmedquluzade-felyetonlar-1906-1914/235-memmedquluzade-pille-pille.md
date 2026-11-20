@@ -15,7 +15,7 @@ Pillə pillədir.
 
 Bir il bundan qabaq millətlər gördülər ki, “bəli, əlbət, müsəlmanların ruhani rəisi belə olar”. Bəli, bir ay keçdi. Nə tövr oldusa, bir biabırlıq üz verdi. Belə olanda bizim qoşunlarımız uzaqdan baxa-baxa dedilər ki, “bəli, əlbət, elə şeyxülislam belə olar”.
 
-Bir ay da keçdi. Yenə müsəlmançılığa bir xəcalətlik üz verdi. Yenə ətrafımızdakı tayfalar kənardan durub, öz-özlərinə dedilər ki, “bəli, nə eybi var? Müsəlmanların ruhani atası belə olar” (yəni atası belə olanda gör oğullurı necədir).
+Bir ay da keçdi. Yenə müsəlmançılığa bir xəcalətlik üz verdi. Yenə ətrafımızdakı tayfalar kənardan durub, öz-özlərinə dedilər ki, “bəli, nə eybi var? Müsəlmanların ruhani atası belə olar” (yəni atası belə olanda gör oğulları necədir).
 
 Bir-iki ay da keçdi. Yenə bir rüsvayçılıq üz verdi. Axır, vallah bilmirəm nə deyim; adam, doğrusu, utanır. Yenə bu qonşular olmaya, yenə, məsələn, bu işlər Səlmasda, Buxarada, Zünuzda, Danabaş kəndində vaqe ola, – adam deyər ki, “eh, nə eləyək? Cəhənnəmə-gora! Bir özgə adam ki, görmür. Amma bu kafirlər içində, vallah, yaşamalı deyil. Adam az qalır yerə girsin.
 

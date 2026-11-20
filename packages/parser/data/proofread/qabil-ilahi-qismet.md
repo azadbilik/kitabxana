@@ -494,7 +494,7 @@ Miqdarsızmış bu qədər
 Bətnimin zülmətində
 Boğardım İskəndəri.
 Heç doğardım İskəndəri?!
-Teyiflər gülmsəyir, anaya ibrətamiz;
+Teyiflər gülümsəyir, anaya ibrətamiz;
 – Bəli, İskəndərik biz.
 – Gəl, yaxşı bax bu ucsuz-bucaqsız qəbristana.
 Neçə-neçə İskəndər gəlib-gedib cahana.
@@ -1607,7 +1607,7 @@ Arabir tarlada yananda dil-dodaq
 Dirəkdən asılmış şaxədən alaraq,
 Səni bir iştahla böləndə sevmişəm,
 Ləkəni əlimdən siləndə sevmişəm.
-Möhtəşəm ölkəmin bir yanı uraldır,
+Möhtəşəm ölkəmin bir yanı ucaldır,
 Hələlik orada nar bağı xəyaldır.
 Eybi yox, sibirə sovqatım halaldır,
 Bəlkə də sarısaç bir gözəl bir zaman
@@ -1982,7 +1982,7 @@ Burda yaşıllıqdan yox bir əlamət.
 @@ 097
 
 Fəqət, bu daş aləm, bu sakit aləm
-Bülbül cəhcəhindən diskinir qəfil.
+Bülbül cəhcəhindən diksinir qəfil.
 Əcaib-qəraib qayalar bu dəm
 Kövrəlir, titrəyir əsir elə bil.
 
@@ -7986,7 +7986,7 @@ Gələnə-gedənə yoldaş oldum mən.
 Bu da bəsindir.
 Bu yaşda nə hünər,
 Nə həvəsindir?
-Şükr elə mörünün möhlətinə sən,
+Şükr elə ömrünün möhlətinə sən,
 Şükr elə bəxtinin qismətinə sən,
 Şükr elə anarın ad gününə sən,
 Şükr elə dostların şad gününə sən.
@@ -8835,7 +8835,7 @@ Arifə bir işarədir üç nöqtə,
 @@ 418
 
 Uzun-uzun mətləblərin qisası.
-Üzr, ifşa, ibarədir üç nöqtə,
+Üzr, ifşa, ibarətdir üç nöqtə,
 Hissin-ruhun qövr eləyən qisası.
 
 Dayaz fikri dərin etməz üç nöqtə,
@@ -9738,7 +9738,7 @@ Burda hökmən kimi şair, kimi də
 rəssam olur.
 Dənizə aldanaraq ömrü-günü
 axşam olur...
-Oxuyur nəcməsini bəmdə Xəzər,
+Oxuyur nəğməsini bəmdə Xəzər,
 zildə Xəzər
 Baxır öz çəkdiyi öz klipinə
 sahildə Xəzər.

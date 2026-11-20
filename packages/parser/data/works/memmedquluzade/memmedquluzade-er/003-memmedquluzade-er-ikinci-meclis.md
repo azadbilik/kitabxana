@@ -11,7 +11,7 @@ order: 3
 sourceNote: 'https://www.kitabxana.net/files/books/file/1258039834.pdf#page=555'
 status: DRAFT
 ---
-Dəlixanada salon otağı, ortalıqda miz, ətrafında üç-dörd səndəlliyə, mizin üstə kağız, qələm, mürəkkəb qabı, zəng. Divardan saat asılıb. Mıxdan həkimin papağı, paltosu asılıb. Mizin qabağında dəlixananın müdiri doktor Ruhzad və yanında 5-10 nəfər tələbə. Bir tərəfində dəlilərin qelü-qalı eşidilir. Hərdənbir xəstələr hırıldayıb gülürlər. O dərəcədə ki, dam-divar uçmaq istəyir. Və gah sakit olurlar. Dəlilərə tərəf açılan qapının yanında bir kişi xidmətçisi durub, müdirin hökmünə müntəzirdir və dəlilərin mərəkəsi ucalan zaman qapını yavaşca açır, ucadan deyir:
+Dəlixanada salon otağı, ortalıqda miz, ətrafında üç-dörd səndəlliyə, mizin üstə kağız, qələm, mürəkkəb qabı, zəng. Divardan saat asılıb. Mıxdan həkimin papağı, paltosu asılıb. Mizin qabağında dəlixananın müdiri doktor Ruhzad və yanında 5-10 nəfər tələbə. Bir tərəfində dəlilərin qilü-qalı eşidilir. Hərdənbir xəstələr hırıldayıb gülürlər. O dərəcədə ki, dam-divar uçmaq istəyir. Və gah sakit olurlar. Dəlilərə tərəf açılan qapının yanında bir kişi xidmətçisi durub, müdirin hökmünə müntəzirdir və dəlilərin mərəkəsi ucalan zaman qapını yavaşca açır, ucadan deyir:
 
 Qapıçı. Qalmaqal olmasın (Qilü-qal yatır).
 
@@ -31,7 +31,7 @@ O biri tələbə. Yəni, açıqcasına burada sizin müalicənin nəticəsində 
 
 Professor. Yoldaşlar, sizin bu suallarınız, xeyli ağıllı bir sualdır. Çünki zəif şüur bütün ruh xəstəliklərinin ən adi bir şəkildir. Müxtəlif alimlər və mütəxəssislər arasında şüursuzluq halı haqqında bir çox münaqişələr vaqe olmuşdur. Cəmi bu münaqişələrin nəticəsində bu anlaşılır ki, müalicə qəbul etməyən cəli mərəzlərin ikinci dərəcədə hesab olunanı paranoydur. Bizim xəstəxanada həmin mərəzə giriftar olan (kitaba baxır) bir nəfərdir ki, ona camaat arasında “təbiri-xab” deyirlər.
 
-Qapıçıya işarə edir, o da dəlilərin içindən bir nəfərin qolundan tutub gətirir. Xəstə titrəyə-titrəyə daxil olur. Professor və tələbələr ona yavuq gəlirlər. Prfessor gedir, yapışır onun nəbzindən.
+Qapıçıya işarə edir, o da dəlilərin içindən bir nəfərin qolundan tutub gətirir. Xəstə titrəyə-titrəyə daxil olur. Professor və tələbələr ona yavuq gəlirlər. Professor gedir, yapışır onun nəbzindən.
 
 Professor. Nədən qorxursan?
 

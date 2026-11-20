@@ -31,7 +31,7 @@ Evə gedib gördüm ki, on iki yaşında oğlum sevincək mənə xəbər verir:
 
 – Dədə! Sabah və o biri gün bizi dərsdən azad elədilər, çünki orucluq bayramıdır.
 
-Bunu da ərz edim ki, necə mən üzüqara yuxarıda bəyan etdiyim kimi dindarlıqdan uzaq düşmüşəm, oğlum da söz yox, oruc və namaz söhbətlərindən dəxi də kənar olubdur. Və əgər dünən oğluma məktəbdə orucluq bayramının mücjdəsini verməsə idilər, yəqin ki, onun yadına bayram-zad düşməyəcəkdi; səbəb budur ki, eydi-fitr bayramını ancaq oruc tutanlar gözlər.
+Bunu da ərz edim ki, necə mən üzüqara yuxarıda bəyan etdiyim kimi dindarlıqdan uzaq düşmüşəm, oğlum da söz yox, oruc və namaz söhbətlərindən dəxi də kənar olubdur. Və əgər dünən oğluma məktəbdə orucluq bayramının müjdəsini verməsə idilər, yəqin ki, onun yadına bayram-zad düşməyəcəkdi; səbəb budur ki, eydi-fitr bayramını ancaq oruc tutanlar gözlər.
 
 Xülasə...
 

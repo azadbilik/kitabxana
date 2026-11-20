@@ -11,7 +11,7 @@ order: 270
 sourceNote: 'https://www.kitabxana.net/files/books/file/1259951834.pdf#page=319'
 status: DRAFT
 ---
-Traktor ibarətdir elə bir maşından ki, onun dalına bir neçə kotan dəmirini bağlayırsan, bir saatın muddətində az qalır bir desyatin yeri əkib çıxsın başa.
+Traktor ibarətdir elə bir maşından ki, onun dalına bir neçə kotan dəmirini bağlayırsan, bir saatın müddətində az qalır bir desyatin yeri əkib çıxsın başa.
 
 Əli şiəsi də ibarətdir elə bir yaranmışdan ki, onun gecə-gündüz fikri-zikri cənnətin qəbzini mollalardan yalvarıb istəməkdir.
 

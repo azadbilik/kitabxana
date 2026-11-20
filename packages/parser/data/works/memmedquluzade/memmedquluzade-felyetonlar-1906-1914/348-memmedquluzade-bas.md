@@ -22,7 +22,7 @@ Qul edib onları tari sənə səndən ötrü.
 
 * * *
 
-Möhtərəm oxucularımıza ərz olsun ki, tibb aləmindən axır vaxtlarda danışılan məsələ “anabiyoz” məsələsidir ki, rus professorlarından məşhur Baxmetyev cənabları tərəfindən icad olunubdur. Cənab Baxmetyevin ixtiraının əsli budur ki, cəmi heyvanat bir dərəcə donmaq halına çatanda yarı diri olurlar, yarı ölü olurlar; yəni nə diri demək olur, nə ölü; nə canlı kimi hiss edirlər, nə ölü kimi hissiz olurlar.
+Möhtərəm oxucularımıza ərz olsun ki, tibb aləmindən axır vaxtlarda danışılan məsələ “anabiyoz” məsələsidir ki, rus professorlarından məşhur Baxmetyev cənabları tərəfindən icad olunubdur. Cənab Baxmetyevin ixtiranın əsli budur ki, cəmi heyvanat bir dərəcə donmaq halına çatanda yarı diri olurlar, yarı ölü olurlar; yəni nə diri demək olur, nə ölü; nə canlı kimi hiss edirlər, nə ölü kimi hissiz olurlar.
 
 Professor cənablarının fənni imtahanları elə bir qəribə nəticə bağışlayıb ki, bu xüsusda tamam Avropaya şöhrət salıb; hətta Amerika ruznamələri gün olmur ki, bu barədə yazmasınlar.
 

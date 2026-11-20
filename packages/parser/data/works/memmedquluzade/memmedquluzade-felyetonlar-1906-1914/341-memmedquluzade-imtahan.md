@@ -19,7 +19,7 @@ Vallah, adamı qoymurlar ki, dinməz-söyləməz oturub işinə məşğul olsun.
 
 Mən müxtəsərcə burada bir söz ərz eləyim, əgər insaf əhlisən deyəcəksən: “belədir, Molla Nəsrəddin, sözün haqdır”. Əgər insaf əhli deyilsən, di qoy get işinə!
 
-Mədrəsələr dünyada ondan ötrü qoyulublar ki, orada təhsil tapanlar oxuyub-yazmaq öyənsinlər.
+Mədrəsələr dünyada ondan ötrü qoyulublar ki, orada təhsil tapanlar oxuyub-yazmaq öyrənsinlər.
 
 Bu bir aşkar mətləbdir ki, mollalara bir o qədər oxumaq və yazmaq lazım olmur. Çox yazmaq qəzetçi peşəsidir, çox kitab oxumaq bikar advokatların və dərin həkimlərin sənətidir. O ki, mollalarımızdır, bunların yazdıqları həftədə bir dəfə müxtəsər bir kəbin kağızı, ya talaq kağızıdır; əgər prixod mollasıdır, metrik dəftərinə səfər ayının dördündə anadan olan Sadığın adını yazmaq, atası Meşədi Hüseynin adını və anası Kəblə Fatmanın adını yazmaqdır; flan və flan, vəssalam, qurtardı getdi.
 

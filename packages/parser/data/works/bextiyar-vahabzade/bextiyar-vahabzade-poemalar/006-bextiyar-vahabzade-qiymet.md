@@ -294,7 +294,7 @@ Onunçun elm-yük,
 Zəhmət - ziyandır.
 O, elmin yolunda mücahid deyil,
 Vurğun yolçuları yamsılayandır.
-Uzümə şiniyib o veyil-veyil,
+Özümə şiniyib o veyil-veyil,
 işarır yenə,
 Yəqin ki, o indi özünün deyil,
 Gülür tanışının gücsüzlüyünə.

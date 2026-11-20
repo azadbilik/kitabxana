@@ -92,7 +92,7 @@ Aralıqdakı sükut Çərkəzi darıxdırdı. O tələsir, bir quş kimi qanadla
 
 – Çox sinənə döymə, gecikmisən.
 
-– Bura bax, - deyə Çərkəz hirslə ayağa durdu. – Getmək myelin yoxdursa, açıq de, çərən-pərən danışma.
+– Bura bax, - deyə Çərkəz hirslə ayağa durdu. – Getmək meylin yoxdursa, açıq de, çərən-pərən danışma.
 
 – Ə, nə odlu-odlu danışırsan? Tutaq ki, qızı tapdın, baş kəsəcəksən?
 

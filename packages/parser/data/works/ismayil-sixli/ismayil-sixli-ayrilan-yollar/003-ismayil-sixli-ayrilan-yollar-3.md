@@ -12,7 +12,7 @@ order: 3
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=11'
 status: DRAFT
 ---
-Axşamüstü göyün üzü tutuldu. Bərk sazaq başladı. Eyvanın baş tərəfindəki buxarıda sac asan Tükəzban xala, axırıncı çörəyi qıraqlayıb ayağa durdu. Üst-başıni çırpıb sacı çevirdi. Közün həniri onun üzünə vurdu. İsti çörəkləri tabağa yığıb evə apardı, taxtın üstünə sərdi. Sonra ağ samovarı su daşından süzülən dumduru su ilə doldurub buxarının yanına qoydy. Maşanı götürüb sacın altından çıxan közləri qurdaladı. Elə bu vaxt çəpərin o üzündən səs gəldi. Tükəzban xala Zeynəbi səsindən tanıyıb hay verdi.
+Axşamüstü göyün üzü tutuldu. Bərk sazaq başladı. Eyvanın baş tərəfindəki buxarıda sac asan Tükəzban xala, axırıncı çörəyi qıraqlayıb ayağa durdu. Üst-başıni çırpıb sacı çevirdi. Közün həniri onun üzünə vurdu. İsti çörəkləri tabağa yığıb evə apardı, taxtın üstünə sərdi. Sonra ağ samovarı su daşından süzülən dumduru su ilə doldurub buxarının yanına qoydu. Maşanı götürüb sacın altından çıxan közləri qurdaladı. Elə bu vaxt çəpərin o üzündən səs gəldi. Tükəzban xala Zeynəbi səsindən tanıyıb hay verdi.
 
 – Sən Allah, mənə bir xəkəndaz od ver. Peçi qalamaq istəyirəm.
 
@@ -76,7 +76,7 @@ Zeynəb gözlərini Tükəzban xalanın üzünə dikdi. Onun saçları ağarsa d
 
 – Mənsiz də onun canına and içən tapılar.
 
-Tükəzban xala qızın bir az tutuılduğunu, hətta gözlərinin yaşardığını gördü. Hiss etdi ki, "mənsiz də onun canına and içən tapılar" - deyəndə nədənsə Zeynəb kədərləndi, köksünü ötürdü. Qarının da ürəyi yumşaldı. Axı bu qızı özü böyütmüş, ona analıq etmişdi.
+Tükəzban xala qızın bir az tutulduğunu, hətta gözlərinin yaşardığını gördü. Hiss etdi ki, "mənsiz də onun canına and içən tapılar" - deyəndə nədənsə Zeynəb kədərləndi, köksünü ötürdü. Qarının da ürəyi yumşaldı. Axı bu qızı özü böyütmüş, ona analıq etmişdi.
 
 – Yaxşı, əvvəlcə mənə kömək elə, odunu içəri daşı, ocağı qala, sonra od apararsan. İmran da indicə gələcək. Anası ölmüş səhərdən getdiyidir.
 
@@ -148,13 +148,13 @@ Evə sükut çökdü. Peçdəki odunlar çatıldayıb yanır, samovar könül ox
 
 – Görünür, - deyə Nərgiz müəllimə cavab verdi və Tükəzban xalanın əl-ayağa düşdüyünü görüb tez ayağa qalxdı.
 
-– Gəlin oturun, onsuz da səhnrdən axşamacan evdə işləyirsiniz.
+– Gəlin oturun, onsuz da səhərdən axşamacan evdə işləyirsiniz.
 
-O tez dəsmalı götürüb stəkanlan sildi. İsti çörəkdən gətirib süfrəyə qoydu. Pendiri səliqə ilə doğradı, ev gəlini kimi ortada hərlənib bankadan yağ, bal çıxartdı. Tükəzban xalaya çay süzdü. Qənd doğramağa başladı. Tükəzban xala qurtum-qurtum çay içir, gözaltı Nərgiz müəlliməni süzürdü. Bu qız da onun xoşuna gəlirdi. "Zalım balasının beli üzükdən keçər, qaş-gözünə söz ola bilməz. Ağzı da elə bil qüdrətdən yaranıb, bapbalaca. Mənim oğlumun da bilmirəm gözü hardadır, bu cür cığalı qızı görmür. Hayıf ki, ata-anasını tanımıram. Amma halal süd əmənə oxşayır. Dili-ağzı özündə, başı aşağı uşaqdır. Neçə aydır mənim evimdədir, başını qaldırıb bir adamın üzünə baxdığinı görməmişəm..."
+O tez dəsmalı götürüb stəkanlan sildi. İsti çörəkdən gətirib süfrəyə qoydu. Pendiri səliqə ilə doğradı, ev gəlini kimi ortada hərlənib bankadan yağ, bal çıxartdı. Tükəzban xalaya çay süzdü. Qənd doğramağa başladı. Tükəzban xala qurtum-qurtum çay içir, gözaltı Nərgiz müəlliməni süzürdü. Bu qız da onun xoşuna gəlirdi. "Zalım balasının beli üzükdən keçər, qaş-gözünə söz ola bilməz. Ağzı da elə bil qüdrətdən yaranıb, bapbalaca. Mənim oğlumun da bilmirəm gözü hardadır, bu cür cığalı qızı görmür. Hayıf ki, ata-anasını tanımıram. Amma halal süd əmənə oxşayır. Dili-ağzı özündə, başı aşağı uşaqdır. Neçə aydır mənim evimdədir, başını qaldırıb bir adamın üzünə baxdığını görməmişəm..."
 
-Tükəzban xala çayını içdi. Nərgiz müəllimə cəld stəkanı götürüb çay süzdü. Tükəzban xala gözünü onun əllərindən ayırmadi. "Bir dəli şeytan deyir sandıqdakı üzüyü götür, keçir bunun barmağına... Oğlum fərsizin biridir. O fikirləşənə qədər iş-işdən keçəcək. Bir də gördün boz-yoluğun biri, ley cücə götürən kimi, qızı götürüb apardı..."
+Tükəzban xala çayını içdi. Nərgiz müəllimə cəld stəkanı götürüb çay süzdü. Tükəzban xala gözünü onun əllərindən ayırmadı. "Bir dəli şeytan deyir sandıqdakı üzüyü götür, keçir bunun barmağına... Oğlum fərsizin biridir. O fikirləşənə qədər iş-işdən keçəcək. Bir də gördün boz-yoluğun biri, ley cücə götürən kimi, qızı götürüb apardı..."
 
-Bayırda itlər hürüşdü. Nərgiz müəlümə diksindi. Dərhal şeylərini yığışdırdı:
+Bayırda itlər hürüşdü. Nərgiz müəllimə diksindi. Dərhal şeylərini yığışdırdı:
 
 – Mən öz otağıma gedim, yəqin İmran gəlir.
 
@@ -166,23 +166,23 @@ Tükəzban xala onu saxlamaq, İmran gələndə də çay süzüb qulluq etməsin
 
 Nərgiz müəllimə sakitcə arvada yaxınlaşdı. Əvvəlcə onu oyatmaq istədi, sonra fikrini dəyişdi. Yun şalı ehmalca Tükəzban xalanın üstünə örtüb, otağına qayıtdı. Ocaq sönmüşdü. Bir az əvvəl peçin altına sərilib, xorhaxor yatan boz pişik büzüşmüşdü.
 
-Nərgiz müəllimə üşüdü, ocağı qalamaq istədi. İçəridə odun olmadığını görüb fikrindən daşındı. Səs-küy salıb ev sahibəsini yuxudan oyadacağından ehtiyat edərək, orta qapıdan keçib eyvana odun gətirməyə getmədi. Çırağın piltəsini aşağı çəkib yerinə girdi. Soyuq yorğan-döşəkdə daha da üşüdü. Nəfəsini yorğanın altına verib yerini birthər isitdi. Gözünə yuxu getdi.
+Nərgiz müəllimə üşüdü, ocağı qalamaq istədi. İçəridə odun olmadığını görüb fikrindən daşındı. Səs-küy salıb ev sahibəsini yuxudan oyadacağından ehtiyat edərək, orta qapıdan keçib eyvana odun gətirməyə getmədi. Çırağın piltəsini aşağı çəkib yerinə girdi. Soyuq yorğan-döşəkdə daha da üşüdü. Nəfəsini yorğanın altına verib yerini birtəhər isitdi. Gözünə yuxu getdi.
 
 Birdən Nərgiz üzünə yumşaq bir şeyin dəydiyini hiss edib dik atıldı. Boz pişik özünü onun qucağına saldı. Yerini rahatlayıb xoruldadı. Nərgiz onu tumarladı, yenə gözlərini yumub, yatmaq istədi.
 
 Stolun üstündəki saat yeknəsəq ahənglə çaqqıldayırdı. Bu çaqqıltı get-gedə daha da güclənirdi.
 
-Nərgiz o biri üzü üstə çevrildi. Yorğanı başına çəkdisə də, yata bilmədi. Ona elə gəldi ki, saat çaqqıltısı olmasa rahatca yuxuya gedər. Hətta bir-iki dəfə durub saatın səsini kəsmək istədi. Təklik, pişiyin xorultusn, saatın səsi onu darıxdırdı. Nərgizi xəyal götürdü. Məktəbə getdiyi, institutda oxuduğu günlər yadına düşdü. O vaxtlar Nərgiz nə qədər qayğısız idi! Qızlarla gəzir, bəzən kitab üstə mürgüləyib, yuxuəsuz gecələr keçirir, imtahan verir, kursdan-kursa adlayıb institutu qurtarmağa çalışırdı. Nərgiz müəllimə dostlarını - qızları, oğlanları yadına saldı. Görəsən indi haradadırlar? Leyla nə edir? Teymur necədir? Kəndə gələndən bəri Nərgiz onların heç birindən xəbər tutmamışdı. Nə məktub yazmış, nə də cavab vermişdi. O istəyirdi ki, keçmiş günləri unutsun. Heç nəyi, heç kəsi yada salmadan, kənddə tək-tənha yaşasın, lakin mümkün olmurdu. Xatirələr həmişə onu çəkib ötən günlərə aparırdı.
+Nərgiz o biri üzü üstə çevrildi. Yorğanı başına çəkdisə də, yata bilmədi. Ona elə gəldi ki, saat çaqqıltısı olmasa rahatca yuxuya gedər. Hətta bir-iki dəfə durub saatın səsini kəsmək istədi. Təklik, pişiyin xorultusu, saatın səsi onu darıxdırdı. Nərgizi xəyal götürdü. Məktəbə getdiyi, institutda oxuduğu günlər yadına düşdü. O vaxtlar Nərgiz nə qədər qayğısız idi! Qızlarla gəzir, bəzən kitab üstə mürgüləyib, yuxusuz gecələr keçirir, imtahan verir, kursdan-kursa adlayıb institutu qurtarmağa çalışırdı. Nərgiz müəllimə dostlarını - qızları, oğlanları yadına saldı. Görəsən indi haradadırlar? Leyla nə edir? Teymur necədir? Kəndə gələndən bəri Nərgiz onların heç birindən xəbər tutmamışdı. Nə məktub yazmış, nə də cavab vermişdi. O istəyirdi ki, keçmiş günləri unutsun. Heç nəyi, heç kəsi yada salmadan, kənddə tək-tənha yaşasın, lakin mümkün olmurdu. Xatirələr həmişə onu çəkib ötən günlərə aparırdı.
 
 Nərgizə elə gəldi ki, Teymur otağın küncündə dayanıb baxır. Əvvəlcə mehribanlıqla gülümsəyir, nəzərləri ilə Nərgizi oxşayır, qəlbinə hərarət verir, lakin sonra bu baxışlar yavaş-yavaş soyuyur, buza dönür. Başqalarını görəndə qaynayan bu gözlər nədənsə Nərgizə baxanda şüşə kimi cansız və soyuq olurdu. Nərgiz dillənmək, ürəyini boşaltmaq, Teymurun nəzərlərinin nə üçün belə soyuq olduğunu soruşmaq istəyirdi. Lakin gözlər ondan uzaqlaşır, getdikcə kiçilir və qaranlıqda görünməz olurdu.
 
 Nərgiz yerin içində dirsəklənərək, lampaya baxdı. İşıq zəifləyib titrəyirdi. Şüşənin içindəki piltonin alovu can verirmiş kimi, bir neçə dəfə pırıldayıb söndü. Otağa qaranlıq çökdü. Nərgizin qulağı cingildədi.
 
-Birdən kəndin başında itlər hürüşdü. Səs-küy qalxdı, Nərgiz qulaq asdı. "İdarədən gəlirlər. Görünür iclasda imişlər" - deyə düşündü. O, kəndə gəldiyi beş ayda çox şey öyrənmişdi. Adətən camaat iclasdan çıxanda, ya da klubdakı tamaşadan dağılanda gecə yarıda kənd birdən canlanır, itlər səs-səsə verir, doqqazlarda bir-biri ilə xudahafizləşənlərin səsi ətrafa yayılırdı. Qızlar cingilüli səslə gülüşüb, oğlanlara söz atırdilar. Kəndin mərkəzindən başlayan bu hay-küy getdikcə ətrafa yayılır, evlərin çoxunda işıqlar təzədən yanırdı. Bir azdan isə yenə hər yer sakitləşirdi.
+Birdən kəndin başında itlər hürüşdü. Səs-küy qalxdı, Nərgiz qulaq asdı. "İdarədən gəlirlər. Görünür iclasda imişlər" - deyə düşündü. O, kəndə gəldiyi beş ayda çox şey öyrənmişdi. Adətən camaat iclasdan çıxanda, ya da klubdakı tamaşadan dağılanda gecə yarıda kənd birdən canlanır, itlər səs-səsə verir, doqqazlarda bir-biri ilə xudahafizləşənlərin səsi ətrafa yayılırdı. Qızlar cingilüli səslə gülüşüb, oğlanlara söz atırdılar. Kəndin mərkəzindən başlayan bu hay-küy getdikcə ətrafa yayılır, evlərin çoxunda işıqlar təzədən yanırdı. Bir azdan isə yenə hər yer sakitləşirdi.
 
 İndi də elə oldu.
 
-Nərgiz müəlümə ürək döyüntüsü ilə İmranın ayaq səslərinə qulaq asdı. İmran eyvanda dayandı. Görünür, üst-başının qarını təmizləyirdi. Qapı açıldı. Nərgiz meşin paitonun xışıltısını eşitdi.
+Nərgiz müəllimə ürək döyüntüsü ilə İmranın ayaq səslərinə qulaq asdı. İmran eyvanda dayandı. Görünür, üst-başının qarını təmizləyirdi. Qapı açıldı. Nərgiz meşin paltonun xışıltısını eşitdi.
 
 Tükəzban xalanın yuxulu səsi gəldi:
 
@@ -194,7 +194,7 @@ Tükəzban xalanın yuxulu səsi gəldi:
 
 – Heç nə olmaz, ana. Amma yaman acmışam.
 
-Bundan sonra qarışıq səsiər eşidildi. Stəkan-nəlbəki cingildədi. Odunların çıtırtısı eşiditdi. Deyəsən, ocağı bərk qaladılar. Bir azdan səs-səmir kəsildi.
+Bundan sonra qarışıq səslər eşidildi. Stəkan-nəlbəki cingildədi. Odunların çıtırtısı eşiditdi. Deyəsən, ocağı bərk qaladılar. Bir azdan səs-səmir kəsildi.
 
 Nərgiz qəzet xışıltısından başqa heç nə eşitmədi. "Yəqin yenə oturub qəzet oxuyur. Yazıq arvad yer salır, o isə elə stolun üstündəcə mürgüləyir".
 
@@ -204,12 +204,12 @@ Qəribə idi. Axı ona nə olmuşdu? Nə üçün İmranın səsini, ayaq tappıl
 
 Bunu Nərgiz özü də başa düşürdü. O ancaq bircə şeydən qorxurdu: sevə bilər. Bakıdan kəndə işləməyə gələndə özünə söz vermişdi ki, heç kəsin üzünə baxmayacaq, heç kəsi qəlbinə yaxın buraxmayacaq, elə ömrünün axırına qədər tək-tənha yaşayacaqdır. O, ikinci dəfə sevməkdən qorxurdu. Əvvəllər Nərgiz ikinci dəfə sevməyin mümkün olduğuna inanmazdı, hələ institutda oxuyanda Leyla onu danlayardı ki, "ağlını başına yığ, əsl sevgi sonra gələcək, ilk məhəbbət uşaqlıq xatirəsindən başqa bir şey deyil". O isə sözündən dönmür, kitabları vərəqləyib, romanlardan misal gətirirdi.
 
-Əslinə baxsan, o, kəndə elə təkliyə çəkilmək üçün gəlmişdi. Bu məqsədlə də Tükəzban xalanın evini seçmişdi. "Sakitlikdir, bir qarıdır, bir də mən, qonşuluqda da oğlan yoxdur" - deyə özünə təskinlik vermişdi. Doğrudan da ilk günlərdə o, sakit dolanır, dərsdən sonra kitab götürüb bağa gedir, qaranlıq qarışanda pəncərə qabağında oturub yenə oxuyurdu. Hər səhər Tükəzban xala onun yastığının altından vərəqləri cırılmış kitab götürüb, stolun üstünə qoyurdu. Sonra da başını tərpədib öz-özünə pıçıldayırdı: "Bilmirəm bu qız cırıq kitablarda nə görüb? Dükanlarda satılan təzə kilablardan niyə alıb oxumur?"
+Əslinə baxsan, o, kəndə elə təkliyə çəkilmək üçün gəlmişdi. Bu məqsədlə də Tükəzban xalanın evini seçmişdi. "Sakitlikdir, bir qarıdır, bir də mən, qonşuluqda da oğlan yoxdur" - deyə özünə təskinlik vermişdi. Doğrudan da ilk günlərdə o, sakit dolanır, dərsdən sonra kitab götürüb bağa gedir, qaranlıq qarışanda pəncərə qabağında oturub yenə oxuyurdu. Hər səhər Tükəzban xala onun yastığının altından vərəqləri cırılmış kitab götürüb, stolun üstünə qoyurdu. Sonra da başını tərpədib öz-özünə pıçıldayırdı: "Bilmirəm bu qız cırıq kitablarda nə görüb? Dükanlarda satılan təzə kitablardan niyə alıb oxumur?"
 
 Nərgizin həyatı bəlkə də belə sakit keçəcəkdi. Ancaq İmranın gəlməsi ilə hər şey dəyişdi. Elə ilk gündən, eyvanda görüşdükləri dəqiqədən o özünü narahat hiss etdi. İki-üç gündən sonra şeylərini yığışdırıb başqa bir evə köçmək istədi. Tükəzban xala qoymadı. İmran özü də xahiş etdi ki, getməsin.
 
-Nərgiz özü də başa düşmədi ki, nə üçün razılıq verdi. İndi isə qəlbində iki hiss çarpışırdı... Nərgiz bəzən öz-özünü danlayırdı. "Təqsir özümdədir. Düz adamsan, onu görəndə özünü niyə itirirsən? Niyə yerin içində uzanıb onun ayaq səslərinə qulaq asırsan? Yıxılıb yata bilmirsən?.. Bir həftə bundan əvvəl gecə ayaqyalın, qonşu otağa keçdin. İmranın çiynindən sürüşüb düşmüş pencəyini götürdün, yavaşca çiyninə toxunub onu oyatdin ki, "dur, soyuq dəyər". Sən belə eləyəndə, əlbəttə, o da gizlincə sənin otağına girə bilər, üstündəki yorğanı düzəldər. Yox, günah məndədir. Özüm bu işləri törədirəm".
+Nərgiz özü də başa düşmədi ki, nə üçün razılıq verdi. İndi isə qəlbində iki hiss çarpışırdı... Nərgiz bəzən öz-özünü danlayırdı. "Təqsir özümdədir. Düz adamsan, onu görəndə özünü niyə itirirsən? Niyə yerin içində uzanıb onun ayaq səslərinə qulaq asırsan? Yıxılıb yata bilmirsən?.. Bir həftə bundan əvvəl gecə ayaqyalın, qonşu otağa keçdin. İmranın çiynindən sürüşüb düşmüş pencəyini götürdün, yavaşca çiyninə toxunub onu oyatdın ki, "dur, soyuq dəyər". Sən belə eləyəndə, əlbəttə, o da gizlincə sənin otağına girə bilər, üstündəki yorğanı düzəldər. Yox, günah məndədir. Özüm bu işləri törədirəm".
 
-Nərgiz nə qədər çalışsa da olmurdu; elə bil dağ seli onu qoynuna alıb aparırdı. Bu işlərin sonu nə olacaqdı, Nərgiz özü də bilmirdi. Ona ancaq bircə şey aydın idi: gecələr yuxu gözlərindən qaçır, çarpayıda uzanıb qonşu otaqdakı İmranın nəfəsini dinləmək istəyirdi. Bəzən onun ağlına çox qəribə bir fikir də gəlirdi: İmranı öz otağında görmək isiəyirdi. Belə vaxtlar ürəyi daha şiddətlə döyünürdü. Diksinərək yerindən sıçrayıb lampanın piltəsini qaldırırdı. O, indi də yerin içində çevrilib qonşu otaqdakı qəzet xışıltısına qulaq asırdi.
+Nərgiz nə qədər çalışsa da olmurdu; elə bil dağ seli onu qoynuna alıb aparırdı. Bu işlərin sonu nə olacaqdı, Nərgiz özü də bilmirdi. Ona ancaq bircə şey aydın idi: gecələr yuxu gözlərindən qaçır, çarpayıda uzanıb qonşu otaqdakı İmranın nəfəsini dinləmək istəyirdi. Bəzən onun ağlına çox qəribə bir fikir də gəlirdi: İmranı öz otağında görmək istəyirdi. Belə vaxtlar ürəyi daha şiddətlə döyünürdü. Diksinərək yerindən sıçrayıb lampanın piltəsini qaldırırdı. O, indi də yerin içində çevrilib qonşu otaqdakı qəzet xışıltısına qulaq asırdı.
 
-Bu gecə də Nərgiz dan yeri sökülənə qədər yata bilmədi. Səhər lezdən qalxıb şagirdlərin dəftərlərini yoxlayanda başı ağrıyırdı...
+Bu gecə də Nərgiz dan yeri sökülənə qədər yata bilmədi. Səhər tezdən qalxıb şagirdlərin dəftərlərini yoxlayanda başı ağrıyırdı...

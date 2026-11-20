@@ -21,7 +21,7 @@ Bu sözləri deməkdə arnaudlar belə xəyal eləyirlər: onlar bilirlər ki, n
 
 Mən ölüm, bir az da səbr elə, bu saat qurtarıram, darıxma, dolanım başına, hövsələn təng olmasın, dayan bir, Allah sənə Kərbəla qismət eləsin, bir qədər də qulaq ver.
 
-Bu axır vaxtlarda bolqar əsgərlərinin savadlılarının hesabını bir yaxşı qəzetdə oxudum, yüz nəfərə ancaq dörd nəfər bisavad düşür. Amma Osmanlıda on min cammatdan dörd nəfər savad əhli tapılmaz. İran həmçinin, elə bizlər də o gündə; amma şükür olsun xudaya ki, bolqarlar öz dillərini bilmədiyindən xəcalət çəkəndə, bizlər də öz dilimizdə danışmaqdan utanırıq və balaca oğlumuz dörd yaşa çatan kimi aparıb qoyuruq rus evinə ki, tərbiyə tapsın. Buna sözüm yoxdur; amma həmin evin xanımından təvəqqə edirik ki, uşaq yuxuda da bir kəlmə ana dili danışsa, tumanını çıxart, yumşaq yerinə o qədər şapalaq vur ki, qızarıb həna rəngi çalsın.
+Bu axır vaxtlarda bolqar əsgərlərinin savadlılarının hesabını bir yaxşı qəzetdə oxudum, yüz nəfərə ancaq dörd nəfər bisavad düşür. Amma Osmanlıda on min camaatdan dörd nəfər savad əhli tapılmaz. İran həmçinin, elə bizlər də o gündə; amma şükür olsun xudaya ki, bolqarlar öz dillərini bilmədiyindən xəcalət çəkəndə, bizlər də öz dilimizdə danışmaqdan utanırıq və balaca oğlumuz dörd yaşa çatan kimi aparıb qoyuruq rus evinə ki, tərbiyə tapsın. Buna sözüm yoxdur; amma həmin evin xanımından təvəqqə edirik ki, uşaq yuxuda da bir kəlmə ana dili danışsa, tumanını çıxart, yumşaq yerinə o qədər şapalaq vur ki, qızarıb həna rəngi çalsın.
 
 Bəli, bu dörd yaşında oğlumuz, gərək on ilin ərzində gimnaziyanı qurtarınca bir kəlmə türk sözü danışmasın. Moskvada darülfünunda da ki, duanın bərəkətindən müsəlman-zad söhbəti getdi işinə. Axırda cavan oğlumuz qurtarıb girdi qulluğa və özü kimi tərbiyə tapmış müsəlman qızı, ya rus qızı (təfavütü yoxdur) aldı və inşallah (allah oğulluqızlı eləsin, yenə Məhəmməd ümmətidir) bunların yenə dörd yaşında uşaqları oldu və bu uşağı da lazımdır müsəlman danışığından uzaqlaşdırmaq ki, gimnaziyada elmləri yaxşı oxuya bilsin.
 
@@ -47,4 +47,4 @@ Axırda da nə bilim həştad neçə il bundan qabaq Osmanlının bir Rəşid pa
 
 *Molla Nəsrəddin*
 
-*“Molla Nəsrəddin”, 13 ynvar 1913, №1*
+*“Molla Nəsrəddin”, 13 yanvar 1913, №1*

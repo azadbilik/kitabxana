@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Mən hər vaxt məcmuəmizdə bir məqalə yazanda, ya bir kəsə bir məktub yazanda, yainki bir məclisdə söhbət eləyəndə, bircə şeydən çox nigaran olaram: həmişə qorxaram ki, oxucular elə xəyal eləyələr ki, mənim fars dilindən və ərəb dilindən heç xəbərim yoxdur; qorxuram bilməyələr ki, mən fars və ərəb dili də oxumuşam. Və bu cəhətdən bir məqalə, ya məktub yazanda nə qədər mümkündür səy edirəm ki, yazılarımın içində bacardıqca çox fars və ərəb kəlməsi işlədim.
 
-Yəqin ki, qeyri yazıçılar da mənim günümdədir və hər kəs desə ki, “xeyr”, – əlbətt, yalan deyir.
+Yəqin ki, qeyri yazıçılar da mənim günümdədir və hər kəs desə ki, “xeyr”, – əlbəttə, yalan deyir.
 
 Məsələn, mən istəyirəm yazam ki, “keçmiş əsrlərdə osmanlı padşahları millət ilə çox görüşərdilər və bu cəhətdən hər işdə bu qədər milyon osmanlı millətinin başında padşah görünürdülər”. Amma qorxuram belə yazam, qorxuram məni ərəb və fars dili bilməyən hesab edələr, qorxuram elə xəyal eləyərlər ki, mən fars və ərəb dilini bilmirəm. Odur ki, yazanda belə yazmıram, özgə cür yazıram, yəni “ədəbi” dil ilə yazıram; məsələn bedə yazıram: “Osmanlı padşahları əsarisalifədə millətlə təması sevdikləri cəhətlə ünvani-xanədani-səltənətə müzaf olan “Osmanlı” nami-cəlili onaltı, onyeddi irq və nəslə mənsub bu qədər milyon osmanlının ünvani-milləti və nöqteyi-ittihadıdır”.
 
@@ -21,7 +21,7 @@ Bax, belə yazsam, əlbəttə dəxi hamı biləcək ki, mənim fars və ərəb d
 
 Yəqin ki, qeyri yazıçılarımız da mənim kimidilər və hər kəs desə ki, “xeyr”, – lap qırmızıca yalan deyir.
 
-Və bir də doğrudan “eyib”dir, sadə yazmaq “eyib”dir. Açıq yazmaq savadsızların peşəsidir və tarixdə də görürük ki, böyük alim və mütəşəxxis adamlar sadə yazmağı eyib tutublar. Katolik papaları deyərmişlər ki, “dil sadə və açıq olsa – fəsih olmaz”; rusun ğədim yazıçıları yazı yazanda elə bir kəlmə və ibarətlər tapıb işlədərdilər ki, xoruz səsi eşitməmiş olsunlar. Rusun qədim şairi Derjavinin şeirlərini indi adam oxuyanda elə bilir ki, guya bu sözlər göydən yerə düşüblər.
+Və bir də doğrudan “eyib”dir, sadə yazmaq “eyib”dir. Açıq yazmaq savadsızların peşəsidir və tarixdə də görürük ki, böyük alim və mütəşəxxis adamlar sadə yazmağı eyib tutublar. Katolik papaları deyərmişlər ki, “dil sadə və açıq olsa – fəsih olmaz”; rusun qədim yazıçıları yazı yazanda elə bir kəlmə və ibarətlər tapıb işlədərdilər ki, xoruz səsi eşitməmiş olsunlar. Rusun qədim şairi Derjavinin şeirlərini indi adam oxuyanda elə bilir ki, guya bu sözlər göydən yerə düşüblər.
 
 Amma aylar və günlər dolandı, – axırda nə bilim puşkinlər, jukovskilər dili lap xarab elədilər; elə sözlər yazdılar ki, kəndlilər də başa düşürdülər.
 

@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Gecə uşaqlar yatır...
 Mən, tənqidçilərin
-cığallıq, ya da nadürüstlük silabı –
+cığallıq, ya da nadürüstlük silahı –
 "dumanı", yəni siqaret tüstüsü
 İçində
 işləyirəm.

@@ -13,10 +13,10 @@ status: DRAFT
 ---
 Ay ana, düşürsən tez-tez yadıma,
 Təzədən dönürəm uşaq oluram.
-Diztnə baş qoyub bərk-bərk yatıram,
+Dizinə baş qoyub bərk-bərk yatıram,
 Bütün qayğılardan uzaq oluram.
 
-Görürəm çiynində yenə də çapşab,
+Görürəm çiynində yenə də çarşab,
 Obaşdan durmusan sübh namazına.
 Əlində o ulu, müqəddəs kitab,
 Yenə üz tutmusan göylərə, ana.

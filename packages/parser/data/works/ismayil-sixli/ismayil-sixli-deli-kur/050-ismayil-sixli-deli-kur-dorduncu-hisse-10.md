@@ -12,13 +12,13 @@ order: 50
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Qurğuşun kimi ağır və qatı bir qaranlıq qanad gərib seminariyanın üzərinə çökmüşdü. Sinif otaqlarında yanan işıqlar gecənin qaranlığını boğa bilmir, solğunlaşıb pəncərələrdə öləziyir, duman arxasında imiş kimi güclə görünürdü, Məktəbin həyəti bomboş idi. Pəncərələrdə titrəşən kölgələrdən başqa seminariyanın binasında canlılıq əlaməti yox idi. İnsanı qurğuşun kimi əzib, qüssə və kədərə qərq edən bu ağır sükutdan adamın qulağı güyüldəyirdi. Ancaq Petrov heç nəyə fikir vermədən bir kabus kimi sinif otaqlarının qabağında dolaşırdı. O hər şeyi bilmək, hər pıçıltını dinlamək və hər sözü eşitmək istəyirdi. O, bu dəfə adəti xilafına ayağını yerə astaca basır və çalışırdı ki, çəkmələri səslənməsin.
+Qurğuşun kimi ağır və qatı bir qaranlıq qanad gərib seminariyanın üzərinə çökmüşdü. Sinif otaqlarında yanan işıqlar gecənin qaranlığını boğa bilmir, solğunlaşıb pəncərələrdə öləziyir, duman arxasında imiş kimi güclə görünürdü, Məktəbin həyəti bomboş idi. Pəncərələrdə titrəşən kölgələrdən başqa seminariyanın binasında canlılıq əlaməti yox idi. İnsanı qurğuşun kimi əzib, qüssə və kədərə qərq edən bu ağır sükutdan adamın qulağı güyüldəyirdi. Ancaq Petrov heç nəyə fikir vermədən bir kabus kimi sinif otaqlarının qabağında dolaşırdı. O hər şeyi bilmək, hər pıçıltını dinləmək və hər sözü eşitmək istəyirdi. O, bu dəfə adəti xilafına ayağını yerə astaca basır və çalışırdı ki, çəkmələri səslənməsin.
 
 Petrov xeyli dolaşdı, pəncərələrin önündə ayaq saxladı və nəhayət, müsəlman şöbəsinin otaqlarına yaxınlaşdı. Qapıların dalında ayaq saxlayıb içərini dinşədi və axırda Əşrəf oxuyan qrupun pəncərəsinə yaxınlaşdı. Özünü göstərməməyə çalışaraq, ehtiyatla içəri boylandı.
 
 Sinif nümayəndəsi Firidun qapı tərəfdəki stolun arxasında oturmuşdu. Qalan uşaqlar ikibir-ikibir əyləşib dərs oxuyurdular. Firidun hərdən mütaliəsinə ara verib uşaqlara baxır, onların nə ilə məşğul olmasına göz qoyurdu.
 
-Petrov az qala burnunu şüşəyə yaxınlaşdırdı və uşaqların içində Əşrəfi axtardı. O lap dalda əyləşmişdi. Yanında da heç kəs yox idi, nə isə ciddi bir şey oxuyurdu. Petrov pəncərədən nə qədər boylandısa da, Əşrəfin oxuduğu kitabı görə bilmədi. Daha da şübhələndi və gurultu ilə içəri girdi. Hamıdan əvvəl Firidun diksinib ayağa qalxdı. Onun "diqqət!" deməsi ilə stolun üstündəki çırağın sönməsi bir oldu. Otağa qaranlıq çökdü. Uşaqlar yerlərində qurdalandılar. Petrovun cıngiltili səsi otağa yayıldı:
+Petrov az qala burnunu şüşəyə yaxınlaşdırdı və uşaqların içində Əşrəfi axtardı. O lap dalda əyləşmişdi. Yanında da heç kəs yox idi, nə isə ciddi bir şey oxuyurdu. Petrov pəncərədən nə qədər boylandısa da, Əşrəfin oxuduğu kitabı görə bilmədi. Daha da şübhələndi və gurultu ilə içəri girdi. Hamıdan əvvəl Firidun diksinib ayağa qalxdı. Onun "diqqət!" deməsi ilə stolun üstündəki çırağın sönməsi bir oldu. Otağa qaranlıq çökdü. Uşaqlar yerlərində qurdalandılar. Petrovun cingiltili səsi otağa yayıldı:
 
 – Heç kəs yerindən tərpənməsin! Tez ol, çırağı yandır!
 
@@ -28,7 +28,7 @@ Petrov az qala burnunu şüşəyə yaxınlaşdırdı və uşaqların içində Ə
 
 – Bu saat, cənab müəllim, təqsir özünüzdə oldu. Qapını birdən-birə açmasaydınız, külək çırağı söndürməzdi. Kibriti tapa bilmirəm.
 
-Petrov daha da əsəbiləşdi. Pencəyinin cibindən kibrit çtxardıb Firiduna verdi:
+Petrov daha da əsəbiləşdi. Pencəyinin cibindən kibrit çıxardıb Firiduna verdi:
 
 – Al, ancaq əlli ol.
 
@@ -66,7 +66,7 @@ Firidun kibriti çəkib çırağı yandırdı. Bir anda divarda kölgələr oyna
 
 – Budur.
 
-Petrov kitabı bir xeyli əlində hərlədi, sonra Əşrafin dəftərlərinin arasını axtardı. Bir şey tapmadıqda daha da əsəbiləşdi:
+Petrov kitabı bir xeyli əlində hərlədi, sonra Əşrəfin dəftərlərinin arasını axtardı. Bir şey tapmadıqda daha da əsəbiləşdi:
 
 – Dur, sinifdən çıx!
 
@@ -98,7 +98,7 @@ Bir az bundan əvvəl başı gicəllənib yıxılmağa hazır olan Əşrəfin ta
 
 – Səsini kəs!
 
-Semyonov əlini masaya çırpib var gücü ilə bağırdı və dərhal yerindən sıçrayıb ayağa qalxdı. Onun qışqırtısından divar cingildədi. Direktorun belə gözlənilməz qəzəbindən Petrov da, Çernyayevski də çaşıb qaldılar. Semyonov nə qədər çalışdısa da, əllərinin titrəməsini gizlədə bilmədi. Dəsmalını çıxardıb eynəyini silərkan az qaldı ki, onu salıb sındırsın. Çernıyayevski onu ilk dəfə bu cür hirsli görürdü.
+Semyonov əlini masaya çırpıb var gücü ilə bağırdı və dərhal yerindən sıçrayıb ayağa qalxdı. Onun qışqırtısından divar cingildədi. Direktorun belə gözlənilməz qəzəbindən Petrov da, Çernyayevski də çaşıb qaldılar. Semyonov nə qədər çalışdısa da, əllərinin titrəməsini gizlədə bilmədi. Dəsmalını çıxardıb eynəyini silərkan az qaldı ki, onu salıb sındırsın. Çernıyayevski onu ilk dəfə bu cür hirsli görürdü.
 
 – Məktəbin intizamını pozduğun, dərs gedişinə mane olduğun bəs deyil, hələ mənim hüzurumda müəllimə də cavab qaytarırsan? Nə üçün zəngi çaldın? Sənə kim icazə vermişdi?
 
@@ -168,7 +168,7 @@ Semyonov başının üstünü kəsdirmiş Petrova altdan-yuxarı xeyli baxdıqda
 
 Əşrəfin kəmərini açdılar, şapkasındakı nişanı sökdülər və elə həmin gecə qaranlıq, rütubət zirzəmiyə saldılar. O, bir xeyli susdu. Ayağının altındakı saman xışıltısından başqa heç nə eşitmədi. İrəli yerimək istədikdə başı divara deydi, əli nəm daşlara toxundu. Əşrəf tərpənmədi. Gözü qaranlığa alışana qədər gözlədi. Hər yer sakit idi. Hardasa su damcılayır, arabir siçan civildəyirdi. Onun əti çimçəşdi, bu rütubətli zirzəmidə qalmağı şəninə sığışdırmadı, ayağa durub qapını sındırmaq və birbaş yataqxanaya yollanmaq istədi. Bayırda səs eşidib susdu. Nə danışıldığını öyrənməyə çalışdı. Növbətçi müəllim Petrov keşikçi tələbəyə göstəriş verirdi. "Bu tərəfə bir adam hərlənsə, ona bir parça çörək verilsə, səni bu çəliklə ölüncəyə qədər əzişdirəcəm, özünü də məktəbdən qovduracam, eşitdinmi? Qapıya qıfıl vur, özüm bir azdan gəlib hər şeyi yoxlayacam".
 
-Əşrəfin dişi bağırsaqlarını doğrasa da dınmədi. Petrovun çəkmələrinin cırıltısı kəsənəcən susdu.
+Əşrəfin dişi bağırsaqlarını doğrasa da dinmədi. Petrovun çəkmələrinin cırıltısı kəsənəcən susdu.
 
 Onun keşiyini çəkən İvan adlı bir tələbə idi. Xristian şöbəsində oxuyan bu uşaqla Əşrəf bir-iki dəfə Kipianinin dərnəyində rastlaşmışdı. Araları açıq deyildi. Ona görə də bir söz deməkdən çəkinirdi. Bir də ona deyiləsi sözü də yox idi. Direktorun əmri ilə onu cəzalandırmışdılar. Bir həftə bu qaranlıq zirzəmidə siçanlarla birlikdə yatacaq sonra isə uşaqların yanına qayıdacaqdı.
 
@@ -204,7 +204,7 @@ Qapı astadan döyüldü.
 
 Səni məktəbdən qova bilməzlər. Hamımız sənin dalında durmuşuq. Öldü var, döndü yoxdur. Çörəyi yedinmi? Deyəsən səs gəlir, geri çəkil.
 
-Əşrəf zirzəminin küncünə qısıldı. Ürəyi döyünə-döyunə bayırı dinlədi. Vanya kiminləsə xısın-xısın danışdı və aradan on dəqiqə keçəndən sonra yenidən Əşrəfi səslədi:
+Əşrəf zirzəminin küncünə qısıldı. Ürəyi döyünə-döyünə bayırı dinlədi. Vanya kiminləsə xısın-xısın danışdı və aradan on dəqiqə keçəndən sonra yenidən Əşrəfi səslədi:
 
 – Ala, bu südü də iç. Firidunla Luka göndəriblər. Sən Lukanı tanıyırsanmı? Bizim şairimiz. Özləri gələ bilməyiblər. Petrov indi də yataqxanada fırlanır. Süpürgəçi ilə göndəriblər.
 

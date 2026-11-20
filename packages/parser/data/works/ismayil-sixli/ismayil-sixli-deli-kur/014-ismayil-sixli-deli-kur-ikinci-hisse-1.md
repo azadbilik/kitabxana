@@ -16,15 +16,15 @@ Göytəpə kəndinin ucqarında, xır yolunun üst tərəfində üçotaqlı bir 
 
 Göytəpəlilərdən bu yolun necə çəkilməsini xatırlayanlar az deyil. Hətta onların çoxu yola döşəmək üçün Kürün sahilindəki çaylaqdan araba ilə xır daşıdıqlarını indi də unutmamışdır.
 
-Pristavın əmri ilə kəndin mötöbər adamları qabağa düşüb qapı-qapı gəzmiş, evlərdə nə qədər araba varsa hamısını qoşdurub birbaş xır daşımağa göndərmişdilər. Ətraf kəndlərdən də gələnlər çox idi. Arabaların : bir ucu yoldan üzülməmiş, o biri ucu Kürün safrilindən geri qayıdırdı. Hörükdəki öküzlər dizini yerə qoyur, kəllər boyunduruğun altında ləhləyirdilər.
+Pristavın əmri ilə kəndin mötəbər adamları qabağa düşüb qapı-qapı gəzmiş, evlərdə nə qədər araba varsa hamısını qoşdurub birbaş xır daşımağa göndərmişdilər. Ətraf kəndlərdən də gələnlər çox idi. Arabaların : bir ucu yoldan üzülməmiş, o biri ucu Kürün safrilindən geri qayıdırdı. Hörükdəki öküzlər dizini yerə qoyur, kəllər boyunduruğun altında ləhləyirdilər.
 
 Təkərlər əvvəlcə xam torpaqda iz saldı, bircə həftədən sonra isə əməlli-başlı yola düşdü. Qatarlaşan arabalar həmin yolla qarışqa kimi irəli-geri gedirdi. Hamı gecəni gündüzə qatıb çaydan daş, qum daşıyırdı. Göytəpəlilərin vəziyyəti nisbətən yaxşı idi. Alatoranlıqdan işə çıxsalar da, qaranlıq qarışan kimi evlərinə dağılışırdılar. Ancaq başqa kəndlərdən, xüsusən dağ ətəyindəki obalardan gələnlər elə yolun kənarındaca gecələyəsi olurdular. Onların qaladıqları ocaqların şöləsi uzun zaman sönmür, səhərin sazağı başlayana qədər korun-korun yanıb qorlanırdı. Ulaqları təpələrin ətəyindəki çəmənlikdə növbə ilə otaran arabaçılar həm də yatanların keşiyini çəkirdilər. Onları heç olmasa həftədə, ya da yarım ayda bir evlərinə də buraxmırdılar. Əgər dallarınca çörək gətirən olmasaydı, burada yeməyə bir şey də tapmazdılar.
 
-Pristav günəşin atlı kazaklarla gəlib yola baş çəkirdi. Gözlərində yanları qapalı iri eynək, yolun kənarında oturub, dizə qədər sarıdıqları ayaqlarının pəncəsi arasındakı qara çay daşlarını çəkiclə ovxalayan dustaqların başının üstünü kəsdirirdi. Daşqıranlar nəfəslərini dərmədən çəkici endirir, arabaçıların gətirib qatar-qatar tökdükləri daşları deyirman kimi üyüdüb ovxalayırdılar. Dəmir cingiltiləri ətrafa səpələnən qəlpələrin vızıltısına qarışırdı. Bəzən daş parçalanmır, çəkicin altından qığılcım qalxırdı. Elə bil daşlar üzə durub, əzilmək istəmirdi.Fəhlələr qaranlıq qarışana qədər bellərini qaldırmadan başıaşağı işlyirdilər. Daş ovxantısı onları qurşağa qədər basırdı.
+Pristav günəşin atlı kazaklarla gəlib yola baş çəkirdi. Gözlərində yanları qapalı iri eynək, yolun kənarında oturub, dizə qədər sarıdıqları ayaqlarının pəncəsi arasındakı qara çay daşlarını çəkiclə ovxalayan dustaqların başının üstünü kəsdirirdi. Daşqıranlar nəfəslərini dərmədən çəkici endirir, arabaçıların gətirib qatar-qatar tökdükləri daşları deyirman kimi üyüdüb ovxalayırdılar. Dəmir cingiltiləri ətrafa səpələnən qəlpələrin vızıltısına qarışırdı. Bəzən daş parçalanmır, çəkicin altından qığılcım qalxırdı. Elə bil daşlar üzə durub, əzilmək istəmirdi.Fəhlələr qaranlıq qarışana qədər bellərini qaldırmadan başıaşağı işləyirdilər. Daş ovxantısı onları qurşağa qədər basırdı.
 
 Kənd arasında pıçıltı gedirdi ki, hökumət bu yolu tez çəkmək, Tiflisi İrəvanla, İrəvanı da Gəncə ilə birləşdirmək istəyir, dağların o tərəfindən , aşıb gələn qoşunlarına yol açmağa çalışır. Elə ona görə də ayağı qandallı dustaqları bura töküblər. Görünür, kəndin üst tərəfindəki sil-silə təpələrin ətəyi ilə uzanan torpaq yol daha işə yaramırdı.
 
-Yaşlı kişilər həmin torpaq yolla çox karvanların gəlib keçdiyini sövyləyirdilər. Onların dediyinə görə, Şah Abbas da, Qacar da Tiflisi talamağa bu yolla gediblər. Elə gürcü padşahı İrakli də bu yolla gəlib Kür boyundakı obalara basqın etmışdir.
+Yaşlı kişilər həmin torpaq yolla çox karvanların gəlib keçdiyini sövyləyirdilər. Onların dediyinə görə, Şah Abbas da, Qacar da Tiflisi talamağa bu yolla gediblər. Elə gürcü padşahı İrakli də bu yolla gəlib Kür boyundakı obalara basqın etmişdir.
 
 Göytəpə kəndinin yuxarısında qədim bir körpü də var. Kürlə Xramın ağız-ağıza qovuşduğu dar keçidi birləşdirən bu körpü sarı kərpicdən hörülmüşdü. Hətta körpünün aşağısında sudan qalxan enli kərpic tağların içində otaqlar da var. Ətrafında ot cücərən dəmir barmaqlıqlı şüşəsiz pəncərələr çuxura düşmüş gözlər kimi qaralır. İndi otaqların içinə quşlardan başqa heç kəs girmir. Əslinə baxsan, oranın yolunu bilən də yoxdur.
 
@@ -36,7 +36,7 @@ Onun kim olduğunu heç kəs bilmirdi. Sifətindən, saçının, gözünün qara
 
 Rus Əhməd guşənişin bir həyat keçirirdi. Bütün günü evin ətrafında dolaşır, əlini gözünün üstünə qoyub, xır yoluna baxır, gəlib-gedən olmadığını yəqin etdikdən sonra bel götürüb qapı-bacanı sahmana salırdı. Əvvəllər ona heç kəs yaxın durmazdı. "Xaçpərəstlə nə işimiz var", -deyə uzaq gəzirdilər. Ancaq yavaş-yavaş ona isinişdilər. Əhməd özünə at aldı, araba düzəltdi, şəhərdən su çəlləyi gətirdi. Bundan sonra onun məşğuliyyəti də artdı.
 
-Göytəpə kəndinin üst tərəfi dəmyədir. Xır yolunun ətrafina su çıxmır. Əhməd isə "Zayej"in dörd yanında ağac əkmək, gül basdırmaq istəyirdi. O, hər gün Kürdən iki-üç çəllək su gətirib, qapı-bacanı sulayırdı. "Zayej"in ətrafı yavaş-yavaş yaşıllaşırdı.
+Göytəpə kəndinin üst tərəfi dəmyədir. Xır yolunun ətrafına su çıxmır. Əhməd isə "Zayej"in dörd yanında ağac əkmək, gül basdırmaq istəyirdi. O, hər gün Kürdən iki-üç çəllək su gətirib, qapı-bacanı sulayırdı. "Zayej"in ətrafı yavaş-yavaş yaşıllaşırdı.
 
 O hərdənbir ova getməyi, Kürdən balıq tutmağı da sevirdi. Göytəpəlilər kimi iri qarmaq almaz, bir kötüyün üstündəcə oturub, balaca tilovla kiçik balıqlardan tutardı. Kənd uşaqları bəzən ona sataşar, bəzən də yaxın gəlib söhbətə girişərdilər. Yavaş-yavaş onların arasında ünsiyyət başlayırdı.
 
@@ -70,7 +70,7 @@ Oğlan tüfəngi hərlədi:
 
 Əhməd gülümsünərək, hələ də acığı soyumayan Əşrəfi başdan-ayağa süzdü. Uşağın ağ sifəti alışıb yanırdı.
 
-– Bütün bu yerlərın hamısı sizindir?
+– Bütün bu yerlərin hamısı sizindir?
 
 – Bəsnə?!
 

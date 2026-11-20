@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Gurhagur yanan dəmir peçin istisi otağı bərk qızdırdı. Çarpayıda, yumşaq yorğan-döşəkdə yatan Qurban Kosaoğlu yuxulu-yuxulu sinəsini qaşıdı, arxası üstə döndü. Qolları çarpayıdan sallandı. Azacıq sonra otağı fısıltı götürdü.
 
-Bədənnüma güzgünün qabağında olurub qaş-gözünə sığal verən Sayalı ərinin səsini eşidib geri döndü. Onun üstünün açıldığını görüb ayağa durdu. Döşəməyə düşmüş yorğanı götürüb onun üstünə örtdü. Onun iri döşləri Qurbanın sinəsinə toxundu. Sayalı xeyli ərinin başı üznrində dayandı. Qurban nəfəs aldıqca qalın dodaqları aralanır, papiros çəkməkdən saralmış dişləri görünürdü. Ətli gözlərinin yanları qırış-qırış idi. Ülgüclə qırxılmış başı yastığın üstündə parıldayırdı. Nəfəs aldiqca xırıldayırdı.
+Bədənnüma güzgünün qabağında oturub qaş-gözünə sığal verən Sayalı ərinin səsini eşidib geri döndü. Onun üstünün açıldığını görüb ayağa durdu. Döşəməyə düşmüş yorğanı götürüb onun üstünə örtdü. Onun iri döşləri Qurbanın sinəsinə toxundu. Sayalı xeyli ərinin başı üzərində dayandı. Qurban nəfəs aldıqca qalın dodaqları aralanır, papiros çəkməkdən saralmış dişləri görünürdü. Ətli gözlərinin yanları qırış-qırış idi. Ülgüclə qırxılmış başı yastığın üstündə parıldayırdı. Nəfəs aldıqca xırıldayırdı.
 
 Sayalı ərini silkələdi.
 
@@ -178,7 +178,7 @@ Bizim kolxozda belə şeyləri yada salmasan yaxşıdır.
 
 – Ondan ötrü ki, onun xeyrindən çox şəri var.
 
-– Kərim dayı, axı mən başa düşə bilmirəm, məhsuldarlığı artırmağın kolxoza nə zərəri ola bilər? Hər hektardan iyirmi yox, əlli, altmış sentner pambıq götürsək, kolxuz zərər çəkər?
+– Kərim dayı, axı mən başa düşə bilmirəm, məhsuldarlığı artırmağın kolxoza nə zərəri ola bilər? Hər hektardan iyirmi yox, əlli, altmış sentner pambıq götürsək, kolxoz zərər çəkər?
 
 – Bəli, çəkər, Kərim kişi cadar-cadar olmuş baş barmağı ilə qəlyanın külünü basdı. - Sən, oğul, hələ bizim adamları yaxşı tanımırsan.
 
@@ -222,17 +222,17 @@ Kosaoğlu bir anlığa qapının ağzında dayanıb içəridəkiləri süzdü.
 
 – Ə, nə olub, ağac başında ha yatmayıbsınız, nə tezdən idarəyə doluşubsunuz? - deyə gülümsədi. Onun salam əvəzinə zarafatla dediyi bu sözlərə təbəssümlə cavab verənlər də oldu.
 
-Kosaoğlu yerinə keçib, stolu altına çəkdi. Hələ də ayaq üstə duranları görüb amiranə səsiə:
+Kosaoğlu yerinə keçib, stolu altına çəkdi. Hələ də ayaq üstə duranları görüb amiranə səslə:
 
 – Ə, oturun, niyə ayaq üstə durubsunuz, - dedi.
 
 Gövhər qarı, sədrin yerinə keçib əyləşdiyini görəndə sevindi. "Allah, sənə şükür, deyəsən kişinin bu gün kefi sazdır. Dava, qalmaqal salmayacaq".
 
-Kosaoğlu yerini rahatlayandan sonra stolun üstündəki kağızları əlləşdirdi. Sonra telefonun qulpunu hərləyib zəng etdi. Dəstəyi götürüb qulağına yaxınlaşdırdi. Bir iki dəfə "allo, allo" - dedi. Cavab verən olmadı. Qaşqabağını sallayıb fısıldadı. "Bu zalım uşağı da adama bir dəfə düz-əməlli cavab vermir", - deyə öz-özünə deyindi və dəstəyi yerindən asdı.
+Kosaoğlu yerini rahatlayandan sonra stolun üstündəki kağızları əlləşdirdi. Sonra telefonun qulpunu hərləyib zəng etdi. Dəstəyi götürüb qulağına yaxınlaşdırdı. Bir iki dəfə "allo, allo" - dedi. Cavab verən olmadı. Qaşqabağını sallayıb fısıldadı. "Bu zalım uşağı da adama bir dəfə düz-əməlli cavab vermir", - deyə öz-özünə deyindi və dəstəyi yerindən asdı.
 
 İmran durub sədrə yaxınlaşdı. Kosaoğlu onu yenicə görürmüş kimi yerində qurcalandı.
 
-Ə, İmransanmı? Xoş gördük, bala, nə vaxt gəlibsən? - deyə gülə-gülə ona əl uzatdı, - otur, otur, söylı görək nə var, nə yox?
+Ə, İmransanmı? Xoş gördük, bala, nə vaxt gəlibsən? - deyə gülə-gülə ona əl uzatdı, - otur, otur, söylə görək nə var, nə yox?
 
 Telefon zəngini eşidən Kosaoğlu, sözünü yarımçıq qoyub dəstəyi götürdü.
 
@@ -240,13 +240,13 @@ Telefon zəngini eşidən Kosaoğlu, sözünü yarımçıq qoyub dəstəyi göt�
 
 Sədr sakitcə gözlədi. Birdən onun sifəti qəribə şəklə düşdü. Kiçik gözləri qıyılıb daha da balacalaşdı. Yanaqlarındakı qırışlar çoxaldı, iri, qalın dodaqları aralandı, saralmış dişləri göründü.
 
-– Sabahımz xeyir, yoldaş Əsədov, sizi narahat edən Kosaoğludur.
+– Sabahınız xeyir, yoldaş Əsədov, sizi narahat edən Kosaoğludur.
 
 Bəli? Hə, mənəm, kefımmi? Sağ ol, çox yaxşıdır. Bir də ki, təki sizing kefiniz yaxşı olsun. Biz bir təhər dolanacağıq. A kişi, heç belə şey olar? Hə... elə evdə də deyirəm. Bizi bir yolluq yaddan çıxartdinız ki...
 
 A kişi, nə olsun, çovğun-zad qopmayıb ki? İstəyirsiniz maşın göndərim, hə? Yaxşımı? Yox, sakitlikdir. Bir şey olsa xəbər verərəm. Yaxşı.
 
-Gözləyəcəyom. Elə uşaqlar darıxıblar. Sağ olun, çox sağ olun. Evdəkilərə salam deyin.
+Gözləyəcəyəm. Elə uşaqlar darıxıblar. Sağ olun, çox sağ olun. Evdəkilərə salam deyin.
 
 Kosaoğlu dəstəyi asıb kabinetdəkiləri qürurla süzdü. Kərim kişi peçin yanından durub sədrin stoluna yaxınlaşdı. Bunu görən Qurban qaşqabağını tökdü:
 
@@ -282,7 +282,7 @@ Kolxoz sədri tərs-tərs kağıza baxdı.
 
 – Taxını qurtarıb, avans istəyirəm.
 
-Kosaoğlu kağızı kəonara itələdi.
+Kosaoğlu kağızı kənara itələdi.
 
 – Ə, mən anbarçıyam? Taxılın qurtarıb, get anbara.
 
@@ -322,7 +322,7 @@ Kərim kişi bir peç tərəfə, bir də pörtmüş sədrə baxdı.
 
 Eybi yoxdur...
 
-Kosaoğlu daha da qızardı. Boğazınin damarları qabardı.
+Kosaoğlu daha da qızardı. Boğazının damarları qabardı.
 
 – Kərim kişi, bax ha, saqqalının ağlığına baxmaram. Səni bu camaatın içində biabır elərəm!
 
@@ -336,7 +336,7 @@ Kosaoğlu: "Hələ harasıdır! İclasda danışmağı mən ona öyrədərəm. B
 
 – Ə kişi, demaqoqlar olmasa, dolanmağa nə var? Zalım oğlu çənəsini boş qoyub, ağzına gələni danışır.
 
-O, məxmər köynəyinin döş cibindən zənciri sallanan gümüş saatinı çıxarıb baxdı. Bir az sakitləşəndən sonra üzünü İmrana tutdu:
+O, məxmər köynəyinin döş cibindən zənciri sallanan gümüş saatını çıxarıb baxdı. Bir az sakitləşəndən sonra üzünü İmrana tutdu:
 
 – A bala, sən belə şeylərə məhəl qoyma, evləri yıxılmışlar aman verirlər ki, adam bir düz-əməlli iş görsün? Qapıdan girən kinü zəli olub yapışırlar boğazımıza. Mən də ki, axır vaxtlar bir az komhövsələ olmuşam, hə... Söylə görək nə var, nə yox? Yəqin anana baş çəkməyə gəlibsən. Sözün düzü, iş-güc başımı o qədər qatıb ki, heç gedib arvadın halını-zadını da xəbər ala bilmirəm. Anan necədir?
 
@@ -376,17 +376,17 @@ Ortalığa sükut çökdü. Sədr İmranın nə üçün kəndə gəldiyini başa
 
 – Hə... - deyə Kosaoğlu səsini uzatdı və dərhal ciddiləşib kağızı gözlərinin qabağına tutdu. Xeyli baxdıqdan sonra orada yazılanların və möhürün doğru olub-olmadığını yoxlayırmış kimi kağızı bir-iki dəfə o üz-bu üzə çevirdi. Sonra nəzərlərini kağızdan çəkib İmrana baxdı.
 
-İmran meşin paltosunun yaxasunı açıb oturmuşdu. Onun zil qara saçları dağılıb alnında qıvrım-qıvrım olmuşdu. Qaşları qalın və çatma idi. Sol qaşının qurtaracağında balaca çapıq vardı.
+İmran meşin paltosunun yaxasını açıb oturmuşdu. Onun zil qara saçları dağılıb alnında qıvrım-qıvrım olmuşdu. Qaşları qalın və çatma idi. Sol qaşının qurtaracağında balaca çapıq vardı.
 
-İmranın gözlənilmədən, Kosaoğlundan xəbərsiz təyinnamə alıb gəlməsi sədri qəzəbləndirdi. "Üz-gözündən də zəhər tökülür. Elə baxır ki, elə bil dədəsi Səmədi mən öldürmüşəm. Mənim elə o ildən bundan zəhləm gedir. Uşaq ola-ola məni iclasda biabır elədi, sonra da götürüb qəzetdə yazdı. Gərək elə ondaca dərsini verəydim. Yox, Kosaoğlu, ünun uşaqlığına baxma, bu gün ağranom olan, sabah ayrı fikrə də düşər. Yaxşısı budur indidən gözünün odunu al. Qoy çıxıb getsin. Ancaq necə?.." - deyə xəyalından keçirdi.
+İmranın gözlənilmədən, Kosaoğlundan xəbərsiz təyinnamə alıb gəlməsi sədri qəzəbləndirdi. "Üz-gözündən də zəhər tökülür. Elə baxır ki, elə bil dədəsi Səmədi mən öldürmüşəm. Mənim elə o ildən bundan zəhləm gedir. Uşaq ola-ola məni iclasda biabır elədi, sonra da götürüb qəzetdə yazdı. Gərək elə ondaca dərsini verəydim. Yox, Kosaoğlu, onun uşaqlığına baxma, bu gün ağranom olan, sabah ayrı fikrə də düşər. Yaxşısı budur indidən gözünün odunu al. Qoy çıxıb getsin. Ancaq necə?.." - deyə xəyalından keçirdi.
 
-İmran qaşlarını düyünləyib gözlərini sədrə zillədi. Onun iti və kəskin baxışları Kosaoğlunun nəzərlərilə qarşılaşdı. Onlar bir-birini sınayırmış kimi, xeyli beləcə dayandılar. İmran sanki onun qəlbindun astar keçdiyini gözlərindnn oxumaq istəyirdi. Kosaoğlu onun kəskin baxışlarına tab gətirə bilməyəcəyini hiss etdisə də, özünü sındırmaq istəmədi. Kişiyə elə gəldi ki, İmranın baxışları onu nizə kimi deşib o üzə keçir. Hətta o, bir az özünü itirən kimi oldu. Kosaoğlu hələ bu cür kəskin və sərrast baxış görməmişdi: "Bundan yaxşı silistçi olarmış. Az qalır gözləri ilə adamı yesin", - deyə düşündü. Düşündüklərini büruzə verməmək üçün zorla da olsa gülümsündü:
+İmran qaşlarını düyünləyib gözlərini sədrə zillədi. Onun iti və kəskin baxışları Kosaoğlunun nəzərlərilə qarşılaşdı. Onlar bir-birini sınayırmış kimi, xeyli beləcə dayandılar. İmran sanki onun qəlbindən astar keçdiyini gözlərindən oxumaq istəyirdi. Kosaoğlu onun kəskin baxışlarına tab gətirə bilməyəcəyini hiss etdisə də, özünü sındırmaq istəmədi. Kişiyə elə gəldi ki, İmranın baxışları onu nizə kimi deşib o üzə keçir. Hətta o, bir az özünü itirən kimi oldu. Kosaoğlu hələ bu cür kəskin və sərrast baxış görməmişdi: "Bundan yaxşı silistçi olarmış. Az qalır gözləri ilə adamı yesin", - deyə düşündü. Düşündüklərini büruzə verməmək üçün zorla da olsa gülümsündü:
 
 – Demək belə, mənim kolxozumda işləmək istəyirsən.
 
 – Bəli, öz kolxozumuzda...
 
-– Çox yaxşı... Amma bir şeyi pis eləyibsən. Adam böyüyə gənəşmədən iş tutmaz. Gərək əvvəlcə mənim yanıma gəleydin. Bəlkə mən səni heç işə götürmək istəmirəm.
+– Çox yaxşı... Amma bir şeyi pis eləyibsən. Adam böyüyə gənəşmədən iş tutmaz. Gərək əvvəlcə mənim yanıma gələydin. Bəlkə mən səni heç işə götürmək istəmirəm.
 
 – Niyə ki? - deyə İmran təəccübləndi.
 
@@ -406,7 +406,7 @@ Kosaoğlu qəhqəhə çəkib güldü. İçəridəkilərdən də ona qoşulanlar 
 
 Kosaoğlu gülməyinə güclə ara verdi. Cibindən iri bir dəsmal çıxarıb əvvəlcə gözlərini quruladı, sonra da burnunu bərkdən silib otağa səs saldı.
 
-– Ona sözüm yoxdur, oğul, ancaq sən mənnən elə danışdm ki, gülməyim tutdu. Hə... nə isə, zarafat öz yerində, iş də öz yerində. Demək, kəndə işləməyə gəlibsən?
+– Ona sözüm yoxdur, oğul, ancaq sən mənnən elə danışdın ki, gülməyim tutdu. Hə... nə isə, zarafat öz yerində, iş də öz yerində. Demək, kəndə işləməyə gəlibsən?
 
 – Bəli, Qurban qağa, mən MTS-ə gedən kimi "İyirmi altılar" kolxozunu məsləhət gördülər. Mən də əmri alıb gəldim.
 
@@ -434,7 +434,7 @@ Stolun siyirməsini çəkib kağızları eşələdi, qarşısındakı qəzetlər
 
 – De görüm, nə istəyirsən?
 
-– Odun, - deyə müəllim qisaca cavab verdi, - məktəbin odunu azalıb, hava da ki, bir təhərdi.
+– Odun, - deyə müəllim qısaca cavab verdi, - məktəbin odunu azalıb, hava da ki, bir təhərdi.
 
 – Odun yoxdur, az yandırın.
 
@@ -454,7 +454,7 @@ Stolun siyirməsini çəkib kağızları eşələdi, qarşısındakı qəzetlər
 
 – Yaxşı!.. Bir az möhlət verin, tapıb düzəldərik.
 
-– Yoldaş sədr, bax axırıncı dəfə deyirəm. Əgər bir həftəyə odun gətirməsəniz, məndən incimyyin.
+– Yoldaş sədr, bax axırıncı dəfə deyirəm. Əgər bir həftəyə odun gətirməsəniz, məndən inciməyin.
 
 – Şikayət eləyəcəksən?
 

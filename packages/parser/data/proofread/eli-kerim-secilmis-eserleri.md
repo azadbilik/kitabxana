@@ -276,7 +276,7 @@ Kimin nəyi vardı, çıxardı:
 çörək, kartof, yumurta.
 üzrxahsız təbəssüm,
 bir də başından içilmiş çaxırdı.
-Öturüb boğazdan aşağı,
+Ötürüb boğazdan aşağı,
 Tərif demədilər
 Bəzilərimiz kimi boğazdan
 yuxarı,
@@ -1042,7 +1042,7 @@ Ona
 Xeyli balaca,
 Yöndəmsiz,
 gözəl göründü cahan.
-Gəncin döşündə əlvan üfuqlər,
+Gəncin döşündə əlvan üfüqlər,
 Gözlərindəsə
 Yerdən çox böyük
 ulduzlar qatı
@@ -3192,7 +3192,7 @@ Onu qoyardıqmı heç gözdən iraq?
 Hər bir dərdinə də çarə qılardıq,
 Nə bilək o belə az yaşayacaq..."
 Eh, bu gün nə qədər xəyala daldım,
-Eh, qəldim nə qədər alışdı, dindi.
+Eh, gəldim nə qədər alışdı, dindi.
 Sən mənim qəbrimi biləsən deyə
 Bu cavan yaşımda ölümmü indi?!
 
@@ -3624,7 +3624,7 @@ Sən deyən də gözəl deyil...
 Amma sifətini
 Dərin fikirlər,
 xoş duyğular
-Elə mükəməl
+Elə mükəmməl
 Elə gözəl
 işləyib ki...
 Deyərsən, bu iş rəssamındır;
@@ -4413,7 +4413,7 @@ Fikirləş bir,
 
 Gecə uşaqlar yatır...
 Mən, tənqidçilərin
-cığallıq, ya da nadürüstlük silabı –
+cığallıq, ya da nadürüstlük silahı –
 "dumanı", yəni siqaret tüstüsü
 İçində
 işləyirəm.
@@ -5540,7 +5540,7 @@ Nöqtə, nöqtə və nöqtə.
 
 Nə vaxt görüşmüşük?
 Harda? Nə zaman?
-Doğrusu, elə bil yadmıdan çıxıb.
+Doğrusu, elə bil yadımdan çıxıb.
 Təbəssüm səhəri doğdu üzündən,
 Dayandın ehmalca əlimi sıxıb.
 
@@ -5635,7 +5635,7 @@ yana.
 Saxlamalıydım ki,
 gecəbəgündüz
 Sən ona dərd verə,
-ezab verəsən.
+əzab verəsən.
 Həsrət aləminin
 dolaylarında
 yol göstərəsən.
@@ -5702,7 +5702,7 @@ Utanıb, əlvida demərəm ona!
 
 Kədər başdan-başa sinəmi tutmuş,
 Nəfəs almağa da yer saxlamamış.
-Fəsilllər astaca üstündən keçər,
+Fəsillər astaca üstündən keçər,
 Əriməz ordasa boranlı bir qış.
 
 Bircə qış fəslini qəbul eyləyər,
@@ -5808,7 +5808,7 @@ axmaq ömrümün.
 
 Məgər ürəyimin bu zamanında
 Sən məni heç atıb getməlisənmi?
-Mənim kədərimə, dərdımə bir an
+Mənim kədərimə, dərdimə bir an
 Yad baxıb, əlvida etməlisənmi?
 
 Nə olar, hər şeyi deyə bilmirəm,
@@ -6743,7 +6743,7 @@ Oxuyurdu astadan.
 Kişi susub bu zaman,
 Birdən dedi: - Ora bax!
 -O ki bizim gədədir!
--Bura çagır oğlunu...
+-Bura çağır oğlunu...
 ...Bala, bayaqkı nədir?
 Oxu görək bir onu...
 
@@ -6780,7 +6780,7 @@ Xallar vurdu, oxudu.
 -Bacı, oğlun oğuldur,
 Musiqi təbi vardır.
 Sənətkar olacaq bu,
-Oglunuz bəxtiyardır.
+Oğlunuz bəxtiyardır.
 Bacı, inanın mənə,
 Musiqi məktəbinə
 Göndəriniz uşağı.
@@ -7614,7 +7614,7 @@ Nigar Azad deyib, Azaddan çalır,
 Qəmər qəmli-qəmli xəyala dalır.
 Söyləyir: - Rayona gedəndən bəri,
 Olubdur bir nəğmə dilim əzbəri:
-O, kimə xoş cəlməz, söylə bir kimə?
+O, kimə xoş gəlməz, söylə bir kimə?
 Sən eşitməmisən?
 Mənə tanışdır.
 -Məncə, belə nəğmə az yaranmışdır.
@@ -8871,7 +8871,7 @@ Titrəyə-titrəyə,
 Qəm yeyə-yeyə.
 Alovla bir yerdə enir torpağa,
 Elə az qalır ki, düşsün ocağa,
-Onu alovların əlındən alan,
+Onu alovların əlindən alan,
 Sonra öpən cavan, oxşayan cavan:
 -Tamam qurumayıb, hələ də sağdır,
 Yazıq beş-on gün də yaşayacaqdır -
@@ -9047,7 +9047,7 @@ Amma qaralırdı ayaq izləri.
 O sınmış, əzilmiş otlar ki vardı,
 Əlləşib, vuruşub səhərdən bəri
 Başını qaldırıb qalxırdı yenə.
--Yadıma el düşdü görənda bunu,
+-Yadıma el düşdü görəndə bunu,
 A dost, göz dağıdır kainat mənə, -
 Mişel seyr elədi könül dostunu,
 Əlini oynadıb dedi ucadan:
@@ -9101,7 +9101,7 @@ Bir də çətin coşar bu sakit adam.
 
 Onun söhbətidir elə bil sular,
 Dalğası nurludur, sürəti aram.
-Dostunun gözündə gütümsədi qəm:
+Dostunun gözündə gülümsədi qəm:
 -Elə ki ilk dəfə dinlədim səni,
 Dedim görməliyəm sizin vətəni.
 Mən sizin diyarı gəzmək istərəm,
@@ -9192,7 +9192,7 @@ Dağların qoynunda qoçaqlar da var ,
 Parçala bağrını, öldür özünü,
 Bununla, ey çarım, üsyanmı yatar?!"
 O dinmir, o baxır axan buluda,
-Az qalır ona da acıği tuta.
+Az qalır ona da acığı tuta.
 "Bü Günəş nə üçün gecikir yenə?
 Günəş də bircə gün soldatım ola!"
 -Mən sənə deyirəm, Mixail, sənə.
@@ -9236,7 +9236,7 @@ Sinəmə belə dağ çəkilməmişdir.
 Şamaxı. Ucalır faytonçuların
 Yenə "ay xəbərdar, xəbərdar" səsi.
 Gəlir uğultusu böyük bazarın,
-Baqqaln, tüccarın coşur həvəsi.
+Baqqalın, tüccarın coşur həvəsi.
 Fanarlı faytonu uçuran atlar
 Gümüş sinəbəndli, qapqara yallı.
 Yollar kənarında pinəçilər var
@@ -9692,7 +9692,7 @@ Doymaq istəmədi, duymaq istədi.
 
 Yenə də duydu ki, az yaşayacaq,
 Düşündü: "Taledə namərdliyə bax!"
-Onun yazdığıni pozmaq istədi,
+Onun yazdığını pozmaq istədi,
 Qoyub qabağına neçə dəftəri
 Birdən hamısında yazmaq istədi
 Pyesi, poemanı, romanı, şeiri...
@@ -9707,7 +9707,7 @@ Bu eşqin yaşasın bir əsər kimi".
 Şairin gözləri alacalanmış,
 O iri gözlərdə təbəssüm ki var,
 Min ildir elə bil küsmüş sevincdən.
-Sonsuz üffüqlərdən üfüqlərəcən
+Sonsuz üfüqlərdən üfüqlərəcən
 Dünyanı fəth edən dəli bir vüqar
 Müqəddəs dizini qoymuşdu yerə.
 Şair bir də baxdı çalan əllərə,
@@ -9773,7 +9773,7 @@ O, yastıq gətirdi dirsəklənməyə.
 Şair gülümsündü: - Cənnətdir, - deyə, -
 -Baba, öldürəsən getmərəm burdan.
 -Oğul, gedənləri öldürür baban.
-Şairə tərcumə etdilər bunu,
+Şairə tərcümə etdilər bunu,
 Unutdu məclisdə oturduğunu.
 Puşkin ölən gündən indiyə qədər
 Heç belə qəhqəhə çəkməmişdi o,
@@ -9803,12 +9803,12 @@ Qoynunda yer verdi soyuğa şair,
 Yapıncı altında qızdırdı onu.
 Bu qəmli gecəyə vurulduğunu
 Açdı ağaclara, ota, yarpağa,
-Verdi təbitlə dodaq-dodağa.
+Verdi təbiətlə dodaq-dodağa.
 Sabah getməlidir bu diyardan o,
 
 @@ 269
 
-At minib qaçaydi irtizardan o!
+At minib qaçaydi intizardan o!
 Deyir ki, taleyin oyununa bax!
 Bilsəydim ayrılıq çətin olacaq,
 Heç bura at sürüb gələrdimmi mən?
@@ -10079,7 +10079,7 @@ Məni yola saldılar
 Kiçik vağzala kimi.
 Nələr yoxdu gözlərdə:
 Acı qəmdən, kədərdən
-Şirin vusala kimi...
+Şirin vüsala kimi...
 O gözlərdə görürdüm
 Davaya qarşı dava,
 Ölümə qarşı ölüm,
@@ -10346,7 +10346,7 @@ nə də dindi,
 Baxdı mənə komandirim,
 Bildim çatıb növbəm mənim.
 Qalxdım dağa...
-İrəilyə baxa-baxa,
+İrəliyə baxa-baxa,
 Qəzəbimi boğa-boğa
 Dişlərimlə
 Nifrətimi sıxa-sıxa,
@@ -10695,7 +10695,7 @@ mavi nəğmə zilinə,
 Şagirdini
 gözündən
 iraq qoymamaq üçün,
-Onun tərlaıı gözünə
+Onun tərlanı gözünə
 baxıb doymamaq üçün.
 
 @@ 291
@@ -10883,7 +10883,7 @@ biri hirslənir).
 Santimetrdə -
 havası,
 boşluğu,
-xəfəsi sıxılmış,
+nəfəsi sıxılmış,
 cövhəri sağılmış
 verstlər!
 İnsanın arzusundan keçirilmiş,
@@ -10914,7 +10914,7 @@ O atılır
 yıxılır,
 durub yenə atılır.
 Atılır,
-axı, onu göydə gözləiyr ürək,
+axı, onu göydə gözləyir ürək,
 Qopub düşəcək
 bir meteortək,
 dayaq tapmasa
@@ -10977,7 +10977,7 @@ O atılır,
 yıxılır,
 baş tutmayır uçuşu.
 Məşqçinin ucalır
-sərt Mefıstofel bası...
+sərt Mefistofel bası...
 Dostumuzdan çox qabaq
 bizim qəlbimiz düşür,
 Durur... Baxır yuxarı.
@@ -11522,7 +11522,7 @@ Küçələri titrədir
 "Zonder-yunq" dəstələri.
 Bu ötkəm,
 şıq geyimli,
-Addmıları müqəyyəd
+Addımları müqəyyəd
 
 @@ 313
 
@@ -11988,7 +11988,7 @@ hara gedir
 Vzvodunu başsız qoyub
 vuruşmanın yansından?!
 Al qan axır su yerinə.
-Qan qarışib bir-birinə.
+Qan qarışıb bir-birinə.
 Suda yağı qanı da var;
 Qan qarışır qanımıza.
 Əsgər içər yad qanını
@@ -12043,7 +12043,7 @@ təmənnası.
 Var çiynində
 Cəmilin
 çiyninin xoş təması.
-Kənddə bir kəs də bilrnir
+Kənddə bir kəs də bilinir
 O vuruşmuşdur necə,
 Fris öldürüb neçə.
 Ağır, ya asan idi
@@ -12180,7 +12180,7 @@ Heykəl olub qalmamış.
 Əhməd deyir:
 – Sənin heç bir əmrini
 Yerə salmamışam mən.
-Qəm eləmə, nə oslun,
+Qəm eləmə, nə olsun,
 orden almamışam mən.
 Rahat ol, ay əzizim,
 barı heykəlliyində.

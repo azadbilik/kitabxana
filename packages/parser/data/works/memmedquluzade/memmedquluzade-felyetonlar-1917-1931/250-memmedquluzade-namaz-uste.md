@@ -15,11 +15,11 @@ Birinci səhifədəki şəklin mənası :
 
 Rza şah namaz üstədir. Onun dalında durub bir nəfər məcrubi- Ərsa məmləkətlərinin səfiri.
 
-Səkkiz rükət namazın dörd rükəti cəhr və dörod rükəti ixfadır.
+Səkkiz rükət namazın dörd rükəti cəhr və dörd rükəti ixfadır.
 
 Babi-əvvəl: Əzan və iqamə, təkbirdir.
 
-Xəffən: Allahü əkbər, cəhrən İngtlis əkbər.
+Xəffən: Allahü əkbər, cəhrən İngilis əkbər.
 
 Şəhadəti-tövhid:
 

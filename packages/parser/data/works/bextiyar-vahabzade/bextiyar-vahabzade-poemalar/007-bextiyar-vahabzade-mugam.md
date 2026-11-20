@@ -564,7 +564,7 @@ Açmış hər zənguləsindən fikrə meydan Çahargah...
 Şahə qalxan dalğalardır bir Müxalif guşəsi,
 Dəryalar ləngərlədən tufandı, tufan Çahargah.
 
-Guşələr göy gurladır, yer titrədir, sel oynadir,
+Guşələr göy gurladır, yer titrədir, sel oynadır,
 Göndərir yadelliyə imzalı fərman Çahargah.
 
 Simlərin mizrab ilə toqquşmasından od çıxar,
@@ -578,7 +578,7 @@ Bəxtiyaram, heyranam bərdaştda çılğın səslərə,
 
 ### Qalalar
 
-Abşeironun qalaları
+Abşeronun qalaları
 Daşlardakı o oymalar,
 Dalğasımı qatardakı
 Həzin, şirin
@@ -1154,7 +1154,7 @@ Gir mağara,
 Yağ, ey yağış,
 Vur nağara..."
 Yağış yağır,
-Ürəymin yanğısına
+Ürəyimin yanğısına
 Dağın, daşın.
 Tut ucundan sən göyə çıx,
 Bu yağışın.
@@ -1343,7 +1343,7 @@ Daş ürəklərdə yanıb daşları sındırdı muğam.
 Haqqa düşmən olanı haqqa tapındırdı muğam.
 
 Nə güman eyləmisən ondakı tilsimləri sən,
-"Kürü ahıyla qurutdu", "Salı yandırdi" muğam.
+"Kürü ahıyla qurutdu", "Salı yandırdı" muğam.
 
 Onun hər guşəsi bir xatirə, bir canlı kitab,
 Keçilən yolları hərdən bizə andırdı muğam.

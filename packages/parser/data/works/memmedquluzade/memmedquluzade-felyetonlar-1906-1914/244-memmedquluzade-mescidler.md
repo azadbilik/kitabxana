@@ -47,7 +47,7 @@ Bəli, mədrəsə flandır, şəhər flan. Bir cədvəldə yazılıb “dürus�
 
 Dəxi mən sözümü qurtardım. Bir tərəfdən bizi gözləri götürməyən qonşularımızdan təvəqqə edirəm ki, çox da ehtiyat eləməsinlər və məktəblərimizin övzaına baxıb görsünlər ki, biz axirətdən savayı heç bir şey axtarmırıq və onlara hər halda mane ola bilmərik və nə qədər yuxarı da atılsaq, öz boynumuzdan yuxarı atıla bilmərik.
 
-Behiştliklərimizdən də təvəqqə edirəm ki, məktəblərimzin proqramına baxıb görsünlər ki, bunların hər biri özlüyündə bir balaca məsciddir; və dəxi bundan sonra bir tikə də ürəklərini sıxmasınlar.
+Behiştliklərimizdən də təvəqqə edirəm ki, məktəblərimizin proqramına baxıb görsünlər ki, bunların hər biri özlüyündə bir balaca məsciddir; və dəxi bundan sonra bir tikə də ürəklərini sıxmasınlar.
 
 Yuxarıda yazdığımız beş məktəbin adları belədir: biri İttihadi-iraniyan, biri İttifaqi-Azərbaycan, biri İqbali-Səlyan, biri İstiqbali-Lənkəran, biri Xali-canan, biri də Bali-Əmrhacıyan.
 

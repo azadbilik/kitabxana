@@ -22,7 +22,7 @@ O vaxt Əmrah general Cavad bəy Şıxlinskinin yavəri idi. Hər şey indiki ki
 
 İndi isə bir aydi ki, Gəncədədirlər. Belə getsə, biz öz istiqlaliyyətimizi itirəcəyik. Ona görə də polkovnik Cahangir bəy Kazımovla belə qərara gəlmişik ki, Gəncəni üsyana qaldıraq. Sizi də bu məqsədlə məsləhətə çağırmışıq. Fikriniz nədir?
 
-İçəridə oturan generallar və başqa hərbiçilər çiyinlərindən ağır yük götürulmüş kimi dərindən nəfəs aldılar.
+İçəridə oturan generallar və başqa hərbiçilər çiyinlərindən ağır yük götürülmüş kimi dərindən nəfəs aldılar.
 
 – Biz bunu çoxdan gözləyirdik.
 

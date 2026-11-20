@@ -29,7 +29,7 @@ Neçə yüz il bundan irəli Ərdəbildə Şeyx Səfi adına möhtərəm bir ş�
 
 Bəs bu neçə yüz ilin müddətində bu qədər mövqufatın hədsiz mədaxili necə olub? Hansı məktəb və mərizxanalara, hansı məscidə, hansı qiraətxanaya xərclənib? Necə olub hədsiz pullar?
 
-Təfavüt burasındadır ki, Tiflis mövqufatının mədaxili keçdi bir rusun əlinə və rus ola-ola haman mədaxili yığıb xəzinədə saxladı ki, axırda məscid tikdirən vaxtda lazım olsun. Amma Ərdəbil şeyxinin mövqufatı keçdi bir boynu yoğun xüddambaşının əlinə, yəni bir müsəlmanın əlinə və bu müsləman, yəni xuddambaşı bir ucdan başladı məscidin bimisl qalısını ingilislərə üç min manata satmağa, bir ucdan da barama qurdu kimi daraşıb mövqufata, başladı yeməyə.
+Təfavüt burasındadır ki, Tiflis mövqufatının mədaxili keçdi bir rusun əlinə və rus ola-ola haman mədaxili yığıb xəzinədə saxladı ki, axırda məscid tikdirən vaxtda lazım olsun. Amma Ərdəbil şeyxinin mövqufatı keçdi bir boynu yoğun xüddambaşının əlinə, yəni bir müsəlmanın əlinə və bu müsəlman, yəni xuddambaşı bir ucdan başladı məscidin bimisl qalısını ingilislərə üç min manata satmağa, bir ucdan da barama qurdu kimi daraşıb mövqufata, başladı yeməyə.
 
 Yox, vallah, sağ olsun rus hökuməti.
 

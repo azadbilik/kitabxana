@@ -38,7 +38,7 @@ Hansı şəxsə, hansı kəsə,
 İnsan deyib çağırasan?...
 Cavab çətin, sual asan?...
 Deyin xoşbəxt sayaq kimi,
-Varlınımı, zənginimi?
+Varlığımı, zənginimi?
 Zalımımı, fağırımı?!
 Dünya qorxunc nağıl imiş,
 Sual imiş başdan-başa,

@@ -24,7 +24,7 @@ Mürsəl zehnində nə isə axtarırmış kimi fikrə getdi və onun yanına oxu
 
 Mürsəl ata hənirtisi ilə isinmiş məktubu alıb o üz-bu üzünə baxır, sonra zərfi açır və hiss edirdi ki, dustaq qalada bu məktubu kiməsə yazdırmışdı. Gələn məktubların hamısı eyni sözlərlə başlayırdı: "Əvvəla qəlbimin ən dərin guşəsində bəslədiyim salamları səba nəsiminə qataraq sizlərə göndərirəm". Lap axırda isə məktub yazan öz təşəkkürünü bu sözlərlə bilirirdi: "Sağ olsun bn kağızı oxuyan və qulaq asanlar". Mürsəl başa düşürdü ki, kənddə savadlı adam yoxdu, kimisə axtarıb tapmalı və ona oxutdurmalı idilər. Arvad-uşağın maraqdan bağrı çatlayır, orada yazılanları bilmək istəyirdilər. Amma abır-həyalarına qısılaraq kişiləri məktubla bərabər məktəbə, müəllimlərin yanına göndərirdilər. Evdə oxuyan uşaqları olsa da, onlara inanmırdılar.
 
-Məktub yazan da, məktub alan da bunları yaxşı bilirdi. Ona görə də mütləq yazının sonunda "Sağ olsun bu məktubu oxuyan" sözlərini qeyd edirdilər. Mürsəl xeyü fikirdən sonra, - "Uçitel, - dedi - olmazmı, uşaqlara tapşıraq analarının, bacılarının, bibi və xalalarının əlindən tutub məktəbə gətirsinlər".
+Məktub yazan da, məktub alan da bunları yaxşı bilirdi. Ona görə də mütləq yazının sonunda "Sağ olsun bu məktubu oxuyan" sözlərini qeyd edirdilər. Mürsəl xeyr fikirdən sonra, - "Uçitel, - dedi - olmazmı, uşaqlara tapşıraq analarının, bacılarının, bibi və xalalarının əlindən tutub məktəbə gətirsinlər".
 
 – Ağıllı fikirdi.
 

@@ -21,6 +21,6 @@ Onu qoyardıqmı heç gözdən iraq?
 Hər bir dərdinə də çarə qılardıq,
 Nə bilək o belə az yaşayacaq..."
 Eh, bu gün nə qədər xəyala daldım,
-Eh, qəldim nə qədər alışdı, dindi.
+Eh, gəldim nə qədər alışdı, dindi.
 Sən mənim qəbrimi biləsən deyə
 Bu cavan yaşımda ölümmü indi?!

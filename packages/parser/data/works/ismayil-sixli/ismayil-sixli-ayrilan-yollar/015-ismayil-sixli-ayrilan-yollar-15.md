@@ -16,9 +16,9 @@ Nəsib dayı sahələri gəzməkdən qayıdırdı. At bürküdən və yorğunluq
 
 Dalğalanmağa başlayan taxıl zəmilərinin içində quşlar səkirdi. Bəzən qulaqlarını qoşalaşdırıb yolun kənarında oturan dovşan gözə dəyirdi.
 
-Nəsib dayı bu yerlərə uşaqlıqdan bələd idi. Hələ beş-altı yaşında olanda qızların dəstinə qoşulub, buralara pencər yığmağa gələrdi. O, özündən iri olan qızlardan geri qalmamağa çalışır, bıçağını çıxardıb gah taxılın içində qazayağı dərər, gah yol kənarnıdakı ilanotunu yolar, gah da yemlik yeyərdi. Axşam isə atıla-atıla kəndə qayıdardılar. Uşaqlar gətirdikləri pencərdən anaları dovğa bişirər, kətə salardılar. Bir az böyüdükdən sonra Nəsib öz yaşıdları ilə birlikdə buralara quş tutmağa gələrdi.
+Nəsib dayı bu yerlərə uşaqlıqdan bələd idi. Hələ beş-altı yaşında olanda qızların dəstinə qoşulub, buralara pencər yığmağa gələrdi. O, özündən iri olan qızlardan geri qalmamağa çalışır, bıçağını çıxardıb gah taxılın içində qazayağı dərər, gah yol kənarındakı ilanotunu yolar, gah da yemlik yeyərdi. Axşam isə atıla-atıla kəndə qayıdardılar. Uşaqlar gətirdikləri pencərdən anaları dovğa bişirər, kətə salardılar. Bir az böyüdükdən sonra Nəsib öz yaşıdları ilə birlikdə buralara quş tutmağa gələrdi.
 
-Onların hərəsi əlinə bir çomaq alar və qaratikan kollarının arasına dolan quşları qovardılar. Göyün üzündə süzən ley kolluqdakı quş dəstəsinin üstünə şığıyardı. Quşlar qorxudan özlərini tikanlara çırpardılar. Uşaqlar fürsətdən istifadə edərək onları çomaqla vurub yerə salardılar. Bəzən onlar quş yuvasına çıxıb yenicə tüklənən dolaşa balalarını düşürərdilər. Tut yetişəndə bu quşlar sahiblərinin dalınca qaçardı. Uşaqlar əllərindəki tutu yuxarı qaldırıb, "ükkəi, ükkəl" - deyərdilər. Dolaşa isə boğazını uzadib qanadını çırpardı: "Qa-qa-qa"... Sonralar Nəsib dayı bu çöllərə mal otarmağa gələrdi. Həmin bu çəmənliklərdə ocaq qalayıb çörək qızdırar, qırov düşəndə əlini hovxura-hovxura dana-buzov dalınca qaçardı.
+Onların hərəsi əlinə bir çomaq alar və qaratikan kollarının arasına dolan quşları qovardılar. Göyün üzündə süzən ley kolluqdakı quş dəstəsinin üstünə şığıyardı. Quşlar qorxudan özlərini tikanlara çırpardılar. Uşaqlar fürsətdən istifadə edərək onları çomaqla vurub yerə salardılar. Bəzən onlar quş yuvasına çıxıb yenicə tüklənən dolaşa balalarını düşürərdilər. Tut yetişəndə bu quşlar sahiblərinin dalınca qaçardı. Uşaqlar əllərindəki tutu yuxarı qaldırıb, "ükkəi, ükkəl" - deyərdilər. Dolaşa isə boğazını uzadıb qanadını çırpardı: "Qa-qa-qa"... Sonralar Nəsib dayı bu çöllərə mal otarmağa gələrdi. Həmin bu çəmənliklərdə ocaq qalayıb çörək qızdırar, qırov düşəndə əlini hovxura-hovxura dana-buzov dalınca qaçardı.
 
 Nəsib dayı əvvəlcə gecə kursunda oxumuş, sonra qonşu kənddəki kəndli-gənclər məktəbini bitirmişdi. Kəndə qayıdanda onu komsomol komitəsinə katib seçmişdilər. Kollektivləşmənin ilk illərində Nəsib dayı komsomolçuları başına yığıb, gecəni gündüzə qataraq taxıl hazırlamağa kömək etmişdi.
 
@@ -46,7 +46,7 @@ Zeynəb qızarıb başını aşağı saldı. Bir istədi hər şeyi boynuna als�
 
 – Niyə ağlayıram, mənə nə olub ki?
 
-"Ağıllı qızdır, lap anasına oxşayır. O da belə idi. Heç kəsə boyun əyməzdi. Onun ürəyini bilmək üçün xeyli əziyyət çəkmək lazımdı" – deyə Nəsib dayı düşündü. Axı, Nəsib dayı onun hər dərdini bilmək, qayğısına qalmaq istəyirdi. Bunu Zeynəb özü də hiss edirdi. Nəsib dayınm hərəkətləri qıza qəribə gəlsə də o, bu adamda özünə bir yaxınlıq duyurdu. Bəzən ürkən kimi olsa da, ona qanı qaynadığını hiss edirdi.
+"Ağıllı qızdır, lap anasına oxşayır. O da belə idi. Heç kəsə boyun əyməzdi. Onun ürəyini bilmək üçün xeyli əziyyət çəkmək lazımdı" – deyə Nəsib dayı düşündü. Axı, Nəsib dayı onun hər dərdini bilmək, qayğısına qalmaq istəyirdi. Bunu Zeynəb özü də hiss edirdi. Nəsib dayım hərəkətləri qıza qəribə gəlsə də o, bu adamda özünə bir yaxınlıq duyurdu. Bəzən ürkən kimi olsa da, ona qanı qaynadığını hiss edirdi.
 
 Zeynəb Nəsib dayının tutulduğunu gördü. - Demək, mənə etibar eləmirsən, qızım? - O nə sözdür, Nəsib dayı? - Zeynəb tərəddüdlə dilləndi və nəhayət, boynuna aldı: - Ağlamışam... Axır ki, Zeynəb öz təbiətinə zidd gedə bilmədi. Olub keçənləri açıb söylədi. Üstəlik dedi ki: "Partkomsan, ancaq heç şeydən xəbərin yoxdur. İmran kimi ağranomu harda tapacağıq? Sözün düzünü danışır deyə, Kosaoğlu onu işdən çıxardır. Biz də hamımız kiriyib dururuq, bəs nə gündə lazımıq?"
 
@@ -54,7 +54,7 @@ Zeynəb Nəsib dayının tutulduğunu gördü. - Demək, mənə etibar eləmirs�
 
 Onlar ayrıldılar. Ancaq axşam üstü idarədən qayıdanda yenə görüşdülər. Yol uzunu qırıq-qırıq söhbət elədilər. Zeynəbgilin doqqazına çatanda dayandılar. Nəsib dayı qızın gah qızarıb, gah ağardığını, nə isə demək istədiyini duydu. Ancaq heç nə soruşmadı.
 
-Zeynəb Nəsib dayının evində heç kəsin olmadığını düşündü. "İndi hara gedəcək? Qapını üzünə açıb qabağına çay-çörək qoyan da olmayacaq. Səhərdən yorğun-arğın gəzir. Bir azdan yəqin yenə idarəyə qayıdacaq, gecə yarıya qədər ac-susuz orada oturub iş görəcək". Zeynəb Nəsib dayıntn kabinetdə çaydanda çay qoyub içdiyini bir neçə dəfə görmüşdü. "Yəqin çox vaxt elə çörəyi də orada yeyir, bəlkə gecə də idarədə qalır". Zeynəbin qəlbində qayğı və mərhəmət hissi oyandı.
+Zeynəb Nəsib dayının evində heç kəsin olmadığını düşündü. "İndi hara gedəcək? Qapını üzünə açıb qabağına çay-çörək qoyan da olmayacaq. Səhərdən yorğun-arğın gəzir. Bir azdan yəqin yenə idarəyə qayıdacaq, gecə yarıya qədər ac-susuz orada oturub iş görəcək". Zeynəb Nəsib dayının kabinetdə çaydanda çay qoyub içdiyini bir neçə dəfə görmüşdü. "Yəqin çox vaxt elə çörəyi də orada yeyir, bəlkə gecə də idarədə qalır". Zeynəbin qəlbində qayğı və mərhəmət hissi oyandı.
 
 – Nəsib dayı, gedək bizə. Bir-iki stəkan çay iç.
 
@@ -138,11 +138,11 @@ Onlar bir vaxtın uşaqları idilər. Balacalıqda bir-birlərindən ayrılmazd�
 
 – A bala, gedin bir az o yanda oynayın. Torpaq başımıza tökülür.
 
-Anasının danlağından sonra Nəsib uşaqları da götürüb xırman yerinə gedərdi. Onlar ay işığında gecə yarıya qədər çalıb-oynayardılar. O vaxt qızların içərisində ən gözəl oyunçu Tükəzban hesab olunurdu. Ancaq Güləsər da ondan geri qalmırdı. O, balacaboy, sivriburun bir qız idi. İri, badamı gözləri ağ bənizinə çox yaraşırdı. Ağzı, dodaqları elə nəcib idi ki, adam baxmaqdan doymurdu. Yanağında iri bir xal var idi. Buna görə də anası ona "Xallı" deyərdi. Uşaqlar da onu "Xallı" çağırardılar. Anası həmişə ona qırmızı parçadan büzməli don tikər, göy kofta geydirər, başına da yaşıl yelənli ağ kəlağayı örtərdi. Uşaqlar onu oynamağa çağıranda Xallı əvvəlcə balaca əlləri ilə, gözünün üstünə düşən saçını geri edib, kəlağayısının altında gizlədər, burrnunu çəkib bir az gözləyəndən sonra ortaya çıxardı. Yalın gəzməkdən qapqara yanmış balaca ayaqlarının ucunda yaşlı arvadlar kimi asta-asta hərlənirdi.
+Anasının danlağından sonra Nəsib uşaqları da götürüb xırman yerinə gedərdi. Onlar ay işığında gecə yarıya qədər çalıb-oynayardılar. O vaxt qızların içərisində ən gözəl oyunçu Tükəzban hesab olunurdu. Ancaq Güləsər da ondan geri qalmırdı. O, balacaboy, sivriburun bir qız idi. İri, badamı gözləri ağ bənizinə çox yaraşırdı. Ağzı, dodaqları elə nəcib idi ki, adam baxmaqdan doymurdu. Yanağında iri bir xal var idi. Buna görə də anası ona "Xallı" deyərdi. Uşaqlar da onu "Xallı" çağırardılar. Anası həmişə ona qırmızı parçadan büzməli don tikər, göy kofta geydirər, başına da yaşıl yelənli ağ kəlağayı örtərdi. Uşaqlar onu oynamağa çağıranda Xallı əvvəlcə balaca əlləri ilə, gözünün üstünə düşən saçını geri edib, kəlağayısının altında gizlədər, burnunu çəkib bir az gözləyəndən sonra ortaya çıxardı. Yalın gəzməkdən qapqara yanmış balaca ayaqlarının ucunda yaşlı arvadlar kimi asta-asta hərlənirdi.
 
 O həmişə Tükəzbanla oynayırdı. Nədənsə, onlar oynayanda Nəsib daha həvəslə çalardı.
 
-Onda hərəsiniu beş-altı yaşı olardı. Nəsib dana otarırdı.
+Onda hərəsinin beş-altı yaşı olardı. Nəsib dana otarırdı.
 
 İllər ötdükcə dəstə azalırdı. Qızlar bir-bir nişanlanıb ərə verilirdi. On iki-on üç yaşına çatanda onları evdən bayıra çıxmağa qoymurdular. Qızlar ancaq arx kənarında, quyu başında görüşürdülər.
 
@@ -196,7 +196,7 @@ Onlar tək qaldılar. Güləsər bir ayağını qaçaraq qoyub, ətrafa boyland�
 
 – Mənim də...
 
-Onlar armud ağacının dibində dayandılar. Nəsib atın noxtasını Güləsərə verdi. Qız oğlana diqqətlə baxdı. O xeyli böyümüşdü. Bığ yeri terləmişdi. Kürəyl də enlənmişdi. Nəsib də öz növbəsində, ondan bir az aralı dayanan qızı gözdən keçirdi. O da böyümüşdü. Ay işığında onun yanağına düşən cığaları, açıq sinəsi, koftasını dik tutan xırdaca döşləri aydınca görünürdü.
+Onlar armud ağacının dibində dayandılar. Nəsib atın noxtasını Güləsərə verdi. Qız oğlana diqqətlə baxdı. O xeyli böyümüşdü. Bığ yeri terləmişdi. Kürəyi də enlənmişdi. Nəsib də öz növbəsində, ondan bir az aralı dayanan qızı gözdən keçirdi. O da böyümüşdü. Ay işığında onun yanağına düşən cığaları, açıq sinəsi, koftasını dik tutan xırdaca döşləri aydınca görünürdü.
 
 – Nəsib, sağ ol.
 
@@ -208,7 +208,7 @@ O axşam Nəsibin tütəyi dillənmədi. Güləsər heyəcanlanmağa başladı. 
 
 O dözə bilmədi.
 
-– Tükəzban, görəsən Nnsib hara gedib?
+– Tükəzban, görəsən Nəsib hara gedib?
 
 – Heç hara.
 
@@ -242,7 +242,7 @@ Güləsər utana-utana:
 
 – Nə bilim, heç özüm də bilmədim, nə təhər oldusa üzünə bir sillə çəkdim. Özü də, deyəsən, bərk vurdum.
 
-– Pis iş görübsən. Ürəyni sındırıbsan, allah bilir, indi o nə çəkir.
+– Pis iş görübsən. Ürəyini sındırıbsan, allah bilir, indi o nə çəkir.
 
 Yəqin naxoşdur...
 

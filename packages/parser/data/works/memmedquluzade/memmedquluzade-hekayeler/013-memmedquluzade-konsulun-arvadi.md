@@ -51,7 +51,7 @@ Nayib girdi içəri, biz qaldıq qapıda.
 
 Xub, bu nə olsun? Konsulun arvadı bu gün vəfat edib, genə necə olsa, konsulun arvadıdır və konsulun uşaqlarının anasıdı; bu necə olan işdi ki, bu gün xətir axşamı burada bir nəfər adam tapılmasın?
 
-Nayib Cəfər dalanın içərisindən bizi çagırdı və biz ikimiz də onun dalıyca bir otaqdan keçdik getdik, zal otağına daxil olduq və durduq qapının ağzında. Nayib Cəfər bizə iltifat elədi və oturmağa yer göstərdi. Mən qorxa-qorxa kresloların birinin üstə oturub, yumşaq məxmər döşəyin içinə elə quylandım ki, dedim ta buradan məni qaldıran olmasa, öz-özümə dura bilməyəcəyəm. Deyəsən Rzaqulu da mənim günümdə idi.
+Nayib Cəfər dalanın içərisindən bizi çağırdı və biz ikimiz də onun dalıyca bir otaqdan keçdik getdik, zal otağına daxil olduq və durduq qapının ağzında. Nayib Cəfər bizə iltifat elədi və oturmağa yer göstərdi. Mən qorxa-qorxa kresloların birinin üstə oturub, yumşaq məxmər döşəyin içinə elə quylandım ki, dedim ta buradan məni qaldıran olmasa, öz-özümə dura bilməyəcəyəm. Deyəsən Rzaqulu da mənim günümdə idi.
 
 Həmin böyük zal otağı əla fərşlərlə döşənmişdi. Qabaqda stolun üstə əla məxmərdən örtük salınmışdı və stolun üstə tək bircə lampa qoyulmuşdu. Lampanın ətrafına dörd dənə külqabı düzülmüşdü.
 

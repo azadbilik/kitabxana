@@ -25,7 +25,7 @@ Amma bu gündən biz məsləkimizi dəyişirik və “Təzə həyat”ın sözü
 
 Yəni, doğrudan da bu da bir işdi ki, qələmi al əlinə, yetənə yet, yetməyənə də bir daş at?
 
-Və bir də bunun axırı nə olacaq? Bir gün ona sataşarsan, sabah bunun üstünə gülərsən, o biri gün ayrısına dolaşarsan və lap axırda da dünyanı özünə düşmən elərsən və lap axırda da bircə nəfər də müştəri tapmazsan və milyonçü da olsan, axırda qəzetini bağlarsan.
+Və bir də bunun axırı nə olacaq? Bir gün ona sataşarsan, sabah bunun üstünə gülərsən, o biri gün ayrısına dolaşarsan və lap axırda da dünyanı özünə düşmən elərsən və lap axırda da bircə nəfər də müştəri tapmazsan və milyonçu da olsan, axırda qəzetini bağlarsan.
 
 Doğrudan da belədi; görürsən bir tərəfdən nuxalılar bizdən inciyir ki, niyə yazırsan “nuxalıların qiraətxanası açılandan qiraətxananın qəzetləri və stolları hambalların dalından yerə düşür – Bir ay bura köçür, bir ay o biri evə köçür”.
 

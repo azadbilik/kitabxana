@@ -21,7 +21,7 @@ Haman təsbeh qara, narın dənəli və qırmızı ipək sapa düzülmüş təsb
 
 Biz olduğumuz ev Kərbəlayı Qurbanın yetimlərinin evi idi. Evin sahibi yetimlərin anası Pəri arvad idi. Biz eyvanda və damın üstündə vaxtımızı keçirirdik. Pəri arvad da üç-dörd yetimlərilə içəri evində bir-iki baş heyvanları ilə olurdu; bir ulağ idi, bir inək idi, bir-iki də qoyun-keçi idi. Səhərlər Pəri arvad süd sağıb uşaqlara bişirəndə mən də hərdənbir gedərdim. Pəri arvad ağzında yaşmaq oraların keçəcəyindən nağıl edərdi. Arvadın yaşı əllini və bəlkə əlli beşi keçmişdi, amma özü mərtub, sifəti qaraşın, hündür və salamat bir arvad idi. Əlahiddə bir gözəlliyi də yox idi; amma beləcə babat idi.
 
-Mən bircə dəfə gördüm ki, Mirzə Sadıq Münşi sübh tezdən Pərinin ocağının başında oturub çubuq çəkir və Pəri ilə danışırdı. İkinci dəfə də gördüm ki, Mirzə Sadıq Münşi genə haman ocaq başında oturub çubuq çəkir; amma bu dəfə məni görcək işarə ilə məni çağırdı. Mən də getdim və Pəri advad mənim də altıma bir köhnə uşaq döşəkcəsi saldı. Mirzə Sadıq mənə əyləşməyi təklif etdi. Oturdum.
+Mən bircə dəfə gördüm ki, Mirzə Sadıq Münşi sübh tezdən Pərinin ocağının başında oturub çubuq çəkir və Pəri ilə danışırdı. İkinci dəfə də gördüm ki, Mirzə Sadıq Münşi genə haman ocaq başında oturub çubuq çəkir; amma bu dəfə məni görcək işarə ilə məni çağırdı. Mən də getdim və Pəri arvad mənim də altıma bir köhnə uşaq döşəkcəsi saldı. Mirzə Sadıq mənə əyləşməyi təklif etdi. Oturdum.
 
 Mirzə Sadıq üzünü mənə tutub dedi:
 

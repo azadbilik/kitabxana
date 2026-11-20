@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Bizim şeyxin qırx səkkiz arvadı var
 
-Molla Nəsrəddin heç vazt yalan söz danışmayıb və danışmaz. Bəlkə də qırx səkkiz olmaya, otuz səkkiz ola, otuz ola – söz burada deyil, söz buradadır ki, bizim şeyxin hər kənddə iki arvadı var.
+Molla Nəsrəddin heç vaxt yalan söz danışmayıb və danışmaz. Bəlkə də qırx səkkiz olmaya, otuz səkkiz ola, otuz ola – söz burada deyil, söz buradadır ki, bizim şeyxin hər kənddə iki arvadı var.
 
 Heç təfavütü yoxdur: Frəngistanda lotuların kefi qalxanda bir gün gedirlər bir fahişəxanaya, o biri dəfə gedirlər o biri fahişəxanaya. Bizim şeyxin də kefi qalxanda bir gün atı minib gedir “Qoşa dizə” kəndinə, o biri gün atı minib gedir “Qahab” kəndinə.
 

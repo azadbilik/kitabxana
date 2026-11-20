@@ -12,7 +12,7 @@ order: 26
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=11'
 status: DRAFT
 ---
-Tez-tez göyün üzü tutulur, buludlar ətəyini sallayıb kəndin üstünə çökürdü. Çənlı-çıskinli yağış başlamışdı. Yolların palçığı saqqız kimi olmuşdu. Yavaş- yavaş hava soyuyur, mal-qara örüşə çıxmırdı. Toyuqlar quru yer axtarır, itlər büzüşüb ocaq yerində yatırdı.
+Tez-tez göyün üzü tutulur, buludlar ətəyini sallayıb kəndin üstünə çökürdü. Çənli-çiskinli yağış başlamışdı. Yolların palçığı saqqız kimi olmuşdu. Yavaş- yavaş hava soyuyur, mal-qara örüşə çıxmırdı. Toyuqlar quru yer axtarır, itlər büzüşüb ocaq yerində yatırdı.
 
 Hava açılana oxşamırdı.
 
@@ -20,7 +20,7 @@ Hava açılana oxşamırdı.
 
 İmran bir az özünü itirdi. Əvvəlcə nə edəcəyini bilmədi, ancaq Nəsib dayı onun köməyinə gəldi. Dərhal pambıq qurudulan məntəqələri işə saldılar. Odun gətirdilər. Kənddə boş olan otaqlardan da istifadə etdilər.
 
-İşin bütün ağırlığı İmranın üzərinə düşdüyündən, o, evə çox gec gəldi. Bəzim Tükəzban xala onun dalınca yemək aparır, ya da Zeynəblə göndərirdi. İmran gecə yarıya qədər idarədə otururdu.
+İşin bütün ağırlığı İmranın üzərinə düşdüyündən, o, evə çox gec gəldi. Bizim Tükəzban xala onun dalınca yemək aparır, ya da Zeynəblə göndərirdi. İmran gecə yarıya qədər idarədə otururdu.
 
 ...Qaranlıq qarışanda çöldən qayıdan İmran, tövlənin qabağında atdan düşdü. Əvvəlcə pambıq qurudulan məntəqəyə baş çəkdi. Sonra üstünə brezent çəkilmiş maşınlara baxdı. Asta-asta idarəyə doğru getdi. Eyvandakılarla salamlaşıb içəri keçdi.
 
@@ -30,7 +30,7 @@ Getdikcə adam çoxalırdı.
 
 Axşamdan xeyli keçmiş, Kosaoğlunun bacısı oğlu Musa da idarənin qabağında göründü. O, gödəkçəsinin yaxasını qaldırmış, uzun günlüklü şapkasını gözünün üstünə endirmişdi. Əllərini pencəyinin yarı ciblərinə salmışdı. Uzunboğaz çəkmələri palçığa bulaşdığından, ayaqları daha da ağırlaşmışdı. Yeridikcə ləngərlənir, elə bil, ayağını qaldırmağa çətinlik çəkirdi. Musa anbardan çıxarılandan sonra kəndin arasında az-az görünürdü.
 
-Onun içəri girdiyini heç kəs hiss etmədi. İmran qabağındakı kağızlara baxır, Zeynəb əyilib kağızda nə isə göstərir, başqaları da onun ətrafina toplaşıb qulaq asırdılar.
+Onun içəri girdiyini heç kəs hiss etmədi. İmran qabağındakı kağızlara baxır, Zeynəb əyilib kağızda nə isə göstərir, başqaları da onun ətrafına toplaşıb qulaq asırdılar.
 
 Musa küncdəki stulda oturdu. Dərindən nəfəs alıb gözünü yumdu. Əvvəl adamları seçə bilmirdi. Gözünün qabağında kölgələr dolaşır, qulağına qarışıq səslər dəyirdi. Ancaq yavaş-yavaş otaq aydınlaşmağa, adamların sifəti görünməyə başladı.
 
@@ -42,7 +42,7 @@ Bəs indi? Birdən dayısını yola salanda Kosaoğlunun dediyi sözlər yadına
 
 Onun yumruqları düyünləndi, dişini qıcayıb aqronoma baxdı. İmran onun gözlərində kiçilib fındıq boyda oldu. Musaya elə gəldi ki, yaxınlaşıb ona bircə yumruq ilişdirsə, yerindəcə qalacaq. Özünü toplayıb ayağa durdu. Stola yaxınlaşmaq istəyəndə, İmran yenidən böyüdü. Musa onun geniş köksünü, enli çiyinlərini, qüvvətli əllərini gördü.
 
-O səndələyib geri çəkildi, qapını açıb bayıra çıxdı. İçəridəkitər onun sərxoş olduğunu bilib əhəmiyyət vermədilər.
+O səndələyib geri çəkildi, qapını açıb bayıra çıxdı. İçəridəkilər onun sərxoş olduğunu bilib əhəmiyyət vermədilər.
 
 Musa eyvanda dayandı. Yağış aram-aram yağırdı. Adamlar seyrəlmişdi. O, fikrini toplayıb ətrafa boylandı. Pambıq qurudulan məntəqəyə doğru getdi.
 
@@ -96,9 +96,9 @@ Onların üstünə kilim saldılar. Alov sönən kimi, Zeynəb yerə uzanmış a
 
 – Arvadı xəstəxanaya çatdırmaq lazımdır.
 
-Tüstünün, odun içində əiləşən İmran, özünü anasının üstünə saldı. Maşın gətirdilər. İmran özü anasını qucağına alıb maşına qoydu. Ondan ayrılmaq istəmədi. Zeynəb "sən işində ol, - deyə onu maşından düşürtdü, - mən özüm gedərəm",
+Tüstünün, odun içində əyləşən İmran, özünü anasının üstünə saldı. Maşın gətirdilər. İmran özü anasını qucağına alıb maşına qoydu. Ondan ayrılmaq istəmədi. Zeynəb "sən işində ol, - deyə onu maşından düşürtdü, - mən özüm gedərəm",
 
-Səhər tezdən rayon işçiləri tökülüb gəldilər. Kirovabaddan yenicə qayıtmış Kosaoğlu pencəyini çiyninə salıb gəzinirdi. Nəsib dayı fikirli dayanmışdı. Kərim kişi boynunu büküb durmuşdn. İmran dinmirdi. Hamı fikirli idi.
+Səhər tezdən rayon işçiləri tökülüb gəldilər. Kirovabaddan yenicə qayıtmış Kosaoğlu pencəyini çiyninə salıb gəzinirdi. Nəsib dayı fikirli dayanmışdı. Kərim kişi boynunu büküb durmuşdu. İmran dinmirdi. Hamı fikirli idi.
 
 Nəsib dayı heç nə anlaya bilmirdi. "Bu necə ola bilər?.. Elə bll hər şey əvvəlcədən ölçülüb-biçilmişdi? Bu yanğın təsadüfmi baş vermişdi? Bəlkə Kərim kişi ehtiyatsızlıq edib yatmışdı? Bəlkə içəridə papiros çəkiblər?"
 

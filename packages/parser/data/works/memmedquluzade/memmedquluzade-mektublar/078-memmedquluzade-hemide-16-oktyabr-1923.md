@@ -1,7 +1,7 @@
 ---
-slug: memmedquluzade-hemide-16-okyabr-1923
+slug: memmedquluzade-hemide-16-oktyabr-1923
 sourceId: kxn-688-t185
-titleAz: Həmidə! (16 okyabr 1923)
+titleAz: Həmidə! (16 oktyabr 1923)
 authorSlug: memmedquluzade
 collectionSlug: memmedquluzade-mektublar
 originalLang: AZ_LATIN

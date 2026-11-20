@@ -31,7 +31,7 @@ Sükuta qərq olur, evim, ürəyim…
 Qara bulud kimi tutuluram mən,
 Dadını itirir suyum, çörəyim.
 
-Səsin gələn kimi vaplığım əsir,
+Səsin gələn kimi varlığım əsir,
 Canıma elə bil təzə can gəlir.
 Səsin gəlməyəndə elə bil səsim,
 Bir zülmət qaranlıq quyudan gəlir.

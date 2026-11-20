@@ -21,7 +21,7 @@ Bir gün evdə oturmuşdum, gördüm ki, kişi hazırlaşır getsin Bataniçeski
 
 Kişi üstümə elə çığırdı ki, az qaldım özümdən gedəm.
 
-İndi daha bilərəm Bataniçeski bağlar biz müsəlman arvadlarının yeri deyil. Həmişə axşamlar camaat yığışıb dolanan vaxt, mən gedirəm qonşumuzda Səkinə bacını götütürəm, gedirik qəbristana, orada qəbrlərin dalına çöküb, bağa tamaşa edirik.
+İndi daha bilərəm Bataniçeski bağlar biz müsəlman arvadlarının yeri deyil. Həmişə axşamlar camaat yığışıb dolanan vaxt, mən gedirəm qonşumuzda Səkinə bacını götürürəm, gedirik qəbristana, orada qəbrlərin dalına çöküb, bağa tamaşa edirik.
 
 Pəh, pəh, pəh, bağ necə bağ! Qüdrətinə şükür ilahi! Ağacların yarpaqları hərəsi bir rəng çalır, güllərin ətri insanı bihuş edir.
 

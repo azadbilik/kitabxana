@@ -24,7 +24,7 @@ Nə söhbət eləyəcəyik?
 
 – Tapılar. O qədər iş-güc var ki.
 
-Kosaoğlu könülsüz stul çəkib əyləşdi. Nəsib dayı stolun siyirməsini açıb papiros çıxartdı. Papirosu barmaqları arasında tutub fikirli-fikirli yumşaltmağa başladı. Deyəsən, söhbətə necə başlayacağını bilmirdi. Əlbəttə, o birdən-birə əsl məsələyə keçə bilərdi, ancaq belə etmək istəmirdi. Ümumiyyətlə, Nəsib dayı sözün, təbliğatın gücünə inanırdı. O həmişə ən çətin, mübahisəli məsələləri də sakitliklə hətl etməyi lazım bilirdi. Onun əqidəsincə, bəzi adamlar iş başına keçəndə, onlara verilən hüquq və imtiyazları görərkən özlərini itirir, bütün bunların nə üçün verildiyini, xalqa xidmətin, xalq etimadının nə demək olduğunu unudurlar. Onlara elə gəlir ki, hamıdan güclü və ağıllıdırlar. Özlərini yüksək rütbədə görəndə gözləri ayaqlarının altını seçmir, başları hərlənir və gec-tez bu bədgümanlığın qurbanı olurlar. Nəsib dayı düşünürdü ki, vəzifədən havalanmaq, bəzən iş üçün çox faydalı adamları belə məhv edir. Buna görə də özünün dediyi kimi, "yolunu azmış adamları" hövsələ ilə başa salmağa çalışırdı. O, Kosaoğlunu da bu cür yolunu azan adamlardan hesab edirdi.
+Kosaoğlu könülsüz stul çəkib əyləşdi. Nəsib dayı stolun siyirməsini açıb papiros çıxartdı. Papirosu barmaqları arasında tutub fikirli-fikirli yumşaltmağa başladı. Deyəsən, söhbətə necə başlayacağını bilmirdi. Əlbəttə, o birdən-birə əsl məsələyə keçə bilərdi, ancaq belə etmək istəmirdi. Ümumiyyətlə, Nəsib dayı sözün, təbliğatın gücünə inanırdı. O həmişə ən çətin, mübahisəli məsələləri də sakitliklə həll etməyi lazım bilirdi. Onun əqidəsincə, bəzi adamlar iş başına keçəndə, onlara verilən hüquq və imtiyazları görərkən özlərini itirir, bütün bunların nə üçün verildiyini, xalqa xidmətin, xalq etimadının nə demək olduğunu unudurlar. Onlara elə gəlir ki, hamıdan güclü və ağıllıdırlar. Özlərini yüksək rütbədə görəndə gözləri ayaqlarının altını seçmir, başları hərlənir və gec-tez bu bədgümanlığın qurbanı olurlar. Nəsib dayı düşünürdü ki, vəzifədən havalanmaq, bəzən iş üçün çox faydalı adamları belə məhv edir. Buna görə də özünün dediyi kimi, "yolunu azmış adamları" hövsələ ilə başa salmağa çalışırdı. O, Kosaoğlunu da bu cür yolunu azan adamlardan hesab edirdi.
 
 O bir neçə dəfə Kosaoğlu ilə təklikdə söhbət eləmişdi. Lakin görünür, deyilən sözlər təsirsiz qalmışdı. İndi Nəsib dayı Qurbanla axırıncı dəfə söhbət eləmək istəyirdi. Amma söhbəti İmrandan başlayacağını bilmirdi. Uzun sükut Kosağlunu darıxdırdı.
 
@@ -54,7 +54,7 @@ Dünyada heç kəs heç kəsə boş-boşuna hörmət eləməz. Kim ki birindən 
 
 – Sənin sözündən belə çıxır ki, hamını döymək, qorxutmaq lazımdır?
 
-Kosaoğlu Nəsib daynın söhbəti hara gətirəcəyini duyub ehtiyat etdi:
+Kosaoğlu Nəsib dayının söhbəti hara gətirəcəyini duyub ehtiyat etdi:
 
 – A kişi, sən mənim sözümü niyə pis yerə yozursan? Mən deyirəm ki, gərək böyük-kiçik olsun. Səni iş başına qoyanda bir az zəhmli olasan. Mənim ölüvay adamdan xoşum gəlmir.
 
@@ -134,7 +134,7 @@ Nəsib dayı kələfin ucunu tapıb sevindi:
 
 – Sən də hər şeyi şişirtmə görək, Kərim kişi köhnənin demaqoqudur.
 
-– Yox, Kərim kişi demaqoq deyil. O, sözü adamın gözünün içinə deyir. Sənin də bundan xoşun gəlmir. Tənqidi sevmirsen, çünki yarana toxunur.
+– Yox, Kərim kişi demaqoq deyil. O, sözü adamın gözünün içinə deyir. Sənin də bundan xoşun gəlmir. Tənqidi sevmirsən, çünki yarana toxunur.
 
 – Tənqidi kim sevir ki, mən də sevəm?
 
@@ -156,7 +156,7 @@ Kosaoğlu fikirləşdi ki, arada söz-söhbət olsa və bunlar rayona gedib çı
 
 Kosaoğlu bu söhbətdən darıxdı.
 
-– Yaxşı, deyirsən Zeynəb öz yerində qalsın, hə? Axı mənim ondan zəhlem gedir. Elə dəli keçi kimi ortada hərlənir. O gədəni də yoldan çıxardır. Hara gedirəmsə bir yerdə görürəm. Qulağıma artıq-əskik soz dəyir. Deyəsən, İmran da ona uyub. Öz iş-gücünü bir yana buraxıb, dərə-təpə gəzir. Nə bilim bağ belə gəldi, bostan belə getdi, klub yoxdur, anbarı açılmır. Axı ona nə var? Bunların hamısını onun qulağına pıçıldayan Zeynəbdir. Ağzını farağat qoymur. Bilmirəm, sən də onun nəyinə aşiq olmusan?
+– Yaxşı, deyirsən Zeynəb öz yerində qalsın, hə? Axı mənim ondan zəhləm gedir. Elə dəli keçi kimi ortada hərlənir. O gədəni də yoldan çıxardır. Hara gedirəmsə bir yerdə görürəm. Qulağıma artıq-əskik soz dəyir. Deyəsən, İmran da ona uyub. Öz iş-gücünü bir yana buraxıb, dərə-təpə gəzir. Nə bilim bağ belə gəldi, bostan belə getdi, klub yoxdur, anbarı açılmır. Axı ona nə var? Bunların hamısını onun qulağına pıçıldayan Zeynəbdir. Ağzını farağat qoymur. Bilmirəm, sən də onun nəyinə aşiq olmusan?
 
 – Yaxşı işləməyinə. Keçən il ən qabaqcıl manqabaşçısı olub. Sən nahaq yerə ara sözlərinə fikir verirsən. O çox təmiz uşaqdır. Nə əsasla onu işdən çıxardırsan? Onu iclas təsdiq eləyib.
 
@@ -224,7 +224,7 @@ Kosaoğlu ayağa durdu. Çiynindən sürüşüb düşən kürkünü geydi. Papir
 
 Məsləhət bilmirəm, Nəsib, xeyir tapmazsınız.
 
-– Mənə hədə-qorxu gəlmə. Qurban, sənin dediyinlə yox, qanunla iş görəcəyik. İndi ki mənim sözlərim ağlma batmır, onda məsələni ümumi iclasda müzakirə edərik.
+– Mənə hədə-qorxu gəlmə. Qurban, sənin dediyinlə yox, qanunla iş görəcəyik. İndi ki mənim sözlərim ağlıma batmır, onda məsələni ümumi iclasda müzakirə edərik.
 
 – Nə iclasbazlıqdır, bu köpəkoğlunun kolxozunun sədri mənəm, yoxsa sən.
 
@@ -234,15 +234,15 @@ Məsləhət bilmirəm, Nəsib, xeyir tapmazsınız.
 
 – Bu mənim borcumdur.
 
-Kosaoğlunun dodaqları xeyli titrədi. Kürkünü geymiş olsa da, adəti üzrə çiyinlərini tərpədib onu düzəltmək istədi. Əlini cibinə atıb papiros qutusunu çıxartdı. Sonra nə isə fikirləşib açmadı. Qaytarıb yenidən cibinə qoydu. Gözünü Nəsib kişiyə zillədi. O da baxışlarını yayındırmadı. Döyüşə hazırlaşan buğalar kimi üz-üzə dayandılar. Elə bil ki, hər ikisi buynuzlaşmazdan əvvəl öz gücünü yoxlamaq istəyirdi. Kosaoğlu gördü ki, Nəsib kişinin baxışları aydin və kəskindir. Kirpiklərini qirpmadan baxır. O da özünü şax tutmaq istədi, ancaq bacarmadı. Gözləri bulandı, bəbəklərindn ürkək bir kölgə oynadı. Ancaq bu, uzun sürmədi. Kosaoğlu özünü toxtatdı və büzüşmək üzrə alan qamətini düzəltdi. Yenə əvvəlki kimi amiranə bir görkəm aldı. İçini arıtlayıb bərkdən öskürdü.
+Kosaoğlunun dodaqları xeyli titrədi. Kürkünü geymiş olsa da, adəti üzrə çiyinlərini tərpədib onu düzəltmək istədi. Əlini cibinə atıb papiros qutusunu çıxartdı. Sonra nə isə fikirləşib açmadı. Qaytarıb yenidən cibinə qoydu. Gözünü Nəsib kişiyə zillədi. O da baxışlarını yayındırmadı. Döyüşə hazırlaşan buğalar kimi üz-üzə dayandılar. Elə bil ki, hər ikisi buynuzlaşmazdan əvvəl öz gücünü yoxlamaq istəyirdi. Kosaoğlu gördü ki, Nəsib kişinin baxışları aydin və kəskindir. Kirpiklərini qırpmadan baxır. O da özünü şax tutmaq istədi, ancaq bacarmadı. Gözləri bulandı, bəbəklərindən ürkək bir kölgə oynadı. Ancaq bu, uzun sürmədi. Kosaoğlu özünü toxtatdı və büzüşmək üzrə alan qamətini düzəltdi. Yenə əvvəlki kimi amiranə bir görkəm aldı. İçini arıtlayıb bərkdən öskürdü.
 
 – Neylək, aləmi çaxnaşdır, görək kimə nə olacaq, altda qalanın canı çıxsın. Kosaoğlu iri addımlarla qapıya yaxınlaşdı. Cəftədən yapışmazdan əvvəl dönüb bir də Nəsib kişiyə baxdı. Alt dodağını dişi itə sıxıb, səyriməyi güclə saxladı.
 
 * * *
 
-İmran idarədə olan söhbətləri unuda bilmirdi. Kərim kişinin eyhamlı danışması, Kazımın qocanın üstünə qışqırması, Kosaoğlunun ərizəni cırıb kişini idarədən qovmasi İmranın yadından çıxmırdı. Bütün bunlar nə demək idi? Doğrudanmı Kosaoğlu pis işləyirdi? Buna inanmaq olardimı? Axı onu nəinki rayonda, hətta respublikada da tanıyırdılar. Rayondan bir nümayəndə gələndə birinci növbədə ona baş çəkər, tarlaları onunla birlikdə dolaşıb düşərgələrə baxardı. Müxbirlər neçə dəfə Kosaoğlunun çıxışını mərkəzi qəzetlərdə vermişdilər.
+İmran idarədə olan söhbətləri unuda bilmirdi. Kərim kişinin eyhamlı danışması, Kazımın qocanın üstünə qışqırması, Kosaoğlunun ərizəni cırıb kişini idarədən qovmasi İmranın yadından çıxmırdı. Bütün bunlar nə demək idi? Doğrudanmı Kosaoğlu pis işləyirdi? Buna inanmaq olardımı? Axı onu nəinki rayonda, hətta respublikada da tanıyırdılar. Rayondan bir nümayəndə gələndə birinci növbədə ona baş çəkər, tarlaları onunla birlikdə dolaşıb düşərgələrə baxardı. Müxbirlər neçə dəfə Kosaoğlunun çıxışını mərkəzi qəzetlərdə vermişdilər.
 
-İmran kəndə gələndən sonra özü də çöllərə getmiş, səliqə ilə tikilən tarla düşərgələrinə, at tövləsinə, hətta fermaya da baş çəkmişdi. Bəs Kərim kişi niyə belə narazilıq edordi? Zeynəb nə üçün tez-tez Kosaoğlu haqqında atmacalı sözlər deyirdi? Nə olar, hərənin bir cür xasiyyəti var. Yaşa dolmuş adamdır, özü demişkən, bir az kəmbövsələ olub. Bir də, bəlkə doğrudan da iş-güc onu yorub? Bəs o artıq yer əkmək söhbəti nə idi? Axı İmran Kərim kişini də yaxşı tanıyırdı. O, deyəndə ki, bizim kolxozun torpağında hər hektardan səksən sentner pambıq götürmək olmaz, demək, bir şey bilirdi. Kərim kişi ona demişdi ki, oğul, Kosaoğlu hökumətin verdiyi plandan artıq o qadər yer əkdirir ki, payız olanda pambığı yığa bilmirik. İdarələri bağlayırlar, hamını işdən-gücdən edib çölə tökürlər, məktəb uşaqlarını da dərs oxumağa qoymurlar. O öz-özünə düşünür, bu cür avralçılığın səbəbini kolxozda kənd təsərrüfat maşınlarından pis istifadə edilməsində görürdü. Hərgah pambıqyığan maşınlardan geniş istifadə edilsəydi, bunlar olardımı?
+İmran kəndə gələndən sonra özü də çöllərə getmiş, səliqə ilə tikilən tarla düşərgələrinə, at tövləsinə, hətta fermaya da baş çəkmişdi. Bəs Kərim kişi niyə belə narazılıq edordi? Zeynəb nə üçün tez-tez Kosaoğlu haqqında atmacalı sözlər deyirdi? Nə olar, hərənin bir cür xasiyyəti var. Yaşa dolmuş adamdır, özü demişkən, bir az kəmbövsələ olub. Bir də, bəlkə doğrudan da iş-güc onu yorub? Bəs o artıq yer əkmək söhbəti nə idi? Axı İmran Kərim kişini də yaxşı tanıyırdı. O, deyəndə ki, bizim kolxozun torpağında hər hektardan səksən sentner pambıq götürmək olmaz, demək, bir şey bilirdi. Kərim kişi ona demişdi ki, oğul, Kosaoğlu hökumətin verdiyi plandan artıq o qədər yer əkdirir ki, payız olanda pambığı yığa bilmirik. İdarələri bağlayırlar, hamını işdən-gücdən edib çölə tökürlər, məktəb uşaqlarını da dərs oxumağa qoymurlar. O öz-özünə düşünür, bu cür avralçılığın səbəbini kolxozda kənd təsərrüfat maşınlarından pis istifadə edilməsində görürdü. Hərgah pambıqyığan maşınlardan geniş istifadə edilsəydi, bunlar olardımı?
 
 Kərim kişi isə məsələni başqa cür izah edir: "Gücümüzə görə yer əksək, əkdiyimizi də adam kimi becərsək belə olmaz". Hətta o bir dəfə söhbətinin axırında gözünü qıyıb İmrana baxmış və mənalı-mənalı gülümsünmüşdü. "İndi ciyərli bir oğul istəyirəm ki, döşünü qabağa verib hər şeyi açsın, raykoma desin ki, sənin tərifli Kosaoğlunun kolxozunda iş düz aparılmır. O da inanmasa, Bakıya, lap mərkəzə getsin".
 
@@ -284,4 +284,4 @@ Bir gün İmran çöldən qayıdanda Nəsib dayıya yoldaş oldu. Onlar kolxozun
 
 – Bəs siz inanırsınız?
 
-Nəsib dayı qəti verilmiş suala qətiyyətlə cavab vermədi, sakitcə: -Biz bir-biriınizi çoxdan tanıyınq, - dedi.
+Nəsib dayı qəti verilmiş suala qətiyyətlə cavab vermədi, sakitcə: -Biz bir-birinizi çoxdan tanıyınq, - dedi.

@@ -34,7 +34,7 @@ O, traktorçuların qaladığı ocağın qırağında oturur, onlarla çörək y
 
 – Heç nə olmaz.
 
-– Qızlar arabaya doluşmuşdular. Sürucü kəndə doğru qanadlanan atları güclə saxlayırdı. Oradan səs gəldi.
+– Qızlar arabaya doluşmuşdular. Sürücü kəndə doğru qanadlanan atları güclə saxlayırdı. Oradan səs gəldi.
 
 – Ay qız, di tez ol.
 
@@ -42,9 +42,9 @@ Zeynəb yavaşca geri döndü. Əvvəl asta-asta yeridi, sonra birdən uşaq kim
 
 Səhər tezdən isə İmranın başının üstünü kəsdirdi.
 
-Hava yenicə işıqlanirdı. Axşamdan çöllərin üstünə enmiş duman hələ çəkilməmişdi. İmran yorğana bürünüb, düşərgənin qabağındakı otluqda yatmışdı. Üstünə şeh düşmüşdü. Lap tezdən işə başlayan traktorçular aqronomun yorğun olduğunu nəzərə alıb onu oyatmamişdı.
+Hava yenicə işıqlanırdı. Axşamdan çöllərin üstünə enmiş duman hələ çəkilməmişdi. İmran yorğana bürünüb, düşərgənin qabağındakı otluqda yatmışdı. Üstünə şeh düşmüşdü. Lap tezdən işə başlayan traktorçular aqronomun yorğun olduğunu nəzərə alıb onu oyatmamişdı.
 
-Əlində bağlama, İmranın başı üstündə sakitcə dayanan Zeynəb, onun rarşıltısına qulaq asırdi. İmranın başı sürüşüb otluğa düşmüşdü. Qıvrım saçları daha da pırpızlanmışdı. O, yorğanın altında yumaq kimi büzüşmüşdü. Deyəsən, üşüyürdü. Zeynəb yavaşca aşağı əyildi. Bağlamanı yerə qoydu. İmranın başını qaldırmaq istədi. Elə bu vaxt oğlan arxası üstə çevrildi. Zeynəb diksinib geri çəkildi. Tez ətrafa boylandı. Yaxında heç kəs yox idi. Qızlar hələ gəlməmişdilər. Traktorçular uzaqda idilər. Zeynəb ehmalca sırıqlı pencəyi İmranın başının altına qoydu. Nəfəsini dərmədən dayanıb ona tamaşa elədi. O, İmranın bu cür bərk yatdığını əvvəllər də görmüşdü. İmtahanlardan sonra yay tətillərində evlərinə gələn İmran, gün yayılana qədər yatardı. Tükəzban xala onu yerini eyvandakı taxtın üstündə salar, səhər tezdən, əlində ağac, toyuq-cücələri qovardı ki, "gədəni oyatmasınlar". Gün İmranın üstünə düşəndə qarı dirəklərin arasına pərdə tutardı. Sonra isə yavaşca onu silkələrdi.
+Əlində bağlama, İmranın başı üstündə sakitcə dayanan Zeynəb, onun rarşıltısına qulaq asırdı. İmranın başı sürüşüb otluğa düşmüşdü. Qıvrım saçları daha da pırpızlanmışdı. O, yorğanın altında yumaq kimi büzüşmüşdü. Deyəsən, üşüyürdü. Zeynəb yavaşca aşağı əyildi. Bağlamanı yerə qoydu. İmranın başını qaldırmaq istədi. Elə bu vaxt oğlan arxası üstə çevrildi. Zeynəb diksinib geri çəkildi. Tez ətrafa boylandı. Yaxında heç kəs yox idi. Qızlar hələ gəlməmişdilər. Traktorçular uzaqda idilər. Zeynəb ehmalca sırıqlı pencəyi İmranın başının altına qoydu. Nəfəsini dərmədən dayanıb ona tamaşa elədi. O, İmranın bu cür bərk yatdığını əvvəllər də görmüşdü. İmtahanlardan sonra yay tətillərində evlərinə gələn İmran, gün yayılana qədər yatardı. Tükəzban xala onu yerini eyvandakı taxtın üstündə salar, səhər tezdən, əlində ağac, toyuq-cücələri qovardı ki, "gədəni oyatmasınlar". Gün İmranın üstünə düşəndə qarı dirəklərin arasına pərdə tutardı. Sonra isə yavaşca onu silkələrdi.
 
 – A bala, qurbanın olum, dur, sərfən qarışar.
 
@@ -82,7 +82,7 @@ Qız süfrə açmışdı. Ocaqda çörək kövrəltmiş, çay dəmləmiş, Tük�
 
 – Bura bax, deyəsən sözlü adama oxşayırsan?
 
-– Sözum odur ki, səpinim geri qalıb, - deyə Zeynəb söhbəti dəyişdi.
+– Sözüm odur ki, səpinim geri qalıb, - deyə Zeynəb söhbəti dəyişdi.
 
 – Tez ol, çayın soyuyur.
 
@@ -114,7 +114,7 @@ Kazım sakitcə ona yaxınlaşdı. Cibindən qutunu çıxanb papiros təklif etd
 
 – Daha yaxşı. Onda sür.
 
-Əli traktoru işə saldı. Dövrə vurub geri döndərdi və təzə sahəy tərəf sürdü. Kazım artıq qalan çiyidləri qızlarla bərabər düşərgəyə yığan Zeynəbi səslədi:
+Əli traktoru işə saldı. Dövrə vurub geri döndərdi və təzə sahəyə tərəf sürdü. Kazım artıq qalan çiyidləri qızlarla bərabər düşərgəyə yığan Zeynəbi səslədi:
 
 – Çiyidi də götürün, bura gəlin, hələ səpilməmiş yer qalıb.
 
@@ -322,7 +322,7 @@ Kosaoğlu yaralandığını bildirmək istəyirmiş kimi, sol qolunu yuxarı qal
 
 Kosaoğlunun elə bil ürəyindən beşaçılan gülləsi keçdi. Kişi dik atıldı. Rəngi külə döndü. Dili-dodağı təpidi. Xeyli özünü ələ ala bilmədi. Gecdən-gec özünü toxtatdı.
 
-– Səpmirsən, maşun da götür, hara gedirsən get! Bir də səni buralarda gözüm görməsin.
+– Səpmirsən, maşın da götür, hara gedirsən get! Bir də səni buralarda gözüm görməsin.
 
 Traktorçu dərhal sükanın dalında əyləşdi, maşını sürüb uzaqlaşdı.
 

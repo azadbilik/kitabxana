@@ -27,7 +27,7 @@ Amma Rzanın bacısı oğlunun əli bir az cızıldı.
 
 Niyə, nə səbəbə? O səbəbə ki, Sadıq Rzanın sözündən çıxdı və ömrünün axırına kimi Rzanın dükanında qalmadı.
 
-Və lakin heç təfavütü yoxdur; İran və yainki Şirvan. Əgər bu iş İranda da ittifaq düşsəydi, genə Sadığa zülm olunacaq idi, ondan btrü ki, Rza Rusiya rəiyyətidir. Bundan da bu çıxır ki, Sadığın bədbəxtliyi məhz buradadır ki, İran rəiyyətidir.
+Və lakin heç təfavütü yoxdur; İran və yainki Şirvan. Əgər bu iş İranda da ittifaq düşsəydi, genə Sadığa zülm olunacaq idi, ondan ötrü ki, Rza Rusiya rəiyyətidir. Bundan da bu çıxır ki, Sadığın bədbəxtliyi məhz buradadır ki, İran rəiyyətidir.
 
 Bəs, qardaşlarım, İran ilə Şirvanın heç təfavütü yoxdur, amma iranlı ilə şirvanlının təfavütü çoxdur.
 

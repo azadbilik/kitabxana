@@ -12,7 +12,7 @@ order: 30
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=237'
 status: DRAFT
 ---
-Gəncə çayı selləmə gəldiyindən onun qijıltısı şəhəri başına götürmüşdü. Bu qıjıltı o qədər güclü idi ki, küçələrdə, yollarda edilən hərəkətlər sezilmirdi. Başqa vaxtlar şəhərin 2-ci hissəsində körpünün yanındakı kilsə saatının səsi şəhərin ucqar küçələrində belə eşidilirdi. İndi isə beş addımlıqdan heç nə eşitmək mümkün deyildi.
+Gəncə çayı selləmə gəldiyindən onun qıjıltısı şəhəri başına götürmüşdü. Bu qıjıltı o qədər güclü idi ki, küçələrdə, yollarda edilən hərəkətlər sezilmirdi. Başqa vaxtlar şəhərin 2-ci hissəsində körpünün yanındakı kilsə saatının səsi şəhərin ucqar küçələrində belə eşidilirdi. İndi isə beş addımlıqdan heç nə eşitmək mümkün deyildi.
 
 XI Ordunun əsgərləri ac və yorğun olduqlarından axşamdan kazarmaya doluşmnş və yatışırdılar. Keşikçilər kazarmanın ətrafında dolaşır, yorğun-yorğun əsnəyir və növbələrinin haçan qurtaracağını gözləyirdilər. Onlardan divara söykənib mürgüləyənlər də var idi.
 
@@ -28,7 +28,7 @@ Cavad bəy məlumatı oxuduqdan sonra üzünü Cahangir bəyə tutdu:
 
 Cavad bəyə diqqətlə qulaq asan polkovnik dərhal ona cavab verdi:
 
-– Şəhərin ətraf yollarını, ətraf kəndlərini qoramağı və nəzarət altında saxlamağı adlı-sanlı qaçaqlara tapşırmalıyıq. Bizim Sarı Ələkbər, Qaçaq Qəmbər, Topalhasanlı Cabbar, Topalhasanlı Xallı Heydər, Qabaxtəpəli Dəli Xəlil, Tatoğlu Hasan, Sarı Qafar, Qaçaq Məmmədqasım, Nainsafoğlu Məmmədəli kimi igidlərimiz var. Onları bolşeviklərin təsiri altına düşməyə qoymamalıyıq. Və şəhərin ətrafını qorumağı onlara tapşırmalıyıq. Adlı-sanlı general və zabitlərdən isə şəhərin özündə və hücumlarda istitadə etməliyik.
+– Şəhərin ətraf yollarını, ətraf kəndlərini qoramağı və nəzarət altında saxlamağı adlı-sanlı qaçaqlara tapşırmalıyıq. Bizim Sarı Ələkbər, Qaçaq Qəmbər, Topalhasanlı Cabbar, Topalhasanlı Xallı Heydər, Qabaxtəpəli Dəli Xəlil, Tatoğlu Hasan, Sarı Qafar, Qaçaq Məmmədqasım, Nainsafoğlu Məmmədəli kimi igidlərimiz var. Onları bolşeviklərin təsiri altına düşməyə qoymamalıyıq. Və şəhərin ətrafını qorumağı onlara tapşırmalıyıq. Adlı-sanlı general və zabitlərdən isə şəhərin özündə və hücumlarda istifadə etməliyik.
 
 – Bəs qəti hücumu ayın neçəsində etməliyik? - deyə Cavad bəy soruşdu.
 

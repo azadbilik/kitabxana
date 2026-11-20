@@ -48,9 +48,9 @@ Qönçə xanım qardaşının sifətindəki qətiyyətdən yumşaldı.
 
 Bayaqdan kənarda, çənəsini biləklərinin üstünə qoyub uzanan it adını eşidən kimi dirçəldi, qulaqlarını şəklədi. Haraya isə gedəcəyini hiss edib zingildədi.
 
-– Apar, ağrın alım, amma tez qayıdm, axşama qalmayın.
+– Apar, ağrın alım, amma tez qayıdın, axşama qalmayın.
 
-Ələddin Alanı çağırdı. İt sıçrayıb, onun yanına gəldi. Atılıb əlini imsilədi, burnunu tütəngin qundağına sürtdü, quyruğunu bulayıb şırvandı və yola çıxdı. Orada bir-iki dəfə hürdü. Ələddin başa düşdü ki, Alan onu çağırır. Gülümsündü. Tüfəngin qayışını çiyninə aşırıb getmək istədi. Elə bu vaxt Qönçə xanım qardaşının boynuna sarıldı.
+Ələddin Alanı çağırdı. İt sıçrayıb, onun yanına gəldi. Atılıb əlini imsilədi, burnunu tüfəngin qundağına sürtdü, quyruğunu bulayıb şırvandı və yola çıxdı. Orada bir-iki dəfə hürdü. Ələddin başa düşdü ki, Alan onu çağırır. Gülümsündü. Tüfəngin qayışını çiyninə aşırıb getmək istədi. Elə bu vaxt Qönçə xanım qardaşının boynuna sarıldı.
 
 – Sene ne otdu, ay bacı?
 
@@ -58,7 +58,7 @@ Bayaqdan kənarda, çənəsini biləklərinin üstünə qoyub uzanan it adını 
 
 Ələddin iki yanını basa-basa, cığırla yarğanın başındakı evə doğru addımladı...
 
-Qönçə xanım çaynik gətirdi, içinə quru çay tökdü, üstünə qaynar su aldı və dəmkeşin üstünə qoydu ki, dəmlənsin. Əlləri əsirdi. Nə qəder çalışsa da, sakitləşə bilmirdi. Bir istədi doqqaza çıxsin, qaynı arvadını səsləyib Həsən ağanı soruşsun. Amma nədənsə yerindən tərpənmədi. Donunun ətəyi ilə samovarın qulpundan tutub eyvana qalxmaq istədi. Elə bu vaxt suların qıjıltısı arasından acı bir ulartı eşitdi. Ona elə gəldi ki, ulayan hardasa tək qalmış yalquzaq canavardı. "Murdar yenə ziyanlıq edəcək", - deyə düşündü və pillələri qalxmağa başladı.
+Qönçə xanım çaynik gətirdi, içinə quru çay tökdü, üstünə qaynar su aldı və dəmkeşin üstünə qoydu ki, dəmlənsin. Əlləri əsirdi. Nə qəder çalışsa da, sakitləşə bilmirdi. Bir istədi doqqaza çıxsın, qaynı arvadını səsləyib Həsən ağanı soruşsun. Amma nədənsə yerindən tərpənmədi. Donunun ətəyi ilə samovarın qulpundan tutub eyvana qalxmaq istədi. Elə bu vaxt suların qıjıltısı arasından acı bir ulartı eşitdi. Ona elə gəldi ki, ulayan hardasa tək qalmış yalquzaq canavardı. "Murdar yenə ziyanlıq edəcək", - deyə düşündü və pillələri qalxmağa başladı.
 
 – Çırağı niyə yandırmayıbsan?
 
@@ -94,6 +94,6 @@ Arvad onun başını sinəsinə sıxdı. Qönçə xanım hıçqırdı, uşaq kim
 
 Adam başına iş gələr, qızım, özünə toxtaqlıq ver. Ölən də bizimdi, öldürən də. Olacağa çarə yoxdu, hamısı fələyin işidi.
 
-Qönçə xanımın bulaq kimi qaynamağa hazır olan göz yaşı elə bil birdən qurudu. Saçını yolub üzünü cırmaq, dizlərinə döymək və beləliklə dərdini yüngülləşdirmak istəyi yoxa çıxdı. Hönkürtüsünü boğmaq üçün başını arvadın sinəsinə daha möhkəm sıxdı, onu qucaqladı. Güllü xanım gəlinin saçından öpdü.
+Qönçə xanımın bulaq kimi qaynamağa hazır olan göz yaşı elə bil birdən qurudu. Saçını yolub üzünü cırmaq, dizlərinə döymək və beləliklə dərdini yüngülləşdirmək istəyi yoxa çıxdı. Hönkürtüsünü boğmaq üçün başını arvadın sinəsinə daha möhkəm sıxdı, onu qucaqladı. Güllü xanım gəlinin saçından öpdü.
 
 – Sən kişi qızısan, gərək özünü kişi qızı kimi aparasan!

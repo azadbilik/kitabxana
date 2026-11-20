@@ -15,7 +15,7 @@ status: DRAFT
 *Bəni-növi-bəşər, sən bəs neçün fəryadə yetmirsən?*
 *Şaki*
 
-Məcmuəmizin nəşrini başlayandan indiyə kimi idarəmizə Bakıdan və İrəvandan yüz on altı kağız gəlib. Kağızların başında yazılıb: “İran konsulxanasından ştkayət” və axırında imza qoyulub: “İran əhli”, yainki “İran fəhləsi”. Bu kağızların heç birini biz çap etməmişik, necə ki oxucularımıza məlumdur və çap etməyəcəyik.
+Məcmuəmizin nəşrini başlayandan indiyə kimi idarəmizə Bakıdan və İrəvandan yüz on altı kağız gəlib. Kağızların başında yazılıb: “İran konsulxanasından şikayət” və axırında imza qoyulub: “İran əhli”, yainki “İran fəhləsi”. Bu kağızların heç birini biz çap etməmişik, necə ki oxucularımıza məlumdur və çap etməyəcəyik.
 
 Çap etməməyimizin iki səbəbi var:
 

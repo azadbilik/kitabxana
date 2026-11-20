@@ -34,7 +34,7 @@ Kəsəmənli gülümsündü və qapını açıb uşağı içəri buraxdı. Uşaq
 
 – Mən nə karəyəm ki, Kabı dayı.
 
-Kişi bu uşağın ədəb-ərkanına yenidən gülümsündü və papiros qabından papiros çıxardıb yandırdı. O bununla hirsini bir az da soyutmaq, qəza firqə özəyindəki söhbətdən uzaqlaşmaq istəyirdi. Fətullayevin səsi hələ də qulaqlarında idi: "Müzür ünsürləri qırmaq lazımdır". Kabı kişi papirosu sümürüb ciyərlərini tüstü ilə doldurdu, sonra da əlindaki kötüyü hirslə külqabına basıb söndürdü. Sifətinə ilıq və mülayim bir ifadə verdi.
+Kişi bu uşağın ədəb-ərkanına yenidən gülümsündü və papiros qabından papiros çıxardıb yandırdı. O bununla hirsini bir az da soyutmaq, qəza firqə özəyindəki söhbətdən uzaqlaşmaq istəyirdi. Fətullayevin səsi hələ də qulaqlarında idi: "Müzür ünsürləri qırmaq lazımdır". Kabı kişi papirosu sümürüb ciyərlərini tüstü ilə doldurdu, sonra da əlindəki kötüyü hirslə külqabına basıb söndürdü. Sifətinə ilıq və mülayim bir ifadə verdi.
 
 – De görüm, bala, mənə nə sözün var?
 
@@ -60,15 +60,15 @@ Uşaq ayağa durdu. Şalvarının belini qurdaladı və oradan bir naqan çıxar
 
 – Bax bunnan. Düz qaşının ortasından vurdum. Bu da Qəzənfərin qanli papağı, tapançası da üstündə.
 
-– Axı, nə üsyə?
+– Axı, nə üstə?
 
 Uşağın qaşqabağı töküldü. Birdən-birə sifətini elə bil qara bulud bürüdü. Deyəcəyi sözə çətinlik çəkirmiş kimi bir-iki dəfə udqundu, sonra təmkinini pozmadan qətiyyətlə dilləndi:
 
-– Bacıma sataşmışdı. – Uşaq elə bil birdən-birə büzüşdü. Az qaldı iri yazı masasının altına girsin. Elə bil neçə aydan bəri ürəyində sir kimi saxladığı məsələni açdığına görə, tarıma çakilmiş əsəbləri boşaldı.
+– Bacıma sataşmışdı. – Uşaq elə bil birdən-birə büzüşdü. Az qaldı iri yazı masasının altına girsin. Elə bil neçə aydan bəri ürəyində sir kimi saxladığı məsələni açdığına görə, tarıma çəkilmiş əsəbləri boşaldı.
 
-İndi o yüngülləşmişdi və tutduğn işo görə cəzasını çəkməyə hazır idi.
+İndi o yüngülləşmişdi və tutduğu işo görə cəzasını çəkməyə hazır idi.
 
-Kabı kişi ayağa durub otaqda gəzindi, papirosu papirosun oduna yandırıb içərini tüstü-dumanla doldurdu. O, öldürülmüş şura sədrini yaxşı tanıyırdı; anasının əmcəyini kəsənin biri idi. Halal-haram qanmaz, abır-həya bilməzdi. Əli də əyri idi. Kənd camaatını zinhara gətirmişdi. Onun oturub-durduğu adamlar da çekanın nümayəndəsi demişkən, müzür ünsürlər idilər. Əslinə baxsan, Kəsəmənli onlardan can qurtarmaq üçün bir yol axtarırdı. Onun ölüm xəbərini eşidəndə bir az yüngülləşən kimi oldu və şahidlərin dediyinə inanaraq dostlarından iki nəfərini də tutub cəza verdilər. Amma indi işin gözlənilmədən bu cür açılması onu həm sevindirmiş, həm də sarsıtmışdı. Kabı kişi qəti addımlarla uşağa yaxınlaşdı, onun qoltuğundan həp götürüb inasanın üstünə qoydu.
+Kabı kişi ayağa durub otaqda gəzindi, papirosu papirosun oduna yandırıb içərini tüstü-dumanla doldurdu. O, öldürülmüş şura sədrini yaxşı tanıyırdı; anasının əmcəyini kəsənin biri idi. Halal-haram qanmaz, abır-həya bilməzdi. Əli də əyri idi. Kənd camaatını zinhara gətirmişdi. Onun oturub-durduğu adamlar da çekanın nümayəndəsi demişkən, müzür ünsürlər idilər. Əslinə baxsan, Kəsəmənli onlardan can qurtarmaq üçün bir yol axtarırdı. Onun ölüm xəbərini eşidəndə bir az yüngülləşən kimi oldu və şahidlərin dediyinə inanaraq dostlarından iki nəfərini də tutub cəza verdilər. Amma indi işin gözlənilmədən bu cür açılması onu həm sevindirmiş, həm də sarsıtmışdı. Kabı kişi qəti addımlarla uşağa yaxınlaşdı, onun qoltuğundan həp götürüb insanın üstünə qoydu.
 
 – Bu sirri bir kəsə deməmisən ki?
 

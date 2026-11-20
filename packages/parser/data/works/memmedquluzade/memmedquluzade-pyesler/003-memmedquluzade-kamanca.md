@@ -71,7 +71,7 @@ Novruz. Sən öləsən, Əziz, bunlar ermənidilər.
 
 Bu sözləri decək Novruz cəld tüfəngini salır çiyninə, cilovu ağacın budağından çəkib, qaçır atlansın. Əziz də buna baxıb haman cür eləyir. Bunlardan savayı yoldaşlardan yenə ikinəfər cilovları götürüb qaçırlar. Qəhrəman yüzbaşı da və qeyriləri ayağa durub, haman tərəfə diqqət ilə baxırlar.
 
-Qəhrəman yüzbaşı (əlini qoyub alinına). Ədə, cəld tərpəşin! (Çığırır) Əziz! Atı döy, sənin atın qıvraqdı...
+Qəhrəman yüzbaşı (əlini qoyub alnına). Ədə, cəld tərpəşin! (Çığırır) Əziz! Atı döy, sənin atın qıvraqdı...
 
 Qaraş (ucadan). Çaparaq, çaparaq! (Alçaqdan). Qorxuram çata bilməyələr. (Bir az sakit olub) Aha, qoçaq Novruz deyəsən tutaçaq. Aha, Əziz də haqladı. Zalım oğlunun atının qabağından bir kəs qurtara bilməz...
 
@@ -177,7 +177,7 @@ Baxşı. Ay ağa, axı mən nə eləmişəm?
 
 Qəhrəman yüzbaşı (acıqlı üzünü yoldaşlarına tutub, bir az alçaqdan). Allahü əkbər! Dəli şeytan deyir... (qəməsini qınından çəkir, qalxır ayağa və üzünü yoldaşlarına tutub deyir). Yəni siz elə güman eləyirsiniz ki, mən bu çolaq ermənini öldürməknən hirsim soyuyacaq? Soyumayacaq! (Bir qədər erməniyə tərəf baxır, dinmir). Hələ buna bax, sən Allah! Dünyada bir haramzadalıq qalmadı ki, öyrənməmiş olsunlar. Şeytana papaq tikirlər. Bu çolaq da kəmənçəni bağrına basıb, gör nə əməllərdən çıxır. Haramzada elə çalır ki, keçən günləri gətirir qoyur adamın qabağına. Allahü əkbər! (Qaraşa). Qaraş, bir papiros yandır.
 
-Qaraş papiros çıxardıb yandırır, verir yüzbaşıya. Bu heyndə Baxşı kamançanı kökləyir və başlayır Segah-zabil havasını çalmağa. Bir qədər qulaq asandan sonra, Qəhrəman yüzbaşı durduğu yerdə yenə yavaşca oturur və Baxşı çaldıqca yüzbaşı yavaş-yavaş, guya özundən bixəbər, qəməni soxur belindəki qınına və huş-guş ilə qulaq asmaqdadır. Adamlar hamısı sükutdadır.
+Qaraş papiros çıxardıb yandırır, verir yüzbaşıya. Bu heyndə Baxşı kamançanı kökləyir və başlayır Segah-zabil havasını çalmağa. Bir qədər qulaq asandan sonra, Qəhrəman yüzbaşı durduğu yerdə yenə yavaşca oturur və Baxşı çaldıqca yüzbaşı yavaş-yavaş, guya özündən bixəbər, qəməni soxur belindəki qınına və huş-guş ilə qulaq asmaqdadır. Adamlar hamısı sükutdadır.
 
 Qəhrəman yüzbaşı (Qaraşa). Qaraş, sən öləsən biçarə Heydər gəlib durub gözümün qabağında. Ax, vay!.. (Yüzbaşı bu sözləri deyəndə Baxşı çox alçaqdan çalır. Adamların çoxu da ah çəkir. Yenə Baxşı şövq ilə çalmaqdadır. Yüzbaşı gözü Baxşıda gahdan bir dillənir). Bax, belə!... eləcə!.. əcəb!.. afərin!.. eləcə!.. eləcə!.. (və axırda yüzbaşı birdən durur ayağa, qəməsini qınından çıxardır və acıqlı, ucadan Baxşıya deyir). Adə, erməni, tez kəmənçəni yığışdır, itil get burdan! Yoxsa atanın goru haqqı, bu yoldaşlarımın başına and olsun, bu qəməynən bu saat səni də öldürərəm, özümü də öldürərəm! (Çığırır). Çıx get!
 
@@ -185,7 +185,7 @@ Baxşı (qorxa-qorxa). Ay ağa, hara gedim?
 
 Qəhrəman yüzbaşı (çığırır). Cəhənnəmə get! Evinə!
 
-Baxşı qorxa-qorxa baxır adamların üzünə, kamançanı və örtüyünu götürür, tez çıxır gedir. Hamı sakit, öz fikirli halətində qalır. Qəhrəman yüzbaşı haman durduğu yerində durub, dinməz-söyləməz baxır Baxşı gedən tərəfə. Bir qədər də baxandan sonra qəməsini tullayır yerə və guya öz-özunə deyir:
+Baxşı qorxa-qorxa baxır adamların üzünə, kamançanı və örtüyünü götürür, tez çıxır gedir. Hamı sakit, öz fikirli halətində qalır. Qəhrəman yüzbaşı haman durduğu yerində durub, dinməz-söyləməz baxır Baxşı gedən tərəfə. Bir qədər də baxandan sonra qəməsini tullayır yerə və guya öz-özünə deyir:
 
 Qəhrəman yüzbaşı. Eh, namərd dünya!..
 

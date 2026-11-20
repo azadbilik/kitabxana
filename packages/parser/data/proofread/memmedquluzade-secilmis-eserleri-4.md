@@ -351,7 +351,7 @@ Dayım oğlu durdu, getdi və övrəti Tükəzban, yəni mənim dayıcanım gəl
 
 Hələ məzəli dayım oğlumun Hacı Molla Tağıdan qayıtmağı və Hacı Molla Tağının cavabını dayıma yetirməyi və dayımın yatdığı yerdə namaz qılmağıdır ki, bunun tul təfsilini mən yadımdan çıxara bilməzdim; çünki yaddan çıxarmaq heç mümkün deyil.
 
-Dayıoğlum gəldi, salam verdi və diz üstə çökdu atasının yanında ərz etdi:
+Dayıoğlum gəldi, salam verdi və diz üstə çökdü atasının yanında ərz etdi:
 
 – Ata, Hacı Molla Tağı buyurur ki, bir surətdə ki atan o qədər zəifdir və yatdığı yerdə də namazını qıla bilmir, onda sahibi-şəri-şərif bizə bu barədə müəyyən bir yol göstəribdir ki, o yol ilə əlbəttə, biz də gedək. Axund Hacı Molla Tağı mənim öz yanımda Seyid Məhəmməd Bağır Rəşti müctəhidin “Sual və cavab” kitabını açdı oxudu və hətta bir özgə müctəhiy din də risaləsini açdı və baxdı, mənə belə bəyan elədi ki, hər bir məriz, bir surətdə onun yatdığı yerdə də namaz eləməyə taqəti olmasa, labüddür ki, başı ilə işarə eləyə-eləyə namazını qılsın. Əgər başı ilə işarə eləməyə aciz olsa, o vaxt gözlərilə işarə eləyə-eləyə namazını qılsın gərək. Və əgər gözü ilə işarə eləməyə imkan olmasa, o vaxt namazın ibarələrini kifayətdir ki, xatirinə gətirə və beləliklə namazı öz könlündə gərək qıla.
 
@@ -565,7 +565,7 @@ Bir gün dayım – şaban ayının bilmirəm neçəsi idi, – gəldi bizə, d�
 
 – Bu gün Hacı Molla Tağı məsciddə moizə eləyir və deyirdi ki, “Müftahi-cinan” kitabında yazılıbdır ki, hər kəs şaban ayında yetmiş dəfə istiğfar duasını oxuya, nə qədər günah eləmiş olsa, cəhənnəm odu onu yandırmayacaq.
 
-Və bunu deyəndan sonra gözlərini yumdu, üzünü göyə tərəf tutdu və başladı deməyə: “əstəğfürullah və əsəlhüt-tövbə, əstəğfürullah və əsəlhüt-tövbə”... Dayım bu duanı oxuduqca anam da onun dalıyca deyirdi.
+Və bunu deyəndən sonra gözlərini yumdu, üzünü göyə tərəf tutdu və başladı deməyə: “əstəğfürullah və əsəlhüt-tövbə, əstəğfürullah və əsəlhüt-tövbə”... Dayım bu duanı oxuduqca anam da onun dalıyca deyirdi.
 
 Bunlar bu duanı on-on beş dəfə ancaq oxumuşdu. Dayım birdən gözlərini açdı və anamdan soruşdu:
 
@@ -615,7 +615,7 @@ Hacı Nəcmüddövlənin müqəddəs təqvimi o vədələr hər bir mömin Allah
 
 Burada bir haşiyə çıxmaq lazım gəlir.
 
-Şəhərimizdə Hacı Səməd xan bir gün ziyarəti-imam Rza qəsd eləmişdi. Çün xan həzrətləri qeyri xanlardan müstəsna olaraq xeyli, dindar və əhli-təqva idi, onunçün də qəsd etdiyi bu qiymətli səfərini labüd gərək bir xoş saata müvafiq tuta idi və bu barədə də, təbii, ruhanilərə müraciət etdi. Hacı Molla Tağı Quranla istixarə etmişdi və xanın şəhərdən hərəkət gününü rəbiüssaninin on yeddisinə təklif etmişdi. Amma nədənsə Hacı Nəcmüddövlənin təqvimində rəbiüssaninin on yeddisi əzm-ziyarət üçün yox, ticarət qəsdi üçün xoş yazılmışdı. Və yadımdadır ki, bu səbəbdən xan həzrətləri bir neçə həftə təxirə düşdü. Sonra Hacı Molla Əlinin istixarəsi mocibincə xanın səfəri rəbiüssaninin səlx gününə təyin olundu. Amma burada yenə bir maneə ortalığa gəldi; çünki Hacı Nəcmüddövlənin təqvimində yazılmışdı ki, bu il rəbiüssaninin səlxi yoxdur, yəni bu ay otuz gün yox, iyirmi doqquz gündür. Rəbiüssaninin iyirmi doqquzu əyyami-səkkiz ulduzun, yadımda deyil, hansı gününə duşürdü və məlumdur ki, əyyami-səkkiz ulduz günləri səfərə çıxmaq üçün nəhs hesab olunurlar. Sonra Hacı Səmədxan yenə qeyri mollaya müraciət elədi. Ondan sonra yenə bir qeyrisindən məsləhət istədi.
+Şəhərimizdə Hacı Səməd xan bir gün ziyarəti-imam Rza qəsd eləmişdi. Çün xan həzrətləri qeyri xanlardan müstəsna olaraq xeyli, dindar və əhli-təqva idi, onunçün də qəsd etdiyi bu qiymətli səfərini labüd gərək bir xoş saata müvafiq tuta idi və bu barədə də, təbii, ruhanilərə müraciət etdi. Hacı Molla Tağı Quranla istixarə etmişdi və xanın şəhərdən hərəkət gününü rəbiüssaninin on yeddisinə təklif etmişdi. Amma nədənsə Hacı Nəcmüddövlənin təqvimində rəbiüssaninin on yeddisi əzm-ziyarət üçün yox, ticarət qəsdi üçün xoş yazılmışdı. Və yadımdadır ki, bu səbəbdən xan həzrətləri bir neçə həftə təxirə düşdü. Sonra Hacı Molla Əlinin istixarəsi mocibincə xanın səfəri rəbiüssaninin səlx gününə təyin olundu. Amma burada yenə bir maneə ortalığa gəldi; çünki Hacı Nəcmüddövlənin təqvimində yazılmışdı ki, bu il rəbiüssaninin səlxi yoxdur, yəni bu ay otuz gün yox, iyirmi doqquz gündür. Rəbiüssaninin iyirmi doqquzu əyyami-səkkiz ulduzun, yadımda deyil, hansı gününə düşürdü və məlumdur ki, əyyami-səkkiz ulduz günləri səfərə çıxmaq üçün nəhs hesab olunurlar. Sonra Hacı Səmədxan yenə qeyri mollaya müraciət elədi. Ondan sonra yenə bir qeyrisindən məsləhət istədi.
 
 Axirül-əmr Hacı Molla Tağı, Hacı Səməd xanın səfərini cəmadiyəl-əvvəlin ayının altıncı gününə təyin eləmişdi. Amma məlum oldu ki, haman gün cümə gününə düşür.
 
@@ -627,7 +627,7 @@ Biçarə Hacı Səməd xan axırda təsmim eləmişdi ki, cəmadiyəl-əvvəl ay
 
 @@ 048
 
->>maneçilik üz verdi. Çünki haman gün düşənbə gününə duşürdü və məlumdur ki, düşənbə günü həzrəti-rəsulun vəfat günü olduğu üçün, səfərə çıxmaq o gün heç bir vəchlə caiz deyil. Sonra bədbəxt Hacı Səməd xan, yadımda deyil, ayın iyirmi birindəmi, ya iyirmi ikisində Rəvan şəhərinə tərəf yola düşdü. Və yadımdadır ki, haman gün bütün şəhər xanın müşayiətinə çıxmışdı. Amma...
+>>maneçilik üz verdi. Çünki haman gün düşənbə gününə düşürdü və məlumdur ki, düşənbə günü həzrəti-rəsulun vəfat günü olduğu üçün, səfərə çıxmaq o gün heç bir vəchlə caiz deyil. Sonra bədbəxt Hacı Səməd xan, yadımda deyil, ayın iyirmi birindəmi, ya iyirmi ikisində Rəvan şəhərinə tərəf yola düşdü. Və yadımdadır ki, haman gün bütün şəhər xanın müşayiətinə çıxmışdı. Amma...
 
 İki gün ondan sonra dedilər ki, Hacı Səməd xan yoldan qayıdıb gəlir. Məlum oldu ki, xan fayton ilə Xok qəryəsindən ötüb Qıvraq adlı kəndə daxil olur və fayton kəndin ortasından keçən vaxt bir kəndli arvadı damın üstündə paltar sərdiyi yerdə asqırır. Xan faytonu saxlayır və arvada tərəf üzünü tutub deyir:
 
@@ -751,7 +751,7 @@ Dünyada “hikmətə” inanan adam olsa idim, mən deyə bilərdim ki, “Şə
 
 Necə ki ərz olundu, Qafqazda müsəlmanlar içində türkcə qəzet tək bir “Şərqi-Rus” idi. Bu da ki məlumdur, Tiflisdə bina olunmuşdu və orada da çıxmaqda idi. Bakı şəhəri, o milyonlu və mədənli Bakı şəhəri öz qəhrəman yazıçıları ilə, öz Əhmədbəy Ağayev, Əlibəy Hüseynzadə, Haşımbəy Vəzirov, Məmmədəmin Rəsulzadə, doktor Qarabəy Qarabəyov, şair Müznib, Hacı İbrahim Qasımov, Cəfər Bünyadzadə və qeyri bunlar kimi əhli-qələmləri ilə uzaqdan Tiflisə baxıb onun gündəlik “Şərqi-Rus” qəzetinə həsrət aparırdılar. Bəs necə olsun? Belə məlum olur ki, o vaxtlar türk qəzetinə izn hasil etmək bəhərhal çox çətin bir məsələ imiş. İndi belə güman etmək olar ki, o vaxt Bakının birinci jurnalistlərindən Əhmədbəy Ağayev və Əlibəy Hüseynzadəyə ya qəzet icazəsi Peterburqdan verilmədi, yaxud bunlar Peterburqun siyasətini nəzərə alıb oradan bu icazəni istəmədilər, onunçün də bunlar belə məşqə düşdülər: mərkəzdən ki təzə bir türk cəridəsinə izn almaq ümidi yoxdur, səlah buradadır ki, hal-hazırdakı “Şərqi-Rus” qəzetinə bir növ əl uzatmaq və şəriklikmi sifətilə, ya qeyri bir vəchlə oraya daxil olmaq və qəzeti də Bakıya köçürmək.
 
-Axirül-əmr, Məhəmməd ağa Bakıdan Əhmədbəy Ağayevin “Şərqi-Rus” qəzetinə yoldaşlıq sifətilə daxil olmağını qəbul etdi. Və niyə qəbul etdi və nə mülahizə ilə qəbul etdi, bunu mən o vədə bilmədim. Ancaq Əhmədbəyin qəzetə daxil olmağına Qafqaz hökuməti izn verə bilmədi; onunçün də bu izni hasil etmək məqəsdilə Məhəmməd ağa Peterburqa getməyə məcbur oldu və oradan icazəni də aldı. Və sənə min doqquz yüz beşinci ilin yanvar ayında qəzetin təzə il üçün abunəsi hər yandan şirin gəldiyi bir vaxtda Məhəmməd ağa qəzeti yatırtdı və başladı Bakıya köçməyə hazırlaşmağa. Yanvardan fevraladək ancaq idarənin əşyasının qutulara dolmağı çəkdi və qutulara da dolub hazır olandan sonra haman yerdə qaldı ki, qaldı.
+Axirül-əmr, Məhəmməd ağa Bakıdan Əhmədbəy Ağayevin “Şərqi-Rus” qəzetinə yoldaşlıq sifətilə daxil olmağını qəbul etdi. Və niyə qəbul etdi və nə mülahizə ilə qəbul etdi, bunu mən o vədə bilmədim. Ancaq Əhmədbəyin qəzetə daxil olmağına Qafqaz hökuməti izn verə bilmədi; onunçün də bu izni hasil etmək məqsədilə Məhəmməd ağa Peterburqa getməyə məcbur oldu və oradan icazəni də aldı. Və sənə min doqquz yüz beşinci ilin yanvar ayında qəzetin təzə il üçün abunəsi hər yandan şirin gəldiyi bir vaxtda Məhəmməd ağa qəzeti yatırtdı və başladı Bakıya köçməyə hazırlaşmağa. Yanvardan fevraladək ancaq idarənin əşyasının qutulara dolmağı çəkdi və qutulara da dolub hazır olandan sonra haman yerdə qaldı ki, qaldı.
 
 @@ 058
 
@@ -759,11 +759,11 @@ Yuxarıda söylədiyim hikmət bu idi ki, nə “Şərqi-Rus” qəzeti Bakıya 
 
 Bu növ ilə “Şərqi-Rus” qəzeti öldü və Məhəmməd ağa da elə yadıma gəlir ki, Tiflisdən çıxıb getmək fikrinə düşdü. Elə yadıma gəlir ki, Bakıya getmək istəyirdi. Amma qəzet dayanandan sonra qəzetin o vaxta görə mükəmməl mətbəəsi də qaldı bikar və mətbəəçiləri də işsiz qaldılar, necə ki, idarənin xidmətçiləri həmçinin işsiz qaldılar.
 
-Bunu nəzərə almaq lazımdır ki, Məhəmıməd ağanın idarəsinin fəal qələm köməkçiləri Ömər Faiq idi və mən idim (o vaxt Səməd ağa Qayıbov idarədən çıxıb getmişdi). Digər tərəfdən də “Şərqi-Rus” qəzetinin iki min manata yavıq borcu var idi. Amma söz buradadır ki, Məhəmməd ağa Şahtaxtlı yenə bir qədər pula möhtac idi və digər tərəfdən də bizim də pulumuz yox idi. Onunçün biz mətbəəni ələ gətirmək, gələcəkdə ondan istifadə etmək niyyətilə biz başladıq elə bir üçüncü yoldaş axtarmağa ki, o bir qədər pula malik olsun. Və tapdıq da. Bu üçüncü yoldaş naxçıvanlı möhtərəm Məşədi Ələsgər Bağırov oldu ki, o vədə də, indi də Tiflisdə ticarət əhlidir. Həmin yoldaş Məhəmməd ağaya bir qədər pul verməyi boynuna çəkdi və verdi də. Və həmin vaxtda ki, sənə min doqquz yüz beşinçi ilin yaz fəslinə təsadüf eləyir, biz, yəni mən, Ömər Faiq və Məşədi Ələsgər bir tərəfdən və Məhəmməd ağa o biri tərəfdən, notarius vasitəsilə razılaşdıq ki, mətbəə qalsın bizim ixtiyarımızda, bu şərtlə ki, qəzetin və mətbəənin iki min manat borcunu biz öhdəmizə götürək.
+Bunu nəzərə almaq lazımdır ki, Məhəmməd ağanın idarəsinin fəal qələm köməkçiləri Ömər Faiq idi və mən idim (o vaxt Səməd ağa Qayıbov idarədən çıxıb getmişdi). Digər tərəfdən də “Şərqi-Rus” qəzetinin iki min manata yavıq borcu var idi. Amma söz buradadır ki, Məhəmməd ağa Şahtaxtlı yenə bir qədər pula möhtac idi və digər tərəfdən də bizim də pulumuz yox idi. Onunçün biz mətbəəni ələ gətirmək, gələcəkdə ondan istifadə etmək niyyətilə biz başladıq elə bir üçüncü yoldaş axtarmağa ki, o bir qədər pula malik olsun. Və tapdıq da. Bu üçüncü yoldaş naxçıvanlı möhtərəm Məşədi Ələsgər Bağırov oldu ki, o vədə də, indi də Tiflisdə ticarət əhlidir. Həmin yoldaş Məhəmməd ağaya bir qədər pul verməyi boynuna çəkdi və verdi də. Və həmin vaxtda ki, sənə min doqquz yüz beşinçi ilin yaz fəslinə təsadüf eləyir, biz, yəni mən, Ömər Faiq və Məşədi Ələsgər bir tərəfdən və Məhəmməd ağa o biri tərəfdən, notarius vasitəsilə razılaşdıq ki, mətbəə qalsın bizim ixtiyarımızda, bu şərtlə ki, qəzetin və mətbəənin iki min manat borcunu biz öhdəmizə götürək.
 
 Və mətbəəni bu şərtlə təhvilə götürəndən sonra onu haman “Peskovki” küçəsində qonşuluqda qeyri bir münasib evə köçürtdük və mətbənin rəsmi surətdə “Qeyrət” mətbəəsi adı ilə adlandırıb başladıq onu müvafiq-qayda işlətməyə.
 
-Və lakin mətbəəçilik o vaxtlar asan bir iş deyil imiş. Xüsusən bizim üçün ki, bu yolda heç birimizin heç bir təcrübəmiz yox idi. Və bu sabəbdən mətbəəni sazlamaq yolunda çox-çox səhvlər edirdik və bu səhvlər də bizə çox zərər verirdi. Odur ki, mətbəəni Peskovki küçədən qonşuluqda olan Krasnovodski küçəsinə köçürməyə məcbur olduq. Təzə köçdüyümüz ev ikimərtəbəli böyük bir bina idi. Alt mərtəbədə geniş otaqlarda mətbəəni yerləşdirdik. Üst mərtəbədə mən
+Və lakin mətbəəçilik o vaxtlar asan bir iş deyil imiş. Xüsusən bizim üçün ki, bu yolda heç birimizin heç bir təcrübəmiz yox idi. Və bu səbəbdən mətbəəni sazlamaq yolunda çox-çox səhvlər edirdik və bu səhvlər də bizə çox zərər verirdi. Odur ki, mətbəəni Peskovki küçədən qonşuluqda olan Krasnovodski küçəsinə köçürməyə məcbur olduq. Təzə köçdüyümüz ev ikimərtəbəli böyük bir bina idi. Alt mərtəbədə geniş otaqlarda mətbəəni yerləşdirdik. Üst mərtəbədə mən
 
 @@ 059
 
@@ -948,7 +948,7 @@ Biz molla nəsrəddinçilər dil barəsində yuxarıda bir neçə ibtidai sözl�
 
 @@ 073
 
->>zənn edirəm ki, – ümum türklər üçün, ümum bir dil yaratmaq və bir imla yazmaq onlar üçün, təzə əlifba yaratmaqdan çətindir. Vaqeən, necə olsun? Bu ola bilərmi ki, Naxçıvandan birisi çıxıb başlasın Naxçıvan şivəsinə yavıq bir dildə yazsın, məgər bu dili naxçıvanlılardan başqa uzaq bir ölkələrin türk camaatı oxumayacaq? Habelə qeyrilərin şivəsi. Hələ tək bircə Qafqaz türkləri üçün ümum bir dil məsələsinin həlli genə səhldir, pəs osmanlı türklri, pəs Krım və Qazan tatarları, pəs Türküstan və Özbəkistan, pəs İran azərbaycanlıları? Pəs biz bunu etiraf edirik ki, əvvəl-axır türk kütlələri üçün ədəbi dil və ümumi imlaya çox böyük ehtiyac vardır. Və etiqadımız da bundadır ki, bir belə dil gec-tez vücuda gələcəkdir. Və lakin bunu gərək heç bir insan əhli unutmaya ki, gec-tez Türkiyədən bizlərə gəlib çatan qədim ədiblərin dillərindən lüzumu olmayan, çətin ərəb və əcəm sözlərini, ibarələrini çıxardıb tullamaq çox da vacibdir. Bundan o çıxmır ki, biz avama məxsus bir dil və bir ədəbiyyat istəyirik; xeyr, biz ancaq onu deyirdik ki, indiyədək qəliz ərəb sözləri ilə zibillənmiş bədbəxt türk dilini təsfiyə etmək lazımdır.
+>>zənn edirəm ki, – ümum türklər üçün, ümum bir dil yaratmaq və bir imla yazmaq onlar üçün, təzə əlifba yaratmaqdan çətindir. Vaqeən, necə olsun? Bu ola bilərmi ki, Naxçıvandan birisi çıxıb başlasın Naxçıvan şivəsinə yavıq bir dildə yazsın, məgər bu dili naxçıvanlılardan başqa uzaq bir ölkələrin türk camaatı oxumayacaq? Habelə qeyrilərin şivəsi. Hələ tək bircə Qafqaz türkləri üçün ümum bir dil məsələsinin həlli genə səhldir, pəs osmanlı türkləri, pəs Krım və Qazan tatarları, pəs Türküstan və Özbəkistan, pəs İran azərbaycanlıları? Pəs biz bunu etiraf edirik ki, əvvəl-axır türk kütlələri üçün ədəbi dil və ümumi imlaya çox böyük ehtiyac vardır. Və etiqadımız da bundadır ki, bir belə dil gec-tez vücuda gələcəkdir. Və lakin bunu gərək heç bir insan əhli unutmaya ki, gec-tez Türkiyədən bizlərə gəlib çatan qədim ədiblərin dillərindən lüzumu olmayan, çətin ərəb və əcəm sözlərini, ibarələrini çıxardıb tullamaq çox da vacibdir. Bundan o çıxmır ki, biz avama məxsus bir dil və bir ədəbiyyat istəyirik; xeyr, biz ancaq onu deyirdik ki, indiyədək qəliz ərəb sözləri ilə zibillənmiş bədbəxt türk dilini təsfiyə etmək lazımdır.
 
 “Molla Nəsrəddin”in dilinə gəldikdə, burada məsələ bambaşqadır.
 
@@ -1265,9 +1265,9 @@ Və çün məcmuənin nəşri aprelin yeddisindən başlanmışdı, onunçün il
 
 Məcmuənin adresi belə idi: Tiflis, Voronsovski küçədə, nömrə qırx yeddi, “Molla Nəsrəddin” idarəsi.
 
-Müxbir və məqalə yazanlar üçün də tək bircə bu şərt elan olunurdu ki, “idarəyə çap olunmaq üçün göndərilən məktub və məqalələri geri qaytarmaq mümkündur, əgər sahibləri marka göndərib xahiş eləsələr”.
+Müxbir və məqalə yazanlar üçün də tək bircə bu şərt elan olunurdu ki, “idarəyə çap olunmaq üçün göndərilən məktub və məqalələri geri qaytarmaq mümkündür, əgər sahibləri marka göndərib xahiş eləsələr”.
 
-Birinci nömrənin şəkillərinə geçdikdə, onlarım ikisi barəsində qabaq sətirlərimizdə söhbət olundu. Birinci səhifədə müsəlmanlar qəflət yuxusunda şirin-şirin yatışıblar. Və dördüncü səhifədə cəmaəti-müslimin
+Birinci nömrənin şəkillərinə keçdikdə, onlarım ikisi barəsində qabaq sətirlərimizdə söhbət olundu. Birinci səhifədə müsəlmanlar qəflət yuxusunda şirin-şirin yatışıblar. Və dördüncü səhifədə cəmaəti-müslimin
 
 @@ 090
 
@@ -1359,7 +1359,7 @@ Xəyalımıza nə gəlirdi? Ümidvar ola bilərdikmi ki, məcmuəmizə camaat r�
 
 – Heç bir mənası yoxdur – dedi. – Heç kəs onları oxumaz – dedi.
 
-Amma necə ki məlum oldu, rəfiqimiz durbinlikdən bu barədə xeyli kasıb imiş. Onunçün də mərhumun övladının xatirinə dəyməsin deyə, onun adını burada örtülu qoyduq.
+Amma necə ki məlum oldu, rəfiqimiz durbinlikdən bu barədə xeyli kasıb imiş. Onunçün də mərhumun övladının xatirinə dəyməsin deyə, onun adını burada örtülü qoyduq.
 
 Ondan savayı genə bir naxçıvanlı həmvətənimizə birinci nömrənin materialının bir neçə yerini oxudum. Bu da bir qoca teleqrafçı idi. Bu da materiallar barəsində belə rəy verdi, dedi:
 
@@ -1479,7 +1479,7 @@ Nə qədər Naxçıvanın müqəddəs mühiti və darülmüəlliminin əmmaməli
 
 >>görmədə idi. Dərsin birində dünyanın altı gündə xudavəndi-aləmin tərəfindən xəlq olunduğunu və xaliqin cümə günü dincə qaldığını oxuyanda, dərsin o birisində tarixi-təbii müəlliminin bəyanatı öz mənası ilə dinməz-söyləməz Allahın varlığını da şübhə altında buraxırdı, Adəm babamızın behişti ilə Nuhun tufanını bilmərrə inkar edirdi.
 
-Mən özüm darülmüəlliminini qurtaran zaman Naxçıvanda həmin bir halda özumdən artıq hüşyar dostlarıma rast gəldim və onlarla tutuşdum. Mənim səsimə səs verən sindaşlarımdan qabaqca əzizim Eynəli Sultan oldu. O vaxtlar arvadlarımızın əsarətdə olmaq söhbətləri təzə-təzə meydana atılmaq istəyirdi və birinci dəfə arvadları müdafiə edən sözləri Eynəli yoldaşımız vasitəsilə məşhur arvad azadlığı tərəfdarı Con Stüart Milin kitabında gördüm. Bu kitab ingilisdən rus dilinə tərcümə idi və o vaxt oxuduğum indi bilmərrə yadımdan çıxıb. Ancaq onu bilirəm ki, Con Stüart Mil bu kitabında hansı bir özü kimi Avropa yazıçısı ilə arvad azadlığı barəsində mübahisəyə girişmişdi və kitabında sübuta yetirirdi ki, arvad azadlığına indiyədək qoyulan sərhədlərin hamısı gərək götürülsun.
+Mən özüm darülmüəlliminini qurtaran zaman Naxçıvanda həmin bir halda özümdən artıq hüşyar dostlarıma rast gəldim və onlarla tutuşdum. Mənim səsimə səs verən sindaşlarımdan qabaqca əzizim Eynəli Sultan oldu. O vaxtlar arvadlarımızın əsarətdə olmaq söhbətləri təzə-təzə meydana atılmaq istəyirdi və birinci dəfə arvadları müdafiə edən sözləri Eynəli yoldaşımız vasitəsilə məşhur arvad azadlığı tərəfdarı Con Stüart Milin kitabında gördüm. Bu kitab ingilisdən rus dilinə tərcümə idi və o vaxt oxuduğum indi bilmərrə yadımdan çıxıb. Ancaq onu bilirəm ki, Con Stüart Mil bu kitabında hansı bir özü kimi Avropa yazıçısı ilə arvad azadlığı barəsində mübahisəyə girişmişdi və kitabında sübuta yetirirdi ki, arvad azadlığına indiyədək qoyulan sərhədlərin hamısı gərək götürülsün.
 
 Miladın min səkkiz yüz doxsanıncı illərində Nehrəm kəndində müəllim olduğum vaxt kəndlərimizdə qəribə hallar görərdim və görduklərimi yazıya götürərdim. “Danabaş kəndi əhvalatı” sərlövhədə Məhəmmədhəsən əminin eşşəyinin itməyini birinci dəfə hekayə surətində yazdım. Burada rəvayət olunur ki, nə tövr Danabaş kəndinin yüzbaşısı Xudayar koxa Məhəmmədhəsən adlı bir fəqir kişinin eşşəyini aparıb şəhərdə satır və o pula orada bir övrət siğə eləyir. Və halonki, Məhəmməd Həsən əmi var-yoxunu satıb bu eşşəyi almışdı və bir ayın müddətində bəsləyirdi ki, minib getsin Kərbəla ziyarətinə.
 
@@ -1493,7 +1493,7 @@ Bununla bərabər mən müəllimlikdə on ildən artıq davam edə bilmədim və
 
 >>köçüb gəldim İrəvan şəhərinə ki, qeyri bir işlə məşğul olam. Bir az vaxt naçalnik divanxanasında mütərcim oldum və hətta polis məmuru da oldum. Ancaq gördüm ki, bu mənim işim deyil. Buradan çıxdım, özümü verdim ədliyyə idarələrinə və dava vəkili və advokat olmaq məşqinə düşdüm və bundan ötrü mülki hüquq qanunlarından və qeyri hüquq kitablarından mütaliəyə məşğul oldum. Ancaq məni xarab edən iş o idi ki, hər nə işə gedirdimsə, gərək bir yekə kağız əlimə alıb, hekayədən, nağıldan cızma-qaralayaydım. Min doqquz yüz üçuncu ildə xəstə övrətimi Tiflisə gətirib burada “Şərqi-Rus” sahibi Məhəmməd ağa Şahtaxtlıya rast gəldim.
 
-Məhəmməd ağa küçədə mənə rast gəldi və apardı “Annona” yeməkxanasına. Orada məni qonaq elədi və məndən soruşdu ki, yazıdan-pozudan nəyin var? Mən cibimdən Novruzəlinin poçt qutusuna kağız salmaq hekayəsini çıxartdım verdim Məhəmməd ağaya. Ədibi-möhtərəmimiz hekayəni oxuya-oxuya elə şiddətlə gülürdu ki, qonşular bizə tərəf təəccüblə baxmağa başladılar. Buradan Məhəmməd ağa məni zorla apardı duşdüyüm “Qafqaz” mehmanxanasına və zorla mənim yatacağımı və şeylərimi qoydu faytona, məni apardı evinə ki, gərək qalam onun qəzeti üçun hekayə yazan olam.
+Məhəmməd ağa küçədə mənə rast gəldi və apardı “Annona” yeməkxanasına. Orada məni qonaq elədi və məndən soruşdu ki, yazıdan-pozudan nəyin var? Mən cibimdən Novruzəlinin poçt qutusuna kağız salmaq hekayəsini çıxartdım verdim Məhəmməd ağaya. Ədibi-möhtərəmimiz hekayəni oxuya-oxuya elə şiddətlə gülürdü ki, qonşular bizə tərəf təəccüblə baxmağa başladılar. Buradan Məhəmməd ağa məni zorla apardı düşdüyüm “Qafqaz” mehmanxanasına və zorla mənim yatacağımı və şeylərimi qoydu faytona, məni apardı evinə ki, gərək qalam onun qəzeti üçun hekayə yazan olam.
 
 Mən qaldım...
 
@@ -1948,7 +1948,7 @@ Söz yox ki, soruşursunuz, pəs bu yetmiş iki millətin dilində yazılan kağ
 
 >>rəyimizə qalsa, bunların eybi yoxdur. Şərt xəttin gözəlliyidir və halonki idarəmizə gələn məktubların cümləsi gözəl xətt ilə yazılmışdır. İnsaf əhli məcmuəmizin 4-cü nömrəsinin beşinci səhifəsini yadına salıb bu sözləri təsdiq edər. Vəqiən İrandan gələn yazılar xəttin gözəlliyi barəsində misilsizdir. Mən güman edirəm ki, bunlar hamısı əvvəla, hürufatımızın gözəlliyindən və saniyən İranın hamamlarının sularının təsirindəndir.
 
-Müştərilərimizin cümləsi müsəlmandır. Qəribə burasıdır ki, dünən itifaqən rus tanışlarımızın birisi idarəmizdə abunə dəftərinə baxıb təəccüblü mənə dedi: Molla Nəsrəddin, nə çox rus və polyak müştəriləriniz var? Dedim, balam, heç biri də yoxdur. Aşnam abunə kitabını qabağıma itələyib dəxi artıq təəccüb ilə dedi: və bu “ovlar” və “iski”lər məgər müsəlman adlarıdırlar? Gördüm ki, həqiqət aşnam doğru söyləyir və dedim: Əzizim, heç ürəyini sıxma, bunlar hamısı ötüşər...
+Müştərilərimizin cümləsi müsəlmandır. Qəribə burasıdır ki, dünən ittifaqən rus tanışlarımızın birisi idarəmizdə abunə dəftərinə baxıb təəccüblü mənə dedi: Molla Nəsrəddin, nə çox rus və polyak müştəriləriniz var? Dedim, balam, heç biri də yoxdur. Aşnam abunə kitabını qabağıma itələyib dəxi artıq təəccüb ilə dedi: və bu “ovlar” və “iski”lər məgər müsəlman adlarıdırlar? Gördüm ki, həqiqət aşnam doğru söyləyir və dedim: Əzizim, heç ürəyini sıxma, bunlar hamısı ötüşər...
 
 *Molla Nəsrəddin*
 
@@ -2078,7 +2078,7 @@ Gərdəni-bitəmə bülənd bəvəd”
 
 # Türkiyə məşrutəsinin keçmişindən
 
-Türkiyə sultanlarına hələ XVIII əsrdə aydın olmuşdu ki, ümumiyyətlə, dövlət quruluşunda və xüsusilə-hərbi təsisatda olan anomaliya Turkiyənin mədəni inkişafını və habelə işğalçılıqdakı müvəffəqiyyətli hərəkətini ləngidir.
+Türkiyə sultanlarına hələ XVIII əsrdə aydın olmuşdu ki, ümumiyyətlə, dövlət quruluşunda və xüsusilə-hərbi təsisatda olan anomaliya Türkiyənin mədəni inkişafını və habelə işğalçılıqdakı müvəffəqiyyətli hərəkətini ləngidir.
 
 Böyük sərkərdələr Napalyon və Suvorov bütün dünyaya səs saldıqları zaman, onlardan birincisinin müzəffər qoşunları Misrə, digərininkilər isə Qərbi Avropaya hücum etdikləri zaman, nəhayət, türk qoşunları Avstriya və Rusiyanın birləşmiş qoşunları tərəfindən Serbiya və Rumıniyada büsbütün darmadağın edildikləri zaman dahi Sultan Səlim salis çox aydın başa düşdü ki, onun dövründəki dövlət quruluşu Türkiyə imperiyasını açıq-aşkar uçuruma doğru aparmaqdadır.
 
@@ -2102,7 +2102,7 @@ Midhət paşa elə görkəmli dövlət xadimlərindəndir ki, onlara mövcud qur
 
 O, mükəmməl Avropa təhsili alıb, bütün həyatını öz vətəninin dövlət məsələlərinə həsr etmiş və eyni zamanda yüksək inzibati vəzifələrdə olmuşdur. Onun dövlət işindəki fəaliyyəti heyrətamiz dərəcədə səmərəli keçmişdir. Məsələn, o, Bağdad mahalının general-qubernatoru vəzifəsində işlədiyi az bir müddət ərzində ölkənin mədəni və iqtisadi qüvvələrini lazımi yüksəkliyə qaldıra bilmişdir.
 
-O, bir inzibatçı kimi böyük nüfuz sahibi idi. Müstəsna natiqlik qabiliyyətinə malik olan Midhət paşada xüsusi bir təsir qüvvəsi vardı; o, coşğun başları sakitləşdirməyi baçardığı kimi, lazım gələndə bu başları
+O, bir inzibatçı kimi böyük nüfuz sahibi idi. Müstəsna natiqlik qabiliyyətinə malik olan Midhət paşada xüsusi bir təsir qüvvəsi vardı; o, coşğun başları sakitləşdirməyi bacardığı kimi, lazım gələndə bu başları
 
 @@ 140
 
@@ -2110,11 +2110,11 @@ O, bir inzibatçı kimi böyük nüfuz sahibi idi. Müstəsna natiqlik qabiliyy�
 
 Bütün həyatını xalq mənafeyinə xidmətə həsr edən və xalqın ehtiyac və tələblərinə yaxından bələd olan Midhət paşa, aydındır ki, çoxmilyonlu xalq kütlələrini əsarətdə saxlamış müstəbid sultan üsuli-idarəsinə laqeyd bir tamaşaçı kimi baxa bilməzdi. Və o, Avropa xalqları dövlət quruluşunun tarixini nəzərə aldıqda onda belə bir əqidə yarandı ki, onun həmvətənlərinin xoşbəxtliyi yalnız sultanın ali hakimiyyətinin istibdadını aradan qaldırmaq yolu ilə mümkün olar. Midhət paşa təkçə xalqın rəğbətinə deyil, habelə dövlətin bütün silahlı qüvvələrinə bel bağlayırdı.
 
-Bu dahi dövlət xadimi öz niyyyətində səhv etmirdi. Lakin bu yolda onun qabağına çıxa biləcək yeganə qorxunc qüvvə ali ruhanilik idi. Ruhaniliyin fitvası olmadan Midhət paşanın hər bir addımı, müqəddəs şəriətə görə, qəsbkarlıq hesab edilə bilərdi. Midhət paşa hərbi nazir Hüseyn Övni paşanın, bəhriyyə naziri Əhməd paşanın və baş qərargah rəisi, nüfuzlu general Süleyman paşanın razılığı ilə şeyxül-islam Xeyrəddin əfəndinin yanına gedir, qəti rədd cavabı aldıqda onu ölümlə hədələyib, fərmani-hümayunu imzalamağa məcbur edir. Fərmanda deyilirdi ki, “xalqın iradəsi və Allahın musaidəsi ilə sultanlıq taxtı ləyaqətsiz Sultan Əzizdən alınır, vətəndaşların sevimlisi Murad paşaya verilir və vətəndaşlara məşrutə quruluşu əta edilir”.
+Bu dahi dövlət xadimi öz niyyətində səhv etmirdi. Lakin bu yolda onun qabağına çıxa biləcək yeganə qorxunc qüvvə ali ruhanilik idi. Ruhaniliyin fitvası olmadan Midhət paşanın hər bir addımı, müqəddəs şəriətə görə, qəsbkarlıq hesab edilə bilərdi. Midhət paşa hərbi nazir Hüseyn Övni paşanın, bəhriyyə naziri Əhməd paşanın və baş qərargah rəisi, nüfuzlu general Süleyman paşanın razılığı ilə şeyxül-islam Xeyrəddin əfəndinin yanına gedir, qəti rədd cavabı aldıqda onu ölümlə hədələyib, fərmani-hümayunu imzalamağa məcbur edir. Fərmanda deyilirdi ki, “xalqın iradəsi və Allahın musaidəsi ilə sultanlıq taxtı ləyaqətsiz Sultan Əzizdən alınır, vətəndaşların sevimlisi Murad paşaya verilir və vətəndaşlara məşrutə quruluşu əta edilir”.
 
 Gecəyarısı Midhət paşa saraya gəlir. Hüseyn Övni paşa qoşunlarını saraya tərəf yeridib sarayı muhasirəyə alır.
 
-Əhməd paşa hərb gəmilərini Bosfora çəkir. Süleyman paşa sultanın bütün məiyyətini bir yerə yığır. Saraya birinci olaraq Midhət paşa daxil olur və şahzadə Murad paşanın qabağında dayanıb fitvanı ona oxuyur. Midhət paşanın işarəsi ilə yaylım salam atəşi açıldığı zaman Sultan Əziz cəld yatağından sıçrayıb pəncərədən bayıra baxır və şöhrətli ordusunun sıraya duzülmüş olduğunu görcək artıq işinin bitdiyini başa düşür.
+Əhməd paşa hərb gəmilərini Bosfora çəkir. Süleyman paşa sultanın bütün məiyyətini bir yerə yığır. Saraya birinci olaraq Midhət paşa daxil olur və şahzadə Murad paşanın qabağında dayanıb fitvanı ona oxuyur. Midhət paşanın işarəsi ilə yaylım salam atəşi açıldığı zaman Sultan Əziz cəld yatağından sıçrayıb pəncərədən bayıra baxır və şöhrətli ordusunun sıraya düzülmüş olduğunu görcək artıq işinin bitdiyini başa düşür.
 
 Türk tarixinin cahanşümul hadisəsi 1876-cı ildə bu cür vaqe oldu.
 
@@ -3095,7 +3095,7 @@ Lakin ümidvarıq ki, yoldaşımız Nemanzadənin bu xüsusda dəxi təfsilli ca
 
 Bu axır vaxtlarda cəmi müsəlman qəzetlərində müsəlman qardaşların gözünə bir belə söz sataşıb: “Qoqol”.
 
-İndi müsəlman qardaşlar oxuyub bildilər ki, Qoqol bir məşhur rus yazıçısının adıdır; bildilər ki, bu yazıçı yüz il bundan irəli anadan olub; bildilər ki, məzhəkənəvislikdə bu şəxsə bərabər Rusiyada hələ bir kəs tapılmayıb; bildilər ki, Qoqolun xidməti rus mətbuatına və rus millətinə o dərəcədə olub ki, mərhumın doğulmağının yüzilliyini Rusiyada kəndlərdə də muciklər eşidiblər.
+İndi müsəlman qardaşlar oxuyub bildilər ki, Qoqol bir məşhur rus yazıçısının adıdır; bildilər ki, bu yazıçı yüz il bundan irəli anadan olub; bildilər ki, məzhəkənəvislikdə bu şəxsə bərabər Rusiyada hələ bir kəs tapılmayıb; bildilər ki, Qoqolun xidməti rus mətbuatına və rus millətinə o dərəcədə olub ki, mərhumun doğulmağının yüzilliyini Rusiyada kəndlərdə də muciklər eşidiblər.
 
 İndi mənim fikrimcə bir belə şey gəlir: söz yox, Köçərli cənablarının açıq və mənalı məqalələrindən, Üzeyir cənablarının şirin tərcümələrindən və qeyri yazıçılarımızın Qoqol barəsində verdikləri məlumatdan oxucularımızın həmin yazısını bir növ tanıdılar və bəlkə yaxşı tanıdılar; amma mən bunu istəyirəm deyəm ki, yenə bununla belə, yəni bu yazı-pozuların varlığı ilə, rus dilini bilməyən oxucularımız indi hələ yenə bilmirlər ki, bu yazıçının adı nədir. Məsələn, yazıçılarımız yazıblar “Qoqol” və elə xəyal eləyiblər ki, bu sözü cəmi müsəlmanlar o cür oxuyacaq, necə ki, mərhumun elə əsl adıdır.
 
@@ -4565,7 +4565,7 @@ Elan
 
 Əbdürrəhim bəy Haqverdiyevin 35 illik ədəbi fəaliyyətini qeyd etmək üçün Tiflisdə bu yanvarın 28-də, Rustaveli teatrosunda, “Yeni fikir” qəzetəsi binagüzarlığı ilə tərtib yubileyi axşamı veriləcəkdir.
 
-Bizə qalsa, bu yubiley hələ tezdir. Yaxşı olardı ki, bir yüz il də gözləyərdik. Biryolluq möhtərəm ədibin yüz otuz beş illik fəaliyyəti gəlib çataydı. Çünki yazdıqları əsərlər də hələ azdır. Ancaq on-on beş böyük əsər və pyeslərdir. Bir o qədər kiçik əsərlər, vodevillərdir, bir o qədər hekayədir və hədsid böyük və kiçik məqalələrdir.
+Bizə qalsa, bu yubiley hələ tezdir. Yaxşı olardı ki, bir yüz il də gözləyərdik. Biryolluq möhtərəm ədibin yüz otuz beş illik fəaliyyəti gəlib çataydı. Çünki yazdıqları əsərlər də hələ azdır. Ancaq on-on beş böyük əsər və pyeslərdir. Bir o qədər kiçik əsərlər, vodevillərdir, bir o qədər hekayədir və hədsiz böyük və kiçik məqalələrdir.
 
 Bunlar hamısı keçəndən sonra Əbdürrəhim bəy Haqverdiyev hər bir şeydən qabaq “Molla Nəsrəddin” məcmuəsinin ibtidasından ta bu vaxtadək məcmuənin ən yavuq əməkdaşlarından və məsləhətçi dərəcəsində yoldaşlarından hesab olunur.
 
@@ -4583,7 +4583,7 @@ Bu qara niyyətini yerinə yetirmək məqsədi ilə Çemberlen hökuməti dünya
 
 Şura-İngiltərə münasibəti kəsiləndən bu yana görürük ki, məğrib tərəfdəki qonşu Baltik Hökumətləri, xüsusən Polşa, Rumıniya – hərə bir növ mıqqıldamağa başlayıbdırlar.
 
-Aşkardır ki, həmin vüquatın vücudu ilə Şura İttfaqı, həmişə sülh və müsalimət axtaran Şura İttifaqı daha xab-qəflətdə qalmağı əlbəttə, özünə rəva görməyəcəkdir və bərayi-ehtiyat özü üçün lazımi tədbirlər tökəcəkdir.
+Aşkardır ki, həmin vüquatın vücudu ilə Şura İttifaqı, həmişə sülh və müsalimət axtaran Şura İttifaqı daha xab-qəflətdə qalmağı əlbəttə, özünə rəva görməyəcəkdir və bərayi-ehtiyat özü üçün lazımi tədbirlər tökəcəkdir.
 
 * * *
 
@@ -4819,7 +4819,7 @@ Rəməzan ayı müsəlman varlıları üçun həməvəqt bir ziyafət ayı olubd
 Bu halı Sabir də və sonra Məşədi Sicimqulu da tənqid edibdir. Sabir “Ey vaizi-süxənvər” və “İftardan bir göftar” ünvanlı Əkrəmbəyə nəzirəsində:
 
 Açmış niqabi-hüsnün, məcmueyi-təvangər,
-Məcmuədə düzülmuş eyzən xüruş sərasər.
+Məcmuədə düzülmüş eyzən xüruş sərasər.
 Həsrətkeşani-mətbəx gürgani-bətnpərvər,
 Cari boğaza şərbət, sari məzaqə şəkkər,
 Əksi-buxari-dolma, zilli-əmmameyi-sər,
@@ -4948,7 +4948,7 @@ Buraya cəm olan tamaşaçılar kimlər idi? O əsrin mütəəssib və fanatik m
 
 @@ 271
 
-“Bədbəxtdik” burasında idi ki, müsəlman qadınını səhnəyə çıxarıb “biabır” edən pyes bir deyildi, iki deyildi; məlumdur ki, tək bircə “Kimyagər”dən başqa Mirzə Fətəlinin beş fəqərə komediyalarında türk qadını iştirak edir ki, ibarət olsun bunlardan: “Hacı Qara”, “Müsyö Jordan”, “Xan Sərabi”, “Xırs quldurbasan” və “Mürafiə vəkilləri”. Bu əsərlər çapdan çıxıb intişar tapan kimi, Qafqazın bir çox şəhər və hətta qəsəbələrində cavan həvəskarlar tərəfindən mövqei-tamaşaya qoyulmağa başladılar və ona baxmayaraq ki, qadın rolunda səhnəyə çıxanlar o vaxtlarda cavan oğlanlar idi, tamaşaçılar səhnənin zahirində ancaq türk qadınlarını görürdülər və böyük məharətlə yazılmış bu əsərlər qadınların halını elə bir ustalıqla tamaşaçıların nəzərindən keçirirdi ki, xam tamaşaçılar bəzən şübhələnib səhnədəkiləri həqiqət halda qadın zənn edirlərdi. Ta ki, bir az vaxtda Mirzə Fətəlinin qadın tiplərinin adları hər bir yerdə camaat dilndə virdi-zəban oldular: “Sərgüzəştixan-Sərabi”də: Zeynəbxanım, Şöləxanım, Nisəxanım, Pərixanım; “Hacı Qara”da: Sonaxanım, Teyyibəxanım, Nigar; “Məstəlişah”da: Şərəfnisaxanım, Gülçöhrə, Şərəbanıxanım, Xanpəri; “Mürafiə vəkilləri”ndə: Səkinəxanım, Zibeydə və “Xırs quldurbasan”da: Zuleyxa və Pərzad.
+“Bədbəxtdik” burasında idi ki, müsəlman qadınını səhnəyə çıxarıb “biabır” edən pyes bir deyildi, iki deyildi; məlumdur ki, tək bircə “Kimyagər”dən başqa Mirzə Fətəlinin beş fəqərə komediyalarında türk qadını iştirak edir ki, ibarət olsun bunlardan: “Hacı Qara”, “Müsyö Jordan”, “Xan Sərabi”, “Xırs quldurbasan” və “Mürafiə vəkilləri”. Bu əsərlər çapdan çıxıb intişar tapan kimi, Qafqazın bir çox şəhər və hətta qəsəbələrində cavan həvəskarlar tərəfindən mövqei-tamaşaya qoyulmağa başladılar və ona baxmayaraq ki, qadın rolunda səhnəyə çıxanlar o vaxtlarda cavan oğlanlar idi, tamaşaçılar səhnənin zahirində ancaq türk qadınlarını görürdülər və böyük məharətlə yazılmış bu əsərlər qadınların halını elə bir ustalıqla tamaşaçıların nəzərindən keçirirdi ki, xam tamaşaçılar bəzən şübhələnib səhnədəkiləri həqiqət halda qadın zənn edirlərdi. Ta ki, bir az vaxtda Mirzə Fətəlinin qadın tiplərinin adları hər bir yerdə camaat dilində virdi-zəban oldular: “Sərgüzəştixan-Sərabi”də: Zeynəbxanım, Şöləxanım, Nisəxanım, Pərixanım; “Hacı Qara”da: Sonaxanım, Teyyibəxanım, Nigar; “Məstəlişah”da: Şərəfnisaxanım, Gülçöhrə, Şərəbanıxanım, Xanpəri; “Mürafiə vəkilləri”ndə: Səkinəxanım, Zibeydə və “Xırs quldurbasan”da: Zuleyxa və Pərzad.
 
 Bunun nəticəsində müsəlman camaatının köhnə qafalıları başladılar həvəskarları töhmətləndirməyə; o babətdən ki, onlar teatrlarda müsəlman arvadlarının adını çəkirlər; çünki, necə qabaqca ərz olunubdur, müsəlman arvadlarının adını çəkməyin özü bir qələt iş, “eyb” iş hesab olunurdu.
 
@@ -5327,7 +5327,7 @@ Bakının işçi dairələrində, məsələn, Balaxanı, Suraxanı, Zabrat, Bibi
 
 “Molla Nəsrəddin” çalışacaq ki, o dairələrin gözüaçıq və düşüncəli işçiləri hamı bir yerdə söz qoyub aralarındakı molla, mərsiyəxan, fala baxan, rəml atan, dua yazan, cəddinin payını yığmaq üçün Ərdəbildən buraya gələnlərin hamısını aralarından, fəhlə dairələrindən çıxarıb qovlasınlar.
 
-“Molla Nəsrəddin” çalışacaq ki, 1930-cu ildə 15-20 illik stajı olan həqiqi zəhmətkeşlər öz haqlarını tanısınlar, sinfi duşmənlərini dostlarından ayıra bilsinlər.
+“Molla Nəsrəddin” çalışacaq ki, 1930-cu ildə 15-20 illik stajı olan həqiqi zəhmətkeşlər öz haqlarını tanısınlar, sinfi düşmənlərini dostlarından ayıra bilsinlər.
 
 “Molla Nəsrəddin” çalışacaq ki, təşkilatlaşmış işçilər öz aralarında apardıqları işləri sonra da mütəşəkkil olmayan şəhər əhalisinə, kəndlilərə də təbliğ etsinlər; onlar üçun nümunə olsunlar, onlara yol göstərsinlər, gözlərini açsınlar.
 
@@ -5396,7 +5396,7 @@ Təbrizdə şəkildən ötrü tema: Teatr qaranlıq, səhnədə yapışıblar re
 
 Ziyarətə gedən dövlətlilərdən ki, qabağını seyidlər kəsib tapança gücü ilə pul alırlar, haqlıdırlar; zira ki, fəqir-füqəranı burada ac qoyub pulları ziyarət müsafirətinə xərc etmək rəva deyil.
 
-Gedənlərdən çoxları aclıq ilində min-mıin tümən qazananlardır. Mirzə Cavad ağa, Hacı Mirzə Cavadın nəvəsi, Malik, çox dövlətli, doqquz nəfər erməni müştərisi ki, araq çəkir və neçə dəllaləsi...
+Gedənlərdən çoxları aclıq ilində min-min tümən qazananlardır. Mirzə Cavad ağa, Hacı Mirzə Cavadın nəvəsi, Malik, çox dövlətli, doqquz nəfər erməni müştərisi ki, araq çəkir və neçə dəllaləsi...
 
 Hacı Məhəmməd Cəfər İsfahani, Xiyaban qapısında, xəsis bir dövlətmənd.
 
@@ -6636,7 +6636,7 @@ Səni və uşaqları sentyabrın 10-u üçün gözləyəcəyəm.
 
 Cəlil
 
-# Həmidə! (16 okyabr 1923)
+# Həmidə! (16 oktyabr 1923)
 
 Bir az bundan əvvəl sənə yazmışdım. Sonra sənin Midhətə məktubun və Müzəffərin yenə onun adına məktubu gəldi. Çatmayan divar kağızlarını srağa gün poçtla yola saldım. Alətlərə gəldikdə, daş yonmaq üçün alət də poçtla göndərildi (onu Teymur ucuz qiymətə aldı, qonşumuz Qrişa deyir ki, bekara şeydir). Yaramasa, təzəsini, daha yaxşısını göndərərəm. Alətlər, azı, 50 manata başa gələcək, onları mən tədricən alıb göndərərəm, hamısını birdən göndərə bilmərəm. Çünki təzə dərs ili başladığına görə dörd məktəbli uşağın işini yoluna qoymaq, onlara paltar, çəkmə, dərs kitabı almaq, yeməklərini düzəltmək, oxumaq xərclərini vermək mənim üçün asan deyil (təkcə Ənvərin xərci 40 manat eləyir).
 
@@ -7614,7 +7614,7 @@ Cəlil
 
 *18 декабря*
 
-# Mənim əzizlərim Həmidə, Münəvvər və Müzəffər! (Kislovdsk, 20 dekabr 1930)
+# Mənim əzizlərim Həmidə, Münəvvər və Müzəffər! (Kislovodsk, 20 dekabr 1930)
 
 Məktubunuzu aldım, çox sağ olun. Noyabrın 18-də beynimin qan damarları tutuldu. Sol əlim və qıçlarım zəiflədi. Midhət bir neçə həkim və o cümlədən professor Amosovu çağırıb məni göstərdi. Midhət məni buraya qucağında gətirdi. İndi istirahət edirəm, sonra müalicə olunacağam. Evdə Midhət, Ənvər və Polina Afanasyevna növbə ilə yanımda oturub mənə baxırdılar. Tez-tez mənə məktub göndərib təzə xəbərlərdən yazın; ancaq siyasətdən yazmayın. Səhhətim artıq korlanmışdır.
 

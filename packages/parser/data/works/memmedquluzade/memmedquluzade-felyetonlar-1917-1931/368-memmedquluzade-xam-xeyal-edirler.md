@@ -15,7 +15,7 @@ Xam xəyal edirlər o məsul işçilər ki, onların öhdəsinə qoyulan vəzif�
 
 * * *
 
-Xam xəyal edirlər ingilis hökumətinin əfqan nümayəndələri o yerdə ki, Beççeyi-Səqqaya göstərdiklərn maddi köməkliyi məxfi hesab edirlər; Beççənin cəmi qoşunları bu saat ingilis tüfəngləri ilə tüfəngləniblər.
+Xam xəyal edirlər ingilis hökumətinin əfqan nümayəndələri o yerdə ki, Beççeyi-Səqqaya göstərdikləri maddi köməkliyi məxfi hesab edirlər; Beççənin cəmi qoşunları bu saat ingilis tüfəngləri ilə tüfəngləniblər.
 
 * * *
 

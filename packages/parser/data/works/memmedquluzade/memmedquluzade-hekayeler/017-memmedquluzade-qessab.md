@@ -35,7 +35,7 @@ Məşədi Məmmədəli çox yumşaqlıqla mənə belə cavab verdi:
 
 – Molla əmoğlu, and olsun oxuduğun Qurana, mənim heç bir sözüm yoxdur; qızı vermişəm və qurtarıb gedibdi. Amma o nainsafa da bir dəlil-nəsihət elə ki, bir surətdə ki, mənnən qohum olub, bir az da nə eybi var, istiqanlı və mehriban olsun və yeri düşəndə özgələrə nisbət heç olmasa bir zərrə qədər qayınatasına təfavüt qoysun. Məsələn Qurban bayramında sifariş eləmişdim ki, bizə bir kök qurbanlıq göndərsin. Altı manat yarım da pul göndərmişdim. Heç müftə istəməmişdim. Nə eybi var, ay zalım oğlu, elə bil bir yad kişiyəm. And olsun Allahın birliyinə, elə bir arıq heyvan göndərmişdi ki, bir dəri, bir sümükdən başqa bir şey tapa bilməzdin. Dəxi mən də daş deyiləm ki! Hirsim tutdu, sifariş göndərdim ki, bizim qohumluğumuz tutmayacaq… Xülasə… Molla əmoğlu, arxayın ol, bu qədər danışdım, səni də ac qoydum. Arxayın ol… Bir surətdə ki, sən də məsləhət görürsən, bir qızdı, vermişəm, qurtarıb gedibdir. Allah səni də dostluqdan və qohumluqdan əskik eləməsin öz birliyi xatirinə. Gedim görüm çörək hazırdırmı…
 
-Məşədi getdi, abgüştü öz əlində buğlana-buğlana gətirdi, çörək doğradı, qarışdırdı və mənə “buyur” deyib, təklif etdi. “Bismillah” deyib əlimi uzatdım, bir tikə götürdüm və gördüm ki, bozbaz babətdir; nə elə artıq ləzzətli və nə elə də artıq ləzzətsiz, yəni miyana.
+Məşədi getdi, abgüştü öz əlində buğlana-buğlana gətirdi, çörək doğradı, qarışdırdı və mənə “buyur” deyib, təklif etdi. “Bismillah” deyib əlimi uzatdım, bir tikə götürdüm və gördüm ki, bozbaş babətdir; nə elə artıq ləzzətli və nə elə də artıq ləzzətsiz, yəni miyana.
 
 Bu mənim dadım.
 

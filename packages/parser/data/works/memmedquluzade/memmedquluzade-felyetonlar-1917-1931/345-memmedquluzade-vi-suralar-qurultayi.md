@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Altıncı şuralar qurultayında qəza nümayəndələri məzəli gileygüzar edirdilər; adam qulaq asanda elə bilirdi ki, bu danışan zarafat eləyir.
 
-Amma bunlar hamısı doğrudur. Ağdam nümayəndəsi söyləyirdi ki, Şuşa şəhərinin fazili Ağa Əbdürrəhim ağa köçüb gəlmlşdi ki, Ağdam məscidini döşəsin, səliqəyə salsın və oranı özü üçün mənzil qərar versin, həm də orada moizə eləsin, Allah baisin evini yıxsın: bu nadinc komsomollar bir gün dəstə tutub çıxdılar minarənin üstə və başladılar muzika çalmağa. Haman gün Ağa Əbdürrəhim ağa şələ-şüləsini yığıb məsciddən çıxdı qaçdı və ağanın pişmiş aşına su qatdılar.
+Amma bunlar hamısı doğrudur. Ağdam nümayəndəsi söyləyirdi ki, Şuşa şəhərinin fazili Ağa Əbdürrəhim ağa köçüb gəlmişdi ki, Ağdam məscidini döşəsin, səliqəyə salsın və oranı özü üçün mənzil qərar versin, həm də orada moizə eləsin, Allah baisin evini yıxsın: bu nadinc komsomollar bir gün dəstə tutub çıxdılar minarənin üstə və başladılar muzika çalmağa. Haman gün Ağa Əbdürrəhim ağa şələ-şüləsini yığıb məsciddən çıxdı qaçdı və ağanın pişmiş aşına su qatdılar.
 
 Xızı dairəsindən nümayəndə belə deyirdi: Şura hökuməti yapışıb bizim vəhşi kənd əhalisinin qulağından və deyir ki, səni mən xahinəxahi gərək adam eləyəm və sənin təsərrüfatını yüksəldəm; ancaq Şura hökuməti onu bilmir ki, bizim vəhşi əhaliyə təsərrüfat-zad lazım deyil; onlara yaxşıca saz tüfəng-tapanca lazımdır ki, bir-birini vurub öldürsün. Hazır həmin mart ayında bizim dayirədə mən biləsi üç adam əldə ölübdür. Dəxi bizə təsərrüfat nə lazım?
 

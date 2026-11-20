@@ -44,7 +44,7 @@ Neçə əsrdir ki, xalq adlanırıq,
 
 Böyük zəkaları qurban edirik,
 Şəxsi xeyrimizə, nəfsimizə biz…
-Öz qızıl qanına qəltən edirik,
+Öz qızıl qanına qəlbən edirik,
 
 Kim yaxşıya yaxşı deyir, pisə pis…
 

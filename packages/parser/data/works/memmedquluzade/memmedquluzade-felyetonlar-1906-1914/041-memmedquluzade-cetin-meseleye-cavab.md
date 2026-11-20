@@ -27,7 +27,7 @@ Yoldaşımız “Hərdəmxəyal” bu barədə bir söz danışmaq istəmədi v�
 
 Qaldı “Lağlağı”, bu evi xarab başladı: Başağrısı olmasın, bir gün var idi, bir gün yox idi, bir İrəvan şəhəri var idi, orada bir darülmüəllimin var idi, o darülmüəlliminin bir rəisi var idi ki, adına Miropyev deyirdilər. Haman Miropyev indi Qori darülmüəlliminin rəisidir.
 
-Cənab Miropyev, başağrısı olmasın on iki il bundlan irəli bir kitab yazıb və haman kitabında deyir ki, “Mən müsəlman millətini çox, çox, çox dost tuturam, amma bircə işləri xoşuma gəlmir. “Namazı müsəlman dilində qılırlar, rus dilində qılmırlar”.
+Cənab Miropyev, başağrısı olmasın on iki il bundan irəli bir kitab yazıb və haman kitabında deyir ki, “Mən müsəlman millətini çox, çox, çox dost tuturam, amma bircə işləri xoşuma gəlmir. “Namazı müsəlman dilində qılırlar, rus dilində qılmırlar”.
 
 Odur ki, cənab rəis məhz müsəlmanları istəməklik yolunda o vədədən indiyə kimi şəriət müəllimlərinə şəriəti müsəlman dilində öyrətməyi qədəğan edibdir.
 

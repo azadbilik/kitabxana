@@ -61,7 +61,7 @@ Pəri arvadın uşağı bütün gecəni ağladı və bütün gecə mən onun ağ
 
 Ancaq burada bircə şeyə təəccüb elədim: o şiddətlə ki, uşaq ağlayırdı, bir yandan, bir kəsdən buna sakitedici bir cavab yox idi; guya uşağın nə anası var, nə qeyri bir kəs.
 
-Hava başlayırdı işıqlanmağa. Durdum ayağa və tək bircə pilləni yendim həyətə. Uzaqda divarın dibində bir boz it yatmışdı. Üşaq hey ağlamaqda idi. O tərəfə üz qoydum yavaş-yavaş getməyə. Küçədə bir-iki kişi səsi gəlirdi. Yavıqlaşdım və bildim ki, ağlayan uşaq həyətin sağ tərəfində bir daxmadadır. Bir az da yavıq gəldim və elə bil hal gözümə sataşdı ki, burada dik atıldım. Bir övrət xeylağı başıaçıq, hövlnak oradan qaçdı həyətə. Bu övrətin ağzından mən ancaq bunu eşitdim:
+Hava başlayırdı işıqlanmağa. Durdum ayağa və tək bircə pilləni yendim həyətə. Uzaqda divarın dibində bir boz it yatmışdı. Uşaq hey ağlamaqda idi. O tərəfə üz qoydum yavaş-yavaş getməyə. Küçədə bir-iki kişi səsi gəlirdi. Yavıqlaşdım və bildim ki, ağlayan uşaq həyətin sağ tərəfində bir daxmadadır. Bir az da yavıq gəldim və elə bil hal gözümə sataşdı ki, burada dik atıldım. Bir övrət xeylağı başıaçıq, hövlnak oradan qaçdı həyətə. Bu övrətin ağzından mən ancaq bunu eşitdim:
 
 – Vay, yazıq uşaq!
 

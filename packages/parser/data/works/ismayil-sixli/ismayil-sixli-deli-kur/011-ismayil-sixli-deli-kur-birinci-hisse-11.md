@@ -12,13 +12,13 @@ order: 11
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Salatın bütün gecəni narahat yatdığından, yalnız səhərə yaxın şirin yuxuya getdi. Xoruzlar banladı, toyuqlar tardan töküldü, qapılarda mal-qara mələşməyə başladı, ancaq o oyanmadı. Həmişə dan yerinə səda düşəndə ayaq üstündə olub qapı-bacada hərlənən qız, yatıb yuxuya qaldı. Çardağın bacasından süzülüb, üzünə düşən işıq da onu oyada bilmədi. Bacısını birinci dəfə belə yorğun görən Şamxal daya nıb qıza xeyli tamaşa etdi. Salatın yorğanı üstüno çəkib paltarlı yatmışdı. Saçları yastığa dağılmışdı.
+Salatın bütün gecəni narahat yatdığından, yalnız səhərə yaxın şirin yuxuya getdi. Xoruzlar banladı, toyuqlar tardan töküldü, qapılarda mal-qara mələşməyə başladı, ancaq o oyanmadı. Həmişə dan yerinə səda düşəndə ayaq üstündə olub qapı-bacada hərlənən qız, yatıb yuxuya qaldı. Çardağın bacasından süzülüb, üzünə düşən işıq da onu oyada bilmədi. Bacısını birinci dəfə belə yorğun görən Şamxal daya nıb qıza xeyli tamaşa etdi. Salatın yorğanı üstünə çəkib paltarlı yatmışdı. Saçları yastığa dağılmışdı.
 
 – Qalx, çaydan-çörəkdən hazırla.
 
 Salatın gözünü açsa da, heç nə başa düşmədiyindən, maddım-nıaddım qardaşının üzünə baxdı. Yerin içində gərnəşib bərkdən əsnədi.
 
-Ancaq yenə çevrilərkən, ot tayasının bərabərindən ona boylanan gunəşin şüaları düz gözünün içinə düşdü. Əzik donunun ətəyini aşağı cəkdi. Saçını gözünün üstündən geri elədi.
+Ancaq yenə çevrilərkən, ot tayasının bərabərindən ona boylanan günəşin şüaları düz gözünün içinə düşdü. Əzik donunun ətəyini aşağı cəkdi. Saçını gözünün üstündən geri elədi.
 
 – Qıza da baş çək.
 
@@ -28,11 +28,11 @@ Yalnız bundan sonra məsələni başa düşən Salatın diqqətlə çiyni tüf�
 
 – Bir az fırlanıb gəlirəm.
 
-Şamxal hələ də yuxudan tamam ayılmamış bacısını başdan-ayağa süzüb gülüınsündü və tüfəngini çiyninə aşırdı. Salatın cığırla uzaqlaşan qardaşının arxasınca baxdı. Ona elə gəldi ki, Şamxalın kürəyi dünənkindən xeyli enlənmiş, elə boyu da uzanmışdır. Hətta, deyəsən, səsi də dəyişmişdir. Amma nədənsə bir az süst kimidir. Yerişində bir ağırlıq var. Dünənəcən qırğı kimi süzən Şamxal indi ağır-ağır addımlayir, bircə gecənin içində yaşa dolub toxtamış kimi görünürdü. Qardaşında hiss etdıyi bu dəyişiklik həm onu sevindirdi, həm də nədənsə qüssələndirdi. Elə bil qız, uzaq, əlçatmaz bir aləmlə vidalaşdı. O, kəlağayısının ucü ilə yaşarmış gözlərini quruladı. "Boyuna qurban olum, ay qardaş, lap kişi həddinə dolubsanmış", - deyə xəyalından keçirdi. Sonra da ocaq yerindəki kösövü qorlandırıb alışdırdı. Qazan asıb, samovara od saldı. Çalğını götürüb, qapı-bacanı süpürdü. Ancaq içəri, Güləsərin yanına gedə bilmədi. Bir-iki dəfə ayaqlarının ucunda qapıya yaxınlaşdısa da, ürəyinin çırpındığını hiss edib geri qayıtdı. İndiyə qədər bir yerdo oynayıb güldükləri Güləsərin üzünə necə baxacağını təsəvvürünə gətirə bilmədi. "Axı mən ona nə deyəcəyəm? Qız gözümün qabağında duranda ətim çimçişir. İçəri getsəm danışmağa söz də tapmaram".
+Şamxal hələ də yuxudan tamam ayılmamış bacısını başdan-ayağa süzüb gülüınsündü və tüfəngini çiyninə aşırdı. Salatın cığırla uzaqlaşan qardaşının arxasınca baxdı. Ona elə gəldi ki, Şamxalın kürəyi dünənkindən xeyli enlənmiş, elə boyu da uzanmışdır. Hətta, deyəsən, səsi də dəyişmişdir. Amma nədənsə bir az süst kimidir. Yerişində bir ağırlıq var. Dünənəcən qırğı kimi süzən Şamxal indi ağır-ağır addımlayır, bircə gecənin içində yaşa dolub toxtamış kimi görünürdü. Qardaşında hiss etdiyi bu dəyişiklik həm onu sevindirdi, həm də nədənsə qüssələndirdi. Elə bil qız, uzaq, əlçatmaz bir aləmlə vidalaşdı. O, kəlağayısının ucü ilə yaşarmış gözlərini quruladı. "Boyuna qurban olum, ay qardaş, lap kişi həddinə dolubsanmış", - deyə xəyalından keçirdi. Sonra da ocaq yerindəki kösövü qorlandırıb alışdırdı. Qazan asıb, samovara od saldı. Çalğını götürüb, qapı-bacanı süpürdü. Ancaq içəri, Güləsərin yanına gedə bilmədi. Bir-iki dəfə ayaqlarının ucunda qapıya yaxınlaşdısa da, ürəyinin çırpındığını hiss edib geri qayıtdı. İndiyə qədər bir yerdo oynayıb güldükləri Güləsərin üzünə necə baxacağını təsəvvürünə gətirə bilmədi. "Axı mən ona nə deyəcəyəm? Qız gözümün qabağında duranda ətim çimçişir. İçəri getsəm danışmağa söz də tapmaram".
 
 Güləsərin də səsi-səmiri gəlmirdi. Görünür, o da utandığından eşiyə çıxa bilmirdi.
 
-Gün xeyli qalxdı. Sığırçınlar malları haylayıb apardılar. Salatın qaynatdığı çayı təzədon isitməli, düşürdüyü qazanı yenidən ocağa asmalı oldu. Şamxal gəlmədi. Qız darıxdığından, doqqaza doğru getdi və gözləmədiyi halda Şahnigarla qarşılaşdı.
+Gün xeyli qalxdı. Sığırçınlar malları haylayıb apardılar. Salatın qaynatdığı çayı təzədən isitməli, düşürdüyü qazanı yenidən ocağa asmalı oldu. Şamxal gəlmədi. Qız darıxdığından, doqqaza doğru getdi və gözləmədiyi halda Şahnigarla qarşılaşdı.
 
 – Səndən nə əcəb, ay bibi?
 
@@ -52,7 +52,7 @@ Gün xeyli qalxdı. Sığırçınlar malları haylayıb apardılar. Salatın qay
 
 Salatın əli üzündəcə quruyub qaldı. Qorxu və həyəcanla bibisinə baxdı. Bu xəbərin belə tezliklə yayılacağını gözləmədiyindən özünü itirdi. Ona elə gəldi ki, bu saat bibisinin ardınca şenliyin camaatı bura töküləcək, hamı onları daşqalaq edəcək. Qız hamıdan çox atasından qorxurdu. Oğlunun tutduğu işdən kişinin qəzəblənəcəyini yaxşı bildiyindən, Salatının ürəyi uçurdu. Qızdırmalı adamlar kimi titrəyib saraldı. "Bəlkə bibim elə al dillə bir xəbər tutmağa gəlib? Əhvalatı öyrənəndən sonra hay-haray salacaq? Bəs Şamxal niyə ləngidi? Allah, sən özün saxla".
 
-Qızın bu halı Şahnigarın gözündon qaçmadı.
+Qızın bu halı Şahnigarın gözündən qaçmadı.
 
 – A-a-a-z, sənə nə oldu, rəngin niyə saraldı?
 
@@ -88,7 +88,7 @@ Qızın bu halı Şahnigarın gözündon qaçmadı.
 
 Bıy-bıy, başıma xeyir, ay qız, deyəsən bizi bəxtəvərə salacaqsan, yatmaq nədi? Bəri gəl görüm.
 
-Şahnigar incə bir şuxluqla qaş-gözünü oynadıb güldü. Yanaqlarında qırmızı ləkələr əmələ gəldi. Dingəsindəki qızıl pullar titrəyib cingildədi. Xırdaca çənəsi buxağın içində itdi. Sıx dişləri parıldadı. Salatın, həmişə deyib-gülməkdən xoşu gələn bibisinin yenə də şitlik edəcəyini bilib qizardı. İçəri getmək istəyən arvadı saxlamağa çalışdı.
+Şahnigar incə bir şuxluqla qaş-gözünü oynadıb güldü. Yanaqlarında qırmızı ləkələr əmələ gəldi. Dingəsindəki qızıl pullar titrəyib cingildədi. Xırdaca çənəsi buxağın içində itdi. Sıx dişləri parıldadı. Salatın, həmişə deyib-gülməkdən xoşu gələn bibisinin yenə də şitlik edəcəyini bilib qızardı. İçəri getmək istəyən arvadı saxlamağa çalışdı.
 
 – Yaxşı deyil, qoy qağam gəlsin.
 
@@ -108,7 +108,7 @@ Güləsər nə edəcəyini bilmədi. Elə əvvəlki kimi büzüşüb otursunmu, 
 
 Güləsər fikrini toplayana qədər Şahnigar onun başının üstünü kəsdirdi. Əlini belinə qoyub, daha da büzüşən gəlinə baxdı. Arvadın səsi qazma evin divarlarında cingildədi:
 
-– Bir ayağa dur görüm, qardaşım oğlu sənin nəyinə aşiq olub? Güləsər sürüşüb taxtdan düşdü. Verilən sualın mahiyyətini anlamadığından başını aşağı saldı. Bundan daha ağır, təhqirli sözlər gözlədi. Şahnigar isə qızın ətrafında dolanıb, ağzını marçıldatdi;
+– Bir ayağa dur görüm, qardaşım oğlu sənin nəyinə aşiq olub? Güləsər sürüşüb taxtdan düşdü. Verilən sualın mahiyyətini anlamadığından başını aşağı saldı. Bundan daha ağır, təhqirli sözlər gözlədi. Şahnigar isə qızın ətrafında dolanıb, ağzını marçıldatdı;
 
 – Hm... pis deyilsən. Bir belə fırlan görüm... Qəşəngsən. Vallah, düz sözümdür. Meymun ağzının dadını bilirmiş... ha...ha...ha... Başını niyə aşağı salırsan? Üzümə bax, utanma. Hamımızın başına gələn iş deyilmi? Eh, kaş qiz olub, təzədən ərə gedəydim.
 
@@ -126,7 +126,7 @@ Güləsər fikrini toplayana qədər Şahnigar onun başının üstünü kəsdir
 
 Amma neyləyim ki, mənim bəxtim gətirmədi... Hə, belə işığa gol görüm... Sir-sifətinə diqqətlə baxmaq istəyirəm. Bəy, gözləriyin altı nə yaman qaralıb? Yəqin qırışmal səni yamanca yorub, hə, eləmi? Qoy bircə qayıtsın, gör başına nə oyun açacam!
 
-– Bibi, bsdir, qızı utandırma.
+– Bibi, bəsdir, qızı utandırma.
 
 – Nə utanmaq, ay bala, ərə getməyi bilən adam utanmaz. Şahnigar qəşş edib, taxtın üstündə oturdu. Güləsəri də çəkib yanında əyləşdirdi. Gəlinin utanıb büzüşdüyünü görəndə daha da şaqılldadı: -Niyə qısılırsan, pis oğlana gəlibsən? Yoxsa qorxursan?
 
@@ -206,7 +206,7 @@ Güləsər həyadan yerə girəcək olsa da, arvadı şübhəyə salmamaq üçü
 
 – Üzün ağ olsun, qızım, indən sonra sənə canımı da qurban eləyərəm. O, yenicə görürmüş kimi qızın əynindəki nimdaş paltarlarına, yalın ayaqlarına baxdı. Dərindən köksünü ötürdü. Qardaşıgildə olub-keçənləri unutmağa çalışıb gülümsündü. Əvvəlcə barmağındakı yaqut qaşlı üzüyü çıxartdı. Sonra da ağ buğumhı biləyindən bilərziyi açdı.
 
-– Yaxın gəl, görüm. Bax bu sənin nişan üzüyün, keçirt barmağma, bu da bilərziyin, bibi payıdır, götür. Sonra nəyin çatışmır?
+– Yaxın gəl, görüm. Bax bu sənin nişan üzüyün, keçirt barmağına, bu da bilərziyin, bibi payıdır, götür. Sonra nəyin çatışmır?
 
 Salatın özünü sındırmaq istəmədi. Həm də qardaşının evdə dava salacağından qorxduğıı üçün verilən şeyləri Güləsərdən alıb, geri qaytarmaq fikrinə düşdü.
 
@@ -274,7 +274,7 @@ Bıy, boyuna qurban, gəlibsənmi? Bə niyə dinmirsən? Qapının arxasındaca 
 
 – Bax, gəlini incitmə ha, yoxsa dostluğu pozarıq. Yaxşı, de görüm belə tezdən cavan arvadı qoyub hara getmişdin? Ova? Göstər görüm nə vurmusan? Qırqovul? Bax buna varam. Vallah, xoşuma gəldin. Deyəsən, arvadın qədrin bilən olacaqsan. - O, Salatının əlindən qırqovulları alıb diqqətlə baxdı. Düz gəlinin yanına gəldi. Quşları yuxarı qaldırıb, parıldayan zərli lələklərini, yaşılı rəngə çalan xınalı boynunu sığalladı.
 
-– Daha nə istəyirsən, ay Güləsər, ərin indidən səni qırqovull əti ilə yemləmək istəyir. Gərək sən də onun əməyini itirməyəsən. Qırqovula dönüb ortada süzəsən. Buğum-buğum cığa tökəsən. Hə, niyə durubsunuz? Tez olun, ocağa qazan asın.
+– Daha nə istəyirsən, ay Güləsər, ərin indidən səni qırqovul əti ilə yemləmək istəyir. Gərək sən də onun əməyini itirməyəsən. Qırqovula dönüb ortada süzəsən. Buğum-buğum cığa tökəsən. Hə, niyə durubsunuz? Tez olun, ocağa qazan asın.
 
 Şamxal bibisinin yanında oturdu. Salatın quşları götürüb həyətə çıxanda Güləsər də getmək istədi. Şahnigar qızın qolundan tutdu:
 
@@ -310,7 +310,7 @@ Niyə dinmirsən?
 
 – Hara?
 
-– Oz yanıma. Ə, insafın yoxdur? Qalmışam qu quşu kimi damın altlnda tək. Nə olar mənim yanıma köçəndə? Otağın biri sənindir. Divarda xalısı, asma lampası, qab-qacağı, hər şeyi var. Sənə öz əlimle gərdək də qurmuşam. Heç o yan, bu yanı yoxdur, gedəcəksən. Başını tərpətmə, zornan da olsa aparacam. Salatınla mən bir otaqda qalaram, siz də bir.
+– Oz yanıma. Ə, insafın yoxdur? Qalmışam qu quşu kimi damın altında tək. Nə olar mənim yanıma köçəndə? Otağın biri sənindir. Divarda xalısı, asma lampası, qab-qacağı, hər şeyi var. Sənə öz əlimlə gərdək də qurmuşam. Heç o yan, bu yanı yoxdur, gedəcəksən. Başını tərpətmə, zornan da olsa aparacam. Salatınla mən bir otaqda qalaram, siz də bir.
 
 – Çox sağ ol, ay bibi, kişi gərək qoltuqda yaşamasın.
 

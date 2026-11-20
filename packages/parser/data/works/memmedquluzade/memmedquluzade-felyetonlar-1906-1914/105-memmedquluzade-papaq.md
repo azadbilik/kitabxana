@@ -51,7 +51,7 @@ Amma dünya xəlq olunandan şapkalı millətlər içində belə işlər baş ve
 
 Hələ bunlar bir saatlığa qalsın kənara.
 
-Kimdirlər bizim balaca uşaqların dalına düşənlər, bunların dərddindən ölənlər, bunların yolunda öz evlərindəki kəbinli övrətlərini gecələr evlərdə kişisiz qoyanlar, məktəb uşaqlarımızın Bakı küçələrində yollarını kəsənlər və bu tövr eşqbazlıqlar üstündə bir-birinin qanını tökən cavanlar?
+Kimdirlər bizim balaca uşaqların dalına düşənlər, bunların dərdindən ölənlər, bunların yolunda öz evlərindəki kəbinli övrətlərini gecələr evlərdə kişisiz qoyanlar, məktəb uşaqlarımızın Bakı küçələrində yollarını kəsənlər və bu tövr eşqbazlıqlar üstündə bir-birinin qanını tökən cavanlar?
 
 Həmin papaqlı qardaşlarımız.
 

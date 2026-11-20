@@ -17,7 +17,7 @@ Bir gün bir dəlidən soruşdular ki, “cağəsbi, camə ğəsbi” ibarələr
 
 * * *
 
-Camə ğəsbi də budur ki, bir dövlətli şəxsin on dörd dəst köhnəlməmiş paltarı evdə boxçada ola-ola gedə dərziyə, yenə paltar tikdirə; amma həmin ağanı əmndə saxlamaq üçün İsmayıl ağa tədibi üçün gedən qoşunlar dağda-daşda qışın şiddətli soyuğunda titrəyə-titrəyə sərhəddi müdafiə eləyələr, küçələrdə də yetim uşaqlar lüt-sərgərdan dolana-dolana düşüb ölələr.
+Camə ğəsbi də budur ki, bir dövlətli şəxsin on dörd dəst köhnəlməmiş paltarı evdə boxçada ola-ola gedə dərziyə, yenə paltar tikdirə; amma həmin ağanı məndə saxlamaq üçün İsmayıl ağa tədibi üçün gedən qoşunlar dağda-daşda qışın şiddətli soyuğunda titrəyə-titrəyə sərhəddi müdafiə eləyələr, küçələrdə də yetim uşaqlar lüt-sərgərdan dolana-dolana düşüb ölələr.
 
 Buna da deyər “camə ğəsbi”; yəni belə paltarda namaz qılmaq nə Allaha xoş gələr, nə də vicdanlı bəndəyə xoş gələr.
 

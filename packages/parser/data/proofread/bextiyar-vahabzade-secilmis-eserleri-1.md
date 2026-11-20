@@ -2878,7 +2878,7 @@ Daş-divarı əyilmiş
 Ay atamın koması!..
 Uçuq barılarında
 Kərpiclərin qum kimi.
-Göyəren vəhşi güllər
+Göyərən vəhşi güllər
 Çığıran arzum kimi...
 Necə belini bükdü,
 Ocağını qaraltdı
@@ -3020,7 +3020,7 @@ nə qəmini.
 Saçlarında ağardardı sitəmini.
 Hər acıya qatlaşardı,
 o, aşardı
-Aşılmayan sirti, dağı,
+Aşılmayan sırtı, dağı,
 @@ 085
 Onun üçün ən dəhşətli bir əzabdı,
 Əzabından danışmağı...
@@ -3348,7 +3348,7 @@ Yerin cazibəsindən...
 Mən qadirəm" -
 Səsindən
 Tanrı diksindi, durdu.
-Boylandı dövfəsinə...
+Boylandı dövrəsinə...
 Gördü:
 İnsanın özü
 Dönüb Yer kürəsinə.
@@ -5728,7 +5728,7 @@ Dedi, səmalarda öz oylağım var.
 @@ 155
 
 "Bu dünya beş gündür",- deyib hər yerdə
-Sağ ikən qəbirdə izanan da var.
+Sağ ikən qəbirdə uzanan da var.
 Öz alın tərilə bircə ömürdə
 Yüz insan ömrünü qazanan da var.
 

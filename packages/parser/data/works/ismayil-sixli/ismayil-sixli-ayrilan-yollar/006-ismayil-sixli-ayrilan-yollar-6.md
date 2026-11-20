@@ -26,7 +26,7 @@ Gövhər qarı səhəngi açıb yerə qoydu. "Bəduğur, heç ağzını xeyirliy
 
 – Mən də deyirəm sağ olsun. - O, Tükəzban xalaya bir az da yaxınlaşdı. - Ay qız, kimi gözləyirsən, gözünü allah niyə yumubdur? Bu gözəl-göyçək qızların birini aparıb qoysana evə... Nə vaxla qədər su daşıyıb, ev süpürəcəksən? Dünyanı tutub durmayacaqsan ha, heç olmasa ölməmişdən nəvə gör, ay batmış! Qoy sənin də ətəyini uşaq islatsın.
 
-Qarı xırıltılı səslə güldü. Əgər bu sözləri başqa birisi desəydi. Tükəzban xalanın ürəyinə yatar, bəlkə də o, həmin adamla ağız-ağıza verib danışar, oğlunun toyundan, nəvəsini necə oynamaq istəməsindən söhbət açardı. Amma onun-bunun qapısında qulluqçuluq edən Gövhər qarı ilə bu barədə söhbət eləməyi o, ağlına belə gətirmirdi. Əslinə baxsan, Tükəzban xalanın elə cavanlıqdan Gövhərdən xoşu galməzdi.
+Qarı xırıltılı səslə güldü. Əgər bu sözləri başqa birisi desəydi. Tükəzban xalanın ürəyinə yatar, bəlkə də o, həmin adamla ağız-ağıza verib danışar, oğlunun toyundan, nəvəsini necə oynamaq istəməsindən söhbət açardı. Amma onun-bunun qapısında qulluqçuluq edən Gövhər qarı ilə bu barədə söhbət eləməyi o, ağlına belə gətirmirdi. Əslinə baxsan, Tükəzban xalanın elə cavanlıqdan Gövhərdən xoşu gəlməzdi.
 
 Bu qarı ilə iki kəlmə danışdı qurtardı: gərək qulaqlarını tutub qaçasan. Tükəzban xala ona ağızucu cavab verdi.
 
@@ -36,7 +36,7 @@ Bu qarı ilə iki kəlmə danışdı qurtardı: gərək qulaqlarını tutub qaç
 
 – Özü balaca deyil. Ürəyi kimi istəyər, onu da alar.
 
-– Ay Tükəzban, niyə uşaq kimi danışırsan? Gədə cavandır, beyni qandır, o nə qanır yaxşı-yaman nədir? Gərək ortada mənim kimlə dilavər bir adam ola ki, tükü-tükdən seçə bilə. Yoxsa, allah eləməmiş, birdən gedib eləsini alar ki, el içində biabır olarsız. Atalar nahaq yerə deməyib ki, xasiyyətini bilmədiyin atın dalına keçmə. İndi, ağrın ürəyimə, gərək qızın əslini-nəslini biləsən, qohum-əqrəbası ola. Yoxsa bildırçin kimi ortada tullanan saçıkəsik qızlardan birini gətirib qoydun evinə, ondan nə çıxar? İki gündən sonra səni saçlayıb döyər. Yox, ay Tükəzban, İmran yaxşı uşaqdır. Onun boyuna qurban olum. Gül kimi baladir. Əhd eləmişəm, gərək qızı ona özüm seçəm. - Qarı, Tükəzban xalanın qaşqabağını tökdüyünü və getmək istədiyini görüb, onun biləyindən yapışdı.
+– Ay Tükəzban, niyə uşaq kimi danışırsan? Gədə cavandır, beyni qandır, o nə qanır yaxşı-yaman nədir? Gərək ortada mənim kimlə dilavər bir adam ola ki, tükü-tükdən seçə bilə. Yoxsa, allah eləməmiş, birdən gedib eləsini alar ki, el içində biabır olarsız. Atalar nahaq yerə deməyib ki, xasiyyətini bilmədiyin atın dalına keçmə. İndi, ağrın ürəyimə, gərək qızın əslini-nəslini biləsən, qohum-əqrəbası ola. Yoxsa bildirçin kimi ortada tullanan saçıkəsik qızlardan birini gətirib qoydun evinə, ondan nə çıxar? İki gündən sonra səni saçlayıb döyər. Yox, ay Tükəzban, İmran yaxşı uşaqdır. Onun boyuna qurban olum. Gül kimi baladir. Əhd eləmişəm, gərək qızı ona özüm seçəm. - Qarı, Tükəzban xalanın qaşqabağını tökdüyünü və getmək istədiyini görüb, onun biləyindən yapışdı.
 
 – Bircə sözümə qulaq as! Mən deyənə baxsan, zərər çəkməzsən. Kimin işinə qarışmışamsa, hamısı oğullu, uşaqlı, ev-eşik sahibi olubdur. Yoxsa inanmırsan? Xoşqədəmin oğluna qızı mən tapmadımmı?
 
@@ -66,7 +66,7 @@ Gövhər qarı tələsdi, səhəngini hıqqına-hıqqına dalına qaldırıb ça
 
 – Amin, - dedi.
 
-– İndi mənim dediyim odur ki, özünə layiq bir qızla evlənsin. - O, səsinə daha mehriban ahəng verdi. - Bir-iki gün bundan əvvəl bizim Sayalını gördüm. Onunda İmrandan yamanxoşu gəlir. Deyirdi, yetişmış qızım olsaydı, elə ona verərdim. Tükəzban xala yavaş-yavaş ehtiyat eləməyə başladı:
+– İndi mənim dediyim odur ki, özünə layiq bir qızla evlənsin. - O, səsinə daha mehriban ahəng verdi. - Bir-iki gün bundan əvvəl bizim Sayalını gördüm. Onunda İmrandan yamanxoşu gəlir. Deyirdi, yetişmiş qızım olsaydı, elə ona verərdim. Tükəzban xala yavaş-yavaş ehtiyat eləməyə başladı:
 
 – Ay arvad, sən allah, belə sözləri danışıb uşağı dilə-ağıza salma.
 
@@ -90,11 +90,11 @@ Qarı səsini xırp kəsdi, cücə gözlərini oynadıb mat-mat baxdı. O, elə 
 
 Onlar həyətə girdilər.
 
-Gövhər qarı hıqqana-hıqqana səhəngini düşürüb pillakəndə oturdu.
+Gövhər qarı hıqqana-hıqqana səhəngini düşürüb pilləkəndə oturdu.
 
 – Yaman yoruldum. Bir az dincimi alıb gedəcəm.
 
-Nərgiz münllimə həyətə çıxdı. Əlində balta vardı.
+Nərgiz müəllimə həyətə çıxdı. Əlində balta vardı.
 
 – Qızım, neyləmək fikrindəsən?
 
@@ -110,7 +110,7 @@ Nərgiz müəllimə çardağın altındakı odunlardan birini götürüb kötüy
 
 O hər dəfə baltanı endirəndə odunun bir yerinə dəyirdi. Bunu görən Zeynəb:
 
-– Ay Tükəzban xala, mişarı bəri ver, - dedi və üzünü Gövhər qarıya çevirdi: - Ay imansız, sən burda nə gəzirsən? Yenə hansı küpə girəcəksən?! Qarı qorxusundan səsini çıxartmadı. Zeynəb sualinı bir də təkrar edəndə dilləndi:
+– Ay Tükəzban xala, mişarı bəri ver, - dedi və üzünü Gövhər qarıya çevirdi: - Ay imansız, sən burda nə gəzirsən? Yenə hansı küpə girəcəksən?! Qarı qorxusundan səsini çıxartmadı. Zeynəb sualını bir də təkrar edəndə dilləndi:
 
 – Qoysana bir az nəfəsimizi dərək, ay günü ağ olmuş, yorulmuşam, daha dizlərim taqətdən düşüb...
 

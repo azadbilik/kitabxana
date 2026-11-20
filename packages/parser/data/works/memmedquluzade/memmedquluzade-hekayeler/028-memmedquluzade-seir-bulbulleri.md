@@ -32,7 +32,7 @@ Bu şkaf, – əgər durub haqq söyləsək, – ev sahibinə çox yaraşan bir 
 
 Şkafın qapısının şüşəsinin dalında səliqə ilə düzülmüş kitablar aşkar bunu deyirdilər ki, “bax, şeir bülbülləri bizdən ibarətdir”.
 
-Mən durdumm ayağa və gəldim dayandım şkafın qabağında. Ev sahibi də durdu, cibindən bir açar çıxartdı, gəldi şkafın qapısını açdı, üzünü mənə tutdu və dedi:
+Mən durdum ayağa və gəldim dayandım şkafın qabağında. Ev sahibi də durdu, cibindən bir açar çıxartdı, gəldi şkafın qapısını açdı, üzünü mənə tutdu və dedi:
 
 – Görürsən?..
 

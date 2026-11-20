@@ -12,7 +12,7 @@ sourceNote: 'https://www.kitabxana.net/files/books/file/1323753568.pdf#page=171'
 status: DRAFT
 ---
 Siz rüşvət alan, mən şer yazan,
-Möhtəkir hara, sənqətkar hara?!
+Möhtəkir hara, sənətkar hara?!
 Mənimki çətin, sizinki asan,
 Mənimki sözdür, sizinki para...
 Şairlər heç vaxt zəngin olmayım,

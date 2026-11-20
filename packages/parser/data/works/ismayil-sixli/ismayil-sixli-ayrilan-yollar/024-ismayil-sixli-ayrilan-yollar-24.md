@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Zeynəb yarı arxı keçəndə diksinib dayandı. Ona elə gəldi ki, yarğanın dibindən qalxan kölgə sinəsinə ötüb qaratikan kolları arasında gizləndi. Hətta oradan şıqqıltı eşidildi.
 
-Zeynəb ayaq saxladı, ürəyi döyünə-döyünə qulaq asdı. Çöllər səssiz idi. Yalnız gecə böcəkləri qəmli-qəmli ötürdü. Elə bil onlar isti payız günündən sonra axşam sərinliyində dincələn çöllərə laylay çalırdılar. Circıramaların, çəyirtkələrin bu məhzun nəğmələri Zeynəbi darıxdırdı. Onun da qəlbini hüzn bürüdü. Ürəyində özünün də başa düşmədiyi hisslər oyandı. Tərəddüd içində dayanıb pıçıldadı: "Bu nə idi? Bu zaman yarğanda gizlənən kim ola? Düz adamdırsa, niyə yolla getmir?"
+Zeynəb ayaq saxladı, ürəyi döyünə-döyünə qulaq asdı. Çöllər səssiz idi. Yalnız gecə böcəkləri qəmli-qəmli ötürdü. Elə bil onlar isti payız günündən sonra axşam sərinliyində dincələn çöllərə laylay çalırdılar. Cırcıramaların, çəyirtkələrin bu məhzun nəğmələri Zeynəbi darıxdırdı. Onun da qəlbini hüzn bürüdü. Ürəyində özünün də başa düşmədiyi hisslər oyandı. Tərəddüd içində dayanıb pıçıldadı: "Bu nə idi? Bu zaman yarğanda gizlənən kim ola? Düz adamdırsa, niyə yolla getmir?"
 
 Zeynəb əvvəlcə şıqqıltı gələn tərəfə getmək istədi, bir-iki addım atıb dayandı: "Əgər bu doğrudan da adamdırsa, bu saat yenə tərpənəcək. Bəlkə də yola çıxacaq". Bir az gözlədi. Nə bir səs, nə bir hənirti eşitdi. "Mən də lap məzəli olmuşam, deyə qız öz-özünü danladı, - adam nə gəzir, deyəsən məni qara basır. Elə bil heç bu çölləri ərşi-arğac eləyən Zeynəb deyiləm".
 
@@ -22,7 +22,7 @@ O, şırıltı ilə axan suyun üstündəki daş körpüdən keçib yola çıxd�
 
 Zeynəbin bu dəfə qızlardan ayrılıb gecə vaxtı yola tək çıxmasına səbəb traktorçu Əli idi. Zeynəb, sözü adamın üzünə deyən, heç kəsdən qorxmayan, gecə-gündüz işləyən, necə deyərlər, qızdan-gəlindən həyalı olan bu oğlanı xoşlayır və "qiyamət traktorçudur" – deyə qızlara tərifləyirdi.
 
-Əli "İyirmi altılar" kokozundan deyildi. Bu kənddə onun nə bir qohumu, nə də tanışı vardı. O, gündüzlər tarlada işləyir, axşam da düşərgədə yatırdı. Ona ayrıca otaq, çarpayı, yorğan-döşək vermişdilər. Yemək-içməyi də pis deyildi. İmran onu bir-iki dəfə evə dəvət etmişdisə də, Əli razı olmamşdı.
+Əli "İyirmi altılar" kokozundan deyildi. Bu kənddə onun nə bir qohumu, nə də tanışı vardı. O, gündüzlər tarlada işləyir, axşam da düşərgədə yatırdı. Ona ayrıca otaq, çarpayı, yorğan-döşək vermişdilər. Yemək-içməyi də pis deyildi. İmran onu bir-iki dəfə evə dəvət etmişdisə də, Əli razı olmamışdı.
 
 Zeynəb əvvəllər ona o qədər fikir verməzdi. Ancaq dünən bir hadisənin şahidi oldu.
 
@@ -30,7 +30,7 @@ Günorta üstü hava çox isti idi. Zeynəb düşərgəyə gəlirdi. Onun dili-d
 
 – Bu nədir, elə bil yer əkmisən?
 
-– Neyləyim, bacardıgım budur.
+– Neyləyim, bacardığım budur.
 
 Qızlardan birinə verə bilmirdin. Əli daha da qızardı:
 
@@ -54,13 +54,13 @@ Qızlardan birinə verə bilmirdin. Əli daha da qızardı:
 
 – Ürəyini sıxma, elə mən də sən gündəyəm.
 
-– Üroyimi niyə sıxıram? Mən boyda kişi, durub təzədən yetimlikdən şikayət eləyəcəyəm?
+– Ürəyimi niyə sıxıram? Mən boyda kişi, durub təzədən yetimlikdən şikayət eləyəcəyəm?
 
 Zeynəb köynəyi yamayıb qurtardı. Göylüyə sərilmiş paltarı yığdı.
 
 – Axşam aparıb özüm evdə yuyaram da, ütüləyərəm də.
 
-– Yox, yox, doymə.
+– Yox, yox, dəymə.
 
 – Bu nə sözdür! - deyə Zeynəb ona acıqlandı. – Mən də sənin bacın.
 
@@ -92,7 +92,7 @@ Zeynəb on çox qorxduğu yerləri keçib kəndə yaxınlaşanda sakitləşdi. A
 
 – Zeynəb əsəbiləşdi. - Allah vurmuşdu onları, qabaqlarına İmran kimi oğul çıxıb, pirlərinə təpik atırlar. Qızlarını ondan artığına verəcəklər?.."
 
-Zeynəb bu cür fıkirlərlə kəndin kənarındakı qəbristanlığa qədər gəldi. Birdən at fınxırtısına bənzər bir səs eşitdi. Lap yaxında hənirti duydu. Fikirdən ayrılıb ətrafa göz gəzdirdi. Qaranlıq idi. Arabir yağış damcılayırdı. Təpədəki qəbir daşları güclə seçilirdi. Zeynəb uşaqlıqda goreşən haqqında eşitdiyi nağılı xatırladı. Vahimələndi. Bir anlığa bilmədi nə etsin! Qəbristanlığın yanından keçsin, yoxsa dönüb geri qayıtsın, yuxarıdakı yola düşsün.
+Zeynəb bu cür fikirlərlə kəndin kənarındakı qəbristanlığa qədər gəldi. Birdən at fınxırtısına bənzər bir səs eşitdi. Lap yaxında hənirti duydu. Fikirdən ayrılıb ətrafa göz gəzdirdi. Qaranlıq idi. Arabir yağış damcılayırdı. Təpədəki qəbir daşları güclə seçilirdi. Zeynəb uşaqlıqda goreşən haqqında eşitdiyi nağılı xatırladı. Vahimələndi. Bir anlığa bilmədi nə etsin! Qəbristanlığın yanından keçsin, yoxsa dönüb geri qayıtsın, yuxarıdakı yola düşsün.
 
 Zeynəb yoluna davam etdi.
 
@@ -166,7 +166,7 @@ Birdən Zeynəb daha möhkəm çırpındı. Kazım gözünü açıb yumunca, yuv
 
 Kazım atdan düşüb cilovu yəhərin qaşına keçirdi. Aşağı əyilərək qızı qaldırmaq istədi. Lakin bu vaxt yoldakı qaraltıdan hürkən at götürüldü. Kazım onun ardınca qaçdı, nə qədər çalışdısa tuta bilmədi. Əlacı kəsilib geri qayıtdı. Zeynəbi sürüyüb kolluğa saldı.
 
-...İmran kişnəyə-kişnəyə qaçan atı görəndə təəccübləndi. Motosikli geri döndərdi, qəbristanlığın ətratına dolandı. Fənərin işığı qaranlıği qılınc kimi yarıb sağı-solu aydnılaşdirdı.
+...İmran kişnəyə-kişnəyə qaçan atı görəndə təəccübləndi. Motosikli geri döndərdi, qəbristanlığın ətrafına dolandı. Fənərin işığı qaranlığı qılınc kimi yarıb sağı-solu aydnılaşdirdı.
 
 İmran yola düşmüş kəlağayını görüb dayandı. Əyilib yerdən götürdü. "Bu nədir? Bu kəlağayı kimindir?"
 
@@ -194,7 +194,7 @@ Yaxındakı kolluqdan boğuq, iniltiyə bənzər bir səs gəldi. İmran nə ed�
 
 – Ay adam, kimsən, hardasan?
 
-O, aşağı əyilib kolluqdakı sarınmış qızı tapdı. Ağzındakı dəsmali çıxartdı, əl- qolunu açdı. Zeynəb dərindən nəfəs alıb qışqırdı:
+O, aşağı əyilib kolluqdakı sarınmış qızı tapdı. Ağzındakı dəsmalı çıxartdı, əl- qolunu açdı. Zeynəb dərindən nəfəs alıb qışqırdı:
 
 – Hanı o əclaf!
 
@@ -212,7 +212,7 @@ Kazım dinmədi. Gözünü döyüb dayandı.
 
 – İmran... İgid basdığını kəsməz... Keç günahımdan.
 
-– Hələ bir dili də var danışır! Səni özüm aparacam! Utanmaz köpokoğlu!
+– Hələ bir dili də var danışır! Səni özüm aparacam! Utanmaz köpəkoğlu!
 
 – deyə Zeynəb qışqırdı.
 
@@ -262,7 +262,7 @@ Kəsik-kəsik deyilən bu sözlər İmranın ürəyini dağladı. Zeynəbin aln�
 
 – Di yaxşı... Sənə soyuq dəyər.
 
-Zeynəb ancaq bu zaman üst-başnın didılib töküldüyünə fikir verdi. Yaxasının açıq olduğunu görüb aşağı əyildi.
+Zeynəb ancaq bu zaman üst-başının didilib töküldüyünə fikir verdi. Yaxasının açıq olduğunu görüb aşağı əyildi.
 
 – İmran, qurban olum, bağışla.
 
@@ -276,7 +276,7 @@ Onlar döngəni burulub həyətə girdilər. Zeynəb hərəkətsiz dayandı. Evl
 
 – Yox, evimizə gedəcəyəm.
 
-– Ağillı ol, bu saat səni heç yana buraxmaram. Sizin ev, ya bizim, nə təfavütü var? Gəl.
+– Ağıllı ol, bu saat səni heç yana buraxmaram. Sizin ev, ya bizim, nə təfavütü var? Gəl.
 
 İmran onu çəkib eyvana çıxandı. Pəncərədən süzulən işıqda üz-gözünə baxdı. Dəsmalını çıxardıb onun gözlərini sildi.
 
@@ -294,7 +294,7 @@ Zeynəb ağlamamaq üçün dodağını dişlədi. İmran qıza gözünü ağartd
 
 – Allah, sən saxla! Ay bala, neçə dəfə demişəm bu zəhrimarı minmə, hazır bir ətək pul verib maşın alıbsan, onu niyə sürmürsən? Üz-gözünüz də göyərib, əzilib.
 
-– Bəs nə təhər olsun deyirsən, maşından yıxılanın üz-gözü də göyərər, dirsəyi de sıyrılar. Zərər yoxdur. Sən bizə yemeyə bir şey ver, yaman acmışıq. Tükəzban xala əl-ayağa düşdü. Sandıgı açıb oğluna təmiz paltar çıxartdı. Aftafa-ləyən gətirdi. "Gör bir özünü nə kökə salıb. Heç bilmirəm bu zəhrimar maşını hardan tapıb? Demir, qızcığazı da, özümü də şikəst elərəm. Bilmirəm bu günüqara da gədədən niyə əl çəkmir.
+– Bəs nə təhər olsun deyirsən, maşından yıxılanın üz-gözü də göyərər, dirsəyi de sıyrılar. Zərər yoxdur. Sən bizə yeməyə bir şey ver, yaman acmışıq. Tükəzban xala əl-ayağa düşdü. Sandığı açıb oğluna təmiz paltar çıxartdı. Aftafa-ləyən gətirdi. "Gör bir özünü nə kökə salıb. Heç bilmirəm bu zəhrimar maşını hardan tapıb? Demir, qızcığazı da, özümü də şikəst elərəm. Bilmirəm bu günüqara da gədədən niyə əl çəkmir.
 
 Qanmır ki, o ikitəkərli bir adamlıqdır. Yenə allahın mənə yazığı gelib. Yoxsa evim yıxılırmış".
 
@@ -326,9 +326,9 @@ Səməd gedəndən sonra Tükəzban xeyli dayanıb ərinin dalınca baxdı...
 
 Onda "İyirmi altılar" kolxozu təzəcə təşkil olunmuşdu. Səmədi sədr seçmişdilər. İşlər yaman ağır idi.
 
-Tükəzban evə qayıdıb yer saldı, ancaq yata bilmədi. Həmişə bütün gecəni kəsik-kəsik xırıldayan traktorun səsi və taxıldöyən maşının gurultusu eşidilərdi. İndi isə sakıtlik idi, yəqin yenə maşını xarab etmişdilər. Bayırda çısələmə yağış yağırdı. Həyətdəki tut ağaclarının yarpaqları xışıldayırdı. Evin üstündən süzülən yağış suyu navalçaları danqıldadıb şırıldayırdı. Kəndin yuxarı başında itlər hürüşürdülər. Bir azdan onlar da sakitləşdi.
+Tükəzban evə qayıdıb yer saldı, ancaq yata bilmədi. Həmişə bütün gecəni kəsik-kəsik xırıldayan traktorun səsi və taxıldöyən maşının gurultusu eşidilərdi. İndi isə sakitlik idi, yəqin yenə maşını xarab etmişdilər. Bayırda çısələmə yağış yağırdı. Həyətdəki tut ağaclarının yarpaqları xışıldayırdı. Evin üstündən süzülən yağış suyu navalçaları danqıldadıb şırıldayırdı. Kəndin yuxarı başında itlər hürüşürdülər. Bir azdan onlar da sakitləşdi.
 
-Tükəzbanın yalnız səhərə yaxm gözünə yuxu gctdi.
+Tükəzbanın yalnız səhərə yaxm gözünə yuxu getdi.
 
 Birdən xırman tərəfdə boğuq tappıltı eşidildi. Tükəzban dik atıldı. Tüfəng bir də açıldı. "Kimi isə vurdular, güllə ətə dəydi" – deyə düşünən Tükəzban tələsik ayağa durdu. Paltarını əyninə keçirib bayıra çıxdı; İşıqlaşırdı. Toyuqlar yavaş- yavaş tardan tökülürdü.
 

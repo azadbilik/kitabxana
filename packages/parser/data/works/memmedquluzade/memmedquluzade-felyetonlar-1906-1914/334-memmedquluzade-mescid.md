@@ -17,7 +17,7 @@ Belə tutaq ki, bir bütpərəst, ya xaçpərəst bizim islam dinini qəbul etm�
 
 Mən deyirəm məscid Allah evidir, orada Allaha ibadət etməkdən savayı dəxi özgə əhvalat yaraşmaz. Amma sən məscidin havasını üfutləndirirsən, mən burnumu tutub çıxıram.
 
-Mən deyirəm ki, məscid Allah evidir, orada imama təziyə saxlamaqdan savayı dəxi özgə oyunbazlıq artıqdır. Amma sən məscidi saldat-bazarına döndərirsən. Mən də cığ-vıcdan qulaqlarımı tutub qaçıram.
+Mən deyirəm ki, məscid Allah evidir, orada imama təziyə saxlamaqdan savayı dəxi özgə oyunbazlıq artıqdır. Amma sən məscidi saldat-bazarına döndərirsən. Mən də cığ-vicdan qulaqlarımı tutub qaçıram.
 
 Mən deyirəm ki, məscid Allah evidir, burada yaraşar ki, fəzilətli və həqiqi alimlərimiz hərdənbir camaatı yığıb, millətdən, insaniyyətdən, dindən və dünyadan bir para nafe moizələr edələr. Amma sən İranın bikar əmmaməlilərini və ac seyidlərini çıxardırsan minbərə, onlar da məsciddə avamdan savayı bir qanan adam görməyib, başlayırlar “Bəhrülməsaib” kitabından imamlar və peyğəmbərlər barədə elə mövhumat söyləməyə ki, iyrənib, durub çıxırsan çölə. Onunçün mən də məscidə getmirəm.
 

@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Kürün o tayından əsən qəfil külək sahildəki biçənəyin üstündən adlayıb kəndin arasını dolaşdıqdan sonra kövşənliyi xışıldatdı, xır yolu tərəfə gəldi və gözlənilmədən yana burulub təpədəki qəbristanlığa doğru döndü. Qədim qəbir daşlarının başına dolandı, burulğan kimi fırlanıb qurumuş otları, boz kətyən kollarını, keçən ildən qalmış çör-çöpü süpürdü, qabağına qatıb təpədən aşağı tökdü. Elə bil son bahar nəfəsi ilə cana gəlib cücərən qəbristanlığa süpürgə çəkdilər, hər yer tərtəmiz oldu. Azacıq sonra isə göyün üzünü seyrək, qara bulud bürüdü. Hara isə tələsən bu duman kəndin bərabərində aşağı çökdü, ətəyini sallayıb torpağı yaladı, onun soyuq nəfəsi qəbristanlığa qədər gəlib çıxdı. İri yağış damcıladı. Qəbirlərin torpağı xal-xal oldu.
 
-Əşrəf ayağa durdu. Dizini çırpıb koksünü ötürdü. Boyun-boyuna verən dərin bir hüzn içində mürgüləyən qəbir daşlarına xeyli baxdı. Təpənin lap yuxarısında az qala iki adam boyu ucalığında olan çəhrayı rəngli başdaşının üstünü mamır basmışdı. Otların naxışları, yazıları güclə seçilirdi. Köhnə, batıq qəbirlər torpağın altında qalmışdı. Yanlarında tüfəng, xəncər, at çəkilmiş başdaşılarının bəzisi böyrü üstə əyilmişdi. İzi tamam itən qəbirlər də var idi.
+Əşrəf ayağa durdu. Dizini çırpıb köksünü ötürdü. Boyun-boyuna verən dərin bir hüzn içində mürgüləyən qəbir daşlarına xeyli baxdı. Təpənin lap yuxarısında az qala iki adam boyu ucalığında olan çəhrayı rəngli başdaşının üstünü mamır basmışdı. Otların naxışları, yazıları güclə seçilirdi. Köhnə, batıq qəbirlər torpağın altında qalmışdı. Yanlarında tüfəng, xəncər, at çəkilmiş başdaşılarının bəzisi böyrü üstə əyilmişdi. İzi tamam itən qəbirlər də var idi.
 
 Əşrəf sükut içində, başdaşlarından seçilməz halda xeyli dayandıqdan sonra atasının hələ torpağı yapıxmamış qəbrinə baxdı. Onu Şahnigarla yanaşı basdırmışdılar. Bacı-qardaş qoşa yatırdı. Əşrəfin bir az əvvəl əli ilə sığallayıb, yan-yörəsini düzəltdiyi qəbri iri yağış damcıları döyəcləməyə başladı. Balaca təpəciyə oxşayan bozumtul torpağın üstündəki qara nöqtələr çoxaldı. Şahnigarın qəbri yapıxdığından, yağan damlalar gilələnib süzüldü və Cahandar ağanın qəbrinə doğru gəldi. Elə bil kim isə qəsdən bu qəbrin yanında dayanıb gözündən gilə-gilə yaş axıdırdı.
 
@@ -32,7 +32,7 @@ Pəncərədən aralandı. Stul götürüb Şamxalla yanaşı oturdu:
 
 – Qutunu mənə ver.
 
-Şamxalın qaşları çatıldı. Təəccüblə qardaşının üzünə baxdı və qutunu çıxardıb dinməzcə ona uzatdı. Əşrəf naşılıqla papıros eşdı. Ehtiyatla çəkməyə başladı.
+Şamxalın qaşları çatıldı. Təəccüblə qardaşının üzünə baxdı və qutunu çıxardıb dinməzcə ona uzatdı. Əşrəf naşılıqla papiros eşdı. Ehtiyatla çəkməyə başladı.
 
 – Gedəkmi?
 

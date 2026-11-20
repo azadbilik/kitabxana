@@ -12,11 +12,11 @@ order: 10
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=11'
 status: DRAFT
 ---
-Eyvanm dirəyinə söykənmiş Şahnaz, əlini qoynuna qoyub, başı üzərindən keçən qaranquşlara tamaşa edirdi. Bir həftəyə yaxın idi ki, bu quşlar onların eyvanında məskən salmışdı. Səhərdən axşama qədər civildəşə-civildəşə ağızlarında ot, palçiq gətirib yuva tikirdilər. İlk günlər Şahnazı cəlb edən bu göyçək quşlar, indi onu darıxdırırdı. Şahnaz onların qoşa dayanıb oxumalarını görəndə qəfəsə salınmış quş kimi çırpınır, qapı-bacada dura bilmirdi. "Quş quşluğu ilə tək yaşamır, qoşa gəzir. Bəs mən?.."
+Eyvanın dirəyinə söykənmiş Şahnaz, əlini qoynuna qoyub, başı üzərindən keçən qaranquşlara tamaşa edirdi. Bir həftəyə yaxın idi ki, bu quşlar onların eyvanında məskən salmışdı. Səhərdən axşama qədər civildəşə-civildəşə ağızlarında ot, palçıq gətirib yuva tikirdilər. İlk günlər Şahnazı cəlb edən bu göyçək quşlar, indi onu darıxdırırdı. Şahnaz onların qoşa dayanıb oxumalarını görəndə qəfəsə salınmış quş kimi çırpınır, qapı-bacada dura bilmirdi. "Quş quşluğu ilə tək yaşamır, qoşa gəzir. Bəs mən?.."
 
 O tez-tez güzgü qabağında hərlənir, qaş-gözünə sığal verir, saçlarının ucunu burub sinəsinin üstündən sallayır, paltarının birini soyunub o birini geyinirdi. Bəzən dabanı üstündə fırlanır, güzgüdə ətli əndamına, nazik belinə, yoğun topuğuna baxır, gülümsəyərək öz-özünə göz vururdu: "Doğrudan da qəşəng qızam, mənim kimi gözəl də evdə oturar?"
 
-Yaşınin az olmasına baxmayaraq, Şahnaz çox oğlanlarla oturub-durmuşdu. Hətta bəzilərinin dərdini ürəyinə salmışdı. Lakin bu, uzun sürməmişdi. Ya oğlan ondan uzaqlaşmış, ya da Şahnaz özü onu yola salmışdı. Neçə ildən bəri onun dalınca sürünən şofer Məmməd belə ona təsir edə bilməmişdi. Ancaq İmran... Şahnaz durub-dincələ bilmirdi. O günkü əhvalatdan sonra elə zənn edirdi ki, hər şey düzələcək; İmran ona meyl edəcək, ancaq tərsinə oldu. İmranın soyuqluğu onu təşvişə salırdı. "İndiyə qədər bir başıpapaqlı mənim yanımdan düz keçə bilməyib, dalımca həsrətlə baxıblar. Amma bu..."
+Yaşının az olmasına baxmayaraq, Şahnaz çox oğlanlarla oturub-durmuşdu. Hətta bəzilərinin dərdini ürəyinə salmışdı. Lakin bu, uzun sürməmişdi. Ya oğlan ondan uzaqlaşmış, ya da Şahnaz özü onu yola salmışdı. Neçə ildən bəri onun dalınca sürünən şofer Məmməd belə ona təsir edə bilməmişdi. Ancaq İmran... Şahnaz durub-dincələ bilmirdi. O günkü əhvalatdan sonra elə zənn edirdi ki, hər şey düzələcək; İmran ona meyl edəcək, ancaq tərsinə oldu. İmranın soyuqluğu onu təşvişə salırdı. "İndiyə qədər bir başıpapaqlı mənim yanımdan düz keçə bilməyib, dalımca həsrətlə baxıblar. Amma bu..."
 
 Şahnaz necə olur-olsun İmranın diqqətini cəlb etməyə çalışırdı. Tez-tez Gövhər qarının yanına qaçıb fala baxdırırdı. Qarı, qızın ürəyinə yatan şirin sözlər deyib, onunla İmranın birləşəcəklərini söyləyirdi. İndi o, eyvanda dayanıb bunları düşünür, düşündükcə də darıxırdı.
 
@@ -40,7 +40,7 @@ Bu gün ilin axır çərşənbəsi deyilmi? Bircə tez ol gedək tonqal qalayaq,
 
 – Bizim nə günahımız var ki?
 
-– Elə demə, qızım, allaha ağır gedir, tez ol atdan! Şahnaz şaqqıldayıb güldü və sıçrayıb tonqalın üstündən keçdi. Qızlar da ona qoşuldular. Qarı özü də geri çəkildi, gözlərini yumub, alovun üstündən atılmaq istədi. Ancaq birdən ayağı büdrədi, qorun içinə düşdü. Donquldanıb kənara sıçradı. Qırçınlı donunun uzun, gen ətəyi alışdı. Qarı özünü itirdi. Orlada fırlanıb qışqırdı:
+– Elə demə, qızım, allaha ağır gedir, tez ol atdan! Şahnaz şaqqıldayıb güldü və sıçrayıb tonqalın üstündən keçdi. Qızlar da ona qoşuldular. Qarı özü də geri çəkildi, gözlərini yumub, alovun üstündən atılmaq istədi. Ancaq birdən ayağı büdrədi, qorun içinə düşdü. Donquldanıb kənara sıçradı. Qırçınlı donunun uzun, gen ətəyi alışdı. Qarı özünü itirdi. Orada fırlanıb qışqırdı:
 
 – Ay qız, qoymayın yandım!
 
@@ -62,11 +62,11 @@ Onu ayağa qaldırdılar. Səs-küyə yığışan qonşular qarıya baxıb gül�
 
 – Lap suya basılmış toyuğa oxşayırsan.
 
-– Yox, ay qız, quyruğu yolunmuş sağsağana oxşayır. Qızlar gülüşə-gülüşə onu evə gətirdilər. Şahnaz köhnə paltarlarından birini çıxarıb qarıya geyindirdi. O daha da gülməli oldu. Güzgüdə qarı özünü tanımadi. Ağlamsındı:
+– Yox, ay qız, quyruğu yolunmuş sağsağana oxşayır. Qızlar gülüşə-gülüşə onu evə gətirdilər. Şahnaz köhnə paltarlarından birini çıxarıb qarıya geyindirdi. O daha da gülməli oldu. Güzgüdə qarı özünü tanımadı. Ağlamsındı:
 
 – Günü qaralar, niyə pıqqıldaşırsınız?
 
-– Qiyamət yaraşir, ay nənə.
+– Qiyamət yaraşır, ay nənə.
 
 – Gedin özünüzə lağ eləyin, sel aparmışlar! Sayalı köhnə paltarlarından üç-dördünü gətirib verincəyə qədər qarının qaşqabağı açılmadı.
 
@@ -74,7 +74,7 @@ Tez birini geyindi. O birilərini də dəstələyib qoltuğuna vurdu:
 
 – Evə dəyib gəlirəm, - deyə üzünü Şahnaza tutdu. Xörəkdən-zaddan bişirərik. Gərək, bu gecə sizə kef verəm.
 
-Qarı başmaqlarmı şıppıldada-şıppıldada evdən çıxdı. Şahnaz onun dalınca qışqırdı:
+Qarı başmaqlarını şıppıldada-şıppıldada evdən çıxdı. Şahnaz onun dalınca qışqırdı:
 
 – Ay nənə, sən allah, tez gəl, evdə sənsiz darıxıram. Qızlardan rastına düşən olsa, çağır gəlsinlər...
 
@@ -82,7 +82,7 @@ Qarı başmaqlarmı şıppıldada-şıppıldada evdən çıxdı. Şahnaz onun da
 
 – Belə, dayının canı üçün, hər şey düzələcək. Heç ürəyini sıxma, hansı qapını pusdum, qulağıma yaxşı söz dəydi. Birində dedilər: "A qızım, dur qapını aç, içəri sərin hava gəlsin". Demək, qapı üzünə açılacaq...
 
-Sonra getdim Tapdıq kişigilin qapısına. Mən çatan kimi içəridən səs gəldi: "Arvad, heybəni aç, uşaqlara şirindən-zaddan ver". Dedim bu da yaxışıdır. Şirinlik yeyəcəyik, ay Şahnaz! Özü də lap tezliklə!
+Sonra getdim Tapdıq kişigilin qapısına. Mən çatan kimi içəridən səs gəldi: "Arvad, heybəni aç, uşaqlara şirindən-zaddan ver". Dedim bu da yaxşıdır. Şirinlik yeyəcəyik, ay Şahnaz! Özü də lap tezliklə!
 
 – O, Şahnaza göz vurdu. - Daha nə istəyirsən? Görürsən ki, xeyir xəbərlə gəlmişəm. Görək Gövhər nənənə bir xələtlik alasan. Hə, indi siz oturun, mən də xörək hazırlayım. Sonra da iynəlik salarıq. Bu gecə hamınızın bəxtini sınayacam!
 
@@ -90,7 +90,7 @@ Qarı çıxandan sonra qızlardan biri güldü.
 
 – Ay Şahnaz, sən də onun dediklərinə inanırsan?
 
-– Niyə inanmıram? Dediyinın çoxu düz çıxır.
+– Niyə inanmıram? Dediyinin çoxu düz çıxır.
 
 – Ay qız, bəsdir, sən allah, ətimizi tökmə, getdikcə lap ağlın azır.
 
@@ -118,7 +118,7 @@ Qızlar oğrun-oğrun Şahnaza, qarıya baxıb şaqqıldadılar. Qarı qızları
 
 Göydə ulduz ləng gedər,
 
-Gah əylənər, gah gcdər.
+Gah əylənər, gah gedər.
 
 Qorxma, ürəksiz oğlan,
 
@@ -194,10 +194,10 @@ Bax, ay qız, bu sağ əlimdəki iynə sənsən, o biri də ürəyindəki kimdir
 
 – Uzaqda nə işi var, yan-yörədə hərlənən aqranomdan-zaddan biri olar. Sən iynəni suya sal, görək.
 
-Qarı iynələri suya saldı. Qızlar bir-birini dümsükləyib pıçıldaşdılar. İynələr suya düşən kimi fırlanıb hərəsi bir tərəfə getdi. Sonra bir-birini qovurmuş kimi, qabın içində fırlandı. Qızlar yenə pıçıldaşdılar: "Şahnıaz dayandı, daha getmir". "Yox, gözləyir, bu saat oğlanın dalınca cumacaq". "Bax, bax, qaçdı, gör necə də gedir". "Hı, gözünə dönüm, qoyma. Aha, az qalıb. Yox, yenə aralandılar. İndi də qız qaçır".
+Qarı iynələri suya saldı. Qızlar bir-birini dümsükləyib pıçıldaşdılar. İynələr suya düşən kimi fırlanıb hərəsi bir tərəfə getdi. Sonra bir-birini qovurmuş kimi, qabın içində fırlandı. Qızlar yenə pıçıldaşdılar: "Şahnaz dayandı, daha getmir". "Yox, gözləyir, bu saat oğlanın dalınca cumacaq". "Bax, bax, qaçdı, gör necə də gedir". "Hı, gözünə dönüm, qoyma. Aha, az qalıb. Yox, yenə aralandılar. İndi də qız qaçır".
 
 Beləliklə, "oğlanla qız" bir-birini xeyli qovdu. Gövhər qarı gizlincə Şahnaza baxdı. Qızın rəngi kağız kimi ağarmışdı. Elə bil, bütün həyatı bir qab suyun içində hərlənən bu pambıqlı iynələrdən asılı idi. Gövhər qarı gözlərini qaba zilləyib aşağı əyildi, nəfəsini suya verdi. Suyun üzü xəfifcə titrədi. İynələr tərpənib yavaş-yavaş bir-birinə yaxınlaşdı. Qarı nəfəsini dərdi. Şahnazın rəngi özünə gəldi. Qızlar bir-birinə göz vurub gülüşdülər.
 
-– Bax, bu fala söz olmaz. Daha işin düzəldi, ay Şahnaz. Gərək Gövhər qarıya xələt verson.
+– Bax, bu fala söz olmaz. Daha işin düzəldi, ay Şahnaz. Gərək Gövhər qarıya xələt versin.
 
 Şahnaz gülümsündü.

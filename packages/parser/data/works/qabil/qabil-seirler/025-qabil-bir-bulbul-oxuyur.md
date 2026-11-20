@@ -27,7 +27,7 @@ Bəlkə cənnət olub haçansa cənnət.
 Burda yaşıllıqdan yox bir əlamət.
 
 Fəqət, bu daş aləm, bu sakit aləm
-Bülbül cəhcəhindən diskinir qəfil.
+Bülbül cəhcəhindən diksinir qəfil.
 Əcaib-qəraib qayalar bu dəm
 Kövrəlir, titrəyir əsir elə bil.
 

@@ -60,9 +60,9 @@ Dal cərgədə də söhbət gedirdi.
 
 Kazım müəllimləri qapının ağzında saxlamışdı.
 
-– Ay rəhmətlik uşağı, gedin işinizdə-gücünüzdə olun. Müəlliməsiniz, müəllimliyinizi eləyin, kolxoz iclasınıda nə işiniz var? Görmürsünüz özümüzə yer çatmır?
+– Ay rəhmətlik uşağı, gedin işinizdə-gücünüzdə olun. Müəlliməsiniz, müəllimliyinizi eləyin, kolxoz iclasında nə işiniz var? Görmürsünüz özümüzə yer çatmır?
 
-Zeynəb də burada idi, Nərgiz müəllmənin yanında dayanmışdı. Bir azdan Nəsib dayı gəldi. O, klubun qabağında dayanıb, qapı ağzını kəsdirən Kazıma baxdı:
+Zeynəb də burada idi, Nərgiz müəllimənin yanında dayanmışdı. Bir azdan Nəsib dayı gəldi. O, klubun qabağında dayanıb, qapı ağzını kəsdirən Kazıma baxdı:
 
 – Camaat niyə buraxmırsan?
 
@@ -88,7 +88,7 @@ Amma indi adımızı batıranlar, kəndə çaxnaşma salanlar var. Kolxozumuzu g
 
 – Əlbəttə yox, - deyə yerlərdən dilləndilər.
 
-– Əkin zamanı işi pozmaq istəyənlər oldu, qoymadım. Səpində də çaxnaşma saldılar. Yenə dinc dayanmırlar. İçərimizdə texnikanın əleyhinə olanlar var. Belə getsə, işlərinüz tökülüb qalacaq.
+– Əkin zamanı işi pozmaq istəyənlər oldu, qoymadım. Səpində də çaxnaşma saldılar. Yenə dinc dayanmırlar. İçərimizdə texnikanın əleyhinə olanlar var. Belə getsə, işləriniz tökülüb qalacaq.
 
 – Kimdir onlar?
 
@@ -152,9 +152,9 @@ Nəsib dayı əlindəki qələmi su qabına döydü. Hamının sakitləşdiyini 
 
 Mən belə sözü birinci dəfə eşidirəm.
 
-– Bu saat, dərdin alım, - o, əlini irəli uzadıb bir-bir barmaqlarını qatlamağa başladı. - Bax, kombayn taxılı göydə biçir, göydə döyür, göydə sovurur, göydə də kisələrə doldurub anbara göndərir. Belədırmi? Ay sağ ol. Amma bilmirəm nədənsə taxıl anbarda torpağa dönür, yarıdan çoxu torpaq olur. Mən başa düşən, taxılı torpağa döndərən kombayndır. Kombayndan başqa taxıla kim torpaq qata bilər? Amma mən bircə şeyi başa düşə bilmirəm, kombayn bu torpağı hardan alır?
+– Bu saat, dərdin alım, - o, əlini irəli uzadıb bir-bir barmaqlarını qatlamağa başladı. - Bax, kombayn taxılı göydə biçir, göydə döyür, göydə sovurur, göydə də kisələrə doldurub anbara göndərir. Belədirmi? Ay sağ ol. Amma bilmirəm nədənsə taxıl anbarda torpağa dönür, yarıdan çoxu torpaq olur. Mən başa düşən, taxılı torpağa döndərən kombayndır. Kombayndan başqa taxıla kim torpaq qata bilər? Amma mən bircə şeyi başa düşə bilmirəm, kombayn bu torpağı hardan alır?
 
-Taxılı göydə biçir, göydə döyüb sovuıur, taxıl yer üzü görmür, ancaq torpağa dönür. Demək, kombayn pis maşıdır.
+Taxılı göydə biçir, göydə döyüb sovurur, taxıl yer üzü görmür, ancaq torpağa dönür. Demək, kombayn pis maşıdır.
 
 O susdu. Camaat da dinmədi. Lakin birdən-birə klubu gülüş səsləri bürüdü. Kim isə yerindən dilləndi.
 
@@ -186,7 +186,7 @@ Kosaoğlu hirslə ayağa durdu. Üzünü Nəsib dayıya tutdu:
 
 Yenə yerlərdən qışqırmağa başladılar: "Yalan danışır". "Ona söz verməyin". "Niyə bağırırsınız? Qoyunkişi sözünü qurtarsın". Nəsib dayı camaatı güclə sakitləşdirdi;
 
-– Yaldaşlar, çox xahiş edirəm, iclasın qayda-qanununu pozmayasınız. Məni sədr seçibsiniz, sözümə də qulaq asın. Hamıya deyirəm, sözüm rəyasət heyətində oturanlara da aiddir. Kim bizə mane olsa, xahiş edəcəyəm çıxıb getsin. Buyur, Kərim dayı.
+– Yoldaşlar, çox xahiş edirəm, iclasın qayda-qanununu pozmayasınız. Məni sədr seçibsiniz, sözümə də qulaq asın. Hamıya deyirəm, sözüm rəyasət heyətində oturanlara da aiddir. Kim bizə mane olsa, xahiş edəcəyəm çıxıb getsin. Buyur, Kərim dayı.
 
 Kosaoğlu donquldandı:
 
@@ -196,7 +196,7 @@ Kosaoğlu donquldandı:
 
 Kərim kişi həyəcanlanmışdı. Fikrini toplayıb sözünü deməkdə çətinlik çəkirdi.
 
-– Görürəm mənim danışığımı xoşlamayanlar var. Eybi yoxdur, qoy olsun. Ancaq mənim dediyim odur ki, kolxozda bir qayda-qanun yaradılsın. Təftiş komissiyası işə düşsün, hamıya bir gözlə baxsınlar. Birini doğmaa, o birini ögey hesab eləməsinlər. Heç kəs bizə ağalıq satmasın. Nəsib dayı qocanın susduğunu görüb dilləndi:
+– Görürəm mənim danışığımı xoşlamayanlar var. Eybi yoxdur, qoy olsun. Ancaq mənim dediyim odur ki, kolxozda bir qayda-qanun yaradılsın. Təftiş komissiyası işə düşsün, hamıya bir gözlə baxsınlar. Birini doğma, o birini ögey hesab eləməsinlər. Heç kəs bizə ağalıq satmasın. Nəsib dayı qocanın susduğunu görüb dilləndi:
 
 – Bəs yeni üsulla becərmədən ağlın nə kəsir?
 
@@ -224,7 +224,7 @@ Kazımın xırıltılı səsi klubu ağzına götürdü. Kosaoğlunun yanında o
 
 – Minumum əməkgünü olmayanları kolxozdan qovmaq qanunidir.
 
-– EIə mən də bunu demək istəyirəm, yoldaş prokuror, Kərim kişi kimilərini kənddən qovmaq lazımdır. Mənim təklifim var: onu nəyinki külxozdan, lap kənddən çıxartmaq lazımdır.
+– EIə mən də bunu demək istəyirəm, yoldaş prokuror, Kərim kişi kimilərini kənddən qovmaq lazımdır. Mənim təklifim var: onu nəyinki kolxozdan, lap kənddən çıxartmaq lazımdır.
 
 Yerlərdən səs-küy qalxdı:
 
@@ -244,7 +244,7 @@ Zala yenə uğultu düşdü. Nəsib dayı bir neçə dəfə ayağa durmağa məc
 
 – Kim danışmaq istəyir?
 
-– Daha nə danışmaq, hər şey aydindır. Təklifləri səsə qoy, - deyə Kosaoğlu yerindən dilləndi.
+– Daha nə danışmaq, hər şey aydındır. Təklifləri səsə qoy, - deyə Kosaoğlu yerindən dilləndi.
 
 Nəsib dayı sakitcə ona cavab verdi:
 
@@ -268,7 +268,7 @@ Yenə səs-küy qalxdı.
 
 Nərgiz müəllimə diqqətlə Zeynəbə qulaq asırdı. Onun qorxmazlığı, kişi kimi sinəsini gərib danışması müəlliməni valeh etmişdi. O hətta ürəyində Zeynəbə qibtə edirdi: "Kaş ondakı cəsarətin yarısı məndə olaydı. Gör necə də camaatın üzünə şax baxır. Doğrudan da oddür".
 
-Nəsib dayının ürəyi dağa dönmüşdu. İmran isə sakit qıza baxırdı. Bayaqdan azacıq həyəcanlanan aqronom indi Zeynəbi görüb sakitləşmişdi. Camaat nəfəsini çəkib onun sözünə davam etməsini gözləyirdi.
+Nəsib dayının ürəyi dağa dönmüşdü. İmran isə sakit qıza baxırdı. Bayaqdan azacıq həyəcanlanan aqronom indi Zeynəbi görüb sakitləşmişdi. Camaat nəfəsini çəkib onun sözünə davam etməsini gözləyirdi.
 
 – Mən heç kəsin əvəzinə işləmək İstəmirəm. Qoy hər kəs gəlib normasını becərsin. Bizim kolxoz sədri dinəndə geroyluqdan danışır, elə fikri-zikri odur ki, bir təhər eləyib döşünə ulduz taxsın.
 
@@ -482,9 +482,9 @@ O, kəndə gələndə elə zənn etmişdi ki, rəyasət heyətində görünən k
 
 Arxada, Kazımla yanaşı oturan Kosaoğlu da fikirli idi. O da özünü danlayır, işləri yaxşı qura bilmədiyinə heyfsilənirdi. "Mən bu dağı sinəmdə qoymaram. Onları bircə-bircə dənləmək mənim boynuma. Sən bir o Nəsibə bax, xəlvəti iş görür, ayağımın altını eşir, başına adam toplayır. Gör nə günə qalmışam ki, lüt Kərim də mənim üstümə ayaq alır! Yox, Kosaoğlu, bu işi belə qoymaq olmaz. - O, şoferin yanında dinməz-söyləməz oturan prokurora baxdı. - Bu niyə mısmırığını sallayıb? Özünü də elə çəkir, deyəsən qırx eşşəyi sağına gəlir. Evə də getmir. Eh, neyləyim, əlacım yoxdur. Yoxsa heç sənin üzünə də tüpürmərəm".
 
-Əsədov bu rayona təyin ediləndən sonra Kosaoğlunu ələ keçirmək üçün xeyli fikiriəşmişdi. "Yağlı sədrə oxşayır. Onu bir təhər cəngimə sala bilsəm, yeməyimiz-içməyimiz pis olmaz" - deyə düşünmüş və istədiyinə nail olmuşdu.
+Əsədov bu rayona təyin ediləndən sonra Kosaoğlunu ələ keçirmək üçün xeyli fikirləşmişdi. "Yağlı sədrə oxşayır. Onu bir təhər cəngimə sala bilsəm, yeməyimiz-içməyimiz pis olmaz" - deyə düşünmüş və istədiyinə nail olmuşdu.
 
-Bir dəfə onlar qonaqlıqda yanaşı oturmuşdular. Kosaoğlu kirvə olduğu bu evdə heç kesi saymır, tez-tez sağlıq deyir, əlindəki bədəni yuxarı qaldırıb məclisdəkilərə meydan oxuyurdu.
+Bir dəfə onlar qonaqlıqda yanaşı oturmuşdular. Kosaoğlu kirvə olduğu bu evdə heç kəsi saymır, tez-tez sağlıq deyir, əlindəki bədəni yuxarı qaldırıb məclisdəkilərə meydan oxuyurdu.
 
 Əsədov gözaltı onu süzürdü.
 
@@ -518,7 +518,7 @@ Kosaoğlu itaət etdi. Pn)kuror papiros yandırdı.
 
 – Sonra bilərsən.
 
-Kosaoğlu astaca köynəyinin düyməlarini açdı. Əsodov onun bar-raaqlarmı titrədiyini gördü.
+Kosaoğlu astaca köynəyinin düymələrini açdı. Əsodov onun bar-raaqlarmı titrədiyini gördü.
 
 – Tuapsedə yaralanınışam.
 
@@ -602,7 +602,7 @@ Bu söhbət Kazımın yadına yenə Zeynəbi saldı. Birdən onun beynində qər
 
 – Nə təhər?
 
-– Bunun təhəri yoxdur ki. Gecənin birində kəs qabağını, əlini-ayağını sarı, apar evə. Ondan sonra ha çığırsın, barayına kim çatacaq?
+– Bunun təhəri yoxdur ki. Gecənin birində kəs qabağını, əlini-ayağını sarı, apar evə. Ondan sonra ha çığırsın, harayına kim çatacaq?
 
 "Ağıllı sözdür, - deyə Kazım düşündü, - aparacam evə. Üç-dörd gün saxlayacam. Sonra da dalına bir təpik vurub qovacam. Qoy biabır olsun. Ondan sonra onun üzünə heç tüpürən də olmayacaq. Heç İmran özü də ona yaxın durmayacaq".
 

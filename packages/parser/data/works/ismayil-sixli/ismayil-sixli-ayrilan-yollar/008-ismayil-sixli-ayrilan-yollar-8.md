@@ -20,7 +20,7 @@ status: DRAFT
 
 Şahnaz açıq qollarını ata-ata yeriyib, boynunu yana əyərək, gözünü İmrana zilləyib qımışırdı.
 
-– Nə yaxşt gəldin, mən dedim gəlməzsən.
+– Nə yaxşı gəldin, mən dedim gəlməzsən.
 
 – Niyə? - İmran təəccüblə onun üzünə baxdı.
 
@@ -42,7 +42,7 @@ Onlar eyvana çatdılar. Ətli-canlı Sayalı irəli yeriyib ərklə İmranın b
 
 Neçə vaxtdır kənddəsən, bəs bizə niyə gəlmirdin? Yoxsa qorxursan gözümüz dəyə, hə? Ay qırışmal, adam bir az böyüyəndə uzaq gəzər?
 
-Yad da deyilik. Ürəyin nə vaxt istəyir, gəl də, get də. Elə gərək dilimizlə çağıraq? Qurban qağan da axşamlar evdə tək olur. Gəlin oturun, çaydan-zaddan için. Bilirəm, şəhər adamısan, darıxırsan. Radiomuz da var. Nə vaxt ürəyın istəsə gəl qur, qulaq as. Keç içəri. Elə Qurban qağan da içəridədir, oturub səni gözləyir. Ay qız, Şahnaz, gəl İmranın paltosunu tut. Şahnaz qımışa-qımışa İmranın paltosunu aldı. Sayalı qızı yenicə görürmüş kimi başdan-ayağa süzdü.
+Yad da deyilik. Ürəyin nə vaxt istəyir, gəl də, get də. Elə gərək dilimizlə çağıraq? Qurban qağan da axşamlar evdə tək olur. Gəlin oturun, çaydan-zaddan için. Bilirəm, şəhər adamısan, darıxırsan. Radiomuz da var. Nə vaxt ürəyin istəsə gəl qur, qulaq as. Keç içəri. Elə Qurban qağan da içəridədir, oturub səni gözləyir. Ay qız, Şahnaz, gəl İmranın paltosunu tut. Şahnaz qımışa-qımışa İmranın paltosunu aldı. Sayalı qızı yenicə görürmüş kimi başdan-ayağa süzdü.
 
 – Ay dəli, əyninə paltar geysənə, bu soyuqda baldır-başı açıq niyə gəzirsən? Üşümürsənmi?
 
@@ -62,9 +62,9 @@ Kosaoğlu qapıya doğru qanrıldı və radionu söndürüb ağır-ağır ayağa
 
 Kosaoğlu bir az duruxdu. Yerə döşənmiş gəbələrə, stolun ətrafına düzülmüş stullara baxdı.
 
-– Yaxşı, qoy sən deyən olsun. Stulda oturaq. Görürəm şəhərli olub gedibsən. Yəqin bardaş qurmağı da yadından çıxardıbsan. Onlar stul çəkib qabaq-qabağa əyləşdilər. Kosaoğlu yavaşca papiros eşməyə, İmran otağı nəzərdən keçirməyə başladı. Divarlara vurulmuş xalçaların üstündən cürbəcür şəkillər və işləməli tikişlər asılmışdı. Balıq bədənli qızlar, uzunboğaz hacıleyləklər, topla oynayan pişiklər... Görünür, Şahnaz öz zövqünə görə tikdiyi tikişləri və şəkilləri bir-birinə yaraşdıraraq divardan asanda da heç kimlə məsləhətləşməmişdi. Bir az aşağıda çoxlu foto-şəkil vardı. İmran müxtəlif şəkillər içərisindən əllərini çarpazlayaraq sinəsinə dayamış Şahnazın ona baxdığinı gördü. Qızıl dişinin parıltısı da nəzərə çarpırdı. Ondan sağda Kosaoğlunun, Sayalının, uşaqların və İmranın tanıya bilmədiyi başqa adamların şəkilləri vurulmuşdu. Evin içi başdan-başa gəbə ilə döşənmişdi. Aşağı küncdə güzgülü paltar şkafı, onun yanında müxtəlif şüşə qablarla dolu bufet qoyulmuşdu. Pəncərə tərəfdə batareya ilə işləyən "Rodina" radioqəbuledicisi yerləşdirilmişdi.
+– Yaxşı, qoy sən deyən olsun. Stulda oturaq. Görürəm şəhərli olub gedibsən. Yəqin bardaş qurmağı da yadından çıxardıbsan. Onlar stul çəkib qabaq-qabağa əyləşdilər. Kosaoğlu yavaşca papiros eşməyə, İmran otağı nəzərdən keçirməyə başladı. Divarlara vurulmuş xalçaların üstündən cürbəcür şəkillər və işləməli tikişlər asılmışdı. Balıq bədənli qızlar, uzunboğaz hacıleyləklər, topla oynayan pişiklər... Görünür, Şahnaz öz zövqünə görə tikdiyi tikişləri və şəkilləri bir-birinə yaraşdıraraq divardan asanda da heç kimlə məsləhətləşməmişdi. Bir az aşağıda çoxlu foto-şəkil vardı. İmran müxtəlif şəkillər içərisindən əllərini çarpazlayaraq sinəsinə dayamış Şahnazın ona baxdığını gördü. Qızıl dişinin parıltısı da nəzərə çarpırdı. Ondan sağda Kosaoğlunun, Sayalının, uşaqların və İmranın tanıya bilmədiyi başqa adamların şəkilləri vurulmuşdu. Evin içi başdan-başa gəbə ilə döşənmişdi. Aşağı küncdə güzgülü paltar şkafı, onun yanında müxtəlif şüşə qablarla dolu bufet qoyulmuşdu. Pəncərə tərəfdə batareya ilə işləyən "Rodina" radioqəbuledicisi yerləşdirilmişdi.
 
-Kosaoğlu gözaltı İmranı süzüb gülümsündü. Sanki öz cah-cəlalı ilə onu heyran etdiyinden həzz alırdı.
+Kosaoğlu gözaltı İmranı süzüb gülümsündü. Sanki öz cah-cəlalı ilə onu heyran etdiyindən həzz alırdı.
 
 Qapı açıldı. Şahnaz stolun ətrafında dolanıb bufetə doğru gəldi. Otağı ətir bürüdü. O indi dikdaban qara lak ayaqqabı, nazik corab və son dəbdə tikilmiş şifon don geyinmişdi. Elə bil onun beli bayaqkından xeyli nazilmişdi, gözəlləşmişdi. Bu nazik paltarda qızın titrəyən bədəni, ağ, ətli qolları daha qəşəng görünürdü. Bacısı qızını gözdən keçirən Kosaoğlu özünü saxlaya bilmədi:
 
@@ -80,7 +80,7 @@ Ortalığa yenə sükut çökdü. İmran nə üçün çağırıldığını düş
 
 – Bu saat hər şey hazır olacaq, - o, albomu İmranın qabağına qoydu. - Al bax, darıxma. Bilirəm şəhər adamları belə şeyləri çox xoşlayırlar.
 
-O, "şəhər adamları" sözünü xüsusi əda ilə dedi. Lakin İmran heç nəyə əhəmiyyət vermədi. Albomu vərəqləməyə, oradakı şəkillərə baxıb xatirələri oxumağa başladı: "Ömür bir sudur daim axar, saxla bu şəklim qalsın yadigar". "Əziz bacı, müvəqqəti həyatımın əbədi yadigarı bu əksimi sənə verirəm". "Baxıb xatırlama, xatırlayıb bax". "Küsgün bacından". "Talesiz qızlardan"... İmran bunları oxuduqca başını bulayır, süni ah-uflarla dolu olan bu qeydləri yazanlara acıyırdi. Şahnaz otaqda hey fırlanır, arabir də İmranın çiyni üstündən əyilib şəkilləri göstərirdi. "Bu mənim bacılığımdır, bir yerdə oxumuşuq, bu da onun padruqasıdır. O xalası qızıdır. O biri do onun nişanlısıdır". Şahnaz aşağı əyildikdə İmran onun ilıq nəfəsini üzündə hiss edirdi. Bu yaxınlıq və təmasdan özünü itirən kimi olurdu. Şahnaz dayısından belə çəkinmədən oğlana daha çox yaxınlaşırdı. Hətta bir-iki dəfə təsadüfənmi, yoxsa qəsdənmi, Şahnazın döşləri İmranın çiyninə toxundu. İmran çiynini çəkmək istədikdə, Şahnaz aşağı əyilib şəkli götürdü və sinəsini ona daha da sıxdı. İmran qızın ürək doyüntülərini kurəyində hiss etdi.
+O, "şəhər adamları" sözünü xüsusi əda ilə dedi. Lakin İmran heç nəyə əhəmiyyət vermədi. Albomu vərəqləməyə, oradakı şəkillərə baxıb xatirələri oxumağa başladı: "Ömür bir sudur daim axar, saxla bu şəklim qalsın yadigar". "Əziz bacı, müvəqqəti həyatımın əbədi yadigarı bu əksimi sənə verirəm". "Baxıb xatırlama, xatırlayıb bax". "Küsgün bacından". "Talesiz qızlardan"... İmran bunları oxuduqca başını bulayır, süni ah-uflarla dolu olan bu qeydləri yazanlara acıyırdi. Şahnaz otaqda hey fırlanır, arabir də İmranın çiyni üstündən əyilib şəkilləri göstərirdi. "Bu mənim bacılığımdır, bir yerdə oxumuşuq, bu da onun padruqasıdır. O xalası qızıdır. O biri do onun nişanlısıdır". Şahnaz aşağı əyildikdə İmran onun ilıq nəfəsini üzündə hiss edirdi. Bu yaxınlıq və təmasdan özünü itirən kimi olurdu. Şahnaz dayısından belə çəkinmədən oğlana daha çox yaxınlaşırdı. Hətta bir-iki dəfə təsadüfənmi, yoxsa qəsdənmi, Şahnazın döşləri İmranın çiyninə toxundu. İmran çiynini çəkmək istədikdə, Şahnaz aşağı əyilib şəkli götürdü və sinəsini ona daha da sıxdı. İmran qızın ürək doyüntülərini kürəyində hiss etdi.
 
 Onların bu cür baş-başa verdiklərini görən Kosaoğlu sakitcə stuldan qalxdı, gəbənin üstünə uzanıb mütəkkəyə dirsəkləndi.
 
@@ -90,7 +90,7 @@ Onların bu cür baş-başa verdiklərini görən Kosaoğlu sakitcə stuldan qal
 
 – Qonaq niyə olur, öz uşağımızdır.
 
-Şahnaz İmrana daha da yaxınlaşdı. Qızın yanağına düşmüş qıvrım tel İmranın üzünə toxundu. İmran bədəninin qıdıqlandığını və qulağının dibində həyncanlı nəfəs alan Şahnazın azacıq titrədiyini duydu. Bu qızın gözlərində həm açıq bir həyasızlıq, həm ehtiras, həm məğrurluq, həm də özünə inam vardı. İmran diksinərək stulu geri çəkdi və albomu örtdü. Şahnaz qaşlarını dartıb nəm dodaqlarını büzdü. İmran onun gözlərində ani bir qığılcım parıldadığını gördü. Şahnaz dikəldi. İmranı tora düşən bir balıq zənn edib şaqqıltı ilə güldü və ondan aralandı, bir goz qırpımında otaqdan çıxdı. İmranın pərt olduğunu görən Kosaoğlu dilləndi:
+Şahnaz İmrana daha da yaxınlaşdı. Qızın yanağına düşmüş qıvrım tel İmranın üzünə toxundu. İmran bədəninin qıdıqlandığını və qulağının dibində həyəcanlı nəfəs alan Şahnazın azacıq titrədiyini duydu. Bu qızın gözlərində həm açıq bir həyasızlıq, həm ehtiras, həm məğrurluq, həm də özünə inam vardı. İmran diksinərək stulu geri çəkdi və albomu örtdü. Şahnaz qaşlarını dartıb nəm dodaqlarını büzdü. İmran onun gözlərində ani bir qığılcım parıldadığını gördü. Şahnaz dikəldi. İmranı tora düşən bir balıq zənn edib şaqqıltı ilə güldü və ondan aralandı, bir goz qırpımında otaqdan çıxdı. İmranın pərt olduğunu görən Kosaoğlu dilləndi:
 
 – A bala, nərd oynamaq bilirsənmi?
 
@@ -124,7 +124,7 @@ Rəhmətliyin oğlu, qız neyliyir sənin işini? Görür yaxşı oğlansan, dem
 
 Kosaoğlu azacıq fikrə getdi.
 
-– Düz deyirsən, bala, əvvəla, gərək ev-eşiyi sahmana salasan. Atan çoxdan rəhmətə gedib. Anan da ki, neyləsin, qoca arvaddır. Səni ancaq oxutdu. Amma ükir eləmə. Özün bilirsən ki, hökumətimiz qərar çıxarıb ki, ağranomlara kənddə ev-eşik tikilsin. İndi sən də bizim ağranomumuzsan. Gərək hökumətin qərarıni yerinə yetirək. Bir də, sən özgə deyilsən ki, öz uşağımızsan...
+– Düz deyirsən, bala, əvvəla, gərək ev-eşiyi sahmana salasan. Atan çoxdan rəhmətə gedib. Anan da ki, neyləsin, qoca arvaddır. Səni ancaq oxutdu. Amma ükir eləmə. Özün bilirsən ki, hökumətimiz qərar çıxarıb ki, ağranomlara kənddə ev-eşik tikilsin. İndi sən də bizim ağranomumuzsan. Gərək hökumətin qərarını yerinə yetirək. Bir də, sən özgə deyilsən ki, öz uşağımızsan...
 
 – Çox sağ olun, mənə ev lazım deyil.
 
@@ -132,7 +132,7 @@ Kosaoğlu azacıq fikrə getdi.
 
 – İnəyimiz var. Evimiz də ki, pis deyil, hələlik dolanarıq. Sonrasına baxarıq.
 
-– Bunun sonrası yoxdur ki... Yoxsa kandimizi bəyənmədin, ə? Bəlkə çıxıb getmək fikrindəsən, elə ona görə ev-eşiyə yapışmaq istəmirsən?
+– Bunun sonrası yoxdur ki... Yoxsa kəndimizi bəyənmədin, ə? Bəlkə çıxıb getmək fikrindəsən, elə ona görə ev-eşiyə yapışmaq istəmirsən?
 
 – Yox. Qurban ağa, mən heç yana gedən deyiləm. Gəlmişəm, burda da işləyəcəm. Amma kəndimiz doğrudan da xoşuma gəlmir.
 
@@ -146,7 +146,7 @@ Kosaoğlu azacıq fikrə getdi.
 
 – Bəs sən nə istəyirsən, oğul?
 
-– Çox şey!.. Deyin görüm... Bax, kolxoz plan daldurur, mükafat alır, camaat gecə-gündüz əlləşir, nədən ötrü? Hökumətimiz kənd haqqında bu qədər qərar çıxardır, maşınlar buraxır, kənd təsərrüfatını mexanikləşdirir. Bunların hamısı kimdən və nədən ötrüdür?
+– Çox şey!.. Deyin görüm... Bax, kolxoz plan doldurur, mükafat alır, camaat gecə-gündüz əlləşir, nədən ötrü? Hökumətimiz kənd haqqında bu qədər qərar çıxardır, maşınlar buraxır, kənd təsərrüfatını mexanikləşdirir. Bunların hamısı kimdən və nədən ötrüdür?
 
 Sual, əlbəttə, çox adi sual idi. Kosaoğlu qarnı qalxa-qalxa güldü.
 
@@ -156,23 +156,23 @@ Sual, əlbəttə, çox adi sual idi. Kosaoğlu qarnı qalxa-qalxa güldü.
 
 – Bəs nə?
 
-– Yox, Qurban qağa, elə dörd burasındadır ki, biz nədən ötrü işlə-diyimizi yaxşı bilmirik. Belə getsə, kommunizmə kcçə bilmərik.
+– Yox, Qurban qağa, elə dörd burasındadır ki, biz nədən ötrü işlə-diyimizi yaxşı bilmirik. Belə getsə, kommunizmə keçə bilmərik.
 
 – Ele keçəcəyik ki!.. Lap oğul balası kimi. Özü ds hamıdan qabaq mənim kolxozum keçəcək. Kommunizmi əvvəlcə mən quracam.
 
 İmran özünü gülməkdən saxlaya bilmədi.
 
-– Necə keçəcəkson?
+– Necə keçəcəksən?
 
 – Lap hava kimi. - O ciddi bir kəşf etmiş kimi İmrana doğru əyildi.
 
-– Kommunizmə keçmeym birinci şərti odur ki, kolxozçu gərək qapı-bacadan, mal-qaradan əl çəksin. Elodirmi?
+– Kommunizmə keçmeym birinci şərti odur ki, kolxozçu gərək qapı-bacadan, mal-qaradan əl çəksin. Elədirmi?
 
 İmran dinmədi. Kosaoğlu əlini döşünə vurdu:
 
 – Bax, əgər mən istəsəm, elə günü sabahdan hamı mal-qaranı gətirib kolxoza verər. Xüsusi mülkiyyətdən əl çəkər.
 
-İmran maraqlandi:
+İmran maraqlandı:
 
 – Nə təhər elərsən?
 
@@ -188,7 +188,7 @@ Sual, əlbəttə, çox adi sual idi. Kosaoğlu qarnı qalxa-qalxa güldü.
 
 Əvvəlcə İmrana elə gəldi ki, Kosaoğlu zarafat eləyir. Lakin sədrin qürurla, İmranı yuxarıdan-aşağıya kinayə ilə süzməsi göstərdi ki, o heç də zarafat eləmir; bu onun qənaəddir və imkan tapsa, elə sabahdan işə başlayar. İmran Kosaoğlunun az savadlı və kobud olduğunu bilirdi, ancaq belə kütlüyünü ağlına gətirmirdi. O bir daha Kosaoğluna baxdı. Sədr gözünü aqronoma zilləyib gülümsünür, sanki "hə, görürsənmi, dünyada nə ağıllı adamlar var!" demək istəyirdi. Birdən İmranı gülmək tutdu. Kosaoğlu da ona qoşuldu. Bayaqdan onlara qulaq asan Şahnaz da özünü gülməkdən saxlaya bilmədi. Süfrəni yığışdırmağa gələn Sayalı təəccüblə dayandı:
 
-Ə, nə olub, otağı başıniza götürübsünüz?
+Ə, nə olub, otağı başınıza götürübsünüz?
 
 – Heç, - deyib Kosaoğlu üzünü İmrana tutdu. Gördün ki, oğul, işi necə görürlər! Sən Kosaoğlunun kəndçi olmasına baxma, çox oxumuşları yorub yolda qoyar. Kitab oxumaq azdır. Gərək bir az özündə də olsun.
 
@@ -202,7 +202,7 @@ Bayaqdan İmranın onunla razılaşdığını zənn edən Kosaoğlu, birə sancm
 
 İmran sözünə sakitcə davam etdi:
 
-– Siz kolxozçuların vəziyyətini yaxşılaşdirmaq əvəzinə, zorakılıq etmək istəyirsiniz. Bu nə nizamnaməyə sığar, nə də qayda-qanuna.
+– Siz kolxozçuların vəziyyətini yaxşılaşdırmaq əvəzinə, zorakılıq etmək istəyirsiniz. Bu nə nizamnaməyə sığar, nə də qayda-qanuna.
 
 – Demək, mən nizamnaməni bilmirəm, bala? Kosaoğlu saç-saqqalını kolxoz işində ağardıb, indi nə oldu ki, məktəbdən dünən gələn bir uşaq ondan çox bildi? Bugünkü sərçə dünənkinə cip-cip öyrədəcək!
 
@@ -314,7 +314,7 @@ Ağıllı ol, bala, əl-ələ verin, işləyin,
 
 Orda-burda ağzına gələni danışma. Nə qədər ki, burda kolxoz sədri mənəm, mən deyən də olacaq. Eşitdinmi? Səni çağırmaqda da məqsədim odur, deyəm ki, başıni aşağı sal, işində ol. Ağranomsan, ağranomluğunu elə. Daha o yan-bu yana əl atıb, ona-buna qoşulma, sonar peşman olarsan. Gözünü sil, mənə düz bax, mənə Kosaoğlu Qurban deyərlər! Kosaoğlu artıq hədəyə keçmişdi. Qəribə bir vəziyyət əmələ gəlmişdi. Nə qonaq qonağa bənzəyirdi, nə də ev sahibi qonaq sevənə.
 
-İmranın pərt olduğunu gönən Şahnaz sözə qarışdı:
+İmranın pərt olduğunu görən Şahnaz sözə qarışdı:
 
 – Ay dayı, sən Allah, qoy görək, evdə də iclas açmasan olmur? İmran, sən ona fikir vermə. Dayımın xasiyyətidir. İdarədə o qədər dava salır ki, evdə də dinc dura bilmir.
 

@@ -37,7 +37,7 @@ Kitabın əvvəlinci hissəsi
 
 8. Təbriz bazarında satılan çörəyin bir hissəsi un və üç hissəsi torpaqdır. Bu hesabla Azərbaycan vilayətinin çölləri və dağları neçə ilin müddətində fövt ola bilər?
 
-9. Ayda Qafqazda bir milyon müsəlman və erməni bizə ömrünü bağışlayır. Bu hesabla beş ildən sonra Qafqazda neçə müsləman və erməni qalar?
+9. Ayda Qafqazda bir milyon müsəlman və erməni bizə ömrünü bağışlayır. Bu hesabla beş ildən sonra Qafqazda neçə müsəlman və erməni qalar?
 
 10. Əkinçi əkdiyi buğdanın otuzdan on hissəsini verir mülkədara, on hissəsini verir molla və dərvişə (yuxu təbiri, qızdırma duası və qeyri zəhmətlərin əvəzində), on hissəsini də qlava və pristava rüşvət və divan xərci. Əkinçinin özünə nə qədər buğda qaldı?
 

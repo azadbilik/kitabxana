@@ -78,7 +78,7 @@ Mələk artıq birinci səddi aşdığını duydu, əvvəlki qorxaqlığı bir a
 
 – Tez ol.
 
-Mələk ayağını sürüyə-sürüyə alaçıqdan çıxdı. Cahandar ağanı birdən-birə titrətmə götürdü. Kişi nə qədər çallışdısa da, əllərinin, çənəsinin əsməsini dayandıra bilmədi. Sanki onu şaxtalı, boranlı qış günündə buzlu suya saldılar. Bir neçə saniyə nəfəsini çəkə bilmədi. Alnından qalxan sızıltı beynini dolanıb boynunun dalına keçdi. Onun qaramtıl çöhrəsi avazıdı, sonra boğulub qaraldı.
+Mələk ayağını sürüyə-sürüyə alaçıqdan çıxdı. Cahandar ağanı birdən-birə titrətmə götürdü. Kişi nə qədər çalışdısa da, əllərinin, çənəsinin əsməsini dayandıra bilmədi. Sanki onu şaxtalı, boranlı qış günündə buzlu suya saldılar. Bir neçə saniyə nəfəsini çəkə bilmədi. Alnından qalxan sızıltı beynini dolanıb boynunun dalına keçdi. Onun qaramtıl çöhrəsi avazıdı, sonra boğulub qaraldı.
 
 Salatın səssizcə, kölgə kimi gəlib içəri keçdi. Atasının önündə dayandı. Kəlağayısını irəli çəkdi, başını köksünə endirib susdu. Kişi gözünü qızına zilləsə də, onun sifətini aydın seçə bilmədi. Ona elə gəldi ki günəş qaralıb, ətrafı zülmət bürüyüb.
 

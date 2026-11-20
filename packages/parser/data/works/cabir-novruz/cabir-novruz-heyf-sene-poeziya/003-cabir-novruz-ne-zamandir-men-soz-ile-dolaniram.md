@@ -14,7 +14,7 @@ status: DRAFT
 Şer acıyam…
 Hər şeyimi as yazıram…
 Ac olanda çox yazıram,
-Tox landa az yazıram.
+Tox olanda az yazıram.
 Misra ilə doyuyuram,
 Özümü mən,
 Boş süfrəmə doldururam

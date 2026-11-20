@@ -23,7 +23,7 @@ Dördüncü Kəlbalı xan partisidir. Parlaman əzası Maku atlılarından məxf
 
 * * *
 
-Bu ad verdiyimiz dörd partiləri altı il bundan əqdəm hətta Paris konfransı da təsdiq etmişdi və hərçənd zahiri müahidələri mocibincə bunlar Şimali Amerika Muttəfiq hökumətləri üsulu ilə təşkil tapıblar; amma batində hər biri öz əməliyyatında müstəqildir. İndiki İsmayıl ağa qovğasında bunlar hərəsi bir ayrı əsas ittixaz edib, ayrı bir cəngavərlik fənnini istemal edir. Məsələn, Quluxan müharibədə millilik tərəfdarıdır, onçün onun atlıları Xoy əhalisinin evlərinə doluşub can bir şişədə yaşayırlar və bir-birindən ayrı düşəndə nə bunun yeyib-içmək canına sınır, nə də onun.
+Bu ad verdiyimiz dörd partiləri altı il bundan əqdəm hətta Paris konfransı da təsdiq etmişdi və hərçənd zahiri müahidələri mocibincə bunlar Şimali Amerika Müttəfiq hökumətləri üsulu ilə təşkil tapıblar; amma batində hər biri öz əməliyyatında müstəqildir. İndiki İsmayıl ağa qovğasında bunlar hərəsi bir ayrı əsas ittixaz edib, ayrı bir cəngavərlik fənnini istemal edir. Məsələn, Quluxan müharibədə millilik tərəfdarıdır, onçün onun atlıları Xoy əhalisinin evlərinə doluşub can bir şişədə yaşayırlar və bir-birindən ayrı düşəndə nə bunun yeyib-içmək canına sınır, nə də onun.
 
 O ki, İlxanidir, onun cəng-azmudəliyi əzhər minəşşəmsdir. Məsələn, bunun sərbazları dava meydanında məşhur professor Müller sistemi ilə qışın şiddətli soyuğunda ayaqyalın və üryan, ancaq çiyinlərində ala carşov olarmış ki, kürdlər uzaqdan görüb qorxsunlar və qaçsınlar.
 

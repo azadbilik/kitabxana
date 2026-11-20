@@ -31,7 +31,7 @@ Molla Əbdüləli də gedir sabahısı günü bir nəfərə, Əlibəyə deyir ki
 
 Bunların hamısı millətimizin tərəqqisinə böyük dəlildir və bu tərəqqimizə də səbəb bir neçə vüquat olub:
 
-Əvvələn, rus-yapon davası hamı millətlərin gözünü açdı; sonra Rusiyada hürriyyət davası başlandı və bu davanın, əlbəttə, biz müsəlmanlara da az-çox təsiri oldu. Sonra da erməni-müsəlman ədavəti başlandı – dəxi burada müsəlmaların gözləri birdən açıldı. Şəhərlər və kəndlər doldu məktəb və qiraətxanalar ilə. Hər yerdə nəşri-maarif əmələ gəldi.
+Əvvələn, rus-yapon davası hamı millətlərin gözünü açdı; sonra Rusiyada hürriyyət davası başlandı və bu davanın, əlbəttə, biz müsəlmanlara da az-çox təsiri oldu. Sonra da erməni-müsəlman ədavəti başlandı – dəxi burada müsəlmanların gözləri birdən açıldı. Şəhərlər və kəndlər doldu məktəb və qiraətxanalar ilə. Hər yerdə nəşri-maarif əmələ gəldi.
 
 Xülasə, maşaalah, müsəlmanlar bir tərəfdən özlərinin çalışmaqlığı ilə, bir tərəfdən də xüdavəndi-aləmin lütfü sayəsində o qədər qabağa gəldilər ki, Ordubadda mərsiyəxanlar başladılar Allahın evində küçə föhşləri danışmağa; Şamaxıda Mir Mehdilər, həmçinin Gəncədə yuristlərimiz başladılar mərsiyəxanlara mürid olmağa və mərsiyəxanlar da müsəlmanların belinə palan qoyub minəndən sonra, öz dillərilə dedilər ki, “bax gör, bu eşşəkləri necə minmişəm!..”.
 

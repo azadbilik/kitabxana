@@ -19,7 +19,7 @@ Ol vaxtlar mədrəsədə altmış nəfər şagird elm oxumağa məşğul idi, am
 
 * * *
 
-Allah Davudxan cənablarına ömür vesin: bizi böyük zəhmətdən qurtardı; çünki vitse-konsul cənabları haman məktubda bir-iki söz yazıb və bu bir-iki söz işin əsl həqiqətini necə ki lazımdır bəyan edir. Yoxsa indi “Tərəqqi”nin 86-cı nömrəsi gedə çıxa Bolqariya, Serbiya və qeyri millətlərin içinə və onlar oxuyub görələr ki, Vladiqafqazda İran hacı və məşədiləri razı olmurlar ki, uşaqları məccani də gedib mədrəsədə dərs oxusunlar, əgər Davudxan cənabları mətləbi açmasaydı, müsəlmanları tanımayan əcnəbi millətlər elə bilərdilər ki, bəlkə mədrəsənin yolu Bakı müsəlmanlarının məhəlləsindən düşüb, ya bəlkə mədrəsədə qara əqrəb peyda olub ki, uşaqları sancıb öldürür, ya bəlkə mədrəsədə şagirdlərə Ağdaş hacıları satan undan çörək bişirib verirlər və haman çörək uşaqları şişirdir, axırda öldurur.
+Allah Davudxan cənablarına ömür versin: bizi böyük zəhmətdən qurtardı; çünki vitse-konsul cənabları haman məktubda bir-iki söz yazıb və bu bir-iki söz işin əsl həqiqətini necə ki lazımdır bəyan edir. Yoxsa indi “Tərəqqi”nin 86-cı nömrəsi gedə çıxa Bolqariya, Serbiya və qeyri millətlərin içinə və onlar oxuyub görələr ki, Vladiqafqazda İran hacı və məşədiləri razı olmurlar ki, uşaqları məccani də gedib mədrəsədə dərs oxusunlar, əgər Davudxan cənabları mətləbi açmasaydı, müsəlmanları tanımayan əcnəbi millətlər elə bilərdilər ki, bəlkə mədrəsənin yolu Bakı müsəlmanlarının məhəlləsindən düşüb, ya bəlkə mədrəsədə qara əqrəb peyda olub ki, uşaqları sancıb öldürür, ya bəlkə mədrəsədə şagirdlərə Ağdaş hacıları satan undan çörək bişirib verirlər və haman çörək uşaqları şişirdir, axırda öldurur.
 
 Allah ömür versin, Davudxan cənabları bizi qeyddən qurtardı.
 

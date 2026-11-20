@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Kədər başdan-başa sinəmi tutmuş,
 Nəfəs almağa da yer saxlamamış.
-Fəsilllər astaca üstündən keçər,
+Fəsillər astaca üstündən keçər,
 Əriməz ordasa boranlı bir qış.
 
 Bircə qış fəslini qəbul eyləyər,

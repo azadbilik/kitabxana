@@ -78,7 +78,7 @@ Məntəqə müdiri onunla köhnə dost kim görüşüb, kabinetinə apardı. Kos
 
 – Necə kim, özümüz! Yoxsa mənə inanmırsan? Yəqin deyirsən ki, Fərhad ölüb, külüngünün səsi gəlmir? Yox, Kosaoğlu həmişəki Kosaoğludur. Heç nədən qorxma, nə göndərsəm qəbul elə. Şərtimiz həmişəki şərtdir.
 
-Onlar bir anlığa susdular. Məntəqə müdiri gözünü doşəməyə zilləyib fikrə getdi. Kosaoğlu stulu yaxına çəkdi.
+Onlar bir anlığa susdular. Məntəqə müdiri gözünü döşəməyə zilləyib fikrə getdi. Kosaoğlu stulu yaxına çəkdi.
 
 – Bura bax, planı dolduran kolxoz varmı?
 
@@ -88,7 +88,7 @@ Onlar bir anlığa susdular. Məntəqə müdiri gözünü doşəməyə zilləyib
 
 – Çətin məsələdir.
 
-– Ə, mən sənə bələdəm. İstəsən günü sabah mənim kolxozum planı doldurar. Nə təhər olsur-olsun gərək mən qabağa düşəm. Gərək özüm katibin yanına gedib dalajit eləyəm ki, Kosaoğlu rayonda planı birinci doldurdu. Gərək heç kəs qabağa düşməsin.
+– Ə, mən sənə bələdəm. İstəsən günü sabah mənim kolxozum planı doldurar. Nə təhər olsun-olsun gərək mən qabağa düşəm. Gərək özüm katibin yanına gedib dalajit eləyəm ki, Kosaoğlu rayonda planı birinci doldurdu. Gərək heç kəs qabağa düşməsin.
 
 – Kim nə deyir ki? Çalışın qabağa düşün.
 
@@ -112,7 +112,7 @@ O gün "İyirmi altılar" kolxozundan gələn bütün pambıq qəbul olundu.
 
 Lakin bu şadlıq uzun sürmədi.
 
-Ertəsi günü onu təcili rayon partiya komitosinə sağırdılar. Katibtə MTS-in yeni direktoru yanaşı oturmuşdular. Nəsib dayı da burada idi. Katibin birinci sualı bu oldu:
+Ertəsi günü onu təcili rayon partiya komitəsinə sağırdılar. Katibə MTS-in yeni direktoru yanaşı oturmuşdular. Nəsib dayı da burada idi. Katibin birinci sualı bu oldu:
 
 – Niyə yalan məlumat verirsən?
 
@@ -198,11 +198,11 @@ Prokuror otaqda çox gəzindi, sonra mənalı-mənalı başını tərpətdi:
 
 – Qoymazlar.
 
-– Verməzlər, qoymazlar... Bəs nə olsun deyirsən? Bir halda ki, heç nə bacarmırsan, daha adını niyə sədr qoyubsan? - O, papiros yandırıb əlindəki kibriti hirslə stolun üstünə atdı. - Mənə nə var? Özün fələyin xərcinə gedəcəksən! Mənim məsləbətim budur ki, vaxtında başına çarə qıl.
+– Verməzlər, qoymazlar... Bəs nə olsun deyirsən? Bir halda ki, heç nə bacarmırsan, daha adını niyə sədr qoyubsan? - O, papiros yandırıb əlindəki kibriti hirslə stolun üstünə atdı. - Mənə nə var? Özün fələyin xərcinə gedəcəksən! Mənim məsləhətim budur ki, vaxtında başına çarə qıl.
 
 Kosaoğlu kəndə gələnəcən çox düşündü. "Boş bir işdən ötrü dolaşacağam. Elə ki, yıxıldım, baltalı da, baltasız da döşəyəcək. Kimin nə heyfi var çıxacaq. Bütün olub-keçənləri açıb tökəcəklər. Ondan sonra nə qədər çapalasam da, altından çıxa bilməyəcəm. Yox, gərək çalışam, yaxam ələ keçməsin. Bəs nə təhər eləyim? Bu köpək oğlunun əlindən yaxamı necə qurtarım? Gecənin birində qabağını kəsdirib başını əzişdirimmi? Onun izini-tozunu itirsəm, hər şey düzələr. Bəs bunu nə cür eləyim? Sonra işin üstü açılmazmı? Təzədən başıma iş açmarammı? Yox, bircə yol qalıb. Kəsik baş danışmaz. Uşaqlara deyərəm, bir gecə xəlvətə salıb Alagöz çayına atarlar".
 
-Kosaoğlu maşını birbaş idarəyə sürdürdü, içəridəkilərə salam vermədən stolun arxasına keçdi. Çırağın piltəsini qaldırıb otaqdakı adamları süzdü. İmran gözünə sataşanda qan beyninə vurdu. Əlini stola çırpib bağırdı:
+Kosaoğlu maşını birbaş idarəyə sürdürdü, içəridəkilərə salam vermədən stolun arxasına keçdi. Çırağın piltəsini qaldırıb otaqdakı adamları süzdü. İmran gözünə sataşanda qan beyninə vurdu. Əlini stola çırpıb bağırdı:
 
 – Çıx mənim kabinetimdən!
 
@@ -260,13 +260,13 @@ O, qapını hirslə çırpıb getdi...
 
 Bir-iki gündən sonra kəndə komissiya gəldi. Kosaoğlu bərk təlaşa düşdü. Əl altından adam saldı. İşin üstünü basdırmağa çalışdısa da, müvəffəq olmadı. Nə dostluq, nə də pul kömək etdi. İmran dediyindən dönmədi. Nəsib dayı da ona səs verdi.
 
-Məsələ getdikcə böyüyürdü. Elə buna görə də Kosaoğlunun yuxusu qaçmışdı. Sayalı son günlər ərinin gecələr yerdən qalxıb həyətə çıxdığını, ağacların altında gəzdiyini görmüşdü. O, bir-iki dəfə ərinin dalınca düşmüş, özünü göstərmədon onu izləmişdi.
+Məsələ getdikcə böyüyürdü. Elə buna görə də Kosaoğlunun yuxusu qaçmışdı. Sayalı son günlər ərinin gecələr yerdən qalxıb həyətə çıxdığını, ağacların altında gəzdiyini görmüşdü. O, bir-iki dəfə ərinin dalınca düşmüş, özünü göstərmədən onu izləmişdi.
 
 Yoxsa kişi dəli olub, niyə gecələr gəzməyə çıxır? Sayalı eşitmişdi ki, elə xəstələr olur ki, gecə ay işığında gəzməyə çıxır. Səhərə kimi dolanır, sonra da yuxulu-yuxulu qayıdıb yatır. O nə etdiyini bilmir. Əgər onu gəzdiyi zaman oyatsan, dərhal ürəyi partlayar. Ona görə də Sayalı qorxur, gecələr kölgə kimi kişinin dalınca gəzib, onu dindirmirdi.
 
-Kosaoğlu bu gecə də yatmadı. Evdəkiləri yuxuya verəndən sonra yavaşca durub geyindi. Kürkünü çiyninə salıb həyətə çıxdı. Hava tutqun idi. Asta-asıa yağırdı. Yağış damlaları səpələndikcə ağacların yarpaqları xışıldayırdı. Kosaoğlu eyvanda dayanıb papiros bükdü. Bir-iki dəfə sümürüb, həyətə düşdü. Əvvəlcə tövləyə getdi, əl fənərini yandırıb heyvanlara baxdı. İnəklər bir tərəfdə gövşəyirdi. Qara camış axuru yoxlayırdı. Qurbanı görəndə heyvanlar mələşdi. Kosaoğlu doluxsundu. Ona elə gəldi ki, bu heyvanlar ondan ayrılmaq istəmir, o isə səfərə hazırlaşır, bir daha qayıtmayacaq. Sədr olandan sonra aldığı bu heyvanlarla halallaşmağa gəlib. Onun əli titrədi, təpəl kəlçəni, qızıl inəyi sığalladı...
+Kosaoğlu bu gecə də yatmadı. Evdəkiləri yuxuya verəndən sonra yavaşca durub geyindi. Kürkünü çiyninə salıb həyətə çıxdı. Hava tutqun idi. Asta-asta yağırdı. Yağış damlaları səpələndikcə ağacların yarpaqları xışıldayırdı. Kosaoğlu eyvanda dayanıb papiros bükdü. Bir-iki dəfə sümürüb, həyətə düşdü. Əvvəlcə tövləyə getdi, əl fənərini yandırıb heyvanlara baxdı. İnəklər bir tərəfdə gövşəyirdi. Qara camış axuru yoxlayırdı. Qurbanı görəndə heyvanlar mələşdi. Kosaoğlu doluxsundu. Ona elə gəldi ki, bu heyvanlar ondan ayrılmaq istəmir, o isə səfərə hazırlaşır, bir daha qayıtmayacaq. Sədr olandan sonra aldığı bu heyvanlarla halallaşmağa gəlib. Onun əli titrədi, təpəl kəlçəni, qızıl inəyi sığalladı...
 
-Tövlədən çıxan Kosaoğlu bağa geldi. Bir-bir ağaclara baş çəkdi. Öz əli ilə basdırdığı armudlara, almalara, alça və tut ağaclarına baxdı. Əvvəllər burada bağ-bağça yox idi. Kosaoğlunun atadan qalma uçuq bir daxması var idi. İndi üstü kirəmitdən, qoşa eyvanlı ev tikdirib, Özünə cah-cəlal düzəltmişdi. O, evin ətrafına dolandı. Sonra ot tayasına, talvarın altındakı odunlara, bir az bəridəki sarı "Pobeda"ya baxdı. Papirosunu çəkə-çəkə doqqaza getdi. Darvazanın kilidini yoxladı, çəpərin dibi ilə gəzib həyəti dolaşdi. Eiə bil bağın nə qədər yer tutduğunu bilmək istəyirdi. O niyə belə edirdi? Heç özü də bilmirdi.
+Tövlədən çıxan Kosaoğlu bağa geldi. Bir-bir ağaclara baş çəkdi. Öz əli ilə basdırdığı armudlara, almalara, alça və tut ağaclarına baxdı. Əvvəllər burada bağ-bağça yox idi. Kosaoğlunun atadan qalma uçuq bir daxması var idi. İndi üstü kirəmitdən, qoşa eyvanlı ev tikdirib, Özünə cah-cəlal düzəltmişdi. O, evin ətrafına dolandı. Sonra ot tayasına, talvarın altındakı odunlara, bir az bəridəki sarı "Pobeda"ya baxdı. Papirosunu çəkə-çəkə doqqaza getdi. Darvazanın kilidini yoxladı, çəpərin dibi ilə gəzib həyəti dolaşdı. Eiə bil bağın nə qədər yer tutduğunu bilmək istəyirdi. O niyə belə edirdi? Heç özü də bilmirdi.
 
 Geri qayıdıb, ot tayasının böyründə büzüşüb yatan itə baxdı. Həyətin ortasında dayanıb dərindən nəfəs aldı. Dodaqları astadan tərpəndi: "Bunların hamısı mənimdir. Mal da, ev-eşik də, maşın da, kənd də mənimdir. Mən bu kənddə sədrəm. Heç kəs bunları mənim əlimdən ala bilməz. Heç kəs!.." - deyə pıçıldadı.
 

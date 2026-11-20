@@ -39,7 +39,7 @@ Və indi yenə İrəvan gimnaziyasının beş-on nəfər müsəlman şagirdləri
 
 * * *
 
-Kimdir bizim düşmənlərimiz? Əcnəbilər də olsa, onların düşmənçiliyi hələ ki, ehtimal olunan bir şeydir; amma o əcnəbilərin birinin yolu əgər düşə bizim vilayətə və şeyxlərimizin övrətbazlığından baxəbər ola, gedib dünyaya xəbər verəçək ki, müsəlman millətində bircə tikə namus yoxdur.
+Kimdir bizim düşmənlərimiz? Əcnəbilər də olsa, onların düşmənçiliyi hələ ki, ehtimal olunan bir şeydir; amma o əcnəbilərin birinin yolu əgər düşə bizim vilayətə və şeyxlərimizin övrətbazlığından baxəbər ola, gedib dünyaya xəbər verəcək ki, müsəlman millətində bircə tikə namus yoxdur.
 
 * * *
 

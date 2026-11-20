@@ -41,7 +41,7 @@ Elələri də var ki, onların peşəsi bu növ mütaliədən sonra kitabı, ya 
 
 Bundan da mən nigaranam.
 
-Hər bir kəs bu yuxarıda saydığımız nigarançılıqlara bir sakitedici cavab yazıb idarəmizə dörd abbası pul ilə bahəm göndərsə, ona bir ayın müddətində muftəcə “Molla Nəsrəddin” göndərərik.
+Hər bir kəs bu yuxarıda saydığımız nigarançılıqlara bir sakitedici cavab yazıb idarəmizə dörd abbası pul ilə bahəm göndərsə, ona bir ayın müddətində müftəcə “Molla Nəsrəddin” göndərərik.
 
 *Lağlağı*
 

@@ -15,7 +15,7 @@ status: DRAFT
 Əsr eyləmişəm…
 Balaca iş masamı
 Qələ qəsr eyləmişəm…
-Çəkmişəm duyğüların dağdan
+Çəkmişəm duyğuların dağdan
 Ağır dağ yükünü,
 Düşmüşəm misralar ardınca
 Qərib ahu kimi,

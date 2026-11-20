@@ -23,7 +23,7 @@ Bir para mərdümazarlar hərdən bir xəyala gəlirlər ki, Hacı Pirverdi məs
 
 Bütün məhəllənin camaatını ayaq üstə qalxızıb, məscidi müdafiə edər.
 
-Kəbla Abdlullanı məqsədi budur imam yolunda canfəşanlıq eləsin ki, bəlkə cavanlıqda etdirdiyi cinayət və evlər dağınmağı müqabilində Allah-taala onun hədsiz günahlarından keçsin.
+Kəbla Abdullanı məqsədi budur imam yolunda canfəşanlıq eləsin ki, bəlkə cavanlıqda etdirdiyi cinayət və evlər dağınmağı müqabilində Allah-taala onun hədsiz günahlarından keçsin.
 
 Bari Allah-taala tezliklə onu öz behiştinə çağırsın.
 

@@ -27,7 +27,7 @@ Qarışıb gecəm-gündüzüm.
 O dünyada qalıb gözüm,
 Sənin ölümündən sonra…
 
-Shyuyub isti evimiz,
+Soyuyub isti evimiz,
 Tutqun dənizdi evimiz,
 Laldır, dilsizdir evimiz,
 Sənin ölümündən sonra…

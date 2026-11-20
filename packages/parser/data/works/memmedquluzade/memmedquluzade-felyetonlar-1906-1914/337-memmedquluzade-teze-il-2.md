@@ -99,7 +99,7 @@ Bozbaşdan doymaq istəyirsənsə, qonaqlarını tox yola salmaq istəyirsənsə
 
 Təzə il gəldi, amma biz deyəsən elə həmin durduğumuz yerdə qaçırıq qabağa.
 
-Saldatların bir məşqi var: divarın dalından qudaq asanda elə bilirsən ki, qoşun gəlir. Tap!.. Tap!.. Tap!.. Tap!.. Amma gözləyirsən görürsən ki, qoşun bir yana çıxmır. Tappıltı yenə gəlir. Axırda məlum olur ki, bu da bir cür məşqdir ki, saldatlar durduqları yerdə qaçırlar. Deyəsən, biz də durduğumuz yerdə qaçmaqdayıq.
+Saldatların bir məşqi var: divarın dalından qulaq asanda elə bilirsən ki, qoşun gəlir. Tap!.. Tap!.. Tap!.. Tap!.. Amma gözləyirsən görürsən ki, qoşun bir yana çıxmır. Tappıltı yenə gəlir. Axırda məlum olur ki, bu da bir cür məşqdir ki, saldatlar durduqları yerdə qaçırlar. Deyəsən, biz də durduğumuz yerdə qaçmaqdayıq.
 
 *Molla Nəsrəddin*
 

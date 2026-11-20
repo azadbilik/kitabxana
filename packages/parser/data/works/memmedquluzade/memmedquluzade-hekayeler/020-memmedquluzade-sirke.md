@@ -11,7 +11,7 @@ order: 20
 sourceNote: 'https://www.kitabxana.net/files/books/file/1258039834.pdf#page=249'
 status: DRAFT
 ---
-Bir neçə gün bundaq qabaq bizim ədib yoldaşlarımızın biri gəlmişdi Bakıya və düşmüşdü orta mehmanxanaların birində.
+Bir neçə gün bundan qabaq bizim ədib yoldaşlarımızın biri gəlmişdi Bakıya və düşmüşdü orta mehmanxanaların birində.
 
 Mən və Bakı ədiblərindən birisi bir gün günorta zamanı, getdik haman ədib rəfiqimizin görüşünə. İçəri girdik. Xoş-beş… Görüşəndən sonra oturduq və bir yarım saata qədər oradan-buradan söhbət elədik, sonra istədik duraq çıxaq gedək. Rəfiqimiz də o meyldə oldu ki, bizlə bahəm təmiz havada bir qədər dolansın və üçümüz də çıxdıq küçəyə.
 
@@ -89,7 +89,7 @@ Mən burada üzümü Əhməd Fitrətə tutub dedim:
 
 – Ay mənim əziz qardaşlarım, axı bir mənə deyin görüm, axı hər dilin bir qanunu var. Axı bizim türk dilinin də bir qanunu var ya yox?
 
-Birinci bakılı ədib yoldaşımız çəngəli qoydu çtolun üstə, bir az ucadan, bir az da hirsli, buna belə cavab verdi:
+Birinci bakılı ədib yoldaşımız çəngəli qoydu stolun üstə, bir az ucadan, bir az da hirsli, buna belə cavab verdi:
 
 – Allah atana rəhmət eləsin, ay Əhməd Fitrət. Bir bizi başa sal görək, o necə qanundu? Bəlkə doğrudan da biz qanmırıx.
 

@@ -44,7 +44,7 @@ Gicitkənlər Pakizənin topuğunu, budunu yandırdı. Qız qışqırdı, ancaq 
 
 – Deməyəcəm.
 
-Qızlar inada düşdülər. Doğrudan da Pakizədən söz almayınca əl çəkmək istəmədilər. O hər dəfə aşağı endikcə gicitkənlə döyəclədilər. Pakizənin topuğu, baldırı göynədi. Gicitkən dəyən yerlər qızarıb şişdi. Ancaq demədi. Gah ufuldadı, gah güldü, gah da qışqırıb qızları hədələdi, sonra da onların zərbəsindən yaxasını qurtarmaq üçün sürətini daha da artırdı. O hər dəfə təkan verdikcə, yelləncək bir az da yuxarı qalxır və az qalırdı ki, dövrə vurub budağa dolansın. Görünür, o hər şeyi unudaraq, uçurum dərənin üstünə qalxdığını, əli kəndirdən bir balaca boşalsa gurultu ilə sıldırımdan yuvarlana biləcəyini ağlına belə gətirmirdi Əşrəf həyacanlandı, özü də hiss etmədən ağacların arxasından çıxıb irəli gəldi. Bayaqdan Pakizə ilə zarafat edən qızlar da gülməklərinə ara verib dayandılar. Onlardan biri əlindəki gicitkəni kənara atıb qışqırdı: – Aaz, bəsdir, havalanma, kəndir qırılar.
+Qızlar inada düşdülər. Doğrudan da Pakizədən söz almayınca əl çəkmək istəmədilər. O hər dəfə aşağı endikcə gicitkənlə döyəclədilər. Pakizənin topuğu, baldırı göynədi. Gicitkən dəyən yerlər qızarıb şişdi. Ancaq demədi. Gah ufuldadı, gah güldü, gah da qışqırıb qızları hədələdi, sonra da onların zərbəsindən yaxasını qurtarmaq üçün sürətini daha da artırdı. O hər dəfə təkan verdikcə, yelləncək bir az da yuxarı qalxır və az qalırdı ki, dövrə vurub budağa dolansın. Görünür, o hər şeyi unudaraq, uçurum dərənin üstünə qalxdığını, əli kəndirdən bir balaca boşalsa gurultu ilə sıldırımdan yuvarlana biləcəyini ağlına belə gətirmirdi Əşrəf həyəcanlandı, özü də hiss etmədən ağacların arxasından çıxıb irəli gəldi. Bayaqdan Pakizə ilə zarafat edən qızlar da gülməklərinə ara verib dayandılar. Onlardan biri əlindəki gicitkəni kənara atıb qışqırdı: – Aaz, bəsdir, havalanma, kəndir qırılar.
 
 Pakizə döyüşdən qalib çıxdığına fərəhləndi və bərkdən qəhqəhə çəkdi. Onun səsi qayalarda əks-səda verib meşədə uğuldadı.
 
@@ -172,7 +172,7 @@ Susdular. Əşrəf qardaşının nəyə işarə etdiyini başa düşdü. O çox 
 
 – Çünki sən varsan.
 
-– Mən oxumağa gedecəyəm.
+– Mən oxumağa gedəcəyəm.
 
 – Getmə.
 
@@ -270,7 +270,7 @@ Yanaşı addımladılar. Salatın yanağına yapışmış saçını geri itələ
 
 * * *
 
-Cahandar ağa döşəkcənin üstünə uzanib mütəkkəyə dirsəklənmişdi. Əhməd isə onunla üzbəüz, döşəkcədə bardaş qurub oturmuşdu. Onların qabağında çay vardı.
+Cahandar ağa döşəkcənin üstünə uzanıb mütəkkəyə dirsəklənmişdi. Əhməd isə onunla üzbəüz, döşəkcədə bardaş qurub oturmuşdu. Onların qabağında çay vardı.
 
 Cahandar ağa oğlunu görən kimi stəkanı qabağına çəkdi. Əşrəfin üzünə belə baxmadan, astadan dilləndi:
 

@@ -878,7 +878,7 @@ Yaman nalə təpərdik gülçülərin əlindən,
 Deyərdik, bu gülçülər bazarlarda pul qırır,
 "Qərənfil gözəlindən".
 Rusiya bazarında,
-Yaman rusvay edirlər, - deyərdik onlar bizi.
+Yaman rüsvay edirlər, - deyərdik onlar bizi.
 "Alverçi" damğasıyla, vallah, ləkələyirlər
 Bizim şərəfimizi.
 Həmin o alverçilər, bu gün isə əvəzsiz,

@@ -102,7 +102,7 @@ Qiyamədinli bir böyük obadır və qədimdən oğurluqda şöhrət tapıbdır.
 
 Mən daha əmoğlumun bu barədə məsləhətinə ümidvar olmayıb, dedim atları sürək kənd məktəbinə. Elə də oldu.
 
-Bir sinifli kiçik bir mktəbin tək bircə müəllimi var idi ki, özü də müdir hesab olunurdu. Adı Mirzə Xəlil idi. Atdan düşdük. Mirzə Xəlil qabağımıza çıxdı. Xoş-beş… Məktəb şagirdləri həyətdə hay-küylə oynaşırdılar. Bunlar bizi görcək yanımıza toplandılar. Atlarımızı əlimizdən alıb bilmədik hara çəkdilər. Əmoğlu atların dalınca getdi və Mirzə Xəlil məni içəri apardı.
+Bir sinifli kiçik bir məktəbin tək bircə müəllimi var idi ki, özü də müdir hesab olunurdu. Adı Mirzə Xəlil idi. Atdan düşdük. Mirzə Xəlil qabağımıza çıxdı. Xoş-beş… Məktəb şagirdləri həyətdə hay-küylə oynaşırdılar. Bunlar bizi görcək yanımıza toplandılar. Atlarımızı əlimizdən alıb bilmədik hara çəkdilər. Əmoğlu atların dalınca getdi və Mirzə Xəlil məni içəri apardı.
 
 Bir yekə otağın küncündə dəmir peç yanırdı. Otaq xeyli isti idi. Bir qədər keçdi, əmoğlu gəldi, çay içdik və axırda mən mətləbi Mirzə Xəlilə açdım.
 

@@ -44,7 +44,7 @@ Kazaklar diksinib geri atıldılar. Boğuq bir səs eşidildi:
 
 – Əvvəlcə sən keç.
 
-Əhməd qapıya yaxınlaşdı. İtələyib taybatay açdı. Kibrit çəkib çırağı yandırdı. Kazaklar otaq işıqlanan kimi hər yeri gözdən keçirdilər. Əhmədin tək olduğunu bilib sakitləşdilər. Əhməd geri donüb onların üzünə baxdı və dərhal, bir neçə ay bundan əvvəl pristavla Göytəpəyə gələn yekəpər kazakı tanıdı:
+Əhməd qapıya yaxınlaşdı. İtələyib taybatay açdı. Kibrit çəkib çırağı yandırdı. Kazaklar otaq işıqlanan kimi hər yeri gözdən keçirdilər. Əhmədin tək olduğunu bilib sakitləşdilər. Əhməd geri dönüb onların üzünə baxdı və dərhal, bir neçə ay bundan əvvəl pristavla Göytəpəyə gələn yekəpər kazakı tanıdı:
 
 – Xoş gördük, köhnə dost, sənsən, gecə vaxtı haradan gəlirsən?
 

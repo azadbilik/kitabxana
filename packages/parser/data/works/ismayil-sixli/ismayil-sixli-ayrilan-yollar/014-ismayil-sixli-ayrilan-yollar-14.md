@@ -22,7 +22,7 @@ Nərgiz müəllimə onun sözünü yerə salmırdı. İmran işdən gələndə i
 
 Əslinə baxsan, arvad öz aləmində hər işi qurtarmışdı. İmranın əvəzində müəlliməyə söz açacağını da qərara almışdı.
 
-Tükəzban xala da bütün analar kimi öz oğlunu evləndirmək arzusunda idi. Gözəl bir qız görəndə dərhal İmranla müqayisə edirdi. Bəzi analar oğlanları üçün gəlin seçəndə çox fikirləşir, qızların hərəsində bir eyib tapır, axırda da ya kora, ya da keçələ rast gəlir. Ancaq Tükəzban xala belələrindən deyildi. Harada gözəl bir qız görsəydi, İmrana almaq istəyirdi. "Elə boyu-buxunu da qəşəngdir, İmrancığazıraa yaraşır" - deyə xəyalmdan keçirdi. Tükəzban xalanın xasiyyətinə bələd olanlar bəzən ona sataşardılar. O isə çiynini çəkib, "neyləyim, Allah məni də belə yaradıb" - deyərdi.
+Tükəzban xala da bütün analar kimi öz oğlunu evləndirmək arzusunda idi. Gözəl bir qız görəndə dərhal İmranla müqayisə edirdi. Bəzi analar oğlanları üçün gəlin seçəndə çox fikirləşir, qızların hərəsində bir eyib tapır, axırda da ya kora, ya da keçələ rast gəlir. Ancaq Tükəzban xala belələrindən deyildi. Harada gözəl bir qız görsəydi, İmrana almaq istəyirdi. "Elə boyu-buxunu da qəşəngdir, İmrancığazıraa yaraşır" - deyə xəyalımdan keçirdi. Tükəzban xalanın xasiyyətinə bələd olanlar bəzən ona sataşardılar. O isə çiynini çəkib, "neyləyim, Allah məni də belə yaradıb" - deyərdi.
 
 Tükəzban xalanın Zeynəbdən də xoşu gəlirdi. Amma nədənsə uşaqlıqdan yanında böyümüş bu qıza başqa gözlə baxa bilmirdi...
 
@@ -42,7 +42,7 @@ Gövhər qarı ilə söhbətindən sonra o, kosaoğlulardan ehtiyat etməyə ba�
 
 Doğrudan da son vaxtlar kənd arasında dedi-qodu başlayır, Tükəzban xalanın qulağına bəzi sözlər dəyirdi. O, hər şeyi açıb oğluna deməyə tələsirdi. "Qoy biryolluq birini seçsin".
 
-Tükəzban xala səbirsizliklə süfənin ətrafında fırlanır, əlindəki dəsmalla zümzümə edan samovarı silir, çayniki dəmkeşin üstünə qoyur, iri podnosa yığdığı stəkan-nəlbəkini dönə-dönə təmizləyirdi.
+Tükəzban xala səbirsizliklə süfrənin ətrafında fırlanır, əlindəki dəsmalla zümzümə edən samovarı silir, çayniki dəmkeşin üstünə qoyur, iri podnosa yığdığı stəkan-nəlbəkini dönə-dönə təmizləyirdi.
 
 Bu gün hər şey həll olunmalı, ana qəlbi sakitləşməli idi.
 
@@ -78,7 +78,7 @@ Tükəzban xala könülsüz evə getdi.
 
 Vaxtında mən sənə demədimmi odla pambığı bir yerə qoyma, axın pis olar? İndi gördün? Ancaq ürəyini sıxma, pis uşaq deyil. Görünür qismət buymuş. Amma mən İmrana başqa qız alacaqdım. Sözün düzü, elə Şahnazın da İmrana ürəyi vardı. Xeyrinizi bilmədiniz. Oğlun da bədəməllik elədi. Kişinin üzünə ağ oldu. Xeyirmi tapacaq? At mıxı qopardar, bir yerə dəyər, beş özünə Görünür, halal çörək sənin oğluyun qarnını deşdi. Rahatca oturub yemədi, özünü dağa-daşa saldı.
 
-Tükəzban xala qəzəbini güclə saxlayjb boğuq səslə soruşdu:
+Tükəzban xala qəzəbini güclə saxlayıb boğuq səslə soruşdu:
 
 – Nə olub ki?
 
@@ -176,7 +176,7 @@ Tükəzban xala köksünü ötürdü. "Yox, deyəsən hər şeyi bilir. Söz-gap
 
 – Belə yaxşıdır. Bu saat uşaqlar gələcək. Demişəm mənə kömək eləsinlər.
 
-– Yox, yox, qoymaram. Bəs İmranı gözləmirsən? Qoy gəlsin özünə də de. - Heç nə deməz. Bir də, bu evin böyüyü sənsən. İmran deyil. Tükəzban xala köksünü ötürdü. Onlar evə getdilər. Bir azdan şagirdlər gəldilər. Nərgiz müəllimənin yorğan-döşəyini, çamadanını, kitablarını götürdülər. Tükəzban xala Nərgizi doqqaza qədər ötürdü. Ayrılanda qucaqlaşdılar. Arvad kövrəldi. Nərgiz də doluxsuundu.
+– Yox, yox, qoymaram. Bəs İmranı gözləmirsən? Qoy gəlsin özünə də de. - Heç nə deməz. Bir də, bu evin böyüyü sənsən. İmran deyil. Tükəzban xala köksünü ötürdü. Onlar evə getdilər. Bir azdan şagirdlər gəldilər. Nərgiz müəllimənin yorğan-döşəyini, çamadanını, kitablarını götürdülər. Tükəzban xala Nərgizi doqqaza qədər ötürdü. Ayrılanda qucaqlaşdılar. Arvad kövrəldi. Nərgiz də doluxsundu.
 
 Tükəzban xala evə çox kədərli qayıtdı. Qaranlıq idi, hələ çırağı yandırmamışdı. Arvad lap darıxdı. "Bu gədə də evdə tapılmır. Görəsən, harda qaldı? İndi mən neynəyim?" O, eyvana çıxdı. Əl fanarını yandırıb heyvanları rahatladı. Evə baş sala bilmədiyindən, yenə ağacın dibinə getdi. Fanarı bir tərəfə qoyub oturdu. Samovar çoxdan soyumuşdu. O, dizlərini qucaqlayıb gözlərini fanara zillədi. Göylükdən qalxan xırdaca cücülər, balaca kəpənəklər, boz pərvanələr işığın başına dolanmağa başladılar. Ətrafa ağır sükut çökdü. Kənd qaranlığa büründü...
 
@@ -224,7 +224,7 @@ Tükəzban xala dikəldi. Qaranlıqda arvadın gözləri parıldadı. Sevindiyin
 
 – Ana, o, gəlinin olsa, yola verərsənmi?
 
-– Sənin ürəyiin varsa, mən canımı qurban elərəm. Elə dolanarıq ki, quzu kimi.
+– Sənin ürəyin varsa, mən canımı qurban elərəm. Elə dolanarıq ki, quzu kimi.
 
 – Onda...
 

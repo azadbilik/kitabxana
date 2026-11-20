@@ -13,7 +13,7 @@ status: DRAFT
 ---
 Şərq aləmində səbir – çox arzu olunan bir haldır: dayanmaq, təhəmmül etmək, tələsməmək – budur səbrin mənası.
 
-Şərqin mədəniyyətcə Qərbdən geridə qalmağının filosofiyası elə haman səbirdir və inşallah-taala bir min il də səbrdən sonra Şərq Qərbi də ötub keçəcək və bəlkə şimal və cənubu da geridə qoyacaq (inşallah!).
+Şərqin mədəniyyətcə Qərbdən geridə qalmağının filosofiyası elə haman səbirdir və inşallah-taala bir min il də səbrdən sonra Şərq Qərbi də ötüb keçəcək və bəlkə şimal və cənubu da geridə qoyacaq (inşallah!).
 
 Biz də Şərqə baxıb bir neçə hallarda xeyli səbr və üstubluluq göstəririk. Məsələn:
 
@@ -27,7 +27,7 @@ Bu, birinci.
 
 Demək, kənd aktiv işçilərimizi hazırlamaqda da böyuk səbir və “inşallah” göstərilibdir.
 
-Dördüncu halda səbir və “bu gün-sabahı” istemal edən Molla Nəsrəddin əminin qəzalarda vəkilləridir. Həftədə bir dəfə bir kağız yazarıq “Mən ölüm, borcunuzu göndərin, mətbəə pul istəyir, kağız pul istəyir, yoldaşlar pul istəyir”. Biz yazıb-yalvarınca vəkillərimiz “inşallah” deyərlər.
+Dördüncü halda səbir və “bu gün-sabahı” istemal edən Molla Nəsrəddin əminin qəzalarda vəkilləridir. Həftədə bir dəfə bir kağız yazarıq “Mən ölüm, borcunuzu göndərin, mətbəə pul istəyir, kağız pul istəyir, yoldaşlar pul istəyir”. Biz yazıb-yalvarınca vəkillərimiz “inşallah” deyərlər.
 
 Bu da yaxşı deyil.
 

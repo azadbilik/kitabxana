@@ -19,7 +19,7 @@ Ona
 Xeyli balaca,
 Yöndəmsiz,
 gözəl göründü cahan.
-Gəncin döşündə əlvan üfuqlər,
+Gəncin döşündə əlvan üfüqlər,
 Gözlərindəsə
 Yerdən çox böyük
 ulduzlar qatı

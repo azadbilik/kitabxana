@@ -41,7 +41,7 @@ Daş-divarı əyilmiş
 Ay atamın koması!..
 Uçuq barılarında
 Kərpiclərin qum kimi.
-Göyəren vəhşi güllər
+Göyərən vəhşi güllər
 Çığıran arzum kimi...
 Necə belini bükdü,
 Ocağını qaraltdı

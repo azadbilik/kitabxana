@@ -19,19 +19,19 @@
 
 ### Birinci hissə, 1
 
-Göytəpə kəndinin yastı qazma daxmaları Kürün sahilinə qədər səpələnmişdi. Bu il yağınlıq olduğundan, o otlar vaxtından əvvəl göyərmiş, yazın ilıq nəfəsini duyandan sonra isə püskürüb qalxmışdı. Hələ aprel sona çatmamış bu çal-çəpərsiz kəndin həyətləri, xırman yerləri, tövlə və samanlıqların üstü, hətta evlerin damları da yaşıllaşmışdı. Həyətləri birləşdirib torpaq yola çıxan, sonra da sahildəki çəmənliyi çalın-çarpaz doğrayıb Kürə enən cığırları ot basmış, kəndin üst tərəfindəki ləpələrin rəngi dəyişmişdi. İl quraqlıq keçəndə bahar gəlməmiş saralıb-solan dəmyələr bu il gül-çiçəyə qərq olmuşdu. Yalnız kəndin yaxınından ötüb Tiflisə doğru uzanan xır yolu əvvəlki kimi ağarır, bəzi yerlərdə daşların arasından ot cücərsə də təbiətin bu ümumi ahənginə tabe olmaq istəmir, dərəli-təpəli yamacları aşıb üfüqdə gözdən itirdi. Hər şey əvvəlki kimi idi. Həyat-bacalarda ocaq tüstülənir, mallar haylanıb Kürə tökülür, qız-gəlinlər suya enirdilər. Haçaquyruq qaranquşlar süzüb sinələrini çiçəklərə toxundurur, Kürə baş vurub su götürür, sonra da civildəşə-civildəşə balalarının yanına qayıdırdılar. Torpaqdan güclə seçilən qara damların arasında təkəm-seyrək gözə dəyən daş evlərin kirəmitli damındakı sığırçınlar yenə əvvəlki kimi dimdiklərini şaqqıldadıb oxuyurdular.
+Göytəpə kəndinin yastı qazma daxmaları Kürün sahilinə qədər səpələnmişdi. Bu il yağınlıq olduğundan, o otlar vaxtından əvvəl göyərmiş, yazın ilıq nəfəsini duyandan sonra isə püskürüb qalxmışdı. Hələ aprel sona çatmamış bu çal-çəpərsiz kəndin həyətləri, xırman yerləri, tövlə və samanlıqların üstü, hətta evlərin damları da yaşıllaşmışdı. Həyətləri birləşdirib torpaq yola çıxan, sonra da sahildəki çəmənliyi çalın-çarpaz doğrayıb Kürə enən cığırları ot basmış, kəndin üst tərəfindəki ləpələrin rəngi dəyişmişdi. İl quraqlıq keçəndə bahar gəlməmiş saralıb-solan dəmyələr bu il gül-çiçəyə qərq olmuşdu. Yalnız kəndin yaxınından ötüb Tiflisə doğru uzanan xır yolu əvvəlki kimi ağarır, bəzi yerlərdə daşların arasından ot cücərsə də təbiətin bu ümumi ahənginə tabe olmaq istəmir, dərəli-təpəli yamacları aşıb üfüqdə gözdən itirdi. Hər şey əvvəlki kimi idi. Həyat-bacalarda ocaq tüstülənir, mallar haylanıb Kürə tökülür, qız-gəlinlər suya enirdilər. Haçaquyruq qaranquşlar süzüb sinələrini çiçəklərə toxundurur, Kürə baş vurub su götürür, sonra da civildəşə-civildəşə balalarının yanına qayıdırdılar. Torpaqdan güclə seçilən qara damların arasında təkəm-seyrək gözə dəyən daş evlərin kirəmitli damındakı sığırçınlar yenə əvvəlki kimi dimdiklərini şaqqıldadıb oxuyurdular.
 
 Zərnigar xanım bunların heç birini görmürdü. O, başını göy məhəccərli eyvanın dirəyinə söykəyib için-için ağlayırdı. Tez-tez kəlağayısının ucu ilə gözünün yaşını silir, "mən bu dərdə necə dözüm, kimdən imdad istəyim?" - deyə inildəyirdi.
 
-Havada süzon iri bir çalağanın kölgəsi çəpərin üstündən aşıb, həyətin ortası ilə tövləyə doğru süründü. Zəncirdəki itlər dartınıb mırıldaşdılar. Toyuq-cücə qorxudan samanlığa doluşdu. Zərnigar xanım bunların heç birinə fıkir vermədi, kəlağayısını düzəldib eyvandan endi, cığırla sahilə doğru addımladı.
+Havada süzən iri bir çalağanın kölgəsi çəpərin üstündən aşıb, həyətin ortası ilə tövləyə doğru süründü. Zəncirdəki itlər dartınıb mırıldaşdılar. Toyuq-cücə qorxudan samanlığa doluşdu. Zərnigar xanım bunların heç birinə fıkir vermədi, kəlağayısını düzəldib eyvandan endi, cığırla sahilə doğru addımladı.
 
 Gün xeyli qalxmışdı. Axşamdan kəndin üstünə çökən duman çəkilmiş, səhərə yaxın yağış da çiləmişdi. Torpaq yolların və cığırların
 
 @@ 008
 
->>tozu xal-xal olmuşdu. Çəmənliyin şehi parıldayırdı. Kürün ləpədöyənindən bir az aralı, çaylaqda qaynar asmışdılar. Tumançaq uşaqlar yarğanın dibi ilə qaçışırdılar. Camışları haylayıb suya tökən cavanların hay-küyü sıldırım yarğanlarda əks edir, bu yarğanların ovuqlarındakı quşlar hürküşüb bölük-bölük havaya qalxırdılar. Lakin Zərnigar xanım heç nəyə fikir vermirdi. Bütün gecəni yatmayıb səhərəcən ağladığından arvadın gözləri şişmiş, kirpikləri bir-birinə yapışmış, göz yaşı quruyııb, müşəmbə kimi yanağında qalmışdı. Qulaqları güyüldəyirdi. O, hara getdiyini bilmirdi. Öz evindan baş götürüb uzaqlaşmaq, bir anlığa da olsa, dərdini unutmaq istəyirdi. Ancaq bacarmırdı. Dil desə də ürək razı olmur, ayaqları sözünə baxmayıb, sürünürdü. Zərnigar xanım özü də hiss etmədən gəlib yarğanın qaşına çatdı. Qarşısındakı uçurumu, ayağının altındakı yarıq-yarıq olmuş torpağı görmədi. Əgər bir az irəlidə yarğan gurultu ilə uçmasaydı, o, ayaq saxlamayacaq, bəlkə də torpağa qarışıb birbaş Kürə düşəcəkdi. Gurultunu eşidən kimi qeyri-ixtiyari geri çəkildi, toz yatandan sonra isə uçurumun dibi ilə axan qıjıltılı boz-bulanıq suya dəhşətlə baxdı. "Birparça çörəyim ov-sanata keçdi. Yoxsa balalarım yetim qalacaqdı", - deyə salamat qurtardığına şükür elədi. Bu hal uzun sürmədi. O yenidon gözünü Kürə zillədi. O taydakı qalın meşənin ətəyini, boz qumsallığı yalaya-yalaya axan, bəzi yerlərdə isə burulub, kolları araya alan Kür şaxələnib qollara ayrılır, balaca adaların ətrafında fırlanıb bəri üzə, hündür yarğanların üstünə cumurdu. Sular sarı torpağı yalayıb geri çəkilir, lillənə-lillənə uzaqlara gedirdi. Yarğanən dibi görünmürdü. Oraya düşənin heç sümüyü də ələ gəlməzdi. Zərnigar xanım ehtiyatla yarğana yaxınlaşdı. Bəlkə birdəfəlik özünü atsın? İkicə addım qabağa getsə, torpaq ayağı altından ovxalanıb töküləcək, uçuruma necə düşdüyündən özünün də xəbəri olmayacaqdı. Bəs sonra? Eşidən-bilən nə deyər?
+>>tozu xal-xal olmuşdu. Çəmənliyin şehi parıldayırdı. Kürün ləpədöyənindən bir az aralı, çaylaqda qaynar asmışdılar. Tumançaq uşaqlar yarğanın dibi ilə qaçışırdılar. Camışları haylayıb suya tökən cavanların hay-küyü sıldırım yarğanlarda əks edir, bu yarğanların ovuqlarındakı quşlar hürküşüb bölük-bölük havaya qalxırdılar. Lakin Zərnigar xanım heç nəyə fikir vermirdi. Bütün gecəni yatmayıb səhərəcən ağladığından arvadın gözləri şişmiş, kirpikləri bir-birinə yapışmış, göz yaşı quruyııb, müşəmbə kimi yanağında qalmışdı. Qulaqları güyüldəyirdi. O, hara getdiyini bilmirdi. Öz evindan baş götürüb uzaqlaşmaq, bir anlığa da olsa, dərdini unutmaq istəyirdi. Ancaq bacarmırdı. Dil desə də ürək razı olmur, ayaqları sözünə baxmayıb, sürünürdü. Zərnigar xanım özü də hiss etmədən gəlib yarğanın qaşına çatdı. Qarşısındakı uçurumu, ayağının altındakı yarıq-yarıq olmuş torpağı görmədi. Əgər bir az irəlidə yarğan gurultu ilə uçmasaydı, o, ayaq saxlamayacaq, bəlkə də torpağa qarışıb birbaş Kürə düşəcəkdi. Gurultunu eşidən kimi qeyri-ixtiyari geri çəkildi, toz yatandan sonra isə uçurumun dibi ilə axan qıjıltılı boz-bulanıq suya dəhşətlə baxdı. "Birparça çörəyim ov-sanata keçdi. Yoxsa balalarım yetim qalacaqdı", - deyə salamat qurtardığına şükür elədi. Bu hal uzun sürmədi. O yenidən gözünü Kürə zillədi. O taydakı qalın meşənin ətəyini, boz qumsallığı yalaya-yalaya axan, bəzi yerlərdə isə burulub, kolları araya alan Kür şaxələnib qollara ayrılır, balaca adaların ətrafında fırlanıb bəri üzə, hündür yarğanların üstünə cumurdu. Sular sarı torpağı yalayıb geri çəkilir, lillənə-lillənə uzaqlara gedirdi. Yarğanən dibi görünmürdü. Oraya düşənin heç sümüyü də ələ gəlməzdi. Zərnigar xanım ehtiyatla yarğana yaxınlaşdı. Bəlkə birdəfəlik özünü atsın? İkicə addım qabağa getsə, torpaq ayağı altından ovxalanıb töküləcək, uçuruma necə düşdüyündən özünün də xəbəri olmayacaqdı. Bəs sonra? Eşidən-bilən nə deyər?
 
-Bu fikirlər Zərnigar xanımı dəhşətə gətirdi. Bədəni üyüşdü. Suyun soyuq havasını üzündə hiss edib geri çəkildi. İxtiyarsız olaraq dönüb evlərinə baxdı. Ətrafına yulğun kollarından hündür çəpər çəkilmiş bir-mərtəbə daş evin pencərə şüşələri səhər günəşinin şəfəqlərini əks etdirib parıldayırdı. Darvaza açıq idi. Eyvanın məhəccərindəki naxışlı taxtalar, mavi rəngli dirəklər, göy qapılar, üstündə bir cüt qabaq-qarşı xoruz çəkilmiş divar, bir az o yandakı samanlıq, çardağının üstünə ilanyalı ot tayası yığılmış tövlə, həyətdə eşələnən toyuq-cücə aydınca görünürdü. Axı bunların çoxunu o özü düzəltmişdi. O, buraya gəlin
+Bu fikirlər Zərnigar xanımı dəhşətə gətirdi. Bədəni üyüşdü. Suyun soyuq havasını üzündə hiss edib geri çəkildi. İxtiyarsız olaraq dönüb evlərinə baxdı. Ətrafına yulğun kollarından hündür çəpər çəkilmiş bir-mərtəbə daş evin pəncərə şüşələri səhər günəşinin şəfəqlərini əks etdirib parıldayırdı. Darvaza açıq idi. Eyvanın məhəccərindəki naxışlı taxtalar, mavi rəngli dirəklər, göy qapılar, üstündə bir cüt qabaq-qarşı xoruz çəkilmiş divar, bir az o yandakı samanlıq, çardağının üstünə ilanyalı ot tayası yığılmış tövlə, həyətdə eşələnən toyuq-cücə aydınca görünürdü. Axı bunların çoxunu o özü düzəltmişdi. O, buraya gəlin
 
 @@ 009
 
@@ -59,7 +59,7 @@ Arvad daha da kövrəldi. Önlüyünün ətəyi ilə gözlərini silib, hikkəsi
 
 Şamxal bir az sakitləşdi. Hətta ürəyində anasını yamanladı da. Onun kərənti çəkib, ot çalmaqdan qolları gizildəyirdi. Bu saat doyunca yemək, qılçalarını uzadıb, əzalarının sızıltısı kəsincəyə qədər uzanmaq, rahat nəfəs almaq istəyirdi. Anası isə səhər-səhər onu vay-şivənlə qarşılayırdı.
 
-O, anasının yanından sakitcə ötüb qabağa keçdi. Zərnigar xanım uzun donunun ətəyi ilə gözlərini silə-silə Şamxalın arxasınca cığıra düşdü və oğlunun enli kürəyinə yapışmış tərli köynəyinə, belindəki sallamalı kəmərinə, Kürdən keçəndə islanmış zər baftalı dolağına, suya batmış quşburun çarığına baxdı. Belə bir oğulun onu darda qoymayacağını yəqin edib, özünə toxtaqlıq verdi. Şamxal isə iki yanını basa-basa gedir, yeridikce çiynindəki kərənti sağa-sola ləngər vururdu. Kərəntinin ovxarlanmış və ora-burasında yaşıl ot qırıntıları ilişib qalmış iti ağzı parıldayırdı. Şamxalın üst-başından təzəcə çalınmış ot iyi gəlirdi.
+O, anasının yanından sakitcə ötüb qabağa keçdi. Zərnigar xanım uzun donunun ətəyi ilə gözlərini silə-silə Şamxalın arxasınca cığıra düşdü və oğlunun enli kürəyinə yapışmış tərli köynəyinə, belindəki sallamalı kəmərinə, Kürdən keçəndə islanmış zər baftalı dolağına, suya batmış quşburun çarığına baxdı. Belə bir oğulun onu darda qoymayacağını yəqin edib, özünə toxtaqlıq verdi. Şamxal isə iki yanını basa-basa gedir, yeridikcə çiynindəki kərənti sağa-sola ləngər vururdu. Kərəntinin ovxarlanmış və ora-burasında yaşıl ot qırıntıları ilişib qalmış iti ağzı parıldayırdı. Şamxalın üst-başından təzəcə çalınmış ot iyi gəlirdi.
 
 Zərnigar xanım yenidən kövrəldi. Anasının bu halı Şaraxalı darıxırdı. "Görəsən yenə nə olub? Bu zalım qızının da göz yaşı ovcunun içindədir. Bir şey olan kimi gözünü yumub tökür," - deyə öz-özünə düşündü.
 
@@ -75,11 +75,11 @@ Mənim hayıfımı ondan almasan, südümü sənə halal eləmərəm, oğul! Qiy
 
 Şamxal dinmədi. O bu cür sözləri birinci dəfə eşitmirdi. Atası hər dəfə bir yana gedəndə, toydan-mağardan qayıdanda evdə belə söhbətlər olurdu. Anası həmişə kişinin üstünə düşüb dava-dalaş salar, ağlayıb-sızıldayar, sonra da sakitləşərdi.
 
-Şamxal həyotə girdi. Xalxalın yanından ötüb çardağa yaxınlaşdı. Kərəntini dirəkdən asdı. Heybəni çiynindən götürdü. Üstünə boz ki-
+Şamxal həyətə girdi. Xalxalın yanından ötüb çardağa yaxınlaşdı. Kərəntini dirəkdən asdı. Heybəni çiynindən götürdü. Üstünə boz ki-
 
 @@ 011
 
->>lim salınmış taxtda oturub, əlini çarığın bağına uzatdı. Oğlunun sakitcə əyləşib, çarıqlarını və corabını soyunmaq istadiyini görən Zərnigar xanım irəli gəldi, əllərini belinə qoyub Şamxalın qabağında dayandı.
+>>lim salınmış taxtda oturub, əlini çarığın bağına uzatdı. Oğlunun sakitcə əyləşib, çarıqlarını və corabını soyunmaq istədiyini görən Zərnigar xanım irəli gəldi, əllərini belinə qoyub Şamxalın qabağında dayandı.
 
 – Deyəsən, mənim dediklərimi qulaqardına vurursan?! Atan ölmüşün tərəfini saxlayırsan?! Yoxsa inanmırsan, hə? Gəl, yaxın gəl, gör atan sənə nə yaxşı ana gətirib? Hər yanı bir gəmi boyda. Yeriyəndə yırım-yırım yırğalanır. Gəl, yaxın gəl, tamaşa elə!..
 
@@ -99,7 +99,7 @@ Anasının fəryadı bu dəfə Şamxala yaman təsir etdi. Doğrudan da atası n
 
 Qızının dizin-dizin sürünüb əl çəkmədiyini görən Zərnigar xanım:
 
-– Bircə belə dur, gədənin əl-ayağına dolaşma, - deyə Salatnın hörüklərindən tutub dartışdırdı. - Qoy bu həyasız köpək qızını tikə-tikə doğrasın. Onun ovuc-ovuc qanını içəcəm. Qoy bilsin ki, qızışıb adam üstünə gəlməyin axın necə olur.
+– Bircə belə dur, gədənin əl-ayağına dolaşma, - deyə Salatın hörüklərindən tutub dartışdırdı. - Qoy bu həyasız köpək qızını tikə-tikə doğrasın. Onun ovuc-ovuc qanını içəcəm. Qoy bilsin ki, qızışıb adam üstünə gəlməyin axın necə olur.
 
 @@ 012
 
@@ -107,9 +107,9 @@ Qızının dizin-dizin sürünüb əl çəkmədiyini görən Zərnigar xanım:
 
 – Nə, günahsız?! - Zərnigar xanım elə qışqırdı ki, Salatın özünü itirdi.
 
-Gəlin yavaşca ayağa durdu. Onun ətli sinəsi qalxıb endi. Dodaqları səyridi. Əlini xəncərin dəstəyindon çəkməyən Şamxal onun yalın ayağına, topuğıma enən gen, beli büzməli qırçın donuna, sürüşüb çiyninə düşmüş nimdaş kəlağayısına, qulağındakı yumru sırğaya, tən ortadan ayırdığı qara saçlarına, koftasının yaxasını didişdirən titrək barmaqlarına baxdı. Gəlinin iri qonur gözləri yaşarmışdı.
+Gəlin yavaşca ayağa durdu. Onun ətli sinəsi qalxıb endi. Dodaqları səyridi. Əlini xəncərin dəstəyindən çəkməyən Şamxal onun yalın ayağına, topuğıma enən gen, beli büzməli qırçın donuna, sürüşüb çiyninə düşmüş nimdaş kəlağayısına, qulağındakı yumru sırğaya, tən ortadan ayırdığı qara saçlarına, koftasının yaxasını didişdirən titrək barmaqlarına baxdı. Gəlinin iri qonur gözləri yaşarmışdı.
 
-Şamxal qorxusundan uçum-uçum uçunan bu gəlinin öz tərəflərindən olmadığını dərhal bildi. Görünür, atası onu haradansa, Kürün aşağısındakı uzaq kəndlərin bırindən gətirmişdi. Gəlinin gözəlliyi Şamxalı yumşaltdı. Onun qolları boşaldı. Bunu hiss edən Zərnigar xanım oğlunun üstünə qışqırdı:
+Şamxal qorxusundan uçum-uçum uçunan bu gəlinin öz tərəflərindən olmadığını dərhal bildi. Görünür, atası onu haradansa, Kürün aşağısındakı uzaq kəndlərin birindən gətirmişdi. Gəlinin gözəlliyi Şamxalı yumşaltdı. Onun qolları boşaldı. Bunu hiss edən Zərnigar xanım oğlunun üstünə qışqırdı:
 
 – Hə, niyə durdun? Yoxsa, bu cindar köpək qızının qaş-gözü sənin də ağlını başından aldı? Atan kimi sən də suyuldun? Bu saat onun saçını biləyinə dolayıb sürüməsən, kişi deyilsən! Di tez ol!
 
@@ -165,7 +165,7 @@ Cahandar ağa qolunu hərləyib oğluna bir şillə çəkdi. Şamxal gözləməd
 
 @@ 014
 
-Başı az qala tavana dəyən, pəhləvan cüssəli Cahandar ağanın qara sifəti tunc kimi bozardı, iri həbəşi dodaqları titrədi, qalın, qıllı çatma qaşlarının arası düyünləndi. O az qala yerlə sürünən iri qollarını irəli uzadıb oğluna doğru ayıldı. Şamxal quzğun kimi üstünə gələn atasından əvvəllcə qorxdu. Onun nəzərində kişi getdikcə böyüdü və nərildəyərək ov üstünə atılmağa hazırlaşan heybətli bir pələngə döndü. O gördü ki, atası iri pəncəli əlləri ilə bu saat onu yaxalayacaq, sonra da qabarıq sinəsinin altına salıb xurd-xəşil edəcəkdir. Lakın o özünü ələ aldı və birdən atasının üstünə atıldı.
+Başı az qala tavana dəyən, pəhləvan cüssəli Cahandar ağanın qara sifəti tunc kimi bozardı, iri həbəşi dodaqları titrədi, qalın, qıllı çatma qaşlarının arası düyünləndi. O az qala yerlə sürünən iri qollarını irəli uzadıb oğluna doğru ayıldı. Şamxal quzğun kimi üstünə gələn atasından əvvəlcə qorxdu. Onun nəzərində kişi getdikcə böyüdü və nərildəyərək ov üstünə atılmağa hazırlaşan heybətli bir pələngə döndü. O gördü ki, atası iri pəncəli əlləri ilə bu saat onu yaxalayacaq, sonra da qabarıq sinəsinin altına salıb xurd-xəşil edəcəkdir. Lakın o özünü ələ aldı və birdən atasının üstünə atıldı.
 
 Oğlunun qəfil hücumunu gözləməyən Cahandar ağa tüfəngin qundağı və Şamxalın sinəsindən vurub yerə sərdi. Sonra da təpiklə döyəcləməyə başladı.
 
@@ -227,7 +227,7 @@ Cahandar ağanın heybətli nəriltisi yenidən onun qulaqlarında səsləndi. "
 
 @@ 017
 
->>anamın təqsiri nədir? Axı niyə onun üstünə günü gətirir? Bundan sonra anamın günü ah-vayla keçməyəcəkmi? Mən onun göz yaşına necə dözəydim? Arvad bircə gecənin içində büzüşüb yumağa dönməmişdimi?.." Samxal düşündükcə daha uzaqlara gedir, ürəyində Mələyi asıb-kəsirdi. O heç bir vəchlə Mələyə haqq verə bilmirdi. Bu cavan arvadın nə üçün ev-eşiyini buraxıb, özündən yaşlı kişiyə qoşularaq galdiyini ah-vayla bilmirdi. "Axı o istəsəydi, gəlməzdi. Atamın sözünə baxmazdı. O gəlməsəydi, bizim evdə bu dava-dalaş da olmazdı. Taqsırın hamısı ondadır".
+>>anamın təqsiri nədir? Axı niyə onun üstünə günü gətirir? Bundan sonra anamın günü ah-vayla keçməyəcəkmi? Mən onun göz yaşına necə dözəydim? Arvad bircə gecənin içində büzüşüb yumağa dönməmişdimi?.." Samxal düşündükcə daha uzaqlara gedir, ürəyində Mələyi asıb-kəsirdi. O heç bir vəchlə Mələyə haqq verə bilmirdi. Bu cavan arvadın nə üçün ev-eşiyini buraxıb, özündən yaşlı kişiyə qoşularaq gəldiyini ah-vayla bilmirdi. "Axı o istəsəydi, gəlməzdi. Atamın sözünə baxmazdı. O gəlməsəydi, bizim evdə bu dava-dalaş da olmazdı. Taqsırın hamısı ondadır".
 
 Düşüncələr bir burulğan kimi onu qoynuna alıb fırladırdı. Şamxal yarğanın qaşından ayağa durub üstünün tozunu çırpdı. Suvadağdan düşüb yarğanın kölgəsinə endi.
 
@@ -247,7 +247,7 @@ Elə bil gücsüzlüyünü hiss edən sular hirslənib kötüyün ətrafında f�
 
 Şamxal diksinib qalxdı. Gözünü yarğan uçan tərəfə zillədi. Sonra da əlini üzünə çəkdi. Yanağında laxtalanmış qam ovxalayıb tökdü. Əyilib axar suda əl-üzünü yudu. Üst-başının tozunu çırpıb papağını düzəltdi, Lap yaxında, suyun dayaz yerinə qonmuş balaca, caydaq bir quş cikkildədi. Şamxal dönüb baxdı. Uzun quyruqlu quş balıq axtarırdı.
 
-Şamxal bir dəstə qızın yarğanın qaşı ilə suya endiyini görüb ayağa qalxdı. Başqa vaxt olsaydı, o, yerindən durmazdı. Əksinə, bəlkə da, yaxındakı yulğun kollarının arasına girib, nağıllarda söyləndiyi kimi, suya tökülüb çimişən bu mələk qızların ağ bədəninə, sinələrinə dağılan uzun, qara saçlarına oğrun-oğrun tamaşa edər, onların ördək kimi suya baş vurub üzmələrinə, zarafatlaşıb bir-birilərini suya basmalarına, sonra da balıq kimi şütüyüb adaya qədər getmələrinə göz qoyardı. Bəlkə do balaca vaxtı elədiyi kimi, qızlardan birinin paltarını götürüb gizlədərdi də. Lakin indi onun ortaya çıxası halı yox idi. Üst-başı cırılmış, ağız-burnu əzilib gömgöy edilmişdi. Hələ indiyə qədər kənddə heç kəs onu bu kökdə görməmişdi. Kürü üzüb o üzə keçməkdə birincilik qazanan, at çapıb xəncər oynatmaqda heç kəsə aman verməyən, yaba, yumruq davasında dəfələrlə qalib gələn Şamxal buradan uzaqlaşmağı qərara aldı. Dərhal paltarını soyundu. Qızların qaqqıltısı və ayaq tappıltıları yarğanda səslənincə, paltarını başına dolayıb, özünü suya atdı. Bir göz qırpımında üzüb cələyə keçdi. Qızlar sahilə enənde qarşıdakı adada tərpənən yulğun kollarından başqa heç na gormədilər.
+Şamxal bir dəstə qızın yarğanın qaşı ilə suya endiyini görüb ayağa qalxdı. Başqa vaxt olsaydı, o, yerindən durmazdı. Əksinə, bəlkə da, yaxındakı yulğun kollarının arasına girib, nağıllarda söyləndiyi kimi, suya tökülüb çimişən bu mələk qızların ağ bədəninə, sinələrinə dağılan uzun, qara saçlarına oğrun-oğrun tamaşa edər, onların ördək kimi suya baş vurub üzmələrinə, zarafatlaşıb bir-birilərini suya basmalarına, sonra da balıq kimi şütüyüb adaya qədər getmələrinə göz qoyardı. Bəlkə do balaca vaxtı elədiyi kimi, qızlardan birinin paltarını götürüb gizlədərdi də. Lakin indi onun ortaya çıxası halı yox idi. Üst-başı cırılmış, ağız-burnu əzilib gömgöy edilmişdi. Hələ indiyə qədər kənddə heç kəs onu bu kökdə görməmişdi. Kürü üzüb o üzə keçməkdə birincilik qazanan, at çapıb xəncər oynatmaqda heç kəsə aman verməyən, yaba, yumruq davasında dəfələrlə qalib gələn Şamxal buradan uzaqlaşmağı qərara aldı. Dərhal paltarını soyundu. Qızların qaqqıltısı və ayaq tappıltıları yarğanda səslənincə, paltarını başına dolayıb, özünü suya atdı. Bir göz qırpımında üzüb cələyə keçdi. Qızlar sahilə enəndə qarşıdakı adada tərpənən yulğun kollarından başqa heç na görmədilər.
 
 @@ 019
 
@@ -277,15 +277,15 @@ Nökərlər heyvanları yerləşdirdilər. Qulluqçular inəkləri sağıb rahat
 
 Heyətə sakitlik çökdü. Bu sükut getdikcə gücləndi və bütün şənliyi bürüdü. Sahilboyu səpələnmiş kənd evlərinin solğun işıqları, həyətlərdə qalanan ocaqların közərtiləri də yavaş-yavaş söndü. Kürün qıjıltısı gücləndi. Əsən asta külək biçilmiş otların qoxusunu kəndə doldurdu. Hamı evə çəkildi. Cahandar ağa isə qapıda hərlənir, pəncərəsindən zəif işıq gələn otağa yaxınlaşa bilmirdi. İndi o nə etməli idi? Öz hərəkətlərinə necə bəraət qazandırmalı idi?..
 
-İki gün bundan əvvəl, şəhərdən qayıdarkən, Kürün sahilinda Mələyə rast gələndə o heç nə fikirləşməmişdi. Cavan, ətli-qanlı gəlini su kənarında görəndə sönməkdə olan ehtirası birdən-birə quduz kimi oyanmışdı. Hələ keçən il, dağa köçəndə, Cahandar ağanın gözü bu gəlini almışdı. Göytəpəlilər dağ yolunda, çay kənarında arabalarını aç-
+İki gün bundan əvvəl, şəhərdən qayıdarkən, Kürün sahilində Mələyə rast gələndə o heç nə fikirləşməmişdi. Cavan, ətli-qanlı gəlini su kənarında görəndə sönməkdə olan ehtirası birdən-birə quduz kimi oyanmışdı. Hələ keçən il, dağa köçəndə, Cahandar ağanın gözü bu gəlini almışdı. Göytəpəlilər dağ yolunda, çay kənarında arabalarını aç-
 
 @@ 021
 
->>mışdılar. Kürün aşağısındakı obaların köçü isə gəlib keçirdi. Bir dəstə qız-gəlin atla, arabalardan qabaq yola düşmüşdü. Onlar bulaq başında cılovu çəkib atlarını suladılar. Elə bu vaxt Cahandar ağanın gözü yəhərin üstündə şostlə oturmuş Mələyin açıq buduna sataşdı. Gəlin ətəyinin çirmənməyindən xəbərsiz olsa da, bir qadın sövq-təbii ilə kiminsə ona baxdığını duydu və ətrafına göz gəzdirəndə bulağın üst tərəfində tüfəngini qucaqlayıb otluğa uzanmış Cahandar ağanı gördü. Gəlin öz gözəlliyini dərk edən bir qadın qürurundanmı, yoxsa ona gözünü zilləyən kişinin ağayanalığını xoşladığındanmı, nədənsə, gülümsündü. Bunu hiss cdən Cahandar ağanın iri dodaqları aralandı. Ancaq Mələk ani şaşqınlıqdan sonra özünü ələ aldı. Pul kimi qızardı. Kəlağayısını gözünün üstünə çəkib atını mahmızladı. Donunun çir-mənmiş yerini düzəldib budunu örtdü. Bir göz qırpımında qarşıdakı döngədən burulub yox oldu. Cahandar ağa arabaçılardan bu koçün hansı obanın olduğunu öyrənsə də, nə gəlinin adını, nə də kimliyini heç kəsdən soruşa bilmədi.
+>>mışdılar. Kürün aşağısındakı obaların köçü isə gəlib keçirdi. Bir dəstə qız-gəlin atla, arabalardan qabaq yola düşmüşdü. Onlar bulaq başında cilovu çəkib atlarını suladılar. Elə bu vaxt Cahandar ağanın gözü yəhərin üstündə şəstlə oturmuş Mələyin açıq buduna sataşdı. Gəlin ətəyinin çirmənməyindən xəbərsiz olsa da, bir qadın sövq-təbii ilə kiminsə ona baxdığını duydu və ətrafına göz gəzdirəndə bulağın üst tərəfində tüfəngini qucaqlayıb otluğa uzanmış Cahandar ağanı gördü. Gəlin öz gözəlliyini dərk edən bir qadın qürurundanmı, yoxsa ona gözünü zilləyən kişinin ağayanalığını xoşladığındanmı, nədənsə, gülümsündü. Bunu hiss cdən Cahandar ağanın iri dodaqları aralandı. Ancaq Mələk ani şaşqınlıqdan sonra özünü ələ aldı. Pul kimi qızardı. Kəlağayısını gözünün üstünə çəkib atını mahmızladı. Donunun çir-mənmiş yerini düzəldib budunu örtdü. Bir göz qırpımında qarşıdakı döngədən burulub yox oldu. Cahandar ağa arabaçılardan bu köçün hansı obanın olduğunu öyrənsə də, nə gəlinin adını, nə də kimliyini heç kəsdən soruşa bilmədi.
 
 ...İndi bir ildən sonra təsadüf onları yenə qabaqlaşdırmışdı. Cahandar ağa çoxdan bəri xəyalından çıxmayan gəlini görəndə atının başını çəkib saxlamış və donunun ətəyini dizindən yuxarı qaldırıb paçasının arasında bürmələmiş gəlinin suda daha gözəl görünən maya kimi ağ baldırlarına həsrətlə, oğrun-oğrun baxmışdı. Mələk axşamüstü günəşin son şüalarını əks etdirib parıldayan Kürün qızılı sularında əl-üzünü yuyurdu.
 
-Cahandar ağa atını yaxrı sürüb:
+Cahandar ağa atını yaxşı sürüb:
 
 – Ay bacı, atan ehsanına bir qab su ver, içim, - demişdi.
 
@@ -363,9 +363,9 @@ Gecədən xeyli keçmişdi. Mələyin nəfəsindən məst olan Cahandar ağa pı
 
 – Özün bilirsən ki, səni heç yerə buraxan deyiləm. Kişi tüpürdüyünü yalamaz. Sən həmişə, qəbrəcən mənim olacaqsan. Ancaq o da yazıqdı. Birtəhər dilə tutub, yola gətirmək lazımdır. Necə olsa uşaqlarımın anasıdır. Yanına get, əl-ayağına düş, yalvar, de ki, bir qəzadı başıma gəlib, yazığam, keç günahımdan, elə bil mən də sənin qulluqçun. Qabağında dillənib üzünə ağ olmaram. Xasiyyətini bilirəm. Ürəyi yumşalıb barışacaq. Elə mən özüm də onu dilə tutacağam. Sonra da bir-birimizə isinişəcəksiniz. Hər şey düzələcək, fikir eləmə.
 
-Mələk bir pişik mehribanlığı ilə Cahandar ağanın sinəsinə qısılıb xumarlanır, onun dediyi sözlərə qulaq asdıqca ürəyindəki şübhə və qorxu yoxa çıxırdı. Tüklü sinəsində mehriban bir əlin gəzdiyini hiss edən Cahandar ağa hər şeyi unndub Mələyin ətli bədənini qucaqlayır, cavan qadının hərarətli təmasından məst olurdu...
+Mələk bir pişik mehribanlığı ilə Cahandar ağanın sinəsinə qısılıb xumarlanır, onun dediyi sözlərə qulaq asdıqca ürəyindəki şübhə və qorxu yoxa çıxırdı. Tüklü sinəsində mehriban bir əlin gəzdiyini hiss edən Cahandar ağa hər şeyi unudub Mələyin ətli bədənini qucaqlayır, cavan qadının hərarətli təmasından məst olurdu...
 
-Əslinə baxsan, Mələk bu evə gəlməyindən narazı deyildi. O, Kür-dən xeyli aralı olan dağ kəndlərindən idi. Təmiz havası, sərin diş göy nədən bulaqları, güllü-çiçəkli çəmənlikləri olan bu kəndin bütün qızları kimi Mələk də ayaqyalın, başıaçıq böyömüşdü... ,
+Əslinə baxsan, Mələk bu evə gəlməyindən narazı deyildi. O, Kür-dən xeyli aralı olan dağ kəndlərindən idi. Təmiz havası, sərin diş göy nədən bulaqları, güllü-çiçəkli çəmənlikləri olan bu kəndin bütün qızları kimi Mələk də ayaqyalın, başıaçıq böyümüşdü... ,
 
 O, balacalıqdan yetim qalmışdı. Hələ beş yaşı tamam olmamış dağda onların evini sel aparmışdı. Ata-anası da dayə ilə birlikdə yox
 
@@ -393,7 +393,7 @@ O, sonuncu arvadı ilə haqq-hesabı kəsəndən sonra öz kəndlərindən evlə
 
 Onsuz da taleyindən küskün olan Mələk elə ilk ətindən ərinə boyun əymiş, onun dediyi ilə oturub durmuşdu. Allahyar da ilk günlər ona pis olmamışdı. Mələyi geyindirib-kecindirmiş, "Yetinliklə böyümüsən, qoy əynin sevinsin", - demişdi. Ancaq bir üdən sonra yavaş-yavaş kürlüyo başlamış, Mələyin yediyini-içdiyini burnundan tökmüşdü. Hər gün bir bəhanə ilə onu danlayıb söymüş, "Niyə ıışağın olmur, sonsuz arvad mənim nəyimə lazımdır", - deyə evdə dava-dalaş salmışdı.
 
-Mələk şam kimi ərisə də, dərdini heç kəsə açmırdı. Bir də bu qərib kənddə onun dərdini söyləyəsi bir adamı da yox idi. Mələk sirrini çölə salmamaq üçün qonum-qonşuya belə getmirdi. Tez-tez eyvanda dayanıb yuxanlara, dolama yolların uzanıb getdiyi təpələrin o üzündəki dağ ətəyində güclə görünən kəndlərinə baxırdı. "İndi yəqin ki, oraların otu hələ solmayıb. Çiçəklər də yazın əvvəlindəki kimi tərtəzədir. Bulaqların suyu görəsən yenə sərindirmi? Yenə qayaların arasından sızdıqca şırıldayırmı? Ah, Allahın altında bircə günlüyə qanadlı quş olaydım, uça-uça gedib bacamızdan içəri düşəydim, əmimə, evimizə doyunca baxaydım, sonra da bulaq başına qaçaydım. Otların üstünə sərilib, göydəki buludların dağların başına neca qonduğuna baxaydım. Çiçəklərimizin, kəkotumuzun iyindən ötəri burnumun ucu göynəyir. Görəsən məni heç yada salan varmı? Suya gələn qızlardan, atını sulayan oğlanlardan məni anan olurmu? Yoxsa yaddan çıxmışam?" - dey düşünür, örpəyinin ucu ilə dolmuş gozlərini silirdi. O, bir an belə kəndlərini, döşlərdə mal otaran uşaqları, atını çapıb çəmənliklərdə
+Mələk şam kimi ərisə də, dərdini heç kəsə açmırdı. Bir də bu qərib kənddə onun dərdini söyləyəsi bir adamı da yox idi. Mələk sirrini çölə salmamaq üçün qonum-qonşuya belə getmirdi. Tez-tez eyvanda dayanıb yuxanlara, dolama yolların uzanıb getdiyi təpələrin o üzündəki dağ ətəyində güclə görünən kəndlərinə baxırdı. "İndi yəqin ki, oraların otu hələ solmayıb. Çiçəklər də yazın əvvəlindəki kimi tərtəzədir. Bulaqların suyu görəsən yenə sərindirmi? Yenə qayaların arasından sızdıqca şırıldayırmı? Ah, Allahın altında bircə günlüyə qanadlı quş olaydım, uça-uça gedib bacamızdan içəri düşəydim, əmimə, evimizə doyunca baxaydım, sonra da bulaq başına qaçaydım. Otların üstünə sərilib, göydəki buludların dağların başına necə qonduğuna baxaydım. Çiçəklərimizin, kəkotumuzun iyindən ötəri burnumun ucu göynəyir. Görəsən məni heç yada salan varmı? Suya gələn qızlardan, atını sulayan oğlanlardan məni anan olurmu? Yoxsa yaddan çıxmışam?" - dey düşünür, örpəyinin ucu ilə dolmuş gozlərini silirdi. O, bir an belə kəndlərini, döşlərdə mal otaran uşaqları, atını çapıb çəmənliklərdə
 
 @@ 027
 
@@ -499,7 +499,7 @@ Qardaşı yadına düşəndə Şamxalın həm ürəyi kövrəldi, həm də qəz�
 
 – İndi də belə. "Yox, atam da olsa, boyun əyməyəcəm. Onun bir çöpü də mənə lazım deyil. Təzədən onun qapısına getsəm, üzümə vurmasa da, ürəyində "Urvan məndən olmasa, kündən küt düşər" -deyəcək. Heç nə lazım deyil, heç atamın seçdiyi qızlara da yaxın getməyəcəm. Kimi ürəyim istəyir, onu da alacağam. Nə çoxdur kəndimizdə gözəl-göyçək qızlar. Elə biri Çərkəzin bacısı Güləsər. Kimdən pisdir? Nə olar atası gəmiçi olanda? Özünün də deyəsən mənə meyli var".
 
-Şamxal papirosunu sümürüb çardağın üstündən yerə atdı. Közəran papiros havanı cızıb otluğun arasında xeyli qızardı. İri bir ağcaqanad vızıldayıb Şamxalın başına dolandı. Qulağının dibindən sancıb uzaqlaşdı. Şamxal bayaqdan bəri onu yoran dolaşıq fikirlərdən yaxasını qurtarmaq üçün yorğanı başına çəkdi. Ancaq yenə sakit ola bilmədi. Bir yandan da bədəninə daraşan birələr onu qor kimi daladı. Yata bilməyəcəyini görən Şamxal yorğam kənara atıb oturdu. Hardasa xoruz banladı. Aşağıdakı təpələrin arxasından çıxan ay yuvarlana-yuvarlana yuxarı qalxdı. Kəndin üstünə solğun bir işıq çiləndi. Kürün şaxalənmiş suları parıldadı. Gecə böcəkləri səs-səsə verib ötür, çəmənlikdəki yaşıl qurbağalar quruldaşırdılar.
+Şamxal papirosunu sümürüb çardağın üstündən yerə atdı. Közərən papiros havanı cızıb otluğun arasında xeyli qızardı. İri bir ağcaqanad vızıldayıb Şamxalın başına dolandı. Qulağının dibindən sancıb uzaqlaşdı. Şamxal bayaqdan bəri onu yoran dolaşıq fikirlərdən yaxasını qurtarmaq üçün yorğanı başına çəkdi. Ancaq yenə sakit ola bilmədi. Bir yandan da bədəninə daraşan birələr onu qor kimi daladı. Yata bilməyəcəyini görən Şamxal yorğam kənara atıb oturdu. Hardasa xoruz banladı. Aşağıdakı təpələrin arxasından çıxan ay yuvarlana-yuvarlana yuxarı qalxdı. Kəndin üstünə solğun bir işıq çiləndi. Kürün şaxalənmiş suları parıldadı. Gecə böcəkləri səs-səsə verib ötür, çəmənlikdəki yaşıl qurbağalar quruldaşırdılar.
 
 @@ 031
 
@@ -519,7 +519,7 @@ Birdən Çərkəz hövlnak oyanıb, başını yorğanın altından çıxartdı:
 
 – Hə, dur, ay çoxdan doğub.
 
-Çərkəz yorğanı üstündon atıb ayağa durdu. Qollarını açıb gərnəşdi. Sərin havanı ciyərlərinə çəkib bərkdən əsnədi.
+Çərkəz yorğanı üstündən atıb ayağa durdu. Qollarını açıb gərnəşdi. Sərin havanı ciyərlərinə çəkib bərkdən əsnədi.
 
 – Deyəsən, yatıb qalmışıq.
 
@@ -575,7 +575,7 @@ Səs eşidən şələquyruq bir tülkü gözləri parıldaya-parıldaya qaçıb,
 
 – Qurbağa tutmağa. Qarmağa keçirəcəyəm.
 
-O özünü şappıltı ilə suya atdı. Bir az bundan qabaq səs-səsə verib suyun üzündə süzən qurbağalar susdular. Çərkəz balaca gölməçədə xeyli əlləşdi. Bir-iki dəfə əlinə toxunan soyuq və süruşkən qurbağaları qaçırtdı.
+O özünü şappıltı ilə suya atdı. Bir az bundan qabaq səs-səsə verib suyun üzündə süzən qurbağalar susdular. Çərkəz balaca gölməçədə xeyli əlləşdi. Bir-iki dəfə əlinə toxunan soyuq və sürüşkən qurbağaları qaçırtdı.
 
 Şamxal dolaqlarını açıb ayaqlarını soyunana qədər çərkəz qayıtdı. Onun əlində beş-altı qurbağa vardı. Çərkəz onları başıaşağı sallamışdı. Qurbağaların qarnı ağarırdı.
 
@@ -705,7 +705,7 @@ Salatın anasının boynunu qucaqlayıb, üz-gözündən öpdü:
 
 Həmişə mal-qara öriişdən qayıdanda həyətə çıxıb, əli belində, qulluqçulara göstəriş verən, inəklərin südünü bir yana yığdırıb eyməyə çəkdirən, toyuq-cücəni rahatlayıb, itlərin yalına belə göz qoyan Zərnigar xanım indi yerindən tərpənmədi. Yarğanın qaşında at kişnəyəndə ərinin gəldiyini hiss etdi. Otaq onun başına fırlandı. Arvadın bədənini titrətmə götürdü. O, pəncərədən hər şeyi görürdü. Əlində çatı buzov dalınca qaçanları da, malları xalxala dolduranları da, itlərin zəncirini açıb yal tökənləri də gözündən qoymurdu. Onun həyatı dünənə qədər nə yaxşı sakit keçirdi. Şamxal bir tərəfdə hərlənər, hamıdan çox istədiyi, boynunu oxşayıb "mənim yaranal ərim" - dediyi Cahandar ağa samanlığın üstündə oturub nərildəyərdi. Zərnigar xanım da ortada hərlənərdi. Amma indi!..
 
-Onun fikri bayırda qalsa da yerindən tərpənmir, canını dişinə tutub dayanırdı. Hətta xalxaldan çıxan təpəl buzov anasını əməndə arvad hər şeyi unudub "ay qız!" - deyə çığırdı da. Salatın anasından nə olduğunu soruşanda Zərnigar xanım "heç" – deyə köksünü ötürdü. Onun gözü yolda idi. Bu gün-sabah kiçik oğlu oxumaqdan qayıdacaqdı. Ona nişan aparacaqdılar. Zərnigar xanım düz iki il idi ki, kənd qızlarını gozündən qoymurdu. İstər Qaynarda, istərsə də Kürdə çimişəndə onlara baxır, toyda, nişanda özünə gəlin seçirdi. Əşrəf onun istəklisi idi. Ozünün dediyi kimi, ilk ovunun balası idi. Onun özünə layiq bir qız axtarıb tapraaq, sonra da cah-cəlalla toy etmək Zərnigar xanımın arzu-
+Onun fikri bayırda qalsa da yerindən tərpənmir, canını dişinə tutub dayanırdı. Hətta xalxaldan çıxan təpəl buzov anasını əməndə arvad hər şeyi unudub "ay qız!" - deyə çığırdı da. Salatın anasından nə olduğunu soruşanda Zərnigar xanım "heç" – deyə köksünü ötürdü. Onun gözü yolda idi. Bu gün-sabah kiçik oğlu oxumaqdan qayıdacaqdı. Ona nişan aparacaqdılar. Zərnigar xanım düz iki il idi ki, kənd qızlarını gözündən qoymurdu. İstər Qaynarda, istərsə də Kürdə çimişəndə onlara baxır, toyda, nişanda özünə gəlin seçirdi. Əşrəf onun istəklisi idi. Özünün dediyi kimi, ilk ovunun balası idi. Onun özünə layiq bir qız axtarıb taparaq, sonra da cah-cəlalla toy etmək Zərnigar xanımın arzu-
 
 @@ 036
 
@@ -713,7 +713,7 @@ Onun fikri bayırda qalsa da yerindən tərpənmir, canını dişinə tutub daya
 
 Bir ay bundan əvvəl onlar qazının qapısına getmiş və qız "həsini almışdılar. Onlar Əşrəf gələnə qədər hər şeyi hazır etmək istəyirdilər. Elə bu məqsədlə də Cahandar ağa şəhərə, həftə bazarına getmişdi. Geri qayıdanda parça-paltar əvəzinə Mələyi gətirmişdi. Zərnigar xanımı da elə yandıran bu idi. Bunları düşündükcə onun başından tüstü çıxır, ünü göyə qalxırdı. "Səni görüm el içində xəcil olasan, ay kişi, oğul-uşaq yanında üzün qara olsun", - deyə ərinə qarğayırdı.
 
-Həyətdə ocaq qalanıb maralın dərisi soyulanda arvad yenidən hirsləndi. "Səni görüm gora sağ baş aparmayasan! Təzə eşqə düşdüyün yerdə tanrı belini qıraydı, Gör nə tezcə də ova gedib? Gül kimi balamı evindən didərgin salıb, hələ utanmır, iştahından maral əti də keçir. Görüm yediyiniz boğazınızda qalsın. Bilirəm ki, elə də olacaq. Təzə bardağın suyu sərin olar. İndidən xanımına maral əti yedirdir. Qoy olsun. Mənim ahım sızi tutmasa, daha heç nə bilmirəm".
+Həyətdə ocaq qalanıb maralın dərisi soyulanda arvad yenidən hirsləndi. "Səni görüm gora sağ baş aparmayasan! Təzə eşqə düşdüyün yerdə tanrı belini qıraydı, Gör nə tezcə də ova gedib? Gül kimi balamı evindən didərgin salıb, hələ utanmır, iştahından maral əti də keçir. Görüm yediyiniz boğazınızda qalsın. Bilirəm ki, elə də olacaq. Təzə bardağın suyu sərin olar. İndidən xanımına maral əti yedirdir. Qoy olsun. Mənim ahım sizi tutmasa, daha heç nə bilmirəm".
 
 Salatın anasının vəziyyətini başa düşsə də, bir şey deyə bilmirdi. Axı o nə edə bilərdi? Anasına təsəlli vermək üçün bir sözü yox idi...
 
@@ -735,15 +735,15 @@ Tapdıq nə isə demək istədi. Lakin Zərnigar xanım ayağını yerə döyüb
 
 Nökər dinməz-söyləməz bayıra çıxdı. Arvadı yenidən hirs götürdü. "Yox, bu evin altını üstünə çevirəcəyəm. Onun yurduna od vuracağam. Bu hayfi onda qoymaram. Mən çöldə-zadda qalmamışam. Mənim də sahibim var. Yerlər qulaqlıdır. Bu gün-sabah gəlib çıxarlar".
 
-O doğrudan da qapını açıb həyətə çıxmaq, ərini Mələyə, Mələyi də arinə qatmaq istədi. Ancaq səhərki əhvalatı xatırlayanda susdu. Büzüşüb bir küncdəcə oturdu. Əli hər yerdən üzüldüyündən, gözlərinə dəm verdi.
+O doğrudan da qapını açıb həyətə çıxmaq, ərini Mələyə, Mələyi də ərinə qatmaq istədi. Ancaq səhərki əhvalatı xatırlayanda susdu. Büzüşüb bir küncdəcə oturdu. Əli hər yerdən üzüldüyündən, gözlərinə dəm verdi.
 
 Salatın yük yerindən yorğan-döşək götürüb yer saldı. Sakitcə anasına yaxınlaşdı.
 
 – Dur, ana, qurbanın olum, canına yazığın gəlsin.
 
-Zərnigar xanım bu dəfə dinmədi. Elə pallı-paltarlı yerinə uzandı. Salatın anasının böyrünə qısıldı. O, bu saat atasının fikrini dağıtmaq üçün çox şey söyləmək istəyirdi. Ancaq nədən başlamağı bilmirdi. Qardaşından söz salıb Şamxalın harda olduğunumu soruşsun, yoxsa Əşrəfdən danışıb qardaşına almaq istədikləri qızımı tərifləsin? İki gün əvvəl Kürün qırağında onu gördüyünümü söyləsin? Anasına desinmi ki, qız Əşrəfi soruşurdu? Onun qaş-gözunü tərifləyib, şirin gülüşündən, çənəsindəki qara xalından sözmü salsın?
+Zərnigar xanım bu dəfə dinmədi. Elə pallı-paltarlı yerinə uzandı. Salatın anasının böyrünə qısıldı. O, bu saat atasının fikrini dağıtmaq üçün çox şey söyləmək istəyirdi. Ancaq nədən başlamağı bilmirdi. Qardaşından söz salıb Şamxalın harda olduğunumu soruşsun, yoxsa Əşrəfdən danışıb qardaşına almaq istədikləri qızımı tərifləsin? İki gün əvvəl Kürün qırağında onu gördüyünümü söyləsin? Anasına desinmi ki, qız Əşrəfi soruşurdu? Onun qaş-gözünü tərifləyib, şirin gülüşündən, çənəsindəki qara xalından sözmü salsın?
 
-Salatm çox fikirləşdi, çox düşündü və özünün də xəbəri olmadan yuxuya getdi. Qızının bir quzu kimi böyrünə qısıldığını görən Zərnigar xanım ehmalca onun üstünü örtdü. Salatın şirin-şirin mışıldayırd!. Arvad bir anlığa hər şeyi unutdu. Onun qəlbindəki analıq hissi qadınlıq duyğusuna, kin-küdurətə və qısqanclığa üstün gəldi. "Mən bunu hara qoyum gedim? - deyə düşündü. - Tutalım, sifariş elədim, qardaşlarım gəlib məni apardılar, bəs sonra? Onlar dinc duracaqlarmı? Araya qan düşməyəcəkmi? Kim bilir, dilim-ağzım qurusun, bəlkə də uşaqlardan birini öldürdülər. Ya da ki, bizim kişini vurdular, onda necə olacaq? Elə də olsa, belə də olsa, yenə mənim evim yıxılmayacaqmı? Oğlum-qızım düzdə qalmayacaqmı? Nə bilim vallah, heç özün də bu işlərdən baş açmıram. Kaş yaranmayaydım. Allah məni bura gatirən günə daş yağdıraydı".
+Salatın çox fikirləşdi, çox düşündü və özünün də xəbəri olmadan yuxuya getdi. Qızının bir quzu kimi böyrünə qısıldığını görən Zərnigar xanım ehmalca onun üstünü örtdü. Salatın şirin-şirin mışıldayırd!. Arvad bir anlığa hər şeyi unutdu. Onun qəlbindəki analıq hissi qadınlıq duyğusuna, kin-küdurətə və qısqanclığa üstün gəldi. "Mən bunu hara qoyum gedim? - deyə düşündü. - Tutalım, sifariş elədim, qardaşlarım gəlib məni apardılar, bəs sonra? Onlar dinc duracaqlarmı? Araya qan düşməyəcəkmi? Kim bilir, dilim-ağzım qurusun, bəlkə də uşaqlardan birini öldürdülər. Ya da ki, bizim kişini vurdular, onda necə olacaq? Elə də olsa, belə də olsa, yenə mənim evim yıxılmayacaqmı? Oğlum-qızım düzdə qalmayacaqmı? Nə bilim vallah, heç özün də bu işlərdən baş açmıram. Kaş yaranmayaydım. Allah məni bura gətirən günə daş yağdıraydı".
 
 Artıq ətraf sakitləşmişdi. Ay solğun işığını pəncərədən içəri salmışdı. Kürün qıjıltısı aydınca eşidilirdi. Zərnigar xanım gözünü pəncə-
 
@@ -877,7 +877,7 @@ Zərnigar o gündən sonra oğlanı daha intizarla gözlədi.
 
 Bu hadisədən düz bir il sonra qıza elçi gəldi. Nişan taxdılar, sonra da toy oldu. Zərnigarı Cahandar ağaya verdilər...
 
-... Gözünü pəncərəyə zilləyib dayanan Zərnigar xanım hər şeyi indiki kimi xattriayırdı. Düz üç gün, üç gece toy çaldılar. Sonra da qumrovlu fayton gətirdilər. Qardaşları kövrəlmişdi. Deyəsən, bacıla-rından ayrılmaq onlara ağır gəlirdi. Zərnigar onların boynunu qucaq-layıb ağladı. Gəlini evdən çıxartdılar. Kimsə "gəlin oynasın", -dedi. Zərnigan ortaya çəkmək istədilər. Ancaq qızın böyük qardaşı irəli yeridi. "Mənim bacım öz toyunda oynamayacaq". Mübahisə qızaşdı. Axırda yengə ortaya çıxdı. "Gəlində işiniz olmasın", - dedi. Faytonlar qatarlaşdılar. Zərnigar evlərindən ayrıldı. Kimsə "yola çıxan kimi faytonları dayandırıb gəlini oynadacağıq", - dedi. Zərnigar, qardaşının hirsli səsini eşitdi: "Beşaçılanı doldurub damın üstündə gözləyəcəyəm. Kimin hünəri varsa, oynatsın!".
+... Gözünü pəncərəyə zilləyib dayanan Zərnigar xanım hər şeyi indiki kimi xattriayırdı. Düz üç gün, üç gece toy çaldılar. Sonra da qumrovlu fayton gətirdilər. Qardaşları kövrəlmişdi. Deyəsən, bacıla-rından ayrılmaq onlara ağır gəlirdi. Zərnigar onların boynunu qucaq-layıb ağladı. Gəlini evdən çıxartdılar. Kimsə "gəlin oynasın", -dedi. Zərnigar ortaya çəkmək istədilər. Ancaq qızın böyük qardaşı irəli yeridi. "Mənim bacım öz toyunda oynamayacaq". Mübahisə qızaşdı. Axırda yengə ortaya çıxdı. "Gəlində işiniz olmasın", - dedi. Faytonlar qatarlaşdılar. Zərnigar evlərindən ayrıldı. Kimsə "yola çıxan kimi faytonları dayandırıb gəlini oynadacağıq", - dedi. Zərnigar, qardaşının hirsli səsini eşitdi: "Beşaçılanı doldurub damın üstündə gözləyəcəyəm. Kimin hünəri varsa, oynatsın!".
 
 Qumrovlu faytonlar yola çatıb dayandı. Zurnaçıları düşürdüb oyun havası çaldırdılar. Gəlini oynatmaq istədilər. Elə bu vaxt başlarının üstündən dalbadal üç güllə vıyıldayıb keçdi. Dönüb baxdılar. Zərnigar da üzündən duvağı araladı. Damın üstündə əli tüfəngli dayanan qardaşını gördü. Ağsaqqal bir kişi cavanlara acıqlandı:
 
@@ -891,7 +891,7 @@ Bütün bunlar düz iyirmi il qabaq olmuşdu. O zaman Zərnigarın on altı yaş
 
 >>dimazarın evini yıxsın. Paxılın goru çatlasın. Məni gözü gotürməyənin gözünə nar şaxı batsın".
 
-Bayırda külək qalxdı. Həyətdə dirəkdən asılmış tənəka ləyən yerə düşüb danqıldadı. Tardakı toyuqlar qığıldaşdılar. Talvarın üstündəki ot tayası uçub yerə töküldü. Zərnigar xanım küləyin otu bir yumaq kimi büküb xırman yerinə qədər apardığını gördükdə yerindən tərpənmədi. "Qoy Allah hər şeyin altını üstünə çevirsin", - deyə öz-özünə pıçıldadı. Nökərlərin samanlığın yanında qaladıqları ocaq yerindəki kösövlər közərdi. Külək şiddətləndikcə ocaq qalanır, qığılcımlar göyə sovrulurdu.
+Bayırda külək qalxdı. Həyətdə dirəkdən asılmış tənəkə ləyən yerə düşüb danqıldadı. Tardakı toyuqlar qığıldaşdılar. Talvarın üstündəki ot tayası uçub yerə töküldü. Zərnigar xanım küləyin otu bir yumaq kimi büküb xırman yerinə qədər apardığını gördükdə yerindən tərpənmədi. "Qoy Allah hər şeyin altını üstünə çevirsin", - deyə öz-özünə pıçıldadı. Nökərlərin samanlığın yanında qaladıqları ocaq yerindəki kösövlər közərdi. Külək şiddətləndikcə ocaq qalanır, qığılcımlar göyə sovrulurdu.
 
 Zərnigar xanım yerin içində dirsəkləndi. "Belləri qırılmışlar, elə yeyib yatmağı bilirlər. Ocağı da söndürməyiblər. Bu saat samanlığa od düşəcək". O, həyəcanlandı və bir az bundar; əvvəl dediyi sözləri unudub yerindən qalxdı. Qapıya yaxınlaşdı. Nə qədər hirsli olsa da, ərinə qarğayıb söysə də, var-dövlətinin yanıb kül olmasını istəmirdi. Necə deyərlər, dil desə də, ürək razı olmurdu.
 
@@ -919,7 +919,7 @@ Allahyar küçəyə çıxanda dükançılar adətləri üzrə yenə səkiləri s
 
 Allahyar atdan düşdü. Kəhəri ağaca bağlayıb, xurcunu götürdü. Dükana yaxınlaşdı. Alverçilər onu - köhnə və tanış müştərini mehribanlıqla qarşıladılar. Allahyar beş-on girvənkə düyü, kişmiş, qaysı aldı. İki kəllə qənd götürdü. Çəkməçilərdən anasına bir cüt məst aldı. Xurcunun ağzını bağlayıb, yenə atın belinə qalxdı.
 
-Artıq gün əyilmişdi. Ağacların kölgələri uzanıb çarpazlaşmış və küçəyə sərilmişdi. Tənəkəçi dükanlarının qabağındakı dəmir sobalar, qab-qacaqlar günün altında parıldayırdı. Ustalar çəkidə tənəkələri dö-yəclədikcə danqıltı şəhəri başına götürür, dəmirçixanalardakı zindan səsini belə batırırdı.
+Artıq gün əyilmişdi. Ağacların kölgələri uzanıb çarpazlaşmış və küçəyə sərilmişdi. Tənəkəçi dükanlarının qabağındakı dəmir sobalar, qab-qaçaqlar günün altında parıldayırdı. Ustalar çəkidə tənəkələri dö-yəclədikcə danqıltı şəhəri başına götürür, dəmirçixanalardakı zindan səsini belə batırırdı.
 
 @@ 044
 
@@ -951,13 +951,13 @@ Allahyar ən çox qorxduğu yerə çatmışdı. Burada dərənin ətrafın-dakı
 
 Deyilənə görə, qarşıdakı dərədə bir gecədə yeddi qardaşı xəncər-dən keçirib, yarğandan atıblar. Yaralılar səhərəcən "qardaş vay", - deyə bir-birini çağırıb inildəmişdilər. Elə o vaxtdan buranın adı "Qardaş vay" dərəsi qalmışdır.
 
-Allahyarın həmişə olduğu kimi, indi də bu dərayə çatanda sümüyü eyməndi.
+Allahyarın həmişə olduğu kimi, indi də bu dərəyə çatanda sümüyü eyməndi.
 
 @@ 046
 
-O, sol tərəfdəki təpədə do qaraltılar gördü. Özünü lap itirdi, Atın başını qanırıb dönmək və birbaş şəhərə qayıtmaq istədi. Ancaq gec idi. Çaxmağı yavaşca hərləyib gülləni lüləyə verdi. Atı xır yoldan torpaq yola saldı. "Allaha pənah", - deyə irəlilədi. Təpələrin ağız-ağıza qovuşduğu yerə çatanda gözünü yumub atın yalına yatdı. Kəhər götürüldü Allahyar dərəni burulub çayı necə keçdiyini, dördnala çapıb düzanliyə nə vaxt çatdığını bilmədi. Bir xeyli qulağı səsdə, səksəkəli halda irəlilədi. Ancaq dalınca heç kəsin gəlmədiyini yəqin etdikdən sonra atı yavaşıtdı. Qanrılıb geri baxdı. Təpədəki qaraltılar daha aydın görünürdü. Allahyar yalnız indi, qorxduğu yerdən dörd-beş verst aralandıqdan sonra məsələni başa düşdü. Təpələrdəki qaraltıların çox qədim zamanlarda salınmış qəbristanlıqdakı başdaşıları olduğunu görüb, nəfəsini dərdi. Dəsmalını çıxardıb alını basmış soyuq təri sildi.
+O, sol tərəfdəki təpədə do qaraltılar gördü. Özünü lap itirdi, Atın başını qanırıb dönmək və birbaş şəhərə qayıtmaq istədi. Ancaq gec idi. Çaxmağı yavaşca hərləyib gülləni lüləyə verdi. Atı xır yoldan torpaq yola saldı. "Allaha pənah", - deyə irəlilədi. Təpələrin ağız-ağıza qovuşduğu yerə çatanda gözünü yumub atın yalına yatdı. Kəhər götürüldü Allahyar dərəni burulub çayı necə keçdiyini, dördnala çapıb düzənliyə nə vaxt çatdığını bilmədi. Bir xeyli qulağı səsdə, səksəkəli halda irəlilədi. Ancaq dalınca heç kəsin gəlmədiyini yəqin etdikdən sonra atı yavaşıtdı. Qanrılıb geri baxdı. Təpədəki qaraltılar daha aydın görünürdü. Allahyar yalnız indi, qorxduğu yerdən dörd-beş verst aralandıqdan sonra məsələni başa düşdü. Təpələrdəki qaraltıların çox qədim zamanlarda salınmış qəbristanlıqdakı başdaşıları olduğunu görüb, nəfəsini dərdi. Dəsmalını çıxardıb alını basmış soyuq təri sildi.
 
-Arlıq kəndin işıqları görünürdü. Deyəsən kəhər də sakitləşmişdi. Bayaqdan balaca bir qaraltı görəndə fınxırıb dayanırdısa, indi gözləri yana-yana yolu o üz-bu üzə keçən tülkülərə belə əhəmiyyət vermə-dən irəliləyirdi.
+Artıq kəndin işıqları görünürdü. Deyəsən kəhər də sakitləşmişdi. Bayaqdan balaca bir qaraltı görəndə fınxırıb dayanırdısa, indi gözləri yana-yana yolu o üz-bu üzə keçən tülkülərə belə əhəmiyyət vermə-dən irəliləyirdi.
 
 Təpələrin dalından ay boylandı. Ətrafa solğun ay çiləndi. Uzaqda şaxələnib axan Kürün suları ağarışdı. İlbizlər səs-səsə verdilər. Allahyar kənd itlərinin boğuq səsini eşidib ürəkləndi. Əlini atın boynuna çəkdi. Kəhər suyun içində idi. "Bir az da belə sürsəm, atı çatladardım", - deyə düşündü və cilovu dartdı...
 
@@ -975,7 +975,7 @@ O heç bir şey olmamış kimi ağır addımlarla pilləkəni qalxıb göy məh�
 
 – Mələk hanı? Çağır gəlib çəkmələrimi çıxartsın, - dedi.
 
-Arvad dinmədi. Gözləri oğlunun üzünə zilləndi. Deyəsən, gədənin nədən xəbəri yoxdur. İndi moən nə edim? Başıma haranın daşını salım? deyə öz-özünə söyləndi. - Bəlkə heç açıb-ağartmayım? Qoy rahat yatsın, sabah onsuz da eşidəcək. Bir də, axşamın xeyrindən sa-bahın şəri yaxşıdır.
+Arvad dinmədi. Gözləri oğlunun üzünə zilləndi. Deyəsən, gədənin nədən xəbəri yoxdur. İndi mən nə edim? Başıma haranın daşını salım? deyə öz-özünə söyləndi. - Bəlkə heç açıb-ağartmayım? Qoy rahat yatsın, sabah onsuz da eşidəcək. Bir də, axşamın xeyrindən sa-bahın şəri yaxşıdır.
 
 – Nə bilim, yenə hansı cəhənnəmdəsə yıxılıb yatır. Qoy özüm soyundurum.
 
@@ -1005,7 +1005,7 @@ Mələyin ətri yorğan-döşəyə hopmuşdu. Allahyar əvvəllər buna o qədə
 
 İnsan çox zaman qiymətli bir şeyi əldən verəndən, onun qədrini bilməyib itirəndən sonra ayılır. Hər gün görsə də, qəlbinin duymadığı, nəfəsinin ətrini hiss etmədiyi bir adam ondan uzaqlaşandan sonra, qəlbindəki boşluğu görür və gecə-gündüz xiffət çəkir. İndi Allahyar da belə idi. O, ömründə ilk dəfə doğma bir adamın yoxluğunu duyurdu. Əgər bu saat Mələk yanımda olsa, onunla bir yastığa baş qoysa, nə gözəl olardı! Allahyar onun saçını sığallayıb, sinəsini qoxulamazdımı? Səhər şəfəqləri pəncərə şüşələrində oynayana qədər onun mışıltısına qulaq asmazdımı?!
 
-Allahyar yerin içində çevrilir, öz-özünü tanıya bilmirdi. Ona nə olmuşdu? İndiyə qədər qəlbinə yad olan bu hisslər hardan gəlib çıxmışdı? Nə üçün o titrəyirdi? Məgər Mələyi azmı döymüşdu? Onun gözünün yaşını azmı axıtmışdı? Azmı onun sinəsini yumruqlamışdı? Bəs indiyəcən onun ətrini niyə duymamışdı? Hələ şəhərdən arvadının yoxa çıxması xəbərini eşidəndə dişini-dişinə sıxıb söyüş söyən, "əlimə keçən kimi səni tikə-tikə doğrayacağam", - deyən o deyildimi? Elə bircə saat bundan əvvəl yol uzunu onu asıb-kəsmirdimi? İndi birdən-birə ona nə oldu? Yoxsa Mələyi sevirdi? Yoxsa indiyəcən qəlbinin harasındasa mürgüləyib yatan hisslər çılğın bir ehtirasla oyanıb baş qaldırmışdı?
+Allahyar yerin içində çevrilir, öz-özünü tanıya bilmirdi. Ona nə olmuşdu? İndiyə qədər qəlbinə yad olan bu hisslər hardan gəlib çıxmışdı? Nə üçün o titrəyirdi? Məgər Mələyi azmı döymüşdü? Onun gözünün yaşını azmı axıtmışdı? Azmı onun sinəsini yumruqlamışdı? Bəs indiyəcən onun ətrini niyə duymamışdı? Hələ şəhərdən arvadının yoxa çıxması xəbərini eşidəndə dişini-dişinə sıxıb söyüş söyən, "əlimə keçən kimi səni tikə-tikə doğrayacağam", - deyən o deyildimi? Elə bircə saat bundan əvvəl yol uzunu onu asıb-kəsmirdimi? İndi birdən-birə ona nə oldu? Yoxsa Mələyi sevirdi? Yoxsa indiyəcən qəlbinin harasındasa mürgüləyib yatan hisslər çılğın bir ehtirasla oyanıb baş qaldırmışdı?
 
 Allahyar heç nə anlamırdı. Gözünü tavana zilləyib xəyalən arvadını axtarırdı. Gah onu sağ-salamat tapıb gətirir, gah da çiləkənlərin altından, burulğanlardan dartıb çıxardırdı.
 
@@ -1015,7 +1015,7 @@ Allahyar heç nə anlamırdı. Gözünü tavana zilləyib xəyalən arvadını a
 
 * * *
 
-Allahyar səhər tezdən, nökəri yola salandan sonra, atı minib Kürün sahilinə endi. Yarğanların dibinı, çiləkənlərin ətrafını, yulğun kolluğunu saymazyana axtardı. Atını sürüb çay aşağı uzaqlara getdi.
+Allahyar səhər tezdən, nökəri yola salandan sonra, atı minib Kürün sahilinə endi. Yarğanların dibini, çiləkənlərin ətrafını, yulğun kolluğunu saymazyana axtardı. Atını sürüb çay aşağı uzaqlara getdi.
 
 Balaca adacıqları, suyun şıldır yerində qurulayan qaraltıları nəzərdən keçirdi. Tez-tez atının başını saxlayıb, göyün üzündə fırlanan quşlara baxdı. Qarğa-quzğunun bir yerə toplanıb-toplanmadığını yoxladı. O hələ hec kəsə heç nə açmaq istəmirdi. Bəzən öz-özünü danlayır, nahaq bu fikrə düşdüyünə söylənirdi. O, arvadının ölümünə inanmırdı. Axşamüstü nökərin geri qayıdacağını və Mələyin əmisigildə olduğu xəbərini gətirəcəyini gözləyirdi. "Yaxşı, bəs niyə belə xəlvəti gedib! Nə üçün anama bir şey deməyib? Əgər gedibsə, bəs niyə evinə qayıtmir?". Şübhələr yavaş-yavaş onun qəlbinə hakim olurdu. "Yəqin başi əlində deyil. Yoxsa bir xəbər çıxardı. Bəlkə heç özünü suya atmayıb? Birdən ayağı sürüşüb? Axı o üzmək bilmirdi. Axmış olsa bir yerdə qurulamazdımı?"
 
@@ -1023,11 +1023,11 @@ Allahyar atını sürür, o tərəf-bu tərəfə boylanırdı. Suda çimib, quml
 
 Allahyar axşama qədər bəri üzü axtarmağı qərara aldı. "Əgər nökər əliboş qayıtsa, sabah o biri sahili də gəzərəm", - deyə düşündü.
 
-Günün qulağı əyilib axşama dönəndə Allahyar geri qayıtdı. Birdən yulğunluqların o tərəfindo, yarğanın dibində, qarğa-quzğun dolaşdığını gördü. Ürəyi az qaldı ki, oynayıb yerindən qopsun. Rəngi saraldı. Atını mahmızlayıb Kürdən ayrılan balaca qoldan keçdi. Yulğun kollarını yara-yara quşların firlandığı yerə yaxınlaşdı. Qarğalar onu görüb kənara qaçdılar. İri bir quzğun isə özünü suya çırpır, yenə də havaya alxırdı. Allahyar atdan düşdü. Ürəyi əsə-əsə gölməçəyə yaxınlaşdı.
+Günün qulağı əyilib axşama dönəndə Allahyar geri qayıtdı. Birdən yulğunluqların o tərəfində, yarğanın dibində, qarğa-quzğun dolaşdığını gördü. Ürəyi az qaldı ki, oynayıb yerindən qopsun. Rəngi saraldı. Atını mahmızlayıb Kürdən ayrılan balaca qoldan keçdi. Yulğun kollarını yara-yara quşların firlandığı yerə yaxınlaşdı. Qarğalar onu görüb kənara qaçdılar. İri bir quzğun isə özünü suya çırpır, yenə də havaya alxırdı. Allahyar atdan düşdü. Ürəyi əsə-əsə gölməçəyə yaxınlaşdı.
 
 Orada nə isə qaralırdı. Quşlar dimdiklədikcə çırpınıb, suyu şappıldadırdı. Allahyar iri bir naqqanın quruladığını görüb sakitləşdi. Görünür, daşanda balaca qola gəlib bu gölməçəyə düşən naqqa geri qayıda bilməmişdi. Quşlar onun belini didib parçalamışdılar.
 
-Allahyar atını minıb uzaqlaşdı. Qarğa-quzğun yenidən balığın üstünə töküldü...
+Allahyar atını minib uzaqlaşdı. Qarğa-quzğun yenidən balığın üstünə töküldü...
 
 O nökərlə bir vaxtda evə çatdı. Eşitdiyi xəbərdən məyus oldu. Dinməz-söyləməz içəri keçib üzüqoylu taxtın üstə döşəndi.
 
@@ -1097,7 +1097,7 @@ Mələyin bədəni əsirdi. Elə bil qızdırmadan yenicə durmuşdu. Salatın o
 
 – Sənnən deyiləm?!
 
-– Ay həyasız, yoxsa utanırsan, gözümün içinə baxa bilmirsən?! Mələk sinəsinə enmiş başını qaldırıb Zərnigar xanımın üzünə baxdı. Bir xeyli beləcə dayandılar. Salatın gördü ki, anası gözləri ilə gəlini yemək istəyir. Onun yanaqlarına, qaşlarına, hələ iz düşməmiş alnına, azca aralanmış dodaqları arasından parıldayan dişlərinə, genişlənmiş bəbəklərinə, qonur gözlərinin həlqəsində parıldayan yaşına, hirsini və daxildən qopub gələn hönkürtüsünü boğub göz yaşını saxlamaq istədikcə kənarı səyriyən dodağına, əzələləri büzüşən çənəsinin zənəxdanına hərisliklə baxır. Arvad elə bil onun sifətindəki hər bir cizgini yadında saxlamağa çalişır, gəlinin ürəyindən keçənləri göz bəbəyindən oxumaq istəyirdi.
+– Ay həyasız, yoxsa utanırsan, gözümün içinə baxa bilmirsən?! Mələk sinəsinə enmiş başını qaldırıb Zərnigar xanımın üzünə baxdı. Bir xeyli beləcə dayandılar. Salatın gördü ki, anası gözləri ilə gəlini yemək istəyir. Onun yanaqlarına, qaşlarına, hələ iz düşməmiş alnına, azca aralanmış dodaqları arasından parıldayan dişlərinə, genişlənmiş bəbəklərinə, qonur gözlərinin həlqəsində parıldayan yaşına, hirsini və daxildən qopub gələn hönkürtüsünü boğub göz yaşını saxlamaq istədikcə kənarı səyriyən dodağına, əzələləri büzüşən çənəsinin zənəxdanına hərisliklə baxır. Arvad elə bil onun sifətindəki hər bir cizgini yadında saxlamağa çalışır, gəlinin ürəyindən keçənləri göz bəbəyindən oxumaq istəyirdi.
 
 Salatın anasının ani olaraq köks ötürdüyünü, qollarını yanına salıb dayandığını və beləliklə də Mələyin daha gözəl, daha cazibədar olduğunu dərk etdiyini duydu. Arvad sanki təslim oldu: hirsindənmi, acizliyini dərk etdiyindənmi, nədənsə, geri döndü və birdən gözü bədənnüma güzgüyə sataşdı. Mələk ona baxırdı. Onlar qarşı-qarşıya dayanmışdılar.
 
@@ -1139,7 +1139,7 @@ Mələk gedəndən sonra Zərnigar xanım taxtın üstünə döşəndi. hönkür
 
 Salatın bu hadisədən sonra anasının qəlbindən keçənləri bilməsə də, onun sakitləşməsinə sevindi. Elə Mələyin də hərəkətlərindən xoşu gəldi. Deyəsən, arvadların susması Cahandar ağanın da qaşqabağını açmışdı. Daha o, evdə kabus kimi gəzmirdi.
 
-Anası bir az dincələndən sonra Salatın qardaşını düşündü. Onun evə qayıdacağını gozlədi. Ancaq aradan iki gün keçdi. Şamxal qayıtmadı. Qız xəyallandı. Ağlına cürbəcür şeylər gəldi. Sıldırım yarğanlar, çiləkənli, buruılğanlı sular, nərildəyib dəli Kürün şaxələnmiş qolları gözünün önündən keçdi. Diksinib fikirdən ayıldı. "Ağlıma gələn dağlara, daşlara, mən nə fikirləşirəm? Allah, mənə ölüm ver, gör necə sarsaq xəyallara düşürəm", - deyə özünə qarğış etdi. Evdə darıxdı. Elə bil onu qara basdı, qorxulu fikirlərdən yaxasını qurtarmaq üçün eyvana çıxdı.
+Anası bir az dincələndən sonra Salatın qardaşını düşündü. Onun evə qayıdacağını gözlədi. Ancaq aradan iki gün keçdi. Şamxal qayıtmadı. Qız xəyallandı. Ağlına cürbəcür şeylər gəldi. Sıldırım yarğanlar, çiləkənli, buruılğanlı sular, nərildəyib dəli Kürün şaxələnmiş qolları gözünün önündən keçdi. Diksinib fikirdən ayıldı. "Ağlıma gələn dağlara, daşlara, mən nə fikirləşirəm? Allah, mənə ölüm ver, gör necə sarsaq xəyallara düşürəm", - deyə özünə qarğış etdi. Evdə darıxdı. Elə bil onu qara basdı, qorxulu fikirlərdən yaxasını qurtarmaq üçün eyvana çıxdı.
 
 Kəndin üst tərəfindəki təpələri qara bulud bürümüşdü. Üfuqdəki dağları, bir də bəridəki taxıl zəmilərini, döşlərdəki təkəm-seyrək ağacları görmək mümkün deyildi. Ətəyini sallayan duman yavaş-yavaş aşağı enirdi. Dalbadal şimşək çaxırdı. Elə bil göyün səthi çatlayıb aralanmışdı. Səmada göz qamaşdıran əyri-üyrü işıqlar oynayırdı.
 
@@ -1261,7 +1261,7 @@ Cahandar üzünə qaldırdığı tüfəngini aşağı saldı.
 
 ### Birinci hissə, 8
 
-Qoca ağır-ağır yoxuşu qalxırdi. Əlindəki söyüd çubuğuna keçirdiyı balıqların pulları parıldayır və quyruqları açıq-çəhrayı rəngə çalırdı. Kişi yorulmuşdu. Tez-tez dayanıb nəfəsini dərir, çiynindəki əndırləri silkələyib kürəyinin ortasına atırdı. O, möhkəm
+Qoca ağır-ağır yoxuşu qalxırdı. Əlindəki söyüd çubuğuna keçirdiyi balıqların pulları parıldayır və quyruqları açıq-çəhrayı rəngə çalırdı. Kişi yorulmuşdu. Tez-tez dayanıb nəfəsini dərir, çiynindəki əndırləri silkələyib kürəyinin ortasına atırdı. O, möhkəm
 
 @@ 058
 
@@ -1331,7 +1331,7 @@ Axı sənə yazığım gəlir.
 
 – Paçalama üstünə minib, tumanının bağı ilə səni boğar.
 
-Uşaqlar qəhqəhə çəkib gülüşdülor. Qoca kişi də onlara qoşuldu.
+Uşaqlar qəhqəhə çəkib gülüşdülər. Qoca kişi də onlara qoşuldu.
 
 – Ay haramzadalar, məni bağladınız. Gəlin, balıqları sizə verim, aparın nişanlınıza.
 
@@ -1357,7 +1357,7 @@ Yoxuşu çıxıb qaşı aşandan sonra dayandı. Təpələrdən əsib gələn ba
 
 Gəmiçi Qoca ətrafını ot basmış cığırla kəndin ucqarındakı evinə doğru addımladı. Onun qara damı torpaqdan güclə seçilirdi. Damın ətrafındakı kalafalıqları, xırman yerini, çardağın yanını ot basmışdı. Hətta qazmanın üstündə belə ot cücərmişdi. Arvadı Züleyxa ölənə qədər ev səliqəli olardı. Ancaq iki il idi ki, qarı rəhmətə getmişdi. Bundan sonra kişinin əl-ayağı soyumuşdu. O, həftələrlə evə baş sala bilmirdi. Əgər qızı Güləsər olmasaydı, bəlkə də aylarla gəminin yanında qalar, heç evə qayıtmazdı.
 
-O, düz bir həftə idi ki, evə gəlmirdi, binəyə köçənləri o taya, meşəyə, yaylağa hazırlaşanları isə bəri üzə, kəndə keçirirdi. Aldığı haqdan, pendirdən. çörəkdən yeyib, oralarda dolanırdı. Hərdənbir də uşaqlar ona balıq gətirirdiler. Əgər srağagün Güləsər onun yanına gəlməsəydi, bəlkə heç bu gün də evə qayıtmayacaqdı. Gəmiçi Qoca həm də heç olmasa, bir-iki gün dincəlməli idi. Axı bu gün-sabah el yaylağa qalxacaqdı. Meşədən köçüb gələn binələrin, qoyun sürülərınin, mal-qaranın sayı-hesabı olmayacaqdı. Onların çoxunu Qoca kişi öz gəmisində bəri üzə keçirməli idi.
+O, düz bir həftə idi ki, evə gəlmirdi, binəyə köçənləri o taya, meşəyə, yaylağa hazırlaşanları isə bəri üzə, kəndə keçirirdi. Aldığı haqdan, pendirdən. çörəkdən yeyib, oralarda dolanırdı. Hərdənbir də uşaqlar ona balıq gətirirdilər. Əgər srağagün Güləsər onun yanına gəlməsəydi, bəlkə heç bu gün də evə qayıtmayacaqdı. Gəmiçi Qoca həm də heç olmasa, bir-iki gün dincəlməli idi. Axı bu gün-sabah el yaylağa qalxacaqdı. Meşədən köçüb gələn binələrin, qoyun sürülərınin, mal-qaranın sayı-hesabı olmayacaqdı. Onların çoxunu Qoca kişi öz gəmisində bəri üzə keçirməli idi.
 
 Kəndin girəcəyində başını qaldırıb ətrafa baxdı. Güləsər taxılın içində pencər yığan qızlardan aralanıb atasına doğru gəlirdi. O, çit donunun ətəyini belinə sancmışdı. Ayaqları yalın idi. Yemlik yeməkdən əlləri və dodaqları bir az qaralıb, şabalıdı rəngə düşmüşdü. Çöllərin küləyi qızın yanağını cızmışdı. Dodaqları da qaysaqlanan kimi olmuşdu. Onun ətəyi dolu idi. Əlindəki bıçaq və dırnaqları nəm torpağa bulaşmışdı. Kişi qızını gorəndə sevindi. Ayaq saxladı. Güləsər bərabərinə çatanda gulümsündü:
 
@@ -1365,7 +1365,7 @@ Kəndin girəcəyində başını qaldırıb ətrafa baxdı. Güləsər taxılın
 
 – Sənə pencər dərirəm.
 
-– Mən də gör sənə nə gətirmışəm.
+– Mən də gör sənə nə gətirmişəm.
 
 – Bıy nə yaxşı balıqlardır, ay dədə, özünmü tutubsan?
 
@@ -1391,7 +1391,7 @@ Niyə dəymir, ay bala, özüm horradan-zaddan bişirirəm.
 
 O, əlindəki balıqları qızına verib qabağa keçdi. Güləsər atasının çatlamış dabanlarına baxa-baxa onun izi ilə getdi.
 
-Hər şey oyanmışdı. Yolun kənarındakı çiçəklərin üstünə qonan xallı kəpənəklər qanadlarını oynada-oynada şirə sorur, bəzən də havanın ətrindən xoşlanıb göyə qalxır və bir-biri ilə zarafatlaşır kimi çəmənlərin dərinliklərinə uçurdular. Onlarla bəhsə girən bal arıları güllərin başına dolanırdılar. Cığırlarda cığır salan qarışqalar harasa tələsir, əllərinə keçənləri daşıyıb yuvalarına doldururdular. Güləsər dayanıb baxdı. İki dozanqurdu mal təzəyini yumurlayıb aparırdı. Onlar başıaşağı durub, dal ayaqları ilə kürəciyi dığırlayırdılar. Bir-birini necə də başa düşür, necə də köməkləşirdilər! Arabir lap yaxından, Qoca kişinln az qala ayağının altından pırıltı ilə qalxan quşlar uçub qabağa düşür və bir xeyli cığırın ortasında səkirdilər. Bəli, yaz gəlmişdi. Bütün canlılar əlləşib işləyirdilər. Qəribə idi. Həmişə gül-çiçək içində üzən kəpənəklər necə də gözəl idilər. Onlar əziyyət çəkmir, səhərdən axşama qədər çiçəkdən-çiçəyə qonurdular. Amma qarışqalar, ya da təzək yuvarladan dozanqurdular əlləşirdilər...
+Hər şey oyanmışdı. Yolun kənarındakı çiçəklərin üstünə qonan xallı kəpənəklər qanadlarını oynada-oynada şirə sorur, bəzən də havanın ətrindən xoşlanıb göyə qalxır və bir-biri ilə zarafatlaşır kimi çəmənlərin dərinliklərinə uçurdular. Onlarla bəhsə girən bal arıları güllərin başına dolanırdılar. Cığırlarda cığır salan qarışqalar harasa tələsir, əllərinə keçənləri daşıyıb yuvalarına doldururdular. Güləsər dayanıb baxdı. İki dozanqurdu mal təzəyini yumurlayıb aparırdı. Onlar başıaşağı durub, dal ayaqları ilə kürəciyi dığırlayırdılar. Bir-birini necə də başa düşür, necə də köməkləşirdilər! Arabir lap yaxından, Qoca kişinin az qala ayağının altından pırıltı ilə qalxan quşlar uçub qabağa düşür və bir xeyli cığırın ortasında səkirdilər. Bəli, yaz gəlmişdi. Bütün canlılar əlləşib işləyirdilər. Qəribə idi. Həmişə gül-çiçək içində üzən kəpənəklər necə də gözəl idilər. Onlar əziyyət çəkmir, səhərdən axşama qədər çiçəkdən-çiçəyə qonurdular. Amma qarışqalar, ya da təzək yuvarladan dozanqurdular əlləşirdilər...
 
 Güləsər köksünü ötürdü və ondan xeyli aralanan atasının yorğun görkəminə tamaşa etdi. Kişi qocalıb əldən düşmüşdü. Güləsərin əlacı olsa, onu heç yana buraxmazdı. Özü qolunu çırmayıb ortaya atılardı. Amma neyləsin, qızın əlindən nə gələ bilərdi?
 
@@ -1417,13 +1417,13 @@ Kişi çiynindəki kəndiri həyətə atdı. İslanmış corablarını talvarın
 
 – A bala, elə yerə qoy ki, it-pişik aparmasın. Zəhrimar islanıb cılğıya dönüb.
 
-Güləsər atasının altı deşilmiş çarığını gözdən keçirdi və içəri adladı. Orta ocaqda korun-korun yanan kötüyün ucunu vurub qorlandırdı çır-çırpı yığıb üstünə tökdü. Ocaq tüstüləndi. Ətrafı boğaz acışdıran göyümsov bir tüstü bürüdü. Bu duman bir müddət laylanıb evin içinə çökdü və yavaş-yavaş orta bacadan burulub çıxdı. Qız bir-iki dəfə ocağı püflədisə, odun yanmadı. Güləsər göz yaşını və buruunu silib, uzun donunun ətəyi ilə ocağı yellədi. Kösövlər çatırdadı və birdən alışıb parıldadı. Tüstüdən nəfəsi kəsilən Güləsər eşiyə çıxdı.
+Güləsər atasının altı deşilmiş çarığını gözdən keçirdi və içəri adladı. Orta ocaqda korun-korun yanan kötüyün ucunu vurub qorlandırdı çır-çırpı yığıb üstünə tökdü. Ocaq tüstüləndi. Ətrafı boğaz acışdıran göyümsov bir tüstü bürüdü. Bu duman bir müddət laylanıb evin içinə çökdü və yavaş-yavaş orta bacadan burulub çıxdı. Qız bir-iki dəfə ocağı püflədisə, odun yanmadı. Güləsər göz yaşını və burnunu silib, uzun donunun ətəyi ilə ocağı yellədi. Kösövlər çatırdadı və birdən alışıb parıldadı. Tüstüdən nəfəsi kəsilən Güləsər eşiyə çıxdı.
 
 – Ay dədə, sənə pencərmi bişirim, balıqmı?
 
 – Pencər yaxşıdır. Heç bu il nübar eləməmişəm. İstəyirsən balığı da pörtdət.
 
-Çərkəz fırladıb o üz-bu üzünə baxdığı təkəri əlindən buraxdı. Təkər həyətin ortasında dığırlanıb bir-ikı dövrə vurdu və göy otluğa düşdü. Onun şini cingilti ilə çıxıb, təkərdən üç-dörd addım kanardakı çokəyə yuvarlandı. Çərkəz əlınin tozunu silib, taxtın üstündə oturan atasına yaxınlaşdı.
+Çərkəz fırladıb o üz-bu üzünə baxdığı təkəri əlindən buraxdı. Təkər həyətin ortasında dığırlanıb bir-ikı dövrə vurdu və göy otluğa düşdü. Onun şini cingilti ilə çıxıb, təkərdən üç-dörd addım kənardakı çokəyə yuvarlandı. Çərkəz əlinin tozunu silib, taxtın üstündə oturan atasına yaxınlaşdı.
 
 – Ay dədə, deyəsən, balıq tutmusan, hanı, göstər görüm?
 
@@ -1451,9 +1451,9 @@ Bir azdan yağda qızardılmış soğan iyi ətrafa yayıldı. Güləsər iri mi
 
 „Ay dədə, - dedi, - sarımsaqlı yaxşıdır. İştahan açılar. Balığa da asmışam. Bu saat hazır olar. Soyutma bişirirəm.
 
-Qoca kişi qızının bu mehribanlığına qarşı necə minnətdarlıq edəcəvini bilmədi. Ancaq onun üzünə baxıb gülümsəməklə kifayətləndi. Camı qabağına çəkib bardaş qurdu. Çörəkdən kəsib pencəri çömçələdi.
+Qoca kişi qızının bu mehribanlığına qarşı necə minnətdarlıq edəcəyini bilmədi. Ancaq onun üzünə baxıb gülümsəməklə kifayətləndi. Camı qabağına çəkib bardaş qurdu. Çörəkdən kəsib pencəri çömçələdi.
 
-Kisi quru çörəyi dişsiz damağında övkələdikcə çənəsi şaqqıldayır, gicsahlarındakı damarlar oynayırdı. O, tez-tez əyilib fətir götürən qızım gözaltı süzürdü. Güləsər böyümüşdü. Heç bir il bundan qabaqkı arıq, quru qıza oxşamırdi. Elə bil rəngi də ağarmışdı. Döşləri nimdaş qoftasını dik tuturdu. Kişi bunun fərqinə indi vardığından, təəccüblə ona baxır, deməyə söz tapmırdı. O indiyə qədər Güləsəri uşaq hesab edirdi. Amma bu gün elə bil yuxudan ayılmışdı.
+Kişi quru çörəyi dişsiz damağında övkələdikcə çənəsi şaqqıldayır, gicsahlarındakı damarlar oynayırdı. O, tez-tez əyilib fətir götürən qızım gözaltı süzürdü. Güləsər böyümüşdü. Heç bir il bundan qabaqkı arıq, quru qıza oxşamırdı. Elə bil rəngi də ağarmışdı. Döşləri nimdaş qoftasını dik tuturdu. Kişi bunun fərqinə indi vardığından, təəccüblə ona baxır, deməyə söz tapmırdı. O indiyə qədər Güləsəri uşaq hesab edirdi. Amma bu gün elə bil yuxudan ayılmışdı.
 
 Güləsər qardaşı ilə bir qabda xörək yeyirdi. Tez-tez şitlik edir, Çərkəzin qabağındakı pencəri çömçələyib götürürdü. Qardaşını cinləndirib xısın-xısın gülürdü. Kişi görürdü ki, qızı şuxluq edir. Zarafatlaşmaq, əzilib-büzülmək istəyir. Gözləri oyur-oyur oynayır. Yanaqları rəngdən-rəngə düşür. Güləsərdə ilk dəfə müşahidə etdiyi bu hal kişini hürkütdü. "Günü qara lap özünü açıb, - deyə xəyalından keçirdi, -indidən mazaqlaşmaq istəyir. Allah sizin damazlığınızı kəssin. Boyları bir qamçı olan kimi adamın belinə sıçrayırlar".
 
@@ -1479,11 +1479,11 @@ Baş barmağı ilə közərmiş tütünü basıb, çubuğunu tüstülətdi. Kiş
 
 Şamxal kəndin kənarında, biçənəklərin üst tərəfindəki təpənin qaşında özünə ev tikdi. Kənd cavanları ona kömək etdilər. Birləşib yer qazdılar. Meşədən dirək, kərən gətirdilər. Üç gün gecəli-gündüzlü işləyəndən sonra qazma daxmanın üstünü örtdülər.
 
-Damın pərdilərini Şamxal özü örtdü. Enli qovaq ağaclarını doğrayıb ortadan yardılar. Səliqə ilə yonub yan-yana qoydular. Şamxal evin dal tərəfindən balaca bir pəncərə açdı. Uşaqların hardansa tapib gətirdikləri bir parça şüşəni ora saldı. Qara damın həyətində iri bir çardaq da tikdilər. Şamxal özü çardağın ətrafını yulğun çubuğu ilə hördü, torpağın süzülüb axmasının qabağını aldı. Həyətdəki ot-ələfi təmizlədi. Harda xırman açacağını, samanlığı, tövləni harda tikəcəyini indidən müəyyənləşdirdi.
+Damın pərdilərini Şamxal özü örtdü. Enli qovaq ağaclarını doğrayıb ortadan yardılar. Səliqə ilə yonub yan-yana qoydular. Şamxal evin dal tərəfindən balaca bir pəncərə açdı. Uşaqların hardansa tapıb gətirdikləri bir parça şüşəni ora saldı. Qara damın həyətində iri bir çardaq da tikdilər. Şamxal özü çardağın ətrafını yulğun çubuğu ilə hördü, torpağın süzülüb axmasının qabağını aldı. Həyətdəki ot-ələfi təmizlədi. Harda xırman açacağını, samanlığı, tövləni harda tikəcəyini indidən müəyyənləşdirdi.
 
 Kənd camaatı əvvəlcə bu işə təəccüb etdi. Şaraxalın yanına gəlib onu danlayan ağsaqqallar da oldu. Ancaq o, sözündən dönmədi.
 
-Bu xəbər Cahandar ağanı təəccübləndirmədi. "Tərs oğlu tərs, südünə çəkib, - deyə ürəyində onu yamanladı. - İnadın birıdir. Bilirdim ki, axırı belə olacaq". O bu işə bir tərəfdən sevinir, oğlunun öz atasına belə boyun əymədiyıni, kişi kimi sözünün üstündə durduğunu bəyənirdi. O biri tərəfdən də onun, Cahandar ağanın oğlunun qara damda yaşamasını şəninə sığışdıra bilmirdi. "Bir gün ağıllanar, başı əlhəd daşına dəyib geri qayıdar" - deyirdi. Ancaq onun gözlədiyi kimi olmadı. Bir dəfə ilxıçılar xəbər gətirdilər kı, Şamxal çəmənliyə gəlib ayağı səkil qaşqa atı aparmışdır. O heç kəsə heç nə demədən birbaş ılxının içinə girib atı yallamış və quş kimi sıçrayıb belinə qalxmışdı. Dikdiri çıxıb kəndə doğru gedyn atlının qabağına heç kəs keçə bilməmişdi. Bu xəbər Cahandar ağanı hirsləndirsə də dinməmişdi.
+Bu xəbər Cahandar ağanı təəccübləndirmədi. "Tərs oğlu tərs, südünə çəkib, - deyə ürəyində onu yamanladı. - İnadın biridir. Bilirdim ki, axırı belə olacaq". O bu işə bir tərəfdən sevinir, oğlunun öz atasına belə boyun əymədiyıni, kişi kimi sözünün üstündə durduğunu bəyənirdi. O biri tərəfdən də onun, Cahandar ağanın oğlunun qara damda yaşamasını şəninə sığışdıra bilmirdi. "Bir gün ağıllanar, başı əlhəd daşına dəyib geri qayıdar" - deyirdi. Ancaq onun gözlədiyi kimi olmadı. Bir dəfə ilxıçılar xəbər gətirdilər kı, Şamxal çəmənliyə gəlib ayağı səkil qaşqa atı aparmışdır. O heç kəsə heç nə demədən birbaş ılxının içinə girib atı yallamış və quş kimi sıçrayıb belinə qalxmışdı. Dikdiri çıxıb kəndə doğru gedyn atlının qabağına heç kəs keçə bilməmişdi. Bu xəbər Cahandar ağanı hirsləndirsə də dinməmişdi.
 
 Əri iIə küsü saxlayan Zərnigar xanım da buna dözə bilməmiş, "Axır ki, istəyinə çatdın. İndi ürəyin dincəlsin", - deyə ərini sancmışdı. Cahandar ağa oğlunun yenə nə isə aparacağını gözləyirdi, ancaq Şamxal bir daha buralarda hərlənməmişdi.
 
@@ -1495,21 +1495,21 @@ Bu xəbər Cahandar ağanı təəccübləndirmədi. "Tərs oğlu tərs, südün�
 
 Şamxal bir həftə beləcə yaşadı.
 
-Bir axşam həyətdə oturmuşdu. Çardağın dirəyindən asılan qara çırağın başına dolanan pərvanələrin, xırdaca böcəklərin sayı-hesabı yox idi. Ətraf yaşıllıq olduğundan, uçub işığa gələn cücülərin ardı-arası kəsilmirdi. Dirəyə bağlanmış at qabağındakı göy otu xımırtladırdı. Şamxal həmişəki kimi bu axşam da atını Kürə sulamağa aparmış, qayıdanda biçənəkdən bir qucaq ot çalımşdı.
+Bir axşam həyətdə oturmuşdu. Çardağın dirəyindən asılan qara çırağın başına dolanan pərvanələrin, xırdaca böcəklərin sayı-hesabı yox idi. Ətraf yaşıllıq olduğundan, uçub işığa gələn cücülərin ardı-arası kəsilmirdi. Dirəyə bağlanmış at qabağındakı göy otu xımırtladırdı. Şamxal həmişəki kimi bu axşam da atını Kürə sulamağa aparmış, qayıdanda biçənəkdən bir qucaq ot çalışdı.
 
 O, içəri keçib taxtın üstünə uzandı. Ulduzlar sayrışırdı. Cırcıramaların səsi bir-birinə qarışmışdı. Cələdəki çaqqallar səs-səsə verib ulaşdıqca kənd itləri hürüşürdü. Kimsə xır yolunda araba sürürdü. Təkərlər qıcıldayırdı.
 
 Şamxalı fikir götürmüşdü. "Bəlkə Habil oğlu Qasımın yanına getsin? Onun dəstəsinə qoşulub çapqınçılığa başlasın? Maldan-qaradan oğurlayıb birbaş həftəbazarına sürsün? Bircə günün içində xırıd edib paltar-palazdan alsın, ev-eşiyini sahmana salsın? Axı, deyirlər, çox adam bu yolla varlanıb? Hərçənd bu yolda ölüm-itim də var. Ancaq nə olsun, yaranan bir gün ölməyəcəkmi?"
 
-O, yanı üstə çevrildi. Papiros eşib-yandırdı. Dalbadal sümürüb tüstünü kənara üfürdu. Yenə fikrinə davam etdi. "Yox, nahaq bu xəyallara düşürəm. Haramçılıqdan bir şey çıxmaz. Adam öləndə də bir şey üstündə ölər. Yoxsa oğurluq üstündə ölmək heç kişilikdən deyil. Camaat adamın cəmdəyinə tüpürər".
+O, yanı üstə çevrildi. Papiros eşib-yandırdı. Dalbadal sümürüb tüstünü kənara üfürdü. Yenə fikrinə davam etdi. "Yox, nahaq bu xəyallara düşürəm. Haramçılıqdan bir şey çıxmaz. Adam öləndə də bir şey üstündə ölər. Yoxsa oğurluq üstündə ölmək heç kişilikdən deyil. Camaat adamın cəmdəyinə tüpürər".
 
 Şenliyin aşağısından səs-küy qalxdı. Kimsə damın üstünə çıxıb bərk qıy çəkdi. Dalbadal güllə atıldı. İtlər səs-səsə verib ulaşdılar. Şamxal qalxıb oturdu. Şirin-şirin ot yeyən at qulaqlarını şəkləyib fınxırdı. İtlər nəyi isə qovub cələyə doğru apardılar. Beş-on dəqiqədən sonra hər şey sakitləşdi. Cırcıramaların səsi, Kürün qıjıltısı aydınca eşidildi,
 
-Şamxal yaxında hənirti duyub qulaq kəsildi. Göy otluqda araba surürdülər. Təkərlərin otları əzməsi və öküzlərin arabir fısıldayıb ot
+Şamxal yaxında hənirti duyub qulaq kəsildi. Göy otluqda araba sürürdülər. Təkərlərin otları əzməsi və öküzlərin arabir fısıldayıb ot
 
 @@ 066
 
->>qoparması eşidilirdi. Arabaçı tez-tez çubuğunu şaqqıldadır, "ho-ho, hiş" - deyə heyvanları səsləyirdi. Görünür, o, qabağa düşmüş və yo-iz olmayan yerlərdə arabanı xəndəyə salmaqdan ehtiyat edirdi. Şamxal gələnlərin ötüb gedəcəyini zənn etdi. Ancaq səs-küy yaxınlaşdı. Araba düz işığa gəldi. Şamxal nökərləri Tapdiğı tanıdı.
+>>qoparması eşidilirdi. Arabaçı tez-tez çubuğunu şaqqıldadır, "ho-ho, hiş" - deyə heyvanları səsləyirdi. Görünür, o, qabağa düşmüş və yo-iz olmayan yerlərdə arabanı xəndəyə salmaqdan ehtiyat edirdi. Şamxal gələnlərin ötüb gedəcəyini zənn etdi. Ancaq səs-küy yaxınlaşdı. Araba düz işığa gəldi. Şamxal nökərləri Tapdığı tanıdı.
 
 – Xoş gördük, ağa.
 
@@ -1523,7 +1523,7 @@ O, yanı üstə çevrildi. Papiros eşib-yandırdı. Dalbadal sümürüb tüstü
 
 – Qaytar geri, mənə heç nə lazım deyil.
 
-Indiyəcən arabanın üstündən düşməyib, qardaşının nə deyəcəyini gözləyən Salatın dözmədi. Yerə enib bnun yanına gəldi. Quş kimi qanadlanıb Şamxalın boynuna sarıldı.
+İndiyəcən arabanın üstündən düşməyib, qardaşının nə deyəcəyini gözləyən Salatın dözmədi. Yerə enib onun yanına gəldi. Quş kimi qanadlanıb Şamxalın boynuna sarıldı.
 
 – Qurbanın olum, ay qağa, nə təhərsən?
 
@@ -1561,7 +1561,7 @@ Salatın boş evin ortasında dayandı. Divar nəm idi. Yaş kərən və Pərdə
 
 Özümü öldürrəm, səni bu cür qoymaram.
 
-Onlar ay doğana qədər əlləşdilər. Gətirdikləri şeylərin hamısını dasıyıb içəri doldurdular. Tapdıq geri qayıtdı. Salatın qardaşından ayrılmadı.
+Onlar ay doğana qədər əlləşdilər. Gətirdikləri şeylərin hamısını daşıyıb içəri doldurdular. Tapdıq geri qayıtdı. Salatın qardaşından ayrılmadı.
 
 – Səni tək qoyub, heç yana gedən deyiləm.
 
@@ -1577,7 +1577,7 @@ Onlar elə həyətdə, çardağın altında yer saldılar. Ay yuvarlanıb yuxar�
 
 ### Birinci hissə, 10
 
-Güləsər gecikmişdi. Səhər tezdən ev-eşiyi süpürmüş, qızlarla pencərə getmiş, geri qayıdanda səhəngin boş olduğunu görmüşdü. Atası indicə gələcəkdi. Çərkəz də axşamüstü evə dönəcəkdi. Heç olmazsa onlara bir stəkan çay vermək lazımdı.
+Güləsər gecikmişdi. Səhər tezdən ev-eşiyi süpürmüş, qızlarla pəncərə getmiş, geri qayıdanda səhəngin boş olduğunu görmüşdü. Atası indicə gələcəkdi. Çərkəz də axşamüstü evə dönəcəkdi. Heç olmazsa onlara bir stəkan çay vermək lazımdı.
 
 O, səhəngi götürüb birbaş Kürə yollandı. Gün yaxmışdı. Kəndin qərb tərəfindəki hündür təpələrin zirvəsi narıncı rəngə boyanmışdı. Sahildəki söyüd ağaclarının budaqları qızılı rəngə çalırdı. Güləsər hündür yarğanın yanından sola burulub cığırla aşağı endi. Çəmənlikdə oynaşan uşaqlar malları qabağına qatıb kəndə doğru haylayırdılar. Lap uzaqda bir oğlan at çapırdı. Ətrafa sərinlik gətirən kölgə çökürdü. Güləsər addımlarını yeyinlətdi. Suyun yaxası boyu uzanan yarğanın qaşı ilə
 
@@ -1591,7 +1591,7 @@ Güləsər Suvadağa çatanda sahilə qatı bir kölgə çökdü. Qız başını
 
 Güləsər səhəngi suya basıb doldurdu. Kənara çəkib ağzını tıxacladı. Tələsik üzünə su çırpıb saçını sığalladı. Tezcə də yola düşmək istədi.
 
-Birdən onun bədəninə üşütmə gəldi. Sinəsində göyərçin kimi çapalayan ürəyi koftasını titrətdi. Qız vahimələnən kimi olub səhəngin qulpundan yapışdı. Elə bu an sahildəki yulğun kollarının arxasından bir qayıq çıxdı. Qız cəld səhəngini çiyninə alıb yarğanın qaşına dırmanmaq istədi. Kimsə onu çağırdı. Güləsər tanış səs eşidib geri dönəndə Şamxalla qarşı-qarşıya dayandı. Bir müddət heç biri dinmədi. Güləsər gözlənilməyən bu təsadüfdən özünü itirdi. Axşamüstü çay kənarında onları bir yerdə görsələr, nə deyərlər? El içində biabır olmazdımı? Qız başını qaldırıb Şamxalın üzünə baxdı. Onun dinmədiyini, tez-tez nəfəs aldığını gördü. Gözucu yarğanın aşağısında sahilə yan almış qayığa və orada intizarla Şamxalı gözləyən Tapdığa baxdı. Qızın gözlərinə Kürun üstünə enən kölgədən də qatı bir kölgə endi. Aralanmaq istədi, ancaq Şamxal onun biləyindən yapışdı. Səhəng yerə düşdü. Diğırlanıb sahilə qədər getdi. İri daşa toxunub dayandı. Tıxac siçrayıb çıxdı. Səhəngin suyu loqqultu ilə süzülüb sahil daşlarını islatdı.
+Birdən onun bədəninə üşütmə gəldi. Sinəsində göyərçin kimi çapalayan ürəyi koftasını titrətdi. Qız vahimələnən kimi olub səhəngin qulpundan yapışdı. Elə bu an sahildəki yulğun kollarının arxasından bir qayıq çıxdı. Qız cəld səhəngini çiyninə alıb yarğanın qaşına dırmanmaq istədi. Kimsə onu çağırdı. Güləsər tanış səs eşidib geri dönəndə Şamxalla qarşı-qarşıya dayandı. Bir müddət heç biri dinmədi. Güləsər gözlənilməyən bu təsadüfdən özünü itirdi. Axşamüstü çay kənarında onları bir yerdə görsələr, nə deyərlər? El içində biabır olmazdımı? Qız başını qaldırıb Şamxalın üzünə baxdı. Onun dinmədiyini, tez-tez nəfəs aldığını gördü. Gözucu yarğanın aşağısında sahilə yan almış qayığa və orada intizarla Şamxalı gözləyən Tapdığa baxdı. Qızın gözlərinə Kürün üstünə enən kölgədən də qatı bir kölgə endi. Aralanmaq istədi, ancaq Şamxal onun biləyindən yapışdı. Səhəng yerə düşdü. Diğırlanıb sahilə qədər getdi. İri daşa toxunub dayandı. Tıxac sıçrayıb çıxdı. Səhəngin suyu loqqultu ilə süzülüb sahil daşlarını islatdı.
 
 @@ 069
 
@@ -1651,11 +1651,11 @@ Kişi dayandı. Sualedici nəzərlərlə arvadına, sonra da qızına baxdı. G�
 
 – Əziyyət çəkməyin, Züleyxa xala, sizin çayınız qəndsiz də şirin olar. Güləsər süzdüyü çayı Şamxalın qabağına qoydu və nə üçünsə başını qaldırıb onun üzünə baxdı. Qızın dodaqlarındakı təbəssüm donub qaldı. Üzünə zillənən gözlərdə həm mehriban, həm də qəlbə nüfuz edən qəribə bir ifadə oxudu. Qız ömründə ilk dəfə duyduğu və mənasını başa düşmədiyi bir hissin təsiri ilə sarsıldı. Ona elə gəldi ki, üzünə zillənən gözlər köz kimi onu yandırıb qarsadı. Deyəsən, özü də hiss etmədən bir xeyli beləcə dayandı. Yoxsa atası öskürüb bərkdən içini arıtlamaz, Çərkəz də qaş-göz oynatmazdı.
 
-Güləsər atasının "taxsırın hamısı bu xalası göyçəkdədir," - deyə oğlunu göstərdiyini və onu xəbərsiz qonaq gətirməkdə məzəmmət etdiyini eşidəndon sonra əlini stəkandan çəkdi. Onun qulaqları güyüldədi. Samovarın istisi vurduqca qızarmış yanaqları daha da pörtdü. Kişilərin söhbətini güclə eşitdi. Ayağa durub uzaqlaşmaq istədisə də bacarmadı.
+Güləsər atasının "taxsırın hamısı bu xalası göyçəkdədir," - deyə oğlunu göstərdiyini və onu xəbərsiz qonaq gətirməkdə məzəmmət etdiyini eşidəndən sonra əlini stəkandan çəkdi. Onun qulaqları güyüldədi. Samovarın istisi vurduqca qızarmış yanaqları daha da pörtdü. Kişilərin söhbətini güclə eşitdi. Ayağa durub uzaqlaşmaq istədisə də bacarmadı.
 
 Şamxal çox oturmadı. Çayı içən kimi ayağa durdu. "Ağzınız şirin olsun", - deyə təşəkkür etdi. Çərkəzlə bərabər arabadan uzaqlaşmazdan əvvəl dönüb bir də Güləsərə baxdı. Qız onun Çərkəzə:
 
-– Maşallah, bacın lap böyüyüb, - dediyinı aydınca eşitdi.
+– Maşallah, bacın lap böyüyüb, - dediyini aydınca eşitdi.
 
 Güləsər dağların kölgə saldığı cığırla güneyə doğru addımlayan Şamxalı və qardaşını xır yoluna qədər gözdən qoymadı. Anası onu səsləməsəydi, bəlkə də axşama qədər beləcə dayanacaqdı.
 
@@ -1687,7 +1687,7 @@ Qız qorxusundanmı, yoxsa imdad axtardığındanmı, nədənsə, heç özu də 
 
 Şamxal ələ keçirdiyi ovu yırtıcı bir ehtirasla parçalamaq fikrində deyildi. O, Güləsəri evinə aparmaq və həmişəlik özünə arvad etmək istəyirdi. İndiyəcən atasının bu işə qol qoymayacağını bildiyindən, sirrini heç kəsə açmamışdı. Ancaq indi işlər tərsinə dönmüşdü. Görünür, insan öz taleyindən qaça biiməzmiş!
 
-On yeddi yaşı yenicə tamam olan Güləsər isə başına gələn əhvalatdan heç nə anlamır, elə buradaca, kolun dibində dəhşətli və eyni zamanda cazibədar bir maraqla gözlədiyi əhvalatın baş verəcəyindən qorxurdu. Hələ indiyə qadər bir oğlan əli toxunmayan bədəni Şamxalın təmasından daha şiddətlə titrəyirdi. Oğlan onu qucaqlayanda sudan kənara atılmış balıq kirni çapalayır, əl-qolu tutulanda isə dartınıb çirpınırdı.
+On yeddi yaşı yenicə tamam olan Güləsər isə başına gələn əhvalatdan heç nə anlamır, elə buradaca, kolun dibində dəhşətli və eyni zamanda cazibədar bir maraqla gözlədiyi əhvalatın baş verəcəyindən qorxurdu. Hələ indiyə qədər bir oğlan əli toxunmayan bədəni Şamxalın təmasından daha şiddətlə titrəyirdi. Oğlan onu qucaqlayanda sudan kənara atılmış balıq kirni çapalayır, əl-qolu tutulanda isə dartınıb çırpınırdı.
 
 Şamxal onun özünü həlak edəcəyini görüb, ehtiras və həyəcandan boğulan bir səslə dilləndi:
 
@@ -1735,7 +1735,7 @@ Onlar dəyirmanın üst tərəfındən keçib qaşdakı tut ağacının yaxınl�
 
 Şamxal təpələrin dalından yenicə doğan ay işığında qızı başdan-ayağa süzdü.
 
-– İndl fikrin nədir? Hara getmək istəyirsən?
+– İndi fikrin nədir? Hara getmək istəyirsən?
 
 Qız dinmədi. Yerindəcə silkələnib dayandı. Danışmaq istədisə də bacarmadı. Yaş onu boğdu. Yaylığının ucunu ağzına salıb didişdirdi.
 
@@ -1801,7 +1801,7 @@ Salatın hirslənmişdi. Qardaşının heç kəslə məsləhətləşməyib, özb
 
 @@ 077
 
->>o deyidimi? Bəs indi niyə hirslənir? Gülüb oynamaq əvəzinə niyə qaşqabağını tökür? Bu suallara Salatın özü də cavab tapa bilmirdi. Bəlkə qardaşının belə xəlvəti evlənməyi, cah-cəlalla toy etməyib, qız götürüb qaçması ona toxunurdu? Axı, Salatın Şamxalın toyunda dovunca oynamağı əhd etmişdi! Onun arzuları niyə puç olurdu? Bəlkə Güləsəri bəyənmirdi? Yox, Güləsər onun çoxdan xoşuna gəlirdi. On-az görüşsələr də, bir-birinə çox yaxın idilər.
+>>o deyildimi? Bəs indi niyə hirslənir? Gülüb oynamaq əvəzinə niyə qaşqabağını tökür? Bu suallara Salatın özü də cavab tapa bilmirdi. Bəlkə qardaşının belə xəlvəti evlənməyi, cah-cəlalla toy etməyib, qız götürüb qaçması ona toxunurdu? Axı, Salatın Şamxalın toyunda dovunca oynamağı əhd etmişdi! Onun arzuları niyə puç olurdu? Bəlkə Güləsəri bəyənmirdi? Yox, Güləsər onun çoxdan xoşuna gəlirdi. On-az görüşsələr də, bir-birinə çox yaxın idilər.
 
 – Yaxşı, bəsdi. Yad yerə ha gəlməyibsən?
 
@@ -1821,7 +1821,7 @@ Elə bil Salatını birdən-birə dəyişdirdilər, azca bundan əvvəlki donuq 
 
 Bu yüngüllük və şıtıxlıq Güləsərə də təsir etdi. Onun da çöhrəsi açıldı. Qaşlarını oynadıb gulümsündü. Salatın çırağın işığında onun yaşlı gözlərinin dərinliklərində parlayan qığılcımlan duydu. Qız koftasını soyunanda Salatın Güləsərin alt paltarının da islaq olduğunu gördü. Onun yenicə ətə dolan ağ sinəsinə baxdı. Yaş köynək qızın yumru döşlərinə yapışmışdı. Bəzi yerlərdə ətlə paltar arasında hava qalmışdı. Ağ zolaqların arasında açıq-çəhrayı rəngə çalan bədəni görünürdü.
 
-Salatının ürəyi çırpınırdı. Gicgahlarındakı damarlar nəbzinin ahənginə uyğun olaraq vurmağa başladı. Elə bil qızın sifətinə isti buğ verdılər. Yanaqları allanıb pörtdü. Birdən Güləsər də dayandı. Əlindəki donu sinəsinə tutub geri çəkildi.
+Salatının ürəyi çırpınırdı. Gicgahlarındakı damarlar nəbzinin ahənginə uyğun olaraq vurmağa başladı. Elə bil qızın sifətinə isti buğ verdilər. Yanaqları allanıb pörtdü. Birdən Güləsər də dayandı. Əlindəki donu sinəsinə tutub geri çəkildi.
 
 – Sən Allah, üzünü o yana tut. Qoy köynəyimi dəyişdirim.
 
@@ -1857,13 +1857,13 @@ Salatın bütün gecəni narahat yatdığından, yalnız səhərə yaxın şirin
 
 @@ 079
 
->>nıb qıza xeyli tamaşa etdi. Salatın yorğanı üstüno çəkib paltarlı yatmışdı. Saçları yastığa dağılmışdı.
+>>nıb qıza xeyli tamaşa etdi. Salatın yorğanı üstünə çəkib paltarlı yatmışdı. Saçları yastığa dağılmışdı.
 
 – Qalx, çaydan-çörəkdən hazırla.
 
 Salatın gözünü açsa da, heç nə başa düşmədiyindən, maddım-nıaddım qardaşının üzünə baxdı. Yerin içində gərnəşib bərkdən əsnədi.
 
-Ancaq yenə çevrilərkən, ot tayasının bərabərindən ona boylanan gunəşin şüaları düz gözünün içinə düşdü. Əzik donunun ətəyini aşağı cəkdi. Saçını gözünün üstündən geri elədi.
+Ancaq yenə çevrilərkən, ot tayasının bərabərindən ona boylanan günəşin şüaları düz gözünün içinə düşdü. Əzik donunun ətəyini aşağı cəkdi. Saçını gözünün üstündən geri elədi.
 
 – Qıza da baş çək.
 
@@ -1873,11 +1873,11 @@ Yalnız bundan sonra məsələni başa düşən Salatın diqqətlə çiyni tüf�
 
 – Bir az fırlanıb gəlirəm.
 
-Şamxal hələ də yuxudan tamam ayılmamış bacısını başdan-ayağa süzüb gülüınsündü və tüfəngini çiyninə aşırdı. Salatın cığırla uzaqlaşan qardaşının arxasınca baxdı. Ona elə gəldi ki, Şamxalın kürəyi dünənkindən xeyli enlənmiş, elə boyu da uzanmışdır. Hətta, deyəsən, səsi də dəyişmişdir. Amma nədənsə bir az süst kimidir. Yerişində bir ağırlıq var. Dünənəcən qırğı kimi süzən Şamxal indi ağır-ağır addımlayir, bircə gecənin içində yaşa dolub toxtamış kimi görünürdü. Qardaşında hiss etdıyi bu dəyişiklik həm onu sevindirdi, həm də nədənsə qüssələndirdi. Elə bil qız, uzaq, əlçatmaz bir aləmlə vidalaşdı. O, kəlağayısının ucü ilə yaşarmış gözlərini quruladı. "Boyuna qurban olum, ay qardaş, lap kişi həddinə dolubsanmış", - deyə xəyalından keçirdi. Sonra da ocaq yerindəki kösövü qorlandırıb alışdırdı. Qazan asıb, samovara od saldı. Çalğını götürüb, qapı-bacanı süpürdü. Ancaq içəri, Güləsərin yanına gedə bilmədi. Bir-iki dəfə ayaqlarının ucunda qapıya yaxınlaşdısa da, ürəyinin çırpındığını hiss edib geri qayıtdı. İndiyə qədər bir yerdo oynayıb güldükləri Güləsərin üzünə necə baxacağını təsəvvürünə gətirə bilmədi. "Axı mən ona nə deyəcəyəm? Qız gözümün qabağında duranda ətim çimçişir. İçəri getsəm danışmağa söz də tapmaram".
+Şamxal hələ də yuxudan tamam ayılmamış bacısını başdan-ayağa süzüb gülüınsündü və tüfəngini çiyninə aşırdı. Salatın cığırla uzaqlaşan qardaşının arxasınca baxdı. Ona elə gəldi ki, Şamxalın kürəyi dünənkindən xeyli enlənmiş, elə boyu da uzanmışdır. Hətta, deyəsən, səsi də dəyişmişdir. Amma nədənsə bir az süst kimidir. Yerişində bir ağırlıq var. Dünənəcən qırğı kimi süzən Şamxal indi ağır-ağır addımlayır, bircə gecənin içində yaşa dolub toxtamış kimi görünürdü. Qardaşında hiss etdiyi bu dəyişiklik həm onu sevindirdi, həm də nədənsə qüssələndirdi. Elə bil qız, uzaq, əlçatmaz bir aləmlə vidalaşdı. O, kəlağayısının ucü ilə yaşarmış gözlərini quruladı. "Boyuna qurban olum, ay qardaş, lap kişi həddinə dolubsanmış", - deyə xəyalından keçirdi. Sonra da ocaq yerindəki kösövü qorlandırıb alışdırdı. Qazan asıb, samovara od saldı. Çalğını götürüb, qapı-bacanı süpürdü. Ancaq içəri, Güləsərin yanına gedə bilmədi. Bir-iki dəfə ayaqlarının ucunda qapıya yaxınlaşdısa da, ürəyinin çırpındığını hiss edib geri qayıtdı. İndiyə qədər bir yerdo oynayıb güldükləri Güləsərin üzünə necə baxacağını təsəvvürünə gətirə bilmədi. "Axı mən ona nə deyəcəyəm? Qız gözümün qabağında duranda ətim çimçişir. İçəri getsəm danışmağa söz də tapmaram".
 
 Güləsərin də səsi-səmiri gəlmirdi. Görünür, o da utandığından eşiyə çıxa bilmirdi.
 
-Gün xeyli qalxdı. Sığırçınlar malları haylayıb apardılar. Salatın qaynatdığı çayı təzədon isitməli, düşürdüyü qazanı yenidən ocağa asmalı oldu. Şamxal gəlmədi. Qız darıxdığından, doqqaza doğru getdi və gözləmədiyi halda Şahnigarla qarşılaşdı.
+Gün xeyli qalxdı. Sığırçınlar malları haylayıb apardılar. Salatın qaynatdığı çayı təzədən isitməli, düşürdüyü qazanı yenidən ocağa asmalı oldu. Şamxal gəlmədi. Qız darıxdığından, doqqaza doğru getdi və gözləmədiyi halda Şahnigarla qarşılaşdı.
 
 @@ 080
 
@@ -1899,7 +1899,7 @@ Gün xeyli qalxdı. Sığırçınlar malları haylayıb apardılar. Salatın qay
 
 Salatın əli üzündəcə quruyub qaldı. Qorxu və həyəcanla bibisinə baxdı. Bu xəbərin belə tezliklə yayılacağını gözləmədiyindən özünü itirdi. Ona elə gəldi ki, bu saat bibisinin ardınca şenliyin camaatı bura töküləcək, hamı onları daşqalaq edəcək. Qız hamıdan çox atasından qorxurdu. Oğlunun tutduğu işdən kişinin qəzəblənəcəyini yaxşı bildiyindən, Salatının ürəyi uçurdu. Qızdırmalı adamlar kimi titrəyib saraldı. "Bəlkə bibim elə al dillə bir xəbər tutmağa gəlib? Əhvalatı öyrənəndən sonra hay-haray salacaq? Bəs Şamxal niyə ləngidi? Allah, sən özün saxla".
 
-Qızın bu halı Şahnigarın gözündon qaçmadı.
+Qızın bu halı Şahnigarın gözündən qaçmadı.
 
 – A-a-a-z, sənə nə oldu, rəngin niyə saraldı?
 
@@ -1937,7 +1937,7 @@ Qızın bu halı Şahnigarın gözündon qaçmadı.
 
 Bıy-bıy, başıma xeyir, ay qız, deyəsən bizi bəxtəvərə salacaqsan, yatmaq nədi? Bəri gəl görüm.
 
-Şahnigar incə bir şuxluqla qaş-gözünü oynadıb güldü. Yanaqlarında qırmızı ləkələr əmələ gəldi. Dingəsindəki qızıl pullar titrəyib cingildədi. Xırdaca çənəsi buxağın içində itdi. Sıx dişləri parıldadı. Salatın, həmişə deyib-gülməkdən xoşu gələn bibisinin yenə də şitlik edəcəyini bilib qizardı. İçəri getmək istəyən arvadı saxlamağa çalışdı.
+Şahnigar incə bir şuxluqla qaş-gözünü oynadıb güldü. Yanaqlarında qırmızı ləkələr əmələ gəldi. Dingəsindəki qızıl pullar titrəyib cingildədi. Xırdaca çənəsi buxağın içində itdi. Sıx dişləri parıldadı. Salatın, həmişə deyib-gülməkdən xoşu gələn bibisinin yenə də şitlik edəcəyini bilib qızardı. İçəri getmək istəyən arvadı saxlamağa çalışdı.
 
 – Yaxşı deyil, qoy qağam gəlsin.
 
@@ -1957,7 +1957,7 @@ Güləsər nə edəcəyini bilmədi. Elə əvvəlki kimi büzüşüb otursunmu, 
 
 Güləsər fikrini toplayana qədər Şahnigar onun başının üstünü kəsdirdi. Əlini belinə qoyub, daha da büzüşən gəlinə baxdı. Arvadın səsi qazma evin divarlarında cingildədi:
 
-– Bir ayağa dur görüm, qardaşım oğlu sənin nəyinə aşiq olub? Güləsər sürüşüb taxtdan düşdü. Verilən sualın mahiyyətini anlamadığından başını aşağı saldı. Bundan daha ağır, təhqirli sözlər gözlədi. Şahnigar isə qızın ətrafında dolanıb, ağzını marçıldatdi;
+– Bir ayağa dur görüm, qardaşım oğlu sənin nəyinə aşiq olub? Güləsər sürüşüb taxtdan düşdü. Verilən sualın mahiyyətini anlamadığından başını aşağı saldı. Bundan daha ağır, təhqirli sözlər gözlədi. Şahnigar isə qızın ətrafında dolanıb, ağzını marçıldatdı;
 
 – Hm... pis deyilsən. Bir belə fırlan görüm... Qəşəngsən. Vallah, düz sözümdür. Meymun ağzının dadını bilirmiş... ha...ha...ha... Başını niyə aşağı salırsan? Üzümə bax, utanma. Hamımızın başına gələn iş deyilmi? Eh, kaş qiz olub, təzədən ərə gedəydim.
 
@@ -1977,7 +1977,7 @@ Güləsər fikrini toplayana qədər Şahnigar onun başının üstünü kəsdir
 
 Amma neyləyim ki, mənim bəxtim gətirmədi... Hə, belə işığa gol görüm... Sir-sifətinə diqqətlə baxmaq istəyirəm. Bəy, gözləriyin altı nə yaman qaralıb? Yəqin qırışmal səni yamanca yorub, hə, eləmi? Qoy bircə qayıtsın, gör başına nə oyun açacam!
 
-– Bibi, bsdir, qızı utandırma.
+– Bibi, bəsdir, qızı utandırma.
 
 – Nə utanmaq, ay bala, ərə getməyi bilən adam utanmaz. Şahnigar qəşş edib, taxtın üstündə oturdu. Güləsəri də çəkib yanında əyləşdirdi. Gəlinin utanıb büzüşdüyünü görəndə daha da şaqılldadı: -Niyə qısılırsan, pis oğlana gəlibsən? Yoxsa qorxursan?
 
@@ -2061,7 +2061,7 @@ Güləsər həyadan yerə girəcək olsa da, arvadı şübhəyə salmamaq üçü
 
 – Üzün ağ olsun, qızım, indən sonra sənə canımı da qurban eləyərəm. O, yenicə görürmüş kimi qızın əynindəki nimdaş paltarlarına, yalın ayaqlarına baxdı. Dərindən köksünü ötürdü. Qardaşıgildə olub-keçənləri unutmağa çalışıb gülümsündü. Əvvəlcə barmağındakı yaqut qaşlı üzüyü çıxartdı. Sonra da ağ buğumhı biləyindən bilərziyi açdı.
 
-– Yaxın gəl, görüm. Bax bu sənin nişan üzüyün, keçirt barmağma, bu da bilərziyin, bibi payıdır, götür. Sonra nəyin çatışmır?
+– Yaxın gəl, görüm. Bax bu sənin nişan üzüyün, keçirt barmağına, bu da bilərziyin, bibi payıdır, götür. Sonra nəyin çatışmır?
 
 Salatın özünü sındırmaq istəmədi. Həm də qardaşının evdə dava salacağından qorxduğıı üçün verilən şeyləri Güləsərdən alıb, geri qaytarmaq fikrinə düşdü.
 
@@ -2133,7 +2133,7 @@ Bıy, boyuna qurban, gəlibsənmi? Bə niyə dinmirsən? Qapının arxasındaca 
 
 – Bax, gəlini incitmə ha, yoxsa dostluğu pozarıq. Yaxşı, de görüm belə tezdən cavan arvadı qoyub hara getmişdin? Ova? Göstər görüm nə vurmusan? Qırqovul? Bax buna varam. Vallah, xoşuma gəldin. Deyəsən, arvadın qədrin bilən olacaqsan. - O, Salatının əlindən qırqovulları alıb diqqətlə baxdı. Düz gəlinin yanına gəldi. Quşları yuxarı qaldırıb, parıldayan zərli lələklərini, yaşılı rəngə çalan xınalı boynunu sığalladı.
 
-– Daha nə istəyirsən, ay Güləsər, ərin indidən səni qırqovull əti ilə yemləmək istəyir. Gərək sən də onun əməyini itirməyəsən. Qırqovula dönüb ortada süzəsən. Buğum-buğum cığa tökəsən. Hə, niyə durubsunuz? Tez olun, ocağa qazan asın.
+– Daha nə istəyirsən, ay Güləsər, ərin indidən səni qırqovul əti ilə yemləmək istəyir. Gərək sən də onun əməyini itirməyəsən. Qırqovula dönüb ortada süzəsən. Buğum-buğum cığa tökəsən. Hə, niyə durubsunuz? Tez olun, ocağa qazan asın.
 
 Şamxal bibisinin yanında oturdu. Salatın quşları götürüb həyətə çıxanda Güləsər də getmək istədi. Şahnigar qızın qolundan tutdu:
 
@@ -2171,7 +2171,7 @@ Niyə dinmirsən?
 
 – Hara?
 
-– Oz yanıma. Ə, insafın yoxdur? Qalmışam qu quşu kimi damın altlnda tək. Nə olar mənim yanıma köçəndə? Otağın biri sənindir. Divarda xalısı, asma lampası, qab-qacağı, hər şeyi var. Sənə öz əlimle gərdək də qurmuşam. Heç o yan, bu yanı yoxdur, gedəcəksən. Başını tərpətmə, zornan da olsa aparacam. Salatınla mən bir otaqda qalaram, siz də bir.
+– Oz yanıma. Ə, insafın yoxdur? Qalmışam qu quşu kimi damın altında tək. Nə olar mənim yanıma köçəndə? Otağın biri sənindir. Divarda xalısı, asma lampası, qab-qacağı, hər şeyi var. Sənə öz əlimlə gərdək də qurmuşam. Heç o yan, bu yanı yoxdur, gedəcəksən. Başını tərpətmə, zornan da olsa aparacam. Salatınla mən bir otaqda qalaram, siz də bir.
 
 – Çox sağ ol, ay bibi, kişi gərək qoltuqda yaşamasın.
 
@@ -2301,7 +2301,7 @@ Aralıqdakı sükut Çərkəzi darıxdırdı. O tələsir, bir quş kimi qanadla
 
 @@ 093
 
-– Bura bax, - deyə Çərkəz hirslə ayağa durdu. – Getmək myelin yoxdursa, açıq de, çərən-pərən danışma.
+– Bura bax, - deyə Çərkəz hirslə ayağa durdu. – Getmək meylin yoxdursa, açıq de, çərən-pərən danışma.
 
 – Ə, nə odlu-odlu danışırsan? Tutaq ki, qızı tapdın, baş kəsəcəksən?
 
@@ -2407,7 +2407,7 @@ Onun sözü yenə cavabsız qaldı. Şahnigar xanım tətiyi çəkdi. Vıyılday
 
 >>yorğan salanda, ərinin kürəklərinin titrədiyini, iri və cod barmaqlarının gəbənin ilgəklərini didib tökdüyünü gördü, amma cıqqırını da çıxartmadı, söz deməyə cəsarət etmədi. Kişinin əlindən xata çıxa biləcəyini düşünəndə evdəki arvadlar yarpaq kimi əsdilər.
 
-Hər biri bir ilə qədər sürən üzücü günlər gəlib keçdi. Cahandar ağa bir axşam div yuxusundan ayılan kimi ayağa durdu. Dinməz-söyləməz paltarını geyindi. Qoltuqaltısını götürdü. Darağı xəzinəyə basıb çaxmağı hərlədi, gülləni lüləyə verdi. Bunlar azmış kimi xəncəri də belinə bağladı. Hava isti olsa da, dəvə yunundan toxunmuş ağ başlığını boynuna doladı. Yenə heç kəs dinib-danışmadı. Zərnigar xanım qorxusundan cəsədə dönmüşdü. Yazığın nəfəsi güclə gedib-gəlirdi. Necə deyərlər, diri gozlü ölmüşdü. O, ərinin nə isə dəhşətli bir iş düşündüyünü yəqin etmişdi. Bir analıq sövq-təbiisi ilə oğlunun başında qaranlıq olduğunu duyurdu. Amma nə dinir, nə də ərinə bir söz deyə bilirdi. Arvad lap özünü itirmişdi. Mələk də Cahandar ağanın daş kimi lal və qaradinməz olduğundan təşvişə düşdü: "Acıqlı başda ağıl olmaz",- deyə fikirləşdi. Əvvəlcə Zərnigar xanımı hərəkətə gətirmək, "kişinin əl-ayağına düş, getməyə qoyma", - demək istədi. Amma onun dilinin gödək olduğunu yadına salıb dayandı. Əslinə baxsan, Zərnigar xanım özü də Şamxaldan narazı idi.
+Hər biri bir ilə qədər sürən üzücü günlər gəlib keçdi. Cahandar ağa bir axşam div yuxusundan ayılan kimi ayağa durdu. Dinməz-söyləməz paltarını geyindi. Qoltuqaltısını götürdü. Darağı xəzinəyə basıb çaxmağı hərlədi, gülləni lüləyə verdi. Bunlar azmış kimi xəncəri də belinə bağladı. Hava isti olsa da, dəvə yunundan toxunmuş ağ başlığını boynuna doladı. Yenə heç kəs dinib-danışmadı. Zərnigar xanım qorxusundan cəsədə dönmüşdü. Yazığın nəfəsi güclə gedib-gəlirdi. Necə deyərlər, diri gözlü ölmüşdü. O, ərinin nə isə dəhşətli bir iş düşündüyünü yəqin etmişdi. Bir analıq sövq-təbiisi ilə oğlunun başında qaranlıq olduğunu duyurdu. Amma nə dinir, nə də ərinə bir söz deyə bilirdi. Arvad lap özünü itirmişdi. Mələk də Cahandar ağanın daş kimi lal və qaradinməz olduğundan təşvişə düşdü: "Acıqlı başda ağıl olmaz",- deyə fikirləşdi. Əvvəlcə Zərnigar xanımı hərəkətə gətirmək, "kişinin əl-ayağına düş, getməyə qoyma", - demək istədi. Amma onun dilinin gödək olduğunu yadına salıb dayandı. Əslinə baxsan, Zərnigar xanım özü də Şamxaldan narazı idi.
 
 Birdən Zərnigar xanım Mələyin qolundan yapışdı. Nə isə demək istədi. Dili söz tutmadı. Arvadın gözü onun üzünə dikilib qaldı. Bu baxışda nələr yox idi?! Ətrafı qırışmış gözlərin işığı sönmüşdü. Didələr öləziməkdə olan qara çıraq kimi titrəyib soğulurdu. Yalnız bəbəklər geniş açılıb, şüşə kimi parıldayırdı. Mələyə elə gəldi ki, arvadın gözünün ağı həddindən artıq böyüyüb, qarası isə tən ortada, balaca bir nöqtə kimi işıldayır. Əgər bir azca da belə getsə, arvad ayaq üstündə keçinəcəkdi. Mələk eyni zamanda bu gözlərin dərinliyində müti bir qul kimi diz çöküb yerə döşənmək istəyən aciz bir insanın yalvarışını da gördü. Zərnigar xanım imdad istəyirdi.
 
@@ -2441,7 +2441,7 @@ Cahandar ağa onu kənara eləyib keçmək istədi. Mələk qapını örtüb, ar
 
 Cahandar ağa arvadın çıraq kimi sönüb yerə çökdüyünü görəndə ayaq saxladı. Onun geri çəkilib yol verəcəyini gözlədi. Amma Mələyin ətli bədəni divar boyu ağır-ağır sürüşdü və birdən kəsilmiş ağac kimi yerə sərildi. "Lənət sənə şeytan, işə düşmədik", - deyə söylənən Cahandar ağa onun üstündən adlayıb keçmək istədi. Amma arvadın sifətinin kağız kimi ağardığını, ağız-burnundan qan fışqırdığını görəndə həyəcanlandı. Aşağı əyilib onu yerdən qaldırdı. Taxtın üstünə uzatdı. Arvadı soyuq tor basdığını görüb, özünü lap itirdi: - Ay uşaq, kim var, tez olun, su gətirin.
 
-Bayaqdan o biri otaqda qorxudan titrəyə-titrəyə bu işlərin nə ilə qurtaracağını gözləyən Salatın özünü içəri saldı. Zərnigar xanım da surünə-sürünə gəldi. Mələyin ağarmış sifətini, ağız-burnundan axıb laxtalanmış qanı görəndə üzünü cırıb, dizinə döydü:
+Bayaqdan o biri otaqda qorxudan titrəyə-titrəyə bu işlərin nə ilə qurtaracağını gözləyən Salatın özünü içəri saldı. Zərnigar xanım da sürünə-sürünə gəldi. Mələyin ağarmış sifətini, ağız-burnundan axıb laxtalanmış qanı görəndə üzünü cırıb, dizinə döydü:
 
 @@ 099
 
@@ -2451,7 +2451,7 @@ Bayaqdan o biri otaqda qorxudan titrəyə-titrəyə bu işlərin nə ilə qurtar
 
 Onun nəriltisi otağı başına götürdü. Zərnigar xanım "niyə mənim olur, elə sənin də küçüyündür, adımızı batırdı", - demək istədisə də qorxusundan dinmədi. Mələyin üzünə su çiləyən qızına kömək etdi.
 
-Cahandar ağa tüfəngi taxtın üstünə atıb eşiyə çıxdı. Əlləri əsə-əsə papiros eşdi. Həyətdə fırlandı. O, qəfəsə salınmış yaralı pələng kimi dolandıqca, göyümsov tüstü boynunun ardında burulur, sonra da duman kimi çoküb, enli kürəyinin ortasında yatırdı. O vurnuxurdu. Əlinin bu qədər ağır olduğunu, bir şapalaqla o boyda arvadı yerə sərə biləcəyini ağlına gətirə bilmədiyindən indi əzab çəkirdi. Qəribə idi: elə bil üç gündən bəri ürəyinin başında qurğuşun kimi çöküb dayanan ağrılar yox olmuş, bütün hirsi elə o şillə ilə çıxıb getmişdi. Cahandar ağa sinəsində bir boşluq, qollarında yorğunluq hiss edirdi. Beyni güyüldəyir, gözləri alacalanırdı. Mələyin başına gələn əhvalat ona her şeyi unutdurmuşdu. Öldürmək istədiyi oğlunu da, tikə-tikə doğrayacağını qət etdiyi gəlinini də yaddan çıxartmışdı. Axşam qaranlığında həyətdə dolaşan nökərləri, örüşdən qayıdan malları görmür, dana-buzov səsini, qoyun-quzu mələşməsini də eşitmirdi. Özünü zahirən laqeyd göstərsə də, fikri evdə, Mələyin yanında idi. içəri girib arvadının halını öyrənməyə üzü gəlməsə də, gözünü örtülüb-açılan qapıdan çəkmirdi. Tez-tez eşiyə çıxıb, içəri girən Salatın atasına heç nə demir, başı alovlu ora-bura qaçırdı.
+Cahandar ağa tüfəngi taxtın üstünə atıb eşiyə çıxdı. Əlləri əsə-əsə papiros eşdi. Həyətdə fırlandı. O, qəfəsə salınmış yaralı pələng kimi dolandıqca, göyümsov tüstü boynunun ardında burulur, sonra da duman kimi çöküb, enli kürəyinin ortasında yatırdı. O vurnuxurdu. Əlinin bu qədər ağır olduğunu, bir şapalaqla o boyda arvadı yerə sərə biləcəyini ağlına gətirə bilmədiyindən indi əzab çəkirdi. Qəribə idi: elə bil üç gündən bəri ürəyinin başında qurğuşun kimi çöküb dayanan ağrılar yox olmuş, bütün hirsi elə o şillə ilə çıxıb getmişdi. Cahandar ağa sinəsində bir boşluq, qollarında yorğunluq hiss edirdi. Beyni güyüldəyir, gözləri alacalanırdı. Mələyin başına gələn əhvalat ona her şeyi unutdurmuşdu. Öldürmək istədiyi oğlunu da, tikə-tikə doğrayacağını qət etdiyi gəlinini də yaddan çıxartmışdı. Axşam qaranlığında həyətdə dolaşan nökərləri, örüşdən qayıdan malları görmür, dana-buzov səsini, qoyun-quzu mələşməsini də eşitmirdi. Özünü zahirən laqeyd göstərsə də, fikri evdə, Mələyin yanında idi. içəri girib arvadının halını öyrənməyə üzü gəlməsə də, gözünü örtülüb-açılan qapıdan çəkmirdi. Tez-tez eşiyə çıxıb, içəri girən Salatın atasına heç nə demir, başı alovlu ora-bura qaçırdı.
 
 Nəhayət, əl-ayaq yığışdırılanda kişi içəri girdi. Mələyi yorğan-döşəyə uzatmışdılar.
 
@@ -2481,7 +2481,7 @@ Cahandar ağa yenidən əsəbiləşdi. Şamxalı yaddan çıxartmaq üçün o bi
 
 Kişi yerin içində qurcalanır, gah yorğanı başına çəkir gah da o üz bu üzə dönürdü. Nə qədər çalışırdısa da, yata bilmir, karvan-karvan üstünə cumulan fikirlərlə əlləşirdi. O, Mələyi vurduğuna peşman olsa da sevinirdi. "Bəlkə də belə olması yaxşıdır. Kim bilir, bəlkə də o, qabağıma keçməsə idi, gedib bir xata çıxardacaqdım. Vallah, Mələk yaxşı arvaddır. Bununla iki dəfədir yolumu kəsir, məni oğul qanı tökməkdən saxlayır". Birdən-birə Cahandar ağanın arvadına yazığı gəldi, hələ də əli ağrıdığını xatırlayıb, özünü danladı. Yerin içində dirsəklənib, ehmalca o yatan tərəfə baxdı.
 
-Mələyin də gözünə yuxu getmirdi. Üzünün bir tərəfi od tutub yansa da, ağrı ötüb keçmişdi. Nə yuxusu gəlir, nə də bir şey fikirləşə bilirdi. Elə bil zehni, düşüncəsi də hissləri kimi kütləşmişdi. Başı ağrıyırdı. Amma bircə şeyi, Cahandar ağanın evdə olduğunu, silahlanıb getmədiyini xatırlayırdı. Ona da bu lazım idi. Deməli, döyülsə də, ürəyi keçib huşsuz qalsa da, onu yoldan saxlamış, xatadan qurtarmışdı. Ö, istədiyinə çatmışdı. Mələk taxtın üstündə, ondan bir az aralı uzanan ərinin yatmadığnı bilsə də səsini çıxartmır, onun sonra nə edəcəyini gözləyirdi. Mələk Cahandar ağadan incimişdi. Lakin ərinin onun ayağına gələcəyini, könlünü alacağını gözləmirdi. Axı hansı kişi arvadını döyəndən sonra peşmançılıığını boynuna alıb üzr istəyir? O handa da Cahandar ağa ola. Elə onun evdə qalmağı bəsdir, hələlik qələbə Mələyindir. O bu saat yerindən sürünüb, ərinin yanına gedə bilərdi, onu sakitləşdirmək üçün söz tapardı. Axı o da yazıqdı! Oğlunun hərəkəti kişini odsuz-ocaqsız yandırırdı! Amma qorxurdu. Mələk balaca bir hərəkətlə Cahandar ağanın ovqatını təlx edəcəyindən ehtiyatlanır, ona görə də susurdu. "Qoy dincəlsin, Allah istəyən yaxşıdır. Sonra qaş qayırdığı yerdə vurub gözünü tökərəm".
+Mələyin də gözünə yuxu getmirdi. Üzünün bir tərəfi od tutub yansa da, ağrı ötüb keçmişdi. Nə yuxusu gəlir, nə də bir şey fikirləşə bilirdi. Elə bil zehni, düşüncəsi də hissləri kimi kütləşmişdi. Başı ağrıyırdı. Amma bircə şeyi, Cahandar ağanın evdə olduğunu, silahlanıb getmədiyini xatırlayırdı. Ona da bu lazım idi. Deməli, döyülsə də, ürəyi keçib huşsuz qalsa da, onu yoldan saxlamış, xatadan qurtarmışdı. Ö, istədiyinə çatmışdı. Mələk taxtın üstündə, ondan bir az aralı uzanan ərinin yatmadığnı bilsə də səsini çıxartmır, onun sonra nə edəcəyini gözləyirdi. Mələk Cahandar ağadan incimişdi. Lakin ərinin onun ayağına gələcəyini, könlünü alacağını gözləmirdi. Axı hansı kişi arvadını döyəndən sonra peşmançılığını boynuna alıb üzr istəyir? O handa da Cahandar ağa ola. Elə onun evdə qalmağı bəsdir, hələlik qələbə Mələyindir. O bu saat yerindən sürünüb, ərinin yanına gedə bilərdi, onu sakitləşdirmək üçün söz tapardı. Axı o da yazıqdı! Oğlunun hərəkəti kişini odsuz-ocaqsız yandırırdı! Amma qorxurdu. Mələk balaca bir hərəkətlə Cahandar ağanın ovqatını təlx edəcəyindən ehtiyatlanır, ona görə də susurdu. "Qoy dincəlsin, Allah istəyən yaxşıdır. Sonra qaş qayırdığı yerdə vurub gözünü tökərəm".
 
 @@ 102
 
@@ -2506,7 +2506,7 @@ Göytəpə kəndinin ucqarında, xır yolunun üst tərəfində üçotaqlı bir 
 
 Göytəpəlilərdən bu yolun necə çəkilməsini xatırlayanlar az deyil. Hətta onların çoxu yola döşəmək üçün Kürün sahilindəki çaylaqdan araba ilə xır daşıdıqlarını indi də unutmamışdır.
 
-Pristavın əmri ilə kəndin mötöbər adamları qabağa düşüb qapı-qapı gəzmiş, evlərdə nə qədər araba varsa hamısını qoşdurub birbaş xır daşımağa göndərmişdilər. Ətraf kəndlərdən də gələnlər çox idi. Arabaların : bir ucu yoldan üzülməmiş, o biri ucu Kürün safrilindən geri qayıdırdı. Hörükdəki öküzlər dizini yerə qoyur, kəllər boyunduruğun altında ləhləyirdilər.
+Pristavın əmri ilə kəndin mötəbər adamları qabağa düşüb qapı-qapı gəzmiş, evlərdə nə qədər araba varsa hamısını qoşdurub birbaş xır daşımağa göndərmişdilər. Ətraf kəndlərdən də gələnlər çox idi. Arabaların : bir ucu yoldan üzülməmiş, o biri ucu Kürün safrilindən geri qayıdırdı. Hörükdəki öküzlər dizini yerə qoyur, kəllər boyunduruğun altında ləhləyirdilər.
 
 Təkərlər əvvəlcə xam torpaqda iz saldı, bircə həftədən sonra isə əməlli-başlı yola düşdü. Qatarlaşan arabalar həmin yolla qarışqa kimi irəli-geri gedirdi. Hamı gecəni gündüzə qatıb çaydan daş, qum daşıyırdı. Göytəpəlilərin vəziyyəti nisbətən yaxşı idi. Alatoranlıqdan işə çıxsalar da, qaranlıq qarışan kimi evlərinə dağılışırdılar. Ancaq başqa kəndlərdən, xüsusən dağ ətəyindəki obalardan gələnlər elə yolun kənarındaca gecələyəsi olurdular. Onların qaladıqları ocaqların şöləsi uzun zaman sönmür, səhərin sazağı başlayana qədər korun-korun yanıb qorlanırdı. Ulaqları təpələrin ətəyindəki çəmənlikdə növbə ilə otaran arabaçılar həm də yatanların keşiyini çəkirdilər. Onları heç olmasa həftədə, ya da yarım ayda bir evlərinə də buraxmırdılar. Əgər dallarınca çörək gətirən olmasaydı, burada yeməyə bir şey də tapmazdılar.
 
@@ -2514,11 +2514,11 @@ Pristav günəşin atlı kazaklarla gəlib yola baş çəkirdi. Gözlərində ya
 
 @@ 104
 
->>altından qığılcım qalxırdı. Elə bil daşlar üzə durub, əzilmək istəmirdi.Fəhlələr qaranlıq qarışana qədər bellərini qaldırmadan başıaşağı işlyirdilər. Daş ovxantısı onları qurşağa qədər basırdı.
+>>altından qığılcım qalxırdı. Elə bil daşlar üzə durub, əzilmək istəmirdi.Fəhlələr qaranlıq qarışana qədər bellərini qaldırmadan başıaşağı işləyirdilər. Daş ovxantısı onları qurşağa qədər basırdı.
 
 Kənd arasında pıçıltı gedirdi ki, hökumət bu yolu tez çəkmək, Tiflisi İrəvanla, İrəvanı da Gəncə ilə birləşdirmək istəyir, dağların o tərəfindən , aşıb gələn qoşunlarına yol açmağa çalışır. Elə ona görə də ayağı qandallı dustaqları bura töküblər. Görünür, kəndin üst tərəfindəki sil-silə təpələrin ətəyi ilə uzanan torpaq yol daha işə yaramırdı.
 
-Yaşlı kişilər həmin torpaq yolla çox karvanların gəlib keçdiyini sövyləyirdilər. Onların dediyinə görə, Şah Abbas da, Qacar da Tiflisi talamağa bu yolla gediblər. Elə gürcü padşahı İrakli də bu yolla gəlib Kür boyundakı obalara basqın etmışdir.
+Yaşlı kişilər həmin torpaq yolla çox karvanların gəlib keçdiyini sövyləyirdilər. Onların dediyinə görə, Şah Abbas da, Qacar da Tiflisi talamağa bu yolla gediblər. Elə gürcü padşahı İrakli də bu yolla gəlib Kür boyundakı obalara basqın etmişdir.
 
 Göytəpə kəndinin yuxarısında qədim bir körpü də var. Kürlə Xramın ağız-ağıza qovuşduğu dar keçidi birləşdirən bu körpü sarı kərpicdən hörülmüşdü. Hətta körpünün aşağısında sudan qalxan enli kərpic tağların içində otaqlar da var. Ətrafında ot cücərən dəmir barmaqlıqlı şüşəsiz pəncərələr çuxura düşmüş gözlər kimi qaralır. İndi otaqların içinə quşlardan başqa heç kəs girmir. Əslinə baxsan, oranın yolunu bilən də yoxdur.
 
@@ -2534,7 +2534,7 @@ Onun kim olduğunu heç kəs bilmirdi. Sifətindən, saçının, gözünün qara
 
 Rus Əhməd guşənişin bir həyat keçirirdi. Bütün günü evin ətrafında dolaşır, əlini gözünün üstünə qoyub, xır yoluna baxır, gəlib-gedən olmadığını yəqin etdikdən sonra bel götürüb qapı-bacanı sahmana salırdı. Əvvəllər ona heç kəs yaxın durmazdı. "Xaçpərəstlə nə işimiz var", -deyə uzaq gəzirdilər. Ancaq yavaş-yavaş ona isinişdilər. Əhməd özünə at aldı, araba düzəltdi, şəhərdən su çəlləyi gətirdi. Bundan sonra onun məşğuliyyəti də artdı.
 
-Göytəpə kəndinin üst tərəfi dəmyədir. Xır yolunun ətrafina su çıxmır. Əhməd isə "Zayej"in dörd yanında ağac əkmək, gül basdırmaq istəyirdi. O, hər gün Kürdən iki-üç çəllək su gətirib, qapı-bacanı sulayırdı. "Zayej"in ətrafı yavaş-yavaş yaşıllaşırdı.
+Göytəpə kəndinin üst tərəfi dəmyədir. Xır yolunun ətrafına su çıxmır. Əhməd isə "Zayej"in dörd yanında ağac əkmək, gül basdırmaq istəyirdi. O, hər gün Kürdən iki-üç çəllək su gətirib, qapı-bacanı sulayırdı. "Zayej"in ətrafı yavaş-yavaş yaşıllaşırdı.
 
 O hərdənbir ova getməyi, Kürdən balıq tutmağı da sevirdi. Göytəpəlilər kimi iri qarmaq almaz, bir kötüyün üstündəcə oturub, balaca tilovla kiçik balıqlardan tutardı. Kənd uşaqları bəzən ona sataşar, bəzən də yaxın gəlib söhbətə girişərdilər. Yavaş-yavaş onların arasında ünsiyyət başlayırdı.
 
@@ -2570,7 +2570,7 @@ Oğlan tüfəngi hərlədi:
 
 Əhməd gülümsünərək, hələ də acığı soyumayan Əşrəfi başdan-ayağa süzdü. Uşağın ağ sifəti alışıb yanırdı.
 
-– Bütün bu yerlərın hamısı sizindir?
+– Bütün bu yerlərin hamısı sizindir?
 
 @@ 107
 
@@ -2864,7 +2864,7 @@ Onlar susdular. Faytonçu belə bir adamla söhbətin tutmayacağını yəqin ed
 
 @@ 114
 
-"Bu nə şübhədir? Nə üçün insanlar bir-birindən qorxub hürkürlər? Məgər müsəlman olmaq ingilis, yaxud rus olmaqdan pisdirmi? Bütün isanları Allah yaratmayıbmı? Onlar hamısı təbiətin övladı deyilmi? Bəs bu ayrı-seçkilik nə deməkdir? Kim insanlar arasında ögey-doğmalıq salıb? Axı nə üçün səhərdən axşama qədər bir parça çörək üçün yollarda fayton sürən bu rus kəndlisi tanımadığı xalq haqqında belə danışır? Bu işlərdə müqəssir kimdir? Kim insanların beyninə bu zəhəri yeritmişdir? Bizim dərdimiz çox böyükdür. Bu cür axmaq fikirlər nəticəsində yerli xalqlar bizə şübhə ilə baxırlar. Elə ziyalılarımızda da taqsır çoxdur. Onların içində ağalıq iddiasına düşənlər, yerliləri öz evlərində rahat dolanmağa qoymaq istəməyənlər azdırmı? Elə bizim seminariyada belələri yoxdurmu?"
+"Bu nə şübhədir? Nə üçün insanlar bir-birindən qorxub hürkürlər? Məgər müsəlman olmaq ingilis, yaxud rus olmaqdan pisdirmi? Bütün insanları Allah yaratmayıbmı? Onlar hamısı təbiətin övladı deyilmi? Bəs bu ayrı-seçkilik nə deməkdir? Kim insanlar arasında ögey-doğmalıq salıb? Axı nə üçün səhərdən axşama qədər bir parça çörək üçün yollarda fayton sürən bu rus kəndlisi tanımadığı xalq haqqında belə danışır? Bu işlərdə müqəssir kimdir? Kim insanların beyninə bu zəhəri yeritmişdir? Bizim dərdimiz çox böyükdür. Bu cür axmaq fikirlər nəticəsində yerli xalqlar bizə şübhə ilə baxırlar. Elə ziyalılarımızda da taqsır çoxdur. Onların içində ağalıq iddiasına düşənlər, yerliləri öz evlərində rahat dolanmağa qoymaq istəməyənlər azdırmı? Elə bizim seminariyada belələri yoxdurmu?"
 
 Aleksey Osipoviç hələ dörd il əvvəl Qori seminariyasının pedaqoji şurasında olan mübahisəni xatırladı. Seminariyanın direktoru Dmitri Semyonov (Uşinskinin tələbəsi və görkəmli pedaqoqdur (1834-1902), 1878- ci ildən 1883-cü ilə qədər Qori seminariyasının direktoru olub) müsəlman şöbəsinin açılması məsələsini irəli sürmüşdü. Şurada böyük mübahisə qalxmışdı. Yeni şöbənin açılmasına qəti etiraz edənlər var idi. Semyonovun müəllimləri sakit etdikdən sonra dediyi sözlər Aleksey Osipoviçin indi də yadındadır.
 
@@ -2930,13 +2930,13 @@ Hə, indi mən Sizə arxayınam. Əməli təkliflərinizi yazın, fikrinizi mən
 
 – Taparıq, Dmitri Dmitriyevıç, kəndbəkənd gəzməli də olsam tapacağam.
 
-Bu söhbətlər 1879-cu ildə olmuşdur. Şöbənin açılmasına rəsmi icazə verilməsə də, onlar sentyabr ayına qədər beş-altı tələbə yığa bilmişdilər. İndi isə şöbəni genişləndirmək mümkün idi. Artıq hökumətin rəsmi əmri alınmışdı. Elə bu məqsədlə də Aleksey Osipoviç səfərə çixmışdı. O düz bir ay idi ki, yollarda idi. Təxminən üç min verst qət etmişdi. Bəzən kəndləri piyada dolanmış, Şamaxıda, Şuşada, Gəncədə olmuşdu. İrəvan quberniyasını gəzmişdi. İndi isə Qazaxdan keçib Tiflisə gedirdi...
+Bu söhbətlər 1879-cu ildə olmuşdur. Şöbənin açılmasına rəsmi icazə verilməsə də, onlar sentyabr ayına qədər beş-altı tələbə yığa bilmişdilər. İndi isə şöbəni genişləndirmək mümkün idi. Artıq hökumətin rəsmi əmri alınmışdı. Elə bu məqsədlə də Aleksey Osipoviç səfərə çıxmışdı. O düz bir ay idi ki, yollarda idi. Təxminən üç min verst qət etmişdi. Bəzən kəndləri piyada dolanmış, Şamaxıda, Şuşada, Gəncədə olmuşdu. İrəvan quberniyasını gəzmişdi. İndi isə Qazaxdan keçib Tiflisə gedirdi...
 
 Artıq gün yaxmışdı. Təpələrin kölgəsi uzanıb yolun üstünə sərilmişdi. Uzaqdakı kənd evlərinin pəncərə şüşələri qürub şəfəqlərini əks etdirib parıldayırdı. Atların təri soyumuşdu. Faytonçu bu axşam şəhərə çata bilməyəcəyini yəqin etdiyindən sakitləşmişdi. Xır yolunda asta-asta
 
 @@ 117
 
->>irəliləyən fayton təkərinin qıcırtısı, bir də at nalının taqqıltısından basqa heç nə eşitmirdi.
+>>irəliləyən fayton təkərinin qıcırtısı, bir də at nalının taqqıltısından başqa heç nə eşitmirdi.
 
 Aleksey Osipoviç faytonun günlüyünü qatlamaq üçün ayağa durdu. Bunu hiss edən faytonçu qanrılıb geri baxdı.
 
@@ -3008,11 +3008,11 @@ Biçinçilər ala-torandan qalxır, şehdən nəm çəkmiş zəmilərə doluşur
 
 Gecəninsə ayrı ləzzəti vardı. Uşaqlarla bərabər atları otarmağa aparan Aleksey ağ çadırlı furqonların yanında alovlanan ocaqlara tamaşa etməkdən doymurdu. Gecənin qaranlığında şəfəqlər oynaşır, çuqun qazanlarda xörək bişirənlərin kölgəsi bir nəhəng kimi uzanıb zəmilərin ortasında gəzişirdi. Lakin səs-küy və canlanma çox çəkmirdi. Yarımca saat sonra bütün günü işləyənlər çul kimi döşənib, ağır yuxuya gedirdilər. Ətrafa qulaq cingildədən dərin sükut çökürdü. Alekseyin isə gözünə yuxu getmirdi. O çox vaxt arxası üstə uzanıb, aylı gecələrdə göyə səpələnmiş ulduzları saymaq istəyirdi. Onların nə üçün titrədiklərinin səbəbini öyrənməyə çalışırdı. Çölün üzərinə çökmüş gecənin sərinliyi onu üşürgələndirəndə yorğana bürünür, soyuqdan titrəşdiklərini güman etdiyi ulduzların halına acıyırdı. Hərdənbir ulduz axanda dik atılır, bu quyruqlu alovun onların zəmisinə düşüb, atasının biçdiyi dərzləri yandıracağından qorxurdu. Belə hallarda bəzən ata-anasını da oyatmaq istəyirdi. Ancaq onların bir-birinə qısılıb, ölü kimi yatdıqlarını görəndə fikrini dəyişirdi. Yenə yerinə uzanır, əllərini başının altında çarpazlayıb, buludları yaran aya tamaşa edirdi. Göy ot xımırtladan atların fınxırtısından və gecə böcəklərinin həzin səslərindən başqa heç nə eşidilmirdi. Arabir kövşənlər şaqqıldayırdı.
 
-Bazar günü isə biçindən bir az tez qayıdırdılar. Çay-çörək yedikdən sonra ocağın ətrafına toplaşardılar. Hamının "Mişka" - deyə çağırdığı sarı telli oğlan qarmon çalardı. Aleksey də özünü kişilər cərgəsində hesab edir, cır səsi ilə mahnı oxuyanlara qoşulardı. Anasi həm sevinər, həm də uğunub keçinərdi.
+Bazar günü isə biçindən bir az tez qayıdırdılar. Çay-çörək yedikdən sonra ocağın ətrafına toplaşardılar. Hamının "Mişka" - deyə çağırdığı sarı telli oğlan qarmon çalardı. Aleksey də özünü kişilər cərgəsində hesab edir, cır səsi ilə mahnı oxuyanlara qoşulardı. Anası həm sevinər, həm də uğunub keçinərdi.
 
 @@ 120
 
-Düz bir aydan sonra biçini qurtardılar. Taxıl sahibləri gəldilər, pencələri saydılar. Şərt üzrə hər on pencədən birini biçinçilərə verdilər. Aleksey atasının Allaha şükür elədiyini gördü. Kişinin rəngi durulmuşdu. Tez-tez arvadı ilə zarafat edirdi.
+Düz bir aydan sonra biçini qurtardılar. Taxıl sahibləri gəldilər, pəncələri saydılar. Şərt üzrə hər on pencədən birini biçinçilərə verdilər. Aleksey atasının Allaha şükür elədiyini gördü. Kişinin rəngi durulmuşdu. Tez-tez arvadı ilə zarafat edirdi.
 
 – Belə-belə işlər, Mariya, on pencə taxılımız var. Hər pencədən azı on çanaq buğda çıxacaq. Yüz çanaq üç tağardan da çox edir. Şükür, bu il çörəyimiz var. Hələ üstəlik bir-iki pud satıb Alyoşaya da zəhmət haqqı verərik. Yoxsa insafsızlıq olar. Axı o da işləyib. Belədir, ya yox, Aleksey Osipoviç? - deyə atası gülə-gülə ona müraciət etdi.- Sənə qırmızı çəkmə, bir də boynu işləməli ipək köynək alacam. İstəyirsən qotazlı kəmər də alım. Özünü də bu il necə olur-olsun məktəbə göndərəcəm.
 
@@ -3206,7 +3206,7 @@ Aleksey Osipoviç səsə qanrılıb baxdı.
 
 – Bəs bunlar nədir?
 
-– Dəftərdir. Uşaqlar yaziblar.
+– Dəftərdir. Uşaqlar yazıblar.
 
 – Bilirəm uşaqlar yazıb, bəs sizin evdə nə gəzir?
 
@@ -3246,7 +3246,7 @@ Aleksey Osipoviç gülməyinə ara verib, dəsmalla gözünü sildi. Sonra ağ d
 
 – Peterburqda.
 
-– Başı bəlalı adama oxşayırsan, qardaş, - deyə Aleksey Osipoviç müsahibinin üzünə baxdı, sonra da stul çəkib əyləşdi. Onunla üzbəüz dayanan Əhməd eşmə papirosunu yandırandan sonra qonağın hələ də sual dolu baxışlarla onu süzdüyünü görub dilləndi:
+– Başı bəlalı adama oxşayırsan, qardaş, - deyə Aleksey Osipoviç müsahibinin üzünə baxdı, sonra da stul çəkib əyləşdi. Onunla üzbəüz dayanan Əhməd eşmə papirosunu yandırandan sonra qonağın hələ də sual dolu baxışlarla onu süzdüyünü görüb dilləndi:
 
 – Oxuyurdum.
 
@@ -3376,7 +3376,7 @@ Aleksey Osipoviç saatının qapağını şaqqıltı ila qapayıb, döş cibinə
 
 – Ot tayaları yanır, - dedi.
 
-– Ogurluğa gələn otu niyə yandırır?
+– Oğurluğa gələn otu niyə yandırır?
 
 Əhməd məhəccərin üstündən aşağı endi.
 
@@ -3384,7 +3384,7 @@ Aleksey Osipoviç saatının qapağını şaqqıltı ila qapayıb, döş cibinə
 
 ### İkinci hissə, 4
 
-Yatmağa hazırlaşan Cahandar ağa nökərlərdən ot tayasına od vurulduğunu eşidən kimi çırağı söndürdü. Belə hallarda düşmən pusquda dayanıb, qapını gözlədiyini yaxşi bildiyindən, tüfəngi göturüb pəncərədən bayıra atıldı. Həyətə çıxmayıb, birbaş evin dal tərəfinə hərləndi. Çəpərin dibinə sinəsinə kölgə kimi sürünüb, talvarın altına gəldi.
+Yatmağa hazırlaşan Cahandar ağa nökərlərdən ot tayasına od vurulduğunu eşidən kimi çırağı söndürdü. Belə hallarda düşmən pusquda dayanıb, qapını gözlədiyini yaxşi bildiyindən, tüfəngi götürüb pəncərədən bayıra atıldı. Həyətə çıxmayıb, birbaş evin dal tərəfinə hərləndi. Çəpərin dibinə sinəsinə kölgə kimi sürünüb, talvarın altına gəldi.
 
 @@ 130
 
@@ -3398,11 +3398,11 @@ O, səs-səmir kəsəndən sonra tüfəngini çiyninə alıb ağır-ağır evə 
 
 – Gəl çırağı yandır, özün də keç o biri otağa!
 
-Mələk səs salmaqdan ehtiyat edirmiş kimi barmaqlarının ucunda gəlib, hələ istisi soyumamış şüşəni çıxartdı. Fitili yuxarı çəkib alışdırdı. Otağa solğun bir işıq çilənəndən sonra ərinin üzünə baxmağa cəsarət etmədiyindən səssizcə kölgə kimi çəkilib qapının dalında əridi. Cahandar ağa papiros eşib müştüyə keçirdi, acgözlüklə papirosunu sümürə-sümürə otaqda gəzdikcə tüstü-duman evi bürüdü. Kişini fikir gotürdü. Tez-tez "mənə sataşan kim olar?" - deyə özünə suallar verdi. "Bu, uşaq-muşaq işi deyil. Gələn oğru da deyildi. Oğru olsaydı tövləyə, ya da xalxala basqın edərdi, daha çöldəki otlara od vurmazdı. Yox, bu kimdirsə mənə sataşır. Bəlkə o gədədir, Şamxalın hayıfını məndən almaq istəyir? Yəni belə işə cürət edər? Yox, ağlım kəsmir. Gəmiçi Qocanın oğlunu qan ha örtməyib, belə qələt eləsin. İnanmıram. Yaxşı, bir hovurluğuna deyək ki, otu o yandirıb. Bəs Salatına
+Mələk səs salmaqdan ehtiyat edirmiş kimi barmaqlarının ucunda gəlib, hələ istisi soyumamış şüşəni çıxartdı. Fitili yuxarı çəkib alışdırdı. Otağa solğun bir işıq çilənəndən sonra ərinin üzünə baxmağa cəsarət etmədiyindən səssizcə kölgə kimi çəkilib qapının dalında əridi. Cahandar ağa papiros eşib müştüyə keçirdi, acgözlüklə papirosunu sümürə-sümürə otaqda gəzdikcə tüstü-duman evi bürüdü. Kişini fikir gotürdü. Tez-tez "mənə sataşan kim olar?" - deyə özünə suallar verdi. "Bu, uşaq-muşaq işi deyil. Gələn oğru da deyildi. Oğru olsaydı tövləyə, ya da xalxala basqın edərdi, daha çöldəki otlara od vurmazdı. Yox, bu kimdirsə mənə sataşır. Bəlkə o gədədir, Şamxalın hayıfını məndən almaq istəyir? Yəni belə işə cürət edər? Yox, ağlım kəsmir. Gəmiçi Qocanın oğlunu qan ha örtməyib, belə qələt eləsin. İnanmıram. Yaxşı, bir hovurluğuna deyək ki, otu o yandırıb. Bəs Salatına
 
 @@ 131
 
->>güllə atan kim idi? Onda ki Şamxal məsələsi yox idi. Deyəsən burda ayrı əl var. Bəlkə... Cahandar ağa duruxdu. Mələyin əvvəlki ərini indiyə qədər yadına salmadığına, bu barədə təzə arvadı ilə bir kəlmə danışmadığına özü də təəccüb etdi. - Necə olub ki, bu mənim ağlıma gəlməyib? Onun kimliyini öyrənməmişəm. Elə o olacaq. Yoxsa heç kəs cürət edib mənim evimin həndəvərinə hərlənməz. Hələ bu kənddə indiyəcən qabağımdan söz qaytaran olmayıb. İndi isə mənə sataşırlar. Elə bu onun işidir. Görünür, həəl məni yaxşı tanımır".
+>>güllə atan kim idi? Onda ki Şamxal məsələsi yox idi. Deyəsən burda ayrı əl var. Bəlkə... Cahandar ağa duruxdu. Mələyin əvvəlki ərini indiyə qədər yadına salmadığına, bu barədə təzə arvadı ilə bir kəlmə danışmadığına özü də təəccüb etdi. - Necə olub ki, bu mənim ağlıma gəlməyib? Onun kimliyini öyrənməmişəm. Elə o olacaq. Yoxsa heç kəs cürət edib mənim evimin həndəvərinə hərlənməz. Hələ bu kənddə indiyəcən qabağımdan söz qaytaran olmayıb. İndi isə mənə sataşırlar. Elə bu onun işidir. Görünür, hələ məni yaxşı tanımır".
 
 Kəndin bir az bundan əvvəl ağız-ağıza verən itləri səslərini kəsdilər. Nökərlər geri qayıtdılar. Darvazanın ağzında dayanıb qaranlığa hürən itlər zingildəyib susdular. Cahandar ağa gözünü qapıya zillədi. Nökərlərin nə xəbərlə gələcəklərini gözlədi. Hamıdan sonra həyətə girən Tapdıq atı dirəyə bağlayıb, ağanın yanına gəldi. Cahandar ağa gözünü geniş açıb qapının ağzında dayanan nökəri süzdü. Onun yoğun, zəhmli səsi eşidildi:
 
@@ -3484,13 +3484,13 @@ Tapdıq başlığı taxtın ayaq tərəfində işığa sərdi. Cahandar ağa diq
 
 >>kəsib pusquda durun. İşdi, o geri qayıtsa, ya ölüsünü, ya da dirisini məna gətirin. Başa düşdünmü? Di yeri!
 
-Tapdıq gedəndən sonra evdə tək qalan Cahandar ağanın qəlbinə indiyə qədər duymadığı bir yalqızlıq kədəri çökdü. Kişi yanında isti və doğma bir nəfəsin olmadığını ilk dəfə duyub qüssələndi. "Təklik yaman şeymiş" - deyə xəyalından keçirdi. Ona elə gəldi ki, obalar yaylaqdan köçüb gəlmiş, o isə yurdda tək qalmışdır. Nə bir səs var, nə də səmir. Sükutdan qulaq cingildəyirdi. "İki oğuldan biri yanında olmaya, axırda da nükərin ümidinə qalasan, heç bundan da böyük dərd olarmı? -deyə düşünən kişi qəhərləndi. -Birini göndərmişəm oxumağa, o biri də ki, belə. Yanımda olsaydılar, bəlkə də bu işlər başıma gəlməzdi. Gərək Əşrəfin getdiyinə razı olmayaydım... Amma yox, oxumaq yaxşıdır. Qoy lap böyüsün, divan-dərə ilə yaxın olsun. Deyəsən, indiki zamanda bir yanım hökumətə söykəməsən iş keçməyəcək. Bəlkə elə Əşrəfin özünü pristavdanzaddan qoydular. Onda bəndəvərimə heç kəs hərlənə bilməz. Lazım gəlsə onu padşahın oturduğu şəhərə də göndərərəm, təki fərasətli olsun. Bəlkə heç sözümə baxmadı'? Şamxal kimi zaylıq elədi? Yox, elə şey olmaz. Əşrəf gərək mənim zənnimi itirməsin".
+Tapdıq gedəndən sonra evdə tək qalan Cahandar ağanın qəlbinə indiyə qədər duymadığı bir yalqızlıq kədəri çökdü. Kişi yanında isti və doğma bir nəfəsin olmadığını ilk dəfə duyub qüssələndi. "Təklik yaman şeymiş" - deyə xəyalından keçirdi. Ona elə gəldi ki, obalar yaylaqdan köçüb gəlmiş, o isə yurdda tək qalmışdır. Nə bir səs var, nə də səmir. Sükutdan qulaq cingildəyirdi. "İki oğuldan biri yanında olmaya, axırda da nökərin ümidinə qalasan, heç bundan da böyük dərd olarmı? -deyə düşünən kişi qəhərləndi. -Birini göndərmişəm oxumağa, o biri də ki, belə. Yanımda olsaydılar, bəlkə də bu işlər başıma gəlməzdi. Gərək Əşrəfin getdiyinə razı olmayaydım... Amma yox, oxumaq yaxşıdır. Qoy lap böyüsün, divan-dərə ilə yaxın olsun. Deyəsən, indiki zamanda bir yanım hökumətə söykəməsən iş keçməyəcək. Bəlkə elə Əşrəfin özünü pristavdanzaddan qoydular. Onda bəndəvərimə heç kəs hərlənə bilməz. Lazım gəlsə onu padşahın oturduğu şəhərə də göndərərəm, təki fərasətli olsun. Bəlkə heç sözümə baxmadı'? Şamxal kimi zaylıq elədi? Yox, elə şey olmaz. Əşrəf gərək mənim zənnimi itirməsin".
 
 Kişi ağır düşüncələrin pəncəsindən yaxasını qurtarmaq və ürəyinə dammış şübhələri aydınlaşdırmaq üçün arvadını səslədi. Bayaqdan qonşu otaqda oturub, intizarla ərinin nə deyəcəyini gözləyən Mələk dərhal içəri girdi. Ürəyi döyünə-döyünə ərinin üzünə baxdı.
 
 – Nə deyirsən?
 
-– Yerdən-zaddan sal yataq. Mərdimazar köpukoğlu olmasaydı, indi iki yuxu almışdıq.
+– Yerdən-zaddan sal yataq. Mərdimazar köpəkoğlu olmasaydı, indi iki yuxu almışdıq.
 
 Mələk dərhal yük yerindən yorğan-döşək gətirdi. Taxtın yuxarı başında ərinə yer saldı. Yastıqları qoşalayıb yanaşı qoydu. Ərinin işarəsini gözləmədən pəncərənin taxtasını basdı. Kişinin tüfəngini və xəncərini götürüb, həmişəki kimi divardan asmaq istədi, ancaq əri razı olmadı.
 
@@ -3606,7 +3606,7 @@ Doğrudan da, elə bil kəndə hay düşmüşdü. Ayaqyalın uşaqlar cığırla
 
 @@ 137
 
-Məscidin həyətindn Aleksey Osipoviç üstünün tozunu çırpıb, pencəyini geyindi. Dəsmalla üzünün, boynunun tərini silib, əlindəki şapkasının içini quruladı. Qalstukunu düzəltdi. Papağını başına qoyandan sonra məscidin qapısını açdı. İçəri nəm qoxuyurdu. Səliqə ilə süpürülüb, su çilənmiş torpaq döşəməyə həsir salınmışdı. Dar pəncərələrin balaca gözündən düşən işiq zolaqları otağın divarlarında oynaşırdı. Yarıqaranlıq məscidin içindəki çal-çarpaz zolaqlar, orada qaynaşan saysız-hesabsız toz dənələri adamın diqqətini cəlb etdiyindan, küncdə oturanlar nəzərə çarpmırdı. Aleksey Osipoviç bir az dayanmalı oldu. Bir neçə dəqiqədən sonra gözü qaranlığa alışdı və yalnız bu zaman minbərin yanında dizi üstə əyləşən uşaqları, onlardan bir az aralı döşəkçədə oturan mollanı gördü. İçəridəki sükutu havada oynayan çubuğun şaqqıltısı pozurdu. Kimi isə falaqqaya salmışdılar. Boyun-boyuna verən uşaqlar qorxularından nəfəslərini çəkmirdilər. Onların saralmış sifətləri solğun işıqda daha sarı görünürdü. Döyülən uşaq ağrıdan qıvrılsa da, səsini çıxartmırdı.
+Məscidin həyətində Aleksey Osipoviç üstünün tozunu çırpıb, pencəyini geyindi. Dəsmalla üzünün, boynunun tərini silib, əlindəki şapkasının içini quruladı. Qalstukunu düzəltdi. Papağını başına qoyandan sonra məscidin qapısını açdı. İçəri nəm qoxuyurdu. Səliqə ilə süpürülüb, su çilənmiş torpaq döşəməyə həsir salınmışdı. Dar pəncərələrin balaca gözündən düşən işiq zolaqları otağın divarlarında oynaşırdı. Yarıqaranlıq məscidin içindəki çal-çarpaz zolaqlar, orada qaynaşan saysız-hesabsız toz dənələri adamın diqqətini cəlb etdiyindən, küncdə oturanlar nəzərə çarpmırdı. Aleksey Osipoviç bir az dayanmalı oldu. Bir neçə dəqiqədən sonra gözü qaranlığa alışdı və yalnız bu zaman minbərin yanında dizi üstə əyləşən uşaqları, onlardan bir az aralı döşəkçədə oturan mollanı gördü. İçəridəki sükutu havada oynayan çubuğun şaqqıltısı pozurdu. Kimi isə falaqqaya salmışdılar. Boyun-boyuna verən uşaqlar qorxularından nəfəslərini çəkmirdilər. Onların saralmış sifətləri solğun işıqda daha sarı görünürdü. Döyülən uşaq ağrıdan qıvrılsa da, səsini çıxartmırdı.
 
 Əhmədlə Aleksey Osipoviç həsirin üstü ilə küncə tərəf getdilər. Molla Sadığın başı o qədər qarışmışdı ki, içəri girənlərin ona yaxınlaşdığını hiss etmədi. Əhməd döyülən uşağı tanıyıb irəli atılmaq istəyəndə Aleksey Osipoviç onu dayandırdı. Asta addımlarla mollaya yaxınlaşdı.
 
@@ -3688,9 +3688,9 @@ Aleksey Osipoviç sözünə ara verib gözaltı Molla Sadığı süzdü. Onun ə
 
 @@ 140
 
->>Ancaq ruhanilərin yoxsul kəndlilər arasında çox böyük hörmətə malik olduğunu da bilirdi. O bilirdi ki, mollalar savadsız camaatı Allah xofu ilə qorxudur, cəhənnəm əzabları ilə dəhşətə gətirir və behişt xülyaları ilə məst edirlər. Həm də özlərini elə aparırlar ki, guya külli-ixtiyardırlar, istəsələr, adamları cəhənnəm oduna yandırar, istəsələr də behiştə göndərərlər. O belə bir qüvvədən yeri gəldikcə istifadə etməyi qərara almışdı. Aydın idi ki, mollalar ata-anaları dilə tutmaq və uşaqlarını yeni məktəbə gondərməyə razı salmaqda istəsələr çox iş görə bilərlər. Elə buna görə də Aleksey Osipoviç əvvəlcə Molla Sadığa müraciət etməyi onu öz dili ilə danışdırıb, süst damarından tutmağı qarara almışdı.
+>>Ancaq ruhanilərin yoxsul kəndlilər arasında çox böyük hörmətə malik olduğunu da bilirdi. O bilirdi ki, mollalar savadsız camaatı Allah xofu ilə qorxudur, cəhənnəm əzabları ilə dəhşətə gətirir və behişt xülyaları ilə məst edirlər. Həm də özlərini elə aparırlar ki, guya külli-ixtiyardırlar, istəsələr, adamları cəhənnəm oduna yandırar, istəsələr də behiştə göndərərlər. O belə bir qüvvədən yeri gəldikcə istifadə etməyi qərara almışdı. Aydın idi ki, mollalar ata-anaları dilə tutmaq və uşaqlarını yeni məktəbə göndərməyə razı salmaqda istəsələr çox iş görə bilərlər. Elə buna görə də Aleksey Osipoviç əvvəlcə Molla Sadığa müraciət etməyi onu öz dili ilə danışdırıb, süst damarından tutmağı qarara almışdı.
 
-– Görürəm, sizin kənddə savadli uşaqlar var. Onlardan beş-on nəfərini oxumağa aparmaq lazımdır. Bu işdə gərək mənə kömək edəsiniz.
+– Görürəm, sizin kənddə savadlı uşaqlar var. Onlardan beş-on nəfərini oxumağa aparmaq lazımdır. Bu işdə gərək mənə kömək edəsiniz.
 
 Müsahibini diqqətlə dinləyən Molla Sadıq söhbət bu yerə çatanda üzə vurmasa da ürəyində ehtiyat etməyə başladı. Müsəlmanca onun özündən yaxşı danışan bu rusun kələyinə uymamaq üçün ehmallı olmağı qərara aldı. Bir də Əhmədin bu işə qarışmağı onu yaman çaşdırmışdı. Onun "Zayej"də uşaqları başına yığıb gizli dərs keçməsi xəbərini eşidəndən sonra mollanın necə deyərlər, kürəyi sancırdı. İndi də təzə məktəb söhbəti ortaya çıxmışdı. "Bütün bunlar Əhmədin kələyi deyilmi? Elə keçən il Cahandar ağanı baş-beyindən çıxarıb Əşrəfi oxutmağa göndərtdirən də bu deyildimi? Yox, Molla Sadıq, ehtiyatlı ol, saqqızını oğurlatma".
 
@@ -3734,7 +3734,7 @@ Cahandar ağa da burada idi. O, atını çidarlayıb otlağa ötürmüşdü. Öz
 
 @@ 142
 
->>olmuşdu. Ağ saqqalının tükləri daraqdan çıxmış yun kimi pilələnmişdi. Cuxura düşmüş gözləri güclə gorünürdü. Cahandar ağa ixtiyarsız -Şamxalı yadına saldı və ürəyində onu yamanladı. "Belin sınsın, fərsiz gör kimnən qohum oldu! Arxasını kimə dayadı! İndi mən nə edim? Qapısına gediləsi deyil ki, beş-on adam yığıb aparasan, el adətincə barışıqlıq eləyəsən. Nə də bir adamlığı var ki, kişi kimi düşmənçilik çəkəsən. Ona əl qaldırmaq heç qeyrətdən deyil. Onsuz da ayaq üstündə ölüb".
+>>olmuşdu. Ağ saqqalının tükləri daraqdan çıxmış yun kimi pilələnmişdi. Çuxura düşmüş gözləri güclə görünürdü. Cahandar ağa ixtiyarsız -Şamxalı yadına saldı və ürəyində onu yamanladı. "Belin sınsın, fərsiz gör kimnən qohum oldu! Arxasını kimə dayadı! İndi mən nə edim? Qapısına gediləsi deyil ki, beş-on adam yığıb aparasan, el adətincə barışıqlıq eləyəsən. Nə də bir adamlığı var ki, kişi kimi düşmənçilik çəkəsən. Ona əl qaldırmaq heç qeyrətdən deyil. Onsuz da ayaq üstündə ölüb".
 
 O yenidən qudasını saymazyana süzdü. Kişinin məyus və müşkül görkəmi bulud kimi tutulub susması, həmişə şuxluq edib aləmi güldürən Qocanın indi yumaq kimi büzüşməsi Cahandar ağanın da ürəyini ağrıtdı. "Allah kasıba qız verincə başına daş salsa yaxşıdır. İndi bu yazıq neyləsin? Özü də bilir ki, qapısını açıb barışığa gələn olmayacaq", - deyə xəyalından keçirdi.
 
@@ -3802,7 +3802,7 @@ Molla Sadıq da susub mənalı-mənalı camaatı süzdü. Onun təsbehi daha da 
 
 – Acığın tutmasın, ay Molla Sadıq, - səhərdən söhbətə qulaq asan Gəmiçi Qoca astaca dilləndi. - Nəfəsin ağırdır. Uşaqlar səndən heç nə öyrənə bilmirlər. Elə bizim Çərkəz də üç-dörd il ayaq döydü, amma bir şey çıxmadı.
 
-– Demək, Allah-taala özü sizi sirrinə vaqif elemək istəmir.
+– Demək, Allah-taala özü sizi sirrinə vaqif eləmək istəmir.
 
 – Allah-taalanın burada nə işi var, ay molla?
 
@@ -3872,7 +3872,7 @@ Aleksey Osipoviç Əhmədin qolundan çəkib geri dartdı. Özü qabağa yeridi.
 
 – Biz sizin xeyriniz üçün çalışırıq. Bizə kömək etmək əvəzinə molla Sadığın fitvasına nahaq uyursunuz.
 
-– İndi də mollamıza sataşırsan? - deyə bayaqkı xəncərli kişi onun sozünü kəsdi. - Əlim-ayağım dəyməmiş rədd ol burdan!!!
+– İndi də mollamıza sataşırsan? - deyə bayaqkı xəncərli kişi onun sözünü kəsdi. - Əlim-ayağım dəyməmiş rədd ol burdan!!!
 
 – Aleksey Osipoviç, nahaq yerə fitva verirsiniz, getsəniz məsləhətdir.
 
@@ -3902,7 +3902,7 @@ Adamlar qımışdılar. Addım-addım geri çəkilib gözlərini Cahandar ağaya
 
 >>lar. Bunu hiss edən Cahandar ağa da səsinin ahəngini dəyişib, məzəmmətə keçdi:
 
-– Adam bir iş görəndə fikirləşər. Hər yetənin sözünə baxb toy toğlusu kimi ortalığa düşməz. Bir də, qonağa əl qaldırmazlar.
+– Adam bir iş görəndə fikirləşər. Hər yetənin sözünə baxıb toy toğlusu kimi ortalığa düşməz. Bir də, qonağa əl qaldırmazlar.
 
 Molla Sadıq gördü ki, bir az bundan əvvəl irəli atılanlar geri çəkildilər. Cahandar ağanın sözlərini eşidib susdular. O özünün məğlub olduğunu hiss etsə də, sözündən dönmək istəmədi. Sinəsini gərib, Cahandar ağanın üstünə qabardı.
 
@@ -4016,7 +4016,7 @@ Mələk Cahandar ağanı bir həftəlik ayrılıqdan sonra öz istəkli ərinin 
 
 @@ 150
 
->>sir-sifəti durulan təzə arvadını gözaltı süzdü. Kişinin odlu baxışlarını üzündə hıss edən Mələk azca qızarıb həyalandı. Bunu ərinə sezdirməmək üçün sürüşüb boynunun dalına düşən şalını yavaşca gözünün üstünə çəkdi. Kişi Mələyin həm utandığını, həm də gözəlliyini duyan qadınlar kimi qomzələndiyini hiss etdi. Hətta onun ürək çırpıtıtılarının koftasını titrədiyini də gördü. Büruzə verməsə də, belə bir cavan gəlinin qəlbini ovlaya bildiyi ilə qürurlandı. Mələk ərini altdan-yuxarı ürkək baxışlarla süzdü.
+>>sir-sifəti durulan təzə arvadını gözaltı süzdü. Kişinin odlu baxışlarını üzündə hiss edən Mələk azca qızarıb həyalandı. Bunu ərinə sezdirməmək üçün sürüşüb boynunun dalına düşən şalını yavaşca gözünün üstünə çəkdi. Kişi Mələyin həm utandığını, həm də gözəlliyini duyan qadınlar kimi qomzələndiyini hiss etdi. Hətta onun ürək çırpıtıtılarının koftasını titrədiyini də gördü. Büruzə verməsə də, belə bir cavan gəlinin qəlbini ovlaya bildiyi ilə qürurlandı. Mələk ərini altdan-yuxarı ürkək baxışlarla süzdü.
 
 – Əyə, nə yaman ləngidin?
 
@@ -4034,7 +4034,7 @@ Tapdığın səsi kişini özünə gətirdi. Ovsunlanmış kimi yerindən tərp�
 
 @@ 151
 
-Dağa köçməzdən əvvəl şəhərə gedib, işlərini sahmana salan və bir az da, özü demişkən, "ayırı-oyun" alan Cahandar ağa otağa keçib taxtın üstündə əyləşəndə evi üçün qəribsədiyini bir daha dərk etdi. Diqqətı şüşəsi tərtəmiz silinmiş otuzluq lampaya, qürub şəfəqlərini özündə əks etdirib alovlanan pəncərələrə tutulmuş təzə pərdələrə, səliqə ilə yığılmış yorğan-döşəyə, tərəcədəki qab-qacağa, gümüş kimi parılıdayan qalaylı iri mis sinilərə, divar boyu başdan-başa vurulmuş xalıya nəzər saldı. Hər şey adamın üzünə gülürdü. Elə bil taxtın üstünə salınmış gəbələrin də rəngi açılmışdı. Naxışların hərəsi bir rəng çalır, çəmən çiçəkləri kimi adamın gözünü oxşayırdı. Cahandar ağaya elə gəldi ki, divarlar da, tavanın taxtaları da tərtəmiz yuyulmuşdur. Otağın havasıda da nə isə adamın ruhunu oxşayan, onu xumarlandırıb yatırtmaq dərəcəsinə gətirən isti bir nəfəs var. Kimsə otağı qızdırır, ev sahibınin əzalarındakı yorğunluğu çıxartmaq üçün bədənini ovur, taxtın üstündə yumşaq döşəkçəyə uzanıb mütəkkəyə dirsəklənməyə, başının altına tük balış qoyub dincəlməyə çağırırdı. Mələk ayaqqabısını soyunub taxtın üstunə çıxanda, divara vurulmuş pərli-budaqlı maral buynuzundan ərinin gümüş dəstəkli xəncərini, tüfəngini, vəznəli çuxasını, onun üstündən ağ qotazlı başlıqla göy buxara papağını asanda, kişi evin rahatlığının, qadın qayğısının nə demək olduğunu bir daha duydu. Bütün bunlar nə demək idi? Nə üçün indiyə qədər o, evindən ötəri bu qədər darıxmamışdı. Bu ilıq və adamı oxşayıb ovunduran nəfəsi bu evə gətirmişdi? Yoxsa, o qocalırdı? Ona görə də özünü istiyə verən bir pişik tənbəlliyi ilə evdə oturmaq istəyirdi?!
+Dağa köçməzdən əvvəl şəhərə gedib, işlərini sahmana salan və bir az da, özü demişkən, "ayırı-oyun" alan Cahandar ağa otağa keçib taxtın üstündə əyləşəndə evi üçün qəribsədiyini bir daha dərk etdi. Diqqətı şüşəsi tərtəmiz silinmiş otuzluq lampaya, qürub şəfəqlərini özündə əks etdirib alovlanan pəncərələrə tutulmuş təzə pərdələrə, səliqə ilə yığılmış yorğan-döşəyə, tərəcədəki qab-qacağa, gümüş kimi parıldayan qalaylı iri mis sinilərə, divar boyu başdan-başa vurulmuş xalıya nəzər saldı. Hər şey adamın üzünə gülürdü. Elə bil taxtın üstünə salınmış gəbələrin də rəngi açılmışdı. Naxışların hərəsi bir rəng çalır, çəmən çiçəkləri kimi adamın gözünü oxşayırdı. Cahandar ağaya elə gəldi ki, divarlar da, tavanın taxtaları da tərtəmiz yuyulmuşdur. Otağın havasıda da nə isə adamın ruhunu oxşayan, onu xumarlandırıb yatırtmaq dərəcəsinə gətirən isti bir nəfəs var. Kimsə otağı qızdırır, ev sahibinin əzalarındakı yorğunluğu çıxartmaq üçün bədənini ovur, taxtın üstündə yumşaq döşəkçəyə uzanıb mütəkkəyə dirsəklənməyə, başının altına tük balış qoyub dincəlməyə çağırırdı. Mələk ayaqqabısını soyunub taxtın üstünə çıxanda, divara vurulmuş pərli-budaqlı maral buynuzundan ərinin gümüş dəstəkli xəncərini, tüfəngini, vəznəli çuxasını, onun üstündən ağ qotazlı başlıqla göy buxara papağını asanda, kişi evin rahatlığının, qadın qayğısının nə demək olduğunu bir daha duydu. Bütün bunlar nə demək idi? Nə üçün indiyə qədər o, evindən ötəri bu qədər darıxmamışdı. Bu ilıq və adamı oxşayıb ovunduran nəfəsi bu evə gətirmişdi? Yoxsa, o qocalırdı? Ona görə də özünü istiyə verən bir pişik tənbəlliyi ilə evdə oturmaq istəyirdi?!
 
 Mələk hələ də taxtın üstündə oturan və fikirli-fikirli ətrafa boylanan ərinə yaxınlaşdı.
 
@@ -4046,7 +4046,7 @@ Kişi xəyaldan ayrıldı. Qarşısında dayanıb, gülümsünən arvadına əzi
 
 – Yaxşı, onda su gətirim, ayaqlarını yu.
 
-Cahandar ağa dabanı üstündə fırlanıb geri dönən arvadının qırçınlı donunun yelləndiyini gördü. Otağın havası dalğalanıb, onun üzünə vurdu. Kişi uzunboğaz çəkmələrini soyunub, taxtın ayağinda cütlədi. Heç ikicə dəqiqə keçməmiş Mələk aftafa-ləyənlə içəri girdi. Çöməlib ərinin qabağında oturdu. Uzun və gen donunun ətəyi dövrələnib, yerə sərildi.
+Cahandar ağa dabanı üstündə fırlanıb geri dönən arvadının qırçınlı donunun yelləndiyini gördü. Otağın havası dalğalanıb, onun üzünə vurdu. Kişi uzunboğaz çəkmələrini soyunub, taxtın ayağında cütlədi. Heç ikicə dəqiqə keçməmiş Mələk aftafa-ləyənlə içəri girdi. Çöməlib ərinin qabağında oturdu. Uzun və gen donunun ətəyi dövrələnib, yerə sərildi.
 
 @@ 152
 
@@ -4062,7 +4062,7 @@ Cahandar ağa şalvarının balağını çirmələyən arvadının yumşaq əlin
 
 – Burda başqa adam yoxdur, özümüzük.
 
-Kişi hirslənmişdi. Arvadnının qarşısında zəiflik edəcəyindən və bunu Mələyin duyacağından qorxduğu üçün sifətinə sərt bir ifadə verməyə çalışdı.
+Kişi hirslənmişdi. Arvadının qarşısında zəiflik edəcəyindən və bunu Mələyin duyacağından qorxduğu üçün sifətinə sərt bir ifadə verməyə çalışdı.
 
 Mələk sakitcə şalını irəli çəkdi. Tellərini yığıb qulağının ardına itələdi, boyun-boğazını örtdü və bundan sonra ərinə çəpəki nəzər saldı. Sanki "ürəyin dincəldimi?" – demək istədi. Ləyəni kənara itələdi. Ərinin ayağını qurulamaq üçün yuxarı qaldırdı, dizinin üstünə qoydu. Cahandar ağa arvadının yumşaq budlarının təmasından titrədi. Bir dəqiqə bundan əvvəl ürəyindən keçənləri, arvadının qarşısında alçala bilmək təhlükəsini unutdu. Sifətindəki ciddilik yox oldu. Mələyin belindən tutub özünə doğru çəkdi. Qəribə nəvaziş və namərbut hərəkətlərlə sinəsinə sıxıb, öpməyə başladı. Belə bir hadisəni gözləməyən Mələk əvvəlcə heç nə demədi. Ani olaraq "bu kişiyə nə oldu'?" - deyə düşündü. Onun iradəsinin əleyhinə getməmək üçün ərinin sinəsinə qısılıb dayandı. Cahandar ağanın onu ağuşundan buraxıncaya qədər gözləməyi qərara aldı. Əslinə baxsan, onun bu oxşamadan xoşu gəlir, dağ kimi zəhmli bir kişini yerindən oynatmaq qüdrətinə malik olma-
 
@@ -4078,7 +4078,7 @@ Mələk qələbəsinə əmin olduğundan, cəld ləyəni götürdü və ərinin 
 
 – Bir az səbir elə, amanın qırılmayıb ha.
 
-O, qapını vurub bayıra çıxandan sonra Cahandar ağa özünə gəldi. Taxtın üstündə uzanıb mütəkkəyə dirsəkləndi. Mələyin son sözü onu yaman tutmuşdu. Cibindən gümüş qutusunu çıxardıb, papiros eşmək istədi. Barmaqlarının titrədiyini hiss etdi. Kişi yaman pərt olmuşdu. Uşaq kimi səbirsizlik etdiyini və öz hərəkəti ilə arvadının qarşısında alçaldığını düşündükcə, öz-özünü bağışlamaq istəmirdi. Onun zənnincə, kişi ömrü boyu istədiyini arvadına bildirməməlidir. Arvad həmışə intizar içində yaşamalı, ərinin onu sevib-sevmədiyini bilməməlidir. Hərdənbir ötəri deyilən xoş sözün, adi bir təbəssümün, ya da nadir hallarda büruzə verilən nəvazişin aylarla həsrətini çəkməlidir. Belə olanda arvad kişinin qədrini bilər, ömrü boyu ondan xoş söz eşitmək eşqi ilə alışıb-yanardı. Kişinin əzəməti də, qüdrəti də, arvad yanındakı amiranəliyi də onun sirli, sehrli olmasındadır. Cahandar ağa indiyəcən belə yaşamış, dədə-baba adətini pozmamışdı. Amma, nədənsə Mələyi görəndə hər şeyi unudur, müvazinətini itirir, oyuncağa dönürdü. O, papirosunu tüstülədir, "Mənə nə olub, cavanlığımda bir qızın, bir gəlinin qabağında əyilmədim. Zərnigarın üzünə bir dəfə gülmədim, indi mən niyə belə olmuşam? Niyə Mələyi görəndə hər şeyi yadımdan çıxardıram?" – deyə öz-özünü müihakimə edirdi.
+O, qapını vurub bayıra çıxandan sonra Cahandar ağa özünə gəldi. Taxtın üstündə uzanıb mütəkkəyə dirsəkləndi. Mələyin son sözü onu yaman tutmuşdu. Cibindən gümüş qutusunu çıxardıb, papiros eşmək istədi. Barmaqlarının titrədiyini hiss etdi. Kişi yaman pərt olmuşdu. Uşaq kimi səbirsizlik etdiyini və öz hərəkəti ilə arvadının qarşısında alçaldığını düşündükcə, öz-özünü bağışlamaq istəmirdi. Onun zənnincə, kişi ömrü boyu istədiyini arvadına bildirməməlidir. Arvad həmışə intizar içində yaşamalı, ərinin onu sevib-sevmədiyini bilməməlidir. Hərdənbir ötəri deyilən xoş sözün, adi bir təbəssümün, ya da nadir hallarda büruzə verilən nəvazişin aylarla həsrətini çəkməlidir. Belə olanda arvad kişinin qədrini bilər, ömrü boyu ondan xoş söz eşitmək eşqi ilə alışıb-yanardı. Kişinin əzəməti də, qüdrəti də, arvad yanındakı amiranəliyi də onun sirli, sehrli olmasındadır. Cahandar ağa indiyəcən belə yaşamış, dədə-baba adətini pozmamışdı. Amma, nədənsə Mələyi görəndə hər şeyi unudur, müvazinətini itirir, oyuncağa dönürdü. O, papirosunu tüstülədir, "Mənə nə olub, cavanlığımda bir qızın, bir gəlinin qabağında əyilmədim. Zərnigarın üzünə bir dəfə gülmədim, indi mən niyə belə olmuşam? Niyə Mələyi görəndə hər şeyi yadımdan çıxardıram?" – deyə öz-özünü mühakimə edirdi.
 
 Bir az bundan əvvəlki şadlıq yox oldu. Cahandar ağanın iri qıllı qaşları aşağı enib, gözünün üstünə kölgə saldı. Sanki bəbəklərindəki mənanı gizlətmək, ürəyindən keçənlərin gözlərindən oxunmasına imkan verməmək üçün kirpiklərinin qabağına çəpər çəkdi. Cahandar ağa bir anda üz-gözündən qan daman zəhmli və yontalmamış nəhəngə dönüb döşəkçənin üstünə sərələndi.
 
@@ -4152,7 +4152,7 @@ Kişinin halı birdən-birə dəyişdi. Bir az bundan əvvəl həbəşi dodaqlar
 
 Mələk hər şeyi başa düşdü. Cahandar ağanın nə qədər hirsli olsa da, evdən küsüb gedən arvadı Zərnigara da, qızına da, oğluna da, elə gəlininə də pay aldığını anladı. Gözəyarı hər şeyi yerbəyer etdi. Kimə nə göndərəcəyini müəyyənləşdirdi. Həm də qərara aldı ki, bu işləri ərindən xəbərsiz kimi xəlvəti görsün. Amma Şahnigarın payını elə buradaca, kişinin gözü qabağında ayırdı. Güllü bir çitə bağlayıb kənara qoydu. Cahandar ağanın bacısı Şahnigarı çox istədiyini yaxşı bildiyindən, payı ləngitmədi. "Qoy arvadın payını elə kişinin gözü qabağındaca yollayım" - deyə düşündü və dərhal Tapdığı çağırdı.
 
-Tapdıq getdi. Amma, əlində bağlama, dabanı üstündə də geri qayıtdi.
+Tapdıq getdi. Amma, əlində bağlama, dabanı üstündə də geri qayıtdı.
 
 – Ağa, Şahnigar xanım evdə yoxdur.
 
@@ -4174,11 +4174,11 @@ Tapdıq səssizcə otaqdan çıxdı. Cahandar ağa stəkandakı çayı ikicə ho
 
 Mələk danışmağı və ərindən soz soruşmağı yersiz bildi. Sakitcə onun paltarını geyib, yaraqlanmasına kömək etdi. O başa düşdü ki, kişinin dişi bağırsaqlarını kəsir. Əlindəki qamçının dəstəyini az qalır ovxalayıb töksün. Mələk "Yolum qara gəlsin, kaş payı bu gün göndərməyəydim", - deyin özünü danladı.
 
-Cahandar ağa arvadının sual dolu baxışlarına cavab vermədi. Quş idimi siçrayıb, atın belinə qalxdı. Dördnala çapan at gecənin qaranlığına qarışıb, xəyal kimi əridi.
+Cahandar ağa arvadının sual dolu baxışlarına cavab vermədi. Quş idimi sıçrayıb, atın belinə qalxdı. Dördnala çapan at gecənin qaranlığına qarışıb, xəyal kimi əridi.
 
 ### İkinci hissə, 8
 
-Molla Sadığın on iki kərənli uzun evi başdan-başa gəbə ilə doşənmişdi. Divar boyu döşəkcələr salınmışdı.
+Molla Sadığın on iki kərənli uzun evi başdan-başa gəbə ilə döşənmişdi. Divar boyu döşəkcələr salınmışdı.
 
 Hər tərəf tərtəmiz süpürülmüş, tavandan asılan çırağın məftili elə bil qəsdən lap aşağıya endirilmişdi. Divara vurulan ala-bəzək kilimlərin tozu alınmış, künc-bucağın qurumu da təmizlənmişdi. Ev adamın üzünə gülürdü.
 
@@ -4204,7 +4204,7 @@ Bir neçə il bundan qabaq bu uzunsaqqal müridlərdən biri Göytəpəyə gəli
 
 Molla Sadıq çox fikirləşmədi. Buradan qazanc iyinin gəldiyini duyub dərhal işə başladı. Ona türbəyə toplanan nəzirlərdən pay göndəriləcəyini vəd etmişdilər.
 
-Bu hadisədən bir neçə ay sonra Göytəpədə uzunsaqqal kişilər gorünməyə başladı. Uşaqların "keçisaqqal" - deyə ələ saldıqları bu adam-
+Bu hadisədən bir neçə ay sonra Göytəpədə uzunsaqqal kişilər görünməyə başladı. Uşaqların "keçisaqqal" - deyə ələ saldıqları bu adam-
 
 @@ 158
 
@@ -4288,7 +4288,7 @@ Müridlər qulaq kəsilmişdilər. Müridlər də gözlərini bu ağ sinəli, ya
 
 @@ 161
 
->>olurdu. Ancaq belə məclisə yenicə gələnlər hələ utanır, küncə qısılıb, üzlərini gizlədir, acgözlüklə Hacıya qulaq asıb dediklərinin mahiyyətini dərk etməyə çalışırdılar. Onlar xof və həyəcan içində oturur, ruhların mələklərə necə qovuşacağı haqqında fikirləşirdilər. Kəlağayılarının altında gizlətdikləri kitabı sinələrinə qısıb titrəşirdilər. Onlar çox qəribə hal keçirirdilər. Deyilənə görə, əsl müridlərin çoxu yol getdikləri yerdə belə, Allahı görür, mələklərə rast gəlirdilər. Hətta onlarla söhbət də edirdilər. Belə bir səadatə nə vaxt və necə çatacaqlarını düşünən müridlər maraq və intizar içində qıvrılırdılar. Onların bu məclisə gəlməsinin əsas səbəbi də bu idi. Ona görə də Hacı Əmrah əfəndinin dediklərini o qədər də yaxşı anlaya bilmirdilər.
+>>olurdu. Ancaq belə məclisə yenicə gələnlər hələ utanır, küncə qısılıb, üzlərini gizlədir, acgözlüklə Hacıya qulaq asıb dediklərinin mahiyyətini dərk etməyə çalışırdılar. Onlar xof və həyəcan içində oturur, ruhların mələklərə necə qovuşacağı haqqında fikirləşirdilər. Kəlağayılarının altında gizlətdikləri kitabı sinələrinə qısıb titrəşirdilər. Onlar çox qəribə hal keçirirdilər. Deyilənə görə, əsl müridlərin çoxu yol getdikləri yerdə belə, Allahı görür, mələklərə rast gəlirdilər. Hətta onlarla söhbət də edirdilər. Belə bir səadətə nə vaxt və necə çatacaqlarını düşünən müridlər maraq və intizar içində qıvrılırdılar. Onların bu məclisə gəlməsinin əsas səbəbi də bu idi. Ona görə də Hacı Əmrah əfəndinin dediklərini o qədər də yaxşı anlaya bilmirdilər.
 
 Cahandar ağanın bacısı Şahnigar xanım da bunların içində idi. Onun çox qəribə taleyi vardı. Keçən il ərini ilan vurandan sonra damın altında tək qalmışdı. Kişinin ölümündən sonra arıqlamaq əvəzinə kökəlmiş, buxaq sallayıb, buğum-buğum ət tökmüşdü. Qardaşı ona "çıx, gəl evimizə" - demişdisə də, Şahnigar xanım razı olmamışdı. "Ərimin var-dövləti təkcə mənə qalıb, oturub sağa-sola xərcləyəcəm. Nə işinə qalıb ki, özümü cəncələ salıram? Yengə əlinə baxıb, minnətlə qardaş çörəyi yeməkdənsə, damın altında tək qalmaq yaxşıdır", - deyə fikirləşmişdi.
 
@@ -4328,7 +4328,7 @@ Lap uşaqlıqdan cinə, ərdoya inanan, qorxulu, uydurma nağılları bir həqiq
 
 >>höccələyə-höccələyə şerləri əzbərlədi. "Ərim yox, uşağım yox, elə Allahın bədbəxtiyəm, - deyə düşündü. - Bəlkə qəzəbə gəlmişəm. Günahım çoxdur. Onun üçün də rəhminə qurban olduğum mənə kəc baxır. Bəlkə gec deyil, elə bu müridlərə qoşulsam kəramət sahibi məndən mərhəmətini əsirgəməz?". Arvad çox düşündü. Belə bir yoldan geri dönsə, axirət dünyasında oda qalanacağını gözünün qabağına gətirdi və razılıq verdi.
 
-Haradansa qardaşı Cahandar ağa bu işləri eşitdi və ona sifarış elədi ki, "qulağıma söz-zad dəyir, bax ha, ağlını oğurladarsan, ondan sonra məndən küsmə, böyük tikəni qulağın boyda edərəm".
+Haradansa qardaşı Cahandar ağa bu işləri eşitdi və ona sifariş elədi ki, "qulağıma söz-zad dəyir, bax ha, ağlını oğurladarsan, ondan sonra məndən küsmə, böyük tikəni qulağın boyda edərəm".
 
 Şahnigar xanım odla su arasında qaldı. Qəribə idi, arvad Allah yolundan dönməkdən daha çox xoflanırdı. Nəhayət, ibadət hissi qorxuya üstün gəldi. Şahnigar xanım qardaşının kənddə olmamasından istifadə edib, böyük tərəddüdlə də olsa, ilk dəfə Molla Sadığın evinə, müridlərin meyxanasına gəldi.
 
@@ -4364,7 +4364,7 @@ Birdən kimsə ilan çalmış kimi atılıb ortaya düşdü. Çiyinlərini yuxar
 
 @@ 165
 
->>dəhşətli idi. Birdən-birə bədəninə soyuq tər gələn Şahnigar xanım qapıya yaxınlaşdı. Elə bu zaman işıqlar söndü. Şahnigar xanım otaqdakıların başı kəsilmiş toyuq kimi partapartla yerə sərilib çırpındıqların, hiss etdi. O, əlini qapının cəftəsinə uzatmaq istədikdə, kimsə qolundan yapışdı. Küncə dogru dartışdırdı. Elə bil arvadın qoynuna ilan saldılar Buz kimi soyuq bir şey belinə dolanıb, dırnaqlarının ucuna qədər yeridi saçlarının dibi üşüdü. Şahnigar xanım qolundan yapışan əlin təmasından kişiliyini duydu. Qolunu hərlədi. Otağa qulaqbatırıcı bir şaqqıltı düşdü. - Haramzada köpək oğlu, burax məni!
+>>dəhşətli idi. Birdən-birə bədəninə soyuq tər gələn Şahnigar xanım qapıya yaxınlaşdı. Elə bu zaman işıqlar söndü. Şahnigar xanım otaqdakıların başı kəsilmiş toyuq kimi partapartla yerə sərilib çırpındıqların, hiss etdi. O, əlini qapının cəftəsinə uzatmaq istədikdə, kimsə qolundan yapışdı. Küncə doğru dartışdırdı. Elə bil arvadın qoynuna ilan saldılar Buz kimi soyuq bir şey belinə dolanıb, dırnaqlarının ucuna qədər yeridi saçlarının dibi üşüdü. Şahnigar xanım qolundan yapışan əlin təmasından kişiliyini duydu. Qolunu hərlədi. Otağa qulaqbatırıcı bir şaqqıltı düşdü. - Haramzada köpək oğlu, burax məni!
 
 Şahnigar xanım çırpınıb inildədi. Elə bu vaxt güclü bir zərbədən zirəzələri qopan qapı taybatay açıldı. Divanın suvağı qopub töküldü. Heybətli bir səs qulaqlarda cingildədi.
 
@@ -4380,7 +4380,7 @@ Kimsə eşələndi. Az sonra işıq yandı. Otağa dolmuş qaranlıq xəcalət �
 
 Heç kəs cavab vermədi. Evin dal tərəfindəki pəncərə açıq idi. Kilimin biri də aralanmışdı. Ev sahibindən başqa heç kəsin bilmədiyi qapının bir qanadı görünürdü.
 
-Cahandar ağa gözü ilə hər yeri axtardıqdan sonra küncdə tir-tir əsən bacısını gördü. Onun pırpızlaşmış saçı gözünə sataşanda otaq başına hərləndi. Qamçını havaya nə zaman qaldırdığını bilmədi. Qamçi ilə bərabər Şahnigar xanım da ilan kimi qıvrılıb, yerindəcə qovruldu.
+Cahandar ağa gözü ilə hər yeri axtardıqdan sonra küncdə tir-tir əsən bacısını gördü. Onun pırpızlaşmış saçı gözünə sataşanda otaq başına hərləndi. Qamçını havaya nə zaman qaldırdığını bilmədi. Qamçı ilə bərabər Şahnigar xanım da ilan kimi qıvrılıb, yerindəcə qovruldu.
 
 – Düş qabağıma, qancıq!!!
 
@@ -4390,7 +4390,7 @@ Cahandar ağa gözü ilə hər yeri axtardıqdan sonra küncdə tir-tir əsən b
 
 Qəmər at sahibinin hirsləndiyini duymuş kimi yüyəni çeynəyib fınxırdıqca ağzından köpük daşlanırdı. O, qaranlıqda güclə seçilən qadını döşünün altına alıb əzmək istəyirdi. Atin isti nəfəsini kürəyinin ortasında duyan Şahnigar isə səsini çıxartmadan yumaq kimi bükülüb irəliləyirdi. Uzun donunun ətəyi kol-kosa ilişib təngildəsə də dayanmır, ayağı büdrəyib yıxılan kimi sıçrayıb qalxır, şallağın çiyni aşağı enəcəyindən qorxduğuna görə canını dişinə tutub yorturdu. Kəndə çaxnaşmna düşmüşdü. İtlər ağız-ağıza verib ulaşır, orda-burda tüfəng atılırdı.
 
-Cahandar ağa susurdu. Gözünü atın qulaqları arasından irəli zilləyib, güclə görünən bacısına baxırdı. O gah sirkənlikdə təmiz itən, gah da az qalan atın ayağı altına düşən. Şahnigarın ağaran paltarından başqa heç nə görmürdü. Dodaqları səyriyir, barmaği isə tüfəngin tətiyində oynayırdı.
+Cahandar ağa susurdu. Gözünü atın qulaqları arasından irəli zilləyib, güclə görünən bacısına baxırdı. O gah sirkənlikdə təmiz itən, gah da az qalan atın ayağı altına düşən. Şahnigarın ağaran paltarından başqa heç nə görmürdü. Dodaqları səyriyir, barmağı isə tüfəngin tətiyində oynayırdı.
 
 Onlar kəndi keçmişdilər. Şahnigar bunu bilsə də dinmir, qanqalların arası ilə irəliləyirdi. Sarı tikanlar dizinin gözünə, bəzən də nazik paltarından keçib, bədəninə dolduqca ufuldanırdı. Atın döşünə çıxan topa qanqallar bu dilsiz-ağızsız insanı döyəcləyirdi.
 
@@ -4416,19 +4416,19 @@ Arvadı titrətmə götürdü. Birdən-birə beyninə gələn fikirlər onu hür
 
 @@ 169
 
-Cahandar ağa isə fikrini cəmləşdirə bilmirdi. Əslinə baxsan, o heç fikirləşmirdi. Elə bil beyni, ürəyi keyimişdi. Bir yanını şaqqalayıb kəs sən də xəbəri olmazdı. Atın üstündə necə oturduğunu, haraya getdıyini də bilmirdi. Gözünün qabağında yalnız duman içində ağaran bacısı, bir də Molla Sadığın qaba, iyrənc sifəti dururdu. Dodaqları səyriyir, gözünün həlqələri tez-tez dolub boşalırdı. O nə edəcəyini bilmirdi. Şübhə ac qurd kimi sinəsini gəmirib parçalayırdı. Nəfəsi darıxır, hava çatışmırmış kimi tez-tez köksünü ötürürdü. Ona elə gəlirdi ki, lap bu saat ürəyi partlayıb sinəsindən bayıra çıxacaqdır. Yumruq boyda olan bu at parçası sıxıldıqca nəfəsi boğazına yığılıb, oradaca düyünlənirdi.
+Cahandar ağa isə fikrini cəmləşdirə bilmirdi. Əslinə baxsan, o heç fikirləşmirdi. Elə bil beyni, ürəyi keyimişdi. Bir yanını şaqqalayıb kəs sən də xəbəri olmazdı. Atın üstündə necə oturduğunu, haraya getdiyini də bilmirdi. Gözünün qabağında yalnız duman içində ağaran bacısı, bir də Molla Sadığın qaba, iyrənc sifəti dururdu. Dodaqları səyriyir, gözünün həlqələri tez-tez dolub boşalırdı. O nə edəcəyini bilmirdi. Şübhə ac qurd kimi sinəsini gəmirib parçalayırdı. Nəfəsi darıxır, hava çatışmırmış kimi tez-tez köksünü ötürürdü. Ona elə gəlirdi ki, lap bu saat ürəyi partlayıb sinəsindən bayıra çıxacaqdır. Yumruq boyda olan bu at parçası sıxıldıqca nəfəsi boğazına yığılıb, oradaca düyünlənirdi.
 
 Onun üçün bu dünyada hər şeydən əziz təmiz adla yaşamaq idi. "Kişi ki adamların gözünün içinə şax baxa bilmədi, ölsə yaxşıdır. Gözükölgəli ömür sürməkdənsə, arvad kimi ləçək bağlamaq, mərəkə içinə çıxmamaq məsləhətdir. Beş gün yaşa, amma gözükölgəli olma. Bu dünyada təmiz ad saxlamaq çox çətindi. Adına söz deyildimi, qurtardı. Ondan sonra nə qədər çalışsan da, ləkəni təmizləyə bilməyəcəksən. Dilləri kəsmək, deyilən sözləri geri qaytarmaq ki, mümkün deyil". Cahandar ağa həmişə belə düşünürdü. O hər şeydən çox şübhədən qorxurdu. Elə ona görə də qohumlarına dönə-dönə tapşırırdı ki, "Çalıınm adınıza söz çıxmasın. Mənim ürəyimə bir balaca xal düşsə, özünüzdən küsün". İndi onun qorxduğu iş başına gəlmişdi. Bacısı onun adını batırmışdı. Necə deyərlər, papağını yerə soxmuşdu. Müridlərin meyxanasına getmişdi. Molla Sadığın, ya da başqa bir müridin əli ona dəymişdi. "Bəlkə də ona heç nə olmayıb, tərtəmizdir. Amma kimi inandıracaqsan? Bundan sonra mən camaat arasına necə çıxacam? Başıma papaq qoyub necə gəzəcəm? Mərəkədə oturub necə söhbət edəcəm? Üzümə deməsələr də, arxamca rişxənd edib, atamın goruna söyməyəcəklərmi? Kişilikdən dəm vurur, namusdan danışır, amma bacısından xəbəri yoxdur, müridlərin dınqırına süzür, - deməyəcəklərmi? Bundan sonra hər baxış, hər mənalı gülüş məni şübhəyə salmayacaqmı? Kaş sən heç yaranmayaydın? İndi mən nə edim? Dərdimi kimə açım?"
 
-O, atın başını döndərib sahilə endi. Kür köpüklənmişdi. Boz-bulanıq sular yerindəcə çalxalanıb qumları yalayırdı. Cələdəki kolların, yarğanların dibi ilə qatarlaşan qalın yulğunların, otların üstünə şeh düşmüşdü. Quşlar artıq oyanmışdı. Hardasa, ağacların budaqları arasında gizlənmiş bir bülbül səhərin açılmasına sevindiyindənmi, yoxsa ürəyindəkı kədərin təsirindənmi, nədənsə cəh-cəh vururdu. Onun səsi budaqdan-budağa düşüb yarğanda cingildəyirdi. Kürün üzərinə çək-
+O, atın başını döndərib sahilə endi. Kür köpüklənmişdi. Boz-bulanıq sular yerindəcə çalxalanıb qumları yalayırdı. Cələdəki kolların, yarğanların dibi ilə qatarlaşan qalın yulğunların, otların üstünə şeh düşmüşdü. Quşlar artıq oyanmışdı. Hardasa, ağacların budaqları arasında gizlənmiş bir bülbül səhərin açılmasına sevindiyindənmi, yoxsa ürəyindəki kədərin təsirindənmi, nədənsə cəh-cəh vururdu. Onun səsi budaqdan-budağa düşüb yarğanda cingildəyirdi. Kürün üzərinə çək-
 
 @@ 170
 
 >>müş duman da yavaş-yavaş geri çəkilirdi. Cığırlara şeh qonmuşdu. O yenə dinmirdi. Bacısını qabağına salıb, cığırla cələnin içərilərinə gedirdi.
 
-Şahnigar taqətdən düşmüşdü. Ayaqqabısının dabanı qopmuş, əyindəki paltar didik-didik olmuşdu. Bədənində salamat yer qalmamışdı. O yerimir, güclə sürünürdü. Qardaşının heç olmasa insafa gəlib dayanmasını gözləyirdi. Cığır isə qol-budaği bir-birinə çarpazlaşmış iri ağacların arası ilə qıvrılıb daha da qalınlığa gedirdi. Meşənin qatı kölgəsi elə bil səhərin açılmasını bir az da ləngitmək, ağacların mürgüləməsinə mane olan səhər mehinin qarşısını almaq, yarpaqların xışıldayıb quşları oyatmasına imkan vermək istəmirdi. Amma gözlənilməyən qonaqların ayaq tappıltısı, at fınxırtısı bu sükutu pozurdu. Quşlar inilti ilə ora-bura uçurdular.
+Şahnigar taqətdən düşmüşdü. Ayaqqabısının dabanı qopmuş, əyindəki paltar didik-didik olmuşdu. Bədənində salamat yer qalmamışdı. O yerimir, güclə sürünürdü. Qardaşının heç olmasa insafa gəlib dayanmasını gözləyirdi. Cığır isə qol-budağı bir-birinə çarpazlaşmış iri ağacların arası ilə qıvrılıb daha da qalınlığa gedirdi. Meşənin qatı kölgəsi elə bil səhərin açılmasını bir az da ləngitmək, ağacların mürgüləməsinə mane olan səhər mehinin qarşısını almaq, yarpaqların xışıldayıb quşları oyatmasına imkan vermək istəmirdi. Amma gözlənilməyən qonaqların ayaq tappıltısı, at fınxırtısı bu sükutu pozurdu. Quşlar inilti ilə ora-bura uçurdular.
 
-Cığir iri bir palıdın ətrafına dolanıb açıqlığa çıxanda Şahnigar dayandı. Kürün ayrılan bir qolu yolu kəsmişdi. İrəli getmək mümkün deyildi. O bir qarşıdakı suya, bir də dönüb atın üstündə dayanan qardaşına baxdı. Cahandar ağanın gözü qan çanağına dönmüşdü. O buna pis məna vermədi. "Bacın ölsün, ay qardaş, səni də yuxusuz qoydum", -deyə xəyalından keçirdi. Cahandar ağa da atın başını çəkib dayandı. Yüngülcə sçrayıb yerə düşdü. Qəməri çidarlayıb otluğa buraxdı. Özü isə suya yaxınlaşdı. Bir xeyli xırdaca ləpələrə, sonra da üfüqdən baş qaldıran günəşə baxdı. Göyün üzü tərtəmiz idi. Meşənin üstünə elə bil su çilənmişdi. Ağacların yarpaqlarından süzülən və lap ucda yumrulanıb dayanan şeh damcıları parıldayırdı. Havaya nəm xəzəl qoxusu hopmuşdu.
+Cığır iri bir palıdın ətrafına dolanıb açıqlığa çıxanda Şahnigar dayandı. Kürün ayrılan bir qolu yolu kəsmişdi. İrəli getmək mümkün deyildi. O bir qarşıdakı suya, bir də dönüb atın üstündə dayanan qardaşına baxdı. Cahandar ağanın gözü qan çanağına dönmüşdü. O buna pis məna vermədi. "Bacın ölsün, ay qardaş, səni də yuxusuz qoydum", -deyə xəyalından keçirdi. Cahandar ağa da atın başını çəkib dayandı. Yüngülcə sıçrayıb yerə düşdü. Qəməri çidarlayıb otluğa buraxdı. Özü isə suya yaxınlaşdı. Bir xeyli xırdaca ləpələrə, sonra da üfüqdən baş qaldıran günəşə baxdı. Göyün üzü tərtəmiz idi. Meşənin üstünə elə bil su çilənmişdi. Ağacların yarpaqlarından süzülən və lap ucda yumrulanıb dayanan şeh damcıları parıldayırdı. Havaya nəm xəzəl qoxusu hopmuşdu.
 
 O əyilib üzünə bir-iki ovuc su çırpdı. Yalnız bundan sonra dönüb bacısına baxdı. Yenicə çırtlayan günəşin maili şüaları yarpaqların arasından süzülüb. Şahnigarın üstünə düşmüşdü. Onun donu cırıq-cırıq olmuşdu. Koftasının qolu çiynindən üzülüb sallanmışdı. Ağ bədənində qara zolaqlar görünürdü. Pırpızlanmış saçına və hörüklərinin ucuna pıtırğan yapışmışdı. Gözünün altı göyərmişdi. Sinəsi açıq idi. Donunun ətəyi şehə batmışdı. Qolları və cırıq paltarından görünən dizləri al qana boyanmışdı. Ayaq üstə güclə dayanırdı. Şahnigar ağlamamaq üçün dodağını çeynəsə də olmur, yaş sel kimi axıb yanaqlarından süzülürdü.
 
@@ -4440,7 +4440,7 @@ Cahandar ağa bacısının məzəmmət və yalvarışla dolu gözlərindəki mə
 
 – Əl-üzünü yu!
 
-Şahnigarın qolları yanına düşdü. Qıllı qaşlar altında mağaraya çəkilmiş yaralı və qəzəbli pələng kimi ona baxan gözlərin zəhmindən sarsıldı. Bir an bundan əvvəl ona təsəlli verən, həlqəsi yaşla dolub-boşalan nəmli gözlər əvəzinə, qardaşının qan çanağına dönmüş bəbəklərini görəndə bütün ümidləri alt-üst oldu. Ürkək addımlarla suya yaxınlaşdı. Səksəkəli də olsa sahildə dayanıb, kolların arasından boylanan günəşə, alışıb-yanan Kürə baxdı, Meşə çıraqban kimi parıldayırdı. Ala-bəzək qızlarquşu dəstə ilə havaya qalxıb adaların üstü ilə uçur, bəzən də çiləkənlərin ətrafında fırlanırdı. Onların səsi şırıldayıb, axan suların zümzüməsinə qarışmışdı. Şahnigar cələni ortadan yarıb otları yalaya-yalaya axan suyun kənarında çömbəltmə oturdu. Əlini şıltaq ləpələrə uzatdı. Bir xeyli beləcə dayanıb nə edəcəyini bilmədi. Doğrudanmı üzünü yusun? Bu uzun yolu bircə kəlmə də danışmayan qardaşı nə üçün ona bele bir əmr vermişdi? Bu nə demək idi? Şahnigarın gözü dalda idi. Sümüyü çaxnaşan arvadın kürəyi gizildəyirdi. O ehtiyatla, qardaşına sezdirmədən geri baxdı. Cahandar ağanın qutu çıxardıb papiros eşdiyini görəndə ürəyi rahatlandı. Əlini suya saldı. Barmaqlarının arasına və qoluna dolan sarı tikanların yeri göynədisə də, bedəninə sərinlik yayıldı. Elə bil dizlərinin ağrısı da azaldı. Şahnigar yüngülləşən kimi oldu. "Bacın ölsün, ay qardaş, sənciyəzi əldən saldım", - deyə ürəyindən keçirdi.
+Şahnigarın qolları yanına düşdü. Qıllı qaşlar altında mağaraya çəkilmiş yaralı və qəzəbli pələng kimi ona baxan gözlərin zəhmindən sarsıldı. Bir an bundan əvvəl ona təsəlli verən, həlqəsi yaşla dolub-boşalan nəmli gözlər əvəzinə, qardaşının qan çanağına dönmüş bəbəklərini görəndə bütün ümidləri alt-üst oldu. Ürkək addımlarla suya yaxınlaşdı. Səksəkəli də olsa sahildə dayanıb, kolların arasından boylanan günəşə, alışıb-yanan Kürə baxdı, Meşə çıraqban kimi parıldayırdı. Ala-bəzək qızlarquşu dəstə ilə havaya qalxıb adaların üstü ilə uçur, bəzən də çiləkənlərin ətrafında fırlanırdı. Onların səsi şırıldayıb, axan suların zümzüməsinə qarışmışdı. Şahnigar cələni ortadan yarıb otları yalaya-yalaya axan suyun kənarında çömbəltmə oturdu. Əlini şıltaq ləpələrə uzatdı. Bir xeyli beləcə dayanıb nə edəcəyini bilmədi. Doğrudanmı üzünü yusun? Bu uzun yolu bircə kəlmə də danışmayan qardaşı nə üçün ona bele bir əmr vermişdi? Bu nə demək idi? Şahnigarın gözü dalda idi. Sümüyü çaxnaşan arvadın kürəyi gizildəyirdi. O ehtiyatla, qardaşına sezdirmədən geri baxdı. Cahandar ağanın qutu çıxardıb papiros eşdiyini görəndə ürəyi rahatlandı. Əlini suya saldı. Barmaqlarının arasına və qoluna dolan sarı tikanların yeri göynədisə də, bədəninə sərinlik yayıldı. Elə bil dizlərinin ağrısı da azaldı. Şahnigar yüngülləşən kimi oldu. "Bacın ölsün, ay qardaş, sənciyəzi əldən saldım", - deyə ürəyindən keçirdi.
 
 Meşə oyanmışdı. Bayaqkı bülbül yenə şaqqıldayırdı. Ayağı çidarlı Qəmər isə fınxıra-fınxıra göy otu xımırtladırdı. Tüstünü ciyərlərinə çəkib acgözlüklə papiros sümürən Cahandar ağanın gözləri əl-üzünü yuyan bacısından başqa heç nə görmürdü. Hər şey dumana bürünmüş kimi bir-birinə qarışmışdı. "Bəlkə elə indi... heç özünün də xəbəri olmadan..." – deyə düşünən Cahandar ağa tüfəngi hərlədi.
 
@@ -4448,9 +4448,9 @@ Lap yaxından bir quş qalxdı. Günəşin zərrələri altında sinəsi və ki�
 
 @@ 172
 
->>ayağa qalxdı: mavi ənginliklərə doğru baş alıb gedən quşu gözdən itirməməyə çalışdı. Birdən hardansa peyda olan ley onun üstünə cumdu. Yazıq quş tərpənə bilmədi. Havada lələklər oynadı. Şahnigar ağzını açıb qışqırmaq istədi. Ancaq nəfəsini çəkə bilmədi. Meşə uğuldayıb saqqıldadı. Kürəyinın arası od tutub yandı. Nə üçün gözündən tüstü cıxdığını başı gicəllənib səldirlədiyini bilmədi. Yıxılmamaq üçün suyun kənarındakı balaca yulğun kolundan yapışdı. Qanrılıb geri, qardaşına baxdı. Bir an, yalnız bircə an onların gözləri bir-birinə sancıldı. Şahnigarın sifətində gülüşdən çox məzəmməti andıran bir təbəssüm oynadı. Gözlər süzüldü. "Qurban olum, ay qağa, məni niyə..." Cahandar ağa bu sözləri güclə eşitdi. Şahnigarın təngildəyib fırlandığını və kökündən kəsilmiş ağac kimi göy otların üzərinə sərildiyini görmədi. Onun gözləri torlanmışdı. Yaş bəbəklərini qapamışdı. Bacısının son anda üzünə zillənmiş lal baxışı - durğun göl kimi sakit dayanan iri qumral gözləri, sifətindəki məzəmmət dolu təbəssüm beynində əbədi həkk olunmuşdu. Onun dodaqları titrəyə-titrəyə dediyi son sözlərdən başqa qulağı heç nə eşitmirdi. Cahandar ağa bir-iki addım qabağa gəlib, yerə sərilmiş Şahnigarın yanında dayandı. Bəbəklərini torlandıran yaş yanaqları aşağı süzüldü. Elə bil onun gözünün qabağından tor göturüldü: hər şey aydınlaşdı. Bacısı şehli otların arasında arxası üstə uzanmışdı. Yaxası açıq idi. Sinəsinin ortasından axan qan buğlanırdı. Dodağı azca aralanmışdı. Nazik qaşlarının ucu aşağı əyilmişdi. Elə bil burun pərələri titrəyirdi. Cahandar ağa ilk dəfə görürmüş kimi bacısını diqqətlə süzdü. Onun xəyalı allandı. Ona elə gəldi ki, qarşısındakı Şahnigar yox, anasıdır. Qız nə qədər də ona oxşayırmış! Kişi diz çökdü. Bacısının geniş açılmış bəbəklərində əyilib ovunu parçalamaq istəyən heybətli bir sifət gördü. Qıllı papaqlı, qıllı qaşlı, iri həbəşi dodaqlı bir adam onun özünə də yad gəldi. Birdən-birə hələ istisi soyumamış cəsədin üstünə sərilib hönkürdü.
+>>ayağa qalxdı: mavi ənginliklərə doğru baş alıb gedən quşu gözdən itirməməyə çalışdı. Birdən hardansa peyda olan ley onun üstünə cumdu. Yazıq quş tərpənə bilmədi. Havada lələklər oynadı. Şahnigar ağzını açıb qışqırmaq istədi. Ancaq nəfəsini çəkə bilmədi. Meşə uğuldayıb saqqıldadı. Kürəyinın arası od tutub yandı. Nə üçün gözündən tüstü çıxdığını başı gicəllənib səldirlədiyini bilmədi. Yıxılmamaq üçün suyun kənarındakı balaca yulğun kolundan yapışdı. Qanrılıb geri, qardaşına baxdı. Bir an, yalnız bircə an onların gözləri bir-birinə sancıldı. Şahnigarın sifətində gülüşdən çox məzəmməti andıran bir təbəssüm oynadı. Gözlər süzüldü. "Qurban olum, ay qağa, məni niyə..." Cahandar ağa bu sözləri güclə eşitdi. Şahnigarın təngildəyib fırlandığını və kökündən kəsilmiş ağac kimi göy otların üzərinə sərildiyini görmədi. Onun gözləri torlanmışdı. Yaş bəbəklərini qapamışdı. Bacısının son anda üzünə zillənmiş lal baxışı - durğun göl kimi sakit dayanan iri qumral gözləri, sifətindəki məzəmmət dolu təbəssüm beynində əbədi həkk olunmuşdu. Onun dodaqları titrəyə-titrəyə dediyi son sözlərdən başqa qulağı heç nə eşitmirdi. Cahandar ağa bir-iki addım qabağa gəlib, yerə sərilmiş Şahnigarın yanında dayandı. Bəbəklərini torlandıran yaş yanaqları aşağı süzüldü. Elə bil onun gözünün qabağından tor götürüldü: hər şey aydınlaşdı. Bacısı şehli otların arasında arxası üstə uzanmışdı. Yaxası açıq idi. Sinəsinin ortasından axan qan buğlanırdı. Dodağı azca aralanmışdı. Nazik qaşlarının ucu aşağı əyilmişdi. Elə bil burun pərələri titrəyirdi. Cahandar ağa ilk dəfə görürmüş kimi bacısını diqqətlə süzdü. Onun xəyalı allandı. Ona elə gəldi ki, qarşısındakı Şahnigar yox, anasıdır. Qız nə qədər də ona oxşayırmış! Kişi diz çökdü. Bacısının geniş açılmış bəbəklərində əyilib ovunu parçalamaq istəyən heybətli bir sifət gördü. Qıllı papaqlı, qıllı qaşlı, iri həbəşi dodaqlı bir adam onun özünə də yad gəldi. Birdən-birə hələ istisi soyumamış cəsədin üstünə sərilib hönkürdü.
 
-Quşlar yenə oxuyurdular. Bayaqkı bülbül daha bərkdən cikkildəyirdi. Ağacların yarpaqları arasından süzülüb düşən səhər günəşinin maili şüalarında çimən sular heç nə olmamış kimi şırıltı ilə axıb gedirdi. Üfüq qan rənginə boyanmışdı. Kürün suları da qızarmışdı. Hər şey öz ahəngində idi. Yalnız sahibinin ağzı üstə döşənib inildədiyini duyan kəhər ayağı ilə yeri eşir, haray salıb koməyə adam çağırırmış kimi bərkdən kişnəyirdi.
+Quşlar yenə oxuyurdular. Bayaqkı bülbül daha bərkdən cikkildəyirdi. Ağacların yarpaqları arasından süzülüb düşən səhər günəşinin maili şüalarında çimən sular heç nə olmamış kimi şırıltı ilə axıb gedirdi. Üfüq qan rənginə boyanmışdı. Kürün suları da qızarmışdı. Hər şey öz ahəngində idi. Yalnız sahibinin ağzı üstə döşənib inildədiyini duyan kəhər ayağı ilə yeri eşir, haray salıb köməyə adam çağırırmış kimi bərkdən kişnəyirdi.
 
 @@ 173
 
@@ -4511,7 +4511,7 @@ Stansiya ilə meşənin arası beş-altı verst olardı. Ətraf yamyaşıl idi. 
 
 @@ 175
 
-Cığır talaya çıxdı. Sıx yarpaqlı iri palıd ağaclarının tompal kölgələri uzanıb, qaladakı güllü-çiçəkli otların üstünə sərilmişdi. Bir cüt qır-qovul cığırın otrafında hərlənib yem axtarırdı. Onlardan bir az o yana isə meşəxoruzu oxuyurdu. Əşrəf onları hürkütməmək və bir az dincini almaq üçün dayandı. Çamadanmı yerə qoyub üstümdə oturdu. Köynəyinin yaxasını açıb şapkası ilə özünü yellədi.
+Cığır talaya çıxdı. Sıx yarpaqlı iri palıd ağaclarının tompal kölgələri uzanıb, qaladakı güllü-çiçəkli otların üstünə sərilmişdi. Bir cüt qır-qovul cığırın ətrafında hərlənib yem axtarırdı. Onlardan bir az o yana isə meşəxoruzu oxuyurdu. Əşrəf onları hürkütməmək və bir az dincini almaq üçün dayandı. Çamadanmı yerə qoyub üstümdə oturdu. Köynəyinin yaxasını açıb şapkası ilə özünü yellədi.
 
 Meşə zümzümə edirdi. İlbizlər oxuyur, harada isə bülbül cəh-cəh vururdu. Onun səsi budaqlarda əks-səda verib bütün meşəyə yayılırdı. Arabir ağacların arasında qanad şaqqıldayırdı. Qarasu tərəfdə qaz qaqqıldayırdı.
 
@@ -4543,7 +4543,7 @@ Tapdıq Əşrəfin şapkasına, balağı düz şalvarına baxdı və cilovu çə
 
 – Al, paltarını dəyiş.
 
-Əşrəf yəhərin üstündən qanrılıb Tapdığa baxdı. O isə sözünə davam etdı:
+Əşrəf yəhərin üstündən qanrılıb Tapdığa baxdı. O isə sözünə davam etdi:
 
 – Ağa tapşırdı ki, kəndə rus libasında gəlməsin, ayıbdı.
 
@@ -4557,7 +4557,7 @@ Qarşıdan səs gəldi. Çaxmaq şaqqıldadı. Əşrəf özünə gələnə qəd�
 
 – Dayan!
 
-O, atın cilovunu dartdı. Kəhər özünü saxlaya bilməyib büdrədi. Sonra dal ayaqları üstə qalxıb fınxırdı. Əşrəf yəhərin qaşına sindi. Tapdıqgil ağacların dalına girdilər. Bir xeyli beləca nəfəslərini dərmədən dayandılar. Qaraltılar irəli çıxdı. Əşrəf onların atlı kazak olduğunu gördükdə təəccübləndi və dönüb yoldaşlarına baxdı.
+O, atın cilovunu dartdı. Kəhər özünü saxlaya bilməyib büdrədi. Sonra dal ayaqları üstə qalxıb fınxırdı. Əşrəf yəhərin qaşına sindi. Tapdıqgil ağacların dalına girdilər. Bir xeyli beləcə nəfəslərini dərmədən dayandılar. Qaraltılar irəli çıxdı. Əşrəf onların atlı kazak olduğunu gördükdə təəccübləndi və dönüb yoldaşlarına baxdı.
 
 Kazaklar onlarla üzbəüz dayandılar:
 
@@ -4649,7 +4649,7 @@ Tapdıq artıq dözə bilmədi. Atı ehmalca mahmızlayıb ciğırdan çıxdı. 
 
 @@ 178
 
->>yaxınlaşdı və gözlənilmədən irəşməni hərləyib atdı. İrəşmə göydə ilan kimi qıvrılıb kazakın boynuna dolandı. O, əl-ayaq atana qədər Tapdıq süruyüb kazakı atdan saldı. O biri kazak çaxmağı hərlədi. Ancaq Əşrəfin əmisi oğlu ona aman vermədi. Xəncərin siyirib şığıdı. Kazakın əlindəki tüfəngin qundağı ortadan iki bölünüb yerə düşdü. Əşrəf quş kimi atılıb atın tərkinə mindi və daldan kazakı qucaqlayıb qollarını tutdu. Tapdığın atdan yıxdığı kazak bir xeyli kəməndlə bərabər süründükdən sonra ayağa qalxdı. Qılıncını siyirib, arxadan Əşrəfə hücum etdi. At kişnədi və ilan sancmış kimi kənara sıçradı. Yenidən əlbəyaxa döyüş başladı. Torpaq eşim-eşim oldu. Otlar, çiçəklər əzildi. Atlar kişnəyib talaya qaçdı. Əşrəfgil yarımsaatlıq vuruşmadan sonra kazakları üstələdilər. Onların tüfənglərini, qılınclarını alıb qollarını çatdılar, palıd ağacına sarıdılar.
+>>yaxınlaşdı və gözlənilmədən irəşməni hərləyib atdı. İrəşmə göydə ilan kimi qıvrılıb kazakın boynuna dolandı. O, əl-ayaq atana qədər Tapdıq sürüyüb kazakı atdan saldı. O biri kazak çaxmağı hərlədi. Ancaq Əşrəfin əmisi oğlu ona aman vermədi. Xəncərin siyirib şığıdı. Kazakın əlindəki tüfəngin qundağı ortadan iki bölünüb yerə düşdü. Əşrəf quş kimi atılıb atın tərkinə mindi və daldan kazakı qucaqlayıb qollarını tutdu. Tapdığın atdan yıxdığı kazak bir xeyli kəməndlə bərabər süründükdən sonra ayağa qalxdı. Qılıncını siyirib, arxadan Əşrəfə hücum etdi. At kişnədi və ilan sancmış kimi kənara sıçradı. Yenidən əlbəyaxa döyüş başladı. Torpaq eşim-eşim oldu. Otlar, çiçəklər əzildi. Atlar kişnəyib talaya qaçdı. Əşrəfgil yarımsaatlıq vuruşmadan sonra kazakları üstələdilər. Onların tüfənglərini, qılınclarını alıb qollarını çatdılar, palıd ağacına sarıdılar.
 
 Tapdıq çəmənlikdəki atları cilovlayıb yaxına gətirdi. Əşrəf atının yəhərini düzəltdi. Dal tərəfə keçib kəhərin buduna baxdı. Qılıncın yaraladığı yerdən qan axırdı. Onun ata yazığı gəldi və qəzəblə kazaklara yaxınlaşdı-hirsindən dişini-dişinə sıxdı:
 
@@ -4665,7 +4665,7 @@ Kazak dartındı. Qolunun kəndirini açmağa çalışdı və xırıltılı səs
 
 – Ə, belə dur, qoy səsini kəsim.
 
-– İşin olmasın, - deyə Əşrəf dabanı üstə fırlandı və tufəngin lüləsini əli ilə kənara itələdi. - Bunlarda nə təqsir var?
+– İşin olmasın, - deyə Əşrəf dabanı üstə fırlandı və tüfəngin lüləsini əli ilə kənara itələdi. - Bunlarda nə təqsir var?
 
 – Bə kimdədir?
 
@@ -4723,7 +4723,7 @@ Tapdıq dərhal atını mahmızladı.
 
 – Ağa, tez ol, aradan çıxaq.
 
-Əşrəf cilovu buraxdı. Atlar dördnala çapıb meşədə gorünməz oldu
+Əşrəf cilovu buraxdı. Atlar dördnala çapıb meşədə görünməz oldu
 
 ### Üçüncü hissə, 2
 
@@ -4733,7 +4733,7 @@ Meşənin dərinliyində, binələrdən xeyli uzaqda dalbadal güllə atıldı. 
 
 >>tərəf qaçdı. Binədəki arvad-uşaq çığırışıb kənara dağıldı. Cahandar alaçıqdan hövlnak çıxıb atın dalınca yüyürdü. Yoğun və zəhmli səslə bir-iki dəfə “hey-hey, Qəmər!” - deyə atı səslədi. Qəmər nə qədər çılğınlaşmış olsa da, sahibinin səsini eşidən kimi yerişini yavaşıtdı. Dəyələrin ətrafında bir-iki dəfə dövrə vurub dayandı. Sakitləşmək üçün qabaq ayağı ilə yeri eşdi. Cahandar ağa ona yaxınlaşanda isə təlaşla ətrafa boylanıb astadan oxrandı. Kişi irəşməni yığdı, atın yalın sığalladı və yedəkləyib alaçığın yanına gətirdi.
 
-Gün yaxmışdı. Meşənin arxasında gizlənən günəşin maili şüaları yarpaqların arasına soxulub ətrafı işıqlandırmağa çalışırdı. Ancaq baş-başa vermiş palıdlar. İri fıstıq və vələs ağaclarının qalın yarpaqları işiğın qabağını kəsib yerə qatı kölgə salırdı. Meşəyə birdən-birə qaranlıq çokürdü.
+Gün yaxmışdı. Meşənin arxasında gizlənən günəşin maili şüaları yarpaqların arasına soxulub ətrafı işıqlandırmağa çalışırdı. Ancaq baş-başa vermiş palıdlar. İri fıstıq və vələs ağaclarının qalın yarpaqları işığın qabağını kəsib yerə qatı kölgə salırdı. Meşəyə birdən-birə qaranlıq çökürdü.
 
 Cahandar ağa atı alaçığın yanında təzədən örüklədi. Dəyələrin bərabərindəki iri palıd ağacının altına gəldi. Kürəyini ağaca söykədi. Gözünü meşənin dərinliyinə gedən cığıra zillədi. "Görəsən uşaqlara bir şey olmadı ki?" - deyə düşündü. Qutusunu çıxardıb barmaqları titrəyə-titrəyə papiros eşdi.
 
@@ -4839,9 +4839,9 @@ Cahandar ağanın çayı boğazında qaldı. Kişi çeçəyib stəkanı yerə qo
 
 >>şeyi söyləməyi münasib hesab edirdi. Kişi qorxurdu. O çox gözəl bilirdi ki, Əşrəf həqiqəti öyrənəndən sonra ağız ləzzəti ilə bir tikə çörək yemək, heç olmazsa beş-altı aydan bəri üzünü görmədiyi oğlu şirin-şirin danışmaq belə çətin olacaqdı. Ona görə susmağı və gecəni sakit keçirməyi qərara almışdı. Cahandar ağa Əşrəfin bu işlərə necə münasibət bəsləycəyini bilməsə də, hər halda xoşagəlməz, könül bulandıran söhbət eşıtmək istəmirdi. O hamıya tapşırmışdı ki, Əşrəfə heç nəyi xəbər verməsinlər. O istəyirdi ki, Əşrəf kəndə gedəndə özü hər şeyi öyrənsin. Kişi bu oğlunu da küsdürəcəyindən ehtiyat etdiyi üçün susmağı, heç olmasa bircə gecə mehriban yatmağı arzu edirdi...
 
-Çay-çörəkdən sonra Mələk ata ilə oğula alaçıqda yanaşı yer saldı. Əşrəf atasına sərbəstlik vermək və onun hüzurunda soyunmamaq üçün eşiyə çıxdı. Ocaqlar sönmüşdü. Dəyələrin çoxu sökülmüş, farmaşlar, çətənlər, qalın keçələr, qab-qacaqlar arabalara doldurulmuşdu. İşini qurtaranlar şirin yuxuya getsələr də, hələ ora-bura qaçanlar, yaddan bir şey çıxartmamaq üçün yurd yerini dönə-dönə yoxlayanlar da var idi. Xalxalda kövşəyən malların gəyirtisi eşidilir, arabir öküzlər öskürüşürdü. Bir az bundan əvvəl meşəni bürüyən zil qaranlıq uzaqdakı qollu-budaqlı nəhəng ağacların yarpaqları arasından boylanan və hər dəqiqə yüksəyə qalxan narıncı dəyirmi ayın parıldadığını görüb geri çəkilmişdi. Meşəyə solğun bir ziya səpələnmişdi. Taladakı təkəm-seyrək ağacların çəmənliyə sərilən kölgələri aydın görünürdü. Yalnız qalın kolların sıx yarpaqları əvvəlki kimi bir-birinə qısılaraq ay işığının qabağını kəsir, qatı kölgələri daha da tündləşdirməyə çalışırdı.
+Çay-çörəkdən sonra Mələk ata ilə oğula alaçıqda yanaşı yer saldı. Əşrəf atasına sərbəstlik vermək və onun hüzurunda soyunmamaq üçün eşiyə çıxdı. Ocaqlar sönmüşdü. Dəyələrin çoxu sökülmüş, farmaşlar, çətənlər, qalın keçələr, qab-qaçaqlar arabalara doldurulmuşdu. İşini qurtaranlar şirin yuxuya getsələr də, hələ ora-bura qaçanlar, yaddan bir şey çıxartmamaq üçün yurd yerini dönə-dönə yoxlayanlar da var idi. Xalxalda kövşəyən malların gəyirtisi eşidilir, arabir öküzlər öskürüşürdü. Bir az bundan əvvəl meşəni bürüyən zil qaranlıq uzaqdakı qollu-budaqlı nəhəng ağacların yarpaqları arasından boylanan və hər dəqiqə yüksəyə qalxan narıncı dəyirmi ayın parıldadığını görüb geri çəkilmişdi. Meşəyə solğun bir ziya səpələnmişdi. Taladakı təkəm-seyrək ağacların çəmənliyə sərilən kölgələri aydın görünürdü. Yalnız qalın kolların sıx yarpaqları əvvəlki kimi bir-birinə qısılaraq ay işığının qabağını kəsir, qatı kölgələri daha da tündləşdirməyə çalışırdı.
 
-Lap yaxında anadil ötdü. Əşrəf bu gözəgörünməz quşların səsini eşidən tək alaçığın qabağındakı palıdın altına getdi. Ağacın gövdəsinə söykənib susdu. Meşe sehrli bir qaranlıq içində mürgüləsə də, min bir pıçıltı ilə danışırdı. Çəyirtkələr pırıltı ilə otdan-ota atlanır, arabir meşəxoruzları banlayır, harda isə qanad şaqqıldayır, qarasuyun yaxası boyu uzanan qamışlıqlarda qurbağalar quruldayır, çaqqallar vaqqıldayırdı. Bu səslər kəsik-kəsik, fasilələrlə eşidilirdi. Bax həmin bu sükut anlarında sanki hər şeyin susmasını gözləyən anadillərin zil və kədərli səsı eşidilirdi. Əşrəf lap uşaqlıqdan bu quşların qəmli oxumağını dinləyəndə mütəəssir olurdu. O indi hər şeyi unudaraq meşəyə qulaq asdı.O bilirdi ki, ağacların budaqları arasından başıaşağı sallanan bu quşlar yalnız gecələr oxuyurdular. Deyilənə görə onlar vaxtı ilə insan olmuşlar. İndi bir-birini səsləyən anadillər peyğəmbərin danasını otarırlar-
+Lap yaxında anadil ötdü. Əşrəf bu gözəgörünməz quşların səsini eşidən tək alaçığın qabağındakı palıdın altına getdi. Ağacın gövdəsinə söykənib susdu. Meşə sehrli bir qaranlıq içində mürgüləsə də, min bir pıçıltı ilə danışırdı. Çəyirtkələr pırıltı ilə otdan-ota atlanır, arabir meşəxoruzları banlayır, harda isə qanad şaqqıldayır, qarasuyun yaxası boyu uzanan qamışlıqlarda qurbağalar quruldayır, çaqqallar vaqqıldayırdı. Bu səslər kəsik-kəsik, fasilələrlə eşidilirdi. Bax həmin bu sükut anlarında sanki hər şeyin susmasını gözləyən anadillərin zil və kədərli səsi eşidilirdi. Əşrəf lap uşaqlıqdan bu quşların qəmli oxumağını dinləyəndə mütəəssir olurdu. O indi hər şeyi unudaraq meşəyə qulaq asdı.O bilirdi ki, ağacların budaqları arasından başıaşağı sallanan bu quşlar yalnız gecələr oxuyurdular. Deyilənə görə onlar vaxtı ilə insan olmuşlar. İndi bir-birini səsləyən anadillər peyğəmbərin danasını otarırlar-
 
 @@ 185
 
@@ -4857,7 +4857,7 @@ Ayın işığı yarpaqların kölgəsini çalın-çarpaz doğrayıb Əşrəfin �
 
 – Yox. İzi itirdik.
 
-Kişi xeyli dinmədi. Gözünü alaçığına tavanına zilləyib dayandı. Elə bil xəyalında nəyi isə olçüb-biçirdi:
+Kişi xeyli dinmədi. Gözünü alaçığına tavanına zilləyib dayandı. Elə bil xəyalında nəyi isə ölçüb-biçirdi:
 
 – Yaxşı, yıxıl yat
 
@@ -4887,7 +4887,7 @@ Molla Sadıq iki gündən sonra öz arvadını və gəlinlərini yas yerinə gö
 
 >>ölüsü-dirisi olacaq". Onun məqsədi bu yolla ağız aramaq, Cahandar ağanın evində nələr danışıldığını öyrənmək idi. O istəyirdi ki, bu yolla özünə olan münasibəti aydınlaşdırsın.
 
-Arvadlar yas yerindən razı qayıtdılar. Onlara ədəblə hörmət etdiklərini, ağlaşmadan sonra çay-çörək verib yola saldıqlarını söylədilər. Nəhayət, üçüncü gün Molla Sadığın özü cəsarətə gəlib, kəndin bir necə ağsaqqalı ilə bərabər Cahandar ağanın evinə getdi. Əgər yas yerina dəyməsə, özünün günahkar olduğunu boynuna almış olar, bəlkə də narazılıqla qurtarıb gedə biləcək bir incikliyi düşmənçiliyə çevirə bilərdi. Bəlkə Cahandar ağa onu görən kimi tüfəngi çəkdi, bəs onda nə olsun? Ara yerdə güdaza getsin? Yox, belə şey ola bilməz. Elin adəti var qanlı düşmən qanlı düşmənin qapısına gələndə ona əl qaldırmazlar.
+Arvadlar yas yerindən razı qayıtdılar. Onlara ədəblə hörmət etdiklərini, ağlaşmadan sonra çay-çörək verib yola saldıqlarını söylədilər. Nəhayət, üçüncü gün Molla Sadığın özü cəsarətə gəlib, kəndin bir necə ağsaqqalı ilə bərabər Cahandar ağanın evinə getdi. Əgər yas yerinə dəyməsə, özünün günahkar olduğunu boynuna almış olar, bəlkə də narazılıqla qurtarıb gedə biləcək bir incikliyi düşmənçiliyə çevirə bilərdi. Bəlkə Cahandar ağa onu görən kimi tüfəngi çəkdi, bəs onda nə olsun? Ara yerdə güdaza getsin? Yox, belə şey ola bilməz. Elin adəti var qanlı düşmən qanlı düşmənin qapısına gələndə ona əl qaldırmazlar.
 
 Molla Sadıq zənnində yanılmadı. Yas yerində ona heç nə demədilər. Görünür, ölüm adamları yumşaltmışdı. Qəlblərdəki kin, qəzəb bir az soyumuşdu. Bir də Molla Sadıq özü onun yanına gəlmişdi.
 
@@ -4897,7 +4897,7 @@ Yas gecəsi sakit keçdi. Hətta Molla Sadıqdan xahiş etdilər, o Quran oxudu.
 
 >>adamın sözünə heç baxmaq istəmirdilər. Əhməd heç, onu kənddən qovmaq asan idi, bəs Cahandar ağa'? Bəlkə divan-dərəyə xəbər versin ki, Cahandar ağa doğma bacısını öldürüb, qan töküb, hə, onda necə olar? Atlı kazaklar gəlib onu tutmazdımı, əl-qolunu bağlayıb birbaş Sibirə göndərməzdilərmi? Onun izi-tozu biryolluq itməzdimi? Mən də rahat nəfəs almazdımmı? Bəs sonra?
 
-Molla Sadığı fikir götürdü. Bu işi sübut etməyin çox çətin olduğunu düşündü. Şahidin yox, dəlilin yox, nə edə bilərdin? Ölünü təzədən qəbirdən çıxarmayacaqdılar ki? Bir də, din var, şəriət var, camaat buna razı olarmı? Rusa nə var, dedin, o saat qəbri eşib tökəcəklər. Amma cammaat buna yol verməz. Lap qılıncdan keçirsələr də onları qəbristanlığını həndəvərinə hərlənməyə qoymazdılar. Əgər bu iş baş tutsa belə, sonrası pis olardı. Yerlər qulaqlıdır, tez-gec xəbər tutarlar və mənim daşımı daş üstündə qoymazlar.
+Molla Sadığı fikir götürdü. Bu işi sübut etməyin çox çətin olduğunu düşündü. Şahidin yox, dəlilin yox, nə edə bilərdin? Ölünü təzədən qəbirdən çıxarmayacaqdılar ki? Bir də, din var, şəriət var, camaat buna razı olarmı? Rusa nə var, dedin, o saat qəbri eşib tökəcəklər. Amma camaat buna yol verməz. Lap qılıncdan keçirsələr də onları qəbristanlığını həndəvərinə hərlənməyə qoymazdılar. Əgər bu iş baş tutsa belə, sonrası pis olardı. Yerlər qulaqlıdır, tez-gec xəbər tutarlar və mənim daşımı daş üstündə qoymazlar.
 
 Molla Sadıq bu cür ağır düşüncələrlə yumşaq gəbənin üstündə gəzinir, təsbehinin iri, kəhrəba muncuqlarını şaqqıldadırdı.
 
@@ -4969,7 +4969,7 @@ O, papirosunu yenidən tüstülətdi. Molla Sadıq dəhşətlə çırağın sol�
 
 – Olmasaydı, qapını açmazdım.
 
-Molla Sadıq lap ehtiyatlandı. Bu adamın qəsdən gəldiyini, bəlkə də Cahandar ağanın göndərdiyini güman etdi. Ona elə gəldi ki, bu saat evin dörd tərafini kəsiblər. Pusquda duranlar içəri göndərdikləri adamın nə edəcəyini gözləyirlər. Qonaq bu saat ayağa duracaq, xəncəri siyirib onu doğrayacaq, sonra da atılıb həyətə çıxacaq, atın belinə qalxıb dördnala çapacaqdır. Əgər molla uşaqlara göz eləsə, gələn adamı elə buradaca, evin içində öldürtsə, daha pis olacaqdır. Duyuq düşən düşmənlər şaraqqa-şaraqla evi gülluyə basacaq, arvad-uşağı qıracaq, ev-eşiyi də yandıracaqdılar. Molla Sadıq ehtiyatsızlıq etdiyinə, tanımadığı adamı içəri buraxdığına görə özünü danladı. "Yamanca yerdə axşamladıq. Bu namərd oğlu türbədən gəlirəm deyə məni yamanca yastığa qoydu".
+Molla Sadıq lap ehtiyatlandı. Bu adamın qəsdən gəldiyini, bəlkə də Cahandar ağanın göndərdiyini güman etdi. Ona elə gəldi ki, bu saat evin dörd tərəfini kəsiblər. Pusquda duranlar içəri göndərdikləri adamın nə edəcəyini gözləyirlər. Qonaq bu saat ayağa duracaq, xəncəri siyirib onu doğrayacaq, sonra da atılıb həyətə çıxacaq, atın belinə qalxıb dördnala çapacaqdır. Əgər molla uşaqlara göz eləsə, gələn adamı elə buradaca, evin içində öldürtsə, daha pis olacaqdır. Duyuq düşən düşmənlər şaraqqa-şaraqla evi gülləyə basacaq, arvad-uşağı qıracaq, ev-eşiyi də yandıracaqdılar. Molla Sadıq ehtiyatsızlıq etdiyinə, tanımadığı adamı içəri buraxdığına görə özünü danladı. "Yamanca yerdə axşamladıq. Bu namərd oğlu türbədən gəlirəm deyə məni yamanca yastığa qoydu".
 
 – Niyə oturmursan, molla?
 
@@ -5055,7 +5055,7 @@ Allahyar fikrindən ayılıb müsahibinin üzünə baxdı. Molla Sadıq onun gö
 
 – Mənə kömək elə.
 
-Molla Sadıq əslində Cahandar ağanın təzə arvadının ərini çoxdan, axtarırdı. Onu tapıb əlbir olmağı, qızışdırıb Cahandar ağanın üstürnə salmağı çoxdan arzulayırdı. Həm də bunu elə etmək istəyirdi ki, heç kəs ondan şübhələnməsin. İndi isə həmin adam özü öz ayağı ilə gəlib çıxmışdı. Molla Sadıq ürəyindən keçənləri ondan gizlətməyi və Allahyarı bir az çək-çevirə salmağı lazım bildi;
+Molla Sadıq əslində Cahandar ağanın təzə arvadının ərini çoxdan, axtarırdı. Onu tapıb əlbir olmağı, qızışdırıb Cahandar ağanın üstünə salmağı çoxdan arzulayırdı. Həm də bunu elə etmək istəyirdi ki, heç kəs ondan şübhələnməsin. İndi isə həmin adam özü öz ayağı ilə gəlib çıxmışdı. Molla Sadıq ürəyindən keçənləri ondan gizlətməyi və Allahyarı bir az çək-çevirə salmağı lazım bildi;
 
 – Sən nəyə əsasən belə bir işi mənə təklif eləyirsən?
 
@@ -5065,7 +5065,7 @@ Molla Sadıq əslində Cahandar ağanın təzə arvadının ərini çoxdan, axta
 
 – Molla Sadıq, sən məni uşaq yerinə qoyma. Mən hər şeyi bilirəm. Onu da bilirəm ki, Cahandar ağa bacısının hayıfını səndə qoymayacaq. Fürsət düşən kimi sənnən haqq-hesab çəkəcək. Mən gəlmişəm ki, köməkləşək. İndi özün bil.
 
-Molla Sadıq təsbehini qoluna keçirib xeyli saqqalını tumarladı. Gözlərini qıyıb lampaya baxdı. Çırağın fitilindən ox kimi uzanan ziyalar onun gözlərinə sancıldı və kirpiklərinin arasına doldu. O nəyi isə xəyalında xeyli ölçüb-biçdi və nəhayət, astadan diiləndi:
+Molla Sadıq təsbehini qoluna keçirib xeyli saqqalını tumarladı. Gözlərini qıyıb lampaya baxdı. Çırağın fitilindən ox kimi uzanan ziyalar onun gözlərinə sancıldı və kirpiklərinin arasına doldu. O nəyi isə xəyalında xeyli ölçüb-biçdi və nəhayət, astadan dilləndi:
 
 – Yaxşı, mən sənə nə kömək edə bilərəm?
 
@@ -5203,7 +5203,7 @@ Qoca kişi şalvarını dizinə qədər çirməmişdi. Gəminin dal tərəfində
 
 – Xoş gördük, ay Qoca dayı.
 
-Kişi belini düzəldib dikəldi. Sahildə, yarğanın qaşında, iki-üç addımlıqda dayanan oğlana baxdı. Əşrəfi tanıyan kimi dodaqları qaçdı. Adəti üzrə ona şuxluqla cavab vermək istədi. Ancaq birdən-birə tululdu. Qaşqabağını sallayıb könülsüzcəsinə dilləndi:
+Kişi belini düzəldib dikəldi. Sahildə, yarğanın qaşında, iki-üç addımlıqda dayanan oğlana baxdı. Əşrəfi tanıyan kimi dodaqları qaçdı. Adəti üzrə ona şuxluqla cavab vermək istədi. Ancaq birdən-birə tutuldu. Qaşqabağını sallayıb könülsüzcəsinə dilləndi:
 
 – Xoş gördük.
 
@@ -5211,7 +5211,7 @@ Kişi belini düzəldib dikəldi. Sahildə, yarğanın qaşında, iki-üç addı
 
 – Qızlarla aran necədir?
 
-Gəmiçi gözünü qıyıb diqqətlə Əşrəfin üzünə baxdı və hiss etdı ki, onun kənddə baş verən hadisələrdən xəbəri yoxdur. Qoca kişi bir an tərəddüd içində dayandı, sonra dodaqları qaçdı:
+Gəmiçi gözünü qıyıb diqqətlə Əşrəfin üzünə baxdı və hiss etdi ki, onun kənddə baş verən hadisələrdən xəbəri yoxdur. Qoca kişi bir an tərəddüd içində dayandı, sonra dodaqları qaçdı:
 
 @@ 198
 
@@ -5307,7 +5307,7 @@ Kişini ele bil birdən-birə dəyişdilər. Cəld ayağa durub gəminin böyrü
 
 – A bala, bunlar kimdir? – deyə təəccüblə soruşdu.
 
-Əsrəf gəmidən sahilə sıçradı. Atılıb yəhərə qalxdı.
+Əşrəf gəmidən sahilə sıçradı. Atılıb yəhərə qalxdı.
 
 Bir dəstə atlı kazak meşənin qurtaracağında dayandı. Öndəki zabit durbinlə sahildəkilərə, o tayda, yarğanın qaşında oturub köçü gözləyənlərə baxdı. Mal-qaranı, arvad-uşağı gözdən keçirdi. Sonra atını mahmızlayıb cığıra düşdü. Qalanları onun arxasınca gəldilər.
 
@@ -5401,7 +5401,7 @@ Zabit artıq dözmədi. Onun qəzəbli səsi xırıldadı:
 
 – Tutun bunları!
 
-Elə bil Cahandar ağaya od vurdular. Atın cilovunu dartıb geri fırlandı. Qəmər qəfil təkandan dal ayağı üstə qalxıb kişnədi. Onun ayagının altındakı xırda, yumru daşlar şaqqıldadı. Cahandar ağanın burun pərləri genişləndi. Həbəşi dodaqları gömgöy oldu. Onun fısıltısı aydınca eşidildi:
+Elə bil Cahandar ağaya od vurdular. Atın cilovunu dartıb geri fırlandı. Qəmər qəfil təkandan dal ayağı üstə qalxıb kişnədi. Onun ayağının altındakı xırda, yumru daşlar şaqqıldadı. Cahandar ağanın burun pərləri genişləndi. Həbəşi dodaqları gömgöy oldu. Onun fısıltısı aydınca eşidildi:
 
 – Rədd olun!
 
@@ -5447,7 +5447,7 @@ Pakizə təzə paltarını geyindi, qapıda xeyli hərləndi, sonra damın belin
 
 @@ 204
 
-Yaxındakı həyətlərdən birində tonqalı yandırdılar. Onun dalınca bütün qonşular tonqallara od vurdular. Əvvəlcə nəm küləş alışmadı, ağ tüstü layları burula-burula havaya qalxdı, kəndin üstünü elə bil duman bürüdü. Sonra otlar alışıb çatırdadı, alov ucaldı, tüstü bir müddət qığılcımlarla çarpışdı və çəkilib getdi. Kənd şəfəqlərə qərq oldu. Cavanlar lopaları yandırıb damların üstünə sancdılar. Oğlanlar neçə gündən bəri hazırladıqları fişəngləri mazuta buladılar. Üstünə bir az neft çilədilər, od vurdular. Fişənglər alovlandı. Gücləri gəlincəyə qədər firlayıb havaya atdılar. Pakizə böyük heyranlıq və valehliklə havada bir-birini qovub daha yüksəyə qalxmaq istəyən fişənglərə baxdı. Oğlanlar bəhsə girişdilər. Onlar öz güclərini göstərir, fişəngləri var qüvvələri ilə yuxarı tolazlayırdılar. Vıyıltı ilə havaya qalxan fişəng güyültü ilə yerə düşürdü. Kəndi ahəngdar bir uğultu bürümüşdü. Pakizə lap aşağılarda, Kürün yaxası boyu məskən salan kəndlərin üstündə də göy üzünün qızardığını gördü. Elə bil hər şey alışmışdı. Hətta Kürün suları da qızartdaq idi.
+Yaxındakı həyətlərdən birində tonqalı yandırdılar. Onun dalınca bütün qonşular tonqallara od vurdular. Əvvəlcə nəm küləş alışmadı, ağ tüstü layları burula-burula havaya qalxdı, kəndin üstünü elə bil duman bürüdü. Sonra otlar alışıb çatırdadı, alov ucaldı, tüstü bir müddət qığılcımlarla çarpışdı və çəkilib getdi. Kənd şəfəqlərə qərq oldu. Cavanlar lopaları yandırıb damların üstünə sancdılar. Oğlanlar neçə gündən bəri hazırladıqları fişəngləri mazuta buladılar. Üstünə bir az neft çilədilər, od vurdular. Fişənglər alovlandı. Gücləri gəlincəyə qədər fırlayıb havaya atdılar. Pakizə böyük heyranlıq və valehliklə havada bir-birini qovub daha yüksəyə qalxmaq istəyən fişənglərə baxdı. Oğlanlar bəhsə girişdilər. Onlar öz güclərini göstərir, fişəngləri var qüvvələri ilə yuxarı tolazlayırdılar. Vıyıltı ilə havaya qalxan fişəng güyültü ilə yerə düşürdü. Kəndi ahəngdar bir uğultu bürümüşdü. Pakizə lap aşağılarda, Kürün yaxası boyu məskən salan kəndlərin üstündə də göy üzünün qızardığını gördü. Elə bil hər şey alışmışdı. Hətta Kürün suları da qızartdaq idi.
 
 Kəndin birdən-birə alova qərq olduğunu görən itlər qorxdular. Zəlzələ, ya da gün tutulan zaman ağız-ağıza verib ulaşdıqları kimi, indi də zingildəşib səs-səsə verdilər. Onlar azacıq sonra sakitləşdilər. Uşaqlar əl-ələ verib tonqalların ətrafında oynaşdılar. Hər şey nağıllardakı kimi qəribə idi. Kölgələr uzanıb yerlə sürünür, bəzən evlərin divarına düşür, bəzən də lap Kürün sahilinə qədər enirdi. Tonqallar qorlandıqca qığılcım göydə oynayırdı.
 
@@ -5519,7 +5519,7 @@ Oğlanlar kəndiri dartdılar. Onların səsi aydınca eşidildi.
 
 – Ə, nə yaman ağırdır! Əşrəf, bəxtin gətirib, sənin heybəni ağzınacan doldurublar.
 
-Əşrəf heybənin ağzını açanda pişik movultu ilə kanara sıçradı. Qızlar qəşş edib taxtın üstünə yıxıldılar. Oğlanlar gurultu ilə damın üstündən həyətə endilər. Evin içinə torpaq töküldü. Pakizə qapının cəftəsini vurub dayandı.
+Əşrəf heybənin ağzını açanda pişik movultu ilə kənara sıçradı. Qızlar qəşş edib taxtın üstünə yıxıldılar. Oğlanlar gurultu ilə damın üstündən həyətə endilər. Evin içinə torpaq töküldü. Pakizə qapının cəftəsini vurub dayandı.
 
 Qapını döydülər. Açmadı. Yumruqla döyəclədilər, hətta təpiklə taqqıldatdılar. Qız qapının az qala dabanından çıxacağını görüb qorxdu. Kürəyini söykədi. Oğlanlardan biri bərkdən qışqırdı:
 
@@ -5595,7 +5595,7 @@ Onlar getdilər. Bu hadisəni qızlar, bəlkə Əşrəfin özü də unutdu. Anca
 
 Pakizə bu cür yarışirin, yarıxəyali xatirələrlə yaşadığı vaxt ikinci bir hadisə baş verdı...
 
-Kəndə narın qar yağmışdı. Göytəpənin qara damları qarın altında itmişdi. Bacalardan burula-burula havaya qalxan göyümsov tüstüləri qardan seçmək olmurdu. Arabir yenıcə düşmüş izlə qonşuya od dalınca, ya da ələk, sac almaq üçün gedən qızlar olmasaydı, burda insane yaşadığını təyin etmək çətin idi.
+Kəndə narın qar yağmışdı. Göytəpənin qara damları qarın altında itmişdi. Bacalardan burula-burula havaya qalxan göyümsov tüstüləri qardan seçmək olmurdu. Arabir yenicə düşmüş izlə qonşuya od dalınca, ya da ələk, sac almaq üçün gedən qızlar olmasaydı, burda insane yaşadığını təyin etmək çətin idi.
 
 Pakizə səhəngini götürüb, topuqlarına qədər qara bata-bata suya gedən qızlarla birlikdə Kürə endi. Kürün üstü ilə sürünən duman gah ortada birləşir, gah da lap aşağı yatıb hər yeri bürüyürdü. Arabir qızlar qaqqıldayırdı. Su donmuşdu. Qalın buz suyun ortasına qədər gedib az qalırdı ki, ağız-ağıza qovuşsun. Pakizə sahildə ayaq saxladı. O taydakı meşəyə baxdı. Ağaclar iri ağ göbələklər kimi yan-yana dayanmışdı. Suyun buz bağlamamış açıq yerində ördəklər üzürdü. Pakizə onlardan gözünü çəkmədi. Ördəklər xeyli üzdükdən sonra baş vurub suya batdılar. Elə bu vaxt hardansa atılan tüfəng səsi yarğanda şaqqıldadı. Bir dəstə cavan, atı sürüb sahilə endi.
 
@@ -5627,7 +5627,7 @@ Qızlar bir-bir evlərinə buruldular. Nəhayət, Pakizə də onlarda ayrıldı.
 
 – Əşrəf?
 
-Qız öz səsindən hürkdü. Qorxaq baxışlarla gəlinə, sonra da anasına baxdı. Onların yenə əvvəlki kimi öz işləri ilə məşğul olduqlarını görüb sakitləşdi. Süpürgəni götürüb evi süpürdü. Divardakı gəbələrin tozunu aldı, fənərin şüşəsini sildi, pəncərə pərdələrini dəyişdı, qab-qacağı stəkan-nəlbəkini suya çəkdi, hətta ağ samovarı həyətə çıxardıb qarla sürtdü. Bir yerdə toz, bir ləkə qoymadı qalsın. Döşəkcələri, mütəkkələri dönə-dönə çırpdı. Arada o biri otağa keçib özünə də baxdı. Ətlənmiş çiynini, qabarıq sinəsini görəndə təəccüb etdi. Qız bədənindəki dəyişikliyi birinci dəfə müşahidə etdiyindən, özünü tanıya bilmədi. Paltarını deyişdi. Yenidən eyvanda, həyətdə fırlanmağa başladı. Arada paltarçırpmaq bəhanəsi ilə tövlənin üstünə çıxıb Cahandar ağagilə tərəf boylandı... Günorta üstünə yaxın kəndin ortasındakı cığırda qaraltı göründü. Həmin qaraltılar asta-asta Molla Sadıqgilə yaxınlaşdılar. Pakizə eyvandan çəkilmədi. Qonaqlar doqqazdan içəri girəndə onlara ötəri nəzər salıb otağa keçdi. Pəncərənin pərdəsini azacıq aralayıb baxdı. Qonaqların eyvanda ayaqlarının qarını təmizlədiklərinə, üstlərini çırpdıqlarına fikir verdi. Şamxal çərkəzi paltar geyinmişdi. Ayağında uzunboğaz çəkmə vardı. Əşrəf isə paltolu idi. Əşrəf qaloşunu astanada çıxartdı.
+Qız öz səsindən hürkdü. Qorxaq baxışlarla gəlinə, sonra da anasına baxdı. Onların yenə əvvəlki kimi öz işləri ilə məşğul olduqlarını görüb sakitləşdi. Süpürgəni götürüb evi süpürdü. Divardakı gəbələrin tozunu aldı, fənərin şüşəsini sildi, pəncərə pərdələrini dəyişdi, qab-qacağı stəkan-nəlbəkini suya çəkdi, hətta ağ samovarı həyətə çıxardıb qarla sürtdü. Bir yerdə toz, bir ləkə qoymadı qalsın. Döşəkcələri, mütəkkələri dönə-dönə çırpdı. Arada o biri otağa keçib özünə də baxdı. Ətlənmiş çiynini, qabarıq sinəsini görəndə təəccüb etdi. Qız bədənindəki dəyişikliyi birinci dəfə müşahidə etdiyindən, özünü tanıya bilmədi. Paltarını deyişdi. Yenidən eyvanda, həyətdə fırlanmağa başladı. Arada paltarçırpmaq bəhanəsi ilə tövlənin üstünə çıxıb Cahandar ağagilə tərəf boylandı... Günorta üstünə yaxın kəndin ortasındakı cığırda qaraltı göründü. Həmin qaraltılar asta-asta Molla Sadıqgilə yaxınlaşdılar. Pakizə eyvandan çəkilmədi. Qonaqlar doqqazdan içəri girəndə onlara ötəri nəzər salıb otağa keçdi. Pəncərənin pərdəsini azacıq aralayıb baxdı. Qonaqların eyvanda ayaqlarının qarını təmizlədiklərinə, üstlərini çırpdıqlarına fikir verdi. Şamxal çərkəzi paltar geyinmişdi. Ayağında uzunboğaz çəkmə vardı. Əşrəf isə paltolu idi. Əşrəf qaloşunu astanada çıxartdı.
 
 Pakizə çayniki götürüb otaqdan çıxdı. Poqquldayan samovara yaxınlaşıb çay dəmlədi, çayniki dəmkeşin üstünə qoyub dəsmalla örtdü. Geri qayıdarkən ayaq saxlayıb Əşrəfin qaloşuna baxdı. Qız ömründə ilk dəfə qaloş görürdü. Onun parıltısından xoşu gəldi. Dönüb ləpirlərə baxdı. Qaloşun altındakı naxışların izi qarın üstünə düşmüşdü. Pakizə odun gətirmək bəhanəsi ilə qaloşun izinə baxa-baxa doqqaza qədər getdi. Dodaqlarında təbəssüm geri qayıtdı.
 
@@ -5645,7 +5645,7 @@ Pakizə irəli gəldi. Su tökdü. Qonaqlar növbə ilə əllərini yudular. Ax�
 
 Qız qızardı. Qımışıb boynunu yana əydi. Dabanı üstə fırlanıb otaqdan cıxdı. Xörəyi anası apardı, süfrəni gəlin yığışdırdı, çay verməyi isə ona həvalə etdilər. Pakizə qara güllü podnosda stəkanları düzüb içəri girəndə gözü heç nə görmürdü. O bu saat ayağının dolaşıb yıxılacağından qorxurdu.
 
-Pakizə çayı süfrəyə qoydu. Hamı gülüşürdü. Molla Sadıq qarnını tutub döşəkcəyə uzanmışdı. Şamxal dəsmalla gozünü silirdi. Pakizə saçının dibinə qədər qızardı və qapını açıb bayıra qaçdı. O, başa düşdü ki, Əşrəf Novruz bayramında olan əhvalatı nağıl etmişdir...
+Pakizə çayı süfrəyə qoydu. Hamı gülüşürdü. Molla Sadıq qarnını tutub döşəkcəyə uzanmışdı. Şamxal dəsmalla gözünü silirdi. Pakizə saçının dibinə qədər qızardı və qapını açıb bayıra qaçdı. O, başa düşdü ki, Əşrəf Novruz bayramında olan əhvalatı nağıl etmişdir...
 
 Demək, o da həmin gecəni yadından çıxarmamışdır. Demək, hər şey onun xatirindədir. Yəqin ki, o da mənim kimi həmin gecəni tez-tez yadına salmışdır. Mən onun barmaqlarının yerini indi də biləyimdə hiss edirəm, görəsən, o da belədirmi?
 
@@ -5657,7 +5657,7 @@ Pakizənin gözü kənd yollarında qaldı. Harda qaloş izi gördüsə oraya ge
 
 Qayıq geri qayıtdı. Sahildə dayananlar da evə döndülər. Pakizə səhəngi tələsik çiyninə alıb birbaş Kürə endi. Qar hələ var idi. Gecə də bir az yağmışdı. Suyun buzu çox yerdə çatlamışdı. Sırsıralar xışıldaşa-xışıldaşa axıb gedirdi. Pakizə buzlu suya baxa-baxa özünü suvadağa yetirdi. Sahildəki ayaq izlərinə baxdı. Cığırın kənarında, qarın təmiz yerində qaloşun naxışı düşmüşdü.
 
-Pakizə ehtiyatla ətrafa boylandı. Yaxında heç kəsin olmadığını yəqin etdikdən sonra nazik bir ağac göturdü. Qaloşun izinin ortasına sancdı. Tələsik suvadağa enib səhəngini doldurdu. Qaça-qaça evlərinə qayıtdı.
+Pakizə ehtiyatla ətrafa boylandı. Yaxında heç kəsin olmadığını yəqin etdikdən sonra nazik bir ağac götürdü. Qaloşun izinin ortasına sancdı. Tələsik suvadağa enib səhəngini doldurdu. Qaça-qaça evlərinə qayıtdı.
 
 @@ 211
 
@@ -5711,7 +5711,7 @@ Onlar susurdular. Əşrəf kəndə gələndən sonra evlərində baş verən had
 
 – Ana, bibim nədən öldü?
 
-Zərnigar xanım bu sakit sualdan diksindi. O dəhşətli gün gözünün qabığına gəldi. Cahandar ağanın adam göndərib otııı çağırtdırtj Şahnigann mcyitinin yuyulmasım ona etibar etdiyitıi xatırladı. Arv baldızmın qanh sifətini görondə dəhşotə gəldi, giillə yarusına baxabil mədi. Onu titrətmə götürdü vo hər şeyi başa düşdü. Onu da anladı kj Cahandar ağa bu sirrin açılmasını istəmir. Elə ona goro da köhnə ar-vadım çağırtdınb, ona etibar edib.
+Zərnigar xanım bu sakit sualdan diksindi. O dəhşətli gün gözünün qabığına gəldi. Cahandar ağanın adam göndərib otııı çağırtdırtj Şahnigann mcyitinin yuyulmasım ona etibar etdiyitıi xatırladı. Arv baldızmın qanh sifətini görondə dəhşətə gəldi, giillə yarusına baxabil mədi. Onu titrətmə götürdü vo hər şeyi başa düşdü. Onu da anladı kj Cahandar ağa bu sirrin açılmasını istəmir. Elə ona goro da köhnə ar-vadım çağırtdınb, ona etibar edib.
 
 Zərnigar xanım cəsədi özü yudu, özü kəfənlədi. Yalnız bundan sonra qohum əqrəbanı meyitə yaxın buraxdılar. "Günahdır", – deyə kəfəni açmağa qoymadılar...
 
@@ -5743,7 +5743,7 @@ Zərnigar xanım bütün bu həqiqətləri açıb oğluna söyləyə bilməzdi.
 
 – Qismətdən artıq yemək olmaz, bala, görünür, Allahın əmri beləymiş. Olacağa çarə yoxdur.
 
-Arvad köksünü ötürdü. Əşrəf onun acizlikdənmi, mütilikdənmi, əlacsızlıqdanmı, yoxsa böyük bir qəlbə malik olub, hər şeyi bağışlamaq istədiyindənmi belə danışdığını ayırd edə bilmədi. O, anasi ilə atasını müqayisə etdi. Arvad öz mətanət və alicənablığı ilə onun nəzərində bir daha da böyüdü. Ona elə gəldi ki, anası hər şeyi Allaha, taleyə bağlamaqla özünü sakitləşdirir, sarsıntılara qalib gəlmək üçün mənəvi təskinlik axtarır.
+Arvad köksünü ötürdü. Əşrəf onun acizlikdənmi, mütilikdənmi, əlacsızlıqdanmı, yoxsa böyük bir qəlbə malik olub, hər şeyi bağışlamaq istədiyindənmi belə danışdığını ayırd edə bilmədi. O, anası ilə atasını müqayisə etdi. Arvad öz mətanət və alicənablığı ilə onun nəzərində bir daha da böyüdü. Ona elə gəldi ki, anası hər şeyi Allaha, taleyə bağlamaqla özünü sakitləşdirir, sarsıntılara qalib gəlmək üçün mənəvi təskinlik axtarır.
 
 – Bəndə yoldan çıxanda Allah nə eləsin, ana?
 
@@ -5811,7 +5811,7 @@ Qarşı tərəfdən bir atlı gəlirdi. Əşrəf bunu görüb evlərinin qənş�
 
 – Deyəcəksən. Əsl müəllim sən olacaqsan. Mən kiməm? Poçt Əhməd, vəssalam. Amma sən Qori seminariyasını bitirmiş bir müəllim olacaqsan. Yox, sənin qabağında dayanmaq olmaz. Əşrəf koxa, yaxşı, bəs, yaylağa haçan gedirsən?
 
-– Sabahda, biri gündə yola düşərlər. Ancaq mən getmeyəcəyəm.
+– Sabahda, biri gündə yola düşərlər. Ancaq mən getməyəcəyəm.
 
 – Niyə?
 
@@ -5845,7 +5845,7 @@ Qarşı tərəfdən bir atlı gəlirdi. Əşrəf bunu görüb evlərinin qənş�
 
 Əhməd atını minib xır yoluna doğru çapdı. Əşrəf onu gözü ilə xeyli müşayiət etdi və evlərinə sarı yollandı.
 
-Cahandar ağa eyvanda oturmuşdu. Məhəccərə dirsəklənərək, həyətdə, talvarın altında, arabaların qolunu, tarını, taxtalarını yoxlayıb oxunu mazutlayan, dəyə tikmək üçün meşədən kəsib getirdikləri çu-
+Cahandar ağa eyvanda oturmuşdu. Məhəccərə dirsəklənərək, həyətdə, talvarın altında, arabaların qolunu, tarını, taxtalarını yoxlayıb oxunu mazutlayan, dəyə tikmək üçün meşədən kəsib gətirdikləri çu-
 
 @@ 217
 
@@ -5859,13 +5859,13 @@ Qulluqçulardan biri samovardan çay süzüb, məhəccərin üstünə qoydu. Ya�
 
 @@ 218
 
->>sümürdü. Ağ tüstü lay-lay havaya qalxıb, onun başının ətrafında dolandı. O, oğlu ilə söhbət etmək istəyirdi. Ancaq sözü necə, nədən başlayacağını bilmirdi. Onun fikri də papirosundan çıxan tüstü kimi bir-birinə qarımışdı. Hamı ilə açıq söhbət edən Cahandar ağa indi Əşrəflə, bir parça uşaqla dil tapa bilmirdi. O elə zənn edirdi ki, Əşrəf Qoridən qayıdandan sonra yenə evdə qalmaqal olacaqdır. Ancaq onun gözlədiyinin əksinə, Əşrəf atasından heç nə soruşmadı. Anasının yanında üç gün qaldıqdan sonra evə qayıtdi. Sakitcə hərlənməyə başladı, Onun fikrindən nələr keçdiyini bilmək çox çətin idi. Cahandar ağanı da narahat edən elə bu idi. Baxışı ilə hamını titrədən bu zəhmli kişi bığ yeri yenicə tərləmiş bu uşağın lal sükutundan qorxurdu. Cahandar ağa papirosunu tüstülədib sussa da, həyəcan keçirirdi. O bu saat geri yanında da, bir cüt gözünün olmasını, oğlunun hər bir balaca hərəkətini nəzərdən qaçırmamağı arzu edirdi. Nəhayət, o bu sükuta dözə bilmədi. Oğluna tərəf üzünü belə çevirmədən astadan, lakin qəti tələbkarlıqla soruşdu:
+>>sümürdü. Ağ tüstü lay-lay havaya qalxıb, onun başının ətrafında dolandı. O, oğlu ilə söhbət etmək istəyirdi. Ancaq sözü necə, nədən başlayacağını bilmirdi. Onun fikri də papirosundan çıxan tüstü kimi bir-birinə qarımışdı. Hamı ilə açıq söhbət edən Cahandar ağa indi Əşrəflə, bir parça uşaqla dil tapa bilmirdi. O elə zənn edirdi ki, Əşrəf Qoridən qayıdandan sonra yenə evdə qalmaqal olacaqdır. Ancaq onun gözlədiyinin əksinə, Əşrəf atasından heç nə soruşmadı. Anasının yanında üç gün qaldıqdan sonra evə qayıtdı. Sakitcə hərlənməyə başladı, Onun fikrindən nələr keçdiyini bilmək çox çətin idi. Cahandar ağanı da narahat edən elə bu idi. Baxışı ilə hamını titrədən bu zəhmli kişi bığ yeri yenicə tərləmiş bu uşağın lal sükutundan qorxurdu. Cahandar ağa papirosunu tüstülədib sussa da, həyəcan keçirirdi. O bu saat geri yanında da, bir cüt gözünün olmasını, oğlunun hər bir balaca hərəkətini nəzərdən qaçırmamağı arzu edirdi. Nəhayət, o bu sükuta dözə bilmədi. Oğluna tərəf üzünü belə çevirmədən astadan, lakin qəti tələbkarlıqla soruşdu:
 
 – Hara getmişdin?
 
 – Qəbristanlığa.
 
-Cahandar ağanın altındakı stul cırıldadı. Kişi yıxılacağından qorxurmuş kimi dirsəklərini məhəccərə söykədi və yumruqlarını gicgahlarına dayadı. Onun sol yumruğundakı müştüyün ucunda yanan papirosun tüstüsü laylanıb papağının qivrım tükləri arasına doldu. Əşrəf atasının daxili bir ağrıdan qovrulan adamlar kimi sinəsini məhəccərə söykəyib, bir az da büzüşdüyünü hiss etdi. Korun-koruna yanan papirosun külü uzandı. Od müştüyə çatdısa da, Cahandar ağa bunun fərqinə varmadı. Kül ovxalanıb onun çiyninə töküldü. Kişi yerindən tərpənmədi. Bunlara diqqətlə göz qoyan Əşrəf atasının gicgahlarındakı ağ tüklərin çoxaldığını gördü. Bir neçə ay əvvəl, qış tətili zamanı bunlar yox idi. Əşrəf atasının geri dönüb daha nə isə soruşacağını gözlədi. Ancaq Cahandar ağa dinmədi.
+Cahandar ağanın altındakı stul cırıldadı. Kişi yıxılacağından qorxurmuş kimi dirsəklərini məhəccərə söykədi və yumruqlarını gicgahlarına dayadı. Onun sol yumruğundakı müştüyün ucunda yanan papirosun tüstüsü laylanıb papağının qıvrım tükləri arasına doldu. Əşrəf atasının daxili bir ağrıdan qovrulan adamlar kimi sinəsini məhəccərə söykəyib, bir az da büzüşdüyünü hiss etdi. Korun-koruna yanan papirosun külü uzandı. Od müştüyə çatdısa da, Cahandar ağa bunun fərqinə varmadı. Kül ovxalanıb onun çiyninə töküldü. Kişi yerindən tərpənmədi. Bunlara diqqətlə göz qoyan Əşrəf atasının gicgahlarındakı ağ tüklərin çoxaldığını gördü. Bir neçə ay əvvəl, qış tətili zamanı bunlar yox idi. Əşrəf atasının geri dönüb daha nə isə soruşacağını gözlədi. Ancaq Cahandar ağa dinmədi.
 
 – Müştuyün yanır.
 
@@ -6027,11 +6027,11 @@ Kişi bu ağır düşüncələrlə, cığıra baxa-baxa, özü də hiss etmədə
 
 Bu sükut və kədər kişinin qəlbində bir az əvvəl baş qaldıran sevincini qovub apardısa da, sahildən uzaqlaşmadı. Güləsərin də burada olacağı ümidi onu yerindən tərpənməyə qoymadı. Kişi birdən-birə dirçəldi. Qaçırılandan bəri üzünə həsrət qaldığı qızını heç olmasa uzaqdan görə bilmək, bəlkə də yaxınlaşıb kefini soruşa bilmək arzusu onun gözlərinə işıq gətirdi.
 
-Suya gələnlər səhənglərini doldurub dikdirə çıxdılar. O, gözünu zilləyib arvadlara baxdı. Ona elə gəldi ki, Güləsər çiynində səhəng, bu saat suvadağdan yuxarı qalxacaqdır. Kişinin gözü alacalandı. Qarşısından keçənlərin sifəti dumana büründü, əvəzində isə məzlum çöhrəli Güləsər canlandı. Lakin qızlar durna kimi qatarlaşıb cığırla dikdirə
+Suya gələnlər səhənglərini doldurub dikdirə çıxdılar. O, gözünü zilləyib arvadlara baxdı. Ona elə gəldi ki, Güləsər çiynində səhəng, bu saat suvadağdan yuxarı qalxacaqdır. Kişinin gözü alacalandı. Qarşısından keçənlərin sifəti dumana büründü, əvəzində isə məzlum çöhrəli Güləsər canlandı. Lakin qızlar durna kimi qatarlaşıb cığırla dikdirə
 
 @@ 224
 
->>qalxanda, Qoca kişi ümidinin boşa çıxdığını anladı. O başa düşdü ki, həsrət qövr edən yaralar kimi qəlbinin başını göynədir. Kişi birdən-birə irəli qaçmaq, gəlinlərdən birini saxlayıb, Güləsəri görüb-görmədiklərini soruşmaq istədi. Ancaq susdu, bunu qüruruna sığışdırmadı. Torlanmış gözəri yaşardı, qolları yanına düşdü. Elə bu zaman hiss etdi ki, kimsə geri yanında astadan tövşüyür. Kişi çevrildi. Salatın çiynində səhəng, yarğanın qaşında duyanmışdı. Qızın gözləri gülümsəsə də, bir yerdə dura bilmir, civə kimi sağa-sola qaçırdı. O gah kirpiklərini çaxıb göz qapaqlarını aşağı salır, gah ötəricə kişiyə baxır, gah da nəzərini yerə zilləyirdi. Elə bil nədənsə çəkinir, qabağa gəlib söz deməyə cəsarəti catmırdı. Qoca kişi də, demək olar ki, eyni halı keçirirdi. Salatını görəndən sonra necə hərəkət edəcəyini müəyyənləşdirə bilmirdi. Dinməz-söyləməz ötüb getsinmi, yoxsa qızı gülərülə dindirib Güləsəri soruşsunmu?. Kişi xeyli susdu. Salatının yanaqları gah qızarır, gah da ağarırdı. Əgər Qoca kişi diqqətlə baxsaydı, onun gözlərində xəcalət çəksə bir adamın iztirablarını oxuyardı. Salatın ixtiyar bir adamı dərdə saldıqlarına görə qardaşının əvəzinə utanır, həm də eyni zamanda ona təsəlli vermək, sınıq könlünü şadlandırmaq istəyirdi. Kişi isə ürəyi dolu olsa da susurdu.
+>>qalxanda, Qoca kişi ümidinin boşa çıxdığını anladı. O başa düşdü ki, həsrət qövr edən yaralar kimi qəlbinin başını göynədir. Kişi birdən-birə irəli qaçmaq, gəlinlərdən birini saxlayıb, Güləsəri görüb-görmədiklərini soruşmaq istədi. Ancaq susdu, bunu qüruruna sığışdırmadı. Torlanmış gözəri yaşardı, qolları yanına düşdü. Elə bu zaman hiss etdi ki, kimsə geri yanında astadan tövşüyür. Kişi çevrildi. Salatın çiynində səhəng, yarğanın qaşında duyanmışdı. Qızın gözləri gülümsəsə də, bir yerdə dura bilmir, civə kimi sağa-sola qaçırdı. O gah kirpiklərini çaxıb göz qapaqlarını aşağı salır, gah ötəricə kişiyə baxır, gah da nəzərini yerə zilləyirdi. Elə bil nədənsə çəkinir, qabağa gəlib söz deməyə cəsarəti çatmırdı. Qoca kişi də, demək olar ki, eyni halı keçirirdi. Salatını görəndən sonra necə hərəkət edəcəyini müəyyənləşdirə bilmirdi. Dinməz-söyləməz ötüb getsinmi, yoxsa qızı gülərülə dindirib Güləsəri soruşsunmu?. Kişi xeyli susdu. Salatının yanaqları gah qızarır, gah da ağarırdı. Əgər Qoca kişi diqqətlə baxsaydı, onun gözlərində xəcalət çəksə bir adamın iztirablarını oxuyardı. Salatın ixtiyar bir adamı dərdə saldıqlarına görə qardaşının əvəzinə utanır, həm də eyni zamanda ona təsəlli vermək, sınıq könlünü şadlandırmaq istəyirdi. Kişi isə ürəyi dolu olsa da susurdu.
 
 – Nə var, nə yox, Qoca dayı?
 
@@ -6055,9 +6055,9 @@ Salatın susdu. Kişinin kövrək səsi onu da qüssələndirdi. Güləsərin at
 
 @@ 225
 
->>aralanan Salatın onu təskin etmək üçün söz tapa bilmirdi. Elə bil kişnin də nitqi tutulmuşdu. Qız darıxdı. Qıvrıla-qıvrıla çəmənliyin ortasından keçib kəndə doğru uzanan cığırda dayananlar onu gözləyirdlər.
+>>aralanan Salatın onu təskin etmək üçün söz tapa bilmirdi. Elə bil kişinin də nitqi tutulmuşdu. Qız darıxdı. Qıvrıla-qıvrıla çəmənliyin ortasından keçib kəndə doğru uzanan cığırda dayananlar onu gözləyirdilər.
 
-– Sözun, söhbətin, Qoca dayı?
+– Sözün, söhbətin, Qoca dayı?
 
 Kişi Salatının getmək istədiyini anladı. Belə münasib fürsəti əldən verəcəyindən qorxdu. Boynunu yana doğru əyib qızın üzünə baxdı:
 
@@ -6071,7 +6071,7 @@ Kişi Salatının getmək istədiyini anladı. Belə münasib fürsəti əldən 
 
 Kişi başını tərpətdi. Salatın üzünə zillənən gözlərdəki xırdaca nazik damarları gördü. Qarasının ətrafını bozumtul ağ basmış gözlərin həlqəsi yaşarmışdı. İslaq kirpiklərin dibi qızarmışdı. Bəbəklər ən ucqar ulduzlar kimi gah kiçilib solğunlaşır, gah da qığılcım kimi qorlanıb parıldayırdı. Ürəyinin çırpıntısına uyğun olaraq gah güclənib közərən, gah da zəifləyib güclə işıldayan gözlərə diqqətə baxan Salatın dərk etdi ki, həsrətdən ürəyi zoqquldayan, balasından ötəri burnunun ucu göynəyən bu talesiz qocanın axıra qədər ayaq üstündə dayanıb-dayana bilməməsi onun cavabından asılıdır. Əgər Salatın onun xahişini rədd etsə, ayaq üstündə keçinəcəkdir. Qız iki od arasında qalmışdı. Bibisinin ölümündən sonra atasının gözünə görünmək olmurdu. Qardaşı Şamxalın qaşqabağı açılmırdı. Onlar dava üçün bir bəhanə axtarırdılar. Belə bir vaxtda qardaşından icazəsiz Güləsəri evdən bayıra çıxartsa, qızı gizlincə atasi ilə görüşdürsə, Şamxal bundan xəbər tutsa, onun saçından yapışıb kəndin ortası ilə sürüməzmi? Güləsəri də ona qatıb çubuğun altına salmazdımı? Bəs bu yazıq Qoca kişi neyləsin, onun günahı nədir?
 
-Salatının sükutu Qoca kişiyə bir il qədər uzun göründü. Qız xeyli tərədüddən sonra onun yanından ötüb getmək istəyəndə kişiyə ele gəldi ki, ürəyini çəkib yerindən qopartdılar, nəfəsi daralıb sinəsinin başına yığıldı. Dillənmək istədisə də səsi çıxmadı. Salatın ondan aralanıb beş altı addım gedəndən sonra bunları duymuş kimi qanrılıb geri baxdı.
+Salatının sükutu Qoca kişiyə bir il qədər uzun göründü. Qız xeyli tərəddüddən sonra onun yanından ötüb getmək istəyəndə kişiyə ele gəldi ki, ürəyini çəkib yerindən qopartdılar, nəfəsi daralıb sinəsinin başına yığıldı. Dillənmək istədisə də səsi çıxmadı. Salatın ondan aralanıb beş altı addım gedəndən sonra bunları duymuş kimi qanrılıb geri baxdı.
 
 – Qoca dayı...
 
@@ -6095,11 +6095,11 @@ Kişi beləcə, su ilə oynaya-oynaya xeyli gözlədi. Gəmini o taya keçirməl
 
 @@ 227
 
->>bısının üstünü örtürdü. Yaşıl yelənli qara kəlağayısı sürüşüb çiyninə düşmüşdü. Qızın qulağındakı qızıl sırğalar boynundakı damarların zərifcə vurmasına uyğun olaraq titrəyirdi. Zil qara saçı ortadan ayrılmış Kişi duruxdu. Nə qədər çalışdısa da, əvvəlki Güləsəri xəyalından çıxarda bilmədi. Azca buxaq bağlamış ağ bənizi, qolu bilərzikli bu gəlinin öz qızı olduğuna şübhə etdi. Arıq bir qızın ərə gedəndən sonra, az bir vaxtın içində bu qədər gözəlləşməsini kişi ağlına sığışdıra bilmirdi. Güləsər atasının yad bir adam kimi dayanıb boylanmasına dözə bilmədi. Qollarını açıb kişinin boynunu qucaqladı. Hıçqıra-hıçqıra atasının üz-gözündən öpdü. Onun damarları çıxmış əllərini yanağına yapışdırıb göz yaşı ilə islatdı.
+>>bığının üstünü örtürdü. Yaşıl yelənli qara kəlağayısı sürüşüb çiyninə düşmüşdü. Qızın qulağındakı qızıl sırğalar boynundakı damarların zərifcə vurmasına uyğun olaraq titrəyirdi. Zil qara saçı ortadan ayrılmış Kişi duruxdu. Nə qədər çalışdısa da, əvvəlki Güləsəri xəyalından çıxarda bilmədi. Azca buxaq bağlamış ağ bənizi, qolu bilərzikli bu gəlinin öz qızı olduğuna şübhə etdi. Arıq bir qızın ərə gedəndən sonra, az bir vaxtın içində bu qədər gözəlləşməsini kişi ağlına sığışdıra bilmirdi. Güləsər atasının yad bir adam kimi dayanıb boylanmasına dözə bilmədi. Qollarını açıb kişinin boynunu qucaqladı. Hıçqıra-hıçqıra atasının üz-gözündən öpdü. Onun damarları çıxmış əllərini yanağına yapışdırıb göz yaşı ilə islatdı.
 
 – Qurban olum, ay dədə, nə yaxşı məni yadına saldın?
 
-Kişi yalnız qızının səsini eşidəndən sonra dirçəldi. Güləsərin başını sinəsinə sıxıb, saçını sığalladı. Gözündən gilələnib süzülmək istəyən yaşını geri qaytarıb sinəsinə axıtdı. Susdu. Qızının da, özünün də sakitləşməsini gözlədi. Bir az əvvəl hiss etdiyi yadlıq yox oldu. Bərli-bəzəkli, telli-toqqalı gəlin gözünün qabağından çəkilib getdi, əvəzinə isə sinəsinə qısılmış dəcəl qızı Güləsər gəldi. Kişi onun titrək səsinin dəyişmədiyini, mışıltısının əvvəlki kimi doğma olduğunu duydu. Saçının qoxusundan, bədəninin ətrindən hiss etdi ki, onun qoynuna sığınan, həsrətini çəkdiyi doğma qızı Güləsərdir. O qətiyyən dəyişməyib, yenə əvvəlki kimi atasına mehribandir.
+Kişi yalnız qızının səsini eşidəndən sonra dirçəldi. Güləsərin başını sinəsinə sıxıb, saçını sığalladı. Gözündən gilələnib süzülmək istəyən yaşını geri qaytarıb sinəsinə axıtdı. Susdu. Qızının da, özünün də sakitləşməsini gözlədi. Bir az əvvəl hiss etdiyi yadlıq yox oldu. Bərli-bəzəkli, telli-toqqalı gəlin gözünün qabağından çəkilib getdi, əvəzinə isə sinəsinə qısılmış dəcəl qızı Güləsər gəldi. Kişi onun titrək səsinin dəyişmədiyini, mışıltısının əvvəlki kimi doğma olduğunu duydu. Saçının qoxusundan, bədəninin ətrindən hiss etdi ki, onun qoynuna sığınan, həsrətini çəkdiyi doğma qızı Güləsərdir. O qətiyyən dəyişməyib, yenə əvvəlki kimi atasına mehribandır.
 
 – Səni yaddan çıxartmaq olarmı, bala?
 
@@ -6139,7 +6139,7 @@ Qoca kişi gözünü qızından cəkib üzünə, düymələri çozələnmiş cı
 
 Güləsər Qoca kişinin etirazına baxmayaraq, mehriban və doğma bir adam ərkyanalıği ilə əlini atasının yaxasına uzatdı:
 
-– Yaxşı, soyunma, ancaq diymələrini tikəcəm.
+– Yaxşı, soyunma, ancaq düymələrini tikəcəm.
 
 Güləsər kişiyə dinməyə imkan vermədən işinə başladı. O, qızının nəfəsini sinəsində duydu. Saçının qoxusu burnunu qıdıqladı. Güləsərin barmaqları onun yaxasını açdı. Bir az əvvəlki yadlıq və utancaqlıq yox oldu. Hər ikisi özünü sərbəst hiss etdi. Hətta Güləsər əvvəllər olduğu kimi gülüb, zarafata başladı. Atasının könlünü almağa çalışdı:
 
@@ -6163,7 +6163,7 @@ Güləsərin təəccübünə cavan olaraq kişi qızına sataşmağı, əvvəll�
 
 – Mən elə demək istəmirəm, ay dədə...
 
-Güləsərin qaşları çatıldı. Atasının zarafatı cavabsız qaldı. Kişı özü də bunu hiss edib susdu.
+Güləsərin qaşları çatıldı. Atasının zarafatı cavabsız qaldı. Kişi özü də bunu hiss edib susdu.
 
 – Çərkəz nə təhərdir?
 
@@ -6217,7 +6217,7 @@ Dəstə kənddən xeyli aralandı. Camaat onların Tiflisə ötüb keçdiklərin
 
 Əhməd səs-küyə evdən çıxdı. O, yarlı yaraqlı kazakları görəndə ani olaraq Peterburqu xatırladı. Bədənində soyuq bir gizilti keçdi. Onların nə üçün bura gəldiklərini anlamadığıdan, xəyalına yüz cür qorxulu fikir gəldi. Atdan enib əlində qamçı oynadan enlikürək, ucaboy, saqqalı sinəsinə yayılmış kazak ona yaxınlaşıb,birdən-birə bağırdı:
 
-– Ey tatar, yakşı yaman, kladi karman. Ni bilmez, ni bum-bum?
+– Ey tatar, yaxşı yaman, kladi karman. Ni bilmez, ni bum-bum?
 
 Bu acı, təhqiramiz söz elə bil Əhmədi silkələyib ayıltdı. O, gözünü qarşısında dayanıb istehza ilə ona baxan kazakın üzünə zillədi və xalis rus dilində:
 
@@ -6249,7 +6249,7 @@ Onlar Əbmədi qabaqlarına qatıb içəri apardılar. Diqqətlə bir-bir otaqla
 
 – Lazım olur, lazım olur. Az danış. Stulları bayıra çıxart.
 
-Kazakın sifəti dəyişdi. Az qaldı baxışları ilə Əhmədi yesin. Hətta əilini yuxarı qaldırıb şallağını belə hərləmək istədi. Ancaq pristavın eyvanda dayandığını görüb əlini saxladı.
+Kazakın sifəti dəyişdi. Az qaldı baxışları ilə Əhmədi yesin. Hətta əlini yuxarı qaldırıb şallağını belə hərləmək istədi. Ancaq pristavın eyvanda dayandığını görüb əlini saxladı.
 
 Kazaklar stultarı götürdülər. Eyvanda, məhəccərin qabağında kölgə yerə düzdülər. Pristav və yoldaşları əyləşdilər. Onlar kitellərinin yaxasını açdılar. Dəsmalla boyunlarını, şapkalarının içini quruladılar. Pristav hətta daz başının tərini sildi. Kür tərəfdən əsən sərin meh otları, çiçəkləri sığallaya-sığallaya "Zayej"ə qədər gəldi. Elə bil eyvanda oturanları yellədilər.
 
@@ -6395,9 +6395,9 @@ Pristav ayağa durdu. Bir xeyli sükutla dayanıb, onun nə deyəcəyini gözlə
 
 – Camaat, Kürün o üzündəki meşə bundan sonra padşahın ov yeri olacaq. Oraya yaxın getmək, qoruğa girmək qadağandır. Sizi xəbərdar edirəm, kim qanunu pozsa, icazəsiz o tərəflərə hərlənsə, meşədə ov eləsə, cəzalanacaq. Ələ keçəni birbaş Sibirə göndərəcəyəm. Qoruğun keşikçilərinin sözünə baxmayanlar yerindəcə güllələnəcək.
 
-Pristav susdu. Sözünün camaata necə təsir etdiyini yoxlamaq məqsədi ilə adamları bir-bir gözaltı süzdü. O gördü ki, hamı təəccüb içindədir. Ağsaqqallar fikirli-fikirli başlarını aşaği salmışdılar. Cahandar ağa isə papirosunu tüstülədirdi, Molla Sadıq isə təsbeh çevirməyə ara vermirdi. Elə bil camaatın üstünə su ələnmişdi.
+Pristav susdu. Sözünün camaata necə təsir etdiyini yoxlamaq məqsədi ilə adamları bir-bir gözaltı süzdü. O gördü ki, hamı təəccüb içindədir. Ağsaqqallar fikirli-fikirli başlarını aşağı salmışdılar. Cahandar ağa isə papirosunu tüstülədirdi, Molla Sadıq isə təsbeh çevirməyə ara vermirdi. Elə bil camaatın üstünə su ələnmişdi.
 
-Əhməd pristavın dediklərini tərcümə etdikdən sonra Molla Sadıq adəti üzrə əbasıni çiynində düzəltdi, Quran oxuyacaqmış kimi bir-iki dəfə öskürüb boğazını arıtladı:
+Əhməd pristavın dediklərini tərcümə etdikdən sonra Molla Sadıq adəti üzrə əbasını çiynində düzəltdi, Quran oxuyacaqmış kimi bir-iki dəfə öskürüb boğazını arıtladı:
 
 @@ 237
 
@@ -6507,7 +6507,7 @@ Göytəpəlilərin ağsaqqalları Əhmədin cəsarətinə təəccüb edirdilər.
 
 – Bizi incitməyin.
 
-Pristav susdu. Əhmədi sakit baxışlarla gözaltı süzdü. Əslində o elə kəndə gəlib Əhmədlə söhbət elədiyi ilk andarı ondan şübhələnmiş və qərara almışdı ki, şəhərə qayıdan kimi onun adını şübhəli adamlar siyahısına yazsın, ayrıca bir qovluq düzəltsin və Əhmədın üzərinə nəzarətçi qoysun. O, belə bir əqidədə idi ki, əgər sənə tapşırılan qəzada rahatlıq olmasını istəyirsənsə, gərək məktəbdən qovulmuş studentləri gözdən qoymayasan. Xüsusən də Peterburq tələbələrini. Ancaq, deyəsən, pristav daha ciddi hərəkət etməli olacaq və Əhmədi elə indi cəzalandıracaqdı.
+Pristav susdu. Əhmədi sakit baxışlarla gözaltı süzdü. Əslində o elə kəndə gəlib Əhmədlə söhbət elədiyi ilk andarı ondan şübhələnmiş və qərara almışdı ki, şəhərə qayıdan kimi onun adını şübhəli adamlar siyahısına yazsın, ayrıca bir qovluq düzəltsin və Əhmədin üzərinə nəzarətçi qoysun. O, belə bir əqidədə idi ki, əgər sənə tapşırılan qəzada rahatlıq olmasını istəyirsənsə, gərək məktəbdən qovulmuş studentləri gözdən qoymayasan. Xüsusən də Peterburq tələbələrini. Ancaq, deyəsən, pristav daha ciddi hərəkət etməli olacaq və Əhmədi elə indi cəzalandıracaqdı.
 
 O, kazaklara baxdı. Bayaqkı qıllıpapaq, yekəpər kazak irəli çıxdı. Pristavın səsi xırıldadı:
 
@@ -6541,7 +6541,7 @@ Kazaklar geri çəkildilər.
 
 ### Üçüncü hissə, 9
 
-Cahandar ağanın yuxusu qaçmışdı. Gecə yarıdan keçməsinə baxmayaraq yerin içində çevrilir, bundan sonra necə hərəkət etməli olacağını fikrində ölçüb-biçirdi. Onun savadı yox idi. Ərəb əlifbası ilə azacıq yazı-pozudan başqa heç nə bilmirdi. Məktəblərin, oxumağın axırının haraya gedıb çıxacağını o qədər də dərk etmirdi. O, dədə-baba qaydası ilə dolanmış, atın belində gəzib ağayanalıq etmişdi. Ancaq indi vəziyyət dəyişirdi. O başa düşürdü ki, deyəsən bundan sonra divan-dərə ilə çox oturub-durmalı olacaqlar. Əvvəllər bu tərəfləri hökumət adamlarından ayda-ildə bir dəfə hərlənən olmazdı. Amma indi bir şey olan kimi atlı kazaklar tökülüb gəlir. Belə getsə onlar buraları su yoluna çevirəcək, kəndi ayaq altına qoyacaq və hər işə qarışacaqlar. Bir az da keçəndən sonra lap kişiliyimizi də əlimizdən alacaqlar. Pristav həftədə bir gəlib bizi yığacaq, qabağına qoyub uşaq kimi danlayacaq, biz də mal təkin gözümüzü döyə-döyə baxacağıq. Yox, bu, kişilikdən deyil.
+Cahandar ağanın yuxusu qaçmışdı. Gecə yarıdan keçməsinə baxmayaraq yerin içində çevrilir, bundan sonra necə hərəkət etməli olacağını fikrində ölçüb-biçirdi. Onun savadı yox idi. Ərəb əlifbası ilə azacıq yazı-pozudan başqa heç nə bilmirdi. Məktəblərin, oxumağın axırının haraya gedib çıxacağını o qədər də dərk etmirdi. O, dədə-baba qaydası ilə dolanmış, atın belində gəzib ağayanalıq etmişdi. Ancaq indi vəziyyət dəyişirdi. O başa düşürdü ki, deyəsən bundan sonra divan-dərə ilə çox oturub-durmalı olacaqlar. Əvvəllər bu tərəfləri hökumət adamlarından ayda-ildə bir dəfə hərlənən olmazdı. Amma indi bir şey olan kimi atlı kazaklar tökülüb gəlir. Belə getsə onlar buraları su yoluna çevirəcək, kəndi ayaq altına qoyacaq və hər işə qarışacaqlar. Bir az da keçəndən sonra lap kişiliyimizi də əlimizdən alacaqlar. Pristav həftədə bir gəlib bizi yığacaq, qabağına qoyub uşaq kimi danlayacaq, biz də mal təkin gözümüzü döyə-döyə baxacağıq. Yox, bu, kişilikdən deyil.
 
 Bəs nə etməli? Pristav demişkən, hökumətlə hökumətlik eləmək də baş tutan iş deyil. Deyəsən, zəmanə dəyişir. Deyəsən, divan-dərədən qaçanlar yox, onunla yaxın olanlar, ona arxalananlar qazanacaqlar. Bu
 
@@ -6549,7 +6549,7 @@ Bəs nə etməli? Pristav demişkən, hökumətlə hökumətlik eləmək də ba�
 
 >>dəfə birtəhər qurtardıq. Pristava söz verdik ki, bir də elə şeylər olmaz. Uşaqlar bilməyiblər, yoxsa kazaklara toxunmazdılar. O da boynumuza, minnət qoydu, "bu dəfə bağışlayıram", – dedi. Demək, bundan sonra gərək onların dediyi ilə oturub-duraq, onlara boyun əyək. Görüm səni qara gələsən, ay zəmanə!..
 
-Cahandar ağa yanı üstə çevrildi. Yorğanı yuxarı çəkdi. "Obaşdan köc yola düşəcək, bir az yatmaq lazımdır", – deyə düşündü. Yastığının ortasını çökəldib başının altına qoydu. Gözlərini yumdu. Ancaq yenə yata bilmədi. "Əhməd kimdir? Qəribin biri, Allah bilir, bəlkə heç əlinə tüfəng alıb bir güllə də atmayıb. Ancaq necə də diri-diri danışırdı. Heç nedən qorxmurdu. Deyəsən, Əşrəfin özü də dəyişib. Deyəsən, at çapıb, tüfəng oynatmağın vaxtı keçır, axı?!" Kişi dəhşətə gəldi. Yerinə qor dolmuş kimi bədəni alışdı. Beyni güyüldədi. Dərindən köksünü ötürdü. "Ay gidi dünya, gör axırın hara gəlib çıxdı!"
+Cahandar ağa yanı üstə çevrildi. Yorğanı yuxarı çəkdi. "Obaşdan köc yola düşəcək, bir az yatmaq lazımdır", – deyə düşündü. Yastığının ortasını çökəldib başının altına qoydu. Gözlərini yumdu. Ancaq yenə yata bilmədi. "Əhməd kimdir? Qəribin biri, Allah bilir, bəlkə heç əlinə tüfəng alıb bir güllə də atmayıb. Ancaq necə də diri-diri danışırdı. Heç nedən qorxmurdu. Deyəsən, Əşrəfin özü də dəyişib. Deyəsən, at çapıb, tüfəng oynatmağın vaxtı keçir, axı?!" Kişi dəhşətə gəldi. Yerinə qor dolmuş kimi bədəni alışdı. Beyni güyüldədi. Dərindən köksünü ötürdü. "Ay gidi dünya, gör axırın hara gəlib çıxdı!"
 
 Cahandar ağa durub oturdu. Papiros eşdi. Yastığa dirsəklənərək acgözlüklə sümürməyə başladı.
 
@@ -6557,11 +6557,11 @@ O bu qarışıq fikirləri özündən qovlamaq üçün köç haqqında düşünd
 
 Şahnigar qapını açıb astanada dayandı. Boynunu büküb məlul-məlul qardaşının üzünə baxdı. "Qabağında ölüm, ay qardaş, nə yaman fikirlisən", – dedi. Sonra astaca, sanki kimisə oyadacağından qorxurmuş kimi, barmaqlarının ucunda içəri girdi. Gəlib taxtın aşağı tərəfində dayandı. Yazıq-yazıq dilləndi: "Dağa havaxt köçürsünüz, dərdin alım? Bə məni aranda qoyursunuz? Demirsənmi bacım aranda istidən bişər? Yoxsa elə bilirsən qara torpaq sərin olur?"
 
-Cahandar ağa dillənə bilmədi. Daş kimi dayanıb bacısınm üzünə baxdı. Birdən Şahnigarın gözlərində həyəcan göründü. Arvad diqqətlə qardaşını süzdü. Onun səsi titrədi. "Ömrüm, günüm, nə yaman sınıxmısan? Niyə belə qaşqabaqlısan? Allah mənciyəzi yerə soxsun, səni də dərdə saldım. Deyəsən, yuxusuz qalıbsan, rəngin-rufun qaçıb-gözün də yaman qızarıb. Bilirəm, Şamxal düz iş tutmadı. Amma acığına gəlməsin, ay qardaş səndə də bir az taqsır oldu. Adam da öz
+Cahandar ağa dillənə bilmədi. Daş kimi dayanıb bacısını üzünə baxdı. Birdən Şahnigarın gözlərində həyəcan göründü. Arvad diqqətlə qardaşını süzdü. Onun səsi titrədi. "Ömrüm, günüm, nə yaman sınıxmısan? Niyə belə qaşqabaqlısan? Allah mənciyəzi yerə soxsun, səni də dərdə saldım. Deyəsən, yuxusuz qalıbsan, rəngin-rufun qaçıb-gözün də yaman qızarıb. Bilirəm, Şamxal düz iş tutmadı. Amma acığına gəlməsin, ay qardaş səndə də bir az taqsır oldu. Adam da öz
 
 @@ 242
 
->>dogma balasını yad qızından ötəri ayağının altına salıb çığnayardımı? Arvad-uşağını evindən didərgin salardımı? Vallah, Zərnigarda günah yoxdur. Onun yerinə kim olsa, elə lap mən özüm də olsam, evə dava-dalaş salardım. Adamın üstünə günü gəlməyi sənə asanmı gəlir, ay qardaş? Axı sən onunla neçə ildir bir yastığa baş qoyurdun! Sən onun gözünün ilk ovu, qəlbinin ilk çiçəyi idin. İndi nə eləmək olar? Olan olub, keçən keçib. Ancaq özünü üzmə, ay qardaş. Allah sənə insaf versin, acığın tutub gözün qızışanda heç irəlini-gerini fikirləşmirsən? Yoxsa mənim sözlərimdən inciyirsən? İncimə, mən sənin heç ayağına da daş dəyməsini istəmirəm. Bacın ölsün, ay qardaş, üzüm ayaqlarıyın altına, özünü üzmə. Bilirəm məndən də yanıqlısan. Elə hey fikirləşirsən ki, görəsən Şahnigarın taqsırı varmı, müridlərdən əl-ayağı dəyən olubmu? Mənim namusumu ləkələməyiblər ki? O bircə canına and olsun ki, mən gül kimi tərtəmizəm, ay qardaş, heç elə şey olarmı? Heç sənin kimi bir kişinin bacısı da pis yola düşərmi? Özünü üzmə, dərdin alım, məndə heç nə yoxdur. Sən xasiyyətimi bilmirdinmi, elə uşaqlıqdan deyib-gülməyi sevmirdimmi? Başım batsın, bir az lateyr danışmağı, şit-şit zarafat etməyi tərgidə bilmirdim. Nə eləyim, Allah verən xasiyyət idi. Bir də görüm tanrının gözü tökülsün, pis-yaxşı bir kişiyə ərə getmişdim. Onu vaxtsız əlimdən almasaydı, bəlkə də bu işlər başıma gəlməzdi. Yoxsa sözlərimdən incidin, ay qardaş, niyə qaşqabağını turşaltdın? Mən sənin dərdini artırmağa gəlməmişəm. İstəyirəm hər şeyi bilib bir az yüngülləşəsən. Yoxsa peşmançılıq çəkirsən, mənim ölümümə dözmürsən'? Heç elə şeyi ağlına da gətirmə, ay qardaş, mənim səndən başqa kimim var? Heç səndən inciyərəmmi? Lap xəncərlə tikə-tikə doğrasan da uf deməzdim, o handa da güllə ola. Dərdin alım, elə şey nədir ki, ondan ötəri fikir eləyirsən, bir bacı bir qardaşa qurbandır. Mənim min canım olsaydı, təzədən sənə qurban deyərdim. Ürəyinə heç nə gəlməsin, ay qardaş, mən səndən zərrə qədər də inciməmişəm, ancaq gərək bir az səbr eləyəydin. Amma yaman insafsızsan. Qanqallar dizimə dolanda, mən ufuldayıb ağlayanda, atını saxlayıb bircə kərə halımı da soruşmadın".
+>>doğma balasını yad qızından ötəri ayağının altına salıb çığnayardımı? Arvad-uşağını evindən didərgin salardımı? Vallah, Zərnigarda günah yoxdur. Onun yerinə kim olsa, elə lap mən özüm də olsam, evə dava-dalaş salardım. Adamın üstünə günü gəlməyi sənə asanmı gəlir, ay qardaş? Axı sən onunla neçə ildir bir yastığa baş qoyurdun! Sən onun gözünün ilk ovu, qəlbinin ilk çiçəyi idin. İndi nə eləmək olar? Olan olub, keçən keçib. Ancaq özünü üzmə, ay qardaş. Allah sənə insaf versin, acığın tutub gözün qızışanda heç irəlini-gerini fikirləşmirsən? Yoxsa mənim sözlərimdən inciyirsən? İncimə, mən sənin heç ayağına da daş dəyməsini istəmirəm. Bacın ölsün, ay qardaş, üzüm ayaqlarıyın altına, özünü üzmə. Bilirəm məndən də yanıqlısan. Elə hey fikirləşirsən ki, görəsən Şahnigarın taqsırı varmı, müridlərdən əl-ayağı dəyən olubmu? Mənim namusumu ləkələməyiblər ki? O bircə canına and olsun ki, mən gül kimi tərtəmizəm, ay qardaş, heç elə şey olarmı? Heç sənin kimi bir kişinin bacısı da pis yola düşərmi? Özünü üzmə, dərdin alım, məndə heç nə yoxdur. Sən xasiyyətimi bilmirdinmi, elə uşaqlıqdan deyib-gülməyi sevmirdimmi? Başım batsın, bir az lateyr danışmağı, şit-şit zarafat etməyi tərgidə bilmirdim. Nə eləyim, Allah verən xasiyyət idi. Bir də görüm tanrının gözü tökülsün, pis-yaxşı bir kişiyə ərə getmişdim. Onu vaxtsız əlimdən almasaydı, bəlkə də bu işlər başıma gəlməzdi. Yoxsa sözlərimdən incidin, ay qardaş, niyə qaşqabağını turşaltdın? Mən sənin dərdini artırmağa gəlməmişəm. İstəyirəm hər şeyi bilib bir az yüngülləşəsən. Yoxsa peşmançılıq çəkirsən, mənim ölümümə dözmürsən'? Heç elə şeyi ağlına da gətirmə, ay qardaş, mənim səndən başqa kimim var? Heç səndən inciyərəmmi? Lap xəncərlə tikə-tikə doğrasan da uf deməzdim, o handa da güllə ola. Dərdin alım, elə şey nədir ki, ondan ötəri fikir eləyirsən, bir bacı bir qardaşa qurbandır. Mənim min canım olsaydı, təzədən sənə qurban deyərdim. Ürəyinə heç nə gəlməsin, ay qardaş, mən səndən zərrə qədər də inciməmişəm, ancaq gərək bir az səbr eləyəydin. Amma yaman insafsızsan. Qanqallar dizimə dolanda, mən ufuldayıb ağlayanda, atını saxlayıb bircə kərə halımı da soruşmadın".
 
 Cahandar ağa dözmədi. Üzünü əlləri ilə qapayıb ağzı üstə döşəndi. Birdən saçında bir əlin gəzdiyini hiss etdi.
 
@@ -6645,7 +6645,7 @@ Axırıncı arabalar kənddən aralanıb xır yoluna çıxdı. Çubuqlar, qamç�
 
 ### Üçüncü hissə, 10
 
-Göytəpəlilər iki gündən sonra Çayqovuşan adlı səfalı bir yerdə düşərgə saldılar. Arabaları yoldan kanara çəkib köpüklü dağ çayının sahilindəkı çəmənlikdə açdılar. İstidən təntimiş kəllər boyunduruğun altından çıxan kimi Özlərini suya verdilər. Fısıldaşa-fısıldaşa ləzzətlə çimdilər. Yol boyu arabaların sitkələyib yorduğu uşaqlar sevinə-sevinə qaçışmağa, yumru qara çay daşları ilə camışları yalamalamağa başladılar. Arvadlar arabaların kölgəsində palaz saldılar, yastıq, mütəkkə çıxartdılar. Kişilər balta götürüb yolun o üzündəki meşəyə, odun qırmağa getdilər. Molla Sadıqgil arabaları köçün o başında. Cahandar ağagil isə aşağı tərəfdə iri bir palıd ağacının altında açdılar. Ocaqlar qalandı, samovarlar çıxarıldı, kənddən tədarüksüz yola düşənlər xəmir yoğurub sac asdılar. Bəzi arabaların yanında qazan danqıldadı, yağda qızardılmış soğan iyi ətrafa yayıldı.
+Göytəpəlilər iki gündən sonra Çayqovuşan adlı səfalı bir yerdə düşərgə saldılar. Arabaları yoldan kənara çəkib köpüklü dağ çayının sahilindəki çəmənlikdə açdılar. İstidən təntimiş kəllər boyunduruğun altından çıxan kimi Özlərini suya verdilər. Fısıldaşa-fısıldaşa ləzzətlə çimdilər. Yol boyu arabaların sitkələyib yorduğu uşaqlar sevinə-sevinə qaçışmağa, yumru qara çay daşları ilə camışları yalamalamağa başladılar. Arvadlar arabaların kölgəsində palaz saldılar, yastıq, mütəkkə çıxartdılar. Kişilər balta götürüb yolun o üzündəki meşəyə, odun qırmağa getdilər. Molla Sadıqgil arabaları köçün o başında. Cahandar ağagil isə aşağı tərəfdə iri bir palıd ağacının altında açdılar. Ocaqlar qalandı, samovarlar çıxarıldı, kənddən tədarüksüz yola düşənlər xəmir yoğurub sac asdılar. Bəzi arabaların yanında qazan danqıldadı, yağda qızardılmış soğan iyi ətrafa yayıldı.
 
 @@ 246
 
@@ -6689,7 +6689,7 @@ Yarpızını da çox eləyəcəm. Oxuduğun yerdə sizə dovğa bişirirlərmi?
 
 @@ 247
 
-– Azdı, bə nə? Heç fikir eləmə. Bu yay sənə özüm qulluq eləyecəyəm. Gərək səni o qədər kökəldəm ki, lap motala dönəsən.
+– Azdı, bə nə? Heç fikir eləmə. Bu yay sənə özüm qulluq eləyəcəyəm. Gərək səni o qədər kökəldəm ki, lap motala dönəsən.
 
 – Sonra partlayaram.
 
@@ -6733,7 +6733,7 @@ Yarpızını da çox eləyəcəm. Oxuduğun yerdə sizə dovğa bişirirlərmi?
 
 – Siznən qız da oxuyurmu?
 
-– Yox, qızların ayrıca məktəbi var. – Əşrəf bacısının qolundan tutdu. Özü kənara çıxıb onu cığıra saldı. Yanaşı getməyə başladılar. Bir xeylı
+– Yox, qızların ayrıca məktəbi var. – Əşrəf bacısının qolundan tutdu. Özü kənara çıxıb onu cığıra saldı. Yanaşı getməyə başladılar. Bir xeyli
 
 @@ 248
 
@@ -6743,7 +6743,7 @@ Yarpızını da çox eləyəcəm. Oxuduğun yerdə sizə dovğa bişirirlərmi?
 
 – Niyə olmur?
 
-Salatın dinmədi. Əşrəf sezdirmədən bacısının haraya isə zillənmiş fikirli gözlərinə baxdı. Bu gözlərdə əfsanəvi nağıllarda söylənən sehrli, eyni zamanda olduqca cazibədar bir aləmə qovuşmaq həsrəti ilə qovrulub-yanan, lakin bu mümkün olmadığını dərk edib məyuslaşan bir adamın keçdiyi halı müşahidə etdi. Qız xəyalən çox uzaqlara getmışdi. O özü də hiss etmədən yuxulu uşaq kimi gah gülümsünür, gah da qaşlarını çatıb ciddiləşirdi. Əşrəf onu şirin xəyallardan ayırmaq istəmədi. Salatın birdən köksünü ötürdü: – Görəsən, mən də oxuya bilərəmmi?
+Salatın dinmədi. Əşrəf sezdirmədən bacısının haraya isə zillənmiş fikirli gözlərinə baxdı. Bu gözlərdə əfsanəvi nağıllarda söylənən sehrli, eyni zamanda olduqca cazibədar bir aləmə qovuşmaq həsrəti ilə qovrulub-yanan, lakin bu mümkün olmadığını dərk edib məyuslaşan bir adamın keçdiyi halı müşahidə etdi. Qız xəyalən çox uzaqlara getmişdi. O özü də hiss etmədən yuxulu uşaq kimi gah gülümsünür, gah da qaşlarını çatıb ciddiləşirdi. Əşrəf onu şirin xəyallardan ayırmaq istəmədi. Salatın birdən köksünü ötürdü: – Görəsən, mən də oxuya bilərəmmi?
 
 – Niyə bilmirsən?
 
@@ -6831,11 +6831,11 @@ Salatın qardaşının yerindən tərpənmədiyini, qızları köçün bərabər
 
 Onlar bulağın üstündə də, geri qayıdanda da heç nə danışmadılar...
 
-Axşam oldu. Göytəpəlilər düşərgədən tərpənmədilər. Onlar burada bir xeyli dincəlməyi qərara aldılar. Onsuz da yollar tutulmuşdu. Sürü ilə yaylağa qalxan qoyunların, qatarlaşan arabaların, ilxıların, atlı-pıyada hərəkət edən aran adamlarının əlindən tərpənmək olmurdu, Yolların üstünü bulud kimi bürüyən toz axşama qadər yerə çökmür, sürülərin ardınca sürünə-sürünə yuxarılara qədər qalxırdı. Bir az gözləmək, heyvanlara da rahatlıq vermək lazım idi.
+Axşam oldu. Göytəpəlilər düşərgədən tərpənmədilər. Onlar burada bir xeyli dincəlməyi qərara aldılar. Onsuz da yollar tutulmuşdu. Sürü ilə yaylağa qalxan qoyunların, qatarlaşan arabaların, ilxıların, atlı-piyada hərəkət edən aran adamlarının əlindən tərpənmək olmurdu, Yolların üstünü bulud kimi bürüyən toz axşama qədər yerə çökmür, sürülərin ardınca sürünə-sürünə yuxarılara qədər qalxırdı. Bir az gözləmək, heyvanlara da rahatlıq vermək lazım idi.
 
 Arabaların yanında ocaq qaladılar. Dağların quru fıstıq odunu çatırdadı, qığılcımlar ətrafa sıçradı, alovlar dilim-dilim olub göyə qalxdı.
 
-Ətrafda hərlənənlərin kölgəsi uzandı, çayın üstünə sərildi. Alovların işığı bir-birinə qarışdı. Qaranlıqda mürgüləyən dağların döşünə işıq düşdü, qıjıltı ilə axan çayın sinəsi parıldadi. Göyün üzündə şəfəq oynadı.
+Ətrafda hərlənənlərin kölgəsi uzandı, çayın üstünə sərildi. Alovların işığı bir-birinə qarışdı. Qaranlıqda mürgüləyən dağların döşünə işıq düşdü, qıjıltı ilə axan çayın sinəsi parıldadı. Göyün üzündə şəfəq oynadı.
 
 @@ 251
 
@@ -7013,7 +7013,7 @@ Maralı kimin vurduğunu müəyyən etmək çətin idi. Əgər o bir adamdan azc
 
 Nökərlərdən biri marala baxıb köksünü ötürdü:
 
-– Ağa, necə olubsa gözümüzdon qaçıb suyun qırağındakı çəmənliyə gedib. Hansı köpək oğlusa elə bilib çöl maralıdır. Yoxsa əl heyvanına güllə atmazdılar.
+– Ağa, necə olubsa gözümüzdən qaçıb suyun qırağındakı çəmənliyə gedib. Hansı köpək oğlusa elə bilib çöl maralıdır. Yoxsa əl heyvanına güllə atmazdılar.
 
 Bayaqdan qovrula-qovrula qalıb, nə edəcəyini, camaata nə deyəcəyini müəyyənləşdirə bilməyən Cahandar ağa bu sözdən yapışmağı qərara aldı. O beləliklə hələlik izi itirmək, həqiqəti bilənə qədər susmaq istəyirdi.
 
@@ -7041,11 +7041,11 @@ Yarımca saat keçməmiş köç yola düşdü. Əvvəlcə malları hayladılar, 
 
 Əhməd "Zayej"in qabağında təkcə oturmuşdu. Tez-tez tərini silir və zəhlətökən bir səslə cikkildəşən boz sərçələrə baxırdı. Onlar gah divarın daşları arasındakı ovuqlara girir, gah da eyvanın məhəccərinə qonur, gah da bir-birini didə-didə çəpərə doluşurdular. Onların zil səsi adamın beynini deşirdi. Nədənsə Əhməd isti yay günlərində sərçələrin cikkiltisinə qulaq asanda qüssələnirdi. O hamı tərəfindən unudulmuş bir adam kimi yalqızlıq hiss edirdi.
 
-Sərçələr hay-küylə havaya qalxdılar. Onların səsi eşidilməz oldu. Əhmədin qulaqları cingildədi. O darıxdı. Ayağa durub xır yoluna boylandı. Uşaqlar onun yanına gəlməli, dünən öyrəndiklərini bu gün təkrar edib yoxlamalı idilər, vaxta az qalırdı. El dağdan qayıdanda Əhməd onları Qoriyə, seminariyaya imtahana aparmalı idi. "Yazıqlar yəqin yenə istinin əlindən özlərini Kürə veriblər, axşama qədər sudan çıxmayacaqlar", – deyə düşündü. Onun da ürəyindən çimmək keçdi. Eyvana getdi. Elə bu vaxt bir şey tappıltı ilə onun qabağına düşdü. Əhməd diksinib geri çəkildi. Yumaq kimi yumrulanan qızıl ilan qıvrılıb açıldi və dərhal quyruğu üstə qalxıb fısıldadı. Əhməd onun soyuq üzünü, açıq
+Sərçələr hay-küylə havaya qalxdılar. Onların səsi eşidilməz oldu. Əhmədin qulaqları cingildədi. O darıxdı. Ayağa durub xır yoluna boylandı. Uşaqlar onun yanına gəlməli, dünən öyrəndiklərini bu gün təkrar edib yoxlamalı idilər, vaxta az qalırdı. El dağdan qayıdanda Əhməd onları Qoriyə, seminariyaya imtahana aparmalı idi. "Yazıqlar yəqin yenə istinin əlindən özlərini Kürə veriblər, axşama qədər sudan çıxmayacaqlar", – deyə düşündü. Onun da ürəyindən çimmək keçdi. Eyvana getdi. Elə bu vaxt bir şey tappıltı ilə onun qabağına düşdü. Əhməd diksinib geri çəkildi. Yumaq kimi yumrulanan qızıl ilan qıvrılıb açıldı və dərhal quyruğu üstə qalxıb fısıldadı. Əhməd onun soyuq üzünü, açıq
 
 @@ 258
 
->>ağzını, tez-tez çıxardığı qara dilini və qarmaq dışlərini aydınca gördü. O bircə an da geciksə ilan üstünə atılacaqdı. Əhməd ona imkan vermə. Divarın dibindəki yabanı götürüb, başını əzdi. Bir xeyli ilanın qıvrılan quyruğuna baxdı. "Ulduz görməsə ölməyəcək", – deyə düşündü. Yaba ilə götürüb çəpərin üstünə atdı. İlanın qarnının altı parıldadı.
+>>ağzını, tez-tez çıxardığı qara dilini və qarmaq dişlərini aydınca gördü. O bircə an da geciksə ilan üstünə atılacaqdı. Əhməd ona imkan vermə. Divarın dibindəki yabanı götürüb, başını əzdi. Bir xeyli ilanın qıvrılan quyruğuna baxdı. "Ulduz görməsə ölməyəcək", – deyə düşündü. Yaba ilə götürüb çəpərin üstünə atdı. İlanın qarnının altı parıldadı.
 
 Sərçələr hay-küylə çəpərə qondular. İlana baxıb cikkildədilər. Qanadlarını çırpıb boğazlarını pırpızlaşdırdılar. Elə bil onu didib-parçalamaq, nəyinsə intiqamını almaq istəyirdilər.
 
@@ -7183,7 +7183,7 @@ Rüstəm kişi susdu. Əhmədi birinci dəfə görürmüş kimi heyrətlə süzd
 
 – Camaatıma kömək.
 
-– Bayaq dedim, a bala, sənin əlində nə var ki, camaata da kömək eleyəsən?
+– Bayaq dedim, a bala, sənin əlində nə var ki, camaata da kömək eləyəsən?
 
 – Mənim əlimdə heç nəyim olmasa da savadım var. Mən camaata bununla kömək eləyərəm. Əgər hamı oxusa, savadlı olsa, belə haqsızlıqlar baş verməz. Biz cəhənnəm, heç olmasa bizdən sonra gələnlər yaxşı dolansınlar, xeyiri şərdən seçə bilsinlər. Bax, mənim istədiyim budur. Rüstəm əmi, mən istəyirəm ki, sənin oğlun Səlim oxusun, savadlı olsun. Xeyir-şərini başa düşsün. Daha onun-bunun əvəzinə işləməsin. Aydındırmı?
 
@@ -7311,7 +7311,7 @@ Qoca kişi yetim qalmış qardaşı oğlunun oxumaq arzusunda olduğunu çoxdan 
 
 – Mən apararam. Sənin əvəzindən pay verərəm.
 
-– Çox sağ ol, a bala, ata payının ləzzəti başqa olur. – Kişi çiynini çəkdı. Sanki bununla "Yoxsulluğun üzü qara olsun, nə eləyim?" – demək istədi. – Yaxşı yol, bala, uşaqlardan muğayat ol.
+– Çox sağ ol, a bala, ata payının ləzzəti başqa olur. – Kişi çiynini çəkdi. Sanki bununla "Yoxsulluğun üzü qara olsun, nə eləyim?" – demək istədi. – Yaxşı yol, bala, uşaqlardan muğayat ol.
 
 Əhməd, kişinin səsindəki titrəyişdən duydu ki, kövrəlmişdir. Onun qəlbi riqqətə gəldi. Bu saat Qoca kişi ilə özünün arasında bır yaxınlıq olduğunu hiss etdi. Qoca kişi doğma kəndində yaşasa da, tamamilə tək və yalqız idi. Əhməd başa düşdü ki, kişi qızından çox oğlunun dərdini çəkir. Çərkəzin onu qoca vaxtında qara damın altında tək qoyub şəhərə gedəcəyindən qorxur. Əhməd bu anda Qoca kişiyə haqq verdi. Çünki özü çox yaxşı bilirdi ki, təklik ağır dərddir.
 
@@ -7357,7 +7357,7 @@ Qızlar inada düşdülər. Doğrudan da Pakizədən söz almayınca əl çəkm�
 
 @@ 267
 
->>artırdı. O hər dəfə təkan verdikcə, yelləncək bir az da yuxarı qalxır və az qalırdı ki, dövrə vurub budağa dolansın. Görünür, o hər şeyi unudaraq, uçurum dərənin üstünə qalxdığını, əli kəndirdən bir balaca boşalsa gurultu ilə sıldırımdan yuvarlana biləcəyini ağlına belə gətirmirdi Əşrəf həyacanlandı, özü də hiss etmədən ağacların arxasından çıxıb irəli gəldi. Bayaqdan Pakizə ilə zarafat edən qızlar da gülməklərinə ara verib dayandılar. Onlardan biri əlindəki gicitkəni kənara atıb qışqırdı: – Aaz, bəsdir, havalanma, kəndir qırılar.
+>>artırdı. O hər dəfə təkan verdikcə, yelləncək bir az da yuxarı qalxır və az qalırdı ki, dövrə vurub budağa dolansın. Görünür, o hər şeyi unudaraq, uçurum dərənin üstünə qalxdığını, əli kəndirdən bir balaca boşalsa gurultu ilə sıldırımdan yuvarlana biləcəyini ağlına belə gətirmirdi Əşrəf həyəcanlandı, özü də hiss etmədən ağacların arxasından çıxıb irəli gəldi. Bayaqdan Pakizə ilə zarafat edən qızlar da gülməklərinə ara verib dayandılar. Onlardan biri əlindəki gicitkəni kənara atıb qışqırdı: – Aaz, bəsdir, havalanma, kəndir qırılar.
 
 Pakizə döyüşdən qalib çıxdığına fərəhləndi və bərkdən qəhqəhə çəkdi. Onun səsi qayalarda əks-səda verib meşədə uğuldadı.
 
@@ -7493,7 +7493,7 @@ Susdular. Əşrəf qardaşının nəyə işarə etdiyini başa düşdü. O çox 
 
 – Çünki sən varsan.
 
-– Mən oxumağa gedecəyəm.
+– Mən oxumağa gedəcəyəm.
 
 – Getmə.
 
@@ -7595,7 +7595,7 @@ Yanaşı addımladılar. Salatın yanağına yapışmış saçını geri itələ
 
 * * *
 
-Cahandar ağa döşəkcənin üstünə uzanib mütəkkəyə dirsəklənmişdi. Əhməd isə onunla üzbəüz, döşəkcədə bardaş qurub oturmuşdu. Onların qabağında çay vardı.
+Cahandar ağa döşəkcənin üstünə uzanıb mütəkkəyə dirsəklənmişdi. Əhməd isə onunla üzbəüz, döşəkcədə bardaş qurub oturmuşdu. Onların qabağında çay vardı.
 
 Cahandar ağa oğlunu görən kimi stəkanı qabağına çəkdi. Əşrəfin üzünə belə baxmadan, astadan dilləndi:
 
@@ -7853,7 +7853,7 @@ Gələnlər dəyələri axtarırdılar. Zərnigar xanım onların içəri necə 
 
 Lap yaxından kobud, xırıltılı kişi səsi eşidildi. Arvad-uşağı dəyədən bayıra tökdülər. Kimsə bərkdən söydü:
 
-– Ay köpək uşağı, nə gəzirsiniz, arvad-uşaqdan nə istəyirsıniz?
+– Ay köpək uşağı, nə gəzirsiniz, arvad-uşaqdan nə istəyirsiniz?
 
 – Qız hanı?
 
@@ -7869,7 +7869,7 @@ Səs-küy lap yaxınlaşdı. Çənəsi şaqqıldayan Salatının bədəni uçund
 
 >>və vəziyyəti başa düşürdü. O da çıxış yolu axtarırdı, lakin tapa bilmirdi. "Bəlkə farmaşa girim, ya da keçəyə bürünüb çətənin böyründə dayanım? Nəmiyə girsəm necə olar?"
 
-Basqınçılar Cahandar ağanın dəyələrinə yaxınlaşdılar. Nökərlər comaq götürüb yolu kəsdilər. Əlbəyaxa vuruşma başladı. Ağac şaqqıldadı, xəncər cingildədi. Zərnigar xanım da, Salatın da başa düşdü ki, gələnlərin qabağını saxlamaq mümkün deyil.
+Basqınçılar Cahandar ağanın dəyələrinə yaxınlaşdılar. Nökərlər çomaq götürüb yolu kəsdilər. Əlbəyaxa vuruşma başladı. Ağac şaqqıldadı, xəncər cingildədi. Zərnigar xanım da, Salatın da başa düşdü ki, gələnlərin qabağını saxlamaq mümkün deyil.
 
 Qız birdən yorğanı üstündən atdı. Elə alt köynəkdə, ayaqyalın, başıaçıq bayıra qaçdı. Əvvəlcə dərəyə enmək istədi. Sonra dəyələrin qabağındakı palıd ağacının altına getdi. Birtəhər ağaca çıxmağı, orada, budaqların arasında gizlənməyi qərara aldı. Ancaq nə qədər çalışdısa, şaxdan yapışa bilmədi. Onun ayaqları əsir, əlləri titrəyirdi.
 
@@ -7933,7 +7933,7 @@ Onun əl-qol atıb çapalamağına fikir vermədilər. Yaxın gələnlərin üz-
 
 – Vay, evim yıxıldı, Əşrəf, qızı apardılar.
 
-Bu qışqırtını Əşrəfdən qabaq Əhməd eşidib dik atıldı. Şalvarını geyinməsi ilə tüfəngi götürüb dəyədən çıxması bir oldu. Birbaş səs gələn tərəfə yüyürdü. İtlər qayalığa basqın edirdilər. Sığırçılar hay-haray salmışdılar. Qarmaqarışıq səs gəlir, arabir at kişnəyirdi. Əhməd cığırla qayanın üst tərəfinə yüyürdü. Basqınçıların qabağını kəsmək istədi. Ancaq ondan qabaq özünü yetirən Əşrəf qayalığa dalbadal iki güllə atdı. At kişnədi. Basqınçılar da güllə atdılar. Əhməd qayalıqda ayaq üstə dayanan Əşrəfi dartıb yerə yıxdı. Tövşuyə-tövşüyə soruşdu:
+Bu qışqırtını Əşrəfdən qabaq Əhməd eşidib dik atıldı. Şalvarını geyinməsi ilə tüfəngi götürüb dəyədən çıxması bir oldu. Birbaş səs gələn tərəfə yüyürdü. İtlər qayalığa basqın edirdilər. Sığırçılar hay-haray salmışdılar. Qarmaqarışıq səs gəlir, arabir at kişnəyirdi. Əhməd cığırla qayanın üst tərəfinə yüyürdü. Basqınçıların qabağını kəsmək istədi. Ancaq ondan qabaq özünü yetirən Əşrəf qayalığa dalbadal iki güllə atdı. At kişnədi. Basqınçılar da güllə atdılar. Əhməd qayalıqda ayaq üstə dayanan Əşrəfi dartıb yerə yıxdı. Tövşüyə-tövşüyə soruşdu:
 
 – Nə olub?
 
@@ -7951,7 +7951,7 @@ Atışma başlandı. Basqınçılar bir xeyli qayaların ətrafında fırlandıl
 
 Əhməd Əşrəfi o tərəfdə, dağın döşündə tapdı. O doluxsunmuşdu.
 
-– Aradan çıxdılar, Əhməd lələ, indi nə eleyək, qız əldən getdi!
+– Aradan çıxdılar, Əhməd lələ, indi nə eləyək, qız əldən getdi!
 
 – Dallarınca düşmək lazımdır.
 
@@ -8017,7 +8017,7 @@ Allahyar əlini cibinə saldı. Əvvəlcədən ayırıb hazırladığı pulu ç�
 
 – Bir sözdü, deyirəm, fikirləş.
 
-Allahyar qarşısında dayanan adamın saçaqlı papağına, tüklü sifətinə baxdı. Bir xeyli tərıddüd içində dayandı. Onun fikrindən nələr keçirdiyini bilmək istədi. Həsən ağa araya çökən sükutu zarafatyana tərzdə pozdu:
+Allahyar qarşısında dayanan adamın saçaqlı papağına, tüklü sifətinə baxdı. Bir xeyli tərəddüd içində dayandı. Onun fikrindən nələr keçirdiyini bilmək istədi. Həsən ağa araya çökən sükutu zarafatyana tərzdə pozdu:
 
 – Kişini yola sal, könlü balıq istəyən gərək suya girsin.
 
@@ -8031,7 +8031,7 @@ Onlar gedəndən sonra Allahyar bir az sakitləşdi. Həsən ağa qonağının g
 
 ### Üçüncü hissə, 15
 
-Cahandar ağa ayağının ikisini də yəhərin üstündən sağ tərəfə aşırıb, atın belinda yanaşı oturmuşdu. O, papirosunu sümürür və qırçın-qırçın olub dalğalanan zəmilərə tamaşa edirdi. Dəmyədəki taxıllar kəhrəba kimi saralmışdı. Sünbüllər ağırlaşıb boynunu əymişdi. Üfüqlərə qədər uzanıb gedən zəmiləri arabir Kür tərəfdən əsən meh yerindən oynadıb dəniz kimi ləpələndirirdi. Çöllərə ahəngdar bir xışıltı yayılırdı. Qərb tərəfdəki dağların sinəsi belə saralmışdı. "Buranı da biçdirib, dərzləri
+Cahandar ağa ayağının ikisini də yəhərin üstündən sağ tərəfə aşırıb, atın belində yanaşı oturmuşdu. O, papirosunu sümürür və qırçın-qırçın olub dalğalanan zəmilərə tamaşa edirdi. Dəmyədəki taxıllar kəhrəba kimi saralmışdı. Sünbüllər ağırlaşıb boynunu əymişdi. Üfüqlərə qədər uzanıb gedən zəmiləri arabir Kür tərəfdən əsən meh yerindən oynadıb dəniz kimi ləpələndirirdi. Çöllərə ahəngdar bir xışıltı yayılırdı. Qərb tərəfdəki dağların sinəsi belə saralmışdı. "Buranı da biçdirib, dərzləri
 
 @@ 287
 
@@ -8057,7 +8057,7 @@ Cahandar ağa sakitcə mahnıya qulaq asdı. Bayatının sözləri onu daha da m
 
 >>tərəfdən əsən meh birdən-birə dayandığından, çöllərin üstünə boğanaqlı hava çökmüşdü. Adam nəfəs aldıqca boğazı quruyur, ciyərlərinə isti təndir hənirtisi kimi bir şey dolurdu.
 
-At çinarın kölgəsində dayandı. Qulaqlarını şəkləyib astadan kişnədi. Cahandar ağa sıçrayıb yəhərdən yerə düşdü. Atı ağaca bağlayıb, kölgədəki daşın üstündə oturdu. Bircə yarpaq da tərpənmirdi. Ağacın gövdəsinə yapışmış, cırcıramalar ağız-ağıza verib ötüşürdü. Onların zil səsi az qalırdı adamın beynini deşsin. Cahandar ağa bir xeyli daşın üstündə sakitcə oturub nəfəsini dərdi. Gün onu qaraltmışdı. Kişi güclə nəfəs alırdı. O, papirosunu son dəfə sümürüb atdı. Kövşənə od düşməsindən ehtiyat edərək, ayağı ilə tapdayib söndürdü. Bundan sonra ətrafa boylandı. Ağacın kölgəsində, otun altında gizlədilmiş cürdəyi görən kimi ayağa qalxdı. Qabı götürüb suyu başına çəkdi. Su qan kimi ilıq idi. Ancaq kişi buna əhəmiyyət vermədi. Doyunca içdi. Cürdəyi yenidən otun altında gizlətdi. Qolu ilə ağzını silərək, biçinçilərin yanına getdi.
+At çinarın kölgəsində dayandı. Qulaqlarını şəkləyib astadan kişnədi. Cahandar ağa sıçrayıb yəhərdən yerə düşdü. Atı ağaca bağlayıb, kölgədəki daşın üstündə oturdu. Bircə yarpaq da tərpənmirdi. Ağacın gövdəsinə yapışmış, cırcıramalar ağız-ağıza verib ötüşürdü. Onların zil səsi az qalırdı adamın beynini deşsin. Cahandar ağa bir xeyli daşın üstündə sakitcə oturub nəfəsini dərdi. Gün onu qaraltmışdı. Kişi güclə nəfəs alırdı. O, papirosunu son dəfə sümürüb atdı. Kövşənə od düşməsindən ehtiyat edərək, ayağı ilə tapdayıb söndürdü. Bundan sonra ətrafa boylandı. Ağacın kölgəsində, otun altında gizlədilmiş cürdəyi görən kimi ayağa qalxdı. Qabı götürüb suyu başına çəkdi. Su qan kimi ilıq idi. Ancaq kişi buna əhəmiyyət vermədi. Doyunca içdi. Cürdəyi yenidən otun altında gizlətdi. Qolu ilə ağzını silərək, biçinçilərin yanına getdi.
 
 Onlar taxılın içində qatarlaşmışdılar. Gün yandırmasın deyə, dəsmallarının ucunu düyünləyib başlarına keçirmişdilər. Köynəkləri islanıb kürəklərinə yapışmışdı. İsti olmasına baxmayaraq, həvəslə işləyirdilər. Cahandar ağa onlara yaxınlaşdı: "Yorulmayasınız!" – deyə ucadan biçinçiləri salamladı, sonra da dəstənin ağsaqqalı Sərkis kişi ilə görüşdü.
 
@@ -8073,7 +8073,7 @@ Kişi belini düzəldib dayandı. Orağı sol əlinə alıb, alnının tərini s
 
 – Heç nə olmaz, az qalıb.
 
-Cahandar ağa susdu. Bir xeyli biçinçilərə baxdı. Kənardakı dərz tayasına yaxınlaşdı. Sərkis kişinin oraqlarından birini götürüb əlilə ağzinın ovxarını yoxladı və gülümsündü:
+Cahandar ağa susdu. Bir xeyli biçinçilərə baxdı. Kənardakı dərz tayasına yaxınlaşdı. Sərkis kişinin oraqlarından birini götürüb əlilə ağzının ovxarını yoxladı və gülümsündü:
 
 – Gəlsənə ötüşək?
 
@@ -8099,7 +8099,7 @@ Biçinçi gülümsündü. "Yarım saat işləməyə nə var, hesab odur ki, bu c
 
 – Bes nə bilmişdin?
 
-Cahandar ağa orağı dərzin dibinə atıb köynəyini götürdü. Paltarıni geyinmək istədi. Elə bu vaxt bayaqdan biçinçilərə su paylayan Tapdıq ona yaxınlaşdı:
+Cahandar ağa orağı dərzin dibinə atıb köynəyini götürdü. Paltarını geyinmək istədi. Elə bu vaxt bayaqdan biçinçilərə su paylayan Tapdıq ona yaxınlaşdı:
 
 – Ağa, əl-üzünüzü yumasanız sərinləməzsiniz.
 
@@ -8111,7 +8111,7 @@ Onlar zəmidən aralandılar. Cahandar ağa çim suya batmış köynəyini soyun
 
 – Ağa, aşağı əyilin.
 
-Cahandar ağa ovcunu su ilə doldurub üzünə çırpdı. Boynunun dalından şoralanib tökülən su ilə qollarını və tüklü sinəsini yudu. Başını da islatdı. Yalnız bundan sonra bədəni bir az sərnidi. Cürdəyi Tapdıgı" əlindən alıb, başına çəkdi. Bir xeyli ağacın kölgəsində gəzindi. Elə bil
+Cahandar ağa ovcunu su ilə doldurub üzünə çırpdı. Boynunun dalından şoralanib tökülən su ilə qollarını və tüklü sinəsini yudu. Başını da islatdı. Yalnız bundan sonra bədəni bir az sərnidi. Cürdəyi Tapdığı" əlindən alıb, başına çəkdi. Bir xeyli ağacın kölgəsində gəzindi. Elə bil
 
 @@ 290
 
@@ -8149,9 +8149,9 @@ Cahandar ağa atdan endi. Bu dəfə nökərləri yaxına qoymadı. Özü atın y
 
 >>yalını sığalladı, döşünün tərini sildi. Onun qabağına bir qucaq göy ot tökdükdən sonra dərz tayalarına yaxınlaşdı. O, nədənsə, bu gün işləməyə həvəs göstərdiyindən, burada da sakit dayanmadı. Yeni salınmış xırmana dərz daşıyan nökərlərə kömək etdi. Öküzləri qoşdular vəli xırmana saldılar. Cahandar ağa özü atılıb vəlin üstünə çıxdı. Çubuğu havada yellədib öküzləri səslədi. Heyvanlar dizə qedər kövşənə batdılar. Vəl kələ-kötür dərzlərin üstündə ləngərləndi. Ləpələrin atıb-tutduğu qayıq kimi gah çökəyə endi, gah da yuxarı, dərzlərin üstünə qalxdı. Sünbüllər xışıltı ilə ovxalandı, kövşən əzitməyə başladı. Ca-handar ağa böyük bir zövqlə öküzləri hayladı. Vəl beş-on dəfə xırman boyu fırlandı və dərzlər yapıxdı. Xırman boyu dairəvi cığırlar düşdü Cahandar ağa hər dəfə vəli yeni yerdən sürdü və xırman tamanı yapıxana qədər vəlin üstündən düşmədi.
 
-Nəhayət, çubuğu onun əlindən aldılar. Cahandar ağa sıçrayıb kənara çıxdı və samanlığın üstündə dayanıb, işləyənlərə xeyli tamaşa etdi. Dəsmahlını çıxardıb tərini sildikdən sonra talvarın altına, ata yaxınlaşdı. Qəmər quyruğu ilə çibinləri qova-qova xımırt-xımırt göy ot yeyirdi. İsti atı da təntitmişdi. Onun sinəsi köpüklənmişdi. At tərin içində idi. Qəmər sahibini görəndə başını tərpədib oxrandı və gözünü zilləyib sahibinin üzünə baxdı. Sanki "bizi bu istidə niyə öldürürsən? – demək istədi. Cahandar ağa onun yalını sığalladı, boynunu qaşıdı, başını sinəsinə sıxıb gözünü oxşadı. At sahibinin nəvazişini duydu və nazlı gəlinlər kimi cilvələndi. Cahandar ağa az qaldı Qəməri köksunə basıb üz-gözündən öpsün. Onların arasındakı ünsiyyət bir heyvanla insan arasında olan dostluqdan daha çox iki sirdaşın, ağır gündə bir-birinə kömək durub haraya çatan iki adamın mehribanlığına bənzəyirdi. Məhz buna görə də Cahandar ağa özü atına qulluq edir, onun otunu, suyunu özü verir, hörüyünü özü dəyişir, yəhərini, yüyənini özü alırdı. Kişi sanki bununla atın ona elədiyi yaxşılıqların əvəzini geri qaytarmaq istəyirdi.
+Nəhayət, çubuğu onun əlindən aldılar. Cahandar ağa sıçrayıb kənara çıxdı və samanlığın üstündə dayanıb, işləyənlərə xeyli tamaşa etdi. Dəsmalını çıxardıb tərini sildikdən sonra talvarın altına, ata yaxınlaşdı. Qəmər quyruğu ilə çibinləri qova-qova xımırt-xımırt göy ot yeyirdi. İsti atı da təntitmişdi. Onun sinəsi köpüklənmişdi. At tərin içində idi. Qəmər sahibini görəndə başını tərpədib oxrandı və gözünü zilləyib sahibinin üzünə baxdı. Sanki "bizi bu istidə niyə öldürürsən? – demək istədi. Cahandar ağa onun yalını sığalladı, boynunu qaşıdı, başını sinəsinə sıxıb gözünü oxşadı. At sahibinin nəvazişini duydu və nazlı gəlinlər kimi cilvələndi. Cahandar ağa az qaldı Qəməri köksünə basıb üz-gözündən öpsün. Onların arasındakı ünsiyyət bir heyvanla insan arasında olan dostluqdan daha çox iki sirdaşın, ağır gündə bir-birinə kömək durub haraya çatan iki adamın mehribanlığına bənzəyirdi. Məhz buna görə də Cahandar ağa özü atına qulluq edir, onun otunu, suyunu özü verir, hörüyünü özü dəyişir, yəhərini, yüyənini özü alırdı. Kişi sanki bununla atın ona elədiyi yaxşılıqların əvəzini geri qaytarmaq istəyirdi.
 
-İndi o, atın çim tərə batmasına dözmədi. Heç kəsə heç nə demədi. Ata buruntaq verib yalından yapışdı və sıçrayıb belinə qalxdı. Qəmər sahibinin fikrini başa düşdü və birbaşa cığırla sahilə endi. At suvadağa çatan kimi özünü Kürün dayaz yerinə saldı. Daşları şaqqıldada-şaqqıldada su yuxarı irəlilədi. Ayağının altından qalxan su ətrafa siçradı. Cahandar ağanın paltarı islandı, kişi bundan daha da xoşhallandı. Nəhayət, bir az sərniyəndən sonra dayandı, Cahandar ağa yerə düşdü,
+İndi o, atın çim tərə batmasına dözmədi. Heç kəsə heç nə demədi. Ata buruntaq verib yalından yapışdı və sıçrayıb belinə qalxdı. Qəmər sahibinin fikrini başa düşdü və birbaşa cığırla sahilə endi. At suvadağa çatan kimi özünü Kürün dayaz yerinə saldı. Daşları şaqqıldada-şaqqıldada su yuxarı irəlilədi. Ayağının altından qalxan su ətrafa sıçradı. Cahandar ağanın paltarı islandı, kişi bundan daha da xoşhallandı. Nəhayət, bir az sərniyəndən sonra dayandı, Cahandar ağa yerə düşdü,
 
 @@ 292
 
@@ -8159,7 +8159,7 @@ Nəhayət, çubuğu onun əlindən aldılar. Cahandar ağa sıçrayıb kənara �
 
 Cahandar ağa atı tərtəmiz yuduqdan sonra evə qayıtdı. Atı yenə talvarın altına bağlayıb qabağına ot qoydu. Bir xeyli Qəmərin iştahla ot yeməsinə tamaşa etdi. Bir az dincini almaq üçün otağa girib taxtın üstünə uzandı. Qulluqçulardan biri onun dirsəyinin altına mütəkkə qoydu, qabağına süfrə saldı, bir şey yemək istəyib-istəmədiyini soruşdu. Cahandar ağa çay içəcəyini bildirdi. Ona dalbadal bir neçə stəkan çay gətirdilər. Kişi onları birnəfəsə içib, dincəlməyi qərara aldı. Bərkdən gərnəşib uzandı. Heç beşcə dəqiqə keçməmiş onu yuxu apardı. Qulluqçunun süfrəni yığışdırdığını görmədi, gün düşməsin deyə pəncərənin taxtalarını örtməsindən xəbəri olmadı. Otaq sərin olsa da tər onu basdı. Nəfəs alması belə çətinləşdi. Sinəsi qalxıb endi. Otağa tövşüyə bənzər bir səs yayıldı. Kişi qəribə bir yuxu gördü.
 
-O gördü ki, qapı astadan aralandı. Şahnigar səs salmadan içəri girdi. Astanada dayanıb ayaqqabısını soyundu və barmaqlarının ucunda taxta yaxınlaşdı. Bir xeylı qardaşının yastığının yanını kəsdirib, onun necə nəfəs almasına qulaq asdı. Cahandar ağa bacısının ona necə həsrət və məzəmmətlə baxdığını gördü. Şahnigar əlini qoynuna qoyub, başını azacıq yana əymişdi. Sinəsi astadan titrəyirdi. Burun pərələri güclə seziləcək dərəcədə səyriyirdi, elə bil için-için ağlayırdı. Cahandar ağa ayağa durub bacısından nə üçün ağladığını soruşmaq istədi. Onun qolundan yapışıb taxtın üstündə oturtmağa çalışdı. Ancaq yerindən tərpənə bilmədi.
+O gördü ki, qapı astadan aralandı. Şahnigar səs salmadan içəri girdi. Astanada dayanıb ayaqqabısını soyundu və barmaqlarının ucunda taxta yaxınlaşdı. Bir xeyli qardaşının yastığının yanını kəsdirib, onun necə nəfəs almasına qulaq asdı. Cahandar ağa bacısının ona necə həsrət və məzəmmətlə baxdığını gördü. Şahnigar əlini qoynuna qoyub, başını azacıq yana əymişdi. Sinəsi astadan titrəyirdi. Burun pərələri güclə seziləcək dərəcədə səyriyirdi, elə bil için-için ağlayırdı. Cahandar ağa ayağa durub bacısından nə üçün ağladığını soruşmaq istədi. Onun qolundan yapışıb taxtın üstündə oturtmağa çalışdı. Ancaq yerindən tərpənə bilmədi.
 
 Şahnigar bir müddət beləcə dayandı, sonra önlüyünün ətəyi ilə gözünü qurdaladı və aşağı əyilib qardaşının yastığını düzəltdi. Elə bu vaxt onun əli Cahandar ağanın alnına toxundu. Kişi tərpəndi. Şahnigar dalı-dalı geri çəkilib qapının ağzına getdi. Cahandar ağa durub oturdu. Bacısını yanına çağırdı. O gəlmədi. "Dərdin alım gedəcəm, tələsirəm, işim var, burda çox qala bilmərəm, – deyə cavab verdi. – Gəldim sənə deyim ki, onda taqsır yoxdur. Xasiyyətini bilirəm, eşidən kimi dəli olacaqsan. Ancaq, Allah haqqı, düz sözümdür, sənin qızın tərtəmizdir, onda günah yoxdur. Salatın gül parçası kimi bir uşaqdır. Onu da mənim kimi bədbəxt eləmə, ay qardaş, özünü də, balanı da odsuz-ocaqsız yandırma, atam balası, eşitdinmi? Di salamat qal, gözünə qurban olum, görürəm yaman dərd çəkirsən, ancaq fikir eləmə, olan-olub, keçən-keçib. Özünü üzmə".
 
@@ -8173,7 +8173,7 @@ O özünü topladı. Əlini cəftəyə uzatdı və qapını açıb cəld eyvana 
 
 Artıq sərin düşmüşdü. Xırmanların çoxunda vəli açmışdılar. Hətta lap tezdən xırman döyənlərdən indi taxıl sovuranlar da var idi. Cahandar ağanın xırmanlarından ikisi hazır idi. Nökərlər taxılı yığıb, xırmanın ortasına toparlaşmışdılar.
 
-Cahandar ağa fikrini dağıtmaq məqsədi ilə nökərlərdən qabaq şananı əlinə aldı, tığın bir yanında dayanıb taxılı sovurmağa başladı. İri sarı buğdalar bir yana töküldü, saman qırıntılarını külək xeyli uzağa apardı. Nökərlər də ona qoşuldular. Gün batana qədər xırmandakı taxılları sovurdular. Arvadlar sarı buğdanı xəlbirdən keçirdilər. İri çuvallar doldurulub yan-yana düzüldü. Cahandar ağa axıra qədər işlədi. Nökərlər samanı yığıb samanlığa tökəndə isə üstünün tozunu çirpıb bir tərəfə çəkildi və hündür bir yerdə sallağı oturub papiros eşdi.
+Cahandar ağa fikrini dağıtmaq məqsədi ilə nökərlərdən qabaq şananı əlinə aldı, tığın bir yanında dayanıb taxılı sovurmağa başladı. İri sarı buğdalar bir yana töküldü, saman qırıntılarını külək xeyli uzağa apardı. Nökərlər də ona qoşuldular. Gün batana qədər xırmandakı taxılları sovurdular. Arvadlar sarı buğdanı xəlbirdən keçirdilər. İri çuvallar doldurulub yan-yana düzüldü. Cahandar ağa axıra qədər işlədi. Nökərlər samanı yığıb samanlığa tökəndə isə üstünün tozunu çırpıb bir tərəfə çəkildi və hündür bir yerdə sallağı oturub papiros eşdi.
 
 Doqqazda at kişnədi. Kim isə Cahandar ağanı səslədi. Kişi ayağa qalxıb üst-başını düzəltdi və asta addımlarla çağıran adamın qabağına çıxdı.
 
@@ -8205,7 +8205,7 @@ Cahandar ağanın qaşları çatıldı. O, gözünü atlının üzünə zilləyi
 
 – Elə bir şey yoxdur, bilsəm deyərdim.
 
-Cahandar ağa papirosunu kötüyünə qədər sümürdü. Kəhrəba müştük çatırdadı və az qaldı ki, alışıb yansın. Atlı papirosun işığında kişinin ağarmiş sifətini gördü. Onun yanağında bir damcı qan qalmamışdı. Gicgahlarındakı damarlar vururdu. Barmağının arasındakı müştük titrəyirdi.
+Cahandar ağa papirosunu kötüyünə qədər sümürdü. Kəhrəba müştük çatırdadı və az qaldı ki, alışıb yansın. Atlı papirosun işığında kişinin ağarmış sifətini gördü. Onun yanağında bir damcı qan qalmamışdı. Gicgahlarındakı damarlar vururdu. Barmağının arasındakı müştük titrəyirdi.
 
 ### Üçüncü hissə, 16
 
@@ -8301,7 +8301,7 @@ Allahyar onun uzaq tanışlarından idi. Binəyə gələndə kimin qızını qa�
 
 – Sonrasını mən özüm bilirəm.
 
-Həsən ağa dinməz-söyləməz alaçığa qayıtdı. O, içəri girən kimi Allahyar döşəkcənin üstündn bir az yayxandı. Həsən ağanın bu saat "hər şey hazırdır, dur get" deyəcəyini gözlədi. Lakin gördü ki, kişinin qaş-qabağından zəhər tökülür. Allahyarın təbəssümü dodaqlarında qaldı.
+Həsən ağa dinməz-söyləməz alaçığa qayıtdı. O, içəri girən kimi Allahyar döşəkcənin üstündə bir az yayxandı. Həsən ağanın bu saat "hər şey hazırdır, dur get" deyəcəyini gözlədi. Lakin gördü ki, kişinin qaş-qabağından zəhər tökülür. Allahyarın təbəssümü dodaqlarında qaldı.
 
 – Qız nə təhərdir?
 
@@ -8361,7 +8361,7 @@ Yəmən xanım səhərə qədər yatmadı. Çırağı yandırıb qızın bədən
 
 Gün xeyli qalxdı. Uşaqlar oyanıb səhər-səhər şehli otlarda ayaqyalın qaçışmağa başladılar. Sığırçılar malları harayladılar, ancaq Salatın oyanmadı. Həsən ağa bir-iki dəfə içəri girib arvadından nə isə soruşmaq istədi. Yəmən xanım ərini geri qaytardı. Bir az da keçdi...
 
-Binələrin üst tərəfində itlər hürüşdü. Qız diksinib ayıldı. Qorxulu-qorxulu ətrafına boylandı. Gözünün həlqəsi böyüdü. Sinəsi qalxib-endi və birdən qışqırdı:
+Binələrin üst tərəfində itlər hürüşdü. Qız diksinib ayıldı. Qorxulu-qorxulu ətrafına boylandı. Gözünün həlqəsi böyüdü. Sinəsi qalxıb-endi və birdən qışqırdı:
 
 – Qurbanın olum, ay xala.
 
@@ -8417,7 +8417,7 @@ Həsən ağa Əşrəfin dodaqlarının səyridiyini, boğazında düyünlənən 
 
 – Arana, biçinə gedib.
 
-– A qırışmal, bə adam bacısını beləmi qoruyar? – Kişinin sözü Əsrəfi bərk tutdu. O heç nə deyə bilmədi. Gözünün həlqəsinə yığılan yaşı geri qaytarıb udqundu:
+– A qırışmal, bə adam bacısını beləmi qoruyar? – Kişinin sözü Əşrəfi bərk tutdu. O heç nə deyə bilmədi. Gözünün həlqəsinə yığılan yaşı geri qaytarıb udqundu:
 
 – Siz hardan bilirsiniz?
 
@@ -8555,7 +8555,7 @@ Mələk artıq birinci səddi aşdığını duydu, əvvəlki qorxaqlığı bir a
 
 @@ 303
 
-Mələk ayağını sürüyə-sürüyə alaçıqdan çıxdı. Cahandar ağanı birdən-birə titrətmə götürdü. Kişi nə qədər çallışdısa da, əllərinin, çənəsinin əsməsini dayandıra bilmədi. Sanki onu şaxtalı, boranlı qış günündə buzlu suya saldılar. Bir neçə saniyə nəfəsini çəkə bilmədi. Alnından qalxan sızıltı beynini dolanıb boynunun dalına keçdi. Onun qaramtıl çöhrəsi avazıdı, sonra boğulub qaraldı.
+Mələk ayağını sürüyə-sürüyə alaçıqdan çıxdı. Cahandar ağanı birdən-birə titrətmə götürdü. Kişi nə qədər çalışdısa da, əllərinin, çənəsinin əsməsini dayandıra bilmədi. Sanki onu şaxtalı, boranlı qış günündə buzlu suya saldılar. Bir neçə saniyə nəfəsini çəkə bilmədi. Alnından qalxan sızıltı beynini dolanıb boynunun dalına keçdi. Onun qaramtıl çöhrəsi avazıdı, sonra boğulub qaraldı.
 
 Salatın səssizcə, kölgə kimi gəlib içəri keçdi. Atasının önündə dayandı. Kəlağayısını irəli çəkdi, başını köksünə endirib susdu. Kişi gözünü qızına zilləsə də, onun sifətini aydın seçə bilmədi. Ona elə gəldi ki günəş qaralıb, ətrafı zülmət bürüyüb.
 
@@ -8673,15 +8673,15 @@ O dönüb Qəməri bir də təpədən-dırnağa süzdü. Hava azacıq işıqlaş
 
 Cahandar ağa tüfəngini çiyninə keçirdi. İkiəlli atın belindən yapışdı. Başını Qəmərin böyrünə söykədi. Sifətini yumşaq tüklərə sürtdü. O fırlandı, çevrildi, gah o üzünü, gah bu üzünü, başını atın böyrünə çırpdı. Başını gizlətmək istəyirmiş kimi atın qarnının altına əydi. Ayağının altındakı nəm torpaq eşim-eşim oldu. Göy otlar kökündən çıxıb əzildi. At isə tərpənmədi. Boynunu büküb sahibinə baxdı, nəfəsi ilə onun sifətini isitdi. Sakitcə oxrandı. Elə bil at Cahandar ağanın ürəyindən keçənləri duyur, onun dərdinə şərik olmaq istəyirdi.
 
-Kişi bir xeyli beləcə çapaladı. Sonra əlini yaxasına apardı. Çuxanın qaytanları, düyməlari qırıq-qırıq oldu. Çarpazlardan biri onun dırnağına keçdi, sədəf dibindən düşdü. O bunu hiss etmədi. Sudan kənara atılmış balıq kimi ağzını açıb tövşüdü. Burun pərələri genişləndi, sinəsi qalxıb-endi, köks qəfəsi az qaldı partlasın. Qan sağılmış gozünün həlqəsi qızardı. Ona elə gəldi ki, bu saat, elə buradaca ürəyi partlayacaq, atın dırnağının altına düşəcək. Bəlkə bu daha yaxşı idi? Bu cür təhqirlərə dözməkdənsə ölüm münasib idi?!
+Kişi bir xeyli beləcə çapaladı. Sonra əlini yaxasına apardı. Çuxanın qaytanları, düymələri qırıq-qırıq oldu. Çarpazlardan biri onun dırnağına keçdi, sədəf dibindən düşdü. O bunu hiss etmədi. Sudan kənara atılmış balıq kimi ağzını açıb tövşüdü. Burun pərələri genişləndi, sinəsi qalxıb-endi, köks qəfəsi az qaldı partlasın. Qan sağılmış gozünün həlqəsi qızardı. Ona elə gəldi ki, bu saat, elə buradaca ürəyi partlayacaq, atın dırnağının altına düşəcək. Bəlkə bu daha yaxşı idi? Bu cür təhqirlərə dözməkdənsə ölüm münasib idi?!
 
-Hava işıqlaşırdı. Binələri bürüyən çiskin yerə yatıb seyrəlir, dərə aşağı sürünüb gedirdi. Qayalar, iri palıd ağacları, güneydəki çəmənlər üzündəki örtüyü atırdı. Ağacların yarpaqları, çəmənliklərin otu şehə batdığından, günəşin ilk şüalarını əks etdirib parıldayırdı. Dəyələrin ətrafindakı səs-küy çoxalırdı. Arvadlar inək sağır, sığırçılar dana-buzov qovurdu. Bir azdan hər şey aydınlaşacaqdı. Duman tamam çəkilirdi.
+Hava işıqlaşırdı. Binələri bürüyən çiskin yerə yatıb seyrəlir, dərə aşağı sürünüb gedirdi. Qayalar, iri palıd ağacları, güneydəki çəmənlər üzündəki örtüyü atırdı. Ağacların yarpaqları, çəmənliklərin otu şehə batdığından, günəşin ilk şüalarını əks etdirib parıldayırdı. Dəyələrin ətrafındakı səs-küy çoxalırdı. Arvadlar inək sağır, sığırçılar dana-buzov qovurdu. Bir azdan hər şey aydınlaşacaqdı. Duman tamam çəkilirdi.
 
 Cahandar ağa xeyli, ata baxa-baxa, sal qaya kimi sükut içində, heç nə anlamadan, heç nə düşünmədən dayandı. Kişi keyimişdi. Necə hə-
 
 @@ 308
 
->>rəkət edəcəyini bilmirdi. O hər şeyi – qorxunu, ehtiyatı unutmuşdu. Bu saat qayaların arasında adam gizlənə biləcəyini, elə bu fürsətdən istifadə edərək onu öldürə biləcəyini belə unutmuşdu. O ancaq bircə şeyi, bu vəziyyətdən necə çıxmağı fikirləşirdi. O bircə şeyi qət etmişdi ki, atın yalının və quyruğunun qırxıldığını kənddə, hətta evdə də heç kəs bilməməlidir, bu bir sirr olaraq qalmalıdır. Bəs bu boyda atı necə gizlətmək olar? Bir azdan bütün binədəkilər buralarda dolaşacaqdı, Bir adam bu işdən xəbər tutsa, kifayət idi. Bəlkə atı gizlincə arana göndərsin? Onda da deməzdilərmi bunun səbəbi nədir? Bir də, bu boyda atı yolda görən olmayacaqdımı? Elə onu kəndə aparan nökərin özünün bu işi bilməsi rüsvayçılıq deyildımi? Cahandar ağa dodaqlarını kip qapayıb, dişlərini bir-birinə sıxdı. Onun alnını, bədənini soyuq tər basdi. Sakitcə irəşməni yığdı. Asta addımlarla cığırla dərəyə endi. O dönüb geri baxdı. Çiskin yox olmuşdu. Qarşıdakı dağın sinəsi işıldayır, binənin üstünə çökən duman geri çəkilirdi.
+>>rəkət edəcəyini bilmirdi. O hər şeyi – qorxunu, ehtiyatı unutmuşdu. Bu saat qayaların arasında adam gizlənə biləcəyini, elə bu fürsətdən istifadə edərək onu öldürə biləcəyini belə unutmuşdu. O ancaq bircə şeyi, bu vəziyyətdən necə çıxmağı fikirləşirdi. O bircə şeyi qət etmişdi ki, atın yalının və quyruğunun qırxıldığını kənddə, hətta evdə də heç kəs bilməməlidir, bu bir sirr olaraq qalmalıdır. Bəs bu boyda atı necə gizlətmək olar? Bir azdan bütün binədəkilər buralarda dolaşacaqdı, Bir adam bu işdən xəbər tutsa, kifayət idi. Bəlkə atı gizlincə arana göndərsin? Onda da deməzdilərmi bunun səbəbi nədir? Bir də, bu boyda atı yolda görən olmayacaqdımı? Elə onu kəndə aparan nökərin özünün bu işi bilməsi rüsvayçılıq deyildimi? Cahandar ağa dodaqlarını kip qapayıb, dişlərini bir-birinə sıxdı. Onun alnını, bədənini soyuq tər basdı. Sakitcə irəşməni yığdı. Asta addımlarla cığırla dərəyə endi. O dönüb geri baxdı. Çiskin yox olmuşdu. Qarşıdakı dağın sinəsi işıldayır, binənin üstünə çökən duman geri çəkilirdi.
 
 Cahandar ağa tələsdi. Lap aşağı, dumanın hələ çəkilmədiyi, əksinə daha da qatılaşdığı yerə enməyi qərara aldı. O heç kəsin gözünə görünməmək, heç kəsə rast gəlməmək üçün dumanın altı ilə getməyə və binələrdən uzaqlaşmağa çalışdı. İndi o bir az toxtamışdı.
 
@@ -8712,9 +8712,9 @@ Cahandar ağa tüfəngini yanına saldı. Sıldırımın qaşında daş kimi day
 
 Axşam qaranlığı qatı bir kölgə kimi Qorinin üzərinə çökmüşdü. Yarımca saat bundan əvvəl zirvəsində günəşin son sarılıqlarını əks etdirən dağlar boyun-boyuna verib mürgüləyirdi. Buranın təbiəti şimala bənzəmirdi, nə bəyaz gecələr, nə də uzun sürən yay axşamları var idi. Birdən-birə zil qaranlıq çökür, birdən-birə də dan yerində şəfəqlər oynaşırdı.
 
-Semyonov artıq bunlara vərdiş etmişdi. Əvvəllər Peterburqun bəyaz gecələrinə vurğun olan Dmitri Dmitriyeviç indi də cənub axşamlarına məftunluq göstərirdi. O hər axşam pəncərə qabağında dayanıb qüruba tamaşa etməyi sevirdi. Bu gün də adəti üzrə, həmişəki yerində durub üfüqlərə baxırdı, bağ-bağat içində itən Qorinin kiçik daxmalarında yanan çıraqlar qaranlıqda parıldayan yaqlız qurdları kimi işıldayırdı.
+Semyonov artıq bunlara vərdiş etmişdi. Əvvəllər Peterburqun bəyaz gecələrinə vurğun olan Dmitri Dmitriyeviç indi də cənub axşamlarına məftunluq göstərirdi. O hər axşam pəncərə qabağında dayanıb qüruba tamaşa etməyi sevirdi. Bu gün də adəti üzrə, həmişəki yerində durub üfüqlərə baxırdı, bağ-bağat içində itən Qorinin kiçik daxmalarında yanan çıraqlar qaranlıqda parıldayan yalqız qurdları kimi işıldayırdı.
 
-Semyonov əllərini sinəsində çarpazlayıb şəhərin kənarında Kürlə qucaqlaşan Liaxva çayının qıjıltısına qulaq asırdı. Pəncərədən içəri dolan xəfif külək onun ağarmaqda olan saçını oynadır, çənəsinin aşağısında haçalanmış topa saqqalının yumşaq tükləri arasında dolanırdı. O tərəfdə, dağların ətəyində yerləşən balaca dəmiryolu vağzalının solğun işıqları görunürdü. Qatarlar ötdükcə təkərlər yeknəsəqliklə taqqıldayır, parovozlar kəsik-kəsik fit verirdi.
+Semyonov əllərini sinəsində çarpazlayıb şəhərin kənarında Kürlə qucaqlaşan Liaxva çayının qıjıltısına qulaq asırdı. Pəncərədən içəri dolan xəfif külək onun ağarmaqda olan saçını oynadır, çənəsinin aşağısında haçalanmış topa saqqalının yumşaq tükləri arasında dolanırdı. O tərəfdə, dağların ətəyində yerləşən balaca dəmiryolu vağzalının solğun işıqları görünürdü. Qatarlar ötdükcə təkərlər yeknəsəqliklə taqqıldayır, parovozlar kəsik-kəsik fit verirdi.
 
 Qapı döyüldü. Olqa Konstantinovna əlindəki tikişi kənara qoyub, asta addımlarla dəhlizə yaxınlaşdı. Qapını açarkən Aleksey Osipoviçlə qarşılaşdı. Boynunu azacıq yana əyib, qonağı içəri dəvət etdi:
 
@@ -8736,13 +8736,13 @@ Onlar evin küncündəki yazı masasının yanına getdilər. Dmitri Dmitriyevi�
 
 Aleksey Osipoviç ona cavab vermək istəyirdi ki, qonşu otağın qapısı açıldı. Olqa Konstantinovna yerindən durana qədər balaca Lida qonağın böyründə dayandı. Yüngülcə təzim etdi:
 
-– Xoş gördük, cənab inspektol.
+– Xoş gördük, cənab inspektor.
 
 Aleksey Osipoviç dərhal yerindən qalxdı. Ayaqlarını cütləyib balaca Lidanın önündə dayandı:
 
 – Xoş gördük, Lida Dimitriyevna, necəsiniz?
 
-– Diqqətinizə gölə minnətdalam.
+– Diqqətinizə gölə minnətdaram.
 
 Aleksey Osipoviç aşağı əyilib Lidanın balaca, zərif əlindən öpdü. Lida daha da nazlandı:
 
@@ -8766,7 +8766,7 @@ Olqa Konstantinovna Aleksey Osipoviçlə ərinin vacib işi olduğunu bildiyind�
 
 Lida qaşqabağını salladı. Altdan-yuxarı anasının üzünə baxdı və yerində silkələndi:
 
-– Yuxum gəlmil.
+– Yuxum gəlmir.
 
 – Adam anasının sözünə baxar. İndi get yat. Havaxt istəsən gəlib sənə nağıl danışaram.
 
@@ -8856,7 +8856,7 @@ Elə bil qaranlıq gecə Yer kürəsinin üzərinə qara pərdə salmaq, onu bü
 
 – Mütləq, – deyə o qətiyyətlə dilləndi. – Qığılcımlar qorlandıqca çoxalacaq, alovlanıb ətrafa işıq saçacaq. Qığılcımlardan od törəyəcək. Bilirsinizmi, Aleksey Osipoviç, mən hər axşam bu qaranlıq cənub gecələrində daxmalarda yanan işıqlara baxanda özümüzü, öz zəhmətimizi xatırlayıram. Biz qaranlıq gecədə, zülmət səltənətində yaşayırıq, deyilmi? Bizim hər bir əməlimiz qaranlıqda ildırım kimi çaxacaq, şimşək kimi parıldayacaq. Niyə susursunuz? Yoxsa mənim dediklərimi təsdiq etmək istəmirsiniz? Qorxmayın, mən inqilabçı deyiləm.
 
-Qapı döyüldü. Olqa Konstantinovna o biri otaqdan çıxıb dəhlizə getdi. Dmitri Dmitriyeviç sözünə ara verib, vaxtsız gələn qonağın kim olduğunu bilmək məqsədi ilə gözünü qapıya zillədi. Olqa Konstantinovna geriyə dönüb təlaşla ərinin üzünə baxdı. Ucaboy və namərbud hərəkətli bir polis nəfəri içəri girdi. Bir an dayanıb gözləri ilə kimi isə axtardı. Dmitri Dmitriyeviçi görən kimi dabanlarını bir-birinə vurub hərbi qaydada təzim etdi. Doşəmə silkələndi. Yoğun bir səs otağın divarlarını cingildətdi:
+Qapı döyüldü. Olqa Konstantinovna o biri otaqdan çıxıb dəhlizə getdi. Dmitri Dmitriyeviç sözünə ara verib, vaxtsız gələn qonağın kim olduğunu bilmək məqsədi ilə gözünü qapıya zillədi. Olqa Konstantinovna geriyə dönüb təlaşla ərinin üzünə baxdı. Ucaboy və namərbud hərəkətli bir polis nəfəri içəri girdi. Bir an dayanıb gözləri ilə kimi isə axtardı. Dmitri Dmitriyeviçi görən kimi dabanlarını bir-birinə vurub hərbi qaydada təzim etdi. Döşəmə silkələndi. Yoğun bir səs otağın divarlarını cingildətdi:
 
 – Cənab direktor, Sizə qayət məxfi bir məktub var. Zati-aliləri şəxsən Sizə təqdim etməyi əmr etmişdir.
 
@@ -8870,7 +8870,7 @@ Semyonov əsəbi hərəkətlə məktubu ondan aldı. Yazı masasına yaxınlaş�
 
 Semyonov kürsüdə əyləşdi. Şamdanı qabağına çəkdi. Zərfi işığa tutub diqqətlə baxdı. Sonra adəti üzrə siyirtmədən balaca qayçı çıxardıb zərfi ehmalca kəsdi. Eynəyini gözünə taxdı. Peşəkar bir katibin əli ilə yazılmış səliqəli məktubu oxuduqdan sonra məktubu kənara atdı və barmaqları ilə masanı taqqıldatdı.
 
-Divar saatının zəngi aramla on bir dəfə danqıldadı. Dmitri Dmitriyeviç düşüncələrdən ayrıldı. Onu sakit etmək üçün "qulluq kağızıdır", – deyə cavab verdi. Olqa Konstantinovna rahat nəfəs alıb, o biri otağa, uşaqların yanına getdi. Aleksey Osipoviç də getməyə hazırlaşdı. Məktubun gəlməsi ilə birdən-birə halı dəyişən Semyonova mane olmamağı, onu tək buraxmağı qərara aldl. Ancaq Dmitri Dmitriyeviç ona icazə vermədi. Yenidən otaqda var-gəl etdi. Birdən Aleksey Osipoviçin qarşısında dayanıb düz onun gözünün içinə baxdı:
+Divar saatının zəngi aramla on bir dəfə danqıldadı. Dmitri Dmitriyeviç düşüncələrdən ayrıldı. Onu sakit etmək üçün "qulluq kağızıdır", – deyə cavab verdi. Olqa Konstantinovna rahat nəfəs alıb, o biri otağa, uşaqların yanına getdi. Aleksey Osipoviç də getməyə hazırlaşdı. Məktubun gəlməsi ilə birdən-birə halı dəyişən Semyonova mane olmamağı, onu tək buraxmağı qərara aldı. Ancaq Dmitri Dmitriyeviç ona icazə vermədi. Yenidən otaqda var-gəl etdi. Birdən Aleksey Osipoviçin qarşısında dayanıb düz onun gözünün içinə baxdı:
 
 – Nə üçün məktubla maraqlanmırsınız?
 
@@ -8880,7 +8880,7 @@ Divar saatının zəngi aramla on bir dəfə danqıldadı. Dmitri Dmitriyeviç d
 
 Aleksey Osipoviç məktubu götürüb nəzərdən keçirdi.
 
-"Mərhəmotli ağa!
+"Mərhəmətli ağa!
 
 Siz cənablara məlumdur ki, Sizin təhdi-himayənizdə olan seminariyada, gürcü dilindən dərs demək üçün cənab Kipianiyə rəsmi olaraq bu şərtlə icazə verdik ki, Siz daim ona nəzarət yetirəsiniz və onu gözdən qoymayasınız. Bu işə məsul olasınız. Buna baxmayaraq, Qoridə
 
@@ -8942,7 +8942,7 @@ Elə bil bu göz yaşları onu yüngülləşdirdi. Arvad ağır yük altından �
 
 >>kə qayçını götürüb kəssin, uşağı yuxudan qaldırıb onun üstünə ölçüb-biçsin? Səhərə qədər yatmayıb tiksin? Bəs Osman özü buna nə deyər?
 
-Mina xalanı yenidən fikir götürdü. O başa düşdü ki, oğlu anasınun fikri ilə razılaşmayacaq. Üstəlik onunla savaşıb uzaq səfərə küsülü gedəcək. Arvad köksünü ötürdü. Paltarları qatlayıb yenidən sandığa yaxınlaşdı. Nə isə tappıltı ilə yerə düşdü. Mina xala əyildi, əlinə yumşaq bir şey dəydi. İşığa gətirib baxdı. Barmaqları əsə-əsə kisənin ağzını açdı. Əli soyuq və yuvarlaq bir şeyə toxundu. Bu soyuq təmas arvadı titrətdi. Azacıq sonra isə həmin soyuqluq isindi, el bil Mina xalanın damarlarına ilıq qan vurdular. Arvadın bədəni qızışdı, gözləri işiqlandı. Çırağı yaxına çəkdi, ovcuna baxdı. Soyuq metal parıldadı.
+Mina xalanı yenidən fikir götürdü. O başa düşdü ki, oğlu anasının fikri ilə razılaşmayacaq. Üstəlik onunla savaşıb uzaq səfərə küsülü gedəcək. Arvad köksünü ötürdü. Paltarları qatlayıb yenidən sandığa yaxınlaşdı. Nə isə tappıltı ilə yerə düşdü. Mina xala əyildi, əlinə yumşaq bir şey dəydi. İşığa gətirib baxdı. Barmaqları əsə-əsə kisənin ağzını açdı. Əli soyuq və yuvarlaq bir şeyə toxundu. Bu soyuq təmas arvadı titrətdi. Azacıq sonra isə həmin soyuqluq isindi, el bil Mina xalanın damarlarına ilıq qan vurdular. Arvadın bədəni qızışdı, gözləri işıqlandı. Çırağı yaxına çəkdi, ovcuna baxdı. Soyuq metal parıldadı.
 
 "Görünür, sən məndən tədbirlisənmiş, a kişi, cibində pul gizlədib dar günə saxlayırsanmış. Elə bil sümüyün duyubmuş ki, bir gün oğlun məktəbə gedəcək, ona xərclik lazım olacaq. Sən nə yaman yerdə harayıma çatdın, a kişi, mən başı batmışsa səni etibarsız bilirdim".
 
@@ -8962,7 +8962,7 @@ Gəmi yarğanın dibində idi. Xırdaca ləpələr onu yırğaladıqca, təknəy
 
 Qoca kişi gəminin kəndirini yoxladı. Suyun daşıb-daşmadığını bilmək üçün sahilə, yarğanın dibindəki ləpədöyənə baxdı. Ağac qırıntıları vo boz köpük zehi əvvəlki yerində idi. Kişi solğunlaşan ulduzlara fikir vermədən atılıb gəmiyə mindi. Çəpi, kürəyi yoxladı. Dal tərəfə keçib heybəni götürdü. Bir tayı yarımçıq qalmış çarığı çıxartdı. Bizi, kövşəni əlinə aldı.
 
-Dünən yuxarıdakı dağ kəndlərindən gəmi ilə keçirdiyi kəndlilərdən bir ona bir cüt gön vermişdi. Kişinin ayağı yalın idi. Bu gön onun əlinə göydən düşmüşdü. Qoca kişi qaranlıq qarışan kimi ocağın işığında gonü köyşələmiş və özünə çarıq tikməyə başlamışdı. Ancaq ağcaqanadlar ona aman verməmişdi.
+Dünən yuxarıdakı dağ kəndlərindən gəmi ilə keçirdiyi kəndlilərdən bir ona bir cüt gön vermişdi. Kişinin ayağı yalın idi. Bu gön onun əlinə göydən düşmüşdü. Qoca kişi qaranlıq qarışan kimi ocağın işığında günü köyşələmiş və özünə çarıq tikməyə başlamışdı. Ancaq ağcaqanadlar ona aman verməmişdi.
 
 Qoca kişi çarığı götürdü. Suvadağa adamlar gələnə qədər tikib geymək istədi. Gün xeyli qalxdı. Yarğanın kölgəsi geri çəkildi. Sular qızardı. Kişi heç nəyə fikir vermədi. Çarığı tikib qurtardı, şirincə gərnəşib bərkdən əsnədi. Ayağını qurulayıb çarığın bir tayını geydi. Elə bu vaxt yarğanın qaşından onu səslədilər. Kişi əlinin üstə qoyub baxdı. Dikdirdə dayananların içində qardaşı oğlu Osmanı görəndə bir xeyli təəccüb etdi. Mina xala, Əşrəf, Əhməd və kəndin arvad-uşağı da yarğanın qaşında idi. Qoca kişi birdən-birə hər şeyi başa düşdü. Çarığı soyundu. Cütləyib kənara qoydu. "Deyəsən qocalıq məni yaman üstələyib, uşaqların uşkola gedəcəyini lap yadımdan çıxartmışam. Gərək Osmanın yoluna bir şey tapaydım".
 
@@ -9028,9 +9028,9 @@ Uşaqlar hərəkətə gəldilər. Gülüşdülər. Səlim dil altında qalmadı:
 
 – Qoca dayı, yol üstündəyik, bizə sataşma.
 
-– Söz güləşdirmə, a nişanlisı göyçək, sonra gecikərik.
+– Söz güləşdirmə, a nişanlısı göyçək, sonra gecikərik.
 
-Rüstəm kişi qabağa gəldi, əlini uzadib kəndirdən yapışdı:
+Rüstəm kişi qabağa gəldi, əlini uzadıb kəndirdən yapışdı:
 
 – Uşaqlarda işin olmasın, özümüz çəkərik, qoy ayaqları islanmasın.
 
@@ -9048,7 +9048,7 @@ Onlar on ildən çox idi ki, evlənmişdilər. Çətin günlərdə bir-birinə h
 
 >>miş, qəribliyə düşəndə bir-birinə sığınmışdılar: ürəklərindən keçənləri gözlərindən oxumuşdular. Aleksey Osipoviç hələ indiyə qədər Veradan narazılıq, azacıq da olsa bir şikayət eşitməmiş, özü də arvadının könlünə toxuna biləcək bir hərəkət etməmişdi. Onlar bir-birini çox istəyirdilər. Uşaq vaxtı Şamaxı tərəfdə, Çuxuryurd yaylaqlarında bir yerdə böyümüşdülər. Vera ağ bənizli, qırmızı yanaqlı malakan qızları ilə bir yerdə ot biçininə gedəndə, bulaq üstə enəndə, ya da ayaqyalın çəmənlikdə qaçanda, Aleksey onu gözaltı süzərdi. Axşamlar isə tez-tez kəndin ortasına toplaşıb qarmon çalar, səhərə qədər oynayıb-oxuyar dan qızarana yaxın evlərə dağılışardılar. Aleksey Veranı tez-tez rəqsə çağırar, sonra da kölgəli küçələrlə evlərinə ötürərdi. Onlar belə hallarda kəndin arasındakı yolla asta-asta addımlayar, aylı gecələrdə qoşalaşan kölgələrinə tamaşa etməkdən doymazdılar. Onların kölgələri gah dağın döşünə sərilər, gah dərəni aşar, gah da yenicə ağardılmış kənd evlərinin divarında baş-başa verərdi. Aleksey Veranı ilk dəfə evlərinin yanında, məhz belə aylı gecələrin birində öpmüşdü. Vera onun hərəkətinə əvvəlcə təəccüb etmiş, xeyli Alekseyin üzünə baxmış, sonra özü də bilmədən onun boynunu bərk-bərk qucaqlamışdı. Kəndin alt tərəfindəki çəmənliyin otu biçilmişdi. Tayalar cərgələnmişdi. Vera baş yaylığını açaraq çəmənliyə qaçmışdı. Onlar qurumuş çiçək və otun ətrindən məst olaraq, tayaların birinin kölgəsində gizlənmişdilər.
 
-Bu ünsiyyət, ilk gənclik mehribanlığı, uşaqlıq isinişməsi onlar evlənəndən sonra da davam etmişdi. Bir yastığa baş qoyduqları gündən indiyə qədər aralarında könülə toxunan bir söz olmamışdı. Vera çox təmkinli qadın idi. Aleksey Osipoviç hiss edirdi ki, o, qüssəli olanda, qəlbində gizli bir dərd baş qaldıranda belə, zahiri şadlığını itirmir, dodaqlarından təbəssüm əskik olmur. O həmişə ərinin sakitliyinə çalışır, onu kədərləndirməmək və fikrini dağıtmaq istəyir. Aleksey Osipoviç də arvadını mehribanlıq və qayği içində saxlayır, onu nəvazişlərə qərq edirdi. Lakin bunların heç biri Veranın ürəyində qubar bağlayan dərdi azalda bilmirdi. Aleksey Osipoviç görürdü ki, arvadı içəridən qovrulur, günü nə qədər xoş keçsə də sarsılır, aybaay, günbəgün qocalır. Vera gündüzlər zahiri təmkinini və şadlığını saxlaya bilsə də, gecələr yuxuya gedən kimi sifətinə qüssə çökür, onun məhzun çöhrəsindən hər şeyi anlamaq olurdu. Aleksey Osipoviç arvadının çox zaman yuxuda çatılan qaşlarına, alnındakı düyünlərə, çöhrəsindəki hüznə ürək ağrısı ilə tamaşa edirdi. O, Veranın yuxuda dəfələrlə uşaq kimi hıçqırıb ağladığını, bəzən də elə bil nəyi isə qucaqlayıb oxşadığını, laylaya bənzər
+Bu ünsiyyət, ilk gənclik mehribanlığı, uşaqlıq isinişməsi onlar evlənəndən sonra da davam etmişdi. Bir yastığa baş qoyduqları gündən indiyə qədər aralarında könülə toxunan bir söz olmamışdı. Vera çox təmkinli qadın idi. Aleksey Osipoviç hiss edirdi ki, o, qüssəli olanda, qəlbində gizli bir dərd baş qaldıranda belə, zahiri şadlığını itirmir, dodaqlarından təbəssüm əskik olmur. O həmişə ərinin sakitliyinə çalışır, onu kədərləndirməmək və fikrini dağıtmaq istəyir. Aleksey Osipoviç də arvadını mehribanlıq və qayğı içində saxlayır, onu nəvazişlərə qərq edirdi. Lakin bunların heç biri Veranın ürəyində qubar bağlayan dərdi azalda bilmirdi. Aleksey Osipoviç görürdü ki, arvadı içəridən qovrulur, günü nə qədər xoş keçsə də sarsılır, aybaay, günbəgün qocalır. Vera gündüzlər zahiri təmkinini və şadlığını saxlaya bilsə də, gecələr yuxuya gedən kimi sifətinə qüssə çökür, onun məhzun çöhrəsindən hər şeyi anlamaq olurdu. Aleksey Osipoviç arvadının çox zaman yuxuda çatılan qaşlarına, alnındakı düyünlərə, çöhrəsindəki hüznə ürək ağrısı ilə tamaşa edirdi. O, Veranın yuxuda dəfələrlə uşaq kimi hıçqırıb ağladığını, bəzən də elə bil nəyi isə qucaqlayıb oxşadığını, laylaya bənzər
 
 @@ 324
 
@@ -9056,9 +9056,9 @@ Bu ünsiyyət, ilk gənclik mehribanlığı, uşaqlıq isinişməsi onlar evlən
 
 Aleksey Osipoviç yorğanı çəkdi. Veranın sinəsini və çiynini örtdü. Onun dən düşmüş saçını üzündən geri atdı. Arxası üstə çevrildi. Gözünü tavana zillədi. Çırağın işığı azalmışdı. Bayırda külək əsirdi. Ağacların xışıltısı eşidilirdi. Arabir parovozlar kəsik-kəsik fit verirdi. Kür qıjıldayırdı.
 
-"Mən nahaq kədərlənirəm. Övladsizlıqdan şikayət eləməyə haqqım yoxdur. Bəs tələbələrim? Məgər onlar mənim övladlarım deyilmi? Məgər mən öləndən sonra onların timsalında yaşamayacammı? Müəllim üçün tələbəsini boya-başa çatdırmaq ən böyük səadət deyilmi? Məgər müəllim tələbələrini öz balasından azmı sevir? Əgər belə olmasaydı, Pestalotsi xəstə tələbələrini buraxıb öz oğlunun dəfninə getməzdimi? Ancaq o getmədi. Fikirləşdi ki, oğlum onsuz da ölmüşdür, onu mənsiz də dəfn edəcəklər. Xəstə uşaqları başsız qoysa daha ağır itkilər baş verə bilər. Gərək biz də o cür pedaqoqların yolu ilə gedək. Fədakarlığı ondan öyrənək. Doğrudan da tələbənin ən yaxın adamı, onun sirdaşı müəllimi deyilmi? Elə hallar olmurmu ki, uşaq ata-anasına demədiyi sirri müəlliminə açır. Yox, mən haqsızam. Mən övladsız deyilam. Mənim balalarımın sorağı bir neçə ildən sonra Azərbaycanın ən ucqar guşələrindən gələcək".
+"Mən nahaq kədərlənirəm. Övladsizlıqdan şikayət eləməyə haqqım yoxdur. Bəs tələbələrim? Məgər onlar mənim övladlarım deyilmi? Məgər mən öləndən sonra onların timsalında yaşamayacammı? Müəllim üçün tələbəsini boya-başa çatdırmaq ən böyük səadət deyilmi? Məgər müəllim tələbələrini öz balasından azmı sevir? Əgər belə olmasaydı, Pestalotsi xəstə tələbələrini buraxıb öz oğlunun dəfninə getməzdimi? Ancaq o getmədi. Fikirləşdi ki, oğlum onsuz da ölmüşdür, onu mənsiz də dəfn edəcəklər. Xəstə uşaqları başsız qoysa daha ağır itkilər baş verə bilər. Gərək biz də o cür pedaqoqların yolu ilə gedək. Fədakarlığı ondan öyrənək. Doğrudan da tələbənin ən yaxın adamı, onun sirdaşı müəllimi deyilmi? Elə hallar olmurmu ki, uşaq ata-anasına demədiyi sirri müəlliminə açır. Yox, mən haqsızam. Mən övladsız deyiləm. Mənim balalarımın sorağı bir neçə ildən sonra Azərbaycanın ən ucqar guşələrindən gələcək".
 
-Aleksey Osipoviç bunları çox yaxşı dərk edirdi. O bütün heyatını məktəbə vermişdi. Səhərdən axşama qədər uşaqlardan ayrılmazdı. Məşğələlərdən sonra onlarla birlikdə yataqxanaya gedər, çarpayıları, yorğan-döşəyi yoxlayar, onları yuxuya verdikdən sonra evə qayıdardı. Başı işə o qədər qarışardı ki, günlərin necə gəlib-getdiyini hiss etməzdi. Bəzən ailəsini, özünü belə unudardı. O hiss etməzdi ki, Vera evdə darıxır, pəncərədən boylanmaqdan yorulur. Ancaq indi, yay tətili günlərində Aleksey Osipoviç sakitlikdən bezmişdi. O özü tək qaldığından, arvadının iztirablarını daha yaxşı dərk edirdi. Sabah uşaqlar gəlməli-
+Aleksey Osipoviç bunları çox yaxşı dərk edirdi. O bütün həyatını məktəbə vermişdi. Səhərdən axşama qədər uşaqlardan ayrılmazdı. Məşğələlərdən sonra onlarla birlikdə yataqxanaya gedər, çarpayıları, yorğan-döşəyi yoxlayar, onları yuxuya verdikdən sonra evə qayıdardı. Başı işə o qədər qarışardı ki, günlərin necə gəlib-getdiyini hiss etməzdi. Bəzən ailəsini, özünü belə unudardı. O hiss etməzdi ki, Vera evdə darıxır, pəncərədən boylanmaqdan yorulur. Ancaq indi, yay tətili günlərində Aleksey Osipoviç sakitlikdən bezmişdi. O özü tək qaldığından, arvadının iztirablarını daha yaxşı dərk edirdi. Sabah uşaqlar gəlməli-
 
 @@ 325
 
@@ -9224,7 +9224,7 @@ Sizin mənim adıma oktyabrın birində göndərdiyiniz 602 nömrəli təliqəy�
 
 27 oktyabr, 1881,№ 93"
 
-Semyonov qovluğu örtüb kənara itələdı. Elə bil otaqda hava çatışmırdı. Köynəyinin yaxasını açdı. Nəfəsliyi itələdi. Sərin, adamı üşürgələndirən bir hava axını içəri doldu. Yarpaqların xışıltısı ilə bərabər çəmən otlarının qoxusu da otağa yayıldı. Kürün o tayındakı balaca dəmiryol stansiyasından kəsik-kəsik fit eşidildi. Semyonov divara dir-
+Semyonov qovluğu örtüb kənara itələdi. Elə bil otaqda hava çatışmırdı. Köynəyinin yaxasını açdı. Nəfəsliyi itələdi. Sərin, adamı üşürgələndirən bir hava axını içəri doldu. Yarpaqların xışıltısı ilə bərabər çəmən otlarının qoxusu da otağa yayıldı. Kürün o tayındakı balaca dəmiryol stansiyasından kəsik-kəsik fit eşidildi. Semyonov divara dir-
 
 @@ 331
 
@@ -9250,7 +9250,7 @@ Semyonov məktubu bitirib imza etdikdən sonra şamları söndürdü və yataq o
 
 ### Dördüncü hissə, 5
 
-Onlar dərin sükut içində, asta addımlarla qədim Qori qalasının yerləşdiyi təpəyə yollandılar. Cığırları ot basmışdı. Bəzi yerlərdə qalanın divarından yuvarlanıb düşən daşlar yolu kəsmişdi. Kipiani azacıq axsadığından dalda qalır, bir az irəlidə gedən Əhməd tez-tez dayanıb onu gözləməli olurdu. Nəhayət, qala divarına yaxın bir yerdə, otları azacıq saralmış göylükdə oturdular. Kipiani dərhal pencəyini çıxardıb yerə atdı və arxası üstə uzandı. Əhməd isə gözünü üfüqə zillədi. Qarşıdakı dağlar baş-başa vermişdi. Meşənin ətəklərində kəndlər, bir az bəridə isə vağzal görünürdü. Göytəpənin yanında burulğanlı və hikkəli olan Kür burada quzu kimi sakit idi. Liaxva çayı ilə birləşəndən sonra belə halını dəyişmir, çəmənliyin ortası ilə qıvrıla-qıvrıla axırdı. Çayın vadisində suya yaxın yerlər yamyaşıl olsa da, ətraf saralmışdı. Əhməd xeyli üfüqlərə qədər uzanıb gedən sulara baxdıqdan sonra üzünü qayalara tərəf çevirdi. Gözünü saralmış daşlara, uçuq-sökük yerlərə, hörgülərin arasında bitən quru otlara zillədi. Hər şey beləcə dəyişir, dağılıb sökülür və köhnəlirdi... Onlar da belə idilər. Peterburqda ilk dəfə tanış olduqları zaman Kipianinin üzünə ülgüc dəyməmişdi. Elə Əhmədin özünün də bığ yeri yenicə tərləmişdi. Onlar Peterburq ali məktəb tələbələrinin gizli yığıncaqlarına birgə gedir, birgə də nümayişə, küçəyə çıxardılar. O zaman tələbələrin ən çox sevdiyi və pərəstiş etdiyi adamlar dekabristlər idi. Heç nədən qorxmurdular. Hətta bəzən gənclik ehtirası və marağı ilə nə isə tezliklə bir iş görməyi, çevriliş etməyi, həbsxanalara, zindanlara belə düşməyi arzu edirdilər. Onlarda həm coşqun bir ədalət hissi, həm də gəncliyə xas olan macəraçı bir cəsurluq vardı. Lakin tələbələrin bu coşqunluğu uzun sürmədi. Xəfiyyələr dərnəklərin gizli fəaliyyətindən xəbər tutdular, uşaqların bəzilərini həbs etdilər, qalanlarını isə məktəbdən qovdular. O zaman Kipiani ələ keçdi. Əhmədi isə məktəbdən xaric etdilər. Aradan illər ötdü. Dostlar indi təsadüfən Qoridə görüşdülər. Kipiani yorğun və məhzun kimi gorünürdü. Deyəsən, əvvəlki coşqunluqdan əlamət qalmamışdı. Yoxsa onun qürurunu sındırmışdılar? Yoxsa sürgün illərı onun iradəsini sarsıtmışdı? Məgər Əhməd özü də dəyişməmişdimi? O da ağır və təmkinli olmamışdımı? Bəlkə də bunlar acizlik və qorxaqlıq əlaməti idi? Bəlkə də ağır maddi vəziyyət, arzuların ilğım kimi əlçatmazlığı onları süstləşdirmişdi? Bəlkə Kipiani taleyinə boyun əyərək ömrünü başa vurmaq istəyirdi?
+Onlar dərin sükut içində, asta addımlarla qədim Qori qalasının yerləşdiyi təpəyə yollandılar. Cığırları ot basmışdı. Bəzi yerlərdə qalanın divarından yuvarlanıb düşən daşlar yolu kəsmişdi. Kipiani azacıq axsadığından dalda qalır, bir az irəlidə gedən Əhməd tez-tez dayanıb onu gözləməli olurdu. Nəhayət, qala divarına yaxın bir yerdə, otları azacıq saralmış göylükdə oturdular. Kipiani dərhal pencəyini çıxardıb yerə atdı və arxası üstə uzandı. Əhməd isə gözünü üfüqə zillədi. Qarşıdakı dağlar baş-başa vermişdi. Meşənin ətəklərində kəndlər, bir az bəridə isə vağzal görünürdü. Göytəpənin yanında burulğanlı və hikkəli olan Kür burada quzu kimi sakit idi. Liaxva çayı ilə birləşəndən sonra belə halını dəyişmir, çəmənliyin ortası ilə qıvrıla-qıvrıla axırdı. Çayın vadisində suya yaxın yerlər yamyaşıl olsa da, ətraf saralmışdı. Əhməd xeyli üfüqlərə qədər uzanıb gedən sulara baxdıqdan sonra üzünü qayalara tərəf çevirdi. Gözünü saralmış daşlara, uçuq-sökük yerlərə, hörgülərin arasında bitən quru otlara zillədi. Hər şey beləcə dəyişir, dağılıb sökülür və köhnəlirdi... Onlar da belə idilər. Peterburqda ilk dəfə tanış olduqları zaman Kipianinin üzünə ülgüc dəyməmişdi. Elə Əhmədin özünün də bığ yeri yenicə tərləmişdi. Onlar Peterburq ali məktəb tələbələrinin gizli yığıncaqlarına birgə gedir, birgə də nümayişə, küçəyə çıxardılar. O zaman tələbələrin ən çox sevdiyi və pərəstiş etdiyi adamlar dekabristlər idi. Heç nədən qorxmurdular. Hətta bəzən gənclik ehtirası və marağı ilə nə isə tezliklə bir iş görməyi, çevriliş etməyi, həbsxanalara, zindanlara belə düşməyi arzu edirdilər. Onlarda həm coşqun bir ədalət hissi, həm də gəncliyə xas olan macəraçı bir cəsurluq vardı. Lakin tələbələrin bu coşqunluğu uzun sürmədi. Xəfiyyələr dərnəklərin gizli fəaliyyətindən xəbər tutdular, uşaqların bəzilərini həbs etdilər, qalanlarını isə məktəbdən qovdular. O zaman Kipiani ələ keçdi. Əhmədi isə məktəbdən xaric etdilər. Aradan illər ötdü. Dostlar indi təsadüfən Qoridə görüşdülər. Kipiani yorğun və məhzun kimi görünürdü. Deyəsən, əvvəlki coşqunluqdan əlamət qalmamışdı. Yoxsa onun qürurunu sındırmışdılar? Yoxsa sürgün illərı onun iradəsini sarsıtmışdı? Məgər Əhməd özü də dəyişməmişdimi? O da ağır və təmkinli olmamışdımı? Bəlkə də bunlar acizlik və qorxaqlıq əlaməti idi? Bəlkə də ağır maddi vəziyyət, arzuların ilğım kimi əlçatmazlığı onları süstləşdirmişdi? Bəlkə Kipiani taleyinə boyun əyərək ömrünü başa vurmaq istəyirdi?
 
 @@ 334
 
@@ -9292,7 +9292,7 @@ Kipiani qaşlarını dartdı. Təəccüb və maraq dolu baxışlarını müsahib
 
 – Bunlar bir-birinə mane olmur. Zənnimcə, gərək əvvəlcə millətin özünü oyadasan. Əgər bir xalq özünü dərk edə bilmirsə, ləyaqət və qüdrətini anlamırsa, nə özünə, nə də başqalarına kömək edə bilər.
 
-Kipiani susdu. Gözləri yol çekirmiş kimi fikirli-fikirli dostumun üzünə baxdı. Qəlbində ona qismən haqq verdi. Əslinə baxsan, onun özü də bu yolla gedirdi. Seminariyaya dərs deməyə də bu məqsədlə gəlmişdi. O çalışırdı ki, tələbələrinə azadlıq ruhunu aşılasın. Onları qürurla yaşamağa, ədalət və haqqı müdafiə etməyə alışdırsın. Onun ən
+Kipiani susdu. Gözləri yol çəkirmiş kimi fikirli-fikirli dostumun üzünə baxdı. Qəlbində ona qismən haqq verdi. Əslinə baxsan, onun özü də bu yolla gedirdi. Seminariyaya dərs deməyə də bu məqsədlə gəlmişdi. O çalışırdı ki, tələbələrinə azadlıq ruhunu aşılasın. Onları qürurla yaşamağa, ədalət və haqqı müdafiə etməyə alışdırsın. Onun ən
 
 @@ 335
 
@@ -9390,7 +9390,7 @@ Uşaqlar gülüşdülər. Kipiani Osmana yaxınlaşıb əlini onun çiyninə qoy
 
 Əhməd xeyli söhbətdən sonra onlarla xudahafizləşdi və Kipiani ilə birlikdə yataqxanadan uzaqlaşdı.
 
-Evə çatdılar. Ev sahibi qabağa keçdi. Qapını açdı. Əhmədi içəri dəvət etdi. Mənzil yarıqaranlıq idi. Kipiani pəncərənin taxtasını açdı. Otağa işıqla bərabər yaxınlıqdan axan Kürun şırıltısı doldu. Sərin hava vurdu. Əhməd evi nəzərdən keçirdi. Küncə yazı stolu qoyulmuşdu. Divara nimdaş gəbə vurulmuşdu. Orta stolun üstündəki müşəmbəli örtük bir neçə yerdən bıçaqla kəsilmişdi. Mürəkkəbdən ləkə-ləkə idi. Sağ tərəfdə bir qapı var idi. Deyəsən, qonşu otağa açılırdı.
+Evə çatdılar. Ev sahibi qabağa keçdi. Qapını açdı. Əhmədi içəri dəvət etdi. Mənzil yarıqaranlıq idi. Kipiani pəncərənin taxtasını açdı. Otağa işıqla bərabər yaxınlıqdan axan Kürün şırıltısı doldu. Sərin hava vurdu. Əhməd evi nəzərdən keçirdi. Küncə yazı stolu qoyulmuşdu. Divara nimdaş gəbə vurulmuşdu. Orta stolun üstündəki müşəmbəli örtük bir neçə yerdən bıçaqla kəsilmişdi. Mürəkkəbdən ləkə-ləkə idi. Sağ tərəfdə bir qapı var idi. Deyəsən, qonşu otağa açılırdı.
 
 Kipiani otaqda bir xeyli fırlandı. Bir neçə dəfə dəhlizə çıxdı, çay qaynatdı, süfrəni səliqəyə saldı, yemək gətirdi, üz-üzə oturdular.
 
@@ -9444,13 +9444,13 @@ Cahandar ağa atın ətrafına bir də dolandı, sonra sakit addımlarla evə do
 
 Hava tutqun idi. Çöllər çoxdan bozarmışdı. Dəmyələrdəki kövşənlərə od vurulduğundan, düzənlər, təpələr ala-tala olmuşdu. Elə bil əkin yerlərinə əyrim-üyrüm qara zolaqlar çəkmişdilər. Meşə də bom-boz idi. Qovaq ağacları saralmış yarpaqlarını tökmüşdü. Sahildəki cələ də çılpaqlaşmışdı. Kür isə yenə əvvəlki kimi burula-burula axır, aşağılarda şaxələnib vadisini genişləndirirdi.
 
-Cahandar ağa atı xeyli çapdıqdan sonra cilovu çəkdi, qutusunu çıxardıb papiros eşdi. Yandırdı. Sümürməyə başladı. Kişinin sinəsi körük kimi qabarıb boşaldı. Burun pərlərindən fısqırıb çıxan bozumtul tüstü layları onun sifətini görünməz etdi. Bu boz-bulanıq tüstü dumanı arasında közərən papirosun işıltısı getdikcə gücləndi. Cahandar ağa papirosu sümürdükcə az qalırdı ki, müştüyü tənbəki qarışıq çeynəyib udsun. Onun əlləri titrəyirdi. Elə bil sinəsini basıb sıxırdılar, nəfəsi darıxırdı. "Səhər-səhər bu toyuq niyə banladı? Yola çıxdığım yerdə bu nəhs əlamət nəydi? Yoxsa evimizın başında bir qaranlıq var? Axı deyirlər toyuq banlayanda bədbəxtlik üz verir? Görəsən indi nə olacaq? Yoxsa mənim özümün başına bir iş gələcək?" Cahandar ağa titrəyən müştüyə baxdı. Hiss etdi ki, əlləri də əsir. "Mənə nə olub? Yoxsa canından qorxuram? Atalar deməyibmi ki, bir ovuc qanından qorxan namərddir? Bəs niyə ürəyim döyünür?"
+Cahandar ağa atı xeyli çapdıqdan sonra cilovu çəkdi, qutusunu çıxardıb papiros eşdi. Yandırdı. Sümürməyə başladı. Kişinin sinəsi körük kimi qabarıb boşaldı. Burun pərlərindən fısqırıb çıxan bozumtul tüstü layları onun sifətini görünməz etdi. Bu boz-bulanıq tüstü dumanı arasında közərən papirosun işıltısı getdikcə gücləndi. Cahandar ağa papirosu sümürdükcə az qalırdı ki, müştüyü tənbəki qarışıq çeynəyib udsun. Onun əlləri titrəyirdi. Elə bil sinəsini basıb sıxırdılar, nəfəsi darıxırdı. "Səhər-səhər bu toyuq niyə banladı? Yola çıxdığım yerdə bu nəhs əlamət nəydi? Yoxsa evimizin başında bir qaranlıq var? Axı deyirlər toyuq banlayanda bədbəxtlik üz verir? Görəsən indi nə olacaq? Yoxsa mənim özümün başına bir iş gələcək?" Cahandar ağa titrəyən müştüyə baxdı. Hiss etdi ki, əlləri də əsir. "Mənə nə olub? Yoxsa canından qorxuram? Atalar deməyibmi ki, bir ovuc qanından qorxan namərddir? Bəs niyə ürəyim döyünür?"
 
 Bu gün hər şey həll olunmalı idi. Özü də təkbətək, qabaq-qabağa. Cahandar ağa onu çox axtarmışdı. Neçə dəfə kəndə gizlicə adam yollayıb, Allahyarın yerini öyrənmək istəmişdi. O isə yağlı çörəyə dönüb,
 
 @@ 341
 
->>yoxa çıxmışdı. Şəhərə qaçıb gizlənmişdi. Cahandar ağa and içmişdi ki düşmənindən intiqam almayınca camaat içinə çıxmayacaq. Beləliklə düz iki ay gözləmişdi. Evdəkilərin üzünə baxmamış, ağzı üstə döşənib yatmışdı. Dünən isə ona xəbər vermişdilər ki, Allahyar gəlib. Cahandar ağa bir gün də gözləyib onu arxayın saldıqdan sonra yola düşməyi qərara almışdı. O özü ilə heç kəsi götürməmişdi. Fikri təkbaşına mərd-mərdanə döyuşmək idi. Onu bircə şey qorxudurdu: düşmənindən əvvəl ölmək!
+>>yoxa çıxmışdı. Şəhərə qaçıb gizlənmişdi. Cahandar ağa and içmişdi ki düşmənindən intiqam almayınca camaat içinə çıxmayacaq. Beləliklə düz iki ay gözləmişdi. Evdəkilərin üzünə baxmamış, ağzı üstə döşənib yatmışdı. Dünən isə ona xəbər vermişdilər ki, Allahyar gəlib. Cahandar ağa bir gün də gözləyib onu arxayın saldıqdan sonra yola düşməyi qərara almışdı. O özü ilə heç kəsi götürməmişdi. Fikri təkbaşına mərd-mərdanə döyüşmək idi. Onu bircə şey qorxudurdu: düşmənindən əvvəl ölmək!
 
 Cahandar ağa papirosu dalbadal sümürüb atdı. Kəhəri mahmızladı. At yerişini artırıb cələni ortadan iki bölən cığırla irəlilədi. Yarğanların dibi ilə xeyli getdi. Cahandar ağa özünü sakitləşdirmək üçün papirosu papirosun oduna yandırdı. At döngələri burulub dikdirə çıxdı. Uca yarğanın qaşında fınxırıb dayandı. Kişi fikirdən ayrılıb gözünü Kürə zillədi. Su boz-bulanıq idi. Sahil boyu mal-qara otlayırdı. Bir az bəridə atlar gəmirişirdi. Bir dəstə qız cığırla suya enirdi.
 
@@ -9476,7 +9476,7 @@ Gəlib bic əyyamı, namərd dünyası,
 
 Mənmi qocalmışam, ya zəmanəmi?
 
-At, sabibinin yüyəni boşaltdığını hiss edib, cığırla sahilə endi. Cilovu dartıb suya girdi. Cahandar ağa ona mane olmadı. Doyunca, şorultu ilə su içməsinə imkan verdi. Özü də yenidən papiros eşib yandırdı. Yenə mahnıya qulaq asdı:
+At, sahibinin yüyəni boşaltdığını hiss edib, cığırla sahilə endi. Cilovu dartıb suya girdi. Cahandar ağa ona mane olmadı. Doyunca, şorultu ilə su içməsinə imkan verdi. Özü də yenidən papiros eşib yandırdı. Yenə mahnıya qulaq asdı:
 
 Belə zaman hara, qoç igid hara,
 
@@ -9532,7 +9532,7 @@ Aleksey Osipoviç çayını təzələyib yenidən dəftərləri vərəqlədi. Ə
 
 >>pəlilər sentyabr ayından ta mayın axırına qədər burada, binədə olurlar. Bu meşənin camaata çox xeyri dəyir. Ancaq indi buranı qoruq ediblər Atlı kazaklar gecə-gündüz keşik çəkir, heç kəsi yaxına buraxmırlar. Deyilənə görə, buranı Qafqaz valisi böyük knyazdan ötəri saxlayırlar. Onun kefi istəyəndə Tiflisdən buraya ova gələcəkdir. Kim o tərəflərə hərlənsə güllə ilə vururlar. Məgər bu düzdürmü? Kür yanımızdan axsa da, sulu yerimiz yoxdur. Camaat dəmyələrdə taxıl əkir. Bizim qolumuzdan tutan meşə idi, onu da əlimizdən aldılar. Bir parça torpağın bəsrətini çəkib qarın dolusu çörək axtaranların halına heç kəs qalmır. Görəsən bu niyə belədir? Axı, deyirlər insanlar bərabərdir. Əgər belədirsə, hamı təbiətin övladıdırsa, nə üçün biri kasıb, o biri varlıdır?"
 
-Aleksey Osipoviç son sətirləri bir də oxudu. Qırmızı mürəkkəblə altından xətt çəkdi. Yavaşca ayağa durub otaqda gəzindı. O, yazı işinə nə qiymət verəcəyindən çox, Osmanın ağlına bu cür fikirlərin haradan gəlməsini bilməyə çalışırdı. Axı, müəllimlərdən heç kəs onlara Fransa maarifçilərindən danışmırdı. Bəs o, Russonun fikirlərini kimdən öyrənmişdi?
+Aleksey Osipoviç son sətirləri bir də oxudu. Qırmızı mürəkkəblə altından xətt çəkdi. Yavaşca ayağa durub otaqda gəzindi. O, yazı işinə nə qiymət verəcəyindən çox, Osmanın ağlına bu cür fikirlərin haradan gəlməsini bilməyə çalışırdı. Axı, müəllimlərdən heç kəs onlara Fransa maarifçilərindən danışmırdı. Bəs o, Russonun fikirlərini kimdən öyrənmişdi?
 
 Aleksey Osipoviç pəncərənin qabağında dayandı. Seminariyanın həyətinə, sonra müsəlman şöbəsinin yataqxanasına baxdı. İşıqlar sönmüşdü. Ətraf sükuta qərq olmuşdu. Yalnız yataqxana otaqlarının birində, pəncərənin önündə zəif işıq titrəyirdi. Aleksey Osipoviç dönüb çarpayıda yatan arvadına baxdı. Onu yuxudan oyatmamaq üçün ehmalca, barmaqlarının ucunda dəhlizə çıxdı. Paltarını geyinib həyətə düşdü. Asta addımlarla yataqxanaya getdi. "Yoxsa intizam pozulmuşdur. Uşaqlar dərsdən sonra başqa yerlərə gedirlər? Gecələr yataqxanada da olmurlar? Bəlkə onları oxumaqdan ayırıb başqa işlərə cəlb edənlər var?"
 
@@ -9656,7 +9656,7 @@ Aleksey Osipoviç ondan aralandı. Kipiani onun addım səsləri kəsilənə qə
 
 ### Dördüncü hissə, 8
 
-Əşrəf yuxudan ayılan kimi əlini sinəsinin üstünə apardı. Kitabı tapmadıqda yorğanı atib yerindən sıçradı. Yastığını qaldırdı, döşəyin altını yoxladı, gözünə heç nə dəymədi. Rəngi kağız kimi ağardı. Çarpayının dörd yanına fırlandı, əyilib aşağı baxdı, pəncərənin qabağını axtardı. "Bu necə ola bilər?" – deyə düşündü. Yoldaşlarını oyatmaq, onlardan bir-bir kitab görüb-görmədiklərini soruşmaq istədi. Ancaq
+Əşrəf yuxudan ayılan kimi əlini sinəsinin üstünə apardı. Kitabı tapmadıqda yorğanı atıb yerindən sıçradı. Yastığını qaldırdı, döşəyin altını yoxladı, gözünə heç nə dəymədi. Rəngi kağız kimi ağardı. Çarpayının dörd yanına fırlandı, əyilib aşağı baxdı, pəncərənin qabağını axtardı. "Bu necə ola bilər?" – deyə düşündü. Yoldaşlarını oyatmaq, onlardan bir-bir kitab görüb-görmədiklərini soruşmaq istədi. Ancaq
 
 @@ 350
 
@@ -9720,9 +9720,9 @@ Birdən o, sözünə ara verdi. Kənardaca, Firidunun yanında dayanan Əşrəfi
 
 – Niyə qaş qabaqlısan?
 
-O, çiynini çəkib susdu. Kipiani tələbəsinin çənəsinin altından tutub yuxarı qaldırdı. Əşrəf yalnız indi onun sifətinə baxa bildi. Zəhmli, qəzəbli baxış əvəzinə gülümsər gözləri gördükdə bir azacıq sakitləşdi. Onun əlindən yapışıb üzr istəmək və müəllim, məni danlamayın, özum gedib kitabı geri alacağam. Ölsəm də Sizin adınızı vermərəm" – demək istədi.
+O, çiynini çəkib susdu. Kipiani tələbəsinin çənəsinin altından tutub yuxarı qaldırdı. Əşrəf yalnız indi onun sifətinə baxa bildi. Zəhmli, qəzəbli baxış əvəzinə gülümsər gözləri gördükdə bir azacıq sakitləşdi. Onun əlindən yapışıb üzr istəmək və müəllim, məni danlamayın, özüm gedib kitabı geri alacağam. Ölsəm də Sizin adınızı vermərəm" – demək istədi.
 
-Məktəbin zəngi aram-aram danqıldadı. Uşaqlar tərpənənə qədər Boris Mixayloviç Pettovun cır səsi eşidildi:
+Məktəbin zəngi aram-aram danqıldadı. Uşaqlar tərpənənə qədər Boris Mixayloviç Petrovun cır səsi eşidildi:
 
 – Xristianlar sağ tərəfə, müsəlmanlar isə sol tərəfə, ikibir düzlənin!
 
@@ -9784,7 +9784,7 @@ Petrovun cır səsi yenidən eşidildi:
 
 Tələbələr ayaq saxladılar. Petrov isə boynunu əyib, eynəyinin altından tərs-tərs Kipianiyə baxdı. O buna əhəmiyyət vermədi və üzünü uşaqlara tutdu:
 
-– Tarix dərnəyinın üzvləri ibadətdən sonra yanıma gəlsinlər. Məşğələmiz və bir balaca gəzintimiz olacaq.
+– Tarix dərnəyinin üzvləri ibadətdən sonra yanıma gəlsinlər. Məşğələmiz və bir balaca gəzintimiz olacaq.
 
 Petrov etiraz etdi:
 
@@ -9832,7 +9832,7 @@ Tələbələr nizami əsgər kimi iri addımlarla həyətdən çıxdılar. Xrist
 
 Əşrəf udqundu. Gözlərini zilləyib müəlliminə baxdı. Onun dediklərinin ciddimi, yoxsa zarafatını olduğunu bilmək istədi. Bu saat Kipianinin onun haqqında nələr düşündüyünü öyrənməyə çalışdı. Onun arzusu bu idi ki, müəllimi ona inansın, onu xain, xəbərçi hesab etməsin. Kipiani də öz növbəsində Əşrəfin baxışlarından onun nələr düşündüyünü öyrənməyə çalışırdı. O başa düşdü ki, uşaq həyəcanlıdır, narahatdır. Gözlərindən oxudu ki, peşmançılıqla xəcalət hissi bir-birinə qarışmışdır. Əşrəf iztirab çəkir, səhv bir iş tutduğundan utanır, həm də qorxur. Özü də onu narahat edən odur ki, başqasını fəlakətə sala bilər. Kipiani onu da başa düşdü ki, Əşrəf buraxdığı səhvini düzəltmək üçün hər şeydən keçməyə hazırdır.
 
-Aralığa çökən bu adi sükut Əşrəfə bir il qədər uzun göründü və o heç nə söyləmədən, heç nə danışmadan geri dönüb Kipianidən aralanmaq istədi. Ancaq müəllim onun qolundan tutub saxladi:
+Aralığa çökən bu adi sükut Əşrəfə bir il qədər uzun göründü və o heç nə söyləmədən, heç nə danışmadan geri dönüb Kipianidən aralanmaq istədi. Ancaq müəllim onun qolundan tutub saxladı:
 
 – Kitabı oxuyub qurtardınmı?
 
@@ -9862,7 +9862,7 @@ O, indi də sakitcə dayanıb sinif otaqlarına göz gəzdirdi. Hər şey öz qa
 
 @@ 357
 
->>kimi də qorxudan qapı-bacanı daha da möhkəm bağladı. Atlılar dar küçələri, əyri döngələri keçib, seminariyanın yanına qədər gəldilər Burada azca dayandıqdan sonra iki yerə ayrıldılar. Bir hissə məktəbin ətrafinı kəsdi, o biri hissə yataqxananı mühasirəyə aldı. Atdan düşdülər. Üst-başlarının tozunu çırpıb papiros yandırdılar. Səhərin şəffaf havasında daha aydın görünən göyümtül tüstülər burula-burula yuxarı qalxıb laylandı.
+>>kimi də qorxudan qapı-bacanı daha da möhkəm bağladı. Atlılar dar küçələri, əyri döngələri keçib, seminariyanın yanına qədər gəldilər Burada azca dayandıqdan sonra iki yerə ayrıldılar. Bir hissə məktəbin ətrafını kəsdi, o biri hissə yataqxananı mühasirəyə aldı. Atdan düşdülər. Üst-başlarının tozunu çırpıb papiros yandırdılar. Səhərin şəffaf havasında daha aydın görünən göyümtül tüstülər burula-burula yuxarı qalxıb laylandı.
 
 Rəis darvazanın yanındakı xidmətçiyə etina etmədən irəli keçdi. Arxasınca gələn polislərlə birlikdə pilləkəni taqqıldada-taqqıldada yuxarı qalxdı. Eyvanda Semyonovla qarşılaşdı:
 
@@ -9962,7 +9962,7 @@ Rəis ayağa durdu. Qapının ağzını kəsdirən polislər qamətlərini bir a
 
 Boris Mixayloviç belinin əyrisini düzəldib sinəsini qabağa verdi və əlini pencəyinin yaxasından içəri saldı. Çəliyini qolunun büküləcəyinə keçirtdi. Özünü şax tutaraq, rəsmi keçid qəbul edən adamlar kimi dabanlarını yerə vura-vura sinif otaqlarının qabağından ötdü. O həmişə növbətçi olanda qəsdən, uşaqları vahiməyə salmaq üçün cırıldayan çəkmə geyinərdi. Bu gün də həmin çəkmələr ayağında idi. İndi polislərin önündə irəlilədikcə onun çəkmələri daha ucadan cırıldayırdı. Rəis və onun dalınca gələn polislər isə təhlükəli bir ovu qaçıracaqlarından qorxurlarmış kimi əllərini naqanın qoburundan çəkmir və pəncələri üstündə yeriyirdilər.
 
-Sinif otaqlarından səslər kəsildi. Müəllimlər əllərində təbaşir dayandılar. Uşaqlar pəncərələrin qabağına toplaşdılar. Müsəlman şöbəsində dərs deyən Çernıyayevski sözünə ara verib qapıya yaxınlaşdı. Çərçivəyə dirsəklənərək başım əlinə söykədi. Hamıdan əvvəl Əşrəf pəncərəyə yaxınlaşdı. Bütün məktəb nəfəsini içəri çəkib susdu. Boris Mixayloviçin bələdçilik etdiyi dəstənin harada dayanacağını gözlədi. Növbətçi müəllim ayaq saxladı. Gözü ilə Kipianinin dərs dediyi otagı göstərdi. Polislərdən bir neçesi pəncərənin qabağında dayandı. Rəis isə astanada durub içərini dinşədi. Kipianinin səsi gəlirdi. O, ucadan Puşkinin şerini oxuyurdu:
+Sinif otaqlarından səslər kəsildi. Müəllimlər əllərində təbaşir dayandılar. Uşaqlar pəncərələrin qabağına toplaşdılar. Müsəlman şöbəsində dərs deyən Çernıyayevski sözünə ara verib qapıya yaxınlaşdı. Çərçivəyə dirsəklənərək başım əlinə söykədi. Hamıdan əvvəl Əşrəf pəncərəyə yaxınlaşdı. Bütün məktəb nəfəsini içəri çəkib susdu. Boris Mixayloviçin bələdçilik etdiyi dəstənin harada dayanacağını gözlədi. Növbətçi müəllim ayaq saxladı. Gözü ilə Kipianinin dərs dediyi otağı göstərdi. Polislərdən bir neçəsi pəncərənin qabağında dayandı. Rəis isə astanada durub içərini dinşədi. Kipianinin səsi gəlirdi. O, ucadan Puşkinin şerini oxuyurdu:
 
 @@ 360
 
@@ -10011,7 +10011,7 @@ Kipiani yenə istehza ilə gülümsündü, sonra əsasını götürdü, kitablar
 
 – Əsəbiləşməyin.
 
-Kipiani qarşısındakı adamın qızarmış çöhrəsinə baxdı. Təmkinini pozmadan qələmi götürüb jurnalı yazdı. Bir xeyli gözünü yazıdan çəkmədi. Elə bil öz xəttinə həsrətlə baxırdı. Artıq getmək vaxtı olduğunu başa düşdü. Başını qaldırıb tələbələrini bir daha süzdü. Əlini qapının dəstəyinə uzatdı. Uşaqlar gurultu ilə ayağa qalxdılar. Pttrov onların qabağını kəsdi:
+Kipiani qarşısındakı adamın qızarmış çöhrəsinə baxdı. Təmkinini pozmadan qələmi götürüb jurnalı yazdı. Bir xeyli gözünü yazıdan çəkmədi. Elə bil öz xəttinə həsrətlə baxırdı. Artıq getmək vaxtı olduğunu başa düşdü. Başını qaldırıb tələbələrini bir daha süzdü. Əlini qapının dəstəyinə uzatdı. Uşaqlar gurultu ilə ayağa qalxdılar. Petrov onların qabağını kəsdi:
 
 – Yadınıza salıram, bu gün dərsdən sonra heç bir gəzinti və məşğələ olmayacaq.
 
@@ -10063,13 +10063,13 @@ Qurğuşun kimi ağır və qatı bir qaranlıq qanad gərib seminariyanın üzə
 
 @@ 364
 
->>idi. İnsanı qurğuşun kimi əzib, qüssə və kədərə qərq edən bu ağır sükutdan adamın qulağı güyüldəyirdi. Ancaq Petrov heç nəyə fikir vermədən bir kabus kimi sinif otaqlarının qabağında dolaşırdı. O hər şeyi bilmək, hər pıçıltını dinlamək və hər sözü eşitmək istəyirdi. O, bu dəfə adəti xilafına ayağını yerə astaca basır və çalışırdı ki, çəkmələri səslənməsin.
+>>idi. İnsanı qurğuşun kimi əzib, qüssə və kədərə qərq edən bu ağır sükutdan adamın qulağı güyüldəyirdi. Ancaq Petrov heç nəyə fikir vermədən bir kabus kimi sinif otaqlarının qabağında dolaşırdı. O hər şeyi bilmək, hər pıçıltını dinləmək və hər sözü eşitmək istəyirdi. O, bu dəfə adəti xilafına ayağını yerə astaca basır və çalışırdı ki, çəkmələri səslənməsin.
 
 Petrov xeyli dolaşdı, pəncərələrin önündə ayaq saxladı və nəhayət, müsəlman şöbəsinin otaqlarına yaxınlaşdı. Qapıların dalında ayaq saxlayıb içərini dinşədi və axırda Əşrəf oxuyan qrupun pəncərəsinə yaxınlaşdı. Özünü göstərməməyə çalışaraq, ehtiyatla içəri boylandı.
 
 Sinif nümayəndəsi Firidun qapı tərəfdəki stolun arxasında oturmuşdu. Qalan uşaqlar ikibir-ikibir əyləşib dərs oxuyurdular. Firidun hərdən mütaliəsinə ara verib uşaqlara baxır, onların nə ilə məşğul olmasına göz qoyurdu.
 
-Petrov az qala burnunu şüşəyə yaxınlaşdırdı və uşaqların içində Əşrəfi axtardı. O lap dalda əyləşmişdi. Yanında da heç kəs yox idi, nə isə ciddi bir şey oxuyurdu. Petrov pəncərədən nə qədər boylandısa da, Əşrəfin oxuduğu kitabı görə bilmədi. Daha da şübhələndi və gurultu ilə içəri girdi. Hamıdan əvvəl Firidun diksinib ayağa qalxdı. Onun "diqqət!" deməsi ilə stolun üstündəki çırağın sönməsi bir oldu. Otağa qaranlıq çökdü. Uşaqlar yerlərində qurdalandılar. Petrovun cıngiltili səsi otağa yayıldı:
+Petrov az qala burnunu şüşəyə yaxınlaşdırdı və uşaqların içində Əşrəfi axtardı. O lap dalda əyləşmişdi. Yanında da heç kəs yox idi, nə isə ciddi bir şey oxuyurdu. Petrov pəncərədən nə qədər boylandısa da, Əşrəfin oxuduğu kitabı görə bilmədi. Daha da şübhələndi və gurultu ilə içəri girdi. Hamıdan əvvəl Firidun diksinib ayağa qalxdı. Onun "diqqət!" deməsi ilə stolun üstündəki çırağın sönməsi bir oldu. Otağa qaranlıq çökdü. Uşaqlar yerlərində qurdalandılar. Petrovun cingiltili səsi otağa yayıldı:
 
 – Heç kəs yerindən tərpənməsin! Tez ol, çırağı yandır!
 
@@ -10079,7 +10079,7 @@ Petrov az qala burnunu şüşəyə yaxınlaşdırdı və uşaqların içində Ə
 
 – Bu saat, cənab müəllim, təqsir özünüzdə oldu. Qapını birdən-birə açmasaydınız, külək çırağı söndürməzdi. Kibriti tapa bilmirəm.
 
-Petrov daha da əsəbiləşdi. Pencəyinin cibindən kibrit çtxardıb Firiduna verdi:
+Petrov daha da əsəbiləşdi. Pencəyinin cibindən kibrit çıxardıb Firiduna verdi:
 
 – Al, ancaq əlli ol.
 
@@ -10119,7 +10119,7 @@ Firidun kibriti çəkib çırağı yandırdı. Bir anda divarda kölgələr oyna
 
 – Budur.
 
-Petrov kitabı bir xeyli əlində hərlədi, sonra Əşrafin dəftərlərinin arasını axtardı. Bir şey tapmadıqda daha da əsəbiləşdi:
+Petrov kitabı bir xeyli əlində hərlədi, sonra Əşrəfin dəftərlərinin arasını axtardı. Bir şey tapmadıqda daha da əsəbiləşdi:
 
 – Dur, sinifdən çıx!
 
@@ -10153,7 +10153,7 @@ Bir az bundan əvvəl başı gicəllənib yıxılmağa hazır olan Əşrəfin ta
 
 – Səsini kəs!
 
-Semyonov əlini masaya çırpib var gücü ilə bağırdı və dərhal yerindən sıçrayıb ayağa qalxdı. Onun qışqırtısından divar cingildədi. Di-
+Semyonov əlini masaya çırpıb var gücü ilə bağırdı və dərhal yerindən sıçrayıb ayağa qalxdı. Onun qışqırtısından divar cingildədi. Di-
 
 @@ 367
 
@@ -10229,7 +10229,7 @@ Semyonov başının üstünü kəsdirmiş Petrova altdan-yuxarı xeyli baxdıqda
 
 Əşrəfin kəmərini açdılar, şapkasındakı nişanı sökdülər və elə həmin gecə qaranlıq, rütubət zirzəmiyə saldılar. O, bir xeyli susdu. Ayağının altındakı saman xışıltısından başqa heç nə eşitmədi. İrəli yerimək istədikdə başı divara deydi, əli nəm daşlara toxundu. Əşrəf tərpənmədi. Gözü qaranlığa alışana qədər gözlədi. Hər yer sakit idi. Hardasa su damcılayır, arabir siçan civildəyirdi. Onun əti çimçəşdi, bu rütubətli zirzəmidə qalmağı şəninə sığışdırmadı, ayağa durub qapını sındırmaq və birbaş yataqxanaya yollanmaq istədi. Bayırda səs eşidib susdu. Nə danışıldığını öyrənməyə çalışdı. Növbətçi müəllim Petrov keşikçi tələbəyə göstəriş verirdi. "Bu tərəfə bir adam hərlənsə, ona bir parça çörək verilsə, səni bu çəliklə ölüncəyə qədər əzişdirəcəm, özünü də məktəbdən qovduracam, eşitdinmi? Qapıya qıfıl vur, özüm bir azdan gəlib hər şeyi yoxlayacam".
 
-Əşrəfin dişi bağırsaqlarını doğrasa da dınmədi. Petrovun çəkmələrinin cırıltısı kəsənəcən susdu.
+Əşrəfin dişi bağırsaqlarını doğrasa da dinmədi. Petrovun çəkmələrinin cırıltısı kəsənəcən susdu.
 
 Onun keşiyini çəkən İvan adlı bir tələbə idi. Xristian şöbəsində oxuyan bu uşaqla Əşrəf bir-iki dəfə Kipianinin dərnəyində rastlaşmışdı. Araları açıq deyildi. Ona görə də bir söz deməkdən çəkinirdi. Bir də ona deyiləsi sözü də yox idi. Direktorun əmri ilə onu cəzalandır-
 
@@ -10269,7 +10269,7 @@ Qapı astadan döyüldü.
 
 Səni məktəbdən qova bilməzlər. Hamımız sənin dalında durmuşuq. Öldü var, döndü yoxdur. Çörəyi yedinmi? Deyəsən səs gəlir, geri çəkil.
 
-Əşrəf zirzəminin küncünə qısıldı. Ürəyi döyünə-döyunə bayırı dinlədi. Vanya kiminləsə xısın-xısın danışdı və aradan on dəqiqə keçəndən sonra yenidən Əşrəfi səslədi:
+Əşrəf zirzəminin küncünə qısıldı. Ürəyi döyünə-döyünə bayırı dinlədi. Vanya kiminləsə xısın-xısın danışdı və aradan on dəqiqə keçəndən sonra yenidən Əşrəfi səslədi:
 
 @@ 370
 
@@ -10315,7 +10315,7 @@ Saat yeknəsəq bir ahəngdarlıqla danqıldadı. Semyonov düşüncələrdən a
 
 – Bu sizə çatacaq.
 
-Semyonov zərfi aldı. Şamın işığına tutub diqqətlə nəzərdön keçirdi. Kağızın üstündə nə poçt möhüru vardı, nə də surğuc.
+Semyonov zərfi aldı. Şamın işığına tutub diqqətlə nəzərdən keçirdi. Kağızın üstündə nə poçt möhürü vardı, nə də surğuc.
 
 – Kimdəndir?
 
@@ -10333,7 +10333,7 @@ Semyonov çaşıb qaldı. Frakını və şlyapasını stolun üstünə atıb kü
 
 Kişi lap darıxdı. Yataqxanaya getmək istədiyini, Çernyayevskini gözlədiyini unutdu, ayağa durub fikirli-fikirli otaqda gəzindi. Saat on ikiyə az qalırdı. Yəqin indi uşaqların hamısı yatır. Əgər bu xəbər doğrudursa, kazaklar səhər tezdən burada olmalıdırlarsa, indi Tiflisdən yola düşüblər. Onlar bütün gecəni yatmayacaq, məktəb yuxuda ikən üstümüzü almağa çalışacaqlar. Görəsən bu kimin qurğusudur? Yoxsa mənim özümü də ləkələmək istəyirlər? Yoxsa bizim seminariyanı da şübhəli məktəblər cərgəsinə qatmaq istəyirlər? Bizim uşaqların əlində nə ola bilər?
 
-O bir qədər sakitləşdi və təşvişə düşməyi yersiz saydi, hətta bu barədə heç kəsə bir söz deməməyi qərara aldı. Yenidən şlyapasını və frakını götürdü. Qapıya çatmamış bayırda ayaq səsi eşidib dayandı. Aleksey Osipoviç içəri girdi və azacıq əyilib direktora təzim etdi.
+O bir qədər sakitləşdi və təşvişə düşməyi yersiz saydı, hətta bu barədə heç kəsə bir söz deməməyi qərara aldı. Yenidən şlyapasını və frakını götürdü. Qapıya çatmamış bayırda ayaq səsi eşidib dayandı. Aleksey Osipoviç içəri girdi və azacıq əyilib direktora təzim etdi.
 
 – Üzr istəyirəm, gecikdim.
 
@@ -10431,7 +10431,7 @@ Otağa ağır sükut çökdü. Saat kəfgirinin tıqqıltısı daha da güclənd
 
 – Müsəlman şöbəsi də bir o qədər toplayıb.
 
-– Yaxşı iş görmüsünüz, bala, sizin alicənablığınızdan xoşum gəldi. Pulları verin mənə. Sabah müəllimlərdən də toplayarıq, lazımi yerlərlə özum danışaram. Çalışaram ki, siz deyən kimi olsun. Siz necə məsləhət görürsünüz, Aleksey Osipoviç?
+– Yaxşı iş görmüsünüz, bala, sizin alicənablığınızdan xoşum gəldi. Pulları verin mənə. Sabah müəllimlərdən də toplayarıq, lazımi yerlərlə özüm danışaram. Çalışaram ki, siz deyən kimi olsun. Siz necə məsləhət görürsünüz, Aleksey Osipoviç?
 
 – Bu barədə müəllimlərlə danışmağı mən öhdəmə götürürəm. – Görək məbləği heç olmasa min manata çatdıraq.
 
@@ -10581,7 +10581,7 @@ Zər paqonlu cavan bir zabit meşin çəkilmiş qapını açıb Semyonovu içər
 
 Kim isə öskürdü. Semyonov astaca addımlarla küncə doğru irəlilədi. İri yazı masasının önünə çatanda kürsüdə əyləşən qubernatoru gördü və azacıq əyilib təzim etdi. Qubernator ona başını tərpətməklə cavab verdi və əli ilə işarə etdi ki, əyləşsin. Semyonov yumşaq stullardan birində oturdu və qarşısındakı kağızlara baxan qubernatora göz qoydu. Onun boyu balaca idi. Qıvrım saçları ağarmışdı. Hətta bəzi yerlər papiros hisinə düşmüş kimi saralmışdı. Çiynindəki paqonun zərli saçaqları astaca tərpənirdi. Qubernatorun bakenbardı az qala uzun bığlarına qarışmışdı. O sakit və qaraqabaq adama oxşayırdı.
 
-Semyonov qubernatoru süzdükdən sonra gözünü onun üzündən yayındırıb divara baxdı. Hər yer yağlı boya ilə rənglənmişdi. Həm də firça elə işlədilmişdi ki, adam divara suvaq yox, palıd ağacından qabıq çəkildiyini zənn edirdi. Qubernatorun başı üstündə imperatorun tavandan döşəməyə qədər divarı tutan iri şəkli asılmışdı. Həmin şəklin önündə qubernator lap balacalaşır və iri masa arxasında əyləşən bir oyuncağa dönürdü.
+Semyonov qubernatoru süzdükdən sonra gözünü onun üzündən yayındırıb divara baxdı. Hər yer yağlı boya ilə rənglənmişdi. Həm də fırça elə işlədilmişdi ki, adam divara suvaq yox, palıd ağacından qabıq çəkildiyini zənn edirdi. Qubernatorun başı üstündə imperatorun tavandan döşəməyə qədər divarı tutan iri şəkli asılmışdı. Həmin şəklin önündə qubernator lap balacalaşır və iri masa arxasında əyləşən bir oyuncağa dönürdü.
 
 Döşəməni neftlə sildiklərindən hava ağırlaşmışdı. İçəridəki bu kəsif qoxu və ağır sükut adamı darıxdırırdı. Üstəlik, küncdən iri saatın ahəngdar tıqqıltısı otağa hüznlü bir səs yayırdı.
 
@@ -10637,7 +10637,7 @@ Onun vəziyyəti çox ağırdır.
 
 – Mənə bir direktor kimi etimad edilməməsindən. Mən xahiş edirəm, göstəriş verəsiniz, bundan sonra bir daha tələbələrin və müəllimlərin izzət-nəfsinə toxunmasınlar. Elə bilirəm biz nə iş tutduğumuzu polislərdən yaxşı başa düşürük.
 
-Qubernator kürsüdə bir az yayxandı və gozünü qıyıb müsahibinə baxdı. Dmitri Dmitriyeviç də gözünü ondan çəkmədi. O nə qədər çalışdısa da, sifətinin bircə əzası belə tərpənməyən, soyuq baxışlı qubernatorun nə duşündüyünü, onun dedikləri ilə şərik olub-olmadığını müəyyənləşdirə bilmədi. Qubernator yenə əvvəlki kimi sakit və təmkinli idi. Ona görə də onun verdiyi sual Semyonov üçün çox gözlənilməz oldu.
+Qubernator kürsüdə bir az yayxandı və gözünü qıyıb müsahibinə baxdı. Dmitri Dmitriyeviç də gözünü ondan çəkmədi. O nə qədər çalışdısa da, sifətinin bircə əzası belə tərpənməyən, soyuq baxışlı qubernatorun nə düşündüyünü, onun dedikləri ilə şərik olub-olmadığını müəyyənləşdirə bilmədi. Qubernator yenə əvvəlki kimi sakit və təmkinli idi. Ona görə də onun verdiyi sual Semyonov üçün çox gözlənilməz oldu.
 
 – Peterburqdan çoxdanmı çıxmısınız?
 
@@ -10711,7 +10711,7 @@ Qubernator siyirtməni çəkdi. Xeyli eşələndikdən sonra iri bir şəkil ç�
 
 – Bunu tanıyırsınızmı?
 
-Dmitri Dmitriyeviç şəkli götürdü. Jiletinin döş cibindən eynəyini cıxardıb gözünə taxdı və diqqətlə baxdı:
+Dmitri Dmitriyeviç şəkli götürdü. Jiletinin döş cibindən eynəyini çıxardıb gözünə taxdı və diqqətlə baxdı:
 
 – Tanıyıram. Müəllimdir. Bizim seminariyaya tələbə gətirmişdi.
 
@@ -10727,7 +10727,7 @@ Semyonov şəklə baxdı. Təəccüblə çiyinlərini çəkdi. Sonra ayağa duru
 
 – Bunun oğlu Sizin seminariyada oxuyur. Özü isə meydanda at oynadıb bizim kazaklarla döşləşir. Heç kəsi tanımaq istəmir. Başa düşdünüzmü bunlar nə deməkdir, cənab Semyonov? Əgər onları vaxtında əzməsək, bizə qan uddurarlar. Unutmayın ki, biz buraya qoşunla, ordu ilə gəlmişik. Süngülər, kazak qılıncları, qalalar olmasa, bircə gün də hakimiyyəti əldə saxlaya bilmərik. Aydındırmı? Bizə Sizin maarif ordunuz yox, əli qılınclı kazak lazımdır.
 
-Qubernator dabanı üstə qalxıb bir-iki dəfə ləngər vurduqdan sonra keçib yerində əyləşdi. Dərhal əvvəiki kimi balacalaşdı və sakitləşdi:
+Qubernator dabanı üstə qalxıb bir-iki dəfə ləngər vurduqdan sonra keçib yerində əyləşdi. Dərhal əvvəlki kimi balacalaşdı və sakitləşdi:
 
 – Qəhvənizi için.
 
@@ -10771,7 +10771,7 @@ Semyonov əyri-üyrü küçələrdən, dar dalanlardan keçdi və özü də hiss
 
 Semyonov suyun axarı ilə xeyli irəlilədi və Metex qalasının bərabərində ayaq saxladı. O birinci dəfə görürmüş kimi qarşıdakı sahilə gözünü zillədi. Hündür yarğanın lap üstündə iki, üçmərtəbəli evlər tikilmişdi. Eyvanlar süzüb Kürün üstünə gəlmişdi. Külək dirəklərə bağlanmış iplərin üstünə sərilən paltarları havada oynadırdı. Adama elə gəlirdi ki, bu saat yarğanın torpağı axıb töküləcək, evlərin divarları qarınlanıb gurultu ilə suya düşəcək. Orada yaşamaq bir yana qalsın, kənardan tamaşa etmək insanı vahimələndirir. Ancaq bu evlərin sakinləri heç nəyi veclərinə almırdılar. Əksinə, suya baxan pəncərələri açıb qurşağa qədər sallanır, qonşularını səsləyib nə isə deyirdilər. Uşaqlar eyvanlarda qaçışırdılar.
 
-Semyonov bir xeyli sıldırım qayalıqlardakı qartal yuvalarını xatırladan bu evlərə baxdıqdan sonra gözünü Metex qalasına zillədi. Kilseyə oxşayan bu bina nəhəng bir qayanın üstündə tikilmişdi. Sal daşların ətəyini Kürün ləpələri yalayırdı. Sular özünü həmin qayaya çırpır, sonra da bunu əzilmiş kimi geri çəkilib yatağına qısılırdı. Qala divarlarının üstündə keşikçilər dolaşırdılar. Onlar açıq səmanın fonunda xırdaca qarışqalara bənzəyirdilər. Semyonov istər-istəməz Kipianini xatırladı. Ona elə gəldi ki, o, buradadır. Bəlkə dar barmaqlıqların arasından şəhərə boylanır? Bəlkə o da Semyonov kimi gözünü Kürün burulğanlı sularına zilləyib həsrətlə sahili seyr eləyir? Semyonov xəyalında yarğanın hündürlüyünü ölçdü: "Yəqin altmış arşın olar. Yox, lap çoxdur. Bəlkə də lap yüz arşındır? Görəsən, oradan atılıb suya düşmək olarmı? Adam qayalara dəyib parçalanmazmı? Yox, çətin işdir. Bu zindandan yaxa qurtarmaq heç ağlasığan iş deyil". Semyonov köksünü ötürüb yenidən qalanın zirvəsinə baxdı. Qüllənin arxasında səmanın açıq-maviyə çalan bir parçası görünürdü. Orada iki
+Semyonov bir xeyli sıldırım qayalıqlardakı qartal yuvalarını xatırladan bu evlərə baxdıqdan sonra gözünü Metex qalasına zillədi. Kilsəyə oxşayan bu bina nəhəng bir qayanın üstündə tikilmişdi. Sal daşların ətəyini Kürün ləpələri yalayırdı. Sular özünü həmin qayaya çırpır, sonra da bunu əzilmiş kimi geri çəkilib yatağına qısılırdı. Qala divarlarının üstündə keşikçilər dolaşırdılar. Onlar açıq səmanın fonunda xırdaca qarışqalara bənzəyirdilər. Semyonov istər-istəməz Kipianini xatırladı. Ona elə gəldi ki, o, buradadır. Bəlkə dar barmaqlıqların arasından şəhərə boylanır? Bəlkə o da Semyonov kimi gözünü Kürün burulğanlı sularına zilləyib həsrətlə sahili seyr eləyir? Semyonov xəyalında yarğanın hündürlüyünü ölçdü: "Yəqin altmış arşın olar. Yox, lap çoxdur. Bəlkə də lap yüz arşındır? Görəsən, oradan atılıb suya düşmək olarmı? Adam qayalara dəyib parçalanmazmı? Yox, çətin işdir. Bu zindandan yaxa qurtarmaq heç ağlasığan iş deyil". Semyonov köksünü ötürüb yenidən qalanın zirvəsinə baxdı. Qüllənin arxasında səmanın açıq-maviyə çalan bir parçası görünürdü. Orada iki
 
 @@ 385
 
@@ -10823,7 +10823,7 @@ Kazaklar diksinib geri atıldılar. Boğuq bir səs eşidildi:
 
 – Əvvəlcə sən keç.
 
-Əhməd qapıya yaxınlaşdı. İtələyib taybatay açdı. Kibrit çəkib çırağı yandırdı. Kazaklar otaq işıqlanan kimi hər yeri gözdən keçirdilər. Əhmədin tək olduğunu bilib sakitləşdilər. Əhməd geri donüb onların üzünə baxdı və dərhal, bir neçə ay bundan əvvəl pristavla Göytəpəyə gələn yekəpər kazakı tanıdı:
+Əhməd qapıya yaxınlaşdı. İtələyib taybatay açdı. Kibrit çəkib çırağı yandırdı. Kazaklar otaq işıqlanan kimi hər yeri gözdən keçirdilər. Əhmədin tək olduğunu bilib sakitləşdilər. Əhməd geri dönüb onların üzünə baxdı və dərhal, bir neçə ay bundan əvvəl pristavla Göytəpəyə gələn yekəpər kazakı tanıdı:
 
 – Xoş gördük, köhnə dost, sənsən, gecə vaxtı haradan gəlirsən?
 
@@ -10937,7 +10937,7 @@ O, papirosunu axırıncı dəfə sümürüb atdi. Qalxıb yerin içində oturdu.
 
 @@ 392
 
->>dar ağa özünə dalda yer seçib arxaya bir-iki güllə atdıqdan sonra gördü ki, gələnlər dayandılar və geri qayıtdılar. Cahandar ağa yəqin etdi ki, Allahyargilin kəndində qoçaq adam yoxdur. Onun dalınca axıra qədər gəlməyəcəklər. O, atını yarğanların dibi ilə rahatca sürdü və girməyə çatanda Kürü üzüb meşəyə keçdi. Birbaş Göytəpəyə qayıtdı. Bir neçə gün evdə qaldıqdan sonra kəndin arasına çıxdı. Gözü ilə Molla Sadığı axtardı. O, Molla Sadıqla birdəfəlik haqq-hesabı çürütmək istəyirdi. Fikirləşmişdi ki, bəlkə divan-dərə adamları tökülüb gəldilər, məni qamarlayıb araya aldilar, ya tutdular, ya da başıma bir iş gəldi. Molla Sadıq sağmı qalsın? Ancaq xoşbəxtlikdənmi, yoxsa bədbəxtlikdənmi, nədənsə, o günü molla gözə dəymədi. Cahandar ağa kəndin arasında bir xeyli hərləndikdən sonra evə qayıtdı. Kişi bir şey hiss etdi ki, camaat ona əvvəlki kimi baxmır. Elə bil ondan çəkinirlər. Onunla üz-üzə gəlmək istəyənlər azalıb. Kişi baxışlardan oxudu ki, onu məzəmmət eləyənlər də var. Axı, mən nə etmişəm? Hansı haqsız iş tutmuşam ki, məni qınayırlar?
+>>dar ağa özünə dalda yer seçib arxaya bir-iki güllə atdıqdan sonra gördü ki, gələnlər dayandılar və geri qayıtdılar. Cahandar ağa yəqin etdi ki, Allahyargilin kəndində qoçaq adam yoxdur. Onun dalınca axıra qədər gəlməyəcəklər. O, atını yarğanların dibi ilə rahatca sürdü və girməyə çatanda Kürü üzüb meşəyə keçdi. Birbaş Göytəpəyə qayıtdı. Bir neçə gün evdə qaldıqdan sonra kəndin arasına çıxdı. Gözü ilə Molla Sadığı axtardı. O, Molla Sadıqla birdəfəlik haqq-hesabı çürütmək istəyirdi. Fikirləşmişdi ki, bəlkə divan-dərə adamları tökülüb gəldilər, məni qamarlayıb araya aldılar, ya tutdular, ya da başıma bir iş gəldi. Molla Sadıq sağmı qalsın? Ancaq xoşbəxtlikdənmi, yoxsa bədbəxtlikdənmi, nədənsə, o günü molla gözə dəymədi. Cahandar ağa kəndin arasında bir xeyli hərləndikdən sonra evə qayıtdı. Kişi bir şey hiss etdi ki, camaat ona əvvəlki kimi baxmır. Elə bil ondan çəkinirlər. Onunla üz-üzə gəlmək istəyənlər azalıb. Kişi baxışlardan oxudu ki, onu məzəmmət eləyənlər də var. Axı, mən nə etmişəm? Hansı haqsız iş tutmuşam ki, məni qınayırlar?
 
 Cahandar ağa evə qayıtdıqdan sonra heç kəsin üzünə baxmadı. Yer saldırıb yatdı. Titrəməli adamlar kimi yorğanın altında əsdi. Nə qədər çalışdısa da, Allahyarın son anını, gözlərindəki axırıncı ifadəni unuda bilmədi. Cahandar ağa düşmənini öldürdükdən sonra hər şeyi unudaraq bir neçə saniyə onun üzünə baxmışdı. Kişinin yazıq görkəmi qəlbini riqqətə gətirmişdi. Ani olaraq düşünmüşdii ki, bunun günahı nəydi? Mənə nə pislik eləmişdi ki, öldürdüm? Hər nə eləmişdimsə, mən eləmişdim. Əgər mən onun arvadını götürüb qaçmasaydım, heç məni tanımazdı da!
 
@@ -10947,7 +10947,7 @@ Cahandar ağa papiros eşdi. Yandırıb tüstülətdi. Sonra paltarını geyindi
 
 >>burulduğunu, ləpələrin sahil torpaqlarını necə yaladığını uğultudan təyin etdi. O başa düşdü ki, su daşıb. Neçə gündən bərk yağan yağış Kürü yenə yerindən oynadıb. Sular köhlən at kimi cilovu gəmirir, yatağına sığmır.
 
-Azacıq işıqlandı. Beş-altı addımlıqdakı quru otlar, xırdaca kətyən kolları, sahilə enən boz cığırlar görürdü. Kişi donmuşdu. Tüfəngini dizinin üstünə aldı. Yenə papiros eşdi. Gözünü isə samanlığın üstündə bitən kətyənə zillədi. Çiskin onun quru şaxlarında tumurcuqlanmışdı. Qoşabuynuz bir ilbiz qabığından çıxıb budağın üstü ilə süründü. Cahandar ağa ikrahla üzünü yana çevirdi. Elə bu vaxt talvarın altındakı at qulaqlarını şəkləyib kişnədi, Kişi hövlnak dönüb baxdı. Gördü ki, atın gözləri oynayır. Yalının tükləri pırpızlanıb. At yerində vurnuxur dartınır və təlaşla firlanır.
+Azacıq işıqlandı. Beş-altı addımlıqdakı quru otlar, xırdaca kətyən kolları, sahilə enən boz cığırlar görürdü. Kişi donmuşdu. Tüfəngini dizinin üstünə aldı. Yenə papiros eşdi. Gözünü isə samanlığın üstündə bitən kətyənə zillədi. Çiskin onun quru şaxlarında tumurcuqlanmışdı. Qoşabuynuz bir ilbiz qabığından çıxıb budağın üstü ilə süründü. Cahandar ağa ikrahla üzünü yana çevirdi. Elə bu vaxt talvarın altındakı at qulaqlarını şəkləyib kişnədi, Kişi hövlnak dönüb baxdı. Gördü ki, atın gözləri oynayır. Yalının tükləri pırpızlanıb. At yerində vurnuxur dartınır və təlaşla fırlanır.
 
 O, ayağa durdu, Samanlığın üstündən enmək istədi. Haradasa lap yaxında, suvadağın bərabərində at kişnədi. Cahandar ağa tüfəngini hərləyib barmağını tətiyə uzatdı. Darvazadan səs gəldi. Nökərlər doqqaza çıxana qədər iki atlı kazak siyirmə qılınc həyətə girdi. İtlər irəli atılıb onları yəhərdən salmağa çalışdı. Nökərlər araya keçdilər. Kazaklardan biri acığını Tapdığın üstünə tökdü:
 
@@ -10965,7 +10965,7 @@ Kişi birdən-birə silkələnib titrədi. Beyninə qan sıçradı. Gözü heç 
 
 >>sındakı qaraltıları gördü və başa düşdü ki, yolları kəsiblər. Çox fikirləşmədi. Samanlığın dal tərəfindəki çuxuru özünə səngər edib, qaraltılara doğru dalbadal güllə yağdırdı. Ona cavab verdilər. Kəndə səs düşdü. İtlər ağız-ağıza verdilər. Cahandar ağanın nökərləri ora-bura qaçışdılar. Onlar da tüfəng götürüb samanlıq tərəfə gəldilər. Atışma yenidən qızışdı. Cahandar ağa güllələrin səsindən boşa çıxıb-çıxmadığını təyin etdi.
 
-Suvadağ tərəfdən atılan güllələr azaldı. Ancaq gözlənilmədən xır yolu tərəfdən də güllə yağdı. Cahandar ağa gördü ki, onun evini arakəsməyə salacaqlar. Belə getsə, evdə arvad-uşaq da qırılacaq, özü də ələ keçəcək. Kişinin bədəni gizildədi. Birdən yerindən atılıb talvarın altına getdi. Sıçrayib atın belinə qalxdı. Bir göz qırpımında çəpərdən atılıb, sahilə doğru çapdı. Dərəyə enərkən arxaya bir-iki güllə atdı. Kazaklar onun aradan çıxacağını duyub atın belinə qalxdılar. Ancaq onun sərrast güllələrindən ehtiyatlanıb ətrafa səpələndilər. Yalnız yekəpər kazak qıllı papağını gözünün üstünə basıb atın yalına yatdı. Atlar dabanbasaraq çapdılar. Cahandar ağa nə qədər çalışdısa da, yüyəni nə qədər boşaltdısa da, hiss etdi ki, kazak onu haqlayır. Bir neçə dəqiqədən sonra arxadan yetişəcək. Kişi "ax Qəmər" – deyə xəyalından keçirdi. Ancaq əl-qolunu boşaltmadı. Sahilə az qalırdı. Artıq kazakların səfini yarıb aradan çıxmışdı, bir az keçsə, Kürə çatacaqdı. O, atı bir də mahmızladı. Ona elə gəldi ki, bütün kənd ayağa qalxmışdır. Damların üstünə çıxıb onlara tamaşa edirlər. Cahandar ağanın necə qaçdığına, düşmənin arxadan ona necə çatdığına və onu qılıncla necə parçalamaq istədiyinə tamaşa edirlər. Birdən o hər şeyi unutdu. Cilovu çəkib qəfildən atın başını geri qanırdı. At bu gözlənilməz təkandan dik qalxdı, dal ayaqları üstə fırlandı. Kazak qılıncın havaya qaldırıb endirdi. Cahandar ağa tətiyi çəkdi. Qılıncın parçaları göydə oynadı. Atlar döş-döşə toxundular. Kazakla Cahandar ağanın gözü ani olaraq bir-birinə sancıldı. Hər ikisinin qıllı qaşı qan sağılmış gözünün üstünə endi. Burun pərələri köruk kimi genişləndi. Fısıltıları atların fınxırtısını batırdı. Kazakın dodaqları kipcə bağlandı. Cahandar ağanın həbəşi dodaqları isə titrədi. Hər şey bircə andan, kimin tez tərpənməsindən asılı idi. Birdən nərilti qopdu. Güllə açıldı. Xəncər havada oynadı. At kişnədi. Qışqırıq iniltiyə qarışdı. Kazak sinəsini tutub yəhərdə qıvrıldı və gurultu ilə atın dırnaqlarına düşdü. Cahandar ağanın köksü yandı. O bircə dəfə cilovu çəkə bildi. At kişnəyib şahə qalxdı. Sahilə doğru çapdı. Arxadan ayaq tappıltılarının gəldiyini hiss edib bütün gücünü topladı. Cahandar ağa dumanlanmış gözlərini axar suya zillədi. Kür
+Suvadağ tərəfdən atılan güllələr azaldı. Ancaq gözlənilmədən xır yolu tərəfdən də güllə yağdı. Cahandar ağa gördü ki, onun evini arakəsməyə salacaqlar. Belə getsə, evdə arvad-uşaq da qırılacaq, özü də ələ keçəcək. Kişinin bədəni gizildədi. Birdən yerindən atılıb talvarın altına getdi. Sıçrayıb atın belinə qalxdı. Bir göz qırpımında çəpərdən atılıb, sahilə doğru çapdı. Dərəyə enərkən arxaya bir-iki güllə atdı. Kazaklar onun aradan çıxacağını duyub atın belinə qalxdılar. Ancaq onun sərrast güllələrindən ehtiyatlanıb ətrafa səpələndilər. Yalnız yekəpər kazak qıllı papağını gözünün üstünə basıb atın yalına yatdı. Atlar dabanbasaraq çapdılar. Cahandar ağa nə qədər çalışdısa da, yüyəni nə qədər boşaltdısa da, hiss etdi ki, kazak onu haqlayır. Bir neçə dəqiqədən sonra arxadan yetişəcək. Kişi "ax Qəmər" – deyə xəyalından keçirdi. Ancaq əl-qolunu boşaltmadı. Sahilə az qalırdı. Artıq kazakların səfini yarıb aradan çıxmışdı, bir az keçsə, Kürə çatacaqdı. O, atı bir də mahmızladı. Ona elə gəldi ki, bütün kənd ayağa qalxmışdır. Damların üstünə çıxıb onlara tamaşa edirlər. Cahandar ağanın necə qaçdığına, düşmənin arxadan ona necə çatdığına və onu qılıncla necə parçalamaq istədiyinə tamaşa edirlər. Birdən o hər şeyi unutdu. Cilovu çəkib qəfildən atın başını geri qanırdı. At bu gözlənilməz təkandan dik qalxdı, dal ayaqları üstə fırlandı. Kazak qılıncın havaya qaldırıb endirdi. Cahandar ağa tətiyi çəkdi. Qılıncın parçaları göydə oynadı. Atlar döş-döşə toxundular. Kazakla Cahandar ağanın gözü ani olaraq bir-birinə sancıldı. Hər ikisinin qıllı qaşı qan sağılmış gözünün üstünə endi. Burun pərələri körük kimi genişləndi. Fısıltıları atların fınxırtısını batırdı. Kazakın dodaqları kipcə bağlandı. Cahandar ağanın həbəşi dodaqları isə titrədi. Hər şey bircə andan, kimin tez tərpənməsindən asılı idi. Birdən nərilti qopdu. Güllə açıldı. Xəncər havada oynadı. At kişnədi. Qışqırıq iniltiyə qarışdı. Kazak sinəsini tutub yəhərdə qıvrıldı və gurultu ilə atın dırnaqlarına düşdü. Cahandar ağanın köksü yandı. O bircə dəfə cilovu çəkə bildi. At kişnəyib şahə qalxdı. Sahilə doğru çapdı. Arxadan ayaq tappıltılarının gəldiyini hiss edib bütün gücünü topladı. Cahandar ağa dumanlanmış gözlərini axar suya zillədi. Kür
 
 @@ 395
 
@@ -10975,7 +10975,7 @@ Suvadağ tərəfdən atılan güllələr azaldı. Ancaq gözlənilmədən xır y
 
 Kürün o tayından əsən qəfil külək sahildəki biçənəyin üstündən adlayıb kəndin arasını dolaşdıqdan sonra kövşənliyi xışıldatdı, xır yolu tərəfə gəldi və gözlənilmədən yana burulub təpədəki qəbristanlığa doğru döndü. Qədim qəbir daşlarının başına dolandı, burulğan kimi fırlanıb qurumuş otları, boz kətyən kollarını, keçən ildən qalmış çör-çöpü süpürdü, qabağına qatıb təpədən aşağı tökdü. Elə bil son bahar nəfəsi ilə cana gəlib cücərən qəbristanlığa süpürgə çəkdilər, hər yer tərtəmiz oldu. Azacıq sonra isə göyün üzünü seyrək, qara bulud bürüdü. Hara isə tələsən bu duman kəndin bərabərində aşağı çökdü, ətəyini sallayıb torpağı yaladı, onun soyuq nəfəsi qəbristanlığa qədər gəlib çıxdı. İri yağış damcıladı. Qəbirlərin torpağı xal-xal oldu.
 
-Əşrəf ayağa durdu. Dizini çırpıb koksünü ötürdü. Boyun-boyuna verən dərin bir hüzn içində mürgüləyən qəbir daşlarına xeyli baxdı. Təpənin lap yuxarısında az qala iki adam boyu ucalığında olan çəhrayı rəngli başdaşının üstünü mamır basmışdı. Otların naxışları, yazıları güclə seçilirdi. Köhnə, batıq qəbirlər torpağın altında qalmışdı. Yanlarında tüfəng, xəncər, at çəkilmiş başdaşılarının bəzisi böyrü üstə əyilmişdi. İzi tamam itən qəbirlər də var idi.
+Əşrəf ayağa durdu. Dizini çırpıb köksünü ötürdü. Boyun-boyuna verən dərin bir hüzn içində mürgüləyən qəbir daşlarına xeyli baxdı. Təpənin lap yuxarısında az qala iki adam boyu ucalığında olan çəhrayı rəngli başdaşının üstünü mamır basmışdı. Otların naxışları, yazıları güclə seçilirdi. Köhnə, batıq qəbirlər torpağın altında qalmışdı. Yanlarında tüfəng, xəncər, at çəkilmiş başdaşılarının bəzisi böyrü üstə əyilmişdi. İzi tamam itən qəbirlər də var idi.
 
 Əşrəf sükut içində, başdaşlarından seçilməz halda xeyli dayandıqdan sonra atasının hələ torpağı yapıxmamış qəbrinə baxdı. Onu Şahnigarla yanaşı basdırmışdılar. Bacı-qardaş qoşa yatırdı. Əşrəfin bir az əvvəl əli ilə sığallayıb, yan-yörəsini düzəltdiyi qəbri iri yağış damcıları
 
@@ -11001,7 +11001,7 @@ Pəncərədən aralandı. Stul götürüb Şamxalla yanaşı oturdu:
 
 – Qutunu mənə ver.
 
-Şamxalın qaşları çatıldı. Təəccüblə qardaşının üzünə baxdı və qutunu çıxardıb dinməzcə ona uzatdı. Əşrəf naşılıqla papıros eşdı. Ehtiyatla çəkməyə başladı.
+Şamxalın qaşları çatıldı. Təəccüblə qardaşının üzünə baxdı və qutunu çıxardıb dinməzcə ona uzatdı. Əşrəf naşılıqla papiros eşdı. Ehtiyatla çəkməyə başladı.
 
 – Gedəkmi?
 

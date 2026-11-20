@@ -62,7 +62,7 @@ Azacıq keçmiş Hümmət dəstəsi ilə gəldi və cənazəni görüb təəccü
 
 – Hümmət kişi, çıx ikinci mərtəbənin eyvanına, bir yaxşı "Səhər havası" çal, qoy camaat yığışıb gəlsin.
 
-Zurnaçı Hümmət dərhal eyvana qalxdı, üzünü səhər şəfəqlərinə qərq olmuş üfuqə tutdu və özünün dərdini, kədərini də "Səhər havası"na qatıb, kəndi haraya çağırdı...
+Zurnaçı Hümmət dərhal eyvana qalxdı, üzünü səhər şəfəqlərinə qərq olmuş üfüqə tutdu və özünün dərdini, kədərini də "Səhər havası"na qatıb, kəndi haraya çağırdı...
 
 Məktəbin həyətində tərpənməyə yer yox idi. Bütün kənd camaatı - başıpapaqlı kişilər, oğlanlar, qımqımlı-zümzüməli qız-gəlinlər axın-axın gəlib meydana toplaşmışdılar. Bayaqdan özünü yalqız hiss edən və hardasa qüssələnib kədərlənən Uçitel cənazənin yuxarı tərəfinə keçdi. Camaatın tam sakitləşməyini gözlədi, sonra astadan sözə başladı.
 

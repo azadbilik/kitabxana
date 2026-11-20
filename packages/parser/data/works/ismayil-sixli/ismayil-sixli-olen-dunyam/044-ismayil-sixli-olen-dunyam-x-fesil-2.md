@@ -30,9 +30,9 @@ Maşın silkələnə-silkələnə kələ-kötür yollarla yarım saat getdikdən
 
 Zirəzələr, siyirmələr cingildədi. Qapı azca aralandı və Halay bəyi içəri saldılar.
 
-Halay bəy başa düşdü ki, onu şəhərin kənarındakı qalaya gətiriblər. El arasında buraya "Şəkərin qalası" deyirlər. Qala qırmızı kərpicdən tikilmişdi. İkimərtəbəli böyük bina idi. Geniş hoyəti və hündür hasarı var idi. Pəncərələri dəmir çərçivəyə alınmışdı və ölü gözü kimi qaralırdı.
+Halay bəy başa düşdü ki, onu şəhərin kənarındakı qalaya gətiriblər. El arasında buraya "Şəkərin qalası" deyirlər. Qala qırmızı kərpicdən tikilmişdi. İkimərtəbəli böyük bina idi. Geniş həyəti və hündür hasarı var idi. Pəncərələri dəmir çərçivəyə alınmışdı və ölü gözü kimi qaralırdı.
 
-Keşikçi milislər onu içəri apardılar. Qapını arxasınca bağladılar. Üfunətli və boğanaq havadan az qala boğuldu. Tavandan təkəm-seyrək elektrik fanarları asılmışdı. Onların içində ildrım zolaqları kimi kəsişən işıq telləri şəhərin elektrik stansiyasının motor səsinə uyğun olaraq gah şiddətlənir, gah da öləziyirdi. Qala ikimərtəbəli idi. Dəmir barmaqlıqlarnan hissələrə ayrılmışdı. Bura qaladan çox karvansaraya oxşayırdı. Görünür, nə vaxtsa bu binanı tikdirən "Şəkər kişi" heç nəyi nəzərə almamışdı.
+Keşikçi milislər onu içəri apardılar. Qapını arxasınca bağladılar. Üfunətli və boğanaq havadan az qala boğuldu. Tavandan təkəm-seyrək elektrik fanarları asılmışdı. Onların içində ildırım zolaqları kimi kəsişən işıq telləri şəhərin elektrik stansiyasının motor səsinə uyğun olaraq gah şiddətlənir, gah da öləziyirdi. Qala ikimərtəbəli idi. Dəmir barmaqlıqlarnan hissələrə ayrılmışdı. Bura qaladan çox karvansaraya oxşayırdı. Görünür, nə vaxtsa bu binanı tikdirən "Şəkər kişi" heç nəyi nəzərə almamışdı.
 
 Halay bəy içəridəki şıqqıltılardan başa düşdü ki, qalada dustaqlar var. Onlar divar boyu uzanmışdılar. Bəziləri oturub söhbət edir, bəziləri isə tünd, turşməzə havaya dözməyib öskürüşürdülər. İçəri təzə dustaq gətirildiyini görüb söhbətlərinə ara verdilər.
 
@@ -46,7 +46,7 @@ Döşəməyə ot tökmüşdülər. Dustaqlara yorğan-döşək əvəzinə quru o
 
 Halay bəy isə əllərini başının altında çarpazlayıb arxası üstə uzandı. Gözlərini tavana zillədi. Gah közərən, gah da öləziyən şimşəkvari tellərin qızartısına tamaşa elədi. İşıqlar can verən xəstə adamın ürəyi kimi, gah döyünür, gah da nəbzini itirirdi. Qulağına səs gəldi. Dinşədi. Bu zəng səsi idi. Qala hasarının üstündə keşik çəkənlərin bir-birini yoxlaması idi.
 
-Növbədə duran hər keşikçinin yanında iki dəmir parçası var idi. Biri havadan asılmışdı. O biri isə toxmağa bənzəyirdi. Hər yarım saatdan bir baş darvazanın yanındaki keşikçi bu dəmirləri danqıldadırdı. Onu eşidən ikinci, üçüncü və dördüncü keşikçi də öz "zəng"ini çalırdı. Beləliklə səhərə qədər bir-birilərini vaxtaşırı yoxlayirdılar.
+Növbədə duran hər keşikçinin yanında iki dəmir parçası var idi. Biri havadan asılmışdı. O biri isə toxmağa bənzəyirdi. Hər yarım saatdan bir baş darvazanın yanındakı keşikçi bu dəmirləri danqıldadırdı. Onu eşidən ikinci, üçüncü və dördüncü keşikçi də öz "zəng"ini çalırdı. Beləliklə səhərə qədər bir-birilərini vaxtaşırı yoxlayirdılar.
 
 Halay bəy bu yeknəsəq danqıltılara qulaq asdı və hətta bu danqıltıları saymağa başladı. Onun yadına Qarayazı meşəsində, gecə sakitliyində səhərə qədər bir-birini çağıran anadillərin qərib, məhzun səsi gəldi.
 

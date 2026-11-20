@@ -38,7 +38,7 @@ Vaqeən, dürüst ərz edirəm, bəlkə indi xudanəkərdə Bibiheybət ziyarət
 
 Dəxi sözün nədir, gözüvə dönüm? Əgər ümuri-diniyyəmizi hökumətə mühəvvəl etmək sənin xoşuna gəlmir, Bibiheybət ziyarətgahını hökumətin əvvəl yadına salan Bakı qazısıdır ki?!
 
-İndi gələk Pişnamazzadə cənablarına. Bu yazıq da baxıb görür ki, iş işdən keçib, görür ki, indiyə kimi ziyarətgahın mədaxilini Nəcəf uşaqları yeyəndən sonra indi də Bakı qazısı dişlərini itilədib. Və bu işləri bu halda görəndən sonra, şeyxülislamın təklifi dəxi o imiş ki, eləyibdir. İndi hər kəs bizə isbat eləsə ki, Mir Məhəmməd Kərim ağanın tamahı Nəcəf uşalarının tamahıdan əskikdir, biz “minavat” olarıq.
+İndi gələk Pişnamazzadə cənablarına. Bu yazıq da baxıb görür ki, iş işdən keçib, görür ki, indiyə kimi ziyarətgahın mədaxilini Nəcəf uşaqları yeyəndən sonra indi də Bakı qazısı dişlərini itilədib. Və bu işləri bu halda görəndən sonra, şeyxülislamın təklifi dəxi o imiş ki, eləyibdir. İndi hər kəs bizə isbat eləsə ki, Mir Məhəmməd Kərim ağanın tamahı Nəcəf uşaqlarının tamahıdan əskikdir, biz “minavat” olarıq.
 
 Amma torğ məsələsinə gəldikdə, dəxi bir sözümüz yoxdur. Doğrudan, məgər Bibiheybət ziyarətgahını da torğa qoymaq olar? A kişi, vallah, dünya “kun-fəyəkun” olar. Vallah, zəlzələ Bakını dağıdar. Sən Allah, bir insaf elə! Bu da Bakı qəzavatxanası deyil ki, siğələr torğa qoyulsun?!
 

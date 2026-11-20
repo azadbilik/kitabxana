@@ -26,7 +26,7 @@ Allahyar küçəyə çıxanda dükançılar adətləri üzrə yenə səkiləri s
 
 Allahyar atdan düşdü. Kəhəri ağaca bağlayıb, xurcunu götürdü. Dükana yaxınlaşdı. Alverçilər onu - köhnə və tanış müştərini mehribanlıqla qarşıladılar. Allahyar beş-on girvənkə düyü, kişmiş, qaysı aldı. İki kəllə qənd götürdü. Çəkməçilərdən anasına bir cüt məst aldı. Xurcunun ağzını bağlayıb, yenə atın belinə qalxdı.
 
-Artıq gün əyilmişdi. Ağacların kölgələri uzanıb çarpazlaşmış və küçəyə sərilmişdi. Tənəkəçi dükanlarının qabağındakı dəmir sobalar, qab-qacaqlar günün altında parıldayırdı. Ustalar çəkidə tənəkələri dö-yəclədikcə danqıltı şəhəri başına götürür, dəmirçixanalardakı zindan səsini belə batırırdı.
+Artıq gün əyilmişdi. Ağacların kölgələri uzanıb çarpazlaşmış və küçəyə sərilmişdi. Tənəkəçi dükanlarının qabağındakı dəmir sobalar, qab-qaçaqlar günün altında parıldayırdı. Ustalar çəkidə tənəkələri dö-yəclədikcə danqıltı şəhəri başına götürür, dəmirçixanalardakı zindan səsini belə batırırdı.
 
 Allahyar çilingər və qalayçıların yanından ötdü. Tanış nalbəndlə salamlaşıb, yoluna davam etdi. Tələsmək lazım idi. Bir azdan gün batacaq, axşam qaranlığı çöllərin üstünə çökəcəkdi.
 
@@ -52,11 +52,11 @@ Allahyar ən çox qorxduğu yerə çatmışdı. Burada dərənin ətrafın-dakı
 
 Deyilənə görə, qarşıdakı dərədə bir gecədə yeddi qardaşı xəncər-dən keçirib, yarğandan atıblar. Yaralılar səhərəcən "qardaş vay", - deyə bir-birini çağırıb inildəmişdilər. Elə o vaxtdan buranın adı "Qardaş vay" dərəsi qalmışdır.
 
-Allahyarın həmişə olduğu kimi, indi də bu dərayə çatanda sümüyü eyməndi.
+Allahyarın həmişə olduğu kimi, indi də bu dərəyə çatanda sümüyü eyməndi.
 
-O, sol tərəfdəki təpədə do qaraltılar gördü. Özünü lap itirdi, Atın başını qanırıb dönmək və birbaş şəhərə qayıtmaq istədi. Ancaq gec idi. Çaxmağı yavaşca hərləyib gülləni lüləyə verdi. Atı xır yoldan torpaq yola saldı. "Allaha pənah", - deyə irəlilədi. Təpələrin ağız-ağıza qovuşduğu yerə çatanda gözünü yumub atın yalına yatdı. Kəhər götürüldü Allahyar dərəni burulub çayı necə keçdiyini, dördnala çapıb düzanliyə nə vaxt çatdığını bilmədi. Bir xeyli qulağı səsdə, səksəkəli halda irəlilədi. Ancaq dalınca heç kəsin gəlmədiyini yəqin etdikdən sonra atı yavaşıtdı. Qanrılıb geri baxdı. Təpədəki qaraltılar daha aydın görünürdü. Allahyar yalnız indi, qorxduğu yerdən dörd-beş verst aralandıqdan sonra məsələni başa düşdü. Təpələrdəki qaraltıların çox qədim zamanlarda salınmış qəbristanlıqdakı başdaşıları olduğunu görüb, nəfəsini dərdi. Dəsmalını çıxardıb alını basmış soyuq təri sildi.
+O, sol tərəfdəki təpədə do qaraltılar gördü. Özünü lap itirdi, Atın başını qanırıb dönmək və birbaş şəhərə qayıtmaq istədi. Ancaq gec idi. Çaxmağı yavaşca hərləyib gülləni lüləyə verdi. Atı xır yoldan torpaq yola saldı. "Allaha pənah", - deyə irəlilədi. Təpələrin ağız-ağıza qovuşduğu yerə çatanda gözünü yumub atın yalına yatdı. Kəhər götürüldü Allahyar dərəni burulub çayı necə keçdiyini, dördnala çapıb düzənliyə nə vaxt çatdığını bilmədi. Bir xeyli qulağı səsdə, səksəkəli halda irəlilədi. Ancaq dalınca heç kəsin gəlmədiyini yəqin etdikdən sonra atı yavaşıtdı. Qanrılıb geri baxdı. Təpədəki qaraltılar daha aydın görünürdü. Allahyar yalnız indi, qorxduğu yerdən dörd-beş verst aralandıqdan sonra məsələni başa düşdü. Təpələrdəki qaraltıların çox qədim zamanlarda salınmış qəbristanlıqdakı başdaşıları olduğunu görüb, nəfəsini dərdi. Dəsmalını çıxardıb alını basmış soyuq təri sildi.
 
-Arlıq kəndin işıqları görünürdü. Deyəsən kəhər də sakitləşmişdi. Bayaqdan balaca bir qaraltı görəndə fınxırıb dayanırdısa, indi gözləri yana-yana yolu o üz-bu üzə keçən tülkülərə belə əhəmiyyət vermə-dən irəliləyirdi.
+Artıq kəndin işıqları görünürdü. Deyəsən kəhər də sakitləşmişdi. Bayaqdan balaca bir qaraltı görəndə fınxırıb dayanırdısa, indi gözləri yana-yana yolu o üz-bu üzə keçən tülkülərə belə əhəmiyyət vermə-dən irəliləyirdi.
 
 Təpələrin dalından ay boylandı. Ətrafa solğun ay çiləndi. Uzaqda şaxələnib axan Kürün suları ağarışdı. İlbizlər səs-səsə verdilər. Allahyar kənd itlərinin boğuq səsini eşidib ürəkləndi. Əlini atın boynuna çəkdi. Kəhər suyun içində idi. "Bir az da belə sürsəm, atı çatladardım", - deyə düşündü və cilovu dartdı...
 
@@ -70,7 +70,7 @@ O heç bir şey olmamış kimi ağır addımlarla pilləkəni qalxıb göy məh�
 
 – Mələk hanı? Çağır gəlib çəkmələrimi çıxartsın, - dedi.
 
-Arvad dinmədi. Gözləri oğlunun üzünə zilləndi. Deyəsən, gədənin nədən xəbəri yoxdur. İndi moən nə edim? Başıma haranın daşını salım? deyə öz-özünə söyləndi. - Bəlkə heç açıb-ağartmayım? Qoy rahat yatsın, sabah onsuz da eşidəcək. Bir də, axşamın xeyrindən sa-bahın şəri yaxşıdır.
+Arvad dinmədi. Gözləri oğlunun üzünə zilləndi. Deyəsən, gədənin nədən xəbəri yoxdur. İndi mən nə edim? Başıma haranın daşını salım? deyə öz-özünə söyləndi. - Bəlkə heç açıb-ağartmayım? Qoy rahat yatsın, sabah onsuz da eşidəcək. Bir də, axşamın xeyrindən sa-bahın şəri yaxşıdır.
 
 – Nə bilim, yenə hansı cəhənnəmdəsə yıxılıb yatır. Qoy özüm soyundurum.
 
@@ -98,7 +98,7 @@ Mələyin ətri yorğan-döşəyə hopmuşdu. Allahyar əvvəllər buna o qədə
 
 İnsan çox zaman qiymətli bir şeyi əldən verəndən, onun qədrini bilməyib itirəndən sonra ayılır. Hər gün görsə də, qəlbinin duymadığı, nəfəsinin ətrini hiss etmədiyi bir adam ondan uzaqlaşandan sonra, qəlbindəki boşluğu görür və gecə-gündüz xiffət çəkir. İndi Allahyar da belə idi. O, ömründə ilk dəfə doğma bir adamın yoxluğunu duyurdu. Əgər bu saat Mələk yanımda olsa, onunla bir yastığa baş qoysa, nə gözəl olardı! Allahyar onun saçını sığallayıb, sinəsini qoxulamazdımı? Səhər şəfəqləri pəncərə şüşələrində oynayana qədər onun mışıltısına qulaq asmazdımı?!
 
-Allahyar yerin içində çevrilir, öz-özünü tanıya bilmirdi. Ona nə olmuşdu? İndiyə qədər qəlbinə yad olan bu hisslər hardan gəlib çıxmışdı? Nə üçün o titrəyirdi? Məgər Mələyi azmı döymüşdu? Onun gözünün yaşını azmı axıtmışdı? Azmı onun sinəsini yumruqlamışdı? Bəs indiyəcən onun ətrini niyə duymamışdı? Hələ şəhərdən arvadının yoxa çıxması xəbərini eşidəndə dişini-dişinə sıxıb söyüş söyən, "əlimə keçən kimi səni tikə-tikə doğrayacağam", - deyən o deyildimi? Elə bircə saat bundan əvvəl yol uzunu onu asıb-kəsmirdimi? İndi birdən-birə ona nə oldu? Yoxsa Mələyi sevirdi? Yoxsa indiyəcən qəlbinin harasındasa mürgüləyib yatan hisslər çılğın bir ehtirasla oyanıb baş qaldırmışdı?
+Allahyar yerin içində çevrilir, öz-özünü tanıya bilmirdi. Ona nə olmuşdu? İndiyə qədər qəlbinə yad olan bu hisslər hardan gəlib çıxmışdı? Nə üçün o titrəyirdi? Məgər Mələyi azmı döymüşdü? Onun gözünün yaşını azmı axıtmışdı? Azmı onun sinəsini yumruqlamışdı? Bəs indiyəcən onun ətrini niyə duymamışdı? Hələ şəhərdən arvadının yoxa çıxması xəbərini eşidəndə dişini-dişinə sıxıb söyüş söyən, "əlimə keçən kimi səni tikə-tikə doğrayacağam", - deyən o deyildimi? Elə bircə saat bundan əvvəl yol uzunu onu asıb-kəsmirdimi? İndi birdən-birə ona nə oldu? Yoxsa Mələyi sevirdi? Yoxsa indiyəcən qəlbinin harasındasa mürgüləyib yatan hisslər çılğın bir ehtirasla oyanıb baş qaldırmışdı?
 
 Allahyar heç nə anlamırdı. Gözünü tavana zilləyib xəyalən arvadını axtarırdı. Gah onu sağ-salamat tapıb gətirir, gah da çiləkənlərin altından, burulğanlardan dartıb çıxardırdı.
 
@@ -106,7 +106,7 @@ Allahyar heç nə anlamırdı. Gözünü tavana zilləyib xəyalən arvadını a
 
 * * *
 
-Allahyar səhər tezdən, nökəri yola salandan sonra, atı minib Kürün sahilinə endi. Yarğanların dibinı, çiləkənlərin ətrafını, yulğun kolluğunu saymazyana axtardı. Atını sürüb çay aşağı uzaqlara getdi.
+Allahyar səhər tezdən, nökəri yola salandan sonra, atı minib Kürün sahilinə endi. Yarğanların dibini, çiləkənlərin ətrafını, yulğun kolluğunu saymazyana axtardı. Atını sürüb çay aşağı uzaqlara getdi.
 
 Balaca adacıqları, suyun şıldır yerində qurulayan qaraltıları nəzərdən keçirdi. Tez-tez atının başını saxlayıb, göyün üzündə fırlanan quşlara baxdı. Qarğa-quzğunun bir yerə toplanıb-toplanmadığını yoxladı. O hələ hec kəsə heç nə açmaq istəmirdi. Bəzən öz-özünü danlayır, nahaq bu fikrə düşdüyünə söylənirdi. O, arvadının ölümünə inanmırdı. Axşamüstü nökərin geri qayıdacağını və Mələyin əmisigildə olduğu xəbərini gətirəcəyini gözləyirdi. "Yaxşı, bəs niyə belə xəlvəti gedib! Nə üçün anama bir şey deməyib? Əgər gedibsə, bəs niyə evinə qayıtmir?". Şübhələr yavaş-yavaş onun qəlbinə hakim olurdu. "Yəqin başi əlində deyil. Yoxsa bir xəbər çıxardı. Bəlkə heç özünü suya atmayıb? Birdən ayağı sürüşüb? Axı o üzmək bilmirdi. Axmış olsa bir yerdə qurulamazdımı?"
 
@@ -114,11 +114,11 @@ Allahyar atını sürür, o tərəf-bu tərəfə boylanırdı. Suda çimib, quml
 
 Allahyar axşama qədər bəri üzü axtarmağı qərara aldı. "Əgər nökər əliboş qayıtsa, sabah o biri sahili də gəzərəm", - deyə düşündü.
 
-Günün qulağı əyilib axşama dönəndə Allahyar geri qayıtdı. Birdən yulğunluqların o tərəfindo, yarğanın dibində, qarğa-quzğun dolaşdığını gördü. Ürəyi az qaldı ki, oynayıb yerindən qopsun. Rəngi saraldı. Atını mahmızlayıb Kürdən ayrılan balaca qoldan keçdi. Yulğun kollarını yara-yara quşların firlandığı yerə yaxınlaşdı. Qarğalar onu görüb kənara qaçdılar. İri bir quzğun isə özünü suya çırpır, yenə də havaya alxırdı. Allahyar atdan düşdü. Ürəyi əsə-əsə gölməçəyə yaxınlaşdı.
+Günün qulağı əyilib axşama dönəndə Allahyar geri qayıtdı. Birdən yulğunluqların o tərəfində, yarğanın dibində, qarğa-quzğun dolaşdığını gördü. Ürəyi az qaldı ki, oynayıb yerindən qopsun. Rəngi saraldı. Atını mahmızlayıb Kürdən ayrılan balaca qoldan keçdi. Yulğun kollarını yara-yara quşların firlandığı yerə yaxınlaşdı. Qarğalar onu görüb kənara qaçdılar. İri bir quzğun isə özünü suya çırpır, yenə də havaya alxırdı. Allahyar atdan düşdü. Ürəyi əsə-əsə gölməçəyə yaxınlaşdı.
 
 Orada nə isə qaralırdı. Quşlar dimdiklədikcə çırpınıb, suyu şappıldadırdı. Allahyar iri bir naqqanın quruladığını görüb sakitləşdi. Görünür, daşanda balaca qola gəlib bu gölməçəyə düşən naqqa geri qayıda bilməmişdi. Quşlar onun belini didib parçalamışdılar.
 
-Allahyar atını minıb uzaqlaşdı. Qarğa-quzğun yenidən balığın üstünə töküldü...
+Allahyar atını minib uzaqlaşdı. Qarğa-quzğun yenidən balığın üstünə töküldü...
 
 O nökərlə bir vaxtda evə çatdı. Eşitdiyi xəbərdən məyus oldu. Dinməz-söyləməz içəri keçib üzüqoylu taxtın üstə döşəndi.
 

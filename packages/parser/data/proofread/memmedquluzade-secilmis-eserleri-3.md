@@ -759,7 +759,7 @@ Bu yuxunu da eşidən elə bilər ki, İstambulda doğrudan Ənvər paşalar öl
 
 # Azadiyi-vicdan
 
-Rusiya inqlabının bərəkətindən törəyən azadlıqların biri də vicdan azadlığıdır.
+Rusiya inqilabının bərəkətindən törəyən azadlıqların biri də vicdan azadlığıdır.
 
 Azadiyi-vicdanın iki mənası var: biri budur ki, mənim aləmimdə mən gizlicə hiss elədiyim şeyləri nə cür ki, öz ağlım kəsir və insafım qəbul edir, o cür də qanıram və ona görə də əməl eləyirəm. Mən, məsələn, yaxşını yamandan öz qanacağıma görə seçirəm; onu bir özgəsindən soruşmuram. Mən görürəm ki, şüşə qabı əlimdən yerə salsam, sınacaq; dəxi salmağı rəva görmürəm. Mənim yetim uşağa rəhmim gəlir, çünki o uşaq sahibsizdir və bu barədə dəxi mənə zor yoxdur.
 
@@ -1397,7 +1397,7 @@ Bir gün bir dəlidən soruşdular ki, “cağəsbi, camə ğəsbi” ibarələr
 
 * * *
 
-Camə ğəsbi də budur ki, bir dövlətli şəxsin on dörd dəst köhnəlməmiş paltarı evdə boxçada ola-ola gedə dərziyə, yenə paltar tikdirə; amma həmin ağanı əmndə saxlamaq üçün İsmayıl ağa tədibi üçün gedən qoşunlar dağda-daşda qışın şiddətli soyuğunda titrəyə-titrəyə
+Camə ğəsbi də budur ki, bir dövlətli şəxsin on dörd dəst köhnəlməmiş paltarı evdə boxçada ola-ola gedə dərziyə, yenə paltar tikdirə; amma həmin ağanı məndə saxlamaq üçün İsmayıl ağa tədibi üçün gedən qoşunlar dağda-daşda qışın şiddətli soyuğunda titrəyə-titrəyə
 
 @@ 056
 
@@ -1511,7 +1511,7 @@ Dördüncü Kəlbalı xan partisidir. Parlaman əzası Maku atlılarından məxf
 
 * * *
 
-Bu ad verdiyimiz dörd partiləri altı il bundan əqdəm hətta Paris konfransı da təsdiq etmişdi və hərçənd zahiri müahidələri mocibincə bunlar Şimali Amerika Muttəfiq hökumətləri üsulu ilə təşkil tapıblar; amma batində hər biri öz əməliyyatında müstəqildir. İndiki İsmayıl ağa qovğasında bunlar hərəsi bir ayrı əsas ittixaz edib, ayrı bir cəngavərlik fənnini istemal edir. Məsələn, Quluxan müharibədə millilik tərəfdarıdır, onçün onun atlıları Xoy əhalisinin evlərinə doluşub can bir şişədə yaşayırlar və bir-birindən ayrı düşəndə nə bunun yeyib-içmək canına sınır, nə də onun.
+Bu ad verdiyimiz dörd partiləri altı il bundan əqdəm hətta Paris konfransı da təsdiq etmişdi və hərçənd zahiri müahidələri mocibincə bunlar Şimali Amerika Müttəfiq hökumətləri üsulu ilə təşkil tapıblar; amma batində hər biri öz əməliyyatında müstəqildir. İndiki İsmayıl ağa qovğasında bunlar hərəsi bir ayrı əsas ittixaz edib, ayrı bir cəngavərlik fənnini istemal edir. Məsələn, Quluxan müharibədə millilik tərəfdarıdır, onçün onun atlıları Xoy əhalisinin evlərinə doluşub can bir şişədə yaşayırlar və bir-birindən ayrı düşəndə nə bunun yeyib-içmək canına sınır, nə də onun.
 
 O ki, İlxanidir, onun cəng-azmudəliyi əzhər minəşşəmsdir. Məsələn, bunun sərbazları dava meydanında məşhur professor Müller sistemi ilə qışın şiddətli soyuğunda ayaqyalın və üryan, ancaq çiyinlərində ala carşov olarmış ki, kürdlər uzaqdan görüb qorxsunlar və qaçsınlar.
 
@@ -1579,7 +1579,7 @@ Millət də bu mətləbi yaxşı düşünüb və yaxşı bilir ki, İran ruznam�
 
 # Təzə dəyirman
 
-Eşitdiyimizə görə, bu tezlikdə çörəyin qiyməti xeyli ucuzlanacaq və bu ucuzluğa səbəb jandarmeriyanın maşın dəyirmanı olacaq ki, on yeddi il təmir olunmaqdadır. Bu dəyirman bir neçə gündən sonra işə düşəcək və hər gün yeddi min xərvar buğda üyüdəcək. Hələ də dəyirmandan səvayı elektrik matoru da otuz doqquz ildir təmir olunmaqdadır ki, bu günlərdə işə düşəcək və Təbrizin cəmi məhəlləeyrinə və hətta kasıbların da evlərinə işıq verəcək. Özü çox müftə, su qiymətinə. Hərçənd kasıb-küsub jandarmaların haqqından kəsib həmin dəyirmana və matora çox pullar sərf elədilər, amma çörək ucuzlananda, bunun əvəzi çıxar inşallah, genə də inşallah və maşallah, genə də maşallah.
+Eşitdiyimizə görə, bu tezlikdə çörəyin qiyməti xeyli ucuzlanacaq və bu ucuzluğa səbəb jandarmeriyanın maşın dəyirmanı olacaq ki, on yeddi il təmir olunmaqdadır. Bu dəyirman bir neçə gündən sonra işə düşəcək və hər gün yeddi min xərvar buğda üyüdəcək. Hələ də dəyirmandan səvayı elektrik matoru da otuz doqquz ildir təmir olunmaqdadır ki, bu günlərdə işə düşəcək və Təbrizin cəmi məhəlləeyrinə və hətta kasıbların da evlərinə işıq verəcək. Özü çox müftə, su qiymətinə. Hərçənd kasıb-küsüb jandarmaların haqqından kəsib həmin dəyirmana və matora çox pullar sərf elədilər, amma çörək ucuzlananda, bunun əvəzi çıxar inşallah, genə də inşallah və maşallah, genə də maşallah.
 
 *Qızdırmalı*
 
@@ -1619,7 +1619,7 @@ Xülasə, millət tüstü içində boğulmaqdadır! Və boğula-boğula nicata m
 
 – Hər bir vicdan sahibindən, hər bir həqiqi vətən dostundan, hər bir bəni-növi-bəşərə rəhmi gələnlərdən.
 
-Millət boğulur, tustülər milləti hər tərəfdən əhatə eləyib. Əgər dadü fəryada tez yetişməsəz, mümkündür ki, millətdən bir əsər dəxi qalmaya.
+Millət boğulur, tüstülər milləti hər tərəfdən əhatə eləyib. Əgər dadü fəryada tez yetişməsəz, mümkündür ki, millətdən bir əsər dəxi qalmaya.
 
 Tələsmək lazımdır.
 
@@ -1737,7 +1737,7 @@ Bu Təbriz-Culfa dəmir yolu da başımıza bəla oldu!.. Doğrudan deyirmişlə
 
 Bəli, dəmir yol çəkdilər ki, tərəddüd guya asan olsun və sürətli olsun; guya ki, bizi atlı qovalayır, guya ki, bu dəmir yol ilə bizim cavanlar gedib Almaniya, Amerika darülfünunlarında dərs oxuyacaqlar.
 
-İndi gəl, bu da sənə dəmir yol! İşə düşəndə ilan kimi burulur və ökuz kimi anqırır; dəvələri və kəndlərdə arvadları qorxudur, işə düşməyib yatanda bir para bikar adamlar başlayırlar hökuməti və tacirləri məzəmmət eləməyə ki, bax gör bu iranlıların himmətinə! Nikolay on iki milyon pul sərf etdi və bunlara dəmir yol qoydu getdi, amma bu təşəxxüsdə hökumət və bu qədər dövlətmənd tüccar bir balaca dəmir yolu abad saxlamağa acizdirlər.
+İndi gəl, bu da sənə dəmir yol! İşə düşəndə ilan kimi burulur və öküz kimi anqırır; dəvələri və kəndlərdə arvadları qorxudur, işə düşməyib yatanda bir para bikar adamlar başlayırlar hökuməti və tacirləri məzəmmət eləməyə ki, bax gör bu iranlıların himmətinə! Nikolay on iki milyon pul sərf etdi və bunlara dəmir yol qoydu getdi, amma bu təşəxxüsdə hökumət və bu qədər dövlətmənd tüccar bir balaca dəmir yolu abad saxlamağa acizdirlər.
 
 Mən ölüm, bir gör nə danışırlar?
 
@@ -2267,7 +2267,7 @@ Mən ölüm diqqətnən oxu
 
 Tiflis–Bakı dəmir yolu əlahiddə və müstəqil bir hökumətdir. Bu hökumət heç kəsə tabe deyil: nə Gürcüstana, nə Azərbaycana, nə İrəvana və nə də Moskvaya.
 
-Həmin bu hökumət bir neçə əlahiddə ştatlardan təşkil tapıb; necə ki, məsələn, Amerika cümhriyyəti. Bu balaca ştatlar ibarətdirlər ayrı–ayrı poyezdlərdən: poçtavoy poyezd, skori poyezd, tavarni poyezd, neft poyezdi, qoşun poyezdi, təmirat poyezdi, ekspres, azarlı poyezdi və qeyriləri.
+Həmin bu hökumət bir neçə əlahiddə ştatlardan təşkil tapıb; necə ki, məsələn, Amerika cümhuriyyəti. Bu balaca ştatlar ibarətdirlər ayrı–ayrı poyezdlərdən: poçtavoy poyezd, skori poyezd, tavarni poyezd, neft poyezdi, qoşun poyezdi, təmirat poyezdi, ekspres, azarlı poyezdi və qeyriləri.
 
 Hər bir ştat özlüyündə bir müstəqil hökumətdir. Bu hökumətlərin baş vəziri “naçalnik poyezda” və qeyri vəzirlərin adı kanduktorlardır.
 
@@ -3013,7 +3013,7 @@ Qoy rəiyyət də cütün ardınca dəvələri ya arıx öküzləri döyə-döy�
 
 # Poçt xərci
 
-Məcmuəmizin 12-ci nömrəsində yazmışdıq ki, poçtxana məcmüəmizin bir nüxsəsini Bakıdan kənara göndərməyə iki milyon yarım istəyir, “Yeni yol” qəzetinə iki milyon istəyir.
+Məcmuəmizin 12-ci nömrəsində yazmışdıq ki, poçtxana məcmüəmizin bir nüsxəsini Bakıdan kənara göndərməyə iki milyon yarım istəyir, “Yeni yol” qəzetinə iki milyon istəyir.
 
 İndi Qax şəhərindən bizə yazırlar ki, məcmuəmizə abunə olmaq Qax əhalisinə mümkün deyil; çünki abunə olanlar hər həftə poçtxanaya gərək on milyon poçt xərci verələr. Həmin Qax şəhərindən yenə birisi idarəmizə dörd dənə məqalə bir paket içində göndərib yazır ki, bu məqalələri bir qabda göndərmək ondan ötrüdür ki, poçt xərci çox bahadır.
 
@@ -4745,7 +4745,7 @@ Molla bu sözləri deyib, bir az da üzümə baxdı və soruşdu:
 
 – Yalandı, ya yox?
 
-Mən dinmədim; çünki fikrim çox yerlərə getdi. Fikrim getdi haman Təzəpir məscidinin həyətinə ki, orada bu axırıncı illərdə tut ağaclarının kölgəsində dəstə-dəstə müsəlman oxumuşları dərin-dərin fənn kitabları qoltuqlarında mərhumun cənazəsinin məsciddən çıxmağına müntəzirdirlər. Burada camaat ilə bir yerdə namaza duranlar içində təbiyyat müəllimləri tanışlarımdan, coğrafiya və tarix müəllimləri də yadıma düşür. Avropa darülfünununda uca elmlər təhsilini tapmış cavanlar yadıma gəlir; qalanlarının çoxu yenə orta məktəblərdə fənn dərsləri deyən müəllimlər olub. Bunlar hamısı, özləri kimi, Avropa təhsili tapmış mərhum rəfiqinin cənazəsini Təzəpir məsçidinə gətiriblər ki, mərhumun əgər günahları olmuş olsa, bağışlansın.
+Mən dinmədim; çünki fikrim çox yerlərə getdi. Fikrim getdi haman Təzəpir məscidinin həyətinə ki, orada bu axırıncı illərdə tut ağaclarının kölgəsində dəstə-dəstə müsəlman oxumuşları dərin-dərin fənn kitabları qoltuqlarında mərhumun cənazəsinin məsciddən çıxmağına müntəzirdirlər. Burada camaat ilə bir yerdə namaza duranlar içində təbiyyat müəllimləri tanışlarımdan, coğrafiya və tarix müəllimləri də yadıma düşür. Avropa darülfünununda uca elmlər təhsilini tapmış cavanlar yadıma gəlir; qalanlarının çoxu yenə orta məktəblərdə fənn dərsləri deyən müəllimlər olub. Bunlar hamısı, özləri kimi, Avropa təhsili tapmış mərhum rəfiqinin cənazəsini Təzəpir məscidinə gətiriblər ki, mərhumun əgər günahları olmuş olsa, bağışlansın.
 
 Mollanın sözünə bir cavab tapa bilmədim, ancaq xəcalət çəkdim və bir para fikirlərə getdim.
 
@@ -4809,7 +4809,7 @@ Balet ibarətdir ondan bir dəstə ənlik-kirşanlı qız, corabsız və tumans�
 
 Onun üçün axır vaxtlar teatro elanlarında hər dəfə yazılır ki, ikinci pərdə ilə üçüncü pərdə arasında balet oyunu oynanacaqdır.
 
-Çünki belə yazılmayanda camaat teatroya getmir, istər Mirzə Fətəlinin, istər Şeksprin əsəri qoyulsun.
+Çünki belə yazılmayanda camaat teatroya getmir, istər Mirzə Fətəlinin, istər Şekspirin əsəri qoyulsun.
 
 Yaxşı olardı (Kimyagər) pyesində də Molla İbrahim Xəlil müştəriləri aldadanda ortalığa bir balet dəstəsi çıxa. Habelə pis olmaz Hacı Qarada da Hacı Əmi Araz çayına düşəndə qız mütribləri səhnəyə çıxıb, oynayalar.
 
@@ -4943,7 +4943,7 @@ Hətta bu barədə Moskvada mühəndislər yığıncağında Rusiya komissarlar 
 
 Həmin yoldaş söyləmişdi ki, hər işi gərək öz xibrəsinə və mütəxəssisinə tapşıraq.
 
-Məlumdur ki, yodaş Riqov bu sözləri tək bircə mühəndislər barəsində söyləməmişdir.
+Məlumdur ki, yoldaş Riqov bu sözləri tək bircə mühəndislər barəsində söyləməmişdir.
 
 Yoldaş Riqov demişdir:
 
@@ -5411,7 +5411,7 @@ Evə gedib gördüm ki, on iki yaşında oğlum sevincək mənə xəbər verir:
 
 – Dədə! Sabah və o biri gün bizi dərsdən azad elədilər, çünki orucluq bayramıdır.
 
-Bunu da ərz edim ki, necə mən üzüqara yuxarıda bəyan etdiyim kimi dindarlıqdan uzaq düşmüşəm, oğlum da söz yox, oruc və namaz söhbətlərindən dəxi də kənar olubdur. Və əgər dünən oğluma məktəbdə orucluq bayramının mücjdəsini verməsə idilər, yəqin ki, onun yadına bayram-zad düşməyəcəkdi; səbəb budur ki, eydi-fitr bayramını ancaq oruc tutanlar gözlər.
+Bunu da ərz edim ki, necə mən üzüqara yuxarıda bəyan etdiyim kimi dindarlıqdan uzaq düşmüşəm, oğlum da söz yox, oruc və namaz söhbətlərindən dəxi də kənar olubdur. Və əgər dünən oğluma məktəbdə orucluq bayramının müjdəsini verməsə idilər, yəqin ki, onun yadına bayram-zad düşməyəcəkdi; səbəb budur ki, eydi-fitr bayramını ancaq oruc tutanlar gözlər.
 
 Xülasə...
 
@@ -6457,7 +6457,7 @@ Vəssəlam!
 
 Rza şahın şah olmaq söhbətini qabaqlarda mən zarafat sanırdım və indi də zarafat sanıram. Səbəbi budur ki, indiki əsrdə təzədən taxta çıxıb, tac qoymaq söhbətini bir yanda eşidəndə adam elə bilir ki, küçə uşaqları küçədə şah-şah oyunu oynayırlar.
 
-Amma İranın işi çox məzəlidir. Bir neçə ay bundan qabaq İranın bıvşi (keçmiş) padşahı Əhməd şah Firəngistandan İrana gəlməyə hazırlaşanda İran azadixahları Əhməd şaha kağız yazmışdılar ki, sənin indiki əsrdə Tehrana qayıtmağın bicadır. Çünki dünyada cəmi hökumətlər cümhuriyyət şəklini aldığı halda, biz iranlılar ozümüzü bundan sonra bir nəfər şahın istibdadı altına salmarıq. Hətta Rza şah özü də axırıncı məktubunda bu məzmunda Əhməd şaha bir vəsiyyət yazmışdı. İndi belə məlum olur ki, bunlar hamısı biclik imiş. Demək, beləliklə, biçarə Əhmədin başının altına yasdıq qoymuşlar və qoydular da.
+Amma İranın işi çox məzəlidir. Bir neçə ay bundan qabaq İranın bıvşi (keçmiş) padşahı Əhməd şah Firəngistandan İrana gəlməyə hazırlaşanda İran azadixahları Əhməd şaha kağız yazmışdılar ki, sənin indiki əsrdə Tehrana qayıtmağın bicadır. Çünki dünyada cəmi hökumətlər cümhuriyyət şəklini aldığı halda, biz iranlılar özümüzü bundan sonra bir nəfər şahın istibdadı altına salmarıq. Hətta Rza şah özü də axırıncı məktubunda bu məzmunda Əhməd şaha bir vəsiyyət yazmışdı. İndi belə məlum olur ki, bunlar hamısı biclik imiş. Demək, beləliklə, biçarə Əhmədin başının altına yasdıq qoymuşlar və qoydular da.
 
 Mənim sözüm orada deyil. Mənim sözüm İran azərbaycanlıları barəsindədir. Çünki Tehran barəsində bir o qədər məlumatım yoxdur. Amma Təbrizin işləri çox qəribədir. Çox eşitməli və çox da gülməlidir.
 
@@ -6888,7 +6888,7 @@ Bizim də sözümüz bu şəfqət lüğətinin təfsiri barəsindədir.
 
 # Yollarımız
 
-Əvvəla deyirsən ki, Ağdam qəzasının Seyidli kəndinə gedən yollar əldən duşmüşdür: hara baxırsan kalandır. Gəlib-gedən kəndlilər əziyyət çəkirlər. Halbuki, bunu düzəltmək çox asandır; çunki kəndin yavuqluğunda daş və qum vardır. Camaata təklif olunsa, hərə bir araba gətirib, yola tökə bilər. Elə axırda da deyirsən ki, qəza kommunal şöbəsi tədbir görməlidir.
+Əvvəla deyirsən ki, Ağdam qəzasının Seyidli kəndinə gedən yollar əldən düşmüşdür: hara baxırsan kalandır. Gəlib-gedən kəndlilər əziyyət çəkirlər. Halbuki, bunu düzəltmək çox asandır; çunki kəndin yavuqluğunda daş və qum vardır. Camaata təklif olunsa, hərə bir araba gətirib, yola tökə bilər. Elə axırda da deyirsən ki, qəza kommunal şöbəsi tədbir görməlidir.
 
 Molla Nəsrəddin: bu sözlər boş sözdür, ondan ötru ki, insan hər işdə gərək zəhmət çəksin.
 
@@ -7250,7 +7250,7 @@ Mən də belə zənn edirəm.
 
 # Xəlifələr
 
-Hərçənd ki, bu saat ingilis əmələlərinin tətil söhbəti nəinki tək bircə küreyi-ərzin bütün “məhafilin”də danışılır, hələ bəlkə Marsa da gedib çıxıbdır. Bununla bərabər, biz Molla Nəsrəddin əmi, – möhtərəm oxucularımız da bunu görur və Allah da buna şahiddir, – bu məsələyə nə keçmişdə qarışmışıq, nə indi qarışmaq istəyirik və nə də gələcəkdə qarışmaq xəyali-fasidində olacağıq.
+Hərçənd ki, bu saat ingilis əmələlərinin tətil söhbəti nəinki tək bircə küreyi-ərzin bütün “məhafilin”də danışılır, hələ bəlkə Marsa da gedib çıxıbdır. Bununla bərabər, biz Molla Nəsrəddin əmi, – möhtərəm oxucularımız da bunu görür və Allah da buna şahiddir, – bu məsələyə nə keçmişdə qarışmışıq, nə indi qarışmaq istəyirik və nə də gələcəkdə qarışmaq xəyali-fasidində olacağıq.
 
 Buna da səbəblər var.
 
@@ -8118,7 +8118,7 @@ Elələri də var ki, onların peşəsi bu növ mütaliədən sonra kitabı, ya 
 
 Bundan da mən nigaranam.
 
-Hər bir kəs bu yuxarıda saydığımız nigarançılıqlara bir sakitedici cavab yazıb idarəmizə dörd abbası pul ilə bahəm göndərsə, ona bir ayın müddətində muftəcə “Molla Nəsrəddin” göndərərik.
+Hər bir kəs bu yuxarıda saydığımız nigarançılıqlara bir sakitedici cavab yazıb idarəmizə dörd abbası pul ilə bahəm göndərsə, ona bir ayın müddətində müftəcə “Molla Nəsrəddin” göndərərik.
 
 *Lağlağı*
 
@@ -8218,7 +8218,7 @@ Güman edirəm ki, bu hal ta o vaxta kimi davam edəcək ki, xah qatar rəisi v�
 
 *Molla Nəsrəddin*
 
-*“Molla Nəsrədin”, 20 noyabr 1926, №47*
+*“Molla Nəsrəddin”, 20 noyabr 1926, №47*
 
 # Arvad öldürənlər, yaxud “qeyrət”
 
@@ -8353,11 +8353,11 @@ Birinci səhifədəki şəklin mənası :
 
 Rza şah namaz üstədir. Onun dalında durub bir nəfər məcrubi- Ərsa məmləkətlərinin səfiri.
 
-Səkkiz rükət namazın dörd rükəti cəhr və dörod rükəti ixfadır.
+Səkkiz rükət namazın dörd rükəti cəhr və dörd rükəti ixfadır.
 
 Babi-əvvəl: Əzan və iqamə, təkbirdir.
 
-Xəffən: Allahü əkbər, cəhrən İngtlis əkbər.
+Xəffən: Allahü əkbər, cəhrən İngilis əkbər.
 
 Şəhadəti-tövhid:
 
@@ -8989,7 +8989,7 @@ O səbəbdən biz, yəni axund Molla Nəsrəddin idarəsi tərəfindən, şəhə
 
 # Traktor və əli şiəsi
 
-Traktor ibarətdir elə bir maşından ki, onun dalına bir neçə kotan dəmirini bağlayırsan, bir saatın muddətində az qalır bir desyatin yeri əkib çıxsın başa.
+Traktor ibarətdir elə bir maşından ki, onun dalına bir neçə kotan dəmirini bağlayırsan, bir saatın müddətində az qalır bir desyatin yeri əkib çıxsın başa.
 
 Əli şiəsi də ibarətdir elə bir yaranmışdan ki, onun gecə-gündüz fikri-zikri cənnətin qəbzini mollalardan yalvarıb istəməkdir.
 
@@ -9296,7 +9296,7 @@ Gərək hər bir kəs öz sözünü danışsın. Onunçün mən Molla Nəsrəddi
 
 Söhbət Oktyabr inqilabının on illik bayramı barəsindədir.
 
-Və çün axır vaxtlarda eşidirəm və qəzetlərdə oxuyuram ki, Şura məmləkətlərinin zəhmətkeşləri Oktyabr inqalabının on illik bayramını saxlamağa hazırlaşırlar və çün digər tərəfdən də mən baxıram ki, bu söhbətlərin içində heç mollaların adı çəkilmir, o səbəbdən mən burada öz həmsinif və həmkarlarım barəsində bir neçə söz demək istərdim.
+Və çün axır vaxtlarda eşidirəm və qəzetlərdə oxuyuram ki, Şura məmləkətlərinin zəhmətkeşləri Oktyabr inqilabının on illik bayramını saxlamağa hazırlaşırlar və çün digər tərəfdən də mən baxıram ki, bu söhbətlərin içində heç mollaların adı çəkilmir, o səbəbdən mən burada öz həmsinif və həmkarlarım barəsində bir neçə söz demək istərdim.
 
 * * *
 
@@ -9583,7 +9583,7 @@ O şəkil ki, əli qurumuş nəqqaşımız burada çəkibdir, o şəkildə həmi
 
 Bəli, məşhər komisiyonu qurulur, sədr və cənab Rəsuli-xuda və onun vəli-vəsisi: sağ tərəfdə cənab əmr, sol tərəfdə Cəbrail, İsrafil və başlayırlar bizim müqəddəs qonağın əmalından sual-cavabı və təhqiqatı.
 
-Hə, görək, dalında bizə nə töfhə gətirmisən?
+Hə, görək, dalında bizə nə töhfə gətirmisən?
 
 Bəli, yövmiyə namazları, bu meyit namazı, bu da eydi-qurban namazı Xub, çox yaxşı. Bu nədir? Bu da icarə namazı, bu nəzir namazı, bu da eydi-ramazanül-mübarək namazı. Bu da Cəfəri-təyyar namazı. Bu cümə namazı. Afərin, afərin! Nə müqəddəs müsəlman ümmətidir! Afərin. Dəxi görək nə var?
 
@@ -9941,7 +9941,7 @@ Filhəqiqə, bu nə sirdir? Nədir bunun hikməti ki, min üç yüz illik müdd�
 
 * * *
 
-Camaatimüsliminin həmin səfahəti müddəti mütəmadi bir çox qərb və şərq hükəmasının bu məsələyə tədqiq və təvəccöhünə səbəb oublar. Xah Amerika misyonerləri xah bəhayi mübəlliğələri bu möcüzənin əsrarının mənbə və mənşəyinə dəfələrlə diqqət yetirmək istəyiblər. Bunlar filhəqiqə bu vaxtadək bu sirri yenə kəşf edə bilməyiblər ki, aya, camaati-müsliminin hər bir sinifinin, hər bir təbəqəsinin, axundun, müəllimin, seyidin, baqqalın və hətta tərbxorun və oğrunun oruca bu dərəcədə müti, bu dərəcədə giriftar, bu dərəcədə bənd olmalarına səbəb nədir?
+Camaatimüsliminin həmin səfahəti müddəti mütəmadi bir çox qərb və şərq hükəmasının bu məsələyə tədqiq və təvəccöhünə səbəb olublar. Xah Amerika misyonerləri xah bəhayi mübəlliğələri bu möcüzənin əsrarının mənbə və mənşəyinə dəfələrlə diqqət yetirmək istəyiblər. Bunlar filhəqiqə bu vaxtadək bu sirri yenə kəşf edə bilməyiblər ki, aya, camaati-müsliminin hər bir sinifinin, hər bir təbəqəsinin, axundun, müəllimin, seyidin, baqqalın və hətta tərbxorun və oğrunun oruca bu dərəcədə müti, bu dərəcədə giriftar, bu dərəcədə bənd olmalarına səbəb nədir?
 
 @@ 357
 
@@ -10577,7 +10577,7 @@ Salisən, bu pullarla körpülər çəkiləcək, kənd təsərrüfatı yüksəld
 
 Sözün doğrusu, mən burada bir qədər çətin yerə dirənmişəm və qəzetlər öz oxucularına belə bəyanatı verəndə, mən bilmirəm öz qarelərimə nə deyim? Çunki əgər mən də durub sənət-mənət sözünü danışsam, qorxuram oxucularımın yanında xəcalət çəkəm.
 
-Sözun vazehi budur ki, necə ki, hamıya da məlumdur, “Molla Nəsrəddin” qareləri və tərəfdarları cəmi iman əhlidir ki, sövmü səlatdan bir an qafil deyillər. Əgər mən duram onlara fabrik və zavoddan rəvayət edəm, qorxuram sözüm boş keçə və mömin qardaşıma kar eləməyə; səbəb budur ki, necə ki, Allah da buna şahiddir, xah şuralar mədəniyyətinin və xah Qərb mədəniyyətinin fabrik və zavodundan hasil olan əmtəə Molla əminin dindar qarelərinə əlverişli deyil; Molla əminin oxucuları arzu etdikləri ancaq möhür və təsbeh karxanasıdır ki,
+Sözün vazehi budur ki, necə ki, hamıya da məlumdur, “Molla Nəsrəddin” qareləri və tərəfdarları cəmi iman əhlidir ki, sövmü səlatdan bir an qafil deyillər. Əgər mən duram onlara fabrik və zavoddan rəvayət edəm, qorxuram sözüm boş keçə və mömin qardaşıma kar eləməyə; səbəb budur ki, necə ki, Allah da buna şahiddir, xah şuralar mədəniyyətinin və xah Qərb mədəniyyətinin fabrik və zavodundan hasil olan əmtəə Molla əminin dindar qarelərinə əlverişli deyil; Molla əminin oxucuları arzu etdikləri ancaq möhür və təsbeh karxanasıdır ki,
 
 @@ 385
 
@@ -11335,7 +11335,7 @@ Dünyanın işlərini bilmək çətindir. O yerdə ki, ruslar keçmiş vaxtda ö
 
 Altıncı şuralar qurultayında qəza nümayəndələri məzəli gileygüzar edirdilər; adam qulaq asanda elə bilirdi ki, bu danışan zarafat eləyir.
 
-Amma bunlar hamısı doğrudur. Ağdam nümayəndəsi söyləyirdi ki, Şuşa şəhərinin fazili Ağa Əbdürrəhim ağa köçüb gəlmlşdi ki, Ağdam məscidini döşəsin, səliqəyə salsın və oranı özü üçün mənzil qərar versin, həm də orada moizə eləsin, Allah baisin evini yıxsın: bu nadinc komsomollar bir gün dəstə tutub çıxdılar minarənin üstə və başladılar muzika çalmağa. Haman gün Ağa Əbdürrəhim ağa şələ-şüləsini yığıb məsciddən çıxdı qaçdı və ağanın pişmiş aşına su qatdılar.
+Amma bunlar hamısı doğrudur. Ağdam nümayəndəsi söyləyirdi ki, Şuşa şəhərinin fazili Ağa Əbdürrəhim ağa köçüb gəlmişdi ki, Ağdam məscidini döşəsin, səliqəyə salsın və oranı özü üçün mənzil qərar versin, həm də orada moizə eləsin, Allah baisin evini yıxsın: bu nadinc komsomollar bir gün dəstə tutub çıxdılar minarənin üstə və başladılar muzika çalmağa. Haman gün Ağa Əbdürrəhim ağa şələ-şüləsini yığıb məsciddən çıxdı qaçdı və ağanın pişmiş aşına su qatdılar.
 
 Xızı dairəsindən nümayəndə belə deyirdi: Şura hökuməti yapışıb bizim vəhşi kənd əhalisinin qulağından və deyir ki, səni mən xahinəxahi gərək adam eləyəm və sənin təsərrüfatını yüksəldəm; ancaq Şura hökuməti onu bilmir ki, bizim vəhşi əhaliyə təsərrüfat-zad lazım deyil; onlara yaxşıca saz tüfəng-tapanca lazımdır ki, bir-birini vurub öldürsün. Hazır həmin mart ayında bizim dayirədə mən biləsi üç adam əldə ölübdür. Dəxi bizə təsərrüfat nə lazım?
 
@@ -11801,7 +11801,7 @@ Ha iki gündən bir qəzetlərdə oxuyuruq ki, filan bakılı vurdu filan bakıl
 
 * * *
 
-Mən bu məsələni ondan ötrü ortalığa qoymuram ki, bakılıların o dünyaya getmələrinə çox darıxıram; yox, mənim məqsədim oxucularımın nəzərinə bunu yetirməkdir ki, burada bu qədər qan tökülməyə bais müsəlman qardaşların bir-birindən “qisas” almağıdır və bu da, necə ki məlumdur, islam dininnn təqazalarından biridir.
+Mən bu məsələni ondan ötrü ortalığa qoymuram ki, bakılıların o dünyaya getmələrinə çox darıxıram; yox, mənim məqsədim oxucularımın nəzərinə bunu yetirməkdir ki, burada bu qədər qan tökülməyə bais müsəlman qardaşların bir-birindən “qisas” almağıdır və bu da, necə ki məlumdur, islam dininin təqazalarından biridir.
 
 @@ 426
 
@@ -11861,7 +11861,7 @@ Bir para mərdümazarlar hərdən bir xəyala gəlirlər ki, Hacı Pirverdi məs
 
 Bütün məhəllənin camaatını ayaq üstə qalxızıb, məscidi müdafiə edər.
 
-Kəbla Abdlullanı məqsədi budur imam yolunda canfəşanlıq eləsin ki, bəlkə cavanlıqda etdirdiyi cinayət və evlər dağınmağı müqabilində Allah-taala onun hədsiz günahlarından keçsin.
+Kəbla Abdullanı məqsədi budur imam yolunda canfəşanlıq eləsin ki, bəlkə cavanlıqda etdirdiyi cinayət və evlər dağınmağı müqabilində Allah-taala onun hədsiz günahlarından keçsin.
 
 Bari Allah-taala tezliklə onu öz behiştinə çağırsın.
 
@@ -11907,7 +11907,7 @@ Bəs, o ki, yoxdur – dəxi onu çistkaya salmağın da mənası yoxdur.
 
 Şərq aləmində səbir – çox arzu olunan bir haldır: dayanmaq, təhəmmül etmək, tələsməmək – budur səbrin mənası.
 
-Şərqin mədəniyyətcə Qərbdən geridə qalmağının filosofiyası elə haman səbirdir və inşallah-taala bir min il də səbrdən sonra Şərq Qərbi də ötub keçəcək və bəlkə şimal və cənubu da geridə qoyacaq (inşallah!).
+Şərqin mədəniyyətcə Qərbdən geridə qalmağının filosofiyası elə haman səbirdir və inşallah-taala bir min il də səbrdən sonra Şərq Qərbi də ötüb keçəcək və bəlkə şimal və cənubu da geridə qoyacaq (inşallah!).
 
 Biz də Şərqə baxıb bir neçə hallarda xeyli səbr və üstubluluq göstəririk. Məsələn:
 
@@ -11923,7 +11923,7 @@ Bu, birinci.
 
 Demək, kənd aktiv işçilərimizi hazırlamaqda da böyuk səbir və “inşallah” göstərilibdir.
 
-Dördüncu halda səbir və “bu gün-sabahı” istemal edən Molla Nəsrəddin əminin qəzalarda vəkilləridir. Həftədə bir dəfə bir kağız yazarıq “Mən ölüm, borcunuzu göndərin, mətbəə pul istəyir, kağız pul istəyir, yoldaşlar pul istəyir”. Biz yazıb-yalvarınca vəkillərimiz “inşallah” deyərlər.
+Dördüncü halda səbir və “bu gün-sabahı” istemal edən Molla Nəsrəddin əminin qəzalarda vəkilləridir. Həftədə bir dəfə bir kağız yazarıq “Mən ölüm, borcunuzu göndərin, mətbəə pul istəyir, kağız pul istəyir, yoldaşlar pul istəyir”. Biz yazıb-yalvarınca vəkillərimiz “inşallah” deyərlər.
 
 Bu da yaxşı deyil.
 
@@ -11963,7 +11963,7 @@ Xam xəyal edirlər o məsul işçilər ki, onların öhdəsinə qoyulan vəzif�
 
 * * *
 
-Xam xəyal edirlər ingilis hökumətinin əfqan nümayəndələri o yerdə ki, Beççeyi-Səqqaya göstərdiklərn maddi köməkliyi məxfi hesab edirlər; Beççənin cəmi qoşunları bu saat ingilis tüfəngləri ilə tüfəngləniblər.
+Xam xəyal edirlər ingilis hökumətinin əfqan nümayəndələri o yerdə ki, Beççeyi-Səqqaya göstərdikləri maddi köməkliyi məxfi hesab edirlər; Beççənin cəmi qoşunları bu saat ingilis tüfəngləri ilə tüfəngləniblər.
 
 * * *
 
@@ -12173,7 +12173,7 @@ Oktyabr kimə bayramdır, kimə yas? Cəmi zəhmətkeşlər Oktyabrı bayram sax
 
 Səbəbi budur: ticarət əldən getdi, asan vəchlə sadədil əhalidən nəhayət dövlət qazanmaq əldən getdi, xalqın pulu ilə çəhardəh məsum ziyarətinə müşərrəf olmaq əldən getdi və dörd arvad nigah və hədsiz arvad siğə eləmək əldən getdi. Mülkədar üçün: muzdur əlilə dünyanın naz-neməti içində yaşamaq əldən getdi.
 
-2. Molla və mərsiyəxanlar üçün: muftəcə yağlı yemək və dünyada hər cür zəhmətdən bixəbər olmaq – bunlar hamısı əldən getdi.
+2. Molla və mərsiyəxanlar üçün: müftəcə yağlı yemək və dünyada hər cür zəhmətdən bixəbər olmaq – bunlar hamısı əldən getdi.
 
 Bu zəliləri çıxandan sonra, Oktyabr cəmi zəhmətkeşlərin bayramıdır. Səbəb budur ki, indi dəxi onların qanını soran zalım sərvətdar təşrif aparıbdırlar. İndi dəxi zəhmətkeşlər özləri azad bir sahibkarlardır.
 
@@ -12355,7 +12355,7 @@ Habelə islam tarixi. İslam tarixi hardan başlanır? Məhəmməd peyğəmbəri
 
 Xülasə... nəticəyə gələk. Sözün düzu, peyğəmbərlərin dalınca getmək və o tarixlərə tabe olmaq biz şura əsrinin insanları üçün ayıbdır. Bəs, nə edək?
 
-Büsbutünə tullamaq, köhnə tarixlərin üstunə qırmızı qələm çəkmək.
+Büsbutünə tullamaq, köhnə tarixlərin üstünə qırmızı qələm çəkmək.
 
 Sonra? Sonra neyləmək?
 
@@ -12377,7 +12377,7 @@ Amma işin əsli binövrəsinə baxsaq, ingilis politikasının tən yarı hiss�
 
 Hal-hazırda yavuqdakı işlərdən danışaq.
 
-Yenə keçən günləri ingilis qəzetləri göz yaşı tökürdulər. İngilis qəzetləri dad-fəryad edirlər ki, ax-vay, şəriət əldən getdi, kilsə əldən getdi, din və iman əldən getdi.
+Yenə keçən günləri ingilis qəzetləri göz yaşı tökürdülər. İngilis qəzetləri dad-fəryad edirlər ki, ax-vay, şəriət əldən getdi, kilsə əldən getdi, din və iman əldən getdi.
 
 İngilis qəzetləri milyonlarca nadan Şərq rəiyyətlərinin dini mütəəssibliyinə pənah aparıb özünü tülkü kimi abid və dinpərəstlik cildinə salıb deyir: “Baxın, ay Allah bəndələri, görün bu Şuralar necə dinin və etiqadın kökünü kəsmək istəyirlər”.
 
@@ -12491,7 +12491,7 @@ Burada Şura hökuməti tərəfindən nümayəndələr göndərildi və oradakı
 
 – Ay Allahın mömin bəndələri! Heç görübsünüz daş yeriyə?
 
-Axirül-əmr çamaat öz səhvini düşündu, ara sakit oldu və hər kəs getdi işinə.
+Axirül-əmr çamaat öz səhvini düşündü, ara sakit oldu və hər kəs getdi işinə.
 
 @@ 448
 

@@ -19,7 +19,7 @@ O şəkil ki, əli qurumuş nəqqaşımız burada çəkibdir, o şəkildə həmi
 
 Bəli, məşhər komisiyonu qurulur, sədr və cənab Rəsuli-xuda və onun vəli-vəsisi: sağ tərəfdə cənab əmr, sol tərəfdə Cəbrail, İsrafil və başlayırlar bizim müqəddəs qonağın əmalından sual-cavabı və təhqiqatı.
 
-Hə, görək, dalında bizə nə töfhə gətirmisən?
+Hə, görək, dalında bizə nə töhfə gətirmisən?
 
 Bəli, yövmiyə namazları, bu meyit namazı, bu da eydi-qurban namazı Xub, çox yaxşı. Bu nədir? Bu da icarə namazı, bu nəzir namazı, bu da eydi-ramazanül-mübarək namazı. Bu da Cəfəri-təyyar namazı. Bu cümə namazı. Afərin, afərin! Nə müqəddəs müsəlman ümmətidir! Afərin. Dəxi görək nə var?
 

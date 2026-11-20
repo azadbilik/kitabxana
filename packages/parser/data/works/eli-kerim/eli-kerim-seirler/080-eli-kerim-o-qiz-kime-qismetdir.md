@@ -16,7 +16,7 @@ Sən deyən də gözəl deyil...
 Amma sifətini
 Dərin fikirlər,
 xoş duyğular
-Elə mükəməl
+Elə mükəmməl
 Elə gözəl
 işləyib ki...
 Deyərsən, bu iş rəssamındır;

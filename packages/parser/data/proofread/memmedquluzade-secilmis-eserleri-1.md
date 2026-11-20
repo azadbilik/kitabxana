@@ -252,7 +252,7 @@ Amma nə eləmək, kasıblığın evi yıxılsın. İndiyə kimi yazıq kişinin
 
 @@ 048
 
-Üç-dörd ayın sözüdür. Məhəmmədhəsən əmi yatıb bir vaqiə gördü, yuxudan dürüb övrətini çağırıb, ona xəbər verdi ki, övrət, necə olmuş-olsa, gərək bu il inşallah gedəm Kərbəlaya. Vaqiəsini indiyədək heç kəsə nağıl eləməyibdi. Ancaq bunu deyir ki, vaqiə görmüşəm, gərək nə tövr olmuş-olsa Kərbəlaya gedib, altı güşəli qəbri ziyarət edəm.
+Üç-dörd ayın sözüdür. Məhəmmədhəsən əmi yatıb bir vaqiə gördü, yuxudan durub övrətini çağırıb, ona xəbər verdi ki, övrət, necə olmuş-olsa, gərək bu il inşallah gedəm Kərbəlaya. Vaqiəsini indiyədək heç kəsə nağıl eləməyibdi. Ancaq bunu deyir ki, vaqiə görmüşəm, gərək nə tövr olmuş-olsa Kərbəlaya gedib, altı güşəli qəbri ziyarət edəm.
 
 Pəs üç-dörd aydı Məhəmmədhəsən əmi getmək tədarükündədi… Ziyarət şövqü Məhəmmədhəsən əmini dünya işlərindən lap kənar eləyibdi. Bu fikrə düşəndən dükanı boşluyub, bir qədər arpa, ya darı unundan tədarük edib qoyub evinə və bir para lazım olan şeylərdən ev üçün hazır edib, gözləyir zəvvarın çıxmaqlığını.
 
@@ -1126,7 +1126,7 @@ Xudayar bəy bu sözləri eşitcək cəld çubuğu atdı və Muradqulunun yanın
 
 Bu heyndə bir qəribə iş oldu. Xudayar bəyin övrəti onun üstə tullanıb, iki əli ilə başladı onun saqqalını yolmağa. Muradqulu dədəsinin əlindən qurtulub, qaçdı bacısı oturan küncdə soxuldu Gülsümün dalına. Ər və övrət əlbəyaxa oldular. Muradqulu və Heydərqulunun nərələri, analarının çığırtı səsi, Xudayar bəyin anqırtısı evə bir elə vəlvələ saldılar ki, guya bu saat dünya və aləm dağılacaq.
 
-Gülsüm öz yerində belə möhkəm oturmüşdu ki, deyəsən cansız bir şeydir. Vəliqulu da ancaq bir ayağa durub, heç bilmədi nə eləsin və kimə kömək çıxsın.
+Gülsüm öz yerində belə möhkəm oturmuşdu ki, deyəsən cansız bir şeydir. Vəliqulu da ancaq bir ayağa durub, heç bilmədi nə eləsin və kimə kömək çıxsın.
 
 Xudayar bəy övrətinin saçlarını sağ əlinə doluyub, evi o yana sürüyürdü, bu yana sürüyürdü. Həmin dəqiqə Allah öz qüdrətindən Qasıməlini yetirdi. Qasıməli tez qaçıb, övrəti Xudayar bəyin əlindən alıb, başladı onu, yəni övrəti məzəmmət eləməyə.
 
@@ -1679,7 +1679,7 @@ Kərbəlayı Cəfər heç cavab vermədi. Məhəmmədhəsən əminin suallarınd
 
 @@ 104
 
->>rükür ki, Məhəmmədhəsən əmiyə rəhmi gəldi, qayıdıb gəldi onun yanına, bir az yumşaqlıqnan dedi və and içdi ki, doğrudu, Xudayar bəy eşşəyi çatmışdı karvansaraya, amma genə çıxarıb apardı. Məhəmmədhəsən dübarə soruşdu ki, pəs hara apardı? Kərbəlayı Cəfər “cəhənnəmə apardı” cavabını verib, üz qoydu bazara səmt getməkliyə.
+>>şükür ki, Məhəmmədhəsən əmiyə rəhmi gəldi, qayıdıb gəldi onun yanına, bir az yumşaqlıqnan dedi və and içdi ki, doğrudu, Xudayar bəy eşşəyi çatmışdı karvansaraya, amma genə çıxarıb apardı. Məhəmmədhəsən dübarə soruşdu ki, pəs hara apardı? Kərbəlayı Cəfər “cəhənnəmə apardı” cavabını verib, üz qoydu bazara səmt getməkliyə.
 
 Məhəmmədhəsən əmi çox yorulmuşdu. Danabaş kəndindən şəhərə iki ağac yarım yoldu. Bu qədər yolu piyada gələsən, özün də qoca kişi olasan, əlbəttə, yorulacaqsan. Məhəmmədhəsən əmi darvazanın səkisində Kərbəlayı Cəfər oturan yerdə oturub, dalını dayadı divara və dizlərini qucaqlayıb cumdu fikrə. Vaqeən Məhəmmədhəsən əmi qəm dəryasına qərq olmuşdu.
 
@@ -2212,7 +2212,7 @@ Xan una baxandan sonra buyurdu nökərə küçə qapısını bağlasın və çö
 
 Çörəyin yeyilməyi iki saat çəkdi. Ancaq çörəkdən sonra Noruzəlinin kağızı poçta aparmağı xanın yadına düşdü. Xan nökəri çağırıb soruşdu və nökər cavab verdi ki, hələ kəndli poçtdan qayıtmayıb. Xan Noruzəlinin bu qədər yubanmağına təəccüb elədi və fikrinə gəldi ki, bəlkə Noruzəli kağızı poçta salıb özünü verdi bazara çörəkdən-zaddan alıb yesin və yainki bazarlığı-zadı var, eləsin. Bir saat da keçdi, Noruzəli gəlmədi.
 
-Xan, nökəri çağırıb dedi ki, getsin poçta səmt və görsün harda qaldı Noruzəli və nə bais oldu ki, bu qədər yubandı. Yarım saat keçməmiş nökər qayıdıb cavab verdi ki, kəndlini görə bilmədi. Xan çıxdı balkona və bir papiros yandırıb başladı var-gəl eləməyə. Dəxi ona aşkar oldu ki, Noruzəlinin başına bir iş gəldi ki, bu qədər yubandı. Xan bu fikiirdə idi – polis yasovulu dayandı qapıya və xanı görcək dedi:
+Xan, nökəri çağırıb dedi ki, getsin poçta səmt və görsün harda qaldı Noruzəli və nə bais oldu ki, bu qədər yubandı. Yarım saat keçməmiş nökər qayıdıb cavab verdi ki, kəndlini görə bilmədi. Xan çıxdı balkona və bir papiros yandırıb başladı var-gəl eləməyə. Dəxi ona aşkar oldu ki, Noruzəlinin başına bir iş gəldi ki, bu qədər yubandı. Xan bu fikirdə idi – polis yasovulu dayandı qapıya və xanı görcək dedi:
 
 – Xan, pristav buyurur gələsiniz polsaya və kəntdinizə zamın olasınız. Yoxsa zamını olmasan, pristav göndərəcək navaxta.
 
@@ -2502,7 +2502,7 @@ Kərbəlayı Məhəmməd cavab verdi:
 
 – Sənin başına and olsun, Sultan ağa, bizi bir əhəd də görməyib. Karvanın yanında məhz üç nəfər dəvəçi idi. İkisini karvanın yanında öldürdük. Bu yazıq da bizim dalımızca qaça-qaça gəldi kəndin yavığına ki, bəlkə kişmiş taylarını bizdən saldıra; bunu da öldürdük və bədənini gətirdik buraya ki, bizim kəndin kənarında nişanə qalmasın.
 
-Bala Sulan genə dedi:
+Bala Sultan genə dedi:
 
 – Dəxi nədən qorxursunuz? Sizi görüb tanıyan olmayıb, bəs dəxi nədən qorxursunuz?
 
@@ -2913,7 +2913,7 @@ Gah vaxt yay fəsli küçə ilə keçən vaxt görürsən ki, Məşədi Molla H�
 
 Qış fəsli məscidin qabağından keçəndə görürsən ki, Məşədi Molla Həsən əbaya bürünüb və qabağına bir manğal qoyub, əyilib az qalır manğalı qucaqlasın. Ya bir vaxt keçəndə görürsən bir qəribə çömbəlib Məşədinin qabağında və əlləri ilə yavaş-yavaş manğalın odlarını deşir və Məşədi Molla Həsən sol əlində yazılı bir kağız tutub, sağ əlini qoltuğuna soxub kağızı oxuyur: “Məndən dua yetirəsiniz əmoğlum Kərbəlayı Qasıma, dayıoğlum Cəfərə, bibimə, Səkinə xanıma, Gülsüm əmiqızıma. Məndən dua yetirin Heydərə, Kərbəlayı Əliyə. Məndən dua yetirin Məşədi Xəlilə, Məşədi İskəndərə və Hüseynə və Qulaməliyə və Məşədi Zülfüqara və Usta Zeynala. Məndən çox-çox dua yetirin Məşədi Rüstəm əmimə və Nəcəfəliyə və Bayrama, Orucəliyə və Səbzəliyə və Kərbəlayı İsmayıla və Məhəmmədə. Və Məhəmmədə degilən ki, qardaşı Murtuzaqulu sağ və salamatdır və İrəvanda Hacı Həmidin bağında bağbandır və bir arvad da alıb, uşağı da olub və çox-çox dua göndərir və uşağın gözləri ağrıyır, amma şükür Allaha, özü salamatdır və çox-çox dua göndərir…”.
 
-Məşədi Molla Həsən İran əhlidir. On-on iki il bundan irəli Məşədi İraəvanda başına yeddi-səkkiz müsəlman uşağı yığıb müdərrislik elərdi. Axırda uşaqlar bir-bir başladılar dağılmağa; o səbəbə ki, uşağın biri dərsini bilməyəndə Məşədi Molla Həsən tüpürürdü uşağın üzünə. Bir neçə dəfə uşaqlar gedib atalarına şikayət elədilər, bir neçə dəfə uşaqların atası gəlib Mollanın üzünə tüpürdü. Amma bunlar hamısı ötüşərdi, əgər uşaqlar dağılmasa idilər.
+Məşədi Molla Həsən İran əhlidir. On-on iki il bundan irəli Məşədi İrəvanda başına yeddi-səkkiz müsəlman uşağı yığıb müdərrislik elərdi. Axırda uşaqlar bir-bir başladılar dağılmağa; o səbəbə ki, uşağın biri dərsini bilməyəndə Məşədi Molla Həsən tüpürürdü uşağın üzünə. Bir neçə dəfə uşaqlar gedib atalarına şikayət elədilər, bir neçə dəfə uşaqların atası gəlib Mollanın üzünə tüpürdü. Amma bunlar hamısı ötüşərdi, əgər uşaqlar dağılmasa idilər.
 
 Uşaqlar dağıldılar.
 
@@ -3323,9 +3323,9 @@ Kərbəlayı Məmmədəli paltarını geyib, durdu getdi işə və günortadan i
 
 – Bir şey yoxdu.
 
-Pərinisə gətirdi ərinin qabağına pendir-çörək qoydu və özü də oturdu ərinin yanında. Kərbəlayı Məmmədəli çörəkdən bir tikə ağzına qoyub bvşladı:
+Pərinisə gətirdi ərinin qabağına pendir-çörək qoydu və özü də oturdu ərinin yanında. Kərbəlayı Məmmədəli çörəkdən bir tikə ağzına qoyub başladı:
 
-– Ay qız, bə sənin yuxun necə oldu? Bə deyirdın: bu gün xəbər çıxacaq?
+– Ay qız, bə sənin yuxun necə oldu? Bə deyirdin: bu gün xəbər çıxacaq?
 
 Pərinisə belə cavab verdi:
 
@@ -3665,7 +3665,7 @@ Küçədə tövlənin qabağında bir strajnik bir ağ atın cilovundan yapış�
 
 Qurbanəli bəyin nökəri bir kəhər atın cilovundan yapışıb bir az kənarda dolandırırdı. Bir-iki kəndli də bir az kənarda bir ayrı atların cilovlarından yapışıb dolandırırdılar. Akoşkanın qabağında kəndlilər düzülüb pristavın akoşkalarına baxırdılar.
 
-Hərdən bir naçalnikin atı kişnəyə-ktşnəyə qabaq ayaqlarını döyür yerə və Qurbanəli bəyin atına baxıb, hirsindən cilovu gəmirtləyirdi. Qurbanəli bəyin atı hərdənbir nərə təpib, qabaq ayaqlarını qaldırırdı havaya və az qalırdı ki, Kərbəlayı Qasımı da göyə qaldırsın. Kərbəlayı Qasım da bərk-bərk cilovdan yapışıb çığırırdı:
+Hərdən bir naçalnikin atı kişnəyə-kişnəyə qabaq ayaqlarını döyür yerə və Qurbanəli bəyin atına baxıb, hirsindən cilovu gəmirtləyirdi. Qurbanəli bəyin atı hərdənbir nərə təpib, qabaq ayaqlarını qaldırırdı havaya və az qalırdı ki, Kərbəlayı Qasımı da göyə qaldırsın. Kərbəlayı Qasım da bərk-bərk cilovdan yapışıb çığırırdı:
 
 – Buna bax ha!
 
@@ -4023,7 +4023,7 @@ Qaravaş xanımı görcək əlində süpürgə getdi xanımın yanına, salam ve
 
 – Ay xanım, nə bilim, bir çoxlu böyük adamlar idi. Çoxlu xanım idi. Naçalnik özü də orada idi. Çox adam vardı. – Xanım genə soruşdu:
 
-– Kəblə Qasım, xaımlar da elə kişilərnən bir yerdə oturmuşdular, ya ayrı oturmuşdular? – Kərbəlayı Qasım cavab verdi:
+– Kəblə Qasım, xanımlar da elə kişilərnən bir yerdə oturmuşdular, ya ayrı oturmuşdular? – Kərbəlayı Qasım cavab verdi:
 
 – Yox, elə hamısı qarışmışdı bir-birinə.
 
@@ -4655,7 +4655,7 @@ Nayib girdi içəri, biz qaldıq qapıda.
 
 Xub, bu nə olsun? Konsulun arvadı bu gün vəfat edib, genə necə olsa, konsulun arvadıdır və konsulun uşaqlarının anasıdı; bu necə olan işdi ki, bu gün xətir axşamı burada bir nəfər adam tapılmasın?
 
-Nayib Cəfər dalanın içərisindən bizi çagırdı və biz ikimiz də onun dalıyca bir otaqdan keçdik getdik, zal otağına daxil olduq və durduq qapının ağzında. Nayib Cəfər bizə iltifat elədi və oturmağa yer göstərdi. Mən qorxa-qorxa kresloların birinin üstə oturub, yumşaq məxmər döşəyin içinə elə quylandım ki, dedim ta buradan məni qaldıran olmasa, öz-özümə dura bilməyəcəyəm. Deyəsən Rzaqulu da mənim günümdə idi.
+Nayib Cəfər dalanın içərisindən bizi çağırdı və biz ikimiz də onun dalıyca bir otaqdan keçdik getdik, zal otağına daxil olduq və durduq qapının ağzında. Nayib Cəfər bizə iltifat elədi və oturmağa yer göstərdi. Mən qorxa-qorxa kresloların birinin üstə oturub, yumşaq məxmər döşəyin içinə elə quylandım ki, dedim ta buradan məni qaldıran olmasa, öz-özümə dura bilməyəcəyəm. Deyəsən Rzaqulu da mənim günümdə idi.
 
 Həmin böyük zal otağı əla fərşlərlə döşənmişdi. Qabaqda stolun üstə əla məxmərdən örtük salınmışdı və stolun üstə tək bircə lampa qoyulmuşdu. Lampanın ətrafına dörd dənə külqabı düzülmüşdü.
 
@@ -5031,7 +5031,7 @@ Genə adamlar başladılar sağa-sola baxmağa, ortalığa heç kəs gəlmədi. 
 
 Pirverdi bəyin sözündən sonra camaatın səsi başladı ucalmağa, hər yandan bir səs gəlirdi və hər ağızdan bir söz çıxırdı. Bir tərəfdən camaat başladı çığırmağa ki, Məşədi Fərəcullah bu gün kənddədi, özgə yana getməyib; qeyri tərəfdən də adamlar bu sözlərin əksini dedilər ki, xeyr, yalandır, Məşədi Fərəcullah bu gün kənddə deyil. Kəndlilər səs verib başladılar mərəkəni. Aralığa bashabas düşdü, bu onu-o bunu təkanlayır, biri danışır, biri çığırır, daldakı adamlar istəyirlər özlərini soxsunlar qabağa və qabaqdakılar da dəxi irəli yeriyib, gəlib çıxıblar böyüklərin qabağına.
 
-Pirverdi bəy çox səy elədi, amma camaaatı bir qaydaya sala bilmədi. Axır nəçərnik atlılara çağırıb hökm elədi camaatı versinlər dalı. Bir qədər səs-səda yatdı və nəçərnikin müqabilində bir müsinn və ucaboy kəndli hazır oldu. Qiylü-qal dəxi də sakitləşdi. Haman şəxs haman Hacı Namazalı idi ki, biz qabaqda aşina olmuşuq. Hacı Namazalı sağ əlinin kəfəsini sinəsinin üstə və sol əlinin kəfəsini sağ əlinin üstə qoyub ikiqat olub başladı:
+Pirverdi bəy çox səy elədi, amma camaatı bir qaydaya sala bilmədi. Axır nəçərnik atlılara çağırıb hökm elədi camaatı versinlər dalı. Bir qədər səs-səda yatdı və nəçərnikin müqabilində bir müsinn və ucaboy kəndli hazır oldu. Qiylü-qal dəxi də sakitləşdi. Haman şəxs haman Hacı Namazalı idi ki, biz qabaqda aşina olmuşuq. Hacı Namazalı sağ əlinin kəfəsini sinəsinin üstə və sol əlinin kəfəsini sağ əlinin üstə qoyub ikiqat olub başladı:
 
 – Nəçərnik sağ olsun, bu sözlər hamısı ki, burada deyildi, bu sözlər xilaf sözdü. Sən özün bilirsən ki, sənin ərzində xilaf qulluqlar eləmərəm, yalan sözlər dilimə gətirmərəm. O şəxs ki, olsun Məşədi Fərəcullah ki, indi dilmanc ağa çağırdı o, əvvəl budur ki, heç əslində çarvadar deyil. Onlar özləri bir ocaqdılar. Onun rəhmətlik babası
 
@@ -5149,7 +5149,7 @@ Biz olduğumuz ev Kərbəlayı Qurbanın yetimlərinin evi idi. Evin sahibi yeti
 
 >>özü mərtub, sifəti qaraşın, hündür və salamat bir arvad idi. Əlahiddə bir gözəlliyi də yox idi; amma beləcə babat idi.
 
-Mən bircə dəfə gördüm ki, Mirzə Sadıq Münşi sübh tezdən Pərinin ocağının başında oturub çubuq çəkir və Pəri ilə danışırdı. İkinci dəfə də gördüm ki, Mirzə Sadıq Münşi genə haman ocaq başında oturub çubuq çəkir; amma bu dəfə məni görcək işarə ilə məni çağırdı. Mən də getdim və Pəri advad mənim də altıma bir köhnə uşaq döşəkcəsi saldı. Mirzə Sadıq mənə əyləşməyi təklif etdi. Oturdum.
+Mən bircə dəfə gördüm ki, Mirzə Sadıq Münşi sübh tezdən Pərinin ocağının başında oturub çubuq çəkir və Pəri ilə danışırdı. İkinci dəfə də gördüm ki, Mirzə Sadıq Münşi genə haman ocaq başında oturub çubuq çəkir; amma bu dəfə məni görcək işarə ilə məni çağırdı. Mən də getdim və Pəri arvad mənim də altıma bir köhnə uşaq döşəkcəsi saldı. Mirzə Sadıq mənə əyləşməyi təklif etdi. Oturdum.
 
 Mirzə Sadıq üzünü mənə tutub dedi:
 
@@ -5207,7 +5207,7 @@ Məşədi Məmmədəli çox yumşaqlıqla mənə belə cavab verdi:
 
 – Molla əmoğlu, and olsun oxuduğun Qurana, mənim heç bir sözüm yoxdur; qızı vermişəm və qurtarıb gedibdi. Amma o nainsafa da bir dəlil-nəsihət elə ki, bir surətdə ki, mənnən qohum olub, bir az da nə eybi var, istiqanlı və mehriban olsun və yeri düşəndə özgələrə nisbət heç olmasa bir zərrə qədər qayınatasına təfavüt qoysun. Məsələn Qurban bayramında sifariş eləmişdim ki, bizə bir kök qurbanlıq göndərsin. Altı manat yarım da pul göndərmişdim. Heç müftə istəməmişdim. Nə eybi var, ay zalım oğlu, elə bil bir yad kişiyəm. And olsun Allahın birliyinə, elə bir arıq heyvan göndərmişdi ki, bir dəri, bir sümükdən başqa bir şey tapa bilməzdin. Dəxi mən də daş deyiləm ki! Hirsim tutdu, sifariş göndərdim ki, bizim qohumluğumuz tutmayacaq… Xülasə… Molla əmoğlu, arxayın ol, bu qədər danışdım, səni də ac qoydum. Arxayın ol… Bir surətdə ki, sən də məsləhət görürsən, bir qızdı, vermişəm, qurtarıb gedibdir. Allah səni də dostluqdan və qohumluqdan əskik eləməsin öz birliyi xatirinə. Gedim görüm çörək hazırdırmı…
 
-Məşədi getdi, abgüştü öz əlində buğlana-buğlana gətirdi, çörək doğradı, qarışdırdı və mənə “buyur” deyib, təklif etdi. “Bismillah” deyib əlimi uzatdım, bir tikə götürdüm və gördüm ki, bozbaz babətdir; nə elə artıq ləzzətli və nə elə də artıq ləzzətsiz, yəni miyana.
+Məşədi getdi, abgüştü öz əlində buğlana-buğlana gətirdi, çörək doğradı, qarışdırdı və mənə “buyur” deyib, təklif etdi. “Bismillah” deyib əlimi uzatdım, bir tikə götürdüm və gördüm ki, bozbaş babətdir; nə elə artıq ləzzətli və nə elə də artıq ləzzətsiz, yəni miyana.
 
 Bu mənim dadım.
 
@@ -5499,7 +5499,7 @@ Arabanı mindik və yarım saata gəldik çıxdıq Naxçıvana.
 
 # Sirkə
 
-Bir neçə gün bundaq qabaq bizim ədib yoldaşlarımızın biri gəlmişdi Bakıya və düşmüşdü orta mehmanxanaların birində.
+Bir neçə gün bundan qabaq bizim ədib yoldaşlarımızın biri gəlmişdi Bakıya və düşmüşdü orta mehmanxanaların birində.
 
 Mən və Bakı ədiblərindən birisi bir gün günorta zamanı, getdik haman ədib rəfiqimizin görüşünə. İçəri girdik. Xoş-beş… Görüşəndən
 
@@ -5587,7 +5587,7 @@ Mən burada üzümü Əhməd Fitrətə tutub dedim:
 
 – Ay mənim əziz qardaşlarım, axı bir mənə deyin görüm, axı hər dilin bir qanunu var. Axı bizim türk dilinin də bir qanunu var ya yox?
 
-Birinci bakılı ədib yoldaşımız çəngəli qoydu çtolun üstə, bir az ucadan, bir az da hirsli, buna belə cavab verdi:
+Birinci bakılı ədib yoldaşımız çəngəli qoydu stolun üstə, bir az ucadan, bir az da hirsli, buna belə cavab verdi:
 
 – Allah atana rəhmət eləsin, ay Əhməd Fitrət. Bir bizi başa sal görək, o necə qanundu? Bəlkə doğrudan da biz qanmırıx.
 
@@ -5861,7 +5861,7 @@ Xoşuma gəlmədi, çağırdım uşaqları.
 
 – Dədə, mən də yazmamışam.
 
-Balaca Qurban da “mən yazmamışam” deyə-deyə əllərini üzünə qoyub başladı ağlamaği.
+Balaca Qurban da “mən yazmamışam” deyə-deyə əllərini üzünə qoyub başladı ağlamağı.
 
 Mən deyinə-deyinə bir əski tapıb yazını təmizlədim və deyinə-deyinə çəkildim getdim. Amma bunu eşidirdim ki, Heydər Teymura deyirdi: – Sən yazmısan. – Teymur da Heydərə deyirdi: – Sən özün yazmısan.
 
@@ -6053,7 +6053,7 @@ Məqsəd suallara cavab vermək və belə-belə fənni məsələləri açmaq dey
 
 Ancaq hər bir yay fəsli küçələrdə arabalarda buz sallarını görəndə, bir tərəfdən o buzu şampanskilərə və ləzzətli marojnalara işlədən xoşbəxtlər gözümün qabağına gəlir və eyni zamanda xalamın “ciyərinin yanmağı” yadıma düşür.
 
-Nə qədər ki, uşaq idim, yadıma düşməzdi, elə ki, yekəlib ağlım kəsdi, buz əhvalatı mənə hər bir yeri düşəndə dərd olur. Bir tərəfdən də on dörd yanşında olduğum vaxt ölümcül azarlı xalamı bir qəpiklik buza həsrət qoymağım yadıma düşür.
+Nə qədər ki, uşaq idim, yadıma düşməzdi, elə ki, yekəlib ağlım kəsdi, buz əhvalatı mənə hər bir yeri düşəndə dərd olur. Bir tərəfdən də on dörd yanında olduğum vaxt ölümcül azarlı xalamı bir qəpiklik buza həsrət qoymağım yadıma düşür.
 
 # Hamballar
 
@@ -6099,7 +6099,7 @@ Müdir karandaşla siyahıda yazılan şeylərdən bir qazanın üstündə cız�
 
 – Gedək.
 
-Qabaq otaqdan keçdim dal otağa, oradan o birisinə və genə ücüncü otağa; müdir də, biz də sağa-sola göz gəzdirə-gəzdirə getdik və mənim siyahımda yazılan şeylərin birini də burada görmədik. Burada lazım olan şeylərin birini də tapa bilməyib, müdir bizi apardı dördüncü otağa və mənə dedi:
+Qabaq otaqdan keçdim dal otağa, oradan o birisinə və genə üçüncü otağa; müdir də, biz də sağa-sola göz gəzdirə-gəzdirə getdik və mənim siyahımda yazılan şeylərin birini də burada görmədik. Burada lazım olan şeylərin birini də tapa bilməyib, müdir bizi apardı dördüncü otağa və mənə dedi:
 
 – Bax, mən görürəm ki, sən bir abırlı qoca kişisən, daha gəlib getməkdən yoruldun. Burdakı şeyləri xəzinədarın müavini dünən sayıb qoyub burda və mənə tapşırıb ki, bir kəsə verməyim. Mən cürət edib bu şeyləri sizə verə bilərəm: bax, bu şkafı, bu stolu, bax, sandalyaları. Sonra, bax, istəyirsiniz bu stolu da aparınız; həmi sandalyadır, həmi də
 
@@ -6213,7 +6213,7 @@ Bizim bu ziyafət məclisimizin ətrafında kəndlilər doluşub tamaşa edirdil
 
 @@ 280
 
->>neçəsi gülürdülər. Ancaq mən bircə şeyi başa düşmədim ki, aya, onların bu zahiri gülməkləri ürəklərinin şadlığının əlaməti idi, ya qeyri bir şeyin, qeyri bir hissin əlamti idi. O ki, mənim özümə gəldikdə, doğrusu, mənim əhvalım çox xoş idi. Nə eybi var? Həsənbəyin evində kababı doğrudan da yaxşı pişirmişlər; bir surətdə ki, Qarakənd şərabı da burada mühəyya idi. Qaldı ki, bu evi xaraba böcəkdi-nədi, – ki bu saat arağın içində mayallaq aşır və dilsiz-ağızsız əkinçilərin çörəyini zay edir, – əlbəttə, bunları bir vasitə ilə qırıb yox eləmək savab işlərin ən savabıdır. Ancaq indiki ziyafət məclisindən bu müqəddəs nəticə hasil ola biləcəkmi, ya olmayacaq, bunu da bircə misal və manəndi olmayan həqqi-təbarək və taala bilə bilər və xülaseyi-kəlam, nəticədə nə olacaq olsun, indi bu saat stolun üstündəki erkək ətin kababı və Qarakənd şərabı – hələ ki, əldə nəqd qazanc bunlardır.
+>>neçəsi gülürdülər. Ancaq mən bircə şeyi başa düşmədim ki, aya, onların bu zahiri gülməkləri ürəklərinin şadlığının əlaməti idi, ya qeyri bir şeyin, qeyri bir hissin əlaməti idi. O ki, mənim özümə gəldikdə, doğrusu, mənim əhvalım çox xoş idi. Nə eybi var? Həsənbəyin evində kababı doğrudan da yaxşı pişirmişlər; bir surətdə ki, Qarakənd şərabı da burada mühəyya idi. Qaldı ki, bu evi xaraba böcəkdi-nədi, – ki bu saat arağın içində mayallaq aşır və dilsiz-ağızsız əkinçilərin çörəyini zay edir, – əlbəttə, bunları bir vasitə ilə qırıb yox eləmək savab işlərin ən savabıdır. Ancaq indiki ziyafət məclisindən bu müqəddəs nəticə hasil ola biləcəkmi, ya olmayacaq, bunu da bircə misal və manəndi olmayan həqqi-təbarək və taala bilə bilər və xülaseyi-kəlam, nəticədə nə olacaq olsun, indi bu saat stolun üstündəki erkək ətin kababı və Qarakənd şərabı – hələ ki, əldə nəqd qazanc bunlardır.
 
 Bu mənim öz əhvalım.
 
@@ -6454,7 +6454,7 @@ Bu şkaf, – əgər durub haqq söyləsək, – ev sahibinə çox yaraşan bir 
 
 Şkafın qapısının şüşəsinin dalında səliqə ilə düzülmüş kitablar aşkar bunu deyirdilər ki, “bax, şeir bülbülləri bizdən ibarətdir”.
 
-Mən durdumm ayağa və gəldim dayandım şkafın qabağında. Ev sahibi də durdu, cibindən bir açar çıxartdı, gəldi şkafın qapısını açdı, üzünü mənə tutdu və dedi:
+Mən durdum ayağa və gəldim dayandım şkafın qabağında. Ev sahibi də durdu, cibindən bir açar çıxartdı, gəldi şkafın qapısını açdı, üzünü mənə tutdu və dedi:
 
 – Görürsən?..
 
@@ -6940,7 +6940,7 @@ Qiyamədinli bir böyük obadır və qədimdən oğurluqda şöhrət tapıbdır.
 
 Mən daha əmoğlumun bu barədə məsləhətinə ümidvar olmayıb, dedim atları sürək kənd məktəbinə. Elə də oldu.
 
-Bir sinifli kiçik bir mktəbin tək bircə müəllimi var idi ki, özü də müdir hesab olunurdu. Adı Mirzə Xəlil idi. Atdan düşdük. Mirzə Xəlil qabağımıza çıxdı. Xoş-beş… Məktəb şagirdləri həyətdə hay-küylə oynaşırdılar. Bunlar bizi görcək yanımıza toplandılar. Atlarımızı əlimizdən alıb bilmədik hara çəkdilər. Əmoğlu atların dalınca getdi və Mirzə Xəlil məni içəri apardı.
+Bir sinifli kiçik bir məktəbin tək bircə müəllimi var idi ki, özü də müdir hesab olunurdu. Adı Mirzə Xəlil idi. Atdan düşdük. Mirzə Xəlil qabağımıza çıxdı. Xoş-beş… Məktəb şagirdləri həyətdə hay-küylə oynaşırdılar. Bunlar bizi görcək yanımıza toplandılar. Atlarımızı əlimizdən alıb bilmədik hara çəkdilər. Əmoğlu atların dalınca getdi və Mirzə Xəlil məni içəri apardı.
 
 Bir yekə otağın küncündə dəmir peç yanırdı. Otaq xeyli isti idi. Bir qədər keçdi, əmoğlu gəldi, çay içdik və axırda mən mətləbi Mirzə Xəlilə açdım.
 
@@ -7078,7 +7078,7 @@ Bu hekayəni indi qələmə gətirməkdən mənim məqsədim budur:
 
 Mən istəyirəm bunu qeyd edəm ki, bir belə işlər, yəni kişilər tərəfindən övrətə üç dəfə talaq verəndən sonra o övrəti qeyri bir kişiyə nikah etmək məcburiyyəti təzə bir söhbət deyil. Məlumdur ki, dindar müsəlmanlar arasında belə əhvalatlar həmişə ittifaq düşübdür və buna keçmiş vaxtlarda bir kəs nə təəccüb və nə də etiraz edərdilər.
 
-Amma hal-hazırda əgər bu sətirlərin indiki oxuçuları burada yazılan keyfiyyəti və bu hekayədə adları çəkilən molla və məşədiləri gülünc hesab etsələr, bu ondan ötrüdür ki, biz indi Oktyabr inqilabının onuncu ilinə gəlib çatmışıq. Və bu da məlumdur ki, indiki əsrimiz elə bir əsrdir ki, ərlə arvad tez-tez dalaşır və tez-tez barışır da. Nə şəriətin nikahı, talağı və nə Kəblə İmaməlinin vəsatəti onlara lazım olmur; səbəb budur ki, indi daha insanlar azad yaşamaq üçün özlərinə azad bir yol tapırlar.
+Amma hal-hazırda əgər bu sətirlərin indiki oxucuları burada yazılan keyfiyyəti və bu hekayədə adları çəkilən molla və məşədiləri gülünc hesab etsələr, bu ondan ötrüdür ki, biz indi Oktyabr inqilabının onuncu ilinə gəlib çatmışıq. Və bu da məlumdur ki, indiki əsrimiz elə bir əsrdir ki, ərlə arvad tez-tez dalaşır və tez-tez barışır da. Nə şəriətin nikahı, talağı və nə Kəblə İmaməlinin vəsatəti onlara lazım olmur; səbəb budur ki, indi daha insanlar azad yaşamaq üçün özlərinə azad bir yol tapırlar.
 
 @@ 314
 
@@ -7200,7 +7200,7 @@ Nə hüquq? Necə hüquq?
 
 @@ 318
 
-Mən bu işə lap müəəttəl qaldım, çünki mən bir köhnə adamam, bir piri-kuhənsaləm və indiyədək ağıllı şəxslərdən eşitdiyim budur ki, qadın həmişə kişinin itaətində gərək olsun, səbəb budur ki, qadın ağıl və kamalda, qabiliyyət və zəkavətdə kişidən aşağı hesab olunur. Necə ki, fürqani-kərimin bəqərə surəsində zikr olunubdur ki, ərəb dilində: “Və lirricali əleyhinn dərəcətün” yəni bunun məzmunu budur ki, kişilərin dərəcəsi övrətlərdən artıq tutula gərək. Səbəb budur ki, cənab Allah bunu öz fürqani-məcidində xəbər veribdir, ondan ötrü xəbər vermiyibdir ki, dabanı çatdax kəndli zəhmətkeş qadınlar qurultay məclislərində hazır olub xüdavəndi-aləmin ehkamını tənqid edələr, ondan ötrü xəbər verməyibdir ki, bir para Allahsız yazıçılar Quranı və kitabı məsxərəyə qoyalar, ondan ötrü xəbər veribdir ki, bu ehkam nə qədər dünya durubdur, o qədər də daim durub dəyişilməsin, necə ki, xüdavəndi-aləm cəllə-cəlaləhu genə öz mübarək kitabının əhzab surəsində xəbər veribdir ki, mənim ehkamım dünya durduqca baqidirlər, baqi əbədidirlər, necə ki, haman ayeyi-mübarəkənin mənası həmin məzmuna mütabiq gəlir: “Və limən təcidə lisünnətallahi təbdilən” ya Məhəmməd Allah təalanın hökmü və iradəsi cəmi əzmindən ötrüdür ki, təğyir və təbdil oluna bilməz və olunmuya da gərək.
+Mən bu işə lap müəəttəl qaldım, çünki mən bir köhnə adamam, bir piri-kuhənsaləm və indiyədək ağıllı şəxslərdən eşitdiyim budur ki, qadın həmişə kişinin itaətində gərək olsun, səbəb budur ki, qadın ağıl və kamalda, qabiliyyət və zəkavətdə kişidən aşağı hesab olunur. Necə ki, fürqani-kərimin bəqərə surəsində zikr olunubdur ki, ərəb dilində: “Və lirricali əleyhinə dərəcətün” yəni bunun məzmunu budur ki, kişilərin dərəcəsi övrətlərdən artıq tutula gərək. Səbəb budur ki, cənab Allah bunu öz fürqani-məcidində xəbər veribdir, ondan ötrü xəbər vermiyibdir ki, dabanı çatdax kəndli zəhmətkeş qadınlar qurultay məclislərində hazır olub xüdavəndi-aləmin ehkamını tənqid edələr, ondan ötrü xəbər verməyibdir ki, bir para Allahsız yazıçılar Quranı və kitabı məsxərəyə qoyalar, ondan ötrü xəbər veribdir ki, bu ehkam nə qədər dünya durubdur, o qədər də daim durub dəyişilməsin, necə ki, xüdavəndi-aləm cəllə-cəlaləhu genə öz mübarək kitabının əhzab surəsində xəbər veribdir ki, mənim ehkamım dünya durduqca baqidirlər, baqi əbədidirlər, necə ki, haman ayeyi-mübarəkənin mənası həmin məzmuna mütabiq gəlir: “Və limən təcidə lisünnətallahi təbdilən” ya Məhəmməd Allah təalanın hökmü və iradəsi cəmi əzmindən ötrüdür ki, təğyir və təbdil oluna bilməz və olunmuya da gərək.
 
 Vaveyla va şəriəta! Gör yer üzünü zülmət nə dərəcədə bürüyübdür ki, gör insanlar necə qatildirlər ki, bu beş günlük dünyanı qənimət bilməkdən, onunla lazımınca istifadə etməkdən, xüdavəndi-aləm bizə təyin qıldığı sövm və səlatı əda etməkdən, gör bu bədbaxtın qızları nə məşqə düşüblər! Pəs sən ki, gözəl oğatını sərf edəcəksən bu kənddən o kəndə, bu şəhərdən o şəhərə qurultaylara çapmağa sən ki, gözəl saatlarını həsr edəcəksən nitqlər söyləməyə, sən ki, qiymətli fürsəti fötə verib uzun-uzadı mübarizələrdə bulunacaqsan, pəs onda on yeddi rükət yomiyyə namazını kim qılacaq? Pəs rəməzanəl-mübarək ayının min rükət nafilə namazını kim qılacaq, pəs bistyekküm, nüzdəhhum bistseyyum gecələrinin altı yüz otuz altı rükət namazını bir gecədə kim qılıb qurtaracaq, pəs şair min-min rükət sünnəti namazları kim qılıb qurtaracaq?
 
@@ -7532,7 +7532,7 @@ Pəri arvadın uşağı bütün gecəni ağladı və bütün gecə mən onun ağ
 
 Ancaq burada bircə şeyə təəccüb elədim: o şiddətlə ki, uşaq ağlayırdı, bir yandan, bir kəsdən buna sakitedici bir cavab yox idi; guya uşağın nə anası var, nə qeyri bir kəs.
 
-Hava başlayırdı işıqlanmağa. Durdum ayağa və tək bircə pilləni yendim həyətə. Uzaqda divarın dibində bir boz it yatmışdı. Üşaq hey ağlamaqda idi. O tərəfə üz qoydum yavaş-yavaş getməyə. Küçədə bir-iki kişi səsi gəlirdi. Yavıqlaşdım və bildim ki, ağlayan uşaq həyətin sağ tərəfində bir daxmadadır. Bir az da yavıq gəldim və elə bil hal gözümə sataşdı ki, burada dik atıldım. Bir övrət xeylağı başıaçıq,
+Hava başlayırdı işıqlanmağa. Durdum ayağa və tək bircə pilləni yendim həyətə. Uzaqda divarın dibində bir boz it yatmışdı. Uşaq hey ağlamaqda idi. O tərəfə üz qoydum yavaş-yavaş getməyə. Küçədə bir-iki kişi səsi gəlirdi. Yavıqlaşdım və bildim ki, ağlayan uşaq həyətin sağ tərəfində bir daxmadadır. Bir az da yavıq gəldim və elə bil hal gözümə sataşdı ki, burada dik atıldım. Bir övrət xeylağı başıaçıq,
 
 @@ 333
 
@@ -7902,7 +7902,7 @@ Heç başa gəlmədi. Həyətdə bir-iki dustaqxana qulluqçusu məni əhatə ed
 
 Bir az keçdi, qaranlıqladı, çıraqları yandırdılar və dustaqların hərəsinə bir yekə qara çörəklə bir stəkan dişləmə çayı gətirdilər; mənə də habelə.
 
-Çaydan sonra yatışdıq. Mən də qeyri dustaqlar tək içi küləşli döşək üstə uzandım, üstümə yorğan kimi bir şey salıdım və yatdım.
+Çaydan sonra yatışdıq. Mən də qeyri dustaqlar tək içi küləşli döşək üstə uzandım, üstümə yorğan kimi bir şey saldım və yatdım.
 
 Səhər çayından sonra məni çağırdılar dustaqxananın kantoruna.
 
@@ -9206,7 +9206,7 @@ Hacı Həsən (qapıda). Ay arvad, sən Allah, tez ol, durma! Bilmirəm dirildə
 
 @@ 394
 
-Mənim özümün də ağlım çaşıb; heç bilmirəm nə cür diriləcək? Allahın iltifatı olsa, bu nə bir çətin işdir? (Cığırır). Arvad, sənə deyirəm durma get, tədarük gör! Mən gedirəm (çıxır).
+Mənim özümün də ağlım çaşıb; heç bilmirəm nə cür diriləcək? Allahın iltifatı olsa, bu nə bir çətin işdir? (Çığırır). Arvad, sənə deyirəm durma get, tədarük gör! Mən gedirəm (çıxır).
 
 Kərbəlayı Fatmaxanım (Hər iki əlini yuxarı qalxızıb ağlayır). Ey yeri-göyü yox yerdən yaradan Allah! Məni il yarımdır ağlar qoyubsan, gülüzlü qızımı əlimdən alıbsan, mənim ciyərimə dağ basıbsan! Ay rəhim Allah, mən səndən istəyirəm Saramı! Ay Kərbəlayı Fətullahı dirildən Allah, mənə də rəhmin gəlsin: mənim gülüzlü qızımı dirilt! Allah! Allah!.. (ağlayıb üzüqoylu döşənir yerə).
 
@@ -9230,7 +9230,7 @@ Zeynəb. Ay xanım, sən Allah, ürəyini sıxma, Allah kərimdir (Kərbəlayı 
 
 @@ 395
 
-Allah, o kişi necə adamdır ki, ölüləri dirildir? Yaxşı, bəlkə imamdı, seyiddi? Bay, Allah, kərəminə şükür! (Bir az dinməyib). Sən alllah, xanım bircə bunu səndən soruşacaqdım ki, görəsən o kişi kasıbların da ölüsünü dirildir, ya bircə dövlətli adamlarınkını? Vallah, xanım, bu gün o qədər fikir eləmişəm heç bilmirəm nə qayırıram. Doğrusu (ağlaya-ağlaya) bizim balaca oğlan bu gün yadımdan çıxmır. Elə deyəsən tifil bu saat qabağımda can verir. Yazıq uşaq öləndə gözlərini elə dirəmişdi üzümə ki, deyəsən məndən bir zad istəyir (Ağlaya-ağlaya çarqatı ilə gözünün yaşını silir).
+Allah, o kişi necə adamdır ki, ölüləri dirildir? Yaxşı, bəlkə imamdı, seyiddi? Bay, Allah, kərəminə şükür! (Bir az dinməyib). Sən allah, xanım bircə bunu səndən soruşacaqdım ki, görəsən o kişi kasıbların da ölüsünü dirildir, ya bircə dövlətli adamlarınkını? Vallah, xanım, bu gün o qədər fikir eləmişəm heç bilmirəm nə qayırıram. Doğrusu (ağlaya-ağlaya) bizim balaca oğlan bu gün yadımdan çıxmır. Elə deyəsən tifil bu saat qabağımda can verir. Yazıq uşaq öləndə gözlərini elə dirəmişdi üzümə ki, deyəsən məndən bir zad istəyir (Ağlaya-ağlaya çarqatı ilə gözünün yaşını silir).
 
 Kərbəlayı Fatmaxanım. Ah, vallah, heç özüm də bilmirəm. Allah rəhim Allahdı, əlbəttə bizə də yazığı gələr. Di durma, Zeynəb, get Əliyə de ki, su gətirsinlər. Sən də ocağın altına bax. (Zeynəb çıxır).
 
@@ -9441,7 +9441,7 @@ Adamlar hərəkətə gəlir, Hacı Həsən qapıya tərəf gedir, bir övrət ba
 
 Nə istəyir övrət?
 
-Məşədi Oruc (bir az qabağa yeriyib). Şeyxəna, bu mənim anamdı; oğlundan ötrü ağlayır. Oğlü haman Kərbəlayı Fətullahdır ki, sizin mərhəmətiniznən Xorasanda dirilib.
+Məşədi Oruc (bir az qabağa yeriyib). Şeyxəna, bu mənim anamdı; oğlundan ötrü ağlayır. Oğlu haman Kərbəlayı Fətullahdır ki, sizin mərhəmətiniznən Xorasanda dirilib.
 
 Ağlayan övrət (çadra başında, bir az ağlaya-ağlaya qabağa gəlir). Belə sənə qurban olum, ay şeyx! Mən oğlumu səndən istəyirəm.
 
@@ -10161,7 +10161,7 @@ Novruz. Sən öləsən, Əziz, bunlar ermənidilər.
 
 Bu sözləri decək Novruz cəld tüfəngini salır çiyninə, cilovu ağacın budağından çəkib, qaçır atlansın. Əziz də buna baxıb haman cür eləyir. Bunlardan savayı yoldaşlardan yenə ikinəfər cilovları götürüb qaçırlar. Qəhrəman yüzbaşı da və qeyriləri ayağa durub, haman tərəfə diqqət ilə baxırlar.
 
-Qəhrəman yüzbaşı (əlini qoyub alinına). Ədə, cəld tərpəşin! (Çığırır) Əziz! Atı döy, sənin atın qıvraqdı...
+Qəhrəman yüzbaşı (əlini qoyub alnına). Ədə, cəld tərpəşin! (Çığırır) Əziz! Atı döy, sənin atın qıvraqdı...
 
 Qaraş (ucadan). Çaparaq, çaparaq! (Alçaqdan). Qorxuram çata bilməyələr. (Bir az sakit olub) Aha, qoçaq Novruz deyəsən tutaçaq. Aha, Əziz də haqladı. Zalım oğlunun atının qabağından bir kəs qurtara bilməz...
 
@@ -10275,7 +10275,7 @@ Baxşı. Ay ağa, axı mən nə eləmişəm?
 
 Qəhrəman yüzbaşı (acıqlı üzünü yoldaşlarına tutub, bir az alçaqdan). Allahü əkbər! Dəli şeytan deyir... (qəməsini qınından çəkir, qalxır ayağa və üzünü yoldaşlarına tutub deyir). Yəni siz elə güman eləyirsiniz ki, mən bu çolaq ermənini öldürməknən hirsim soyuyacaq? Soyumayacaq! (Bir qədər erməniyə tərəf baxır, dinmir). Hələ buna bax, sən Allah! Dünyada bir haramzadalıq qalmadı ki, öyrənməmiş olsunlar. Şeytana papaq tikirlər. Bu çolaq da kəmənçəni bağrına basıb, gör nə əməllərdən çıxır. Haramzada elə çalır ki, keçən günləri gətirir qoyur adamın qabağına. Allahü əkbər! (Qaraşa). Qaraş, bir papiros yandır.
 
-Qaraş papiros çıxardıb yandırır, verir yüzbaşıya. Bu heyndə Baxşı kamançanı kökləyir və başlayır Segah-zabil havasını çalmağa. Bir qədər qulaq asandan sonra, Qəhrəman yüzbaşı durduğu yerdə yenə yavaşca oturur və Baxşı çaldıqca yüzbaşı yavaş-yavaş, guya özundən bixəbər, qəməni soxur belindəki qınına və huş-guş ilə qulaq asmaqdadır. Adamlar hamısı sükutdadır.
+Qaraş papiros çıxardıb yandırır, verir yüzbaşıya. Bu heyndə Baxşı kamançanı kökləyir və başlayır Segah-zabil havasını çalmağa. Bir qədər qulaq asandan sonra, Qəhrəman yüzbaşı durduğu yerdə yenə yavaşca oturur və Baxşı çaldıqca yüzbaşı yavaş-yavaş, guya özündən bixəbər, qəməni soxur belindəki qınına və huş-guş ilə qulaq asmaqdadır. Adamlar hamısı sükutdadır.
 
 Qəhrəman yüzbaşı (Qaraşa). Qaraş, sən öləsən biçarə Heydər gəlib durub gözümün qabağında. Ax, vay!.. (Yüzbaşı bu sözləri deyəndə Baxşı çox alçaqdan çalır. Adamların çoxu da ah çəkir. Yenə Baxşı şövq ilə çalmaqdadır. Yüzbaşı gözü Baxşıda gahdan bir dillənir). Bax, belə!... eləcə!.. əcəb!.. afərin!.. eləcə!.. eləcə!.. (və axırda yüzbaşı birdən durur ayağa, qəməsini qınından çıxardır və acıqlı, ucadan Baxşıya deyir). Adə, erməni, tez kəmənçəni yığışdır, itil get burdan! Yoxsa atanın goru haqqı, bu yoldaşlarımın başına and olsun, bu qəməynən bu saat səni də öldürərəm, özümü də öldürərəm! (Çığırır). Çıx get!
 
@@ -10283,7 +10283,7 @@ Baxşı (qorxa-qorxa). Ay ağa, hara gedim?
 
 Qəhrəman yüzbaşı (çığırır). Cəhənnəmə get! Evinə!
 
-Baxşı qorxa-qorxa baxır adamların üzünə, kamançanı və örtüyünu götürür, tez çıxır gedir. Hamı sakit, öz fikirli halətində qalır. Qəhrəman yüzbaşı haman durduğu yerində durub, dinməz-söyləməz baxır Baxşı gedən tərəfə. Bir qədər də baxandan sonra qəməsini tullayır yerə və guya öz-özunə deyir:
+Baxşı qorxa-qorxa baxır adamların üzünə, kamançanı və örtüyünü götürür, tez çıxır gedir. Hamı sakit, öz fikirli halətində qalır. Qəhrəman yüzbaşı haman durduğu yerində durub, dinməz-söyləməz baxır Baxşı gedən tərəfə. Bir qədər də baxandan sonra qəməsini tullayır yerə və guya öz-özünə deyir:
 
 Qəhrəman yüzbaşı. Eh, namərd dünya!..
 
@@ -10321,7 +10321,7 @@ Məclislərin əhalisi
 
 3. Mirzə Məhəmmədəli – onun ikinci oğlu, elmi-ilahi müəllimi və vaiz. 35 yaşında.
 
-4. Səməd Vahid – onun uçüncü oğlu, türk dili müəllimi (fəs qoyur). 30 yaşında.
+4. Səməd Vahid – onun üçüncü oğlu, türk dili müəllimi (fəs qoyur). 30 yaşında.
 
 5. Gülbahar – qızı, müsəlmanca oxumuş. 20 yaşında.
 
@@ -10371,7 +10371,7 @@ Məclislərin əhalisi
 
 ### Birinci məclis
 
-Rüstəm bəyin, Mirzə Məhəmmədəlinin və Səməd Vahidin ümumi kabinəsi: bir tərəfdə böyük yazı stolu, üstündə qırmızı mahutdan örtük, yanında neçə dənə sandalya, kitab şkafı, stolun üstündə və şkafın içində kitablar. Stolun üstündə telefon, mürəkkəb qabı, qələmlər, kağızlar və qeyri yazı əşyası. Bu – Rüstəm bəyin yazı stolu. Bir tərəfdə qoyulub kitab qəfəsəsi (etajerka), üstə kitablar, yanında bir dənə sandalya. Bura Səməd Vahidin yeri. Bir tərəfdə qoyulub sandıq, içində və ustündə yekə və qara cildli köhnə müsəlman kitabları. Sandığın yanında döşək. Bu da Mirzə Məhəmmədəlinin yeri. Divarlarda çaharcubələr, içində şəkillər. Pərdə qalxan vaxt otaqda oturub tək Rüstəm bəy öz yerində; gözlərində çeşmək, oxuyub yazmağa məşğuldur. Bir qədər sükutdan sonra içəri qapı açılır və Zəhra bəyimin başı görsənir və yenə yox olur. Bir qədər keçəndən sonra yenə Zəhra bəyim qorxa-qorxa başını uzadıb yavaşca soruşur.
+Rüstəm bəyin, Mirzə Məhəmmədəlinin və Səməd Vahidin ümumi kabinəsi: bir tərəfdə böyük yazı stolu, üstündə qırmızı mahutdan örtük, yanında neçə dənə sandalya, kitab şkafı, stolun üstündə və şkafın içində kitablar. Stolun üstündə telefon, mürəkkəb qabı, qələmlər, kağızlar və qeyri yazı əşyası. Bu – Rüstəm bəyin yazı stolu. Bir tərəfdə qoyulub kitab qəfəsəsi (etajerka), üstə kitablar, yanında bir dənə sandalya. Bura Səməd Vahidin yeri. Bir tərəfdə qoyulub sandıq, içində və üstündə yekə və qara cildli köhnə müsəlman kitabları. Sandığın yanında döşək. Bu da Mirzə Məhəmmədəlinin yeri. Divarlarda çaharcubələr, içində şəkillər. Pərdə qalxan vaxt otaqda oturub tək Rüstəm bəy öz yerində; gözlərində çeşmək, oxuyub yazmağa məşğuldur. Bir qədər sükutdan sonra içəri qapı açılır və Zəhra bəyimin başı görsənir və yenə yox olur. Bir qədər keçəndən sonra yenə Zəhra bəyim qorxa-qorxa başını uzadıb yavaşca soruşur.
 
 Zəhrabəyim. Bala, görəsən niyə uşaqlar yubandılar?
 
@@ -10606,7 +10606,7 @@ Gülbahar (Rüstəm bəyə). Dadaş, əvvəl bu ki, sən dediyin adamların heç
 
 >>da, sən razı olsan, Məhəmmədəli dadaşım razı olmayacaq; Məhəmmədəli dadaşım razı olsa, sən izin verməyəcəksən; hər ikiniz də xoşlasanız, Səməd dadaşım bəyənməyəcək. Bir yadınıza salın, görün indiyə kimi mənim üstümdə siz üç qardaşın neçə dəfə dava-mərəkəsinə qonşular yığışıb tamaşaya. Yox-yox, mən heç kəsə getmək istəmirəm. Kaş siz bir-biriniznən yola gedin. (Durub çıxır gedir).
 
-Mirzə Məhzmmədəli gəlib oturur yerində.
+Mirzə Məhəmmədəli gəlib oturur yerində.
 
 Rüstəm bəy. İş belə olan surətdə mən məsləhət görürəm ki, bir surətdə ki, Gülbahar biz dediyimiz adamların heç birinə bələd deyil, sabah axşam gərək ki, cəmiyyəti-xeyriyyənin zasedaniyasıdır, özü də növbətə görə gərək bizim evə yığışalar. Aslan bəy – necə ki üzv – zasedaniyaya gələcək. Gərək hesabnan müəllimlərdən də olalar; çünki proqramlar barəsində müəllimlərdən cavab istəyiblər. Gərək onlardan şikayət də var. Xülasə, onlar gərək gələlər zasedaniyaya. Gülbahar da istəyər, çıxar onlarnan tanış olar.
 
@@ -10876,7 +10876,7 @@ Rüstəm bəy (zəngi çalır və bir kağız alır əlinə). Camaat, xahiş olu
 
 Haman ərizə sahibi Məşədi Cəfər yeriyir çamaatın içinə və ağlaya-ağlaya pul istəyir.
 
-Rüstəm bəy. Ağalar, bu barədə sözü olan danişsın.
+Rüstəm bəy. Ağalar, bu barədə sözü olan danışsın.
 
 Teymur bəy. Mən elə bilirəm ki, cəmiyyəti-xeyriyyə bu məsələyə indi əl vura bilməz. Səbəb budur ki, keçən iclasda da acların ərizələrinə kifayət verilmədi və verilməməyinin də səbəbi budur ki, cəmiyyətin sandığında olan pulları zapasnoy fonda qoymaq söhbəti ortalığa qoyulubdur.
 
@@ -10886,7 +10886,7 @@ Rüstəm bəy. Belə olan surətdə acların ərizələrini bugünkü məçlisd�
 
 Rüstəm bəy (zəngi çalır). Ağalar, acların ərizələrinə bu gün kifayət vermək istəyənlər dursunlar ayağa.
 
-Durur ayağa Zivər xanım və Munəvvər xanım.
+Durur ayağa Zivər xanım və Münəvvər xanım.
 
 Rüstəm bəy (Teymur bəy ilə pıçıldaşandan sonra). Camaat, cəmiyyəti-xeyriyyə belə qərar qoydu ki, acların ərizəsi mövcibincə acların halını yoxlamaq və onların həqiqətdə möhtac olmaqlarını təhqiq elə-məkdən ötrü əlahiddə komissiya təyin olunsun və bu səbəbdən həmin məsələnin müzakirəsi bundan sonrakı iclasa qalmağı qərar verildi.
 
@@ -11046,7 +11046,7 @@ Qənbər. Xanımcan, bizim qoyunçuluq bir tərəfdən gözəl peşədi. Həmiş
 
 Gülbahar. Yəni çoxmu dərd eləyirsiniz?
 
-Qənbər. Xanımçan, elə olur ki, ağlayırıq da; çünki söz bir qoyuıun qiymətində deyil ki, uç, ya beş manatdı. Amma deyəndə ki, boz qumral kərə yoxdu, elə bilirik bu boz qumral kərə bizim qardaşımız idi, yainki bir əziz yoldaşımız idi. Xanımcan, and olsun Allaha, keçən ay sarı əbrəş kərəni canavar dağıdanda Zaman bir gün axşama kimi tütək çaldı, mən axşama kimi bayatı deyib ağladım. (Qolu ilə gözünün yaşını salir).
+Qənbər. Xanımçan, elə olur ki, ağlayırıq da; çünki söz bir qoyunun qiymətində deyil ki, uç, ya beş manatdı. Amma deyəndə ki, boz qumral kərə yoxdu, elə bilirik bu boz qumral kərə bizim qardaşımız idi, yainki bir əziz yoldaşımız idi. Xanımcan, and olsun Allaha, keçən ay sarı əbrəş kərəni canavar dağıdanda Zaman bir gün axşama kimi tütək çaldı, mən axşama kimi bayatı deyib ağladım. (Qolu ilə gözünün yaşını salır).
 
 @@ 461
 
@@ -11110,7 +11110,7 @@ Russko-slavənskiy slovarğ – Rus və slavyan lüğəti.
 
 Slavəno-russkiy slovarğ – Slavyan-rus lüğəti.
 
-Sokrahennıy russkiy slovarğ Nikitina – Genə rus lürəti. Tolkovanie serbskix slov, voşedşix v russkiy əzık – Serb və rus lüğəti.
+Sokrahennıy russkiy slovarğ Nikitina – Genə rus lüğəti. Tolkovanie serbskix slov, voşedşix v russkiy əzık – Serb və rus lüğəti.
 
 Mirzə Məhəmmədəli başını bulamaq ilə narazılığını bildirir.
 
@@ -11132,7 +11132,7 @@ Filosofskiy slovarğ – Filosofiya lüğəti.
 
 Polnıy slovotolkovatelğ Zimina – Zimin lüğəti.
 
-İssledovanie drevnix russkix slov po letopisi Nestora – Nestorun lürəti.
+İssledovanie drevnix russkix slov po letopisi Nestora – Nestorun lüğəti.
 
 Yenə Mirzə Məhəmmədəli narazılığını büruzə verib, başını bulayır.
 
@@ -11174,7 +11174,7 @@ Senzor (Mirzə Məhəmmədəliyə). Cənab Mirzə Məhəmmədəli, şayəd siz i
 
 Mirzə Məhəmmədəli (hər iki əli ilə kitab sandığını nişan verir). Ağa, buyura bilərsiniz, bu da mənim kitablarım.
 
-Senzor (bir-bir kitabları alır əlinə, baxır). Xub, bu nədir? Bəli, Kitab dər bəyani-küsufi-külli, yəni günün tamam tutulmağının duaları (polis məmuru yazır). Kitab dər bəyani-əhvalati-küsufi-cüzi, yəni günun yarımçıq tutulmağının əhvalatı (polis məmuru yazır). Keyfiyyətixüsuf və küsuf; ayın və günün tutulmağı (polis məmuru yazır, senzor o biri kitabı oxuyur). Mütəvəssit şüdəni-afitabi-miyani-övci-qəmər və mərkəzi-tədviri-u və bəyani-təfsilati-xüsuf və küsuf (polis məmuru yazır, senzor o biri kitabı göturür). Kiriftəciyi qəndili-İsa, yəni afitabi-aləmtab, yəni günün tutulmağının duaları (polis məmuru yazır, senzor o biri kitabı göturür). Kitab dər bəyani-əhvali-ki, zəmin miyani-mah və afitab hayil şəvəd, yəni bəyani-hali-xüsuf və onun hökmlərindən danışır ki, xudavəndi-aləm tərəfindən bəndələrə tövsiyə olunubdur (polis məmuru yazır, senzor o biri kitabı götürur). Keyfiyyətiküsuf və övzai-on nisbət bəbiladi-müxtəlifə; demək, bu da günün tutulmağından danışır (polis məmuru yazır, senzor o biri kitabı göturür). Övzai-kəvakib dər məqami-ittifaq şüdəni-küsuf və xüsuf və təklifi ki, bebəndəgan mühəvvəl şüdə əst; demək, bu da ayın və günün tutulmağından və onun ibadətlərindən danışır (o biri kitab) Nəqşeyixüsufi-külli, yəni ayın tamam tutulmağının nəqşəsi. (O biri kitab) Xətti-xüsufi-cüz dər afaqi-mərkəzi; xülasə, bu da ayın tutulmağından danışır. Vəssəlam, dəxi kitabınız yoxdu?
+Senzor (bir-bir kitabları alır əlinə, baxır). Xub, bu nədir? Bəli, Kitab dər bəyani-küsufi-külli, yəni günün tamam tutulmağının duaları (polis məmuru yazır). Kitab dər bəyani-əhvalati-küsufi-cüzi, yəni günün yarımçıq tutulmağının əhvalatı (polis məmuru yazır). Keyfiyyətixüsuf və küsuf; ayın və günün tutulmağı (polis məmuru yazır, senzor o biri kitabı oxuyur). Mütəvəssit şüdəni-afitabi-miyani-övci-qəmər və mərkəzi-tədviri-u və bəyani-təfsilati-xüsuf və küsuf (polis məmuru yazır, senzor o biri kitabı göturür). Kiriftəciyi qəndili-İsa, yəni afitabi-aləmtab, yəni günün tutulmağının duaları (polis məmuru yazır, senzor o biri kitabı göturür). Kitab dər bəyani-əhvali-ki, zəmin miyani-mah və afitab hayil şəvəd, yəni bəyani-hali-xüsuf və onun hökmlərindən danışır ki, xudavəndi-aləm tərəfindən bəndələrə tövsiyə olunubdur (polis məmuru yazır, senzor o biri kitabı götürür). Keyfiyyətiküsuf və övzai-on nisbət bəbiladi-müxtəlifə; demək, bu da günün tutulmağından danışır (polis məmuru yazır, senzor o biri kitabı göturür). Övzai-kəvakib dər məqami-ittifaq şüdəni-küsuf və xüsuf və təklifi ki, bebəndəgan mühəvvəl şüdə əst; demək, bu da ayın və günün tutulmağından və onun ibadətlərindən danışır (o biri kitab) Nəqşeyixüsufi-külli, yəni ayın tamam tutulmağının nəqşəsi. (O biri kitab) Xətti-xüsufi-cüz dər afaqi-mərkəzi; xülasə, bu da ayın tutulmağından danışır. Vəssəlam, dəxi kitabınız yoxdu?
 
 @@ 465
 
@@ -11188,7 +11188,7 @@ Senzor. Cənab Rüstəm bəy və Mirzə Məhəmmədəli, hökumətiəliyyənin p
 
 Səməd Vahid. Bəli, ağa.
 
-Senzor (bir kitabı göturüb oxuyur).
+Senzor (bir kitabı götürüb oxuyur).
 
 Zavallının işi çoxdur zaman bulub gələməz,
 
@@ -11264,7 +11264,7 @@ Senzor. Bağışlayasınız, pəs sizin sənətiniz nədir?
 
 Səməd Vahid. Mən özüm də şairəm. Kəndim də cəmiyyəti-xeyriyyə məktəbində elmi-qafiyə dərsi diyorum.
 
-Mirzə Məhəmmədəli (öz-özunə). Allah bərəkət versin.
+Mirzə Məhəmmədəli (öz-özünə). Allah bərəkət versin.
 
 Senzor (üzünü polis məmuruna və fərraşlara tutub). Xub, biz getməli olduq. (Üç qardaşa) Həzərat, bəndə bir saat bundan əqdəm sizin üçünüzün də barəsində bir özgə xəyalda idim. Amma kitablarınızı görəndən sonra, dəxi indi fikrimi bilmərrə dəyişdim. İndi nə fikirdəyəm, o da qalsın mənim öz yanımda; lakin özümə fərz bilirəm hökumətə ərzi-hal edib sizi ümənayi-dövlət yanında ən səlamət və zərərsiz bəndələr cümləsində hesab edəm. Məni əfv buyurasınız və səlamət qalasınız (Senzor, polis məmuru və fərraşlar çıxıb gedirlər).
 
@@ -11274,7 +11274,7 @@ Qardaşlar başlayırlar kitablarını yığışdırmağa. Rustəm bəy kitablar
 
 @@ 467
 
->>çəkib başlayır gülməyə. Mirzə Məhəmmzdəli və Səməd Vahid təəccüblü baxırlar Rüstəm bəyə. Bir dəfə də uğunub güləndən sonra Rüstəm bəy qardaşlarına deyir.
+>>çəkib başlayır gülməyə. Mirzə Məhəmmədəli və Səməd Vahid təəccüblü baxırlar Rüstəm bəyə. Bir dəfə də uğunub güləndən sonra Rüstəm bəy qardaşlarına deyir.
 
 Rüstəm bəy. Hələ indiyə kimi xalq bir şeyi başa düşmürdü. İndiyə kimi xalq deyirdi: mərhəba-Əbdüləzimin oğlanlarına! Maşallah, biri Peterburqda elm təhsil edib, biri İstambulda, biri Nəcəfül-Əşrəfdə. Üçü də, maşallah, oxuyub alim olub. Amma bundan sonra ağızlarda söylənəcək ki, haman üç alimlərin biri (Mirzə Məhəmmədəliyə işarə edir) xüsuf-küsuf duası yazır; biri (Səməd Vahidə baxır) məfailün fəilatün; biri də... (özünə baxır), vallah, mən özüm də heç başa düşmürəm ki, mən nəçiyəm. Qah-qah-qah! (Qah-qah çəkir).
 
@@ -11322,7 +11322,7 @@ Zəhra bəyim. Bala, ayaqlarının altında ölüm, qardaşlarından ayrılma.
 
 Gülbahar. Dadaş, səni atanın goru, ayrılma.
 
-Mirzə Məhəmmədəli. Ana, ay ana, bir qulaq as, gör nə deyirəm. İşin əslkarı bir yerdədir ki, bax, mən səni bu saat başa salım. Bax, bu evdə üç qisim kitab var ki, biz üç qardaş bunlara sitayiş edirik. Bir qismi budur (Rüstəm bəyin kitablarını nişan verir). Bir qismi budur (Səməd Vahidin kitablarını nişan verir). Bir qismi də budur (öz kitablarını nışan verir). Əgər biz bu kitabları bir-birinin yanına qoysaq, diqqətnən baxsaq və zaiqəyə tapşırsaq, baxıb görərik ki, bu üç qisim
+Mirzə Məhəmmədəli. Ana, ay ana, bir qulaq as, gör nə deyirəm. İşin əslkarı bir yerdədir ki, bax, mən səni bu saat başa salım. Bax, bu evdə üç qisim kitab var ki, biz üç qardaş bunlara sitayiş edirik. Bir qismi budur (Rüstəm bəyin kitablarını nişan verir). Bir qismi budur (Səməd Vahidin kitablarını nişan verir). Bir qismi də budur (öz kitablarını nişan verir). Əgər biz bu kitabları bir-birinin yanına qoysaq, diqqətnən baxsaq və zaiqəyə tapşırsaq, baxıb görərik ki, bu üç qisim
 
 @@ 469
 
@@ -11520,7 +11520,7 @@ Gülbahar (sakit). Dayan, hambal qardaş, dayan! Gəl kitabları apar. Amma mən
 
 Gülbahar gedir Rüstəm bəyin kitab şkafını açır, kitabları bir-bir çıxardır və cildlərini cıra-cıra, vərəqlərini dağıda-dağıda tullayır ortalığa və tullaya-tullaya deyir:
 
-Gülbahar. Rus luğəti. Slavyan lüğəti (hambal bu işi görcək yavaşca yox olur. Rüstəm bəyin kitablarını qurtarandan sonra Gülbahar Səməd Vahidin kitablarını haman minval ilə, yəni cırıb dağıda-dağıda atır yerə və ata-ata deyir): Elmi-qafiyə. Vəzni-şeir. (Bu kitabları da qurtarandan sonra, Gülbahar gedir Mirzə Məhəmmədəlinin sandığından kitabları yenə bir-bir çıxarır və cıra-cıra tullayır yerə və deyir) Xüsuf. Küsuf. (Sonra o tərəf-bu tərəfə baxıb görür hambal yoxdur, gəlir kitabların tikə-parçalarını qucaqlayır və pəncərədən tökür çölə. Qaçır içəri otaqdan neft və spiçka gətirir, kitabların, üstünə neft töküb od vurur. Kitablar çöldə alışır. Gülbahar durur otağın ortasında, qoltuğundan anasının kitabını çıxardır, bir səhifəsini açır və diqqət ilə baxır.
+Gülbahar. Rus lüğəti. Slavyan lüğəti (hambal bu işi görcək yavaşca yox olur. Rüstəm bəyin kitablarını qurtarandan sonra Gülbahar Səməd Vahidin kitablarını haman minval ilə, yəni cırıb dağıda-dağıda atır yerə və ata-ata deyir): Elmi-qafiyə. Vəzni-şeir. (Bu kitabları da qurtarandan sonra, Gülbahar gedir Mirzə Məhəmmədəlinin sandığından kitabları yenə bir-bir çıxarır və cıra-cıra tullayır yerə və deyir) Xüsuf. Küsuf. (Sonra o tərəf-bu tərəfə baxıb görür hambal yoxdur, gəlir kitabların tikə-parçalarını qucaqlayır və pəncərədən tökür çölə. Qaçır içəri otaqdan neft və spiçka gətirir, kitabların, üstünə neft töküb od vurur. Kitablar çöldə alışır. Gülbahar durur otağın ortasında, qoltuğundan anasının kitabını çıxardır, bir səhifəsini açır və diqqət ilə baxır.
 
 Çöl qapıdan hövlnak daxil olur, Mirzə Məhəmmədəli, Səməd Vahid və dallarınca Birinci Və ikinci hamballar. İçəri otaqdan hövlnak daxil olurlar Rüstəm bəy, Zivər xanım və bunların dalısınca Zəhra bəyim sürünə-surünə özünü salır qapının ağzına. Camaat hamısı kitabların yanmağını və Gülbaharın əhvalının dəyişməyini görub mat qalır. Zəhra bəyim vayıldaya-vayıldaya deyir.
 
@@ -12124,7 +12124,7 @@ Nəzərəli. Məşədi Ağakişi! Aç qapını, yüzbaşıynan uşqol sizə gəl
 
 Məşədi Ağakişi gedib qapını açır, həyətə daxil olurlar: yüzbaşı Pirverdi bəy, əlində şallaq, Uçitel Həsənov, Molla Movlamverdi, Nəzərəli çavuş əlində şallaq və bir neçə kəndli. Çamaat gəlib düzülür həyətin ortasına.
 
-Pirverdi bəy (Məşədi Ağakişiyə). Məşədi Ağakişi, yaxşı qulaq as, gör nə deyirəm. Sizə məlumdu ki, mən on yeddi ildi ki, istəkli padşahımıza ixilas ilə qulluq eləyirəm. Və bir dəfə də olmayıb ki, mən dövlət yanında başı aşağı olum. Və bunu siz yaxşı bilirsiniz. Mən indi də razı olmanam ki, hər yanda danışalar ki, nəçərnik ağa gəlib Danabaş kəndində bir uşqol açdı, amma danabaşlılar yüzbaşı Priverdi bəydən (özünü əli ilə nişan verir) qorxmadılar, uşaqlarını uşqoldan qaçırdıb kərmə qalağında gizlətdilər.
+Pirverdi bəy (Məşədi Ağakişiyə). Məşədi Ağakişi, yaxşı qulaq as, gör nə deyirəm. Sizə məlumdu ki, mən on yeddi ildi ki, istəkli padşahımıza ixilas ilə qulluq eləyirəm. Və bir dəfə də olmayıb ki, mən dövlət yanında başı aşağı olum. Və bunu siz yaxşı bilirsiniz. Mən indi də razı olmanam ki, hər yanda danışalar ki, nəçərnik ağa gəlib Danabaş kəndində bir uşqol açdı, amma danabaşlılar yüzbaşı Pirverdi bəydən (özünü əli ilə nişan verir) qorxmadılar, uşaqlarını uşqoldan qaçırdıb kərmə qalağında gizlətdilər.
 
 Camaatdan bir neçəsi gülüşür.
 
@@ -12136,7 +12136,7 @@ Nəzərəli çavuş (gedib başını uzadır qalağın içinə). Yüzbaşı, ba�
 
 Qasım kişi. Yoxdu, yoxdu. Hər kəs deyibsə, yalan deyib.
 
-Şaban nənə (üzü örtulü, dalı camaata tərəf, çarşovlu). Yoxdu, yoxdu.
+Şaban nənə (üzü örtülü, dalı camaata tərəf, çarşovlu). Yoxdu, yoxdu.
 
 Molla Movlamverdi (Şaban nənəyə acıqlı və ucadan). Kəs səsini, bihəya! Övrət xəlayiqinin kişilər içində danışmağı qəbihdir. Həya lazımdır, həya!
 
@@ -12216,7 +12216,7 @@ Molla Movlamverdi. Bəli, bəli, işin əsl həqiqəti budur ki, qara ləkə ağ
 
 Kərbəlayı Heydər (uçitelə) hə, uşqol, di cavab ver, nə deyirsən? Niyə dinmirsən? Hanı bəs çəyirtgənin qulaqları?
 
-Adamlar gülüşur.
+Adamlar gülüşür.
 
 @@ 501
 
@@ -12240,7 +12240,7 @@ Molla Movlamverdi (uçitelə). Cənab uşqol, o sözü ki, indi dediniz, “osa�
 
 Uçitel. “Osa”, yəni eşşəkarısı.
 
-Adamlar güluşür.
+Adamlar gülüşür.
 
 Xub, başa düşmürsünüz, götürək müsəlman sözünü. Məsələn, “ot”; haman otu deyirəm ki, çöllərdə bitir və heyvanlar yeyir. İndi biz istəyirik yazaq “ot”. Axı “ot” sözündə iki səs var: biri “o”, biri də “t”. Əvvəl yazırıq “o”, sonra da yazırıq “t”; olur: “ot”.
 
@@ -12288,7 +12288,7 @@ Qasım kişi (mollaya). Ay molla, sən nə deyirsən? Sənin ağlın nə kəsir?
 
 Molla Movlamverdi (bir qədər fikir edib o tərəf-bu tərəfə baxır). Bəli, əlbəttə, təhsili-ülum və fünun, bir dərəcədə ki, etiqad aləminə rəxnə yetirməyə, fərayizdən məhsub olunur və lakin əcnəbi dil-lərinin və ayinlərinin təhsili bu şərt ilə ki, məsələn, belə fərz edək ki... (duruxur).
 
-Uçitel. Cənab Molla Movlamverdi, çənab inspektor məni vəkil edib sizə təklif edəm ki, həmin uşqolda həftədə iki saat şəriət dərsi deyib, ayda on iki manat yarım hüquq alasınız. Buna nədir fərmayişiniz?
+Uçitel. Cənab Molla Movlamverdi, cənab inspektor məni vəkil edib sizə təklif edəm ki, həmin uşqolda həftədə iki saat şəriət dərsi deyib, ayda on iki manat yarım hüquq alasınız. Buna nədir fərmayişiniz?
 
 Molla Movlamverdi (bir qədər dikəlib və həvəslənib). Bəli, bəli, inşallah çiddi-cəhd elərik və yüzbaşının nüfuzu sayəsində inşallah uşaqları da cəm elərik. Əlbəttə, elm təhsil eləmək hər bir babətdən lazımdır və padşahi-mehribanımızın dilini bilmək dəxi əlzəmdir; nə eybi var? Elm həmişə elmdir. Allah mübarək eləsin; Allah padşahımızı da səlamət eləsin.
 
@@ -12312,7 +12312,7 @@ Dördüncü məçlis vaqe olur Danabaş kəndində təzə açılan məktəbdə. 
 
 >>kəndli uşaq; səkkiz yaşından on beş yaşına kimi. Şagirdlərin cəmi on ikidir. Baş tərəfdə qoyulub yazı taxtası, qara rəng ilə boyanmış, qabaqda var miz, yanında bir sandalya (stul). Divarlara bir neçə heyvanat şəkli düzülüb; qabaq divardan bir yekə at şəkli asılıb. Şagirdlərin qabağında Müəllim Həsənov əlindəki kitaba hərdənbir baxa-baxa durub dərs deyir. Kənarda divar dibində çömbəlibdir Qasım kişi, Kərbəlayı Qulamalı Və Kərbəlayı Heydər. Şagirdlərin adları: Əsəd Məşədi Ağakişi oğlu və Qasım kişinin nəvəsi. Mustafa Kərbəlayı Qulamalı oğlu, Süleyman Kərbəlayı Heydər oğlu və qalan doqquz uşaq ki, ataları burada yoxdu, bunlardır: Zeynal, H ə - sənqulu, Cəfər, Səbzalı, Novruz, Həsən, Tarqulu, Qulamhüseyn, Zülfəli. Cəmi şagirdlər öz kəndli libaslarındadır.
 
-Uçitel (şagirdlərə). Durun! (Şagirdlər dururlar). Oturun! (Otururlar). Əllərinizi yuxarı qalxızın! (Uşaqlar əllərini yuxarı qalxızıb duaya hazırlaşırlar). Dərsdən qabaq vaçib olan duanı mən oxuyum, siz də mənim dalımca deyin. (Uçitel özü də əllərini qaziyül-hacata qalxızıb bu duanı oxuyur, şagirdlər kəlmə-kəlmə onun dalınca oxuyurlar). Allahümmərzüqna elmən nafiən və hifzən kamilən və zehnən şamilən və fəhmə zəkiyyən və təbən rəziyən və tövfiqən litəhsilil-ülum, Allahümməftəh əleyna əbvabə fəzlikə və səhhil əleyna elmikə və ehsanikə və rifətikə ya ərhəmərrahimin. Amin! Amin! (Şagirdlərə) Oturun!
+Uçitel (şagirdlərə). Durun! (Şagirdlər dururlar). Oturun! (Otururlar). Əllərinizi yuxarı qalxızın! (Uşaqlar əllərini yuxarı qalxızıb duaya hazırlaşırlar). Dərsdən qabaq vacib olan duanı mən oxuyum, siz də mənim dalımca deyin. (Uçitel özü də əllərini qaziyül-hacata qalxızıb bu duanı oxuyur, şagirdlər kəlmə-kəlmə onun dalınca oxuyurlar). Allahümmərzüqna elmən nafiən və hifzən kamilən və zehnən şamilən və fəhmə zəkiyyən və təbən rəziyən və tövfiqən litəhsilil-ülum, Allahümməftəh əleyna əbvabə fəzlikə və səhhil əleyna elmikə və ehsanikə və rifətikə ya ərhəmərrahimin. Amin! Amin! (Şagirdlərə) Oturun!
 
 Şagirdlər otururlar. Qasım kişi əllərini üzünə sürtür və salavat çevirir: Allahümmə səlli əla Məhəmmədin və ali Məhəmməd. Kərbəlayı Qulamalı və Kə rbəlayı, Heydər də salavat çevirirlər.
 
@@ -12704,7 +12704,7 @@ Qalır uşaqların yanında tək bircə lal. Bu nə zəngi eşitdi, nə əzanı;
 
 @@ 514
 
->>dizi üstə çökür uşaqların qabağında və iki əlləri ilə qucağını açıb, uşaqları qucağına almaq istəyir. Uşaqlar əvvəl laldan qorxan kimi olub geri çəkilirlər. Külək qalxır və soyuqdanmı, qorxudanmı, uşaqlar başlayırlar titrəməyə. Lal bunu görcək qalxır ayağa və bir qədər geri çəkilir. Uşaqlar sağa-sola baxıb, bir kəsi görmürlər, başlayırlar “dədə vay!” – deyib ağlamağa və yavaş-yavaş yavuqlaşırlar lala tərəf. Bu da dübarə gəlib çökur dizi üstə, əllərinin birinin üstünə uşaqların birini və o birinin üstünə digərini mindirib, durur ayağa və başlayır getməyə.
+>>dizi üstə çökür uşaqların qabağında və iki əlləri ilə qucağını açıb, uşaqları qucağına almaq istəyir. Uşaqlar əvvəl laldan qorxan kimi olub geri çəkilirlər. Külək qalxır və soyuqdanmı, qorxudanmı, uşaqlar başlayırlar titrəməyə. Lal bunu görcək qalxır ayağa və bir qədər geri çəkilir. Uşaqlar sağa-sola baxıb, bir kəsi görmürlər, başlayırlar “dədə vay!” – deyib ağlamağa və yavaş-yavaş yavuqlaşırlar lala tərəf. Bu da dübarə gəlib çökür dizi üstə, əllərinin birinin üstünə uşaqların birini və o birinin üstünə digərini mindirib, durur ayağa və başlayır getməyə.
 
 Musiqi buna munasib hava çalır.
 
@@ -12858,7 +12858,7 @@ Hacı Məhəmmədəli. Heç danışmayaq, heç danışmayaq. (Bu da əlini ağz�
 
 Hacı Xudaverdi. Heç danışmayaq, heç danışmayaq. (Bu da sağ əlini ağzına basır).
 
-Hacı Nayib Həzrət Əşrəf tərəfə əyilib ona yavaşca bir söz deyir və o da buna yavaşca bir neçə söz deyir. Həzrət Əşrəf durub gedır içəri otağa, sonra Hacı Nayib üzünü tutur hacılara.
+Hacı Nayib Həzrət Əşrəf tərəfə əyilib ona yavaşca bir söz deyir və o da buna yavaşca bir neçə söz deyir. Həzrət Əşrəf durub gedir içəri otağa, sonra Hacı Nayib üzünü tutur hacılara.
 
 Hacı Nayib. Hacılar, əhvalat bu qərar ilədir ki, hər bir hakimin birinci vəzifəsi məmləkətin abad və əhalinin istirahət və səadətidir. Və Həzrət Əşrəfin amalı və arzusu, bu məmləkətə təşrif gətirəndən indiyədək həmişə bu yolda olubdur. Buna da Allah-taala özü şahiddir; bu da ki, əzhər minəş-şəmsdir. Həmin bu cənab (doktora işarə edir) ki, ismi-şərifləri doktor Lalbyuzdur.
 
@@ -12938,7 +12938,7 @@ Hacı Cəfər (Hacı Nayibə). Hacı Nayib ağa, and verirəm səni çəhardəh 
 
 Hacı Məhəmmədəli (Hacı Nayibə). Ərz olsun Hacı Nayib ağanın hüzuri-mübarəkinə ki, o biçarə dəlilərin ağlını alan o gözə görünməyən pərvərdigari-aləmdir kn, öz yaratdığı bəndəyə lazım olan yerdə ağlı verir də, alır da. Bu bir məşiyyəti-yəzdanidir ki... (İki əlini yuxarı qalxızıb, gözlərini Allaha tərəf axıdıb, bu halətdə olan vaxt həzrət Əşrəf içəri qapıdan yavaşca başını çıxardıb çığırır).
 
-Həzrət Əşrəf. Pul, pul!.. (Həzrət Əşrəf yenə yox olur. Hacılar xövfə duşürlər).
+Həzrət Əşrəf. Pul, pul!.. (Həzrət Əşrəf yenə yox olur. Hacılar xövfə düşürlər).
 
 Hacı Məhəmmədəli (Hacı Nayibə). Hacı ağa, bu nə fərmayişdi? Pul budur bizim cibimizdə. Bizim malımızın da, canımızın da təəllüqü Həzrət Əşrfdir. And olsun xaliqi-ləmyəzələ ki, burada xilaf yoxdu. Bu nə fərmayişdi?
 
@@ -12946,13 +12946,13 @@ Fərraş Şimrəli daxil olur.
 
 Hacı Xudaverdi (Hacı Nayibə). Hacı ağa, and verirəm səni o uzun qollu Həzrət Abbasa, axı Həzrət Əşrəfin nahaq yerə qeyzi tutur; biz bir söz ki, demirik. Bir surətdə ki, Həzrət Əşrəf fərmayiş buyururlar, bizim nə sözümüz ola bilər?
 
-Hacılar. Nə sözumüz ola bilər?..
+Hacılar. Nə sözümüz ola bilər?..
 
 Hacı Xudaverdi. Axı, qurban sənə, Hacı ağa, bircə mətləb burasındadır ki, hərənin öz damarına görə qan alarlar. Axı sən özün bir
 
 @@ 522
 
->>mulahizə buyur gör, o iyirmi min tüməni biz üçümüz verə bilərik ya yox? Görək aya bu şəhərdə bizdən də savayı tacir var ya yox?
+>>mülahizə buyur gör, o iyirmi min tüməni biz üçümüz verə bilərik ya yox? Görək aya bu şəhərdə bizdən də savayı tacir var ya yox?
 
 Hacı Cəfər. Yaxşı, biz bədbəxt nə deyirik ki! Xub, yarısını biz verək, yarısını qeyri tacirlər versin.
 
@@ -12968,7 +12968,7 @@ Hacı Məhəmmədəli (üzü həkimə). Cənab həkim, gəl sən bu daşı ətə
 
 Həkim təəccüblü baxır hacılara tərəf və bir şey başa düşmür.
 
-Hacı Xudaverdi (həkimə). Ay həkim, Hacı Məhəmmədəli ağa yaxşı deyir, axı bu dəlixana söhbəti nə bir söhbətdi ki, bunun üstə özünüzə də, bizə də bu qədər dərdi-sər verirsiniz? Biz eşitdiyimiz budur ki, dəliliyin bir səbəbi var. Bu bir bəladır; bu bir qismətdir ki, hər bir yaranmış ki, bu dərdə mubtəla olur, gərəkdir ki, tutduğu işin müqabilində cəzasını çəksin. Bunun çarəsi “Cövşəni-kəbir” ya “Cövşəni-səğir” duasıdır ki, yazıb tikirlər dəlinin paltarına; özü də gərək sol qoluna tikilsin (əli ilə qolunu göstərir).
+Hacı Xudaverdi (həkimə). Ay həkim, Hacı Məhəmmədəli ağa yaxşı deyir, axı bu dəlixana söhbəti nə bir söhbətdi ki, bunun üstə özünüzə də, bizə də bu qədər dərdi-sər verirsiniz? Biz eşitdiyimiz budur ki, dəliliyin bir səbəbi var. Bu bir bəladır; bu bir qismətdir ki, hər bir yaranmış ki, bu dərdə mübtəla olur, gərəkdir ki, tutduğu işin müqabilində cəzasını çəksin. Bunun çarəsi “Cövşəni-kəbir” ya “Cövşəni-səğir” duasıdır ki, yazıb tikirlər dəlinin paltarına; özü də gərək sol qoluna tikilsin (əli ilə qolunu göstərir).
 
 Həzrəti Əşrəfin başı içəri otaqdan görsənir.
 
@@ -13016,7 +13016,7 @@ Hacı Nayib və qeyriləri mat qalırlar.
 
 Hacılar. Lahövlə vəla qüvvətə illa billahü əliyyül-əzim!
 
-Yenə kuçədə mərəkə və qilü-qal qopur. Daxil olurlar Kərbəlayı Türbət, Məkkə Məhəmməd, Əminə övrət, Səkinə övrət və bunlardan savayı küçə əhli. Daxil olanlar bir-biri ilə bu tövr giley-güzar edir: “A kişi, belə də iş olar, necə ağıllanacaq, biçarə arvadın günahı nədi?” Küçədə Çavuş yenə carlayır: “Ey şiələr, şəhərimizə həkim gəlib, dəlilərə müjdə olsun. Hamısı bir neçə günün muddətində ağıllanacaq. Ey mənə muştuluq verən, ey mənə xələt verən!” Sonra adamlar başlayır çığırışmağa: “Ədə, dəlilər gəlirlər!” Qilü-qal qopur, ara qarışır, Həzrət Əşrəf başını içəri otaqdan çıxardıb çığırır: “Sükut!” Fərraş şallaq ilə çamaatı sakit edir.
+Yenə kuçədə mərəkə və qilü-qal qopur. Daxil olurlar Kərbəlayı Türbət, Məkkə Məhəmməd, Əminə övrət, Səkinə övrət və bunlardan savayı küçə əhli. Daxil olanlar bir-biri ilə bu tövr giley-güzar edir: “A kişi, belə də iş olar, necə ağıllanacaq, biçarə arvadın günahı nədi?” Küçədə Çavuş yenə carlayır: “Ey şiələr, şəhərimizə həkim gəlib, dəlilərə müjdə olsun. Hamısı bir neçə günün müddətində ağıllanacaq. Ey mənə muştuluq verən, ey mənə xələt verən!” Sonra adamlar başlayır çığırışmağa: “Ədə, dəlilər gəlirlər!” Qilü-qal qopur, ara qarışır, Həzrət Əşrəf başını içəri otaqdan çıxardıb çığırır: “Sükut!” Fərraş şallaq ilə çamaatı sakit edir.
 
 Hacı Nayib (üzünü tutur camaata). Ey Hacı Bağdad, Kərbəlayı Türbət, Məkkə Məhəmməd! Ey yer üzünün şiələri! Heç qilü-qal lazım deyil. Doğrudur, doktor Lalbyuz cənabları xudavəndi-aləmin mərhəməti ilə şəhərimizin cəmi dəlilərini ağıllandıracaq. O ki, siz ərz edirsiniz dəlilərin bir neçəsinin övrətləri öz qardaşlarına ərə gediblər, bu məsələlər şəri bir məsələ olduğu halda, bunun həllini Həzrət Əşrəf mühəvvəl edir şəhərimizin şəriətmədarı Fazil Məhəmməd ibn Yəqubun öhdəsinə ki, bu barədə hər nə sərəncam olsa, ona təbəiyyət etmək cəmi yer üzünün şiələrinin vəzifəsidir. Dəxi burada bir özgə söhbət ola bilməz.
 
@@ -13128,7 +13128,7 @@ Fazil Məhəmməd (bir qədər fikirdən sonra). Nə deyim, qızım? İmama ist�
 
 Pırpız Sona (ağlamsına-ağlamsına). Mən necəyəm ki? (öz üst-başına baxır). Mən necəyəm ki? Yox, yox, mən imamı istəyirəm. Məni apar imamın hüzuruna; mən imam sahibbəzzəmanı istəyirəm.
 
-Fazil Məhəmməd (bir qədər Sonaya baxandan sonra). Qızım, mən özüm imamın nayibiyəm, mənim sözüm imamın sözüdü (başlayır ağlamağa və diz üstə çökub, başını əyir döşünə; əlləri ilə üzünü yumur. Bir qədər bu halətdə hərəktsiz qalandan sonra, başını dikəldir və əllərini qaziyül-hacata qalxızıb deyir).
+Fazil Məhəmməd (bir qədər Sonaya baxandan sonra). Qızım, mən özüm imamın nayibiyəm, mənim sözüm imamın sözüdü (başlayır ağlamağa və diz üstə çökub, başını əyir döşünə; əlləri ilə üzünü yumur. Bir qədər bu halətdə hərəkətsiz qalandan sonra, başını dikəldir və əllərini qaziyül-hacata qalxızıb deyir).
 
 Ey ricalül-qeyb, hardasınız, niyə həzrət sahibəzzəmanı gətirmirsiniz? Niyə onun rikabi-mübarəkində zühür etmirsiniz ki, cahanı küfriküffardan pak edəsiniz? Bari pərvərdigara, and verirəm səni yetmiş iki şühədanın nahaq tökülən qanına, sən əvvəla, mənim bəradərim Molla Abbasın təqsirindən keç və nə qədər ki, indiyədək küçə və bazarda sənin cəlalına istehzalar törədib, sənin qüdrətinə şəkk gətirib və nə qədər ki, bundan savayı küfrə və nasəza danışmağı özünə peşə edib, sən onu əfv et; zira sən ərhəmərrahiminsən. Xudaya, and verirəm səni məzlumi-Kərbəlaya, bu biçarə Sonanın qüvveyi-əqliyyəsinə bir qədər sihhət kəramət elə; ta qolu, qıçı və üzü açıq naməhrəmlər nəzərində gəzib dolanmağı tərk etsin və biz aciz bəndələrin hədsiz məsuliyyətlərinə bais olmasın. Allahümmə bəlliğ mövlayi-sahibəzzəman səlavatullahi əleyhi əlaənnə cəmiül-mömininə vəlmöminat, fi məşariqül-ərz və məğaribəha! Qoy zühur etsin və asi bəndələrinə rəhmi gəlsin; qoymasın dünya dərhəm-bərhəm ola. (Əllərini daha da yuxarı qalxızır və həvəslənir, cuşə gəlir və gəldikcə səsini ucaldır). Zühur et, ey sahibbəzzəman! Zühur et! Və hidayət elə siratül-müstəqimə günahkar bəndələrini
 
@@ -13162,7 +13162,7 @@ Fərraş Şimrəli (həkimə). Cənab həkim, bizim şəhərin dəlilərinin bir
 
 Pırpız Sona (həkimə). Cənab həkim, bizim şəhərin dəlilərinin biri budur (ağlayan Fazili göstərir), biri də...
 
-Fərraş onu itələyib istəyir çıxartsın, həkim əllərini qalxızıb fərraşın qabağını kəsır.
+Fərraş onu itələyib istəyir çıxartsın, həkim əllərini qalxızıb fərraşın qabağını kəsir.
 
 Fazil Məhəmməd (başını qalxızıb yuxarı). Xudaya, sən ərhəmərrahiminsən (həkimə). Ey həkim, and verirəm səni İsa və Məryəmə, əgər sənin ixtiyarında olan dava-dərmanlarda kəramət varsa, bu biçarə övrətə bir əlac elə ki, bəlkə bu qədər naməhrəm içində qol-qıçı açıq gəzmək məsiyyətindən xilas olub, nə qədər nəfəsi var, cənabınıza sənaxan olsun.
 
@@ -13242,7 +13242,7 @@ Məşədi Hacı (övrətə yavuqlaşır və diqqət ilə qol-qıçına baxır). 
 
 Nəcəfül-Əşrəf (övrətin yanına gedir və qol-qıçına vəravürd edir və deyir). Allah şeytana lənət eləsin!
 
-Hacı Əbdüləzim (əlində təsbeh, dua vird edə-edə, kücə ilə gəlməkdə). Genə bu dəli bambılılar nə düşüblər küçənin canına? Bəs bu gün bunları dəlixanaya qatacaqdılar? Allahü əkbər! And olsun Əbülfəzl Abbasa, ağayi-Nəcəfül-Əşrəf, biz bu dəli-divanənin ucundan rüsvayi-cəhan olub gedəcəyik. Belə xəta burasındadır ki, bu məlun oğlu məlun (Molla Abbasa işarə) dilini farağat qoymur, qoymur; qardaş, qoymur; əmirəl-mömüninə and olsun qoymur.
+Hacı Əbdüləzim (əlində təsbeh, dua vird edə-edə, küçə ilə gəlməkdə). Genə bu dəli bambılılar nə düşüblər küçənin canına? Bəs bu gün bunları dəlixanaya qatacaqdılar? Allahü əkbər! And olsun Əbülfəzl Abbasa, ağayi-Nəcəfül-Əşrəf, biz bu dəli-divanənin ucundan rüsvayi-cəhan olub gedəcəyik. Belə xəta burasındadır ki, bu məlun oğlu məlun (Molla Abbasa işarə) dilini farağat qoymur, qoymur; qardaş, qoymur; əmirəl-mömüninə and olsun qoymur.
 
 Mömünlər. Xeyr, qoymur.
 
@@ -13574,7 +13574,7 @@ Həkim Lalbyuz qalır məəttəl; bilmir dəli kimdir, ağıllı kimdir.
 
 Molla Abbas (həkimə, gülə-gülə). Hə, belə məəttəl qalarsan ha? Elə bilirsən dəlilərə həkimlik eləmək hasand işdi? Hə, bizi ələ salıbsan, ya özünü ələ salıbsan? Sən ki, bu camaatın dilini bilmirsən, di indi tap görüm dəli kimdi, ağıllı kimdi? Hə, niyə məəttəl qalmısan? Niyə lal olmusan, cənab Lalbyuz? (qah-qah çəkib gülür, dəlilər də gülürlər).
 
-Həkim yenə bilmir nə eləsin və bir qədər də o adama, bu adama diqqət edəndən sonra gedir ağlayan və başına döyən Çavuş Ələlfəlahın papağını çıxardır və qırxıq başına və gözlərinə diqqət edir. Sonra dodaqları “sübhanallah” vırd edən və gözləri Allahı axtaran Hacı Bağdadın başına və gözlərinə diqqət yetirir. Farmasyon Rüstəm və Sərsəm Heydər gülüşür. Mömünlər narazı və məyusdurlar. Sonra həkim gedir dodaqları “sübhanallah” vird edən və gözləri Allahı axtaran Kabla Tübətin başına və gözlərinə baxır. Dəlilər gülüşür. Bu minval ilə Məkkə Məhəmmədə də baxandan sonra həkim cibindən lüğət kitabını çıxardıb, bir söz axtarır və kitabın bir yerində barmağını qoyub, bu kəlməni çətinliklə höccələyir və deyir: “dali”. Dəlilər gülüşür, mömünlərin giley-güzarı və narazılığı intihaya çatır: “Bu necə həkimdi? Bu nə qayırır? Həkimin iştibahı var” sözləri ucalır. Fərraş Şimrəli dəliləri və ağıllıları şallaqlaya-şallaqlaya camaatı sakit edir. Çavuş avazla oxuyur: “Zi türbəti-şühəda buyisib miayəd. Camaat salavat çevirir.
+Həkim yenə bilmir nə eləsin və bir qədər də o adama, bu adama diqqət edəndən sonra gedir ağlayan və başına döyən Çavuş Ələlfəlahın papağını çıxardır və qırxıq başına və gözlərinə diqqət edir. Sonra dodaqları “sübhanallah” vird edən və gözləri Allahı axtaran Hacı Bağdadın başına və gözlərinə diqqət yetirir. Farmasyon Rüstəm və Sərsəm Heydər gülüşür. Mömünlər narazı və məyusdurlar. Sonra həkim gedir dodaqları “sübhanallah” vird edən və gözləri Allahı axtaran Kabla Tübətin başına və gözlərinə baxır. Dəlilər gülüşür. Bu minval ilə Məkkə Məhəmmədə də baxandan sonra həkim cibindən lüğət kitabını çıxardıb, bir söz axtarır və kitabın bir yerində barmağını qoyub, bu kəlməni çətinliklə höccələyir və deyir: “dali”. Dəlilər gülüşür, mömünlərin giley-güzarı və narazılığı intihaya çatır: “Bu necə həkimdi? Bu nə qayırır? Həkimin iştibahı var” sözləri ucalır. Fərraş Şimrəli dəliləri və ağıllıları şallaqlaya-şallaqlaya camaatı sakit edir. Çavuş avazla oxuyur: “Zi türbəti-şühəda buyisib miayəd. Camaat salavat çevirir.
 
 Fazil Məhəmməd. Ey məşərül-xəlayiq! Vay dəlilərin bəxti-qarə övrətləri! Hər kəs öz ərinin qardaşına siğə olmağa və həzrətin ziyarətinə getməyə razıdırsa, daxil olsun kəcavəyə.
 
@@ -13588,7 +13588,7 @@ Fazil Məhəmməd. Bəli, məlumdur ki, bu vilayətdə hamıdan artıq dəliliyi
 
 @@ 546
 
->>zəhməti mənim öhdəmə mühəvvəl olunubdu. O rəhim Allahdan istiqasim budur ki, öz astanasında bu bəxti-qarə övrətə şəfa kəramət edib, bu mərəzi-nagəhanidən xilas edə. Daxil olsun kəcavəyə qol-qıçı açıq, mömün bəndələrin nəzərində küçə və bazarda dolanan Pırpız Sona! (Fazil Məhəmməd ibnYəqub başı aşağı gedir kəcavəyə tərəf və çönub görür ki, Sona gəlmir. Sona dəlilərin içindən qabağa çıxır, üzünü tutur Molla Abbasa və deyir):
+>>zəhməti mənim öhdəmə mühəvvəl olunubdu. O rəhim Allahdan istiqasim budur ki, öz astanasında bu bəxti-qarə övrətə şəfa kəramət edib, bu mərəzi-nagəhanidən xilas edə. Daxil olsun kəcavəyə qol-qıçı açıq, mömün bəndələrin nəzərində küçə və bazarda dolanan Pırpız Sona! (Fazil Məhəmməd ibnYəqub başı aşağı gedir kəcavəyə tərəf və çönüb görür ki, Sona gəlmir. Sona dəlilərin içindən qabağa çıxır, üzünü tutur Molla Abbasa və deyir):
 
 Pırpız Sona. Molla Abbas, qorxuram! Molla Abbas, məni tut, mən qorxuram! (əllərini qabağa uzadır və yalvarır). Molla Abbas, o arvadlar ki, öz ərlərini tullayıb, ərlərinin qardaşlarına qoşulub gedirlər, o arvadların ucundan qorxuram dünya və aləm dağıla, külli-küfan ola. Molla Abbas, qorxuram ulduzlar yerə tökülə (titrəyir). Vay, nələr gördüm, Molla Abbas! (Ağlayır və titrəyir. Fazil Məhəmmədə istəyir qayıda gələ Sonanı apara, Sona da istəyir qayıda gələ dəlilərin yanına).
 
@@ -13600,7 +13600,7 @@ Neçə ildi özümü (öz ustünə baxır) bu hala salmışam ki, sən dəlilər
 
 @@ 547
 
->>olur ki, insanın qəlbi hər bir arzudan və meyldən xali olur, o vaxt qəlbdə bir növ xamuşluq əmələ gəlir. Bu xamuşluqda insana elə bir iti zehn üz verir ki, dünyanın yaxşı və yamanını həkimanə bir surətdə görə bilər. Allah şahiddir ki, bir belə xamuşluq, bir belə sakitlik bu dəqiqə mənim də qəlbimdədir. Onun üçün də indi mən həzrət sahibuləsr vəzzəmanın xidmətinə müşərrəf olan bu camaatın (əlini zəvvara tərəf uzadır) hərəkətinə diqqət ilə tamaşa edib deyirəm: Vallah və billah, biz “dəli yığıncağına” düşmuşük.
+>>olur ki, insanın qəlbi hər bir arzudan və meyldən xali olur, o vaxt qəlbdə bir növ xamuşluq əmələ gəlir. Bu xamuşluqda insana elə bir iti zehn üz verir ki, dünyanın yaxşı və yamanını həkimanə bir surətdə görə bilər. Allah şahiddir ki, bir belə xamuşluq, bir belə sakitlik bu dəqiqə mənim də qəlbimdədir. Onun üçün də indi mən həzrət sahibuləsr vəzzəmanın xidmətinə müşərrəf olan bu camaatın (əlini zəvvara tərəf uzadır) hərəkətinə diqqət ilə tamaşa edib deyirəm: Vallah və billah, biz “dəli yığıncağına” düşmüşük.
 
 Dəlilər gülüşür, Sona ağlayır, Cinni Mustafa yumruğunu zəvvara tərəf tutub çığırır.
 
@@ -14830,7 +14830,7 @@ Pərdə
 
 ### İkinci məclis
 
-Dəlixanada salon otağı, ortalıqda miz, ətrafında üç-dörd səndəlliyə, mizin üstə kağız, qələm, mürəkkəb qabı, zəng. Divardan saat asılıb. Mıxdan həkimin papağı, paltosu asılıb. Mizin qabağında dəlixananın müdiri doktor Ruhzad və yanında 5-10 nəfər tələbə. Bir tərəfində dəlilərin qelü-qalı eşidilir. Hərdənbir xəstələr hırıldayıb gülürlər. O dərəcədə ki, dam-divar uçmaq istəyir. Və gah sakit olurlar. Dəlilərə tərəf açılan qapının yanında bir kişi xidmətçisi durub, müdirin hökmünə müntəzirdir və dəlilərin mərəkəsi ucalan zaman qapını yavaşca açır, ucadan deyir:
+Dəlixanada salon otağı, ortalıqda miz, ətrafında üç-dörd səndəlliyə, mizin üstə kağız, qələm, mürəkkəb qabı, zəng. Divardan saat asılıb. Mıxdan həkimin papağı, paltosu asılıb. Mizin qabağında dəlixananın müdiri doktor Ruhzad və yanında 5-10 nəfər tələbə. Bir tərəfində dəlilərin qilü-qalı eşidilir. Hərdənbir xəstələr hırıldayıb gülürlər. O dərəcədə ki, dam-divar uçmaq istəyir. Və gah sakit olurlar. Dəlilərə tərəf açılan qapının yanında bir kişi xidmətçisi durub, müdirin hökmünə müntəzirdir və dəlilərin mərəkəsi ucalan zaman qapını yavaşca açır, ucadan deyir:
 
 Qapıçı. Qalmaqal olmasın (Qilü-qal yatır).
 
@@ -14858,7 +14858,7 @@ O biri tələbə. Yəni, açıqcasına burada sizin müalicənin nəticəsində 
 
 Professor. Yoldaşlar, sizin bu suallarınız, xeyli ağıllı bir sualdır. Çünki zəif şüur bütün ruh xəstəliklərinin ən adi bir şəkildir. Müxtəlif alimlər və mütəxəssislər arasında şüursuzluq halı haqqında bir çox münaqişələr vaqe olmuşdur. Cəmi bu münaqişələrin nəticəsində bu anlaşılır ki, müalicə qəbul etməyən cəli mərəzlərin ikinci dərəcədə hesab olunanı paranoydur. Bizim xəstəxanada həmin mərəzə giriftar olan (kitaba baxır) bir nəfərdir ki, ona camaat arasında “təbiri-xab” deyirlər.
 
-Qapıçıya işarə edir, o da dəlilərin içindən bir nəfərin qolundan tutub gətirir. Xəstə titrəyə-titrəyə daxil olur. Professor və tələbələr ona yavuq gəlirlər. Prfessor gedir, yapışır onun nəbzindən.
+Qapıçıya işarə edir, o da dəlilərin içindən bir nəfərin qolundan tutub gətirir. Xəstə titrəyə-titrəyə daxil olur. Professor və tələbələr ona yavuq gəlirlər. Professor gedir, yapışır onun nəbzindən.
 
 @@ 587
 
@@ -15126,7 +15126,7 @@ Pərvər. Dayı, vallah, mən bilmirəm ki, dəxi nə eyləyim?
 
 Mürşüd dayı o tərəfə-bu tərəfə baxır, ağzını istəyir aça bir söz danışa, amma yenə o tərəfə, bu tərəfə baxır, heç bir şey demir.
 
-Pərvər. Dayıcan, mən ölüm, de görüm, nə demək isətyirsən?
+Pərvər. Dayıcan, mən ölüm, de görüm, nə demək istəyirsən?
 
 Mürşüd dayı (alçaqdan). Amma gərək söz verəsən ki, bu söhbət öz aramızda qalacaq.
 
@@ -15390,7 +15390,7 @@ Qapıçı Dəli Şahzadənin və müavinlərinin üstündən baş doktorun palta
 
 Qapıçı. Allah sənə insaf versin; yəqin ki, dünya aləmi biabır elədin. Bizim də evimizi yıxdın. Bilirəm, bu işin üstə baş doktor ikimizi də qulluqdan çıxardacaq.
 
-Bundan sonra hər üçünün qolundan yapışıb, aparır qatır dəli kişilər söbəsinə.
+Bundan sonra hər üçünün qolundan yapışıb, aparır qatır dəli kişilər şöbəsinə.
 
 Şəhər nəzarətçisi (qapıçılara). Çox qəribə. Bəs, bunlar məgər doktorlar deyil ki? Biz elə güman edirik bunlar həqiqətdə həkimdirlər. Ancaq keflənib, düşüblər küçələrərə.
 
@@ -15398,7 +15398,7 @@ Qapıçı. A kişi, Allah bunların evini yıxsın. Həkim hansıdır, üçü d�
 
 Şəhər nəzarətçisi (bir qədər fikir eləyir). Bu, yaxşı iş olmadı. Necə sizin üçün və bütün xəstəxana üçün bu bir intizamsızlığa dəlalətdir, habelə bizim şəhər nəzarəti üçün böyük bir əsbabi-zəhmət olacaq. Bu səbəbdən ötrü şəhərdə bu saat böyük bir vəlvələ var.
 
-Caamat hay-küy salır. Qeyrətmənd, Millətpərəst və Azaditələb – bunlar yumruqlarını qapıçılara tərəf tutub, uca səs ilə hədələyirlər.
+Camaat hay-küy salır. Qeyrətmənd, Millətpərəst və Azaditələb – bunlar yumruqlarını qapıçılara tərəf tutub, uca səs ilə hədələyirlər.
 
 Şəhər nəzarətçiləri (Camaata). Vətəndaşlar! Xahiş olunur, coşmayasınız! Hər nə eləyirsiniz, qanundan çıxmayasınız.
 

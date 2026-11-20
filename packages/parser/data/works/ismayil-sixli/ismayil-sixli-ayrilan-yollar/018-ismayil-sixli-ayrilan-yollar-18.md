@@ -60,7 +60,7 @@ Doğrudan da pambığın yavaş-yavaş çiçək açmasına baxmayaraq, hələ k�
 
 – Bəs niyə seyrəltmə aparmayıbsınız?!
 
-– Dərdin alım, kimdi bizə baxan? Nə qədər çalışdıqsa, Kazım razı olmadı. Elə Kosaoğlu özü də onun tərəfini saxladı. Dedi bura xam topaqdır, heç nə lazım deyil. Üstəlik bizi tovladı ki, buranın pambığını yığıb-yığişdıra bilməyəcəksiniz. Amma işin təhərindən görürəm ki, zəhmətimiz hədər gedəcək.
+– Dərdin alım, kimdi bizə baxan? Nə qədər çalışdıqsa, Kazım razı olmadı. Elə Kosaoğlu özü də onun tərəfini saxladı. Dedi bura xam torpaqdır, heç nə lazım deyil. Üstəlik bizi tovladı ki, buranın pambığını yığıb-yığışdıra bilməyəcəksiniz. Amma işin təhərindən görürəm ki, zəhmətimiz hədər gedəcək.
 
 – Kazım buralara gəlirmi?
 
@@ -68,7 +68,7 @@ Doğrudan da pambığın yavaş-yavaş çiçək açmasına baxmayaraq, hələ k�
 
 Nəsib dayı daha heç nə soruşmadı. Arvaddan aralanıb, pambığın içində dolaşan İmranı səslədi.
 
-– Gördün bunlar başımıza nə oyun açıblar? - Nəsib dayı yola düşəndə hirsli-hirsli sözə başladı. – Kəndə çatan kimi təftış komissiyasının sərdini, briqadirlərdən birini, bir də bizim komsomol Həsəni götürüb geri qayıdarsan. Yeri ölçüb akt bağlayarsan.
+– Gördün bunlar başımıza nə oyun açıblar? - Nəsib dayı yola düşəndə hirsli-hirsli sözə başladı. – Kəndə çatan kimi təftiş komissiyasının sərdini, briqadirlərdən birini, bir də bizim komsomol Həsəni götürüb geri qayıdarsan. Yeri ölçüb akt bağlayarsan.
 
 Onlar idarənin yanında ayrıldılar.
 
@@ -102,11 +102,11 @@ Biz də bir kişiyik, ya yox, kolxozun işini mən də bilsəm olmazmı?
 
 – Düz şeyə niyə qol çəkmirəm?! O yeri kim əkdiribsə, cəza da verərik.
 
-– Əlbəttə vcrəcəyik. Birinci cəzanı sən alacaqsan!
+– Əlbəttə verəcəyik. Birinci cəzanı sən alacaqsan!
 
 – Nədən ötrü?
 
-– Kolxozun idarə heyətinin qərarına iabe olmaq istəmədiyin üçün.
+– Kolxozun idarə heyətinin qərarına tabe olmaq istəmədiyin üçün.
 
 – Ə, nə kolxoz, nə idarə heyəti?! - deyə Kosaoğlu səsini ucaltdı.
 

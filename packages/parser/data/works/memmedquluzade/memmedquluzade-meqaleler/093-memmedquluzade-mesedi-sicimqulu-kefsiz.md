@@ -211,7 +211,7 @@ Rəməzan ayı müsəlman varlıları üçun həməvəqt bir ziyafət ayı olubd
 Bu halı Sabir də və sonra Məşədi Sicimqulu da tənqid edibdir. Sabir “Ey vaizi-süxənvər” və “İftardan bir göftar” ünvanlı Əkrəmbəyə nəzirəsində:
 
 Açmış niqabi-hüsnün, məcmueyi-təvangər,
-Məcmuədə düzülmuş eyzən xüruş sərasər.
+Məcmuədə düzülmüş eyzən xüruş sərasər.
 Həsrətkeşani-mətbəx gürgani-bətnpərvər,
 Cari boğaza şərbət, sari məzaqə şəkkər,
 Əksi-buxari-dolma, zilli-əmmameyi-sər,

@@ -39,7 +39,7 @@ Hətta bu barədə Moskvada mühəndislər yığıncağında Rusiya komissarlar 
 
 Həmin yoldaş söyləmişdi ki, hər işi gərək öz xibrəsinə və mütəxəssisinə tapşıraq.
 
-Məlumdur ki, yodaş Riqov bu sözləri tək bircə mühəndislər barəsində söyləməmişdir.
+Məlumdur ki, yoldaş Riqov bu sözləri tək bircə mühəndislər barəsində söyləməmişdir.
 
 Yoldaş Riqov demişdir:
 

@@ -23,7 +23,7 @@ Balet ibarətdir ondan bir dəstə ənlik-kirşanlı qız, corabsız və tumans�
 
 Onun üçün axır vaxtlar teatro elanlarında hər dəfə yazılır ki, ikinci pərdə ilə üçüncü pərdə arasında balet oyunu oynanacaqdır.
 
-Çünki belə yazılmayanda camaat teatroya getmir, istər Mirzə Fətəlinin, istər Şeksprin əsəri qoyulsun.
+Çünki belə yazılmayanda camaat teatroya getmir, istər Mirzə Fətəlinin, istər Şekspirin əsəri qoyulsun.
 
 Yaxşı olardı (Kimyagər) pyesində də Molla İbrahim Xəlil müştəriləri aldadanda ortalığa bir balet dəstəsi çıxa. Habelə pis olmaz Hacı Qarada da Hacı Əmi Araz çayına düşəndə qız mütribləri səhnəyə çıxıb, oynayalar.
 

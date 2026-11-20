@@ -65,4 +65,4 @@ O sükutun maşınını yaşıl edərdim.
 Maralgölə qonaq getdim yaz vədəsində,
 Şəffaf idi, büllur idi, diləkli idi.
 Bir tapılmaz sükut vardı əhatəsində
-Sykutu da təmiz idi, gərəkli idi.
+Sükutu da təmiz idi, gərəkli idi.

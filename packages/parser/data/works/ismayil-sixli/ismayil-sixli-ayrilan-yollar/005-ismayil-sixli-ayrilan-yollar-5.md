@@ -18,7 +18,7 @@ O, evdə hərlənir, mütəkkələri çırpıb taxtın üstünə düzür, qab-qa
 
 Zeynəb bir yerdə durub sakitləşə bilmirdi. Tez-tez eşiyə çıxır, qapıları taqqıldadır, eyvanda hərlənir və öz-özünə deyinirdi: "Gör bir mənim yol göstərənim kim olub? Xır-xır Kazım! Hamısını da eləyən o Kosaoğludur. Zərər yoxdur. Görünür, o hələ məni yaxşı tanımayıb. Mən onu bir Kosaoğlu elərəm ki, biri də yanından çıxar".
 
-Zeynəb içəri girdi, şalını başına örtüb bayıra çıxdı. Çəpori ayaqlayıb qonşu həyətə keçdi, Tükəzban xalanı çağırdı. Arvad eyvanda göründü.
+Zeynəb içəri girdi, şalını başına örtüb bayıra çıxdı. Çəpəri ayaqlayıb qonşu həyətə keçdi, Tükəzban xalanı çağırdı. Arvad eyvanda göründü.
 
 – İmran evdədirmi?
 
@@ -32,13 +32,13 @@ Zeynəb içəri girdi, şalını başına örtüb bayıra çıxdı. Çəpori aya
 
 O, dönüb aralandı.
 
-Qaranlıq düşürdü. Qapı-bacalarda qaraltılar çoxalırdı. Baltalar taqqildayır, dallarında səbətlə saman gətirən uşaqlar tövlələrə yaxinlaşırdılar. Arvadlar buzovu əmizdirdikdən sonra çəkib mıxa bağlayır, südü evə qoyub qayıdır və qarın üstündə ot yeyən inəkləri haylayıb dama salırdilar. Bəzi qapılarda itlər yal üstündə boğuşurdu. Yavaş-yavaş sazaq başlayır, göy üzündə təkəmseyrək ulduz görünürdü. Dərsdən qayıdan uşaqlar tələsir, özlərini evə salmağa çalışırdılar. Onların bəziləri soyuqdan büzüşür, bəziləri də papaqlarınin qulaqları atıla-atıla qaçırdılar. Pəncərələrdə titrəyən işıqlar çoxalır, bacalardan çıxan tüstü axşam toranlığına qarışıb yox olurdu.
+Qaranlıq düşürdü. Qapı-bacalarda qaraltılar çoxalırdı. Baltalar taqqildayır, dallarında səbətlə saman gətirən uşaqlar tövlələrə yaxinlaşırdılar. Arvadlar buzovu əmizdirdikdən sonra çəkib mıxa bağlayır, südü evə qoyub qayıdır və qarın üstündə ot yeyən inəkləri haylayıb dama salırdılar. Bəzi qapılarda itlər yal üstündə boğuşurdu. Yavaş-yavaş sazaq başlayır, göy üzündə təkəmseyrək ulduz görünürdü. Dərsdən qayıdan uşaqlar tələsir, özlərini evə salmağa çalışırdılar. Onların bəziləri soyuqdan büzüşür, bəziləri də papaqlarınin qulaqları atıla-atıla qaçırdılar. Pəncərələrdə titrəyən işıqlar çoxalır, bacalardan çıxan tüstü axşam toranlığına qarışıb yox olurdu.
 
 Zeynəb heç nəyə fikir vermədən irəliləyir, öz-özünə Kosaoğlunu asıb-kəsirdi: "Gərək elə hamı Kosaoğlunun qohumu olsun? Kolxozun xeyir-şərində biz də iştirak etsək dünya dağılmaz ki! Elə gərək hər şeyi qamarlayıb özləri götürsün? Kənd onların adına ha yazılmayıb! Daha bəsdir! Hər şeyi açıb lap gözünün içinə deyəcəm. İslanmışın yağışdan nə pakı? Onsuz da mənə dəli Zeynəb deyirlər".
 
 Zeynəb kolxozun xırman yerinə çatdı. Saman tığlarının yanında kişilər çənələrini yabaya söykəyib söhbət edirdilər. Onlar saman keşikçisinə nə isə deyir, o da qışqırırdı ki, olmaz". Başqa vaxt olsaydı Zeynəb bəlkə də dayanıb söhbət edənlərə salam verər, sinə-sinə tayalara yaxınlaşaraq səbətlərini samanla doldurub qaçan uşaqlara acıqlanar və keşikçiyə sataşıb "gözlə özünü də səbətə qoyub apararlar", - deyərdi. Ancaq indi hövsələsi yox idi.
 
-O, xırmandan tələsik keçib idarəyə doğru addımladı. Xəstxananın yanında, əyninə qara xəz palto geyinmiş Şahnazla rastlaşdı. Onlar sakitcə bir-birini başdan-ayağa xeyli süzdülər. Şahnaz birdən qəhqəhə çəkdi.
+O, xırmandan tələsik keçib idarəyə doğru addımladı. Xəstəxananın yanında, əyninə qara xəz palto geyinmiş Şahnazla rastlaşdı. Onlar sakitcə bir-birini başdan-ayağa xeyli süzdülər. Şahnaz birdən qəhqəhə çəkdi.
 
 – Ay qız, şala nə yaman bürünübsən?
 
@@ -92,7 +92,7 @@ Zeynəb eyni sakitliklə soruşdu:
 
 – Bura bax, məni dolama!
 
-– Özündən xəbərin yoxdur, ay yazıq, dolanası günlərə qalibsan. Şahnazın burun pərələri genişləndi. Sinəsi enib-qalxdı. Gözləri oynadı.
+– Özündən xəbərin yoxdur, ay yazıq, dolanası günlərə qalıbsan. Şahnazın burun pərələri genişləndi. Sinəsi enib-qalxdı. Gözləri oynadı.
 
 – Mənə nə olub ki, yazıq oluram? Dayımın canı sağ olsun. Yazıq sənsən, a yetim!
 
@@ -100,9 +100,9 @@ Zeynəbin yumruqları düyünləndi. Bir addım irəli gəlib onun gözlərinin 
 
 – Bax, əlini-ayağını farağat qoy. Mən sənə toxa vuran qızlardan deyiləm ki, saçından tutub horabel çəkəsən.
 
-– Kəs səsini! Yoxsa bu saat allahın da, bəndənin də hayıfinı səndən alaram. Arsız!
+– Kəs səsini! Yoxsa bu saat allahın da, bəndənin də hayıfını səndən alaram. Arsız!
 
-Şahnaz ondan aralanıb özünü xəstəxanaya saldı. Zeynəb bir xeyli yerindəcə dayandı. Onun dodaqları səyridi. Gözləri yaşardı. Güclə hirsini boğub özünü ələ aldı, şalını düzəldə-düzəldə xostəxananın yanından ötüb idarəyə yaxınlaşdı. Birbaş Kosaoğlunun yanına getmək istədi. Ancaq partiya təşkilatçısının otağından işıq gəldiyini görüb ayaq saxladı, nəfəsini dərdikdən sonra üst-başını düzəldib içəri girdi. Nəsib dayı qapıya tərəf baxdı. Zeynəb özünü itirən kimi oldu. Qıza elə gəldi ki, hirsli olduğunu, hətta Şahnazla deyişdiyini Nəsib dayı bilir. O, həyəcanını gizlədib sakitləşmək istədisə də bacarmadı, yanaqları daha da qızardı. Zarafatcıl, gülərüz Nəsib dayı Zeynəbi bu vəziyyətdə görüb gülümsündü.
+Şahnaz ondan aralanıb özünü xəstəxanaya saldı. Zeynəb bir xeyli yerindəcə dayandı. Onun dodaqları səyridi. Gözləri yaşardı. Güclə hirsini boğub özünü ələ aldı, şalını düzəldə-düzəldə xəstəxananın yanından ötüb idarəyə yaxınlaşdı. Birbaş Kosaoğlunun yanına getmək istədi. Ancaq partiya təşkilatçısının otağından işıq gəldiyini görüb ayaq saxladı, nəfəsini dərdikdən sonra üst-başını düzəldib içəri girdi. Nəsib dayı qapıya tərəf baxdı. Zeynəb özünü itirən kimi oldu. Qıza elə gəldi ki, hirsli olduğunu, hətta Şahnazla deyişdiyini Nəsib dayı bilir. O, həyəcanını gizlədib sakitləşmək istədisə də bacarmadı, yanaqları daha da qızardı. Zarafatcıl, gülərüz Nəsib dayı Zeynəbi bu vəziyyətdə görüb gülümsündü.
 
 – Qızım, nə yaman bürünübsən, lap qarıya oxşayırsan.
 
@@ -148,7 +148,7 @@ Yoxsa bütün rayonu bura tökərəm. Daha bəsdir. Kəndi barmağına az dolas�
 
 Zeynəbin sözləri Nəsib dayını düşündürdü. Doğrudan da axır vaxtlar Kosaoğlu özünü pis aparır, heç kimlə hesablaşmır, hətta partiya iclaslarının qərarlarına fikir vermək istəmirdi. Onun bu cür yekəxanalığı, kolxozun idarə heyətinə belə fikir verməməsi Nəsib dayını narahat edirdi. O bir neçə dəfə Kosaoğlu ilə təklikdə söhbət etmiş, bu cür işlərin yaxşı nəticə verməyəcəyini demişdi. Nəsib dayını ən çox təəccübləndirən o idi ki, Kosaoğluna bir söz deyəndə gülür, laqeydliklə "nə qayıracaqlar ki?" - deyirdi.
 
-Nəsib dayı çalışırdı ki, onu başa salsın, külxozun daxilində ikitirəlik və ziddiyyət olmasın. Ancaq deyəsən bu mümkün deyildi.
+Nəsib dayı çalışırdı ki, onu başa salsın, kolxozun daxilində ikitirəlik və ziddiyyət olmasın. Ancaq deyəsən bu mümkün deyildi.
 
 Zeynəbin dediklərinə diqqətlə qulaq asdıqdan sonra o yenə öz-özündən soruşdu: "Axı bu niyə belə olsun?", lakin cavab tapa bilmədi-
 
@@ -156,7 +156,7 @@ Zeynəbin dediklərinə diqqətlə qulaq asdıqdan sonra o yenə öz-özündən 
 
 Heç kəs sənin manqam əlindən ala bilməz. Səni manqabaşçılıqdan çıxartmaq üçün əldə heç bir əsas yoxdur. - O, bir qədər duruxdu.
 
-Azacıq fikrə getdi və sınayıcı nəzərlərlə Zeynəbi süzdü. - Yaxşı, bəs Kazım nə üçün sənin əleyhinə çıxır? O ki keçən il harda olsa, səni tərifləyirdi, briqadanıın gözüdür, deyirdi. İndi nə oldu?
+Azacıq fikrə getdi və sınayıcı nəzərlərlə Zeynəbi süzdü. - Yaxşı, bəs Kazım nə üçün sənin əleyhinə çıxır? O ki keçən il harda olsa, səni tərifləyirdi, briqadanın gözüdür, deyirdi. İndi nə oldu?
 
 Zeynəb qızardı. Ürküdülmüş kimi yerindən qalxdı. Nəsib dayının üzünə baxmaqdan utanıb başını aşağı saldı. - Mən nə bilim? Nəsib dayı qızın yaralı yerinə toxunduğunu hiss etdi.
 
@@ -252,7 +252,7 @@ Kazım Zeynəbə daha da yaxınlaşdı. Qaranlıqda onun gözləri parıldadı. 
 
 – Nə əziyyəti var, özün bilirsən ki, Qurban qağam mənim bir sözümü iki eləməz. Kişinin yanında xətir-hörmətim var.
 
-– Allah özü sizi bədnəzərdən saxlasın. Həmişə xətir-hörmütli olun.
+– Allah özü sizi bədnəzərdən saxlasın. Həmişə xətir-hörmətli olun.
 
 Biz də sizin kölgənizdə dolanaq.
 

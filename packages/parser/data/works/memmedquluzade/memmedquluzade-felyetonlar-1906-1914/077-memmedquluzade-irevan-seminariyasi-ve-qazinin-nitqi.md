@@ -33,7 +33,7 @@ Məsələn, “İtqapan” kəndinin müəllimi – Mirzə Heydərdir ki, əvvə
 
 Hələ bunlar qalsın…
 
-Demək ki, müəllim tapılmır; ondan ötrü ki, seminariyadan üç ildə hıqqana-hıqqana bir müəslman müəllimi çıxır.
+Demək ki, müəllim tapılmır; ondan ötrü ki, seminariyadan üç ildə hıqqana-hıqqana bir müsəlman müəllimi çıxır.
 
 Yenə Rusiyada ildə bir Duma çıxır, amma burada ildə bir müəllim də çıxmır. Ondan ötrü ki, seminariya doludur sarı-sarı rus uşaqları ilə. Allah Miropyev direktorun vücudunu bibəla eləsin ki, neçə il bundan irəli İrəvan seminariyasında direktor idi. Bir müsəlman uşağı gəlib ərizə verərdi ki, mən istəyirəm seminariyaya girəm, cənab Miropyev əyilib diqqətlə baxardı cavanın üzünə və ərizəsini qaytarıb verərdi və deyərdi: bala, səni götürə bilmərəm; ondan ötrü ki, qaşın qaradır.
 

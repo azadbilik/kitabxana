@@ -1,7 +1,7 @@
 ---
-slug: memmedquluzade-menim-ezizlerim-hemide-munevver-ve-muzeffer-kislovdsk
+slug: memmedquluzade-menim-ezizlerim-hemide-munevver-ve-muzeffer-kislovodsk
 sourceId: kxn-688-t250
-titleAz: 'Mənim əzizlərim Həmidə, Münəvvər və Müzəffər! (Kislovdsk, 20 dekabr 1930)'
+titleAz: 'Mənim əzizlərim Həmidə, Münəvvər və Müzəffər! (Kislovodsk, 20 dekabr 1930)'
 authorSlug: memmedquluzade
 collectionSlug: memmedquluzade-mektublar
 originalLang: AZ_LATIN

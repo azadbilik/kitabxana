@@ -98,7 +98,7 @@ Allahyar onun uzaq tanışlarından idi. Binəyə gələndə kimin qızını qa�
 
 – Sonrasını mən özüm bilirəm.
 
-Həsən ağa dinməz-söyləməz alaçığa qayıtdı. O, içəri girən kimi Allahyar döşəkcənin üstündn bir az yayxandı. Həsən ağanın bu saat "hər şey hazırdır, dur get" deyəcəyini gözlədi. Lakin gördü ki, kişinin qaş-qabağından zəhər tökülür. Allahyarın təbəssümü dodaqlarında qaldı.
+Həsən ağa dinməz-söyləməz alaçığa qayıtdı. O, içəri girən kimi Allahyar döşəkcənin üstündə bir az yayxandı. Həsən ağanın bu saat "hər şey hazırdır, dur get" deyəcəyini gözlədi. Lakin gördü ki, kişinin qaş-qabağından zəhər tökülür. Allahyarın təbəssümü dodaqlarında qaldı.
 
 – Qız nə təhərdir?
 
@@ -154,7 +154,7 @@ Yəmən xanım səhərə qədər yatmadı. Çırağı yandırıb qızın bədən
 
 Gün xeyli qalxdı. Uşaqlar oyanıb səhər-səhər şehli otlarda ayaqyalın qaçışmağa başladılar. Sığırçılar malları harayladılar, ancaq Salatın oyanmadı. Həsən ağa bir-iki dəfə içəri girib arvadından nə isə soruşmaq istədi. Yəmən xanım ərini geri qaytardı. Bir az da keçdi...
 
-Binələrin üst tərəfində itlər hürüşdü. Qız diksinib ayıldı. Qorxulu-qorxulu ətrafına boylandı. Gözünün həlqəsi böyüdü. Sinəsi qalxib-endi və birdən qışqırdı:
+Binələrin üst tərəfində itlər hürüşdü. Qız diksinib ayıldı. Qorxulu-qorxulu ətrafına boylandı. Gözünün həlqəsi böyüdü. Sinəsi qalxıb-endi və birdən qışqırdı:
 
 – Qurbanın olum, ay xala.
 
@@ -208,7 +208,7 @@ Həsən ağa Əşrəfin dodaqlarının səyridiyini, boğazında düyünlənən 
 
 – Arana, biçinə gedib.
 
-– A qırışmal, bə adam bacısını beləmi qoruyar? – Kişinin sözü Əsrəfi bərk tutdu. O heç nə deyə bilmədi. Gözünün həlqəsinə yığılan yaşı geri qaytarıb udqundu:
+– A qırışmal, bə adam bacısını beləmi qoruyar? – Kişinin sözü Əşrəfi bərk tutdu. O heç nə deyə bilmədi. Gözünün həlqəsinə yığılan yaşı geri qaytarıb udqundu:
 
 – Siz hardan bilirsiniz?
 

@@ -48,7 +48,7 @@ Bir azdan qapı açıldı. Nəsib dayı ilə Tükəzban xalanın qabağına gül
 
 Tükəzban xalan da səndən ötrü darıxırdı.
 
-Onlar içəri keçdılər.
+Onlar içəri keçdilər.
 
 Nərgiz əl-ayağa düşdü. Çay-çörək hazırladı. Qonaqlarına layiqincə hörmət etməyə çalışdı. Süfrə başında onları anası və bacıları ilə tanış etdi.
 
@@ -78,7 +78,7 @@ Ortalığa süfrə saldılar, xörək gətirdilər. Hamı süfrə başına yığ
 
 Tükəzban xala heç nəyə toxunmadı.
 
-– Siz çörəyinizi yeyin, dordin alım, - dedi, - mən toxam.
+– Siz çörəyinizi yeyin, dərdin alım, - dedi, - mən toxam.
 
 Tükəzban xala elə bil tikan üstə oturmuşdu. Əgər Nəsib dayı bir az da gec gəlsəydi, arvadın ürəyi az qala partlayacaqdı. Hamı süfrədən çəkildi. Evdə Nərgizin ata-anası, bir də qonaqlar qaldılar. Ortaya çay gətirdilər. Bir xeyli heç kəs danışmadı. Sonra kənddən, yeni qərarlardan söz düşdü. Kənd təsərrüfat mütəxəssislərinin kolxozlara getmələrindən danışdılar.
 
@@ -142,7 +142,7 @@ Muradovun zarafatı ilə ciddi sözünü seçmək çətin idi. Nəsib dayı papi
 
 – Düz deyir, bu il yediyim-içdiyim burnumdan gəlib.
 
-– Axı niyə ey? - deyə Nəsib dayı gülə-gülə davam etdi: - Balaca ha deyü, ali tohsilli qızdır. Kənddə ona nə olacaq ki, siz qorxuya dü-şübsünüz? Keçən İl pismi dolanıb?
+– Axı niyə ey? - deyə Nəsib dayı gülə-gülə davam etdi: - Balaca ha deyü, ali təhsilli qızdır. Kənddə ona nə olacaq ki, siz qorxuya dü-şübsünüz? Keçən İl pismi dolanıb?
 
 – Orası elədir. Ancaq atayam da. Ürəyim yanmda qalır.
 
@@ -182,7 +182,7 @@ Nəsib dayı onun ciddiləşdiyini görüb səsinin ahəngini dəyişdi:
 
 Otağa sükut çökdü. Divardakı saat daha bərkdən çaqqıldadı. Tükəzban xala gözünü Muradovun ağzına zilləyib durdu. Muradov başı üzərində dayanan arvadının üzünə baxdı. Arvad ərinin "gördünmü, sənin qızın bizim başımıza nə oyun açdı" demək istədiyini dərhal anladı.
 
-Muradovun əlləri yavaş-yavaş əsməyə, tükləri ağarmış gicgahlarındakı nazik damarlar şişməyə başladı. Arvadın rəngi ağardı. İllərdən bəri ərinin xasiyyətini bütün incəliklərinə qədər öyrənən Sona, bunun nə demyk olduğunu dərhal anladı. O, bu saat Muradovun özündən çıxıb qonaqları bihörmət edəcəyindən, evdəki adamları bir-birinə qatacağından qorxdu. Həyəcan içərisində ərinə doğru əyildi. Qaş-gözlə onu başa salmağa çalışdı ki, "sakit ol qız ağacı, qoz ağacı, hər ötən bir salba atar. Bizi biabır eləmə, ayıbdır. Kənddən gələndə nə olar?! Bir abırla danış, camaatı yola sal, əməlli-başlı söz de, söz eşit".
+Muradovun əlləri yavaş-yavaş əsməyə, tükləri ağarmış gicgahlarındakı nazik damarlar şişməyə başladı. Arvadın rəngi ağardı. İllərdən bəri ərinin xasiyyətini bütün incəliklərinə qədər öyrənən Sona, bunun nə demək olduğunu dərhal anladı. O, bu saat Muradovun özündən çıxıb qonaqları bihörmət edəcəyindən, evdəki adamları bir-birinə qatacağından qorxdu. Həyəcan içərisində ərinə doğru əyildi. Qaş-gözlə onu başa salmağa çalışdı ki, "sakit ol qız ağacı, qoz ağacı, hər ötən bir salba atar. Bizi biabır eləmə, ayıbdır. Kənddən gələndə nə olar?! Bir abırla danış, camaatı yola sal, əməlli-başlı söz de, söz eşit".
 
 Lakin mümkün olmadı. Muradov fısıldayıb yerində qurcalandı. Nəsib dayını, Tükəzban xalanı diqqətlə nəzərdən keçirdi. Yenə arvadının üzünə baxdı.
 
@@ -200,7 +200,7 @@ Muradov diksindi. Özünü zorlayıb dodaqucu qımışdı və arvadının gözl�
 
 Nəsib dayı onun fikrini başa düşdü.
 
-– Əlbəttə, elədir. Əgər onların arasında razılıq oimasaydı, biz sizə başağrısı verməzdik.
+– Əlbəttə, elədir. Əgər onların arasında razılıq olmasaydı, biz sizə başağrısı verməzdik.
 
 – Yəni deyirsən...
 

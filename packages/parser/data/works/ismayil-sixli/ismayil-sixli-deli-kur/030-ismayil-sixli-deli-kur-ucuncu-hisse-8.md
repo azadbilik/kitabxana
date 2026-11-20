@@ -18,7 +18,7 @@ Dəstə kənddən xeyli aralandı. Camaat onların Tiflisə ötüb keçdiklərin
 
 Əhməd səs-küyə evdən çıxdı. O, yarlı yaraqlı kazakları görəndə ani olaraq Peterburqu xatırladı. Bədənində soyuq bir gizilti keçdi. Onların nə üçün bura gəldiklərini anlamadığıdan, xəyalına yüz cür qorxulu fikir gəldi. Atdan enib əlində qamçı oynadan enlikürək, ucaboy, saqqalı sinəsinə yayılmış kazak ona yaxınlaşıb,birdən-birə bağırdı:
 
-– Ey tatar, yakşı yaman, kladi karman. Ni bilmez, ni bum-bum?
+– Ey tatar, yaxşı yaman, kladi karman. Ni bilmez, ni bum-bum?
 
 Bu acı, təhqiramiz söz elə bil Əhmədi silkələyib ayıltdı. O, gözünü qarşısında dayanıb istehza ilə ona baxan kazakın üzünə zillədi və xalis rus dilində:
 
@@ -48,7 +48,7 @@ Onlar Əbmədi qabaqlarına qatıb içəri apardılar. Diqqətlə bir-bir otaqla
 
 – Lazım olur, lazım olur. Az danış. Stulları bayıra çıxart.
 
-Kazakın sifəti dəyişdi. Az qaldı baxışları ilə Əhmədi yesin. Hətta əilini yuxarı qaldırıb şallağını belə hərləmək istədi. Ancaq pristavın eyvanda dayandığını görüb əlini saxladı.
+Kazakın sifəti dəyişdi. Az qaldı baxışları ilə Əhmədi yesin. Hətta əlini yuxarı qaldırıb şallağını belə hərləmək istədi. Ancaq pristavın eyvanda dayandığını görüb əlini saxladı.
 
 Kazaklar stultarı götürdülər. Eyvanda, məhəccərin qabağında kölgə yerə düzdülər. Pristav və yoldaşları əyləşdilər. Onlar kitellərinin yaxasını açdılar. Dəsmalla boyunlarını, şapkalarının içini quruladılar. Pristav hətta daz başının tərini sildi. Kür tərəfdən əsən sərin meh otları, çiçəkləri sığallaya-sığallaya "Zayej"ə qədər gəldi. Elə bil eyvanda oturanları yellədilər.
 
@@ -186,9 +186,9 @@ Pristav ayağa durdu. Bir xeyli sükutla dayanıb, onun nə deyəcəyini gözlə
 
 – Camaat, Kürün o üzündəki meşə bundan sonra padşahın ov yeri olacaq. Oraya yaxın getmək, qoruğa girmək qadağandır. Sizi xəbərdar edirəm, kim qanunu pozsa, icazəsiz o tərəflərə hərlənsə, meşədə ov eləsə, cəzalanacaq. Ələ keçəni birbaş Sibirə göndərəcəyəm. Qoruğun keşikçilərinin sözünə baxmayanlar yerindəcə güllələnəcək.
 
-Pristav susdu. Sözünün camaata necə təsir etdiyini yoxlamaq məqsədi ilə adamları bir-bir gözaltı süzdü. O gördü ki, hamı təəccüb içindədir. Ağsaqqallar fikirli-fikirli başlarını aşaği salmışdılar. Cahandar ağa isə papirosunu tüstülədirdi, Molla Sadıq isə təsbeh çevirməyə ara vermirdi. Elə bil camaatın üstünə su ələnmişdi.
+Pristav susdu. Sözünün camaata necə təsir etdiyini yoxlamaq məqsədi ilə adamları bir-bir gözaltı süzdü. O gördü ki, hamı təəccüb içindədir. Ağsaqqallar fikirli-fikirli başlarını aşağı salmışdılar. Cahandar ağa isə papirosunu tüstülədirdi, Molla Sadıq isə təsbeh çevirməyə ara vermirdi. Elə bil camaatın üstünə su ələnmişdi.
 
-Əhməd pristavın dediklərini tərcümə etdikdən sonra Molla Sadıq adəti üzrə əbasıni çiynində düzəltdi, Quran oxuyacaqmış kimi bir-iki dəfə öskürüb boğazını arıtladı:
+Əhməd pristavın dediklərini tərcümə etdikdən sonra Molla Sadıq adəti üzrə əbasını çiynində düzəltdi, Quran oxuyacaqmış kimi bir-iki dəfə öskürüb boğazını arıtladı:
 
 – Cənab pristav, o yerlər dədə-babadan bizim kəndin olub. Malımız, binələrimiz ora ilə dolanıb, indi camaat neyləsin?
 
@@ -292,7 +292,7 @@ Göytəpəlilərin ağsaqqalları Əhmədin cəsarətinə təəccüb edirdilər.
 
 – Bizi incitməyin.
 
-Pristav susdu. Əhmədi sakit baxışlarla gözaltı süzdü. Əslində o elə kəndə gəlib Əhmədlə söhbət elədiyi ilk andarı ondan şübhələnmiş və qərara almışdı ki, şəhərə qayıdan kimi onun adını şübhəli adamlar siyahısına yazsın, ayrıca bir qovluq düzəltsin və Əhmədın üzərinə nəzarətçi qoysun. O, belə bir əqidədə idi ki, əgər sənə tapşırılan qəzada rahatlıq olmasını istəyirsənsə, gərək məktəbdən qovulmuş studentləri gözdən qoymayasan. Xüsusən də Peterburq tələbələrini. Ancaq, deyəsən, pristav daha ciddi hərəkət etməli olacaq və Əhmədi elə indi cəzalandıracaqdı.
+Pristav susdu. Əhmədi sakit baxışlarla gözaltı süzdü. Əslində o elə kəndə gəlib Əhmədlə söhbət elədiyi ilk andarı ondan şübhələnmiş və qərara almışdı ki, şəhərə qayıdan kimi onun adını şübhəli adamlar siyahısına yazsın, ayrıca bir qovluq düzəltsin və Əhmədin üzərinə nəzarətçi qoysun. O, belə bir əqidədə idi ki, əgər sənə tapşırılan qəzada rahatlıq olmasını istəyirsənsə, gərək məktəbdən qovulmuş studentləri gözdən qoymayasan. Xüsusən də Peterburq tələbələrini. Ancaq, deyəsən, pristav daha ciddi hərəkət etməli olacaq və Əhmədi elə indi cəzalandıracaqdı.
 
 O, kazaklara baxdı. Bayaqkı qıllıpapaq, yekəpər kazak irəli çıxdı. Pristavın səsi xırıldadı:
 

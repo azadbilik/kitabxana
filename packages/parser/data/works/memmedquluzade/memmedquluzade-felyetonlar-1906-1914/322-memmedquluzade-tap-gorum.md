@@ -17,7 +17,7 @@ Oxucularımıza məlumdur ki, indi osmanlılar və italyanlar dava edirlər və 
 
 Kağız sahiblərinin hər birisinə əlahiddə cavab yazmağı mümkün edə bilmədik; onun əvəzində burada öz mülahizəmizi yazırıq ki, hamıya cavab hesab olunsun.
 
-Osmanlıların, ümumən, dalı düşməsinə və “xüsusən” italyanlara basılmaqlarına üç səsəb var; ikisi bizə əyandır, amma biri Allah yanındadır.
+Osmanlıların, ümumən, dalı düşməsinə və “xüsusən” italyanlara basılmaqlarına üç səbəb var; ikisi bizə əyandır, amma biri Allah yanındadır.
 
 Bizə aşkar olan səbəblərin biri budur ki, osmanlılar ilə İtaliyanın davası elə bir yerdə düşüb ki, oraya osmanlıların qoşun göndərməyə yolları yoxdur; su üstündə dava eləməyə və düşmən qabağında dayanmağa dava gəmiləri lazımdır və axırıncı məsələdə osmanlılar italyanlardan çox zəifdirlər.
 

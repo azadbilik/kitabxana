@@ -100,7 +100,7 @@ Qoca kişi şalvarını dizinə qədər çirməmişdi. Gəminin dal tərəfində
 
 – Xoş gördük, ay Qoca dayı.
 
-Kişi belini düzəldib dikəldi. Sahildə, yarğanın qaşında, iki-üç addımlıqda dayanan oğlana baxdı. Əşrəfi tanıyan kimi dodaqları qaçdı. Adəti üzrə ona şuxluqla cavab vermək istədi. Ancaq birdən-birə tululdu. Qaşqabağını sallayıb könülsüzcəsinə dilləndi:
+Kişi belini düzəldib dikəldi. Sahildə, yarğanın qaşında, iki-üç addımlıqda dayanan oğlana baxdı. Əşrəfi tanıyan kimi dodaqları qaçdı. Adəti üzrə ona şuxluqla cavab vermək istədi. Ancaq birdən-birə tutuldu. Qaşqabağını sallayıb könülsüzcəsinə dilləndi:
 
 – Xoş gördük.
 
@@ -108,7 +108,7 @@ Kişi belini düzəldib dikəldi. Sahildə, yarğanın qaşında, iki-üç addı
 
 – Qızlarla aran necədir?
 
-Gəmiçi gözünü qıyıb diqqətlə Əşrəfin üzünə baxdı və hiss etdı ki, onun kənddə baş verən hadisələrdən xəbəri yoxdur. Qoca kişi bir an tərəddüd içində dayandı, sonra dodaqları qaçdı:
+Gəmiçi gözünü qıyıb diqqətlə Əşrəfin üzünə baxdı və hiss etdi ki, onun kənddə baş verən hadisələrdən xəbəri yoxdur. Qoca kişi bir an tərəddüd içində dayandı, sonra dodaqları qaçdı:
 
 – Deyəsən kefin kökdür, ay nişanlısı göyçək?
 
@@ -198,7 +198,7 @@ Kişini ele bil birdən-birə dəyişdilər. Cəld ayağa durub gəminin böyrü
 
 – A bala, bunlar kimdir? – deyə təəccüblə soruşdu.
 
-Əsrəf gəmidən sahilə sıçradı. Atılıb yəhərə qalxdı.
+Əşrəf gəmidən sahilə sıçradı. Atılıb yəhərə qalxdı.
 
 Bir dəstə atlı kazak meşənin qurtaracağında dayandı. Öndəki zabit durbinlə sahildəkilərə, o tayda, yarğanın qaşında oturub köçü gözləyənlərə baxdı. Mal-qaranı, arvad-uşağı gözdən keçirdi. Sonra atını mahmızlayıb cığıra düşdü. Qalanları onun arxasınca gəldilər.
 
@@ -288,7 +288,7 @@ Zabit artıq dözmədi. Onun qəzəbli səsi xırıldadı:
 
 – Tutun bunları!
 
-Elə bil Cahandar ağaya od vurdular. Atın cilovunu dartıb geri fırlandı. Qəmər qəfil təkandan dal ayağı üstə qalxıb kişnədi. Onun ayagının altındakı xırda, yumru daşlar şaqqıldadı. Cahandar ağanın burun pərləri genişləndi. Həbəşi dodaqları gömgöy oldu. Onun fısıltısı aydınca eşidildi:
+Elə bil Cahandar ağaya od vurdular. Atın cilovunu dartıb geri fırlandı. Qəmər qəfil təkandan dal ayağı üstə qalxıb kişnədi. Onun ayağının altındakı xırda, yumru daşlar şaqqıldadı. Cahandar ağanın burun pərləri genişləndi. Həbəşi dodaqları gömgöy oldu. Onun fısıltısı aydınca eşidildi:
 
 – Rədd olun!
 

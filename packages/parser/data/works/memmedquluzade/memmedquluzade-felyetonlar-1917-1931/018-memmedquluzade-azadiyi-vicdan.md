@@ -11,7 +11,7 @@ order: 18
 sourceNote: 'https://www.kitabxana.net/files/books/file/1259951834.pdf#page=32'
 status: DRAFT
 ---
-Rusiya inqlabının bərəkətindən törəyən azadlıqların biri də vicdan azadlığıdır.
+Rusiya inqilabının bərəkətindən törəyən azadlıqların biri də vicdan azadlığıdır.
 
 Azadiyi-vicdanın iki mənası var: biri budur ki, mənim aləmimdə mən gizlicə hiss elədiyim şeyləri nə cür ki, öz ağlım kəsir və insafım qəbul edir, o cür də qanıram və ona görə də əməl eləyirəm. Mən, məsələn, yaxşını yamandan öz qanacağıma görə seçirəm; onu bir özgəsindən soruşmuram. Mən görürəm ki, şüşə qabı əlimdən yerə salsam, sınacaq; dəxi salmağı rəva görmürəm. Mənim yetim uşağa rəhmim gəlir, çünki o uşaq sahibsizdir və bu barədə dəxi mənə zor yoxdur.
 

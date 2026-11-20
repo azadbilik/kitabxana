@@ -12,7 +12,7 @@ order: 11
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=11'
 status: DRAFT
 ---
-Prokuror Əsədov əllərini qalife şalvarının cibinə qoyub otaqda hirslə gəzinirdi. Pəncərədən süzülüb düşən günəş şüaları onun təzəcə silinmiş uzunboğaz, xrom çəkmələrində əks edirdi. Əsədov parıldayan çükmələrini döşəməyə daha bərk basır, yeridikcə ləngərlənirdi.
+Prokuror Əsədov əllərini qalife şalvarının cibinə qoyub otaqda hirslə gəzinirdi. Pəncərədən süzülüb düşən günəş şüaları onun təzəcə silinmiş uzunboğaz, xrom çəkmələrində əks edirdi. Əsədov parıldayan çəkmələrini döşəməyə daha bərk basır, yeridikcə ləngərlənirdi.
 
 Pəncərənin yanında oturan Nəsib dayı çox fikirli idi. İmran da burada idi. O, divar tərəfdəki skamyada kolxozçularla oturub papiros çəkirdi. Onun saçı uzanmış, üzümi tük basmışdı, Üzünün sümükləri görünürdü. Başını qaldırıb adamların üzünə baxmırdı, sanki onlardan çəkinirdi. Hamı susurdu. İçəndəkilər, eyvana yığılan kolxozçular söhbətin nə ilə qurtaracağını gözləyirdilər.
 
@@ -26,7 +26,7 @@ Rayondan "İyirmi altılar" kolxozuna təhkim edilmiş Əsədov düz bir saat id
 
 – Yoldaş Əsədov, boş yerə niyə çığır-bağır salırsınız? Raykom sizə bizim kolxoza göndərib ki, işə kömək edəsiniz, dava-dalaş salmağın nə mənası var?
 
-– Bəs nə edək, yoldaş Nəsib? Siz kolxozu dağıdacaqsınız, biz də durub baxacağıq? Yox, bu işə hamıdan qabaq sən, bir də ağranomunuz cavab verəcək. Mən yenə soruşuram ki, de görüm pambıq sahələri indiy;>cən niyə əkilib qurtarmayıb?
+– Bəs nə edək, yoldaş Nəsib? Siz kolxozu dağıdacaqsınız, biz də durub baxacağıq? Yox, bu işə hamıdan qabaq sən, bir də ağranomunuz cavab verəcək. Mən yenə soruşuram ki, de görüm pambıq sahələri indi;>cən niyə əkilib qurtarmayıb?
 
 – Yenə deyirəm, bunu MTS-dən soruşun.
 
@@ -74,13 +74,13 @@ Rayondan "İyirmi altılar" kolxozuna təhkim edilmiş Əsədov düz bir saat id
 
 – Eşidirəm...
 
-İmran daha bir söz demədi. Doğrudan da kolxozun bu ilki vəziyyəti ağır idi. Artıq havalar düzəlmişdi. Çöllərin qarı təmiz götürülmüş, təpələr, yamaclar yaşıllaşmışdı. İndiyəcon şum işi çoxdan qurtarmalıydı. Bəzi kolxozlar artıq səpinə başlamışdı. Ancaq "İyirmi altılar" kolxozu artıq səpiləsi yerin heç üçdə birini də şumlamamışdı. Nəsib kişi ilə dalaşandan və axırıncı iclasdan sonra Kosaoğlu heç nəyə qarışmaq istəmirdi. İmran isə MTS-ə ayaq döyməkdən yorulmuşdu. Direktor hər gün bir bəhanə ilə onu əliboş qaytarırdı. Nəsib dayı bir neçə dəfə raykoma gedib, katibə şikayət etmişdi. Direktor cavab vermişdi ki, günah özlərində olub, vaxtında gəlmədilər, traktorların hamısını kolxozlara payladıq, İndi fürsət düşən kimi o biri kolxozlardan bir neçə traktor alıb "İyirmi altılara" göndərəcəyəm. Lakin günlər gəlib keçmiş, direktor vədinə əməl etməmişdi.
+İmran daha bir söz demədi. Doğrudan da kolxozun bu ilki vəziyyəti ağır idi. Artıq havalar düzəlmişdi. Çöllərin qarı təmiz götürülmüş, təpələr, yamaclar yaşıllaşmışdı. İndiyəcən şum işi çoxdan qurtarmalıydı. Bəzi kolxozlar artıq səpinə başlamışdı. Ancaq "İyirmi altılar" kolxozu artıq səpiləsi yerin heç üçdə birini də şumlamamışdı. Nəsib kişi ilə dalaşandan və axırıncı iclasdan sonra Kosaoğlu heç nəyə qarışmaq istəmirdi. İmran isə MTS-ə ayaq döyməkdən yorulmuşdu. Direktor hər gün bir bəhanə ilə onu əliboş qaytarırdı. Nəsib dayı bir neçə dəfə raykoma gedib, katibə şikayət etmişdi. Direktor cavab vermişdi ki, günah özlərində olub, vaxtında gəlmədilər, traktorların hamısını kolxozlara payladıq, İndi fürsət düşən kimi o biri kolxozlardan bir neçə traktor alıb "İyirmi altılara" göndərəcəyəm. Lakin günlər gəlib keçmiş, direktor vədinə əməl etməmişdi.
 
-Briqadirlər hər gün İmranın üstünə düşür, "mənim yerim qaldı" - deyə hay-haray salırdilar. İmran tez-tez Nəsib dayının yanına qaçıb kömək istəyirdi. Aqronom hiss edirdi ki, camaat yavaş-yavaş ondan üz döndərir. Hətta o bir-iki dəfə arxasınca ağız büzüb gileylənənlər olduğunu da görmüşdü. Suya gedən arvadlar qulağı eşidə-eşidə İmranı asıb-kəsirdilər.
+Briqadirlər hər gün İmranın üstünə düşür, "mənim yerim qaldı" - deyə hay-haray salırdılar. İmran tez-tez Nəsib dayının yanına qaçıb kömək istəyirdi. Aqronom hiss edirdi ki, camaat yavaş-yavaş ondan üz döndərir. Hətta o bir-iki dəfə arxasınca ağız büzüb gileylənənlər olduğunu da görmüşdü. Suya gedən arvadlar qulağı eşidə-eşidə İmranı asıb-kəsirdilər.
 
 – Deyəsən, bu il zəhmətimiz hədər gedəcək, bildir bu vədə Kosaoğlu hər yeri əkdirmişdi.
 
-– Ay qız, adam uşağa iş tapşıranda elə olar də. İmranın ağzına kim baxacaq? Onu kim tanıyir?
+– Ay qız, adam uşağa iş tapşıranda elə olar də. İmranın ağzına kim baxacaq? Onu kim tanıyır?
 
 – Vallah düzcə deyirsən. Kosaoğlunun ağzının kəsəri var. Haraya getsə sözünü tuturlar. Amma bu...
 
@@ -120,7 +120,7 @@ Onu ən çox narahat edən MTS direktorunun hərəkəti idi. Axı o niyə belə 
 
 – Bu saat, - deyə Əsədov iclası sakitləşdirdi. - Buyur görək, yoldaş Kosaoğlu. Qurban ağır-ağır ayağa durub xitabət kürsüsünə yaxınlaşdı. Bir-iki dəfə içini arıtlayıb susdu, camaatın nəfəsini dərmədən ona qulaq asdığını yəqin edəndən sonra sakitcə sözə başladı.
 
-– Mən sizdən küsməmişəm. Məni yandıran qədirbilmüzlərdir. Deyin görüm indiyəcən sizə bir pislik eləmişəmmi? Həmişə planı doldurmuşuq. Pulumnz pul olub, mükafatımız da mükafat. İndi siz özünüz soruşun, bunlar məndən nə istəyirlər? Stol istəyirlərsə, buyursunlar.
+– Mən sizdən küsməmişəm. Məni yandıran qədirbilmüzlərdir. Deyin görüm indiyəcən sizə bir pislik eləmişəmmi? Həmişə planı doldurmuşuq. Pulumuz pul olub, mükafatımız da mükafat. İndi siz özünüz soruşun, bunlar məndən nə istəyirlər? Stol istəyirlərsə, buyursunlar.
 
 Onsuz da mən yorulmuşam. İmran cavandır, qoy indi o işləsin.
 
@@ -134,7 +134,7 @@ Kosaoğlu məğrur bir görkəm aldı:
 
 – Mən işə qarışanda gərək əl-ayağa dolaşan olmasın.
 
-– A kişi, nə əl-ayağa dolaşan? Sən nə danışırsan? Bizə bu saat iş lazımdır. Raykom məni bura göndorəndə detməyib ki, dəfədaraq açın.
+– A kişi, nə əl-ayağa dolaşan? Sən nə danışırsan? Bizə bu saat iş lazımdır. Raykom məni bura göndərəndə deməyib ki, dəfədaraq açın.
 
 Mənə deyib ki, yerin deşiyindən də olsa traktor tap, yeri şumla. Vəssalam. De görüm fikrin nədir?
 
@@ -146,7 +146,7 @@ Mənə deyib ki, yerin deşiyindən də olsa traktor tap, yeri şumla. Vəssalam
 
 * * *
 
-Onlar məktəbin alt tərəfindəki təpənin üstündə dayandılar. Qabaqdakı arxın o tayında Tiflisə doğru uzanan asfalt yolda maşınlar hərəkət edirdi. Fanarlar uzaqdan bir cüt göz kimi parıldayır, get-gedə güclənərək gecənin bağrını dəlir, dərələri, təpələri işıqlandırırdi; maşınların arxasındakı qırmızı işıqlar getdikcə kiçilir, mayböcəkləri kimi işıldayıb yox olurdu. Yol boyunca düzülmüş kəndlərin, Dəlidağın döşünə səpələnmiş fermaların işıqları titrəşirdi. Harada isə, lap uzaqda tənha bir traktorun ahəngdar tırıltısı eşidilirdi. İlıq yel əsirdi. Havada ruhu oxşayan rütubət qarışıq ətir vardı. Torpağın rayihəsi havaya hopmuşdu. İmran dərindən nəfəs alıb köksünü ötürdü. Onunla yanaşı dayanan Zeynəb İmranın qoluna toxundu.
+Onlar məktəbin alt tərəfindəki təpənin üstündə dayandılar. Qabaqdakı arxın o tayında Tiflisə doğru uzanan asfalt yolda maşınlar hərəkət edirdi. Fanarlar uzaqdan bir cüt göz kimi parıldayır, get-gedə güclənərək gecənin bağrını dəlir, dərələri, təpələri işıqlandırırdı; maşınların arxasındakı qırmızı işıqlar getdikcə kiçilir, mayböcəkləri kimi işıldayıb yox olurdu. Yol boyunca düzülmüş kəndlərin, Dəlidağın döşünə səpələnmiş fermaların işıqları titrəşirdi. Harada isə, lap uzaqda tənha bir traktorun ahəngdar tırıltısı eşidilirdi. İlıq yel əsirdi. Havada ruhu oxşayan rütubət qarışıq ətir vardı. Torpağın rayihəsi havaya hopmuşdu. İmran dərindən nəfəs alıb köksünü ötürdü. Onunla yanaşı dayanan Zeynəb İmranın qoluna toxundu.
 
 – Hava torpaq ətri verir, ay İmran, daha yazdır...
 
@@ -264,7 +264,7 @@ Zeynəb yenə nə isə demək istədi, ancaq bu vaxt ayaq səsləri eşidildi. A
 
 – Təbiətə aşiq olmaq pis deyil.
 
-İmran Nurgizin yumşaq, titrək səsini eşidəndə bir az həyəcanlandı. Bu səsdə nə isə qəribə, adamı sakit edən, az qala ona layla çalan bir qüvvə vardı. Ortalığa çökən ani sükutu Zeynəb pozdu:
+İmran Nərgizin yumşaq, titrək səsini eşidəndə bir az həyəcanlandı. Bu səsdə nə isə qəribə, adamı sakit edən, az qala ona layla çalan bir qüvvə vardı. Ortalığa çökən ani sükutu Zeynəb pozdu:
 
 – Təbiət aşiqi, bəs bu zaman hardan gəlirsən?
 
@@ -294,11 +294,11 @@ Nərgiz müəllimə ayaq saxladı. Qaranlıqda bozaran çöllərə, sakit yatan 
 
 – Nərgiz müəllimə, siz ona fikir verməyin, yenə şitliyi tutub.
 
-– Yox, düz sözümdür. Bizim knnd onun xoşuna gəlmir.
+– Yox, düz sözümdür. Bizim kənd onun xoşuna gəlmir.
 
 – Bax, burda haqlısan. Bizim kənd o qədər də xoşuma gəlmir.
 
-Nərgiz müəllimə İmranın fikrini bilirdi. Söhbət zamanı İmran dəfələrlə ona demişdi ki, "saat on olmamış kənd yuxuya gedir, qapı-bacalardan işıq kəsilir. Amma gərək belə olmasın. Mən istərdım ki, başqa kolxozlardakı kimi, bizim kolxozun da klubu hər gecə açıq olsun. Tamaşalar göstərək. İdarənin qabağında boş yer var, oranı park eləsək pismi olar? Cavanlar hər axşam işdən sonra ora toplansa, danışıb-gülsə kimə zərəri dəyər? Heç kimə".
+Nərgiz müəllimə İmranın fikrini bilirdi. Söhbət zamanı İmran dəfələrlə ona demişdi ki, "saat on olmamış kənd yuxuya gedir, qapı-bacalardan işıq kəsilir. Amma gərək belə olmasın. Mən istərdim ki, başqa kolxozlardakı kimi, bizim kolxozun da klubu hər gecə açıq olsun. Tamaşalar göstərək. İdarənin qabağında boş yer var, oranı park eləsək pismi olar? Cavanlar hər axşam işdən sonra ora toplansa, danışıb-gülsə kimə zərəri dəyər? Heç kimə".
 
 Əslinə baxsan, məktəbdəki dram daməyinin işinə qoşulmaq fikri Nərgizdə bu cür söhbətlərdən sonra əmələ gəlmişdi.
 
@@ -368,7 +368,7 @@ Yarım saatdan sonra gətirilən pulu Kosaoğlu sayıb on minini kənara qoydu.
 
 – Nə olacaq, traktordan ötəri gəlmişəm.
 
-Kosaoğlunun vaxtsız gəlməsinden onsuz da narazı olan direktor üz-gözünü turşutdu.
+Kosaoğlunun vaxtsız gəlməsindən onsuz da narazı olan direktor üz-gözünü turşutdu.
 
 – Traktor hardadır, ay rəhmətlik oğlu, heç indi boş traktor tapılar?
 
@@ -376,7 +376,7 @@ Qurban onun könülsüz cavab verdiyini görsə də, üstünü vurmadı.
 
 Gözünü qıyıb, çarpayıdan ayaqlarını sallayan direktoru süzdü.
 
-– Ə, səni tanımırammı? İstəsən lap yerin deşiyindən taparsan. Bir də ki... - Kosaoğlu səsini uzadib sözünü mənah bir tərzdə tamamladı.
+– Ə, səni tanımırammı? İstəsən lap yerin deşiyindən taparsan. Bir də ki... - Kosaoğlu səsini uzadıb sözünü mənah bir tərzdə tamamladı.
 
 – Allaha şükür, sən ki, məni yaxşı tanıyırsan.
 
@@ -384,7 +384,7 @@ Direktor, Kosaoğlunun eyhamını başa düşüb susdu. Onsuz da o, sabah "İyir
 
 Əkin işlərini vaxtından əvvəl qurtaran qonşu MTS-in direktoru katibin xahişini yerinə yetirib, iyirmi traktor göndərmişdi. Həmin traktorlardan da "İyirmi altılar" kolxozuna göndərmək direktora tapşırılmışdı.
 
-Hər il əkin zamanı Kosaoğlu direktorun yanına hamıdan qabaq gəlib istədiyi qədər traktor aparardı. Sonra da, necə deyərlər, bu yaxşılığın əvəzini çıxardı. Amma bu il Kosaoğlu yerindən tərpənməmişdi. Direktor bir neçə gün onu gözləmiş, axırda da acıqlanib traktorları başqa kolxoza vermişdi. Nəsib dayını və İmranı əliboş qaytarmışdı ki, gecikibsiniz. Əslində isə o, Kosaoğlunu görmək, onunla danışmaq istəyirdi. Kosaoğlu da bunu bilirdi. Öz qüdrətini göstərmək, Nuranla Nəsib daymı pis vəziyyətdə qoymaq üçün qəsdən işə qarışmırdı.
+Hər il əkin zamanı Kosaoğlu direktorun yanına hamıdan qabaq gəlib istədiyi qədər traktor aparardı. Sonra da, necə deyərlər, bu yaxşılığın əvəzini çıxardı. Amma bu il Kosaoğlu yerindən tərpənməmişdi. Direktor bir neçə gün onu gözləmiş, axırda da acıqlanıb traktorları başqa kolxoza vermişdi. Nəsib dayını və İmranı əliboş qaytarmışdı ki, gecikibsiniz. Əslində isə o, Kosaoğlunu görmək, onunla danışmaq istəyirdi. Kosaoğlu da bunu bilirdi. Öz qüdrətini göstərmək, Nuranla Nəsib dayı pis vəziyyətdə qoymaq üçün qəsdən işə qarışmırdı.
 
 İndi isə o gəlmişdi.
 

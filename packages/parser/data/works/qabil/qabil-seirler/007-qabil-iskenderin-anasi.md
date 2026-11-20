@@ -100,7 +100,7 @@ Miqdarsızmış bu qədər
 Bətnimin zülmətində
 Boğardım İskəndəri.
 Heç doğardım İskəndəri?!
-Teyiflər gülmsəyir, anaya ibrətamiz;
+Teyiflər gülümsəyir, anaya ibrətamiz;
 – Bəli, İskəndərik biz.
 – Gəl, yaxşı bax bu ucsuz-bucaqsız qəbristana.
 Neçə-neçə İskəndər gəlib-gedib cahana.

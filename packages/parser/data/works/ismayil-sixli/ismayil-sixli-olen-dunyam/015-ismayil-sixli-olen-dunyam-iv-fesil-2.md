@@ -12,7 +12,7 @@ order: 15
 sourceNote: 'https://www.kitabxana.net/files/books/file/1280135943.pdf#page=237'
 status: DRAFT
 ---
-Bir gün Mürsəl məktəbin xəritə, qlobus və kölmə kitablar yığılmış basırıq otağından bir qrammofon tapdı. Görünür, ev sahibi Ömər koxanın imiş. Onu götürüb tozunu sildi, trubasını təmizlədi. İki də köhnə, lap köhnə, çalınmaqdan üzləri cizıq-cızıq olmuş val tapdı. Tələsik qrammonun dostəyini hərlədi, iynəni keçirib oxutmağa başladı. Cabbar Qaryağdı oğlunun, Keçəçi oğlu İslamın səsi otağı bürüdü. Mürsəl sevincindən bilmirdi neyləsin. O balaca bir qabaq stolu tapıb eyvanın küncünə qoydu. Qrammofonu stolun üstündə rahatladı. Səs borusunun ağzını yola tərəf çevirdi. Suya gedən və zümzümə edən qız-gəlinlərin gurlaşdığı vaxt dəstəyi fırlayıb qrammofonu oxutdn. Yoldakılar bir anlığına dayanıb, məktəbin eyvanına tərəf boylandılar, qrammofona qulaq asdılar və dirəyə söykənib onlara tamaşa edən Mürsələ baxdılar. Sonra şaqqanaq çəkib, gülə-gülə yollarına davam etdilər. Ertəsi günü bütün kənd zümzüməyə qərq oldu. Mürsəlin adı qızların qımqımısına düşdü. O gündən kəndin bir nəğməsi də artdı. Səhər-axşam znrnaçılar qoşalaşdılar, gündüzlər qız-gəlin zümzümə etdi, qrammofon da məktəbin eyvanında oxudu. Mürsəl qız-gəlinləri qrammofonla suya yola salıb qarşılayır, dərsə gələn uşaqları isə elə bil bu mahnılarla salamlayırdı. O artıq hər şeyə öyrənmiş, kəndin adətlərinə qaynayıb qarışmış və özü də zümzümə edən kənd böcəklərinin birinə çevrilmişdi.
+Bir gün Mürsəl məktəbin xəritə, qlobus və kölmə kitablar yığılmış basırıq otağından bir qrammofon tapdı. Görünür, ev sahibi Ömər koxanın imiş. Onu götürüb tozunu sildi, trubasını təmizlədi. İki də köhnə, lap köhnə, çalınmaqdan üzləri cızıq-cızıq olmuş val tapdı. Tələsik qrammonun dəstəyini hərlədi, iynəni keçirib oxutmağa başladı. Cabbar Qaryağdı oğlunun, Keçəçi oğlu İslamın səsi otağı bürüdü. Mürsəl sevincindən bilmirdi neyləsin. O balaca bir qabaq stolu tapıb eyvanın küncünə qoydu. Qrammofonu stolun üstündə rahatladı. Səs borusunun ağzını yola tərəf çevirdi. Suya gedən və zümzümə edən qız-gəlinlərin gurlaşdığı vaxt dəstəyi fırlayıb qrammofonu oxutdu. Yoldakılar bir anlığına dayanıb, məktəbin eyvanına tərəf boylandılar, qrammofona qulaq asdılar və dirəyə söykənib onlara tamaşa edən Mürsələ baxdılar. Sonra şaqqanaq çəkib, gülə-gülə yollarına davam etdilər. Ertəsi günü bütün kənd zümzüməyə qərq oldu. Mürsəlin adı qızların qımqımısına düşdü. O gündən kəndin bir nəğməsi də artdı. Səhər-axşam zurnaçılar qoşalaşdılar, gündüzlər qız-gəlin zümzümə etdi, qrammofon da məktəbin eyvanında oxudu. Mürsəl qız-gəlinləri qrammofonla suya yola salıb qarşılayır, dərsə gələn uşaqları isə elə bil bu mahnılarla salamlayırdı. O artıq hər şeyə öyrənmiş, kəndin adətlərinə qaynayıb qarışmış və özü də zümzümə edən kənd böcəklərinin birinə çevrilmişdi.
 
 Uçitel bunlara göz qoyurdu. Mürsəlin uşaqlarla mehribanlığından, gözəl dərs deməyindən xoşu gəlirdi. İnanırdı ki, ondan yaxşı müəllim olacaq. Bir gün Mürsəl onun yanına gəldi:
 
@@ -20,7 +20,7 @@ Uçitel bunlara göz qoyurdu. Mürsəlin uşaqlarla mehribanlığından, gözəl
 
 Uçitel azacıq fikrə getdi. Sonra gözlərini ondan cavab gözləyən Mürsəlin üzünə zillədi.
 
-– Fikrin çox gözəldi, amma iki adamla nə tamaşa göstərmok olar?
+– Fikrin çox gözəldi, amma iki adamla nə tamaşa göstərmək olar?
 
 – Onu da fikirləşmişəm. Qonşu kəndlərin müəlümlərini də yığarıq. Cümə günləri bir yerdə məşq edərik.
 
@@ -48,7 +48,7 @@ Həmin tələbə səhnədə sazını köynəkdən çıxardıb simləri cingildə
 
 Cəbi isə qışqırmağa başladı:
 
-– Ay camaat, Hacinın yenə dəliliyi tutdu, qaçın! - Özünü aşığın üstünə salıb səhnədən camaatın içinə itələdi. Hacının çəliyinin bir-ikisi də ona dəydi. Camaat gülüb özünə gələnədək tamaşanı davametdirdilər.
+– Ay camaat, Hacının yenə dəliliyi tutdu, qaçın! - Özünü aşığın üstünə salıb səhnədən camaatın içinə itələdi. Hacının çəliyinin bir-ikisi də ona dəydi. Camaat gülüb özünə gələnədək tamaşanı davametdirdilər.
 
 Ertəsi gün kənd zümzümə içində axşamkı tamaşadan danışır, məktəbin yanından keçənlər ayaq saxlayıb gözaltı Mürsəl müəllimə baxır və bəziləri də yaxınlaşıb soruşurdular:
 

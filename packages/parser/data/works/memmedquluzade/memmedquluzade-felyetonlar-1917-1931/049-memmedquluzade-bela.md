@@ -15,7 +15,7 @@ Bu Təbriz-Culfa dəmir yolu da başımıza bəla oldu!.. Doğrudan deyirmişlə
 
 Bəli, dəmir yol çəkdilər ki, tərəddüd guya asan olsun və sürətli olsun; guya ki, bizi atlı qovalayır, guya ki, bu dəmir yol ilə bizim cavanlar gedib Almaniya, Amerika darülfünunlarında dərs oxuyacaqlar.
 
-İndi gəl, bu da sənə dəmir yol! İşə düşəndə ilan kimi burulur və ökuz kimi anqırır; dəvələri və kəndlərdə arvadları qorxudur, işə düşməyib yatanda bir para bikar adamlar başlayırlar hökuməti və tacirləri məzəmmət eləməyə ki, bax gör bu iranlıların himmətinə! Nikolay on iki milyon pul sərf etdi və bunlara dəmir yol qoydu getdi, amma bu təşəxxüsdə hökumət və bu qədər dövlətmənd tüccar bir balaca dəmir yolu abad saxlamağa acizdirlər.
+İndi gəl, bu da sənə dəmir yol! İşə düşəndə ilan kimi burulur və öküz kimi anqırır; dəvələri və kəndlərdə arvadları qorxudur, işə düşməyib yatanda bir para bikar adamlar başlayırlar hökuməti və tacirləri məzəmmət eləməyə ki, bax gör bu iranlıların himmətinə! Nikolay on iki milyon pul sərf etdi və bunlara dəmir yol qoydu getdi, amma bu təşəxxüsdə hökumət və bu qədər dövlətmənd tüccar bir balaca dəmir yolu abad saxlamağa acizdirlər.
 
 Mən ölüm, bir gör nə danışırlar?
 

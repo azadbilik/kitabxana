@@ -12,7 +12,7 @@ order: 32
 sourceNote: 'https://www.kitabxana.net/files/books/file/1281261634.pdf#page=7'
 status: DRAFT
 ---
-Göytəpəlilər iki gündən sonra Çayqovuşan adlı səfalı bir yerdə düşərgə saldılar. Arabaları yoldan kanara çəkib köpüklü dağ çayının sahilindəkı çəmənlikdə açdılar. İstidən təntimiş kəllər boyunduruğun altından çıxan kimi Özlərini suya verdilər. Fısıldaşa-fısıldaşa ləzzətlə çimdilər. Yol boyu arabaların sitkələyib yorduğu uşaqlar sevinə-sevinə qaçışmağa, yumru qara çay daşları ilə camışları yalamalamağa başladılar. Arvadlar arabaların kölgəsində palaz saldılar, yastıq, mütəkkə çıxartdılar. Kişilər balta götürüb yolun o üzündəki meşəyə, odun qırmağa getdilər. Molla Sadıqgil arabaları köçün o başında. Cahandar ağagil isə aşağı tərəfdə iri bir palıd ağacının altında açdılar. Ocaqlar qalandı, samovarlar çıxarıldı, kənddən tədarüksüz yola düşənlər xəmir yoğurub sac asdılar. Bəzi arabaların yanında qazan danqıldadı, yağda qızardılmış soğan iyi ətrafa yayıldı.
+Göytəpəlilər iki gündən sonra Çayqovuşan adlı səfalı bir yerdə düşərgə saldılar. Arabaları yoldan kənara çəkib köpüklü dağ çayının sahilindəki çəmənlikdə açdılar. İstidən təntimiş kəllər boyunduruğun altından çıxan kimi Özlərini suya verdilər. Fısıldaşa-fısıldaşa ləzzətlə çimdilər. Yol boyu arabaların sitkələyib yorduğu uşaqlar sevinə-sevinə qaçışmağa, yumru qara çay daşları ilə camışları yalamalamağa başladılar. Arvadlar arabaların kölgəsində palaz saldılar, yastıq, mütəkkə çıxartdılar. Kişilər balta götürüb yolun o üzündəki meşəyə, odun qırmağa getdilər. Molla Sadıqgil arabaları köçün o başında. Cahandar ağagil isə aşağı tərəfdə iri bir palıd ağacının altında açdılar. Ocaqlar qalandı, samovarlar çıxarıldı, kənddən tədarüksüz yola düşənlər xəmir yoğurub sac asdılar. Bəzi arabaların yanında qazan danqıldadı, yağda qızardılmış soğan iyi ətrafa yayıldı.
 
 Əşrəf pencəyini çiyninə salıb yola doğru getdi. Cahandar ağa kölgədə mütəkkəyə dirsəklənib fikirli-fikirli oturmuşdu. Ağız-ağıza qovuşan dağların arası ilə axıb gələn çaya tamaşa edirdi. Ayaq səsi eşitdikdə dönüb oğluna baxdı:
 
@@ -52,7 +52,7 @@ Yarpızını da çox eləyəcəm. Oxuduğun yerdə sizə dovğa bişirirlərmi?
 
 – Bu azdır?
 
-– Azdı, bə nə? Heç fikir eləmə. Bu yay sənə özüm qulluq eləyecəyəm. Gərək səni o qədər kökəldəm ki, lap motala dönəsən.
+– Azdı, bə nə? Heç fikir eləmə. Bu yay sənə özüm qulluq eləyəcəyəm. Gərək səni o qədər kökəldəm ki, lap motala dönəsən.
 
 – Sonra partlayaram.
 
@@ -96,13 +96,13 @@ Yarpızını da çox eləyəcəm. Oxuduğun yerdə sizə dovğa bişirirlərmi?
 
 – Siznən qız da oxuyurmu?
 
-– Yox, qızların ayrıca məktəbi var. – Əşrəf bacısının qolundan tutdu. Özü kənara çıxıb onu cığıra saldı. Yanaşı getməyə başladılar. Bir xeylı heç biri dinmədi. Salatın susub onun nə deyəcəyini gözlədi. Əşrəf isə ürəyindəkiləri ona necə izah etməyi fikirləşdi. O, Qori müəllimlər seminariyasından, direktor Semyonovun, Çerayayevskinin, Kipianinin verdiyi dərslərdən, onların könüllü olaraq qızlar üçün gimnaziya açdıqlarından, orada pulsuz dərs demələrindən bacısına nağıl etmək istədi. Hərdənbir hər iki məktəb tələbələrinin birlikdə müsamirələr təşkil etmələrindən, qızların oğlanlarla bərabər səhnəyə çıxıb şer oxumasından, kiçik səhnəciklər göstərdiklərindən bacısına danışmaq istədi. Ancaq bunların Salatına çox qəribə təsir bağışlayacağını düşünüb, bu söhbəti başqa vaxta saxlamağı qərara aldı. – Bilirsənmi, Salatın, oxumaq yaxşı şeydir. Adam çox şey öyrənir. Xasiyyəti də dəyişir. Mən oxumuş qızları görmüşəm. Onların paltarları da qəşəngdir, özləri də. Danışanda adam qulaq asmaqdan doymur. Əgər bizim qızlar oxusalar, onlardan da gözəl olarlar.
+– Yox, qızların ayrıca məktəbi var. – Əşrəf bacısının qolundan tutdu. Özü kənara çıxıb onu cığıra saldı. Yanaşı getməyə başladılar. Bir xeyli heç biri dinmədi. Salatın susub onun nə deyəcəyini gözlədi. Əşrəf isə ürəyindəkiləri ona necə izah etməyi fikirləşdi. O, Qori müəllimlər seminariyasından, direktor Semyonovun, Çerayayevskinin, Kipianinin verdiyi dərslərdən, onların könüllü olaraq qızlar üçün gimnaziya açdıqlarından, orada pulsuz dərs demələrindən bacısına nağıl etmək istədi. Hərdənbir hər iki məktəb tələbələrinin birlikdə müsamirələr təşkil etmələrindən, qızların oğlanlarla bərabər səhnəyə çıxıb şer oxumasından, kiçik səhnəciklər göstərdiklərindən bacısına danışmaq istədi. Ancaq bunların Salatına çox qəribə təsir bağışlayacağını düşünüb, bu söhbəti başqa vaxta saxlamağı qərara aldı. – Bilirsənmi, Salatın, oxumaq yaxşı şeydir. Adam çox şey öyrənir. Xasiyyəti də dəyişir. Mən oxumuş qızları görmüşəm. Onların paltarları da qəşəngdir, özləri də. Danışanda adam qulaq asmaqdan doymur. Əgər bizim qızlar oxusalar, onlardan da gözəl olarlar.
 
 – Ay qağa, heç elə şey olar?
 
 – Niyə olmur?
 
-Salatın dinmədi. Əşrəf sezdirmədən bacısının haraya isə zillənmiş fikirli gözlərinə baxdı. Bu gözlərdə əfsanəvi nağıllarda söylənən sehrli, eyni zamanda olduqca cazibədar bir aləmə qovuşmaq həsrəti ilə qovrulub-yanan, lakin bu mümkün olmadığını dərk edib məyuslaşan bir adamın keçdiyi halı müşahidə etdi. Qız xəyalən çox uzaqlara getmışdi. O özü də hiss etmədən yuxulu uşaq kimi gah gülümsünür, gah da qaşlarını çatıb ciddiləşirdi. Əşrəf onu şirin xəyallardan ayırmaq istəmədi. Salatın birdən köksünü ötürdü: – Görəsən, mən də oxuya bilərəmmi?
+Salatın dinmədi. Əşrəf sezdirmədən bacısının haraya isə zillənmiş fikirli gözlərinə baxdı. Bu gözlərdə əfsanəvi nağıllarda söylənən sehrli, eyni zamanda olduqca cazibədar bir aləmə qovuşmaq həsrəti ilə qovrulub-yanan, lakin bu mümkün olmadığını dərk edib məyuslaşan bir adamın keçdiyi halı müşahidə etdi. Qız xəyalən çox uzaqlara getmişdi. O özü də hiss etmədən yuxulu uşaq kimi gah gülümsünür, gah da qaşlarını çatıb ciddiləşirdi. Əşrəf onu şirin xəyallardan ayırmaq istəmədi. Salatın birdən köksünü ötürdü: – Görəsən, mən də oxuya bilərəmmi?
 
 – Niyə bilmirsən?
 
@@ -184,11 +184,11 @@ Salatın qardaşının yerindən tərpənmədiyini, qızları köçün bərabər
 
 Onlar bulağın üstündə də, geri qayıdanda da heç nə danışmadılar...
 
-Axşam oldu. Göytəpəlilər düşərgədən tərpənmədilər. Onlar burada bir xeyli dincəlməyi qərara aldılar. Onsuz da yollar tutulmuşdu. Sürü ilə yaylağa qalxan qoyunların, qatarlaşan arabaların, ilxıların, atlı-pıyada hərəkət edən aran adamlarının əlindən tərpənmək olmurdu, Yolların üstünü bulud kimi bürüyən toz axşama qadər yerə çökmür, sürülərin ardınca sürünə-sürünə yuxarılara qədər qalxırdı. Bir az gözləmək, heyvanlara da rahatlıq vermək lazım idi.
+Axşam oldu. Göytəpəlilər düşərgədən tərpənmədilər. Onlar burada bir xeyli dincəlməyi qərara aldılar. Onsuz da yollar tutulmuşdu. Sürü ilə yaylağa qalxan qoyunların, qatarlaşan arabaların, ilxıların, atlı-piyada hərəkət edən aran adamlarının əlindən tərpənmək olmurdu, Yolların üstünü bulud kimi bürüyən toz axşama qədər yerə çökmür, sürülərin ardınca sürünə-sürünə yuxarılara qədər qalxırdı. Bir az gözləmək, heyvanlara da rahatlıq vermək lazım idi.
 
 Arabaların yanında ocaq qaladılar. Dağların quru fıstıq odunu çatırdadı, qığılcımlar ətrafa sıçradı, alovlar dilim-dilim olub göyə qalxdı.
 
-Ətrafda hərlənənlərin kölgəsi uzandı, çayın üstünə sərildi. Alovların işığı bir-birinə qarışdı. Qaranlıqda mürgüləyən dağların döşünə işıq düşdü, qıjıltı ilə axan çayın sinəsi parıldadi. Göyün üzündə şəfəq oynadı.
+Ətrafda hərlənənlərin kölgəsi uzandı, çayın üstünə sərildi. Alovların işığı bir-birinə qarışdı. Qaranlıqda mürgüləyən dağların döşünə işıq düşdü, qıjıltı ilə axan çayın sinəsi parıldadı. Göyün üzündə şəfəq oynadı.
 
 Cahandar ağa arabaların yanında ocaq qalamağa icazə vermədi. İşıqda hər şeyin nəzərə çarpacağından ehtiyat etdi. Onun nökərləri mal-qaranı bir az kənarda saxladılar, elə oradaca ocaq qaladılar.
 
@@ -346,7 +346,7 @@ Maralı kimin vurduğunu müəyyən etmək çətin idi. Əgər o bir adamdan azc
 
 Nökərlərdən biri marala baxıb köksünü ötürdü:
 
-– Ağa, necə olubsa gözümüzdon qaçıb suyun qırağındakı çəmənliyə gedib. Hansı köpək oğlusa elə bilib çöl maralıdır. Yoxsa əl heyvanına güllə atmazdılar.
+– Ağa, necə olubsa gözümüzdən qaçıb suyun qırağındakı çəmənliyə gedib. Hansı köpək oğlusa elə bilib çöl maralıdır. Yoxsa əl heyvanına güllə atmazdılar.
 
 Bayaqdan qovrula-qovrula qalıb, nə edəcəyini, camaata nə deyəcəyini müəyyənləşdirə bilməyən Cahandar ağa bu sözdən yapışmağı qərara aldı. O beləliklə hələlik izi itirmək, həqiqəti bilənə qədər susmaq istəyirdi.
 
