@@ -141,6 +141,7 @@ export const PLACE: Record<string, { era?: EraKey; branch?: BranchKey }> = {
   'sabir-rustemxanli': { era: 'thaw' },
   'eliaga-kurcayli': { era: 'thaw' },
   'huseyn-ibrahimov': { era: 'thaw' },
+  'anar': { era: 'thaw' },
   'mikayil-rzaquluzade': { branch: 'children' },
   'bayrameli-abbaszade': { branch: 'satire' },
   'ebdulqadir-maragayi': { branch: 'persian' },
@@ -251,7 +252,6 @@ export const MISSING: Missing[] = [
   { name: 'Rza Bərahəni', years: '1935–2022', era: 'south', branch: 'persian' },
   { name: 'Əli Tudə', years: '', era: 'south', branch: 'poetry' },
   // thaw
-  { name: 'Anar', years: 'd. 1938', era: 'thaw', branch: 'prose', note: '«Beşmərtəbəli evin altıncı mərtəbəsi»' },
   { name: 'Elçin', years: '1943–2025', era: 'thaw', branch: 'prose', note: '«Ölüm hökmü»' },
   { name: 'Əkrəm Əylisli', years: 'd. 1937', era: 'thaw', branch: 'prose' },
   { name: 'Sabir Əhmədli', years: '1930–2009', era: 'thaw', branch: 'prose' },
