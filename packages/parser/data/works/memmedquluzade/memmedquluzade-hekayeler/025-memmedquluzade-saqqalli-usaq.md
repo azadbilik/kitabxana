@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
 year: 1926
-order: 9
+order: 25
 sourceNote: 'https://az.wikisource.org/wiki/Saqqall%C4%B1%20u%C5%9Faq'
 status: DRAFT
 ---

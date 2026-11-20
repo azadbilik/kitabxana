@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 10
+order: 17
 sourceNote: 'https://az.wikisource.org/wiki/Xan%C4%B1n%20t%C9%99sbehi'
 status: DRAFT
 ---

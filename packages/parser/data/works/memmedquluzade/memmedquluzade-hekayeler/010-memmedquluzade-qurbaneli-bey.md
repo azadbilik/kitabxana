@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 8
+order: 10
 sourceNote: 'https://az.wikisource.org/wiki/Qurban%C9%99li%20b%C9%99y'
 status: DRAFT
 ---

@@ -4,7 +4,7 @@ titleAz: Anamın kitabı
 authorSlug: memmedquluzade
 genre: PLAY
 originalLang: AZ_LATIN
-order: 4
+order: 5
 status: DRAFT
 ---
 

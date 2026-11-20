@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 2
+order: 31
 sourceNote: 'https://az.wikisource.org/wiki/Baqqal%20M%C9%99%C5%9F%C9%99di%20R%C9%99him'
 status: DRAFT
 ---

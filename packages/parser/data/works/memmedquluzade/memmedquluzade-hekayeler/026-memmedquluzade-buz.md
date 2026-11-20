@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
 year: 1926
-order: 4
+order: 26
 sourceNote: 'https://az.wikisource.org/wiki/Buz'
 status: DRAFT
 ---

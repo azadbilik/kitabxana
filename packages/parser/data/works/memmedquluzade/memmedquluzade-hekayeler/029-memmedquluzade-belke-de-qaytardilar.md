@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 3
+order: 29
 sourceNote: 'https://az.wikisource.org/wiki/B%C9%99lk%C9%99%20d%C9%99%20qaytard%C4%B1lar'
 status: DRAFT
 ---

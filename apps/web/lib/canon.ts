@@ -176,7 +176,7 @@ export const GAPS: Record<string, string> = {
   'sari-asiq': 'Bayatıların çoxu',
   talibov: '«Kitabi-Əhməd» · «Məsalikül-möhsinin»',
   vazeh: 'Şeirlərin çoxu; Bodenştedtin «Mirzə Şəfinin nəğmələri»',
-  memmedquluzade: 'Hekayələrin çoxu · «Molla Nəsrəddin» felyetonları · «Kamança» · «Anamın kitabı» tam',
+  memmedquluzade: '«Molla Nəsrəddin» felyetonları · məqalələr, xatirələr və məktublar',
   vurgun: '«Seçilmiş əsərləri»nin IV–V cildləri',
   'resid-efendiyev': 'Hekayələr və pyeslər',
   qenizade: 'Əsərlərin çoxu',

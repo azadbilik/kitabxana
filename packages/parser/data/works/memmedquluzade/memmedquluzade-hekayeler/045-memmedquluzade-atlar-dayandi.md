@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 1
+order: 45
 sourceNote: 'https://az.wikisource.org/wiki/Atlar%20dayand%C4%B1'
 status: DRAFT
 ---

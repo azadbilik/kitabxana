@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 5
+order: 7
 sourceNote: 'https://az.wikisource.org/wiki/D%C9%99ll%C9%99k%20(hekay%C9%99)'
 status: DRAFT
 ---

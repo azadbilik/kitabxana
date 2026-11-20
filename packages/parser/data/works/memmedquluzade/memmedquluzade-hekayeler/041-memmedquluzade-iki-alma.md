@@ -8,7 +8,7 @@ originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
 year: 1926
-order: 7
+order: 41
 sourceNote: 'https://az.wikisource.org/wiki/%C4%B0ki%20alma'
 status: DRAFT
 ---

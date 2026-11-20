@@ -1989,7 +1989,8 @@
         "Atlar dayandı": "Atlar dayandı"
       }
     },
-    "collections": []
+    "collections": [],
+    "transcribed": {"file": "memmedquluzade-secilmis-eserleri-1.md", "kitabxana": {"id": 606, "pdf": "1258039834.pdf"}, "sections": [{"first": "Danabaş kəndinin əhvalatları", "collection": "memmedquluzade-hekayeler", "titleAz": "Hekayələr", "genre": "PROSE", "layout": "prose"}, {"first": "Çay dəsgahı", "collection": "memmedquluzade-pyesler", "titleAz": "Pyeslər", "genre": "PLAY", "layout": "play"}, {"first": "Lisan bəlası", "collection": "memmedquluzade-satirik-seirler", "titleAz": "Satirik şeirlər", "genre": "POEM", "layout": "verse"}], "skip": ["Danabaş kəndinin əhvalatları", "Eşşəyin itməkliyi", "Dəllək", "Qurbanəli bəy", "Xanın təsbehi", "Saqqallı uşaq", "Buz", "Hamballar", "Bəlkə də qaytardılar", "Baqqal Məşədi Rəhim", "İki alma", "Atlar dayandı", "Ölülər", "Anamın kitabı", "Dəli yığıncağı", "Olacaqsan", "Oyanmadım"]}
   },
   {
     "slug": "haqverdiyev",

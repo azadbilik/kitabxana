@@ -4,7 +4,7 @@ titleAz: Povestlər
 authorSlug: memmedquluzade
 genre: PROSE
 originalLang: AZ_LATIN
-order: 7
+order: 1
 status: DRAFT
 ---
 

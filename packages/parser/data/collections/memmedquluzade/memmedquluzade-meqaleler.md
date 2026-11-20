@@ -4,7 +4,7 @@ titleAz: Məqalələr
 authorSlug: memmedquluzade
 genre: ESSAY
 originalLang: AZ_LATIN
-order: 1
+order: 11
 status: DRAFT
 ---
 

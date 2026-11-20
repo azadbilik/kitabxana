@@ -7,7 +7,7 @@ collectionSlug: memmedquluzade-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
-order: 6
+order: 27
 sourceNote: 'https://az.wikisource.org/wiki/Hamballar'
 status: DRAFT
 ---
