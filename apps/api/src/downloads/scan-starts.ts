@@ -23,6 +23,9 @@ export const SCAN_STARTS: Record<string, number> = {
   'anl-43-t115-6': 105,
   'anl-43-t115-7': 112,
   'anl-43-t115-8': 119,
+  // anl-3971
+  'anl-3971-t343': 193,
+  'anl-3971-t344': 193,
   // anl-3975
   'anl-3975-t335': 163,
   'anl-3975-t336': 163,
