@@ -226,7 +226,6 @@ export const MISSING: Missing[] = [
   { name: 'Məhcur Şirvani', years: 'XVIII əsr', era: 'khanates', branch: 'poetry' },
   // enlightenment
   { name: 'Həsən bəy Zərdabi', years: '1842–1907', era: 'enlightenment', branch: 'prose', note: '«Əkinçi»' },
-  { name: 'Zeynalabdin Marağayi', years: '1838–1910', era: 'enlightenment', branch: 'prose', note: '«İbrahim bəyin səyahətnaməsi»' },
   { name: 'Mirzə Kazım bəy', years: '1802–1870', era: 'enlightenment', branch: 'prose' },
   { name: 'Mirzə Cəfər Topçubaşov', years: '1790–1869', era: 'enlightenment', branch: 'prose' },
   { name: 'Məhəmmədtağı Sidqi', years: '1854–1903', era: 'enlightenment', branch: 'prose' },
