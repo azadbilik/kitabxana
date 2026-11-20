@@ -399,11 +399,20 @@ function Hit({ hit, locale, kind, time, title }: HitProps) {
   return (
     <Link href={localePath(locale, `/works/${hit.slug}`)} className="search-hit" prefetch={false}>
       <span className="search-hit-head">
-        {marked ? (
-          <span className="search-hit-title" {...(arabic && { lang: 'fa', dir: 'rtl' })} dangerouslySetInnerHTML={{ __html: marked }} />
-        ) : (
-          <span className="search-hit-title" {...(arabic && { lang: 'fa', dir: 'rtl' })}>{plainTitle}</span>
-        )}
+        <span className="search-hit-title">
+          {/* A chapter or act shows the work it belongs to: «Dəli Kür · Birinci hissə, 3» */}
+          {hit.partOf && (
+            <span className="search-hit-part" lang="az">
+              {hit._formatted?.partOf ? <span dangerouslySetInnerHTML={{ __html: hit._formatted.partOf }} /> : hit.partOf}
+              {' · '}
+            </span>
+          )}
+          {marked ? (
+            <span {...(arabic && { lang: 'fa', dir: 'rtl' })} dangerouslySetInnerHTML={{ __html: marked }} />
+          ) : (
+            <span {...(arabic && { lang: 'fa', dir: 'rtl' })}>{plainTitle}</span>
+          )}
+        </span>
         <span className="search-hit-kind">{[kind, hit.year, time].filter(Boolean).join(' · ')}</span>
       </span>
       {ownAuthor || !hit._formatted?.authorNameAz ? (

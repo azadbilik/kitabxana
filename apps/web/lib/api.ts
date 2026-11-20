@@ -213,7 +213,9 @@ export interface SearchHit {
   /** From the database, for the reading time (null when the work is gone since indexing) */
   wordCount?: number | null;
   /** HTML with <mark> around the matched words */
-  _formatted?: { titleAz?: string; authorNameAz?: string; body?: string | null };
+  /** The longer work this one is a part of, when its own title is only its place in it ("1", "Birinci məclis") */
+  partOf?: string | null;
+  _formatted?: { titleAz?: string; partOf?: string; authorNameAz?: string; body?: string | null };
 }
 
 export interface SearchFacets {

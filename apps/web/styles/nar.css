@@ -1599,7 +1599,8 @@
 :root .search-hit:hover .search-hit-title { color: var(--pomeg); }
 :root .search-hit-head { display: flex; justify-content: space-between; align-items: baseline; gap: 1rem; }
 :root .search-hit-title { font-family: var(--font-serif); font-size: 1.125rem; font-weight: 700; line-height: 1.3; }
-:root .search-hit-title:lang(fa) { font-family: var(--font-arabic); }
+:root .search-hit-title [lang="fa"] { font-family: var(--font-arabic); }
+:root .search-hit-part { font-weight: 400; color: var(--muted); }
 :root .search-hit-kind { flex: none; font-size: 0.8rem; color: var(--muted); }
 :root .search-hit-author { font-size: 0.875rem; color: var(--muted); }
 :root .search-hit mark { border-radius: 3px; background: var(--hl); color: var(--pomeg); }

@@ -14,6 +14,7 @@ const quoted = (value: string) => `"${value.replace(/\\/g, '\\\\').replace(/"/g,
 
 const INDEXED = {
   author: { select: { nameAz: true, nameRu: true, slug: true, status: true } },
+  collection: { select: { titleAz: true } },
   translations: {
     where: { status: 'PUBLISHED' },
     select: { language: true, body: true, isDefault: true },
@@ -21,6 +22,15 @@ const INDEXED = {
 } satisfies Prisma.WorkInclude;
 
 type IndexedWork = Prisma.WorkGetPayload<{ include: typeof INDEXED }>;
+
+/**
+ * A work that is one part of a longer one, titled only by its place in it ("1", "IV fəsil, 2",
+ * "Birinci məclis", "Epiloq"): its collection is that longer work, and its title alone says nothing
+ */
+const PART_WORD = /(^|\s)(məclis|pərdə|hissə|fəsil|şəkil|epiloq|proloq|müqəddimə)(?=$|[\s,.])/iu;
+const PART = (title: string) => /^(\d+|[IVXLC]+)\.?$/.test(title) || (title.length <= 40 && PART_WORD.test(title));
+export const partOf = (work: { titleAz: string; collection: { titleAz: string } | null }) =>
+  work.collection && work.collection.titleAz !== work.titleAz && PART(work.titleAz.trim()) ? work.collection.titleAz : null;
 
 /** Only published works of published authors are searchable */
 const searchable = (work: IndexedWork) => work.status === 'PUBLISHED' && work.author.status === 'PUBLISHED';
@@ -51,6 +61,9 @@ function document(work: IndexedWork) {
     bodyEn: translation('EN'),
     titleEn: work.titleEn,
     titleAzPlain: fold(work.titleAz),
+    // The longer work a part belongs to ("Dəli Kür" for its chapter "Birinci hissə, 3")
+    partOf: partOf(work),
+    partOfPlain: fold(partOf(work)),
     authorNameAz: work.author.nameAz,
     authorNamePlain: fold(work.author.nameAz),
     authorNameRu: work.author.nameRu,
@@ -120,6 +133,8 @@ export class SearchService implements OnModuleInit {
           'titleRu',
           'titleEn',
           'titleFa',
+          'partOf',
+          'partOfPlain',
           'authorNameAz',
           'authorNamePlain',
           'authorNameRu',
@@ -138,6 +153,7 @@ export class SearchService implements OnModuleInit {
           'titleAz',
           'titleRu',
           'titleEn',
+          'partOf',
           'authorNameAz',
           'authorNameRu',
           'authorSlug',
@@ -155,6 +171,7 @@ export class SearchService implements OnModuleInit {
           'bodyPlain',
           'bodyAzPlain',
           'authorNamePlain',
+          'partOfPlain',
         ],
       });
     } catch {
@@ -240,6 +257,7 @@ export class SearchService implements OnModuleInit {
           bodyPlain,
           bodyAzPlain,
           authorNamePlain,
+          partOfPlain,
           _matchesPosition: mp = {},
           ...hit
         }) => {
@@ -249,6 +267,8 @@ export class SearchService implements OnModuleInit {
           const bodyAzStarts = bodyAz
             ? [...matchStarts(bodyAz, mp.bodyAz), ...matchStarts(bodyAz, mp.bodyAzPlain, true)]
             : [];
+          const part: string = hit.partOf ?? '';
+          const partStarts = part ? [...matchStarts(part, mp.partOf), ...matchStarts(part, mp.partOfPlain, true)] : [];
           const author: string = hit.authorNameAz ?? '';
           const authorStarts = [
             ...matchStarts(author, mp.authorNameAz),
@@ -258,6 +278,7 @@ export class SearchService implements OnModuleInit {
             ...hit,
             _formatted: {
               titleAz: highlight(title, terms, titleStarts),
+              ...(part && { partOf: highlight(part, terms, partStarts) }),
               authorNameAz: highlight(author, terms, authorStarts),
               // The text that shows most of the query, the original first on a tie
               body:
