@@ -7,6 +7,7 @@ collectionSlug: eliaga-kurcayli-her-seyi-tezeden-baslayaq-gelin
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1964
 order: 63
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=3971&pno=83'
 status: DRAFT
@@ -73,7 +74,3 @@ Yunan oğlu, yaxşı olar
 Bu gün qalxıb deyəsən sən:
 O babamdır, o nənəmdir,
 Baxın, bu da mənəm belə!
-
-*1964*
-
-// Yadıma sən düşürsən

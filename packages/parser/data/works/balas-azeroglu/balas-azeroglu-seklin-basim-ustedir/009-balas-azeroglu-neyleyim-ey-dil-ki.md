@@ -33,5 +33,3 @@ Mən eşitdim Azəroğlu dildə yer vermiş ona,
 Hökmrandır o sarayda indi sultanım mənim.
 
 *Təbriz, 1944*
-
-// Dəniz olmaq lazımdır

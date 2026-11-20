@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-tebrizim-menim
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1968
 order: 14
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=82'
 status: DRAFT
@@ -56,7 +57,3 @@ Nə yaxşı ki, onlar var.
 Əgər daşlar hamısı yuvarlaq olsaydılar
 Cəlalı pozulardı yamacın da, düzün də.
 Bəlkə nəsli qalmazdı daşların yer üzündə...
-
-*1968*
-
-// Dünyada bir şəhər var

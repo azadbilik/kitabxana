@@ -289,5 +289,3 @@ Allahdan bir az da pay istəyirəm,
 özüm əkdiyimi biçim, – deyirəm.
 Gərək Nizami tək meydan açasan,
 mənim də başımı sən ucaldasan...
-
-// Heç nə istəməyən qız

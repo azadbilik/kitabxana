@@ -7,6 +7,7 @@ collectionSlug: mirvarid-dilbazi-muellifden
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
+year: 1998
 order: 1
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=14&pno=3'
 status: DRAFT
@@ -46,5 +47,3 @@ Mənim milli dərdimizə, milli ordumuza, qəhrəman oğullarımıza həsr etdiy
 Hər qaranlıq gecənin bir işıqlı səhəri var. O işıqlı səhərdə yetişən yeni, ziyalı nəsillər rahatsız günlərimin, yuxusuz gecələrimin məhsulu olan bu “torpaq” fəryadını xalqımıza çatdıracaq. Fəryad dolu bu kitabın bir nüsxəsi isə məzarım üstünə qoyulacaq.
 
 *Yanvar, 1998*
-
-// Öpün bu qanlı torpağı

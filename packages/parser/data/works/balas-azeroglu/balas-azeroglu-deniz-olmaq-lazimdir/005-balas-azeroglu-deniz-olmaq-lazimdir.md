@@ -91,5 +91,3 @@ bu halını daha çox sevirəm, gülüm,
 bəlkə də yanılıram
 nə bilim,
 nə bilim...
-
-// Mən səadət axtarıram

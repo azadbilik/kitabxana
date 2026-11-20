@@ -45,5 +45,3 @@ Mənim Yaqutum gəlsin.
 Könlümə ilham gəlsin,
 Könlümü güldürməyə
 Qoy bircə Vəfam gəlsin.
-
-// İnsan və məhəbbət

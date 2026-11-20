@@ -15,5 +15,3 @@ Taleyin hökmünü bilməlisən sən...
 Hamının qəlbindən özün halısan.
 Hamının yerinə gülməlisən sən,
 Hamının yerinə ağlamalısan!
-
-// Bütövlük

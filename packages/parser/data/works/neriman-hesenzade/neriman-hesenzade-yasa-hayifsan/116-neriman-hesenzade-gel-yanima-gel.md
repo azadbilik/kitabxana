@@ -25,5 +25,3 @@ Demək, taleyimlə oxşardı mənim.
 Tək təkin yanına gəlsə, sevinər.
 Sonra gecikərsən, dünyadı, dönər,
 Köçərəm qalmaram, gəl, yanıma gəl.
-
-// Poemalar

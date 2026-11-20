@@ -25,5 +25,3 @@ Ağrı qırış olub bitər üzündə,
 Duam, qibləgahım gedər üzündə,
 Səni itirərsəm bu yer üzündə,
 Bu yerin üstündə saxlama məni!
-
-// Xəbər gözləyirəm

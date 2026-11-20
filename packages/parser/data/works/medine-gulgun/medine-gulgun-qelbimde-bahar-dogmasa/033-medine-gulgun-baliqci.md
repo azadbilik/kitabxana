@@ -7,6 +7,7 @@ collectionSlug: medine-gulgun-qelbimde-bahar-dogmasa
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1966
 order: 33
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=4042&pno=61'
 status: DRAFT
@@ -59,7 +60,3 @@ Tapa bilməmiş hələ.
 Boş torla, boş qayıqla,
 O necə dönsün evə,
 Necə dönsün sahilə?!
-
-*1966*
-
-// Durnalar qayıdanda

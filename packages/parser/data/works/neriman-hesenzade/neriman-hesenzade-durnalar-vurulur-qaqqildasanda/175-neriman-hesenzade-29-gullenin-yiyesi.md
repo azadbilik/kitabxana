@@ -87,5 +87,3 @@ odu, eşqi, həvəsi.
 mükafatın yiyəsi.
 
 *Şəmkir, iyun, 1999*
-
-// Yaşa, hayıfsan

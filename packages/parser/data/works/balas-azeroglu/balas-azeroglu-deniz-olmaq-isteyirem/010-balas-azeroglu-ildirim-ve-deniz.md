@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-deniz-olmaq-isteyirem
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1975
 order: 10
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=102'
 status: DRAFT
@@ -32,7 +33,3 @@ Elə bil yanırdı
 İçin-için hələ də.
 Meydan oxuyurdu Xəzər
 Üfüqə də, sahilə də...
-
-*1975*
-
-// Nigaranlıq

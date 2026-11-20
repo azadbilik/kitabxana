@@ -34,5 +34,3 @@ Hər şey qoynundadır qırovun, qarın.
 Yaşıl iynələri şamın, küknarın.
 
 *Moskva, dekabr, 1958*
-
-// İlham övladları

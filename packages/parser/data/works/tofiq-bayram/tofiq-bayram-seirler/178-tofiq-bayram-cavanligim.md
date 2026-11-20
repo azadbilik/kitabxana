@@ -7,6 +7,7 @@ collectionSlug: tofiq-bayram-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1966
 order: 178
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=7260&pno=111'
 status: DRAFT
@@ -40,7 +41,3 @@ Yox gileyim, şikayətim,
 Bəlkə buymuş öz qismətim.
 Hara getdi məhəbbətim,
 Harda qaldı cavanlığım?
-
-*1966*
-
-// Mənzum pyes

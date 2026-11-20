@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-bir-palidam
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1971
 order: 8
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=44'
 status: DRAFT
@@ -530,6 +531,3 @@ O getdi... Dalınca baxdı, Fətəli,
 Yandı ürəyində ümid məşəli.
 Ah, onu gözləyir bir şöhrət, bir ad,
 Döyüşlər meydanı böyük bir həyat.
-*1971*
-
-// Səməd Vurğun haqqında dörd şeir

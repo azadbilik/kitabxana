@@ -7,6 +7,7 @@ collectionSlug: mirvarid-dilbazi-insan-ve-mehebbet
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1999
 order: 85
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=14&pno=97'
 status: DRAFT
@@ -25,6 +26,3 @@ Kimin qalıb, kimin köçüb?
 Üzündə belə qəm qalıb,
 Sənə dünya sevincindən
 Bir kağız, bir qələm qalıb.
-*1999*
-
-// Poemalar

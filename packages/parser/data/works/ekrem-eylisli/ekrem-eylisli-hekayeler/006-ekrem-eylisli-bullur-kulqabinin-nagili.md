@@ -7,6 +7,7 @@ collectionSlug: ekrem-eylisli-hekayeler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
+year: 1973
 order: 6
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=4002&pno=175'
 status: DRAFT
@@ -146,7 +147,3 @@ Dəsmalını çıxarıb, gözünün yaşını siləndən sonra, Mirzə Manaf mü
 Sonra Mirzə Manaf bala-bala evə tərəf gedirdi: bir əlində portfeli, bir əlində kağıza bükülü həmin o büllur külqabı...
 
 Və bir az gedəndən sonra Mirzə Manaf bir müddət ayaq saxlayıb, o büllur külqabını da portfelinə yerləşdirdi, çünki o gün günəşli Bakımıza yenə də gün düşmüşdü və guya ki, o günün istisi vursaydı, Mirzə Manafın əlində tutduğu külqabının içindəki buzlar əriyə bilərdi...
-
-*1973*
-
-// Son söz yerinə

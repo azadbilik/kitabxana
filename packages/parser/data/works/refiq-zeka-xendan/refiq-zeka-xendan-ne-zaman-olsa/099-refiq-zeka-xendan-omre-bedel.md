@@ -13,5 +13,3 @@ status: DRAFT
 ---
 İlk sevginin ilk duyğusu ən dadlı əməldir,
 İlk sevginin ilk duyğusu bir ömrə bələdlir.
-
-// Ulusumun ürəyincə

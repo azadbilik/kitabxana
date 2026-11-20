@@ -80,7 +80,3 @@ O açdı qapını gülümsəyərək,
 Sarıldı ərinə bərk-bərk bir anda...
 Məsumdu Sikstin madonnasıtək,
 Yox! Yüzqat məsumdu madonnadan da!
-
-// Vətən ətri
-
-// Qəlbin sıxılsa əgər

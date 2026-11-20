@@ -7,6 +7,7 @@ collectionSlug: mirvarid-dilbazi-opun-bu-qanli-torpagi
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1994
 order: 38
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=14&pno=20'
 status: DRAFT
@@ -60,6 +61,3 @@ Ay atamın müdrik qızı
 Könlüm olub qəm dənizi...
 Çalxalanıram bu dəryada
 Səni hər an salıb yada...
-*1994*
-
-// Türkiyəyə gedən yollar

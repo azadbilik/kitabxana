@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1958
 order: 38
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=24'
 status: DRAFT
@@ -51,6 +52,3 @@ Günəşdən daha parlaq,
 Gözəl amalımız var,
 Bu amala inanın,
 İnsanlar, insanlar!..
-*1958*
-
-// Qaqra şeirləri

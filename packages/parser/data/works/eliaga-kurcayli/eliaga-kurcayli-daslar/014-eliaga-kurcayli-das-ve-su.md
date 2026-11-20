@@ -7,6 +7,7 @@ collectionSlug: eliaga-kurcayli-daslar
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1978
 order: 14
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=3971&pno=18'
 status: DRAFT
@@ -38,7 +39,3 @@ Görünür, o sular dadıma çatıb.
 Daşı yadlar atıb...
 Axı, suları
 Anamın əlləri, gözləri atıb!..
-
-*1978–1979*
-
-// Səndən uzaqda

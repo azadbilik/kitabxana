@@ -30,8 +30,6 @@ Təsdiq etsin səni inkar edənlər,
 Bircə an vaxtını itirmə hədər.
 *1984*
 
-// Vətən oğulsuz olmasın
-
 *Bu silsilədə gedən şeirlər dünya şöhrətli*
 *Azərbaycan oğluna – Heydər Əliyevə*
 *duyduğum iftixar hissindən yaranmışdır.*

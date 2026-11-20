@@ -27,5 +27,3 @@ Abşeron Xəzərin qucağındadır,
 Krım mavi gözlü Qara dənizin.
 
 *Livadiya*
-
-// Turac

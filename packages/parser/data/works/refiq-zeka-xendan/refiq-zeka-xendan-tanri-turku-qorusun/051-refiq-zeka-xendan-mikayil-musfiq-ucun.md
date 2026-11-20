@@ -7,6 +7,7 @@ collectionSlug: refiq-zeka-xendan-tanri-turku-qorusun
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1989
 order: 51
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=5638&pno=122'
 status: DRAFT
@@ -52,7 +53,3 @@ Gözündə qoydu kamını.
 İnan mənə, yurddaşların,
 Qandaşların, qurddaşların
 Alacaq intiqamını!..
-
-*1989*
-
-// Gələcəkdaşlarımız

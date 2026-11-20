@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-yagis-yagar-yer-doymaz
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1969
 order: 7
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=96'
 status: DRAFT
@@ -35,7 +36,3 @@ Mən ki səni əzizlərdim,
 Gül becərdim, tikan dərdim.
 Həsrətindən sonsuz dərdim
 Döndü nağıla-nağıla.
-
-*1969*
-
-// Dəniz olmaq istəyirəm

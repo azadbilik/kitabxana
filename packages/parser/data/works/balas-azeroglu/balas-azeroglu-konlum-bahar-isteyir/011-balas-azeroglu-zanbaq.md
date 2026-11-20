@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-konlum-bahar-isteyir
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1966
 order: 11
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=30'
 status: DRAFT
@@ -45,7 +46,3 @@ belə görüşmək istəməzdik
 nə sən, nə də mən.
 Ancaq zamanın hökmüdür,
 nə edəsən...
-
-*1966*
-
-// Şəklin başım üstədir

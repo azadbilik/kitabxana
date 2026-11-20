@@ -7,6 +7,7 @@ collectionSlug: medine-gulgun-sabahiniz-xeyir-olsun
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1983
 order: 26
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=4042&pno=23'
 status: DRAFT
@@ -41,7 +42,3 @@ Narahatdır insanlığın ürəyi,
 Pozulubdur rahatlığı dünyanın.
 Günəş içmək istər gülü, çiçəyi,
 Çəməni, bağçası, bağı dünyanın.
-
-*1983*
-
-// Əbədiyyət nəğməm

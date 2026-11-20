@@ -7,6 +7,7 @@ collectionSlug: medine-gulgun-ebediyyet-negmem
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1963
 order: 26
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=4042&pno=42'
 status: DRAFT
@@ -60,7 +61,3 @@ Qoy dolsun otağıma
 O Təbrizli mahnılar,
 O vüqarlı mahnılar,
 Şirin, duzlu mahnılar.
-
-*1963*
-
-// Qəlbimdə bahar doğmasa

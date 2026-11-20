@@ -7,6 +7,7 @@ collectionSlug: refiq-zeka-xendan-gozelim-dunya
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1990
 order: 50
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=5638&pno=27'
 status: DRAFT
@@ -37,7 +38,3 @@ Dinləyin şah beytini ustad Məhəmməd Hadinin:
 
 “Bir nişan almaqdan ötrü satmayın bu milləti,
 Millətin, milliyyətin heç yoxmu sizdə qeyrəti?!..”
-
-*1990*
-
-// Axıb gedən günlərimiz

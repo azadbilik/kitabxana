@@ -60,6 +60,4 @@ Səndən gözəlləri görə bilmirsən.
 
 *5.VI.1982*
 
-// Qan yaddaşı
-
 *Mənim üçün Gündoğan sevgisi Ana sevgisi kimi ölçüsüz, müqayisəsiz, əvvəli-sonu olmayan bir möcüzədir. Ömrün başlanğıcı Anasa, dünyanın başlanğıcı Gündoğandır – sanmışam; bütün yollar, bütün arzular oradan başlanır, deməli, bütün sirlərin açarı da ordadı – düşünmüşəm. Bu çözələnən yumağın ucu hardadı, bu tarix çayı hansı mənbədən başlanır? İstər-istəməz üzüm Gündoğana çevrilib. İnsan işığa boy atıbsa, işıqdan doğulubsa, Günəşin dalınca düşüb gəlibsə Bəşər kitabının ilk səhifəsi də ordadır. Həmişə də o ilk səhifəyə can atmışam. Günəş diliylə, Günəş əlifbasıyla yazılan bu kitabın mənimlə danışacağına, mənə sirr verəcəyinə inanmışam.*

@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-koktebel-seirleri
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1967
 order: 6
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=36'
 status: DRAFT
@@ -58,6 +59,3 @@ Gülə insan, gülə yer,
 Gülə daim bu həyat,
 Fırtınasız, tufansız
 Daha xoşdur kainat!
-*1967*
-
-// Bolqarıstan şeirləri

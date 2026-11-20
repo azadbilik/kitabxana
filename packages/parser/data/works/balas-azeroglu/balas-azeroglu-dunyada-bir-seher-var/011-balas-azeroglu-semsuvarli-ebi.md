@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-dunyada-bir-seher-var
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1965
 order: 11
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=92'
 status: DRAFT
@@ -137,7 +138,3 @@ bir yadına salan da olmadı səni
 indiyə kimi.
 Yazıq Şəmsuvarlı Əbi,
 Yazıq Şəmsuvarlı Əbi.
-
-*1965*
-
-// Yağış yağar, yer doymaz

@@ -7,6 +7,7 @@ collectionSlug: isi-melikzade-povestler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PROSE
+year: 1982
 order: 5
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=7235&pno=103'
 status: DRAFT
@@ -1596,7 +1597,3 @@ Bənövşə elə bil bu səsdən diksinib ayın haləsindən çıxdı və təzə
 Bənövşənin qaraltısı gözdən itənəcən Orxan onun ardınca baxdı. Elə bildi yuxu görür. Axı, adam bəzən yuxu gördüyünü yuxuda bilir. Orxan qıçları əsə-əsə yaxınlıqdakı daşın üstündə oturub, yuxudan ayılacağı dəqiqəni gözlədi.
 
 *Ağcabədi – Bakı*
-
-*1982-83*
-
-// Hekayələr

@@ -48,5 +48,3 @@ Torpaqdan bozarmaq öyrənməliyəm,
 Sinəmdə yad güllər bitirməməkçün...
 
 *Göytəpə, 18.X.1980*
-
-// Sağ ol, ana dilim

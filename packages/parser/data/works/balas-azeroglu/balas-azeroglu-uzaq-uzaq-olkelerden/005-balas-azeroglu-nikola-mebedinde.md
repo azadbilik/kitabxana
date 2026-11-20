@@ -117,5 +117,3 @@ sənət əsərləri
 öz ölməzliyilə...
 
 *Praqa, 1963*
-
-// Təbrizim mənim

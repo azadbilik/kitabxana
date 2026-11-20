@@ -7,6 +7,7 @@ collectionSlug: mirvarid-dilbazi-poemalar
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1993
 order: 3
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=14&pno=112'
 status: DRAFT
@@ -671,7 +672,3 @@ Ağlayaram, öpərəm mən
 Şairlər gizlində ağlar
 Başkəsənlər görməsinlər
 Qoy bizim göz yaşımızı.
-
-*1993*
-
-// Pyeslər

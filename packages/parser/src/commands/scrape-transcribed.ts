@@ -32,6 +32,11 @@ export interface TranscribedBook {
   bibid?: number;
   /** Or the item id of a print in ULB Halle's MENAdoc (opendata.uni-halle.de/handle/1981185920/<id>); "@@ NNN" is then the PDF page */
   halle?: number;
+  /**
+   * Or a book of kitabxana.net (Milli Virtual Kitabxana): its book id and the PDF it serves
+   * (files/books/file/<n>.pdf, from the book page); "@@ NNN" is then the PDF page
+   */
+  kitabxana?: { id: number; pdf: string };
   /** An anthology several authors share: their works' sourceIds take this stem instead (e.g. "halle-35518-koroglu") */
   sourceKey?: string;
   sections: TranscribedSection[];
@@ -40,9 +45,12 @@ export interface TranscribedBook {
 }
 
 const readerUrl = (book: TranscribedBook, page: number) =>
-  book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}` : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
+  book.kitabxana ? `https://www.kitabxana.net/files/books/file/${book.kitabxana.pdf}#page=${page}`
+    : book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}`
+      : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
 /** The stem of the book's works' sourceIds */
-const sourceKey = (book: TranscribedBook) => book.sourceKey ?? (book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
+const sourceKey = (book: TranscribedBook) =>
+  book.sourceKey ?? (book.kitabxana ? `kxn-${book.kitabxana.id}` : book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
 /** A novel cut at its part headings («### Proloq», «### Birinci hissə», «### Epiloq»); text before the first is the novel's opening */
@@ -79,6 +87,8 @@ export function readTranscription(text: string) {
   for (const line of text.split('\n')) {
     const at = line.match(/^@@ (\d+)$/);
     if (at) { spread = Number(at[1]); continue; }
+    // "// Povestlər": a note on where a section starts, for the config's `first`; not text
+    if (line.startsWith('// ')) continue;
     const title = line.match(/^# (.+)$/);
     if (title) {
       flush();

@@ -7,6 +7,7 @@ collectionSlug: mirvarid-dilbazi-veten-ogulsuz-olmasin
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1998
 order: 14
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=14&pno=34'
 status: DRAFT
@@ -26,6 +27,3 @@ Diyar-diyar...
 Üzündəki yorğunluğa
 İşıq saçır:
 Geniş alnındakı vüqar.
-*1998*
-
-// Qoymayın ağlayım məni

@@ -7,6 +7,7 @@ collectionSlug: tofiq-bayram-sairin-sikayeti
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PLAY
+year: 1958
 order: 4
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=7260&pno=112'
 status: DRAFT
@@ -341,7 +342,3 @@ Ey Füzuli, odlara yansın büsati-səltənət,
 Yeydir ondan haqq bilir, bir guşeyi-gülxam mənə.
 
 *(Füzuli və Nərgiz çıxırlar. Xalq onları ehtiramla yola salır. Dəhşətə gəlmiş məmurlar ayaqları altında cırılmış kağız parçaları olduğu halda səhnədə qalırlar.)*
-
-*1958*
-
-// Poemalar

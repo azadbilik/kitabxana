@@ -7,6 +7,7 @@ collectionSlug: eliaga-kurcayli-qelbin-sixilsa-eger
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1972
 order: 35
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=3971&pno=132'
 status: DRAFT
@@ -34,7 +35,3 @@ Döysə də yollarda külək, qar bizi –
 Görürsən,
 Ad verib kişi elədi
 Atalar, analar, övladlar bizi.
-
-*1972*
-
-// Həyat

@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-men-seadet-axtariram
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1967
 order: 8
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=55'
 status: DRAFT
@@ -144,7 +145,3 @@ hissin,
 həvəsin,
 məhəbbətin
 romantikası...
-
-*1967*
-
-// Uzaq-uzaq ölkələrdən

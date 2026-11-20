@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-qaqra-seirleri
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1965
 order: 14
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=33'
 status: DRAFT
@@ -41,6 +42,3 @@ Dənizinə əlvida!
 Suların üzündəki
 Gümüşünə əlvida!
 Xoş sözünə əlvida!
-*1965*
-
-// Koktebel şeirləri

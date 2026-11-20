@@ -7,6 +7,7 @@ collectionSlug: refiq-zeka-xendan-sizdenem-men
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1984
 order: 60
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=5638&pno=16'
 status: DRAFT
@@ -64,7 +65,3 @@ Kim deyir, alçaqlar çox yaşayırlar?!
 
 Bir ömür yükünü daşımır onlar,
 Niyə də ölsün ki, yaşamır onlar?!
-
-*1984*
-
-// Gözəlim dünya

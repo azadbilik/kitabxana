@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-nigaranliq
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1974
 order: 4
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=111'
 status: DRAFT
@@ -204,7 +205,3 @@ Heyrətlə dayanıb baxanda tacir,
 Məcnun da başını bulayıb gedir.
 Bilir ki, bu kişi dərk etməz onu,
 O, Leyli, bu, sərvət divanəsidir.
-
-*1974*
-
-// Poemalar

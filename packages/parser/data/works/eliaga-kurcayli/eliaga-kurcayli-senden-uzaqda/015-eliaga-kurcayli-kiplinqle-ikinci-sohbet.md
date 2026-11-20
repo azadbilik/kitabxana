@@ -113,5 +113,3 @@ Bayron da ingilis, sən də ingilis!
 Behişt təravətli bir torpağı var.
 “Qardaş” dediyiniz “müstəqil Vətən” –
 Nə himni, nə gerbi, nə bayrağı var.
-
-// Aktyor dostumun söhbətləri

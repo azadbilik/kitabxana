@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-ellerin-senin
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1963
 order: 13
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=64'
 status: DRAFT
@@ -31,6 +32,3 @@ Günəş könlümdə yandı!
 Yaşardımmı söylə mən
 Olmasaydın əgər sən,
 Olmasaydı məhəbbət.
-*1963*
-
-// Miniatürlər

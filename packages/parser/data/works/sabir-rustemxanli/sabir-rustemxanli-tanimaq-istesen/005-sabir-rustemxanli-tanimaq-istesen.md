@@ -57,8 +57,6 @@ Olub-keçənləri yaxşı bilərik.
 
 *1968*
 
-// Sevgim, sevincim
-
 *Allahın gecə-gündüz işdən, torpaqdan, ilğımlı çöllərdən və uca dağlardan başqa heç yerdə səadət tapa bilməyən bu məzlum millətinin ruhu, işığı min illəri adlayıb gələn bir möcüzədir.*
 *Yer üzündə insan əlinin, insan əzələsinin abidələri çoxdur: tikililər, texnika, sənət inciləri...*
 *Bəs insan ruhu? Bəs millətin ruhunun işığı? Şeir bu işığın şəklidir, söz-söz hörülmüş ruh abidəsidir...*

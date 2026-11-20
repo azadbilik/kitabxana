@@ -17,5 +17,3 @@ Türk duyğulu türkdaşlarımızdan biridir o,
 Türkün dəniz ilhamlı dəniz şairidir o!
 
 *İstanbul, 1989*
-
-// Sevməkmi gözəl, yoxsa sevilməkmi gözəldir?!

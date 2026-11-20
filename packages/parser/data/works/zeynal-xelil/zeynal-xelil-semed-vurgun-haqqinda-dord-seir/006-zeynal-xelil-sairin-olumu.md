@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-semed-vurgun-haqqinda-dord-seir
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1963
 order: 6
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=57'
 status: DRAFT
@@ -117,6 +118,3 @@ Yox, yox! Susun, susun siz!
 Ölərmi Nazim Hikmət?
 Şairə nə ölüm var,
 Nə də ki, istirahət!
-*1963*
-
-// Əllərin sənin

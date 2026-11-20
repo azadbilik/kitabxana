@@ -44,8 +44,6 @@ Tanrının özü də keçirmiş məndən.
 
 *1995*
 
-// İçimdəki dərd ağacı
-
 *Məncə, o şey ki, təbii şəkildə aradan çıxır onu zorla qoruyub saxlamaq olmaz. Keçmiş formalar nə vaxtsa öz işini görüb qurtarır; yeni silah tapılanda köhnələr qiymətini itirir. Forma da paltar kimidir, köhnələndə atılır. Ola bilsin ki, bu köhnə paltar sənə çox yaraşırdı və heç beləsini tapmaq olmayacaq da! Amma nə etməli?*
 
 *Şer öz zamanına bənzəyir. Keçmişin şeri keçmişə, indinin şeri indiyə.*

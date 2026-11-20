@@ -7,6 +7,7 @@ collectionSlug: balas-azeroglu-omur-kitabi
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1966
 order: 26
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=22&pno=24'
 status: DRAFT
@@ -76,7 +77,3 @@ Olar...Olar...
 Deyib güldüm...
 – Daha qalxdım yataqdan, dostlar,
 həyata yenidən gəldim...
-
-*1966*
-
-// Könlüm bahar istəyir

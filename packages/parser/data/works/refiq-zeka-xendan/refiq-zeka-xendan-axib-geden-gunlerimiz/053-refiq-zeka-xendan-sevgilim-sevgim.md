@@ -15,5 +15,3 @@ Mən könüldən elimin aşiqiyəm,
 Min könüldən dilimin aşiqiyəm,
 Sevgilim, yurddur, ulusdur sevgim,
 Sevgimin, sevgilimin aşiqiyəm.
-
-// Öncə vətən

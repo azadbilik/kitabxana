@@ -690,8 +690,6 @@ Göydən atom da yağa yurd kimsəyə basılmaz!
 
 *Moskva, 29 oktyabr, 1985*
 
-// Öləndə bayrağa büküləcəyəm
-
 *Ədəbiyyat bütün dövrlər üçün vacib olan ölçülərin – həqiqətin, xeyirxahlıq və gözəlliyin keşiyində dayanmağı ilə, istər-istəməz, özünü siyasətə yaxınlaşdırır.*
 *Ədəbiyyat cəmiyyətin ovqatını əks etdirən, tarix küləklərinin hardan-hara əsdiyini duyan, zamanın gərilmiş əsəblərində hansı havaların çalınacağını qabaqcadan hiss edən bir qüvvə kimi mənəvi həyatımızda həmişə müstəsna rol oynamışdır.*
 *Meydanlara gedən milyonların böyük əksəriyyətinin yolu bir vaxt ədəbiyyatımızın ehtiyatla göstərdiyi ictimai ağrılardan və milli fəlakətlərimizin dərkindən başlanıb.*

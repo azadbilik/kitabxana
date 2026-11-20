@@ -15,5 +15,3 @@ status: DRAFT
 Aslan zooparkda aslan sayılmaz.
 İnsanın varlığı yurddur, ulusdur,
 Ulussuz bir insan sayılmaz!
-
-// Könüldən könülə

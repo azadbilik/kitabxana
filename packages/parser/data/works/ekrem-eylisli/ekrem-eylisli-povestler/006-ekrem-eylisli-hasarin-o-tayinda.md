@@ -206,5 +206,3 @@ Haradasa, hansı bir uşaqsa, yəqin ki, dərslərindən "beş" alır; bəlkə a
 Kim bilir, bəlkə İslam dayı görür. İslam dayının baxdığı o yerdə, bəlkə, sərçələr, sağsağanlar hələ də öz dillərində danışırlar, orada Günəş bəlkə hələ də dağların dalında yatmağa gedir... Bəlkə orda gündüzdür. Axşamçağıdır və otların üstündə bir kəpənək uçur, kəpənək maqqac axtarır... Bəlkə, axşamdır, cümə axşamıdır və haradasa qorxa-qorxa bir çıraq yanır. Çıraq "o dünyadan" gələnlərin yolunu gözləyir?.. Kim bilir, İslam dayının baxdığı o yerdə bəlkə heç nə yoxdur – bir qara zülmətdən savayı.
 
 Ancaq İslam dayı baxır, ola bilməz ki, insan olsun, heç nə görməsin. Ola bilməz ki, o çıraq həmişəlik sönsün, mənə elə gəlir ki, ola bilməz!.. Və hərdən mənə də elə gəlir ki, bu çeşmənin qırağında böyüyənlər buradan həmişəlik gedə bilməzlər, bir vaxt mütləq qayıdacaqlar...
-
-// Hekayələr

@@ -7,6 +7,7 @@ collectionSlug: refiq-zeka-xendan-once-veten
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1985
 order: 76
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=5638&pno=61'
 status: DRAFT
@@ -70,7 +71,3 @@ Araz Kürləşəcəkdir,
 Ulus birləşəcəkdir,
 O gün canım yurduma
 Cahan yerləşəcəkdir!..
-
-*1985*
-
-// Nə zaman olsa

@@ -7,6 +7,7 @@ collectionSlug: eliaga-kurcayli-aktyor-dostumun-sohbetleri
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1975
 order: 9
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=3971&pno=47'
 status: DRAFT
@@ -53,7 +54,3 @@ Onlara baxdıqca iyrənir ürək,
 Onlar olmasaydı,
 güney qarıtək
 Ömrü az olardı müstəbidlərin.
-
-*1975*
-
-// Hər şeyi təzədən başlayaq gəlin

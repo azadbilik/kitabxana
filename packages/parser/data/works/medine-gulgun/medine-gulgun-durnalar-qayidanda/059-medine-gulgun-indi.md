@@ -7,6 +7,7 @@ collectionSlug: medine-gulgun-durnalar-qayidanda
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1982
 order: 59
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=4042&pno=95'
 status: DRAFT
@@ -41,6 +42,3 @@ Başı qarlı dağa, dumanlı dağa,
 Quşlar yuva qurar xola, budağa
 Yağışların yağan vaxtıdır indi.
 Yazın taxta çıxan vaxtıdır indi.
-*1982*
-
-// Poema

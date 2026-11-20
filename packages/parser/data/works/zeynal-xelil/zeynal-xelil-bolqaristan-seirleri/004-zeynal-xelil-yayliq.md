@@ -7,6 +7,7 @@ collectionSlug: zeynal-xelil-bolqaristan-seirleri
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1970
 order: 4
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=43&pno=39'
 status: DRAFT
@@ -42,6 +43,3 @@ Vurur sinəmdə ürək.
 Dönüb bir gülüstana
 Bolqarıstan torpağı
 Könlümdə açır çiçək.
-*1970*
-
-// Bir palıdam

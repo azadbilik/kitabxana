@@ -7,6 +7,7 @@ collectionSlug: neriman-hesenzade-hec-ne-istemeyen-qiz
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
+year: 1967
 order: 17
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=3975&pno=154'
 status: DRAFT
@@ -81,7 +82,3 @@ xoruz hər gün üç dəfə,
 səs salır hər tərəfə.
 Çağırır: quq-qulu-qu!..
 Gəlməyir Tovuzquşu.
-
-*1967*
-
-// Bu da bir zarafat

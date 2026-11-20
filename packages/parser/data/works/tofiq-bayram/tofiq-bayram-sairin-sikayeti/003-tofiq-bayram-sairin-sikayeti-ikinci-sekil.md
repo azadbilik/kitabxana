@@ -7,6 +7,7 @@ collectionSlug: tofiq-bayram-sairin-sikayeti
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: PLAY
+year: 1958
 order: 3
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=7260&pno=112'
 status: DRAFT
