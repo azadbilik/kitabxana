@@ -2,9 +2,9 @@
 slug: memmedquluzade-meqaleler
 titleAz: Məqalələr
 authorSlug: memmedquluzade
-genre: ESSAY
+genre: PROSE
 originalLang: AZ_LATIN
-order: 11
+order: 14
 status: DRAFT
 ---
 

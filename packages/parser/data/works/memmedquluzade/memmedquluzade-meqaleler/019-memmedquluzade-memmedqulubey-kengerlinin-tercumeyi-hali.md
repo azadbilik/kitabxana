@@ -1,0 +1,54 @@
+---
+slug: memmedquluzade-memmedqulubey-kengerlinin-tercumeyi-hali
+sourceId: kxn-688-t21
+titleAz: Məmmədqulubəy Kəngərlinin tərcümeyi-halı
+authorSlug: memmedquluzade
+collectionSlug: memmedquluzade-meqaleler
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: PROSE
+order: 19
+sourceNote: 'https://www.kitabxana.net/files/books/file/1262796743.pdf#page=132'
+status: DRAFT
+---
+*(Əxirən həyatına fəcianə bir surətdə xatimə çəkilən sabiq topçu ofiseri Məmmədqulubəy Kəngərli)*
+
+Bu il avqust ayının 29-da Batum şəhərində Məmmədqulubəy Kəngərlinin erməni komiteti tərəfindən göndərilən ermənilər tərəfindən şəhid edildiyini duyub qəlbən ağlamayan qafqazlı bir müsəlman yoxdur. Zənn edirəm, məhz millət yolunda qurban olan belə bir vücudi-müqəddəsin tərcümeyi-halını yazmaq, bilməyənlərə tanıtmaq, onu bilən hər sahibqələmimizin, əlbəttə, ən birinci borcu idi. Nə fayda ki, indiyə qədər bu borcu yerinə yetirən bir kəs meydana çıxmadı. Doğrusu, bu hal bu qədrnaşünaslıq ümumi–millətin üstə bihədd naşükürlük töhməti qoyacağından qorxdum. Sevgili millətimə öylə böyük bir təqsiri rəva görmədim. Bu səbəblədir ki, sahibqələm olmaya-olmaya, mərhumun vətənindən minlərcə verst uzaqda ola-ola qəlbim razı olmadı ki, öylə bir mücəssəmi – həmiyyənin, fədakari-millətin tərcümeyi-halı yazılmamış qalsın. Buna görə millətin qədrşünaslığı naminə mərhumun tərcümeyi-halından bildiyim qədər yazıram:
+
+Mərhum Məmmədqulubəy Kəngərli İrəvan quberniyasında Naxçıvan şəhərində 1864-cü səneyi-miladidə təvəllüd edib. Atası Naxçıvan bəyzadələrindən mayor Şəfi ağadır. Ən birinci, ən əsaslı təhsil demək olan tərbiyeyi-əvvəliyyəni maarifpərvər atasından gördü. İkinci təhsil olan ibtidai oxumağı xüsusi müəllimdən öyrəndi. Ən birinci məktəbi-təbii olan ev tərbiyəsini lazımınca qurtarıb, xaricdə oxuyacaq sinninə çatan vaxt atasının silkinə daxil oldu. Yəni Tiflisdə hərbi məktəbinə – Kadeskki korpusa girdi. Buranı tamam edəndən sonra Peterburqdakı Mixaylovski topçu məktəbi-alisinə keçdi. Burada 1882-də ünter-ofiserlik mənsəbi-əvvəlisini aldı. 1884-də topçu məktəbi – alisini kəmali-ləyaqətlə qurtarıb, ofiserlik mənsəbilə çıxdı. Xeyli illər ofiserlik qulluğunda bulunub dövlət və vətəninə hüsni-xidmətlər göstərdi. İstedad və əhliyyət sayəsində az vaxtda hər kəsin nəzəri-təhsinini qazandı. Dirayət və iqtidarına görə ştabs-kapitanlıq mənsəbinə çıxarıldı. Dövlət və vətəninə daima sadiqanə, qəyuranə xidmətdən bir an geri qalmadı. 1883-cü ilinə qədər əsgəri qulluğunda xidmət elədi.
+
+Dövlət, vətəninə elm və seyf ilə göstərdiyi xidmətləri bir az da elm və qələm ilə göstərmək fikrinə düşdü. Ştabs-kapitan mənsəbində olduğu halda istefa verdi. Bir – iki il vətəni-əslisi olan Naxçıvanda qaldıqdan sonra İrəvan şəhərinə gəldi. Canından əziz sevdiyi millətinin ən ziyadə nəyə möhtac olduğunu təhqiq etdi. Bildi ki, İrəvan quberniyasının müsəlmanları dilsizlikdən, elmsizlikdən, dövlətin qanunu, məmurların ixtiyarlarını bilməmələrindən hər an bir müsibətdən digər bir bəlaya düçar olurlar. Bildi ki, ən əvvəl müqtədir bir vəkil (advakat) olub millətə xidmətə buradan başlamaq lazım. Bu səbəblə bütün iqtidarını sərf edib, vəkillik imtahanına hazırlandı. Az vaxtda qanunən vəkillik ixtiyarını aldı. Bir az əvvəl nə cür mükəmməl bir topçu zabiti idisə, imdi də müqtədir bir vəkil oldu. Qılınc və qələmi birləşdirdi. Fəzl və qeyrəti, sidq və nəcabəti sayəsində az vaxtda çox ziyadə kəsbi-şöhrət elədi. Peterburqdakı adlı, təcrübəli advakatlara müraciət edəcək olanlar mərhumun qüdrəti-nitqiyyəsindən, məlumati-ədliyyəsindən istifadə etməyə başladılar. İş və iqtidar söz və qövldə qalmadı. Tez vaxtda fellə meydana çıxdı. Şəhidi-mərhum İrəvanda şöhrətli, diplomalı böyük advakatların qarşısında öhdəsinə götürdüyü böyük-böyük işləri müttəsil qazanırdı. Fəzl və iqtidarına əlavə edilən alicənablığı, millətpərvərliyi, rəhimdilliliyi mərhumun namını hər kəsin ürəyində yer etdirdi. Bir çox advakatlar kimi pula, dövlətə əsla tamah etməzdi. Özü təbən, cinsən nəcibzadə nəcib idi. Könlü qəni, niyyəti ali, ümidi böyük, fikri vase idi. Qüvveyi-nitqiyyədə, fəzlü ürfanda nə mərtəbə şayani-imtisal idisə, qeyrət və həmiyyədə, səy və ictihadda, millət və həmiyyətpərvərlikdə o dərəcə şayisteyi-təqdir idi. Hər gün evində bir çox fağır, biçiz müsəlmanlar bulunub, ərzi-hallarını pulsuz yazdırırdılar. Bu qədər məşğuliyyətlə bərabər, heç bir camaat işi olmazdı ki, mərhumi-cənnətməkan o işin ən atəşli məhəllində olmasın. Heç bir günü olmazdı ki, milləti üçün xeyirli bir işin tədbirlə məşğul olmasın. Bu səbəblədir ki, şəhidi-aliməqam belə ciddi, əhəmiyyətli bir xidmət ildə məşğul ola-ola övladi-millətin tərbiyə və təhsilini əsla yaddan çıxarmazdı. Millətin səlamət və tərəqqisi üçün ən birinci qapı, ən birinci vasitə zəmanənin təqazasına görə açılacaq məktəb olduğunu çox yaxşı bilirdi. Axırda vəkilliyin ağırlığına baxmayıb, Qafqazda birinci dəfə müsəlman leyli məktəbi (pansion) açdı. Zabitliyi və vəkilliyi ilə bərabər, “pedoqoq” silkinə də girdi. Ömürlərini müəllimlikdə çürüdüb, Qafqazın bu qədər böyük şəhərlərində bir müsəlman pansionu aça bilməyən müəllimlərə ən ibrətbəxş bir nümunə, bir müəllim oldu. Pansionu az vaxtda dərəceyi-tərəqqinin ən üst mərtəbəsinə çıxardı. Günlərinin bütün saatlarını gah vəkillikdə, gah məktəb müfəttişliyində, gah millət müşavirliyində keçirirdi.
+
+Axırda keçən mart ayında İrəvan müsəlmanlarına vükalətən Peterburqa getmək iqtiza etdi. Bu əhəmiyyətli və böyük iş həmiyyən və dirayətli bir sahibi–ürfana möhtac idi. Bu xüsusda öylə bir şəxs gərək idi ki, bu nazik və məsuliyyətli işi öhdəsinə götürüb, vəzifəsini layiqilə ifa edəydi. İrəvanlılar bu barədə əsla zəhmət çəkmədilər. Çünki gözlərinin önündə dağ kimi səbatlı, aslan kimi cəsur, Xızr kimi müdrik, kasifi-həqiqət kimi zəhmətkeş Məmmədqulubəy var idi. Ümum cəmaatin ittifaq və intixabı ilə mərhum bir neçə yoldaş ilə Peterburqa getdi. Millətin hər növ dərd və ehtiyacını bizzat sərdari-əkrəm qraf Voronsov cənablarına və daxiliyyə nazirinə ərz etdi.
+
+Biçarə millətinin hüququnu mühafizəyə, idareyi-hökumətdə ixtiyar sahibi olmağına şifahən-təhrirən çalışdı. Mərhumun ən ziyadə çalışdığı cəhət müsəlmanların hüququnu erməni və özgə vətəndaşlar ilə bir etmək idi. Mərhumun bu ali xahişi Qafqaziyada təkcə riyasət və böyüklük istəyən erməni böyüklərinin xoşuna gəlmədi. Ölüm kağızları yazdılar. Öldürmək fikrinə düşdülər. Mərhum Məmmədqulubəyi Peterburqdan gələndən bəri gözləyirdilər ki, hər nə cür olsa öldürsünlər. Mərhum işin bu cəhətini çox yaxşı qanmışdı. Lakin bir neçə müfsid erməninin divarın dalında alçaqlar kimi gizlənib öldürəcəklərindən qorxmazdı. Buralarını bilə-bilə yenə istədi ki, vəkilliyinə, məktəbinin tərəqqisinə davam etsin. Lakin bir kimsədən bir müavinət görmədi. Axırda çarəsiz qaldı. Məktəbini dağıdıb, vəkilliyini buraxıb Parijə getməyə, oradan millətinə özgə yolda xidmət etməyə məcbur oldu. O aşiqi-millət, o mühibbi-xidmət istəyirdi ki, öz bacısı oğlunu və özgələri Parijə təhsilə aparıb, bu barədə qafqazlılara bir qapı açsın. İstəyirdi ki, Qafqazdan tələbə getməyə vasitə olub bir dairə içində sıxışıb qalan müsəlmanlara o mənbəyi-fənn və hünəri tanıtdırsın. İştə məhz bu fikrə xidmətlə keçən avqustun 25-də İrəvanı tərk edib Tiflisə getdi. Orada bir neçə gün qalandan sonra bacısı oğlu Heydər ilə Batuma getdi ki, gəmiyə minib Parijə yollansın. Batumda gəmi biletini alıb bir saat sonra yola düşməyə müntəzir oldu. Bu arada dostlarına açıq məktub yazmaq istədi. Bir dükandan bir neçə açıq məktub alıb, bəzi dostlarına bu surətlə yazdı:
+
+“Batumdayız, bilet aldıx. Bir saat sonra firəng gəmisinə minəcəyik. Vətənim, millətim heç vaxt yadımdan çıxmayacaqdır. Xidmət yer ilən deyil, insanın özü ilədir...”
+
+Bu axırıncı məktublarını cibinə qoyub poçt qutusuna buraxmağa və oradan yemək yeməyə gedəcək idi ki, erməni komiteti tərəfindən göndərilən üç məlun erməni gizləndikləri divarın küncündən qəflətən çıxıb, o fədakari-milləti xəncərlər ilə parça-parça doğrayıb qaçdılar. İştə yüzlərcə illərdə İrəvan quberniyasının təkcə meydana çıxardığı, bütün qafqazlıların fəxr edəcəkləri bu həmiyyəti-mücəssəm, bu nuri-çeşmi-millət hənuz 41 yaşında ikən bir neçə xaini – dinin ədu əkbərin xəncərləri altında şəhid edildi.
+
+Məmmədqulubəy xalis doğru bir müsəlman idi. Mükəmməl bir insan idi.
+
+Şəhidi-cənnətməkanın doğranan mübarək vücudu iki günə qədər Batumda qaldıqdan sonra, sentyabrın birində Batum müsəlman konsullarının, bəyzadələrinin, ümum müsəlman camaatının təkidi ilə Tiflisə göndərildi. Tiflis camaatı mərhumun cənazəsini çox artıq ehtiramla Tiflis vağzalında istiqbal etdilər. Oradan böyük bir cəmiyyətlə məscidə aparıb, sentyabrın 2-də müsəlman qəbiristanlığında öz bacısının yanında xaki-qüfranə-qərargahi-əbədisinə təslim etdilər.
+
+Cənabi – həqq mərhumə rəhmət, qardaşı – bacısı yerində olan ümum müsəlmanlara mətanəti-qəlbi – lazımə mərhəmət ehsan etsin.
+
+### Bir kiçik xütbə
+
+Əzizim, dostum, Məmmədqulubəy! Ruhun müəzzəb olmasın, vücudun-zahirin nəzərdən qalıqdısa, nami-müqəddəsin əbədi qalacaqdır. Heç məyus olma! Millət yolunda ölmək ilə cənnəti – əlayə girmək qapısını ən əvvəl sən açdın. Bu zamanda şühədayi-millətin, fədakarani-ümmətin sərəfrazı sən oldun. O möhtərəm riyasəti sən iktisab etdin. Nədən mükəddər olursan? Yolunda fəda olduğun camaat o qədər bihəmiyyət, binamus, bidin deyillər ki, səni əbədüddəhr yaddan çıxarsınlar. Xeyr, xeyr, sən camaatımızı o mərtəbə biqeyrət, bihəya hesab etməzsən. Sən arxayın yat ki, sənin səbəbi-şəhadətini adı müslim və mömin olan heç vaxt yaddan çıxarmayacaqdır.
+
+Ey nuri-çeşmi-millət, sən məhzun olma ki, sənin ali niyyətlərin, müqəddəs xahişlərin, həyatbəxş ümidlərin əmələ gəlməyib qalacaqdır. Pəs zənn etmə ki, ermənilər səni şəhid etməklə niyyətlərinə, xahişlərinə mane oldular. Əsla, rahat yat ki, sənin hər damcı qanın yerinə sənin camaatın, sənin millətin yüz-yüz xahişini əmələ gətirəcəkdir. Yat, əziz canımız! Rahat yat ki, sənin ruhunun müəzzəb olmağına əsla razı olmayacayız. Sənin bihudə tökülmüş pak məsum qanlarından bu məmləkətdə, bu vətəni-ümumidə ixvət və məhəbbət, sülh tərəqqi və təkamül gülləri bitəcəkdir!
+
+Arxayın ol, arxayın ol ki, sən həqiqətdə ölmədin. Sən dünyadakı sağlığından daha artıq sağsan, dirisən. Bundan sonra hər saat gözümüzün önündə, qəlbimizin içindəsən. Bu barədə bizdən əmin ol! Get, get qərargahın olan ərvahi-şühədaya qavuş! Onlara de ki, “millətimin təqsirini bağışlayın. Çoxdan sizi yalnız qoymuşdular. Neçə illərdir sizə yoldaş heç kəs göndərmədilər. İndi millətim oyanıbdır, mərhəmətə gəlibdir, öz haqlarını, insan olduqlarını qanmağa başlayıbdır. Məni sizin yanınıza göndərdilər ki, millətimin bu fərəhbəxş xəbərini sizə mücdə edəm”.
+
+Ruhum Məmmədqulubəy! Xatircəm ol ki, sənin xahişlərinin hamısını yerinə gətirəcəyiz. Aşağılarda qalma, qalx yuxarılara, qalx!
+
+Yüksəl ki, yerin bu yer deyildir,
+Dünyaya gəliş hünər deyildir.
+
+Yüksəl ki, bunun da fövqü vardır,
+İnsanlığın özgə zövqü vardır.
+
+*Şua*
+
+*“Həyat” qəzeti, 22 sentyabr 1905, № 11, s. 2-3*
