@@ -59,7 +59,13 @@ function novelSplit(body: string, chapters = false): { title: string | null; bod
     if (m) { out.push({ title: m[1][0].toLocaleUpperCase('az') + m[1].slice(1).toLocaleLowerCase('az'), lines: [] }); continue; }
     out[out.length - 1].lines.push(line);
   }
-  return out.map((p) => ({ title: p.title, body: p.lines.join('\n').trim() })).filter((p) => p.body);
+  const parts = out.map((p) => ({ title: p.title, body: p.lines.join('\n').trim() })).filter((p) => p.body);
+  // A named-chapter novel's opening that is only an epigraph or subtitle goes with its first chapter, not a work of its own
+  if (chapters && parts.length > 1 && parts[0].title === null && parts[0].body.length < 1500) {
+    parts[1].body = `${parts[0].body}\n\n${parts[1].body}`;
+    parts.shift();
+  }
+  return parts;
 }
 
 export function readTranscription(text: string) {
