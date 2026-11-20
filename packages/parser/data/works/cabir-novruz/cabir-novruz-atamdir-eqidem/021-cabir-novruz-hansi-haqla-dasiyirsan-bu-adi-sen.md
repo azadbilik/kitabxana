@@ -1,0 +1,83 @@
+---
+slug: cabir-novruz-hansi-haqla-dasiyirsan-bu-adi-sen
+sourceId: kxn-1283-t75
+titleAz: Hansı haqla daşıyırsan bu adı sən…
+authorSlug: cabir-novruz
+collectionSlug: cabir-novruz-atamdir-eqidem
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: POEM
+order: 21
+sourceNote: 'https://www.kitabxana.net/files/books/file/1323753568.pdf#page=94'
+status: DRAFT
+---
+*Dünya bərqərar olandan bəri ulu insan*
+*adına ləkə gətirənlər və kölgə salanlara*
+*sonsuz nifrətlə*
+
+İnsan, səndə insanlıqdan nə qaldı ki,
+Quru adın, quru canın, quru qafan…
+O yerəcən kiçildin ki, alçaldın ki,
+Daha sənə şəkk eləyir meymun baban…
+
+Öz əlinlə tikələdin öz-özünü,
+Çox-çox ülvü dəyərlərin talan oldu…
+Vaxt var idi bəzəyirdin yer üzünü,
+Axır o da heçə döndü, yalan oldu…
+
+Laqeyidləşdin ölənlərə, itənlərə,
+Fitnələrə, qana,şərə vərdiş etdin…
+Nalələrə,fəryadlara, sitəmlərə,
+Qara-qara əməllərə vərdiş etdin…
+
+Vəhşiliyə yaxınlaşdın addım-addım,
+Qılınc ilə, nizə ilə fəxr elədin…
+Say-hesabsız savaşları sən yaratdın,
+Neytronlar, hidrogenlər kəşf elədin…
+
+Cani oldun, cəllad oldun, şeytan oldun,
+Sən düzəltdin hər cür fitnə-fəsadı, sən…
+Heç bilmirəm daha nəyin insan oldu,
+Hansı haqla daşıyırsan bu adı sən?...
+
+Bəşəriyyət parçalandı millətlərə,
+Sən ayırdın dinə görə, irqə görə…
+Parçalandı dövlətlərə, sərhədlərə,
+Bax o haqsız,o amansız fərqə görə…
+
+Heç bundan da ağır günah olarmı de,
+Çəkişmələr səngiməyir o zamandan.
+O zamandan bəşər olub doğma, ögey,
+Bir-birinin ətin yeyir o zamandan…
+
+Yer kürəsi cadar-cadar, çilik-çilik,
+O zamandan qanlar axır gündə-gündə…
+O zamandan başlanıbdır bədbəxtçilik,
+Göy üzündə, yer altında, yer üstündə…
+
+Niyə məni insan doğdun, axı, anam,
+Bu heyrətli cəhənnəmə qoydum qədəm?...
+Daş doğsaydın yaxşı idi vallahı, anam,
+Düzü insan olmağıma xəcalətəm…
+
+Dərdlər bitmir ömür sona çatanda da,
+O yanda da ağlayırlar hönkür-hönkür,
+Demə, ayrı-seçkilik var o yanda da,
+Bəlkə bəniadam olub inkir-minkir…
+
+İnsan, səndə insanlıqdan nə qaldı ki?...
+Nə ki, yaxşı şeyin vardı itirmisən…
+Görə-görə, baxa-baxa bir kor təki,
+Nəyin yoxdu, nəyin vardı itirmisən…
+
+Şahlıq quşu, taxtı-tacın itib sənin,
+Dağlar boyda güc-qüvvəni itirmisən…
+Ən amansız faciəndə odur sənin,
+Ki, insanlıq vəzifəni itirmisən…
+
+Hayıf sənə, bir də, bir də hayıf,hayıf,
+İtirmisən çox-çox ulu şakərini.
+Ya təzədən meymuna dön kökə qayıt,
+Ya da ki, bəd əməllərdən çək əlini…
+
+*1995.*

@@ -423,6 +423,16 @@ export const MISSING: Missing[] = [
   { name: 'Cəmil Əlibəyov', years: '1927–2014', era: 'thaw', branch: 'prose', note: '«Sınaq»' },
   { name: 'Aqşin Babayev', years: '1936–2020', era: 'thaw', branch: 'prose' },
   { name: 'Səyyad Aran', years: 'd. 1952', era: 'independence', branch: 'prose', note: '«Soyuq Günəş»' },
+  // Third pass (2026-11-20): names neither on the site nor above, each checked on its az.wikipedia page
+  { name: 'Şəfiqə Əfəndizadə', years: '1883–1959', era: 'mollanasreddin', branch: 'prose', note: 'İlk qadın publisistlərdən' },
+  { name: 'Aşıq Hüseyn Cavan', years: '1916–1985', era: 'south', branch: 'asiq' },
+  { name: 'Kərim Məşrutəçi Sönməz', years: 'd. 1928', era: 'south', branch: 'poetry' },
+  { name: 'Cəlal Bərgüşad', years: '1924–1996', era: 'thaw', branch: 'prose' },
+  { name: 'Şıxəli Qurbanov', years: '1925–1967', era: 'thaw', branch: 'prose', note: '«Sənsiz», «Əkizlər»' },
+  { name: 'Tofiq Mahmud', years: '1931–1997', era: 'thaw', branch: 'children' },
+  { name: 'Nurəngiz Gün', years: '1938–2014', era: 'thaw', branch: 'poetry' },
+  { name: 'Abbas Abdulla', years: '1940–2019', era: 'thaw', branch: 'poetry' },
+  { name: 'İsa İsmayılzadə', years: '1941–1997', era: 'thaw', branch: 'poetry' },
 ];
 
 // ── placement ───────────────────────────────────────────────────────────────

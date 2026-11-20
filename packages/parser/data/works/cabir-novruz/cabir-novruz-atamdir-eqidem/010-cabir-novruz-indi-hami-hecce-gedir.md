@@ -1,0 +1,86 @@
+---
+slug: cabir-novruz-indi-hami-hecce-gedir
+sourceId: kxn-1283-t64
+titleAz: İndi hamı həccə gedir
+authorSlug: cabir-novruz
+collectionSlug: cabir-novruz-atamdir-eqidem
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: POEM
+year: 1993
+order: 10
+sourceNote: 'https://www.kitabxana.net/files/books/file/1323753568.pdf#page=81'
+status: DRAFT
+---
+İndi Məkkə dəbə düşüb,
+İndi çoxu Həccə gedir…
+Yüzlər ilə lotu, düşük,
+Dəllal, oğru Həccə gedir…
+Dükandarlar say-hesabsız,
+Bazardarlar birmi,onmu?
+İçlərində bir düz tapmaz,
+Vurun mənim boynumu…
+Gedir köhnə kommunistlər,
+Gedir tazə dinpərəstlər
+Ateistlər, populistlər,
+Həccə gedir dəstə-dəstə.
+Gedir dünən var səsilə
+Allah, yoxdur ulayanlar
+Bircə tikə, bircə gilə
+Əqidəsi olmayanlar.
+Dünən sağı döyən kəslər,
+Tamam sola əyir bu gün…
+Dünən Lenin deyən kəslər,
+Ya Məhəmməd deyir bu gün…
+Xirtdəyəcən günahkar,
+Lövbər salıb o yerlərə,
+Amma min-min təmiz, naçar,
+Həsrət qalıb o yerlərə…
+Su yoluna dönüb Məkkə,
+Can qalmayıb Məfdinədə…
+Pulları da ətək-ətək,
+Axıb gedir xəzinəmiz…
+Bu keçmişdən bizə miras,
+Babalardan bizə qalıb…
+Həccə getmək təzə deyil,
+O vaxtlar da gedərdilər,
+
+Gedərdilər tək-tək, az-az,
+Mömin, allah adamları…
+Gedərdilər axşam-səhər…
+Gedərdilər gündüz-gecə…
+Pay-piyada gedərdilər,
+Mədinəyə, Məkkəyəcən,
+Canlarını üzə-üzə.
+İndi isə, indi isə,
+Üç saata yetişirlər,
+Məhəmmədin hüzuruna…
+«Boinq»lərdə ötüşürlər,
+Məst olurlar «Limuzin»də
+Sür papaqlar tikdirirlər,
+Uzun saqqal buraxırlar…
+Videolara çəkdirirlər,
+Özlərini bu cahillər…
+İbadət eyləyən yerdə…
+Bir yol da çəkdirəydilər
+Ticarət eyləyən yerdə…
+Ömrü boyu kələk ilə
+Yahayan bu fırıldaqlar…
+Bir Məkkəyə getmək ilə,
+Guya ki, saf olacaqlar…
+Keyflərini xoş edirlər,
+Bu nə iman, bu nə dindi?..
+Dünən araq nuş edənlər,
+Abu-zəmzəm vurur indi…
+Guya bol-bol içirlər ki,
+Cənnət düşə paylarına…
+Bir günahsız mələk təki,
+Qayıdırlar evlərinə…
+Bunlar hardan göyəriblər,
+Bunlar necə həccə gedir…
+Soruşan yox bu həriflər,
+Hansı pula, xərcə gedir?...
+Bu nə oyun, nə mərəkə,
+Bu nə küfr, nə ənənə…
+Qoyma, qoyma ulu Məkkə,
+Murdar əllər deyə sənə…
