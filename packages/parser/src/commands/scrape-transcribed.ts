@@ -145,8 +145,20 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       if (order.has(slug)) return;
       order.set(slug, 0);
       console.log(`  ${slug}  ${titleAz}`);
-      if (!opts.dryRun) writeCollectionMd({ slug, titleAz, authorSlug: cfg.slug, genre, originalLang: 'AZ_LATIN', order: ++collOrder, status: 'DRAFT' });
+      ++collOrder;
+      // A collection the author already has keeps its place among the others
+      const existing = path.join(DATA_DIR, 'collections', cfg.slug, `${slug}.md`);
+      const kept = fs.existsSync(existing) ? Number(fs.readFileSync(existing, 'utf-8').match(/^order: (\d+)$/m)?.[1]) || undefined : undefined;
+      if (!opts.dryRun) writeCollectionMd({ slug, titleAz, authorSlug: cfg.slug, genre, originalLang: 'AZ_LATIN', order: kept ?? collOrder, status: 'DRAFT' });
     };
+    // Files an earlier run wrote are rewritten from scratch: renumbered works would otherwise stay twice
+    if (!opts.dryRun && fs.existsSync(authorDir)) {
+      for (const f of fs.readdirSync(authorDir, { recursive: true }) as string[]) {
+        if (!f.endsWith('.md')) continue;
+        const id = fs.readFileSync(path.join(authorDir, f), 'utf-8').split('\n---\n', 1)[0].match(/^sourceId: (.+)$/m)?.[1];
+        if (id && own.some((o) => id.startsWith(o))) fs.unlinkSync(path.join(authorDir, f));
+      }
+    }
     const writeIn = (book: TranscribedBook) => (slug: string, sourceId: string, titleAz: string, coll: string, genre: Genre, spread: number, body: string, year?: number) => {
       const n = (order.get(coll) ?? 0) + 1;
       order.set(coll, n);
@@ -171,7 +183,30 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
     works.forEach((w, k) => {
       if (book.sections[at + 1]?.first === w.title) section = book.sections[++at];
       if (!section) { console.warn(`  Before any section, left out: ${w.title}`); return; }
-      if (book.skip?.includes(w.title)) { console.log(`    (skipped: ${w.title})`); return; }
+      if (book.skip?.includes(w.title)) {
+        console.log(`    (skipped: ${w.title})`);
+        // The site's copy from another source, when it sits in this section's collection, takes
+        // the skipped work's place in book order (a writer's stories from Wikisource among the book's)
+        const dir = path.join(DATA_DIR, 'works', cfg.slug, section.collection);
+        const other = fs.existsSync(dir)
+          ? fs.readdirSync(dir).find((f) => {
+            const fm = fs.readFileSync(path.join(dir, f), 'utf-8').split('\n---\n', 1)[0];
+            const title = fm.match(/^titleAz: ['"]?(.+?)['"]?$/m)?.[1];
+            return title === w.title && !fm.match(/^sourceId: (.+)$/m)?.[1].startsWith(sourceKey(book));
+          })
+          : undefined;
+        if (other) {
+          collection(section.collection, section.titleAz, section.genre);
+          const n = (order.get(section.collection) ?? 0) + 1;
+          order.set(section.collection, n);
+          if (!opts.dryRun) {
+            const text = fs.readFileSync(path.join(dir, other), 'utf-8').replace(/^order: \d+$/m, `order: ${n}`);
+            fs.unlinkSync(path.join(dir, other));
+            fs.writeFileSync(path.join(dir, `${String(n).padStart(3, '0')}-${other.replace(/^\d{3}-/, '')}`), text);
+          }
+        }
+        return;
+      }
       // The date printed under a work's end ("*1890*", "*1898-1900*", "*Dekabr, 1973*", "*İyun – avqust, 1970*") is its year
       const month = '(?:yanvar|fevral|mart|aprel|may|[iİ]yun|[iİ]yul|avqust|sentyabr|oktyabr|noyabr|dekabr)';
       const dated = w.body.match(new RegExp(`\\n\\*(?:${month}(?:\\s*[-–]\\s*${month})?,?\\s*)?(\\d{4})(?:\\s*[-–]\\s*\\d{2,4})?\\*$`, 'iu'));
