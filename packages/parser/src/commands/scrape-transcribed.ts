@@ -17,6 +17,8 @@ export interface TranscribedSection {
   layout: Layout;
   /** A novel in parts («Proloq», «Birinci hissə», «Epiloq» as `### …`): one work per part; other `###` headings stay inside */
   novel?: boolean;
+  /** A novel in named chapters: one work per `### …` heading (other headings and `**…**` lines stay inside) */
+  chapters?: boolean;
   /** Numbered short pieces ("### 17"): one work each, "Balaca mütəfərriqələr 17" */
   pieces?: boolean;
   /** Untitled poems set apart by "* * *" (a divan's ghazals): one work each, titled by its first line */
@@ -44,9 +46,15 @@ const sourceKey = (book: TranscribedBook) => book.sourceKey ?? (book.halle ? `ha
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
 /** A novel cut at its part headings («### Proloq», «### Birinci hissə», «### Epiloq»); text before the first is the novel's opening */
-function novelSplit(body: string): { title: string | null; body: string }[] {
+function novelSplit(body: string, chapters = false): { title: string | null; body: string }[] {
   const out: { title: string | null; lines: string[] }[] = [{ title: null, lines: [] }];
   for (const line of body.split('\n')) {
+    if (chapters) {
+      const c = line.match(/^### (.+?)\s*$/);
+      if (c) { out.push({ title: c[1], lines: [] }); continue; }
+      out[out.length - 1].lines.push(line);
+      continue;
+    }
     const m = line.match(/^### ((?:\S+ hissə|Proloq|Epiloq))\.?$/i);
     if (m) { out.push({ title: m[1][0].toLocaleUpperCase('az') + m[1].slice(1).toLocaleLowerCase('az'), lines: [] }); continue; }
     out[out.length - 1].lines.push(line);
@@ -182,7 +190,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
         });
         return;
       }
-      const split = section.novel ? novelSplit(body) : parts(body, section.layout);
+      const split = section.novel || section.chapters ? novelSplit(body, section.chapters) : parts(body, section.layout);
       let base = shortSlug(`${cfg.slug}-${w.title.replace(/ \{fa\}$/, '')}`);
       // A play named after the author's novel ("Dumanlı Təbriz"): its own collection, not the novel's
       if (split.length > 1 && order.has(base)) base = `${base}-pyes`;
