@@ -30,6 +30,8 @@ PROMPTS = {
     "letter for letter, in Latin letters only (never switch to Cyrillic, whatever the words are); do NOT modernise the spelling. Write its special letters as: the letter like a Cyrillic з → 'ʒ'; the dotless i "
     "with a hook (ɩ/ь) → 'ı'; o with a bar (ɵ) → 'ɵ'; the q-like letter with a hook at the bottom (ƣ) → 'ƣ'; schwa → 'ə'. "
     + LAYOUT + " Skip the library footer.",
+    "fas": "This is a page of a Persian book printed in the Persian (Arabic) script. Transcribe ALL the text exactly as printed, "
+    "letter for letter (keep the zero-width non-joiner in compounds like می‌شود, keep ی ک گ پ چ ژ as printed). " + LAYOUT,
     "aze_arab": "This is a page of a 1920s Azerbaijani book printed in the Arabic script. Transcribe ALL the text exactly as printed, "
     "letter for letter, in Arabic script (keep گ ك ڭ ی و as printed). " + LAYOUT + " Skip the library footer.",
     "aze_arab_latin": "This is a page of a 1920s Azerbaijani (Turkic) book printed in the Arabic script. Read it and write it out in "
