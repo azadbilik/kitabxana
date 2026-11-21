@@ -151,8 +151,10 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
       ++collOrder;
       // A collection the author already has keeps its place among the others
       const existing = path.join(DATA_DIR, 'collections', cfg.slug, `${slug}.md`);
-      const kept = fs.existsSync(existing) ? Number(fs.readFileSync(existing, 'utf-8').match(/^order: (\d+)$/m)?.[1]) || undefined : undefined;
-      if (!opts.dryRun) writeCollectionMd({ slug, titleAz, authorSlug: cfg.slug, genre, originalLang: 'AZ_LATIN', order: kept ?? collOrder, status: 'DRAFT' });
+      const prev = fs.existsSync(existing) ? fs.readFileSync(existing, 'utf-8') : '';
+      const kept = Number(prev.match(/^order: (\d+)$/m)?.[1]) || undefined;
+      const year = Number(prev.match(/^year: (\d+)$/m)?.[1]) || undefined;
+      if (!opts.dryRun) writeCollectionMd({ slug, titleAz, authorSlug: cfg.slug, genre, originalLang: 'AZ_LATIN', ...(year && { year }), order: kept ?? collOrder, status: 'DRAFT' });
     };
     // Files an earlier run wrote are rewritten from scratch: renumbered works would otherwise stay twice
     if (!opts.dryRun && fs.existsSync(authorDir)) {

@@ -1,7 +1,7 @@
 ---
 slug: mesihi-bu-neti-resuli-muctebadur
 sourceId: wikisource-az-11559
-titleAz: 'Bu, nəti-rəsuli-müctəbadur'
+titleAz: 'Bu, nə’ti-rəsuli-müctəbadur'
 authorSlug: mesihi
 collectionSlug: mesihi-verqa-ve-gulsa
 originalLang: AZ_LATIN

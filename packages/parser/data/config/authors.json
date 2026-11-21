@@ -564,7 +564,10 @@
     "nameEn": "Shah Ismail Khatai",
     "type": "POET",
     "period": "XV-XVI əsr",
-    "writingLangs": ["AZ_ARABIC", "FA"],
+    "writingLangs": [
+      "AZ_ARABIC",
+      "FA"
+    ],
     "wikipedia": {
       "az": "I İsmayıl",
       "ru": "Исмаил I"
@@ -576,15 +579,83 @@
         "Gəldim (Şah İsmayıl Xətai)": "xetai-geraylilar",
         "Bax, nəzər eylə də həmən arif оl.": "xetai-varsagi",
         "Həqiqət bir gizli sirdir": "xetai-muxtelif-seirler",
-        "Qoşmalar (Şah İsmayıl Xətayi)": {"collection": "xetai-qosmalar", "separator": "***"}
+        "Qoşmalar (Şah İsmayıl Xətayi)": {
+          "collection": "xetai-qosmalar",
+          "separator": "***"
+        }
       },
       "az": "Şah İsmayıl Xətai"
     },
     "collections": [],
     "met": {
-      "names": ["Shah Isma'il I", "Shah Isma'il", "Khata'i"],
-      "queries": ["Shah Isma'il", "Khata'i"]
-    }
+      "names": [
+        "Shah Isma'il I",
+        "Shah Isma'il",
+        "Khata'i"
+      ],
+      "queries": [
+        "Shah Isma'il",
+        "Khata'i"
+      ]
+    },
+    "transcribed": [
+      {
+        "file": "xetai-eserleri.md",
+        "preslib": "D3rhE0bt",
+        "sections": [
+          {
+            "first": "Xubların sultanısan aləmdə, var, xan ol, yürü",
+            "collection": "xetai-murebbeler",
+            "titleAz": "Mürəbbelər",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Tərcibənd",
+            "collection": "xetai-tercibendler",
+            "titleAz": "Tərcibəndlər",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Ya Əli, canım sana olsun fəda",
+            "collection": "xetai-tuyuglar",
+            "titleAz": "Tuyuğlar",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Ta badeyi-xoşgüvar var, ey saqi",
+            "collection": "xetai-rubailer",
+            "titleAz": "Rübailər",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Eşq dəryasında qəvvas olmasan mərdanəvar",
+            "collection": "xetai-qiteler",
+            "titleAz": "Qit’ələr",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Nəsihətnamə",
+            "collection": "xetai-mesneviler",
+            "titleAz": "Məsnəvilər",
+            "genre": "POEM",
+            "layout": "verse"
+          },
+          {
+            "first": "Dəhnamə",
+            "collection": "xetai-dehname",
+            "titleAz": "Dəhnamə",
+            "genre": "POEM",
+            "layout": "verse",
+            "chapters": true
+          }
+        ]
+      }
+    ]
   },
   {
     "slug": "vaqif",
@@ -5647,7 +5718,30 @@
     "wikisource": {
       "az": "Rüknəddin Məsud Məsihi"
     },
-    "collections": []
+    "collections": [],
+    "transcribed": [
+      {
+        "file": "mesihi-verqa-ve-gulsa.md",
+        "preslib": "yXG71qiY",
+        "sections": [
+          {
+            "first": "Rübailər",
+            "collection": "mesihi-verqa-ve-gulsa",
+            "titleAz": "Vərqa və Gülşa",
+            "genre": "POEM",
+            "layout": "verse"
+          }
+        ],
+        "skip": [
+          "Rübailər",
+          "Bəyan eylə bu, qaliblə kitabum həmçənin xəlqə",
+          "Tovhiddürür bu bir qəsidə",
+          "Bu, bir bürhan durur xəlqə vücudi-vacibi-həqdən",
+          "Bu, nə’ti-rəsuli-müctəbadur",
+          "Ey fələk, netdim həmişə gözləyib azarımı"
+        ]
+      }
+    ]
   },
   {
     "slug": "salman-mumtaz",
@@ -6018,5 +6112,6 @@
   {"slug": "vaqif-bayatli-oder", "nameAz": "Vaqif Bayatlı Odər", "nameRu": "Вагиф Баятлы Одер", "nameEn": "Vagif Bayatly Oder", "type": "POET", "period": "XX-XXI əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Vaqif Bayatlı Odər", "ru": "Одер, Вагиф Баятлы", "en": "Vagif Bayatly Oner"}, "wikidata": "Q7908484", "collections": [], "transcribed": [{"file": "vaqif-bayatli-oder-yupyumru-bir-esq-ile.md", "kitabxana": {"id": 301, "pdf": "1251549278.pdf"}, "sections": [{"first": "Allaha", "collection": "vaqif-bayatli-oder-yupyumru-bir-esq-ile", "titleAz": "Yupyumru bir eşq ilə", "genre": "POEM", "layout": "verse"}, {"first": "Ağıllılar sizə göründükləri qədər ağıllı", "collection": "vaqif-bayatli-oder-agillilarin-ve-agilsizlarin-qoyduqlari-senzuradan", "titleAz": "Ağıllıların və ağılsızların qoyduqları senzuradan keçməyən, kəsilən şeirlər", "genre": "POEM", "layout": "verse"}]}]},
   {"slug": "memmed-ismayil", "nameAz": "Məmməd İsmayıl", "nameRu": "Мамед Исмаил", "nameEn": "Mammad Ismayil", "type": "POET", "period": "XX-XXI əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Məmməd İsmayıl", "ru": "Мамед Исмаил"}, "wikidata": "Q12842729", "collections": [], "transcribed": [{"file": "memmed-ismayil-yoxun-varligi.md", "kitabxana": {"id": 1611, "pdf": "1351957154.pdf"}, "sections": [{"first": "Tanrı bilər", "collection": "memmed-ismayil-haqdan-gelen-sairin-sesi-qurbetden-gelir", "titleAz": "Haqdan gələn şairin səsi qürbətdən gəlir", "genre": "POEM", "layout": "verse"}, {"first": "Uzun bir cümlədir vətən torpağı", "collection": "memmed-ismayil-vetenin-butun-yollari-axirda-qurbete-cixdi", "titleAz": "Vətənin bütün yolları axırda qürbətə çıxdı", "genre": "POEM", "layout": "verse"}, {"first": "Çöldə barmağıma tikan batanda…", "collection": "memmed-ismayil-tabut-qapagindan-qeyri-butun-qapilar-qapali", "titleAz": "Tabut qapağından qeyri bütün qapılar qapalı", "genre": "POEM", "layout": "verse"}, {"first": "Yol darıxdığı yerdə", "collection": "memmed-ismayil-tebiet-talede-oxsayib-bize", "titleAz": "Təbiət taledə oxşayıb bizə", "genre": "POEM", "layout": "verse"}, {"first": "Qəm yemə dəli gönül", "collection": "memmed-ismayil-bir-de-seni-sevsem-sene-sevilsem", "titleAz": "Bir də səni sevsəm sənə sevilsəm", "genre": "POEM", "layout": "verse"}, {"first": "Kimi aldadırsan", "collection": "memmed-ismayil-qan-axan-eline-xina-qoyan-xalq-bu-xalq-cepik-calma", "titleAz": "Qan axan əlinə xına qoyan xalq bu xalq çəpik çalmaq öyrənir hələ", "genre": "POEM", "layout": "verse"}, {"first": "Tərəddüdlər", "collection": "memmed-ismayil-illerin-o-basindan-oxucu-yaddasindan", "titleAz": "İllərin o başından oxucu yaddaşından", "genre": "POEM", "layout": "verse"}]}]},
   {"slug": "qulamrza-sebri-tebrizi", "nameAz": "Qulamrza Səbri Təbrizi", "nameRu": "Гуламреза Сабри Тебризи", "nameEn": "Gholamreza Sabri Tabrizi", "type": "POET", "period": "XX-XXI əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Qulamrza Səbri Təbrizi"}, "wikidata": "Q12844540", "collections": [], "transcribed": [{"file": "qulamrza-sebri-tebrizi-sahilsiz-deniz.md", "kitabxana": {"id": 1349, "pdf": "1328549402.pdf"}, "sections": [{"first": "Ön söz", "collection": "qulamrza-sebri-tebrizi-seirler", "titleAz": "Şeirlər", "genre": "POEM", "layout": "verse"}, {"first": "Ruhun tüğyanı", "collection": "qulamrza-sebri-tebrizi-poema", "titleAz": "Poema", "genre": "POEM", "layout": "verse"}]}]},
-  {"slug": "vuqar-ehmed", "nameAz": "Vüqar Əhməd", "nameRu": "Вугар Ахмед", "nameEn": "Vugar Ahmad", "type": "POET", "period": "XX-XXI əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Vüqar Əhməd", "ru": "Ахмед, Вугар Микаил оглы", "en": "Vugar Ahmad"}, "wikidata": "Q12847356", "collections": [], "transcribed": [{"file": "vuqar-ehmed-veten.md", "kitabxana": {"id": 1596, "pdf": "1350673589.pdf"}, "sections": [{"first": "Xəzər", "collection": "vuqar-ehmed-seirler", "titleAz": "Şeirlər", "genre": "POEM", "layout": "verse"}]}]}
+  {"slug": "vuqar-ehmed", "nameAz": "Vüqar Əhməd", "nameRu": "Вугар Ахмед", "nameEn": "Vugar Ahmad", "type": "POET", "period": "XX-XXI əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Vüqar Əhməd", "ru": "Ахмед, Вугар Микаил оглы", "en": "Vugar Ahmad"}, "wikidata": "Q12847356", "collections": [], "transcribed": [{"file": "vuqar-ehmed-veten.md", "kitabxana": {"id": 1596, "pdf": "1350673589.pdf"}, "sections": [{"first": "Xəzər", "collection": "vuqar-ehmed-seirler", "titleAz": "Şeirlər", "genre": "POEM", "layout": "verse"}]}]},
+  {"slug": "miskin-veli", "nameAz": "Miskin Vəli", "nameRu": "Мискин Вели", "nameEn": "Miskin Vali", "type": "POET", "period": "XX əsr", "writingLangs": ["AZ_LATIN"], "wikipedia": {"az": "Miskin Vəli"}, "wikidata": "Q16370391", "collections": [], "transcribed": [{"file": "miskin-veli-seirler-dastanlar.md", "preslib": "ihuepfx", "sections": [{"first": "Bilginən", "collection": "miskin-veli-ustadnameler", "titleAz": "Ustadnamələr", "genre": "POEM", "layout": "verse"}, {"first": "Eylər", "collection": "miskin-veli-qosmalar", "titleAz": "Qoşmalar", "genre": "POEM", "layout": "verse"}, {"first": "Mənim möhnətim", "collection": "miskin-veli-qosayarpaq-qosmalar", "titleAz": "Qoşayarpaq qoşmalar", "genre": "POEM", "layout": "verse"}, {"first": "Boylana-boylana", "collection": "miskin-veli-geraylilar", "titleAz": "Gəraylılar", "genre": "POEM", "layout": "verse"}, {"first": "Yenə", "collection": "miskin-veli-tecnisler", "titleAz": "Təcnislər", "genre": "POEM", "layout": "verse"}, {"first": "Görüncə", "collection": "miskin-veli-cigali-tecnisler", "titleAz": "Cığalı təcnislər", "genre": "POEM", "layout": "verse"}, {"first": "Yaxşı", "collection": "miskin-veli-dodaqdeymez-cigali-tecnis", "titleAz": "Dodaqdəyməz cığalı təcnis", "genre": "POEM", "layout": "verse"}, {"first": "Qədər", "collection": "miskin-veli-geder-gelmez-cigali-tecnis", "titleAz": "Gedər-gəlməz cığalı təcnis", "genre": "POEM", "layout": "verse"}, {"first": "Azaldı", "collection": "miskin-veli-dodaqdeymezler", "titleAz": "Dodaqdəyməzlər", "genre": "POEM", "layout": "verse"}, {"first": "Boğaz", "collection": "miskin-veli-muxemmesler", "titleAz": "Müxəmməslər", "genre": "POEM", "layout": "verse"}, {"first": "Yaxşıdı", "collection": "miskin-veli-qosayarpaq-muxemmesler", "titleAz": "Qoşayarpaq müxəmməslər", "genre": "POEM", "layout": "verse"}, {"first": "Gözəl", "collection": "miskin-veli-qosayarpaq-cigali-muxemmesler", "titleAz": "Qoşayarpaq cığalı müxəmməslər", "genre": "POEM", "layout": "verse"}, {"first": "Gözlə-gözlə sən", "collection": "miskin-veli-divaniler", "titleAz": "Divanilər", "genre": "POEM", "layout": "verse"}, {"first": "Gədə", "collection": "miskin-veli-dodaqdeymez-divani", "titleAz": "Dodaqdəyməz divani", "genre": "POEM", "layout": "verse"}, {"first": "Gəldim", "collection": "miskin-veli-vucudname", "titleAz": "Vücudnamə", "genre": "POEM", "layout": "verse"}, {"first": "Bayatılar", "collection": "miskin-veli-bayatilar", "titleAz": "Bayatılar", "genre": "POEM", "layout": "verse"}, {"first": "Dolanır", "collection": "miskin-veli-qifilbendler", "titleAz": "Qıfılbəndlər", "genre": "POEM", "layout": "verse"}, {"first": "Gəlmədin", "collection": "miskin-veli-deyismeler-yazismalar", "titleAz": "Deyişmələr, yazışmalar", "genre": "POEM", "layout": "verse"}, {"first": "Miskin Vəlinin Canbağça səfəri", "collection": "miskin-veli-dastan", "titleAz": "Dastan", "genre": "PROSE", "layout": "prose"}, {"first": "Xəstə Qasımın Dağıstan səfəri", "collection": "miskin-veli-miskin-velinin-dilinden-qeleme-alinmis-dastanlar", "titleAz": "Miskin Vəlinin dilindən qələmə alınmış dastanlar", "genre": "PROSE", "layout": "prose"}, {"first": "Görmüşəm", "collection": "miskin-veli-elave-geraylilar", "titleAz": "Əlavə gəraylılar", "genre": "POEM", "layout": "verse"}, {"first": "Aşıx Məmmədlə Aşıx Vəlinin deyişməsi", "collection": "miskin-veli-elave-deyismeler", "titleAz": "Əlavə deyişmələr", "genre": "POEM", "layout": "verse"}]}]}
 ]
