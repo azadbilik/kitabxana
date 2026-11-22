@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 7
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=216
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=108
 status: DRAFT
 ---
 Anası işdən gec qayıdanda Elçin nənəsinin yanında yatırdı. Gülsabah arvad axşamdan yer salar, sonra su qızdırıb bütün günü həyətdə, evdə ayaqyalın gəzən nəvəsinin qapqara qılçalarını yuyar, düz on tamamda isə onu yatmağa məcbur edərdi. Elçin çox çalışardı ki, yatmaq vaxtını bir az uzatsın, amma Gülsabah arvad nə onun yalvarışlarına,, nə də min həlləm-qəlləmliklə uydurduğu bəhanələrinə baxardı. “Sus, saat on oldu, demək yatmaq vaxtıdır. Vəssalam, şüttamam...” Elçin qaş-qabağını sallar, öz-özünə deyinər, küsdüyünü nənəsinə sezdirmək üçün onun suallarına cavab verməz, nəhayət, əlacsız qalıb düz on tamamda yorğan-döşəyə uzanardı.

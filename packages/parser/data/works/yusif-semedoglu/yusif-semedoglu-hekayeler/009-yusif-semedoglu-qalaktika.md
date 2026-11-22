@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 9
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=244
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=122
 status: DRAFT
 ---
 Krımdan, astrofiziklərin elmi sessiyasından qayıtdığım gündən birinci dəfə idi ki, axşamüstü evdən çıxırdım.

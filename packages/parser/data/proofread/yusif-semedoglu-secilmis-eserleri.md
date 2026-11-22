@@ -1,28 +1,28 @@
 @@ 001
 
+@@ 002
+
+@@ 002
+
 @@ 003
+
+@@ 003
+
+@@ 004
 
 @@ 004
 
 @@ 005
 
-@@ 006
-
-@@ 007
-
-@@ 008
-
-@@ 009
-
-@@ 010
+@@ 005
 
 // Roman
 
 # Qətl günü
 
-@@ 011
+@@ 006
 
-@@ 012
+@@ 006
 
 Gözümün ağı-qarası iki qızıma – Mehribana və Humaya
 
@@ -40,13 +40,13 @@ Hələ ulduzlar təkəmseyrəkdi – boz səmada bozumtul işıq vardı, gah öl
 
 Qoşa vələsdən uzaqlarda, dağ döşündən başlanan meşənin seyrəkliyində, ağacların arasında bir qoca canavar qulaqlarını şəkləyib şöngümüşdü. Canavarın selikli burnu iy almışdı – dəmir iyi, qan iyi. Amma canavar da qorxu içində idi, ürəyinə nəsə dammışdı, bilirdi ki, ikiayaqlı bəndələrin düşərgə saldıqları yerə bu gün yavuq düşmək olmaz: ordan qarışıq səslər gəlirdi, dəmir dəmirə dəyirdi, elə bil kimsə zindanda çəkic çalırdı, at nallayırdılar nədir, amma bütün bu qarmaqarışıq səslərdə vahimə və xəbərdarlıq vardı – nə canavar, nə ayı, heç quş da quşluğu ilə gərək bu gün ora yaxın düşməyəydi, çünki bu gün Baba Kahanın zülmətində nəsə başqa bir əhvalat baş verməli idi – külək bütün aləmin, daşın, torpağın, göylərin, ulduzların qəzəbini canına hopdurmuşdu, dünyanın ikiayaqlılarına hədə göndərirdi: gəlirəml rəm! Gəlirəm ki, haqq-hesab çəkəm, gəlirəm ki, görüm bu ikiayaqlı, dəmir libaslı, nizəli-qalxanlı, aylarla su üzü görməyən, kirdən-pasdan sifətləri qaralıb mis rənginə çalan bu ikiayaqlı şeytanlar niyə belə
 
-@@ 013
+@@ 007
 
 >>qudurublar? Gəlirəm ki, yuxusuz gözlərdəki kinin, hiddətin səbəbindən agah olam, qaysaq bağlamış dodaqların arasından çıxan tüpür söyüşlərin mənasını anlayam, bu payız gününün sazağında çiyin-çiyinə verib dayanmış, çadırların həndəvərində oturmuş, yorğunluqdan su qaynatmağa da taqətləri qalmamış, əti çiy-çiy yeyən, sonra qana bulaşmış dodaqlarının seliyini sifətlərinə yayan ikiayaqlı bəndələr bu bəlalı dünyadan nə istəyirlər! Gəlirəm ki, düşərgənin lap yaxınlığında meyitləri üst-üstə qalayıb, çürüyən cəsədlərin üfunətini hiss etməyən, döyüş yoldaşlarını basdırmağa belə gücü qalmayan, günəş işığından gizlənən bu ikiayaqlı qanadsız yarasalar nə vaxt qandan doyacaqlar?.. Amma hələ küləyin gəlməyinə çox vardı. Həm mənzil uzaq idi, həm də arada dağlar, dərələr, ormanlar vardı. Küləyin yolu uzundu.
 
 Canavarın burun pərələri titrəyirdi, heyvan qan iyi almışdı, amma bu iydə nəsə başqa bir şey vardı: ac heyvanın iştahası küsmüşdü. Tilsimlənmiş kimi yerindən də tərpənə bilmirdi, tükü tökülüb nazilmiş quyruğunu böyrünə qısıb mat-mat ətrafına baxırdı, arxasındakı meşənin qalınlıqlarında uzaq küləyin qopardığı hənirtini dinləyə-dinləyə yadına salmaq istəyirdi ki, görəsən bu qarmaqarışıq, ancaq tanış səsləri əvvəllər harda və haçan eşitmişdi? Və bu qan iyindən niyə başı gicəllənir?.. Canavar bir də yan-yörəsinə baxdı, ucları saralmış otların arasında vurnuxan dozanqurduları gördü, bir də bir əqrəb cəsədi gördü. Dozanqurdular əqrəbin qarnına daraşmışdılar. Canavar yadına nəsə yaxşı bir şey salmaq istədi. Yeddi günbatan əvvəl, sinəsindən yaralanmış, torpağın üstündə çapalayan turacı xatırladı... Oxqay! Xudaya, necə ləzzətlə quşu parçalayıb yemişdi: qorxusuz, çənəsinə güc verə-verə, arxayın-arxayın. Çünki yeddi günbatan əvvəl bu böyük meşədə, deyəsən, canavardan savayı bir Allah heyvanı qalmamışdı – arılar, çaqqallar, cavan canavarlar dəmir libaslı ikiayaqlı bəndələr bu tərəflərdə məskən salandan sonra meşəni tərk etmişdilər. Düşərgənin yaxınlığında bu payız axşamı saralıb-qızaran meşədə indi, deyəsən, elə bu qoca canavar qalmışdı. Meşənin bu gün yeganə ağası bu canavar idi. Baba Kahadan gələn xəbərdarlıq olmasaydı – canavar tez-tez uzaqdakı vələsin kəlləsinə qorxa-qorxa baxırdı – arxasındakı meşədə vahiməli hənirti eşitməsəydi, beləcə, burda oturub, ordan-burdan fikirləşərdi: bəlkə, Allahın yazığı gəlib, bilmək olmaz bu dünyanın işlərini, bir dənə də turac ona yetirərdi. Canavara nə lazımdı ki?..
 
-@@ 014
+@@ 007
 
 Həftədə bircə kərə qarın dolusu yemək və can rahatlığı. Qarın ac olanda can rahatlığı da olmur. Bu sarıdan ikiayaqlıların baxtı gətirib: ac olanda bir-birilərinə şirin nağıllar danışırlar. Ələlxüsus, onların pad-şahları – arıq, çəlimsiz, gözlərindən əqrəb kini yağan, dişləri çürümüş kişi zərli-naxışlı xələtinə bürünüb çadırından çıxanda ac sərbazlarına elə gözəl-gözəl və şirin sözlər deyir ki! Səbir edin, qarnımız ac olsa da, başımız üzərində Allah var, əməllərimiz haqdır, bu son mərhələni də keçək, yeməyiniz o qədər bol olacaq ki, o qədər yeyəcəksiniz ki, lap kişilikdən düşənə qədər. Atınız bol olacaq, libaslarınız zərli-baftalı, dünyanın ən gözəl qadınlarını ayaqlarınız altına atacam!.. Doğrudan, bu ikiyaxıqlarda sehrli bir hikmət var: şirin söz eşidəndə qarınları doyur, daha aclıqdan şikayət eləmirlər. Bir yerə yığışıb, padşahlarını dövrəyə alıb qışqırırlar: eşq olsun, eşq olsun! Sonra diz üstə çöküb gözəgörünməzə yalvarırlar: xudaya, sən bizim ömrümüzdən kəsib hökmdarın ömrünə çala!..
 
@@ -58,7 +58,7 @@ Düşərgədə tonqalları alışdırmağa başlamışdılar. Bir-ikisinin ətra
 
 Nizəli-qalxanlı adamlar ikibir-üçbir geniş düşərgənin müxtəlif səmtlərindən tonqallara sarı gəlirdilər, yaxınlaşıb dururdular, uzaqlardakı hənirti-xışıltını dinləyirdilər. Bu nizəli-qalxanlı adamlar dünyanın bütün məşəqqətlərinə dözməyə hazırdılar: ağcaqanada, at milçəyinə, ilana-əqrəbə – nə olur olsun, “uf” da deməzdilər. Bircə o
 
-@@ 015
+@@ 008
 
 >>külək əsməyəydi. Keçən dəfə, iki il bundan əqdəm, həmin bu yerdə düşərgə salıb yürüşə hazırlaşanda Baba Kahadakı külək güc yığıb bura şığımışdı – ilahi, özün kömək ol, ilahi, bu müsibətdən yazıq bəndələrini özün hifz elə! Şığımışdı – qəfil ildırım kimi, yanar dağ püskürtüsü kimi, arxadan kürəyin ortasına sancılan nizə ağrısı kimi şığımışdı, havanı qamçılaya-qamçılaya, qantarğaları gəmirib ağzı köpüklənən atları şahə qaldıra-qaldıra, zəlzələ uğultusu ilə, torpaqda açdığı dərin şırımlarda sərbazları yaraqlı-yasaqlı basdıra-basdıra və göydə uçan quşların qanadlarını qıra-qıra şığımışdı. O zaman baş münəccim hökmdarın çadırında, dəvə yunundan toxunmuş kilimin üstündə diz üstə çöküb, başını yerə vura-vura çığırmışdı: “Hökm-dar, əmr et, əmr et, ordu geri qayıtsın, tanrının bizə qəzəbi tutub!” Hökm-dar, qorxudan gözləri bərəlmiş, dişləri bir-birinə dəyən münəccimi belə görəndə özü vahiməyə düşmüşdü. Hələ üstəlik çadırın küləyin həmlələrinə çox davam gətirə bilməyəcəyindən qorxub, təlaş içində eşiyə çıxmışdı, çıxan kimi də yıxılmasın deyə, iri bir ağacın gövdəsindən bərk-bərk yapışmışdı. Hələ ayaq üstə durmağa tutarı qalmış bir neçə sərbaz hökmdarı bu vəziyyətdə görüb, tez onu dövrəyə almışdı. Hökmdar, gözləri qarşısında açılan mənzərəyə baxa-baxa ucadan çığırmışdı: “Bu, tanrının qəzəbi deyil, şeytanın əməlidir!” Amma dediyini nə özü eşitmişdi, nə də onu dövrəyə alıb dayanmış sərbazları... Çox sonra, gecənin zil qaranlığı düşərgəni görünməz edəndən sonra, külək gücdən düşüb Baba Kahadakı yatağına çəkiləndən sonra, tələm-tələsik yenidən qalanmış tonqalların işığında qıç olub bir-birinə qarışmış adam və at cəsədləri görmüşdü. Atların da, adamların da ağzından yaşıl köpük axırdı, atların da, adamların da gözləri açıq qalmışdı və hər gözdə alma boyda bir ulduzun əksi parlayıb yanırdı. Göydə isə bircə ulduz da qalmamışdı. Münəccim yerə yıxılıb hökmdarın ayaqlarını qucaqlamışdı, hönkür-hönkür ağlamışdı.
 
@@ -68,13 +68,13 @@ Hökm-darın çadırından cüssəli bir sərbaz çıxdı, keşikçilərdən bir
 
 İki iri tonqalın odunu hazırlandı. Nizəli-qalxanlı adamlardan iki dəstə ayrıldı, hər dəstədə on nəfər. Hər dəstə düşərgənin ayağından, taxıl və sursat saxlanan yerdən sürüyə-sürüyə bir çən gətirib,
 
-@@ 016
+@@ 008
 
 >>tonqalların üzərinə qaldırdı, torpağa basdırılmış dayaqların iri dəmir qarmaqlarına keçirdi. Sonra su daşındı, çənlər doldu, tonqallara od vuruldu. Quru odunlar, od intizarında imiş kimi, birdən alışdı, od, iki nəhəng əjdaha 4111 təki qıvrıla-qıvrıla yuxarı qalxıb, çənlərin altını yaladı... Bir azdan su qaynayacaqdı, su qaynayandan sonra onu mis parçalarla hökmdarların çadırına daşıyacaqdılar, orada üçüncü çəni qaynar su ilə dolduracaqdılar. Daha sonra çadırda bir hökmdar aqdı, bir də xacə Ənvər. Hökmdarın eybindən hamının xəbəri olsa da, özü, çimmək mərasimi zamanı çadırda ancaq xacə Ənvəri saxlayırdı. Əvvəla, ona görə ki, xacə Ənvər onu çimizdirirdi, ikinci də, isti suya girəndən sonra, bədəninin axtalanmış yerindən qopan ağrıya bəzən dözə bilmədiyi üçün sızıldamağa başlayırdı. Hökmdar istəmirdi ki, xacə Ənvərdən savayı bir Allah bəndəsi onun bu halını görsün. Canı lap bərk ağrıyanda, ağrı iki paçasının arasından fəqərə sütunu boyu yuxarı qalxıb bütün bədənini çulğalayanda, hökmdar, xacə Ənvərin yanında göz yaşlarını axıtmaqdan da çəkinmirdi. Onda xacə Ənvər hökmdara təsəlli verməyə başlayırdı. İllər boyu davam edən bu mərasim, qoca və vəfalı nökərin təsəllisi ya bu sözlərlə başlayırdı, ya qurtarırdı: “Adil hökmdar, müsəlman aliminin yarısı axtadır, ürəyinə təpər ver. Bu, bəla deyil, bu böyük xoşbəxtlikdir ki, ulu tanrı sənnən mənə bəxş edib. Ürəyinə təpər ver, başına dönüm!” Hökmdar, damarları qabarmış, çalın-çarpaz arıq əzələləri görünən qolunu qaynar suya salıb iki paçasının arasına aparırdı, kiçilib ələgəlməz olmuş kişiliyini tapıb bərk-bərk sıxırdı – elə bil ağrını orda saxlamaq, boğub susdurmaq istəyirdi. Xacə Ənvər isə ayaqları altındakı iri teştin için-dən saray loğmanının minbir ətirli otdan, çiçəkdən hazırladığı köpüklü mayedən ovuc-ovuc götürüb hökmdarın bədəninə yaxırdı, sonra baş barmaqlarına güc verib, polad təkin bərkimiş əzələlərin quluncunu qıra-qıra özü ləzzətlə “oxqay” deyirdi.
 
 Kimdirsə, yaman deyib, atalar sözünə oxşayır: azar batmanla gələr, misqalla çıxar. Hə, düzdür, atalar sözüdür, Əbülqasımın topladığı kitabda da var. Arvadın başı açılan kimi deyim ona, o kitabı versin mənə, yenə baxım. Yaxşı sözlər var orda. Hələ mətbəxdədir,
 
-@@ 017
+@@ 009
 
 >>mənə – yəni pəncərəsinə yaşıl pərdə çəkilmiş bu kiçik yataq otağında iki aydan çox tir-tap uzanıb qalmış xəstəyə – şalfeydən qarqara üçün dəm hazırlayır. Srağagün gələn həkimin göstərişi idi. Xəstə ağır oldu, yüngül oldu, təfavütü yoxdur, elə xəstədir. Evin əmin-amanlığını pozur, illərlə yaranıb, yoluna düşüb bərkimiş ailə qanun-qaydalarına, intellektuallar demişkən, dissonans gətirir, arvad-uşaq məcbur olur özünü xəstənin həyat tərzinə uyğunlaşdırsın. Əgər uşaqlar əvvəllər gecə ikiyə kimi maqnitofona qulaq asırdılarsa, indi uzağı saat on ikidə söndürməyə məcburdurlar. Qonşu, misal üçün, yuxarı mərtəbədən enib, günaşırı rəfiqəsinə zəng edirdisə, indi daha tez-tez gəlmir, hər hərdən gəlir. Gələndə də yüz dəfə üzrxahlıq eləyir, deyir vacib zəngim var, yoxsa zəhmət verməzdim və ilaxır. Vacib söz də bundan ibarət olur ki, (mən yataq otağından apaydın eşidirəm) bu əndamlı, yaşı otuzu haqlamış üç uşaqlar anası və bir də ər sahibi dəstəyi götürüb nömrəni yığan kimi soruşur:
 
@@ -84,7 +84,7 @@ Neçə dəfə arvada demişəm ki, onu bacar, diplomatik yollarla evə buraxma. 
 
 Yox, bu, orda yoxdur... Bizim arvadı başa düşə bilmirəm. Həmişə Xırda bacı bizdən gedəndən sonra mən əsəbiləşib özümdən çıxanda deyir, a kişi, sənə nə! Mən ki, zəng eləmirəm... Sonra birdən-birə keçirdi (varam arvadların belə qəfil mətləbi dəyişdirmək bacarıq-larına) ayn sözə: yenə pendir tapılmır, bilmirəm səhər uşaqlar məktəbə gedəndə onlara nə verəcəyəm. Mənim də yadıma uşaq vaxtı-məktəbdə ponçik yeməyim düşürdü. Uşaqlardan birini çağırıb soruşurdum: “A bala, məktəbinizdə bufet var?” “Var”. “Bəs ponçik satmırlar?” “Ponçik nədi?” “Bıy?! Xəmirdən girdə şeydi, içində də pavidla. Satmırlar?” “Yox”. Başlayırdım maarif nazirindən tutmuş məktəb direktoruna kimi bircə-bircə hamının qarasına söylənməyə...
 
-@@ 018
+@@ 009
 
 Nə isə, uşaqlar yatırdı, biz də arvadla mətbəxə keçib, təzədəm çaydan içə, ordan-burdan mırt vura-vura məktəbdə ponçik yediyimiz günləri yadımıza salırdıq.
 
@@ -92,7 +92,7 @@ Nə isə, uşaqlar yatırdı, biz də arvadla mətbəxə keçib, təzədəm çay
 
 Bu kiçik yataq otağında dava-dərman iyindən sağlam adamı başgicəllənməsi tuta bilərdi. O ki qala xəstəni. Adam da iki ay yorğandöşəkdə yatar? Niyə yatmaz, lap canın da alar. Sən fələk deyənə bax. Cəmi onca gün bundan qabaq bu zəhrimar iyi otaqdan yox eləməkdən ötrü pəncərənin balaca nəfəsliyini açmaq kifayət idi. Berqman məzuniyyətdən qayıdıb onlara gələndən sonra bu balaca nəfəslik də, elə bil, ömürlük bağlandı. Gəlib evdəkilərə “çalışın, soyuğa verməyin” deməsiylə qapı-pəncərələrin hökmünü oxudu. Bircə mətbəxin pəncərəsini hərdən azacıq açırdılar ki, bişmiş iyi eşiyə çıxsın, xəstənin ürəyi bulanmasın. Amma mənə elə gəlir ki, indi pəncərələrin hamısını taybatay açsalar da, bura metrolarda işləyən güclü hava kompressoru qoysalar da, bu iy bir yana gedəsi deyil: dərman iyi otağın havasına və divarlarına ömürlük hopmuşdu. Evə kim gəlirdisə üzgözünü turşudurdu, başını bulayırdı. Düzdür, yad adam olanda əvvəl-əvvəl narazılığını bildirmirdi, xəstəyə baş çəkib gedəndə dəhlizdə evin xanımına dönə-dönə deyirdi ki, sağlam adamı bu otağa salsan azara tutular, elə xəstəni sağalmağa qoymayan bu ağır havadır, canım, nəfəs almaq olmur ki! Və ilaxır bu kimi sözlər. Evin xanımı da, yataq otağındakı xəstə də bu sözlərə öyrəncəli idilər, azından yüz dəfə eşitmişdilər. Evə gələn-gələn bu mövzunu müxtəlif variasiyalarda sədasadalayırdı. Əvvəllər, heç olmasa, təsəlli-filan verən olurdu, təzə dərmanlardan, yeni müalicə üsullarından söhbət açırdı, ədəb-ərkanla xəstənin yanında oturub, bir stəkan da çay içib, dinməz-söyləməz çıxıb gedirdi. Amma indi elə bil bu dərman iyi ucdantutma hamının əsəblərinə toxunurdu, bəzilərinin üzündən görürdüm ki, gəldiklərinə peşmandırlar. Arvad demişkən, yaxşı ki, heç olmasa, əliboş gəlmirdilər. Elə xəstənin özü də, bir növ adətkərdə olmuşdu, qonaq gedən kimi arvadından soruşurdu ki, hərif nə gətirib? Cavablar adətən eyni olurdu: alma, nar, mandarin, nadir hallarda isə, evdə bişmiş yarımkiloluq bankada zoğal, ya da moruq mürəbbəsi. Amma bir dəfə Rəsul müəllim, onun ağrısını alım, yarım şaqqa qoyun əti gətirmişdi. Əhsən belə qonağa. Buna deyərlər savab iş!..
 
-@@ 019
+@@ 010
 
 Mən elə birinci gündən hiss etmişdim ki, qonaqların əksəriyyəti adi xəstəyə baş çəkməyə gəlmişdilər, onlar, filankəs müəllimi yoluxmağa, filankəs müəllimə ürək-dirək verməyə gəlirdilər. Çarpayının yanında, yarımdairəvi şəkildə qoyulmuş stullarda oturub hal-əhval tuturdular, cürbəcür məsləhətlər verirdilər, zarafat eləyib məzəli əhvalatlar da danışırdılar ki, xəstənin könlü açılsın. Amma nədənsə, gələnlərin səxavəti bir cür olmurdu.
 
@@ -100,7 +100,7 @@ Mən elə birinci gündən hiss etmişdim ki, qonaqların əksəriyyəti adi xə
 
 Filankəs müəllimi yoluxmağa gələn belə qonaqlar az deyildi. Ələlxüsus, əvvəllər. Amma məsələ burasında idi ki, xəstənin ürəyi istədiyi dostları, tanışları son vaxtlar çox az-az görünürdü. Son vaxtlar telefon zənglərinin də arası kəsilmişdi, daha o biri otaqdan telefonla onun halını xəbər alanlara təşəkkür edən arvadının səsini də az-az eşidirdi. Nə isə, səbəbi xəstəyə məlum olmayan bir metamorfoz baş vermişdi: dostlar siqaret tüstüsü kimi yavaş-yavaş yoxa çıxırdılar. Arvadı onun bu sarıdan gileyinə cavab verib deyirdi ki, camaatın işi-
 
-@@ 020
+@@ 010
 
 >>gücü, min bir qayğısı var, həmişə vaxt tapıb gəlmək olmur, bir də, səndə nə elə bir ciddi şey var ki, hamı axışsın bura?..
 
@@ -114,11 +114,11 @@ Yəqin nənəmi yuxuda görmək mənə düşür. Ay nənə, necə deyirdin? “B
 
 Psixlik məsələsində, deyim, arvad tamam haqsızlıq eləyir, nainsaflıq olar: kim qırx yaşından sonra, bizim dünyada bəzi-bəzi əhvalatları yavaş-yavaş başa düşüb dərk edəndən sonra, çox demirəm,
 
-@@ 021
+@@ 011
 
 >>müxtəsərcə də olsa, psixlik azarına tutulmur?.. Mən ancaq bir zümrə tanıyıram: o da ibarət olsun sabahın çörək pulu dərdini çəkməyən gələn adamlarından. Qalanlardan kimi dindirsən, əlbəttə, məhz bu nöqteyi-nəzərdən, kimi balaca sorğu-suala tutsan, görəcəksən, o söz, rəhmətlik Zülfüqar əmim demişkən, üfləmədi... Mən əvvəllər, əvvəllər deyəndə ki, iki il qabaq, gecə gördüyüm yuxularımı arvada danışanda o, yamanca əsəbiləşirdi. Çünki sınamışdı: mən yuxuda bir ölümü gördümü, sabahı mütləq bir hadisə baş verirdi. Ya arvad trolleybusa minib basabasa düşəndə sumkasını açıb pulunu oğurlayırdılar, ya qaynım avtobusdan enəndə yıxılıb ayağını burxudurdu, ya da baldızımın evdə qaz kolonkası partlayırdı. Bir dəfə iş o yerə gəlib çatdı ki, mən səhər çörək yeyəndə arvadıma gecə yuxuda yenə Zülfüqar əmimi gördüyümü danışdım, bu söhbətdən düz iki saat sonra rayondan zəng vurub bildirdilər ki, bizim arvadın xalası oğlu maşında avariyaya düşüb ölüb. O vaxtdan gör neçə vaxtdır, daha mən yuxularımı arvada danışmıram, hətta çalışıram özüm də unudum. Çünki, vallah, doğru-dan, belə şeylərin düşər-düşməzi var. Bir də, xəstələnənə qədər, son vaxtları deyirəm, əməlli yuxu-zad da görmürdüm. Görəndə də çox axmaq şeylər girir yuxuma: bizim tində yayda su satan Aida, hər məməsi bir inək əmcəyi boyda, ya italyan aktrisalarından biri, ya yoldaş Filankəsov, Allah özün saxla, yuxuda da zəhmindən az qalırdı ürəyim partlasın. Şər deməsən xeyir gəlməz. Xəstəliyimin mənə xeyri də bu oldu ki, daha məni tez-tez yoldaş Filankəsovun yanına iclasa-filana çağırırlar. İçirəm dərmanlarımı, yatıram yorğan-döşəyimdə. Nə məni çağırırlar, nə də mən onlara zəng vururam. Dünyada görəsən can rahatlığından yaxşı şey ola bilərmi? Rəhmətlik Zülfüqar əmim hələ o vaxt, ayda bir dəfə kənddən bizə gəlib, qəlyanını tüstülədə-tüstülədə mənə deyərdi ki, a bala, çalış, tez pensiyaya çıx. Mənim təəccüblə ona baxdığımı görüb, əlavə eləyirdi: “Qulağın dinc, canın rahat. Nə onların sənnən işi var, nə də sənin onlarnan.” Kişi rəhmətə gedəndə məni işdən buraxmadılar. Havalar da pis keçirdi, dumanlı-çiskinli günlərdi, mən də fikirləşirdim ki, elə bir tərəfdən getməməyim yaxşı oldu: soyuqlaya bilərdim. Kənd yerində hüzrdə camaat çadırda oturur, bunun küləyi, yağışı, rütubəti var. Zülfüqar əmimin qızına bir teleqram vurub, dəfnə gedən qohumlardan biri ilə yüz manat da pul göndərdim. Arvad dedi ki, mənimkilər öləndə heç on manat da vermirsən. Əvvəl dinmədim. Sonra özümü saxlaya bilməyib dedim, mən öləndə onlar da
 
-@@ 022
+@@ 011
 
 21 verməzlər. Üstündən heç on gün keçməmişdi ki, kənddən uzaq qohumum gəldi, orda feldşer işləyirdi. O mənə kişinin ölümünün təfərrüatını danışdı, bir qədər bikef oldum və həmin gecə bilmirəm yuxumu gördüm, ya feldşer Mahmudun danışdığı əhvalatı bir də xatırladımmı, dəqiq yadımda deyil, amma səhər yuxudan duranda heç özümdə deyildim.
 
@@ -128,17 +128,17 @@ Camaat kənddə səksəkəli yatıb, səksəkəli dururdu. Bir həftədən çox 
 
 O gecə də hamı səksəkəli yatmışdı, yuxusu ərşə çəkilənlərin gözü pəncərədə, qulağı səsdə idi. Deyilənə görə, hər evdən manat-manat yığıb, yaxındakı şiə kəndinin mollasına nəzir də vermişdilər ki, dua oxuyub xata-balanı kəndin başından sovuşdursun... Hamı səksəkəli idi, bir feldşer Mahmuddan başqa. Mahmud rayon mərkəzindən yenicə qayıtmışdı, indi çəkmələrini soyunub, bayaq yeyib-içdiyi kababxanadan gətirdiyi borjomdan süzüb içirdi. Çox vurmuşdular. Hökumət arağından yox, uşaqlardan birini maşınla Qriqor ermənigilə göndərib ondan üç-dörd butulka tut arağı aldırmışdılar. Feldşer Mahmudla raypo Səlim, ikisi üç şüşə araq içmişdi. İndi Mahmuda elə gəlirdi ki, kibriti ağzına tutsa boğazından od çıxar. Çənəsini yumruğu üstə qoyub, yazıq-yazıq burnunu çəkə-çəkə fikirləşirdi ki, nə olaydı, bir möcüzə baş verəydi, bu saat düşəydi Moskva qostinlərindən birinin nömrəsinə, vannanı köpüklü sabunla doldurub girəydi içinə: bəh, bəh! Nə yağış, nə duman, nə tut arağı. Zəhrimar aparsın hamısını. Vannadan çıxıb, qalın mələfə ilə yaxşıca qurulanıb, odekolondan da qoltuqlarının arasına vurub, girəcəkdi kraxmal iyi verən ağ yorğan-döşəyə.
 
-@@ 023
+@@ 012
 
 İstəyirsən telefonu götür, zəng vur, sənə təzə dəm çay gətirsinlər, istəyirsən bir az uzanıb, geyin-keçin, düş restorana, ofisiantı çağırıb özünə dondurma ilə konyak gətizdir, musiqiyə qulaq as, rəqs eləyib hoppanan camaata tamaşa elə. Ofisiant qadın xeylağı olsa, “poydyom so mnoy” da de ona. Gedər, gedər, getməz, cəhənnəmə getsin!.. İç konyakı, ye dondurmanı, liftə minib qalx nömrənə, yıxıl yat. Mahmud dəm olanda həmişə ürəyindən ya Moskva, ya Kiyev keçirdi. Çünki nə ləzzətli gün görmüşdüsə, bu iki şəhərdə görmüşdü. Qayğısız günlər, xoşbəxt günlər. İl boyu qazandıqlarını məzuniyyət vaxtı bircə ayın içərisində bu şəhərlərdən birində verirdi yelə. Amma üç-dörd gün mehmanxanada qalandan sonra başlayırdı hər gecə yuxuda kəndi görməyə. On gündən sonra isə elə lap bu yağış, duman, Qriqor erməninin adamı odlamaya salan tut arağı üçün burnunun ucu göynəyirdi. Hər dəfə də heyfsilənirdi ki, niyə həmişə bu şəhərlərə tək gəlir, tay-tuşlarından birini tovlayıb özüylə gətirmir... Nə isə birtəhərlə məzuniyyətini başa vurub, özünü yetirirdi kəndə. İkicə gündən sonra başlayırdı Moskvanın, Kiyevin mehmanxanaları üçün darıxmağa. Əsəbiləşirdi, yanına gələn xəstələri tələm-tələsik yola salırdı, ta illərdən bəri adət etdiyi həyat tərzinə uyğunlaşana kimi. On-on beş gündən sonra Mahmud olurdu əvvəlki Mahmud. Kimin qarını ağrıdı, başı ağrıdı, gecənin hansı vədəsi olur olsun, Mahmud dava-dərmanını çantasına yığıb düzəlirdi yola... İndinin özündə, yanğısını söndürmək üçün borjom şüşələrini dalbadal aça-aça Moskvanı, köpüklü vannanı arzulasa da, bilirdi ki, yaya ora getsə, yenə darıxacaq, tək gəldiyi üçün yenə özünü söyəcək, gecələr yatanda yuxuda ya xamralı çörəyi yeyəcək, ya da hardasa qışlaqlardan birində, qara damda, gecəyarısı Allahın bir çoban qardaşı ilə dünyanın bu günündən-sabahından söhbət eləyəcəklər. Səhər yuxudan qalxanda, gecə yuxuda yediyi motal pendirinin tamını ağzında hiss edəcək...
 
 Mahmud saatına baxdı, ona iki-üç dəqiqə qalırdı. Ərincə-ərincə qalxıb televizoru qurdu. Bu rəngli televizorlardan kənddə cəmi üç nəfərdə vardı, biri sədrdə, biri kənd Sovetinin katibində – ölmüş, cavanca qızdı, yeriyəndə adamın canını alırdı, biri də Mahmudda. Bakıdan rəng o qədər də yaxşı gəlmirdi, gah sarısı çoxalırdı, gah qırmızısı azalırdı. Buna görə də yerli camaat yaxşı rəngli verilişlər olanda Tiflisə baxırdı. Mahmud da vacib bir işi-filanı olmayanda, hər axşam “Vremya”ya qulaq asırdı. “Vremya”nı Bakı da verirdi, Tiflis də. Mahmud, televi-
 
-@@ 024
+@@ 012
 
 >>zorla çox əlləşməsin deyə, əvvəlcədən kanalı Tiflisə keçirdi. Diktor görünən kimi ucadan dedi: ölmüş genə qırmızı paltardadı, fətəbərəkallah, ah, sənin xaliqin, canan! Qanı qara olanda, kefi duru olanda evdə ucadan danışmaq adəti idi. Subaylığın bu cəhəti də vardı: otur evdə, televizora bax, istəyirsən şikəstə oxu, istəyirsən havalı adamlar kimi ucadan öz-özünə danış. Kimə nə! Bir Allah bəndəsi sənə deməyəcək, ay Mahmud, niyə belə eləyirsən. Mahmud on-on beş dəqiqə diqqətlə verilişə baxdı, öyrəndi ki, Maqnitoqorsk metallurqları hansısa “poçin”ə qoşulub planı neçə yüz faiz yerinə yetiriblər. Sonra dalınca qulaq asa-asa, ha fikirləşdi ki, “poçin” nədir, azərbaycanca buna nə deyirlər – tapa bilmədi. Dedi, sabah məktəbin rus dili müəllimindən soruşaram. “Vremya” beynəlxalq xəbərlərə keçəndə, bir stəkan borjomu biməfəsə içib, tamam diqqət kəsildi. Yenə dünyanın hər yerində atışırdılar. Əksərən zənciləri, ərəbləri göstərirdilər. Hərəsinin də əlində bir avtomat. Mahmud yenə özünü saxlaya bilməyib ucadan dedi, ayə bu köpəkuşağı, görən, belə qəşəng avtomatları hardan tapır, ayə, bu Amerika nə bic hökumətdi, gör nə qədər topu-tüfəngi var! Atana lənət, belə zamana!.. “Vremya” axıra yaxın, Budapeştdə keçirilən beynəlxalq moda festivalını göstərdi. Qəşəng-qəşəng manekençi qızlar ekranda görünəndə Mahmud gülüb, çırtıq çala-çala “Arşın mal alan”dan rus dilində oxumağa başladı: “ax tı, moya doroqaya, ax tı, moya zolotaya!” Sonra həmin melodiyanın üstündə oxumağına davam edib, sözləri dəyişdi: “Qriqor kişi atana lənət, Qriqor kişi atana lənət!” Çünki yenə tut arağının yanğısı qarnından qalxıb, gəlib dayanmışdı düz hülqumunun ortasında. Mahmud fikirləşdi ki, borjom olmasaydı, bu yanğıdan səhərə sağ çıxmadı. Və yenə öz-özünü ürəyində söydü: adama neçə kərə deyərlər ki, bu zəhrimarı içmə, içəndə də adam balası kimi iç, yüz qram iç, uzağı iki yüz. Amma bayaq kababxanada yediyi çoban bozartmasını, sarımsaqlı qatığı xatırlayanda dərk elədi ki, elə məclisdə yüz qram, iki yüz qramla iş keçməzdi. Sağ olsun kababçı Xəlil dayını, kişi yaradır da!.. “Vremya” idman xəbərlərinə keçəndə Mahmud televizoru söndürdü. Televizoru alanda usta ona demişdi ki, çalış, çox işlətmə, bunları az-az buraxırlar, şah əlinə düşməz belə televizor. Mahmud televizorun üstündən mahud parçanı götürüb ekranı sildi, sonra aşağı əyilib dikdaban ayaqqabılarını cütlədi, səliqə ilə çarpayısının altına qoydu. Bir-iki dəfə gərnəşdi, bir stəkan da soyuq borjom içib, ha istədi özünü gəyirtsin, amma bir şey
 
-@@ 025
+@@ 013
 
 >>çıxmadı və ucadan dedi: yıxılım yatım, bəlkə yuxu məni özümə gətirə. Qayışını açmaq istəyirdi ki, darvaza bərk-bərk döyüldü və eşikdən bir yeniyetmə səsi eşidildi:
 
@@ -184,7 +184,7 @@ Kənd yatmışdı. Göydən ələnən çiskində orda-burda təkəm-seyrək yana
 
 – A Moşu, Allah eləyə, sel gəlməyə. Batarıq.
 
-@@ 026
+@@ 013
 
 – Elə gələcək! Görmürsənmi havanı?! Gündə bir kosmonavt buraxırlar göyə, axırı belə olacaq dana.
 
@@ -222,7 +222,7 @@ Mahmud ayaq saxladı.
 
 – Mahmud doxtur, deyirlər, havalanannar adam dişdiyir, düzdümü? 
 
-@@ 027
+@@ 014
 
 – Pəh! Dişdiyir də sözdümü! Adamın boğazınnanca yapışıb, qanın sorurlar.
 
@@ -246,7 +246,7 @@ Daha danışmadılar. Mahmud fikirləşdi ki, görən çantasında kamera var, y
 
 – Bilirəm, – hiss olunurdu ki, Temirin qanı qaradır və laqqırtı vurmaq fikrində deyil. O, arxası onlara sarı çömbəlib, asılma motorun nəyinisə qurdalayırdı. 
 
-@@ 028
+@@ 014
 
 – Olmuya xoda düşmür, ayə? – Mahmud qayığın baş tərəfində oturub, nəfəsini dərdi və ayaqlarını da uzatdı. Moşu hələ ayaq üstə idi.
 
@@ -280,7 +280,7 @@ Təmir motorun kəndirini ikinci dəfə sərt hərəkətlə özünə sarı çək
 
 – Ay-hay! – Mahmud əlini yellədi. – Mən ölüm, buna bax, kimə-kimə, mənə siyasi dərs verir. Bütün tarix kitablarında var ey mənim dediklərim, nə qırılladırsan, ə, sluşay?
 
-@@ 029
+@@ 015
 
 – Mənnən demək, sənnən eşitmək. Allahdan bərəkət, prokurordan hərəkət.
 
@@ -310,13 +310,13 @@ Moşunu yuxu basmışdı. Tatar Temirin ayaqları altında yanan fənafənərin 
 
 – Deyirsən, bizi də qırsınlar? – Mahmud güldü.
 
-@@ 030
+@@ 015
 
 – Mən o qırğınları çox görmüşəm, qardaş. Allah heç kəsə qismət eləməsin, uy, uy!
 
 Mahmud onun səsindən başa düşdü ki, ağzını açsa qurtarmayacaq, düzü, bu söhbəti saldığına peşman oldu. Qorxdu, Təmir, azından min dəfə danışdığı əhvalatı bir də təkrar eləyəcək, yenə, müharibədən qayıdıb, arvadı Tamaranın yanında cavan bir rus soldatını gördüyundan yanıqlı-yanıqlı danışacaq, sonra başlayacaq ana-bacı söyüşü ilə dünyanın bütün arvadlarını bir-birinə qatmağa, axırda da “ay vaşu mətlər, nəşu mətlər” deyib dizinə döyəcək... Amma yox. Başına gələn bu bəlanı Təmir həmişə danışmırdı, daha doğrusu, ayıq vaxtlarında bu əhvalatdan söz salmırdı, yanında müharibədən, əsgərlikdən söhbətfilan düşəndə də çəkilib bir qıraqda dururdu. Amma, elə ki, stansiyanın bufetində şirin çaxırdan bir-iki stəkan vururdu, tanış adam əlinə keçməyəndə, lap yoldan ötənin birini saxlayıb, salırdı çənəsinin altına. Danışdıqca, söyləndikcə, ürəyini boşaltdıqca, hərdən elə olurdu gözləri də yaşarırdı. Yazıq neyləsin! Onun çəkdiyi müsibət kimin başına gəlsəydi, vallah havalanardı... Hələ bu yaxşı qalıb... Mahmud onun belə kefli olduğu günlərini az görməmişdi. Əksər hallarda, bazar günləri, vağzalın gur vaxtlarında Təmir yaşadığı yunan kəndindən stansiyaya gəlirdi. Vağzalda onu relslərin arasında sülənən qotur itlər də tanıyırdı. Yayda, al-qırmızı sətin köynək əynində, belində tarım çəkilmiş nazik meşin toqqa, uzunboğaz çəkmələri par-par parıldaya, seyrək saçlarına xüsusi sığal verib, tərtəmiz, odekolon qoxuya-qoxuya gəlib girirdi stansiyanın milçəkli, havası ağır bufetinə. Bufetçi Kərim – möhkəm zarafatları vardı – Təmiri görən kimi tatar dilində, Temirin ona öyrətdiyi bəzi sözlərdən deyirdi, adətən, söyüş söyürdü. Amma bu sözləri bufetdə Təmirdən savayı heç kəs başa düşmürdü. Təmir gülürdü. Əyri, sarı dişləri qanı qaçmış dodaqları arasında külqabı dibində qalmış siqaret kötüklərinə bənzəyirdi, xırda qıyqacı gözləri qıyılıb-qıyılıb sifətinin qırışları arasında gözdən itirdi. Təmir bufetçi Kərimə deyirdi ki, sən öl, sən elə gərək tatar doğulaydın, mən ölüm, sən bu dili məndən yaxşı bilirsən. Axırda da, özü bir “vaşu mətlər!” deyirdi. Bu da o demək idi ki, çaxırın vaxtı çatıb, süz... Kərim neçə illərdi Təmirdən pul almırdı. Təmir, dünyanın Sibirdən üzü bəri dolanıb, özünə heç yanda sığınacaq tapmayıb, nəhayət, gəlib Kür qırağındakı ki bu qədim yunan kəndində ömürlük məskən salandan sonra (əvvəl gümanı vardı iki-üç il buralarda başını dolan-
 
-@@ 031
+@@ 016
 
 >>diri, bəlkə Allahın köməkliyi ilə təzədən dədə-baba yurduna qayıda, amma qayıtmadı. Aylar, illər dolandı. Temirin gözlərində dünya-aləm başqalaşdı, bircə Tamara ilə soldat başqalaşmadı) və günlərin bir günü, başına gələn əhvalatı o zaman hələ qarın bağlayıb ağırlaşmamış sütül bir oğlan olan Kərimə ilk dəfə danışanda Kərimin ona yazığı gəlmişdi: stansiya bufetinin həndəvərində, relslərin arasında, zibillikdə eşələnən itlərə yazığı gəldiyi kimi. Temirin əhvalatını ələ həmin gün işdən sonra anasına nəql eləyəndə anası demişdi ki, a bala, o Temirdi, nədi, elə o da Allahın bir yetim bəndəsidi, bacar yaxşılıq elə ona, savabdı. O günün sabahısı Kərim Təmirə demişdi ki, “daha, qardaş, səndən pul aldı yoxdu, qarının dolana kimi iç, ayından-oyundan da ye, mənə sənin qara qəpiyin də lazımdır. Adam adama bə nə gündə lazımdır?” Temirin könlü açılmışdı, ona elə gəlmişdi ki, köksündə pas atıb korlaşmış bir şey ovxalanıb yoxa çıxmışdı, qanı da elə bil durulmuşdu və uzun illərdən bəri, bəlkə də birinci dəfə, az qala uça-uça, tez-tələsik eşiyə çıxıb, bufetin arxasında, xəlvət yerdə sidik kisəsini boşaltmışdı: sonralar, özü dediyi kimi, azı iki vedrə. Çünki bu başıbəlalı dünyanın nə işığına, nə zülmətinə gümanı qalmamış bir adam üçün Allah bundan da böyük xoşbəxtlik yetirə bilərdimi?
 
@@ -328,7 +328,7 @@ Mahmud onun səsindən başa düşdü ki, ağzını açsa qurtarmayacaq, düzü,
 
 Moşu mürgüdən ayıldı, gözlərini açıb pıqqıldadı. 
 
-@@ 032
+@@ 016
 
 – Gülmə, Moşu, gülmə. Tatar Təmir olanda nolar, tatar Temirin də beyni var.
 
@@ -356,7 +356,7 @@ Təmir güldü.
 
 Mahmudun başı ağrıdı. Söhbətin belə səmtə düşəcəyini gözləmirdi. Temirin məntiqinə də alışa bilmirdi: Təmir gah nalə döyürdü, gah mıxa. Bir də, Temirin “dərd görməmisən” deməsindən elə bil dilxor
 
-@@ 033
+@@ 017
 
 >>olmuşdu. Fikirləşdi ki, bu zəmanədə heç bəndəyə “dərd görməmisən” demək olmaz, bu, ağ yalan olar. Hərənin çiynində dağ boyda dərdi var, biri bu ağırlığa dözür, Təmir demişkən, bir yanın boş qoyur, o biri qatlanır, dördayaq olub ulaya-ulaya dağa-daşa düşür. Mahmud müharibə illərində, kolxozun anbardarı Musa Qayçılının camaata payladığı mıxı xatırladı, balaca-balaca oğlan uşaqlarını, qız uşaqlarını gördü, qara damlarda, çıraq işığında baş-başa verib oturmuş uşaqlı-böyüklü hamının jmıx yediyini yadına saldı. Bu, dərd döyül, bə nədi?.. Təmirə nəsə demək istəyirdi, söz lap dilinin ucundaydı, amma demədi, nə üçünsə yadına şəhərdə xəstə yatan qohumu düşdü. Xəstənin çuxura batmış gözləri, eynən jmıx rəngində olan sifəti gecənin qaranlığından, ya motorun uğultusundanmı, peyda olub gözləri qabağına gəldi: elə bil gördüyü tutqun ay işığıydı, indicə qara buludların arxasında itib sönəcəkdi. Bu nə əhvalatdı görəsən? Tatar Temirin ikicə kəlməsi niyə onun hövsələsini daraltdı, qanını qaraltdı, üstəlik, başını da ağrıtdı – nə illah elədisə, anlayammadı... Və birdən Mahmudun ağlına bir fikir gəldi: adamları bir-birinə bağlayan dərddir. Dərd uzun bir kəndirdi ki, dünyanın belinə toqqa kimi dolanıb, hamı bu kəndirdən yapışıb bir-birinə sarı gəlir...
 
@@ -368,7 +368,7 @@ Moşu işləri düzəltdi – Mahmudun da, Temirin də danışmadığını gör�
 
 Birdən nəsə baş verdi, heç biri heç bir şey anlamadı: qayıq sola yatdı, köpüklü su içəri doldu, az qala dizlərinə kimi, eyni zamanda vıyıltı qopdu, qəfil külək nəhəng qamçı kimi başları üzərində şaqqıldayıb, Mahmudun qulaqlı papağını göyə qaldırıb suya çırpdı: adamın iliyinə işləyən şaxta üçünü də az qala dondurdu, üçünün də içi-içalatı, sümükləri gizildədi. Sonra hər şey qurtardı, daha doğrusu, başlamamış qurtardı. Çünki heç bir an keçmədi ki, qayıq düzəldi və ətrafda nə vardısa əvvəlki halını aldı. Motor taqqataraqla işləyirdi, tatar Temirin qayığı mənzil başına gedirdi.
 
-@@ 034
+@@ 017
 
 – Ayə, bu nə olan şeydi? - Mahmud ayaqları altına, qayığa dolmuş suya baxdı. Tatar Temirin fənəri suyun içində xarab olmuşdu, yanmırdı. idi.
 
@@ -392,7 +392,7 @@ Bu nəmişli, yağarlı və səksəkəli havada üçü də yalnız bir şeydən 
 
 Moşunun anası, Zülfüqar kişinin ortancıl qızı Salatın arvad həyətdən gələn qarmaqarışıq səsləri eşidəndə ürəyində “şükür” dedi: bayaqdan Moşudan nigarandı, belə havada Allahın bir avara və binəva bəndəsinə, tatar Təmirə uşaq ümid eləmək, onunla bərabər o taya göndərmək heç ürəyindən deyildi. Arvad, Moşu yola düşəndən sonra, neçə kərə ürəyi səksəkəli pəncərəyə yanaşıb həyətə, həyətdən də o tərəfə, darvaza arxasında, kəndin təkəmseyrək işığında saralan gilli-palçıqlı torpaq yola baxmışdı, dağların başından üzü bəri axışan topa qara buludların seyrəkliyindən süzülən ay işığında uzaqlarda qaralan meşəyə baxmışdı və hər dəfə də ürəyində Allaha, peyğəmbərə yalvarmışdı ki, kaş Təmir kefli olmayaydı – o zəhrimar arağı, çaxırı çıxardan gülləyə gəlsin, bircə sağ-salamat uşağı evə çatdıraydı. Moşu gedəndən sonra, dədəsinin təkidi ilə çürümüş taxta pilləkənləri enib aşağı düşmüşdü, toyuq damına bitişik, havası ağır otaqdan qədim mis samovarı götürüb hıqqana-hıqqana yuxarı qaldırmışdı, sonra yenə ikimərtəbəni enib, selpodan aldığı kağız kisələrdən birində ağzıdolusu 
 
-@@ 035
+@@ 018
 
 >>kömür gətirmişdi, nəhayət, samovarı şüşəbənddə qaynatmışdı. Zülfüqar kişinin adəti idi: günün hansı vədəsi olur, evə bir adam gəldimi, onu yaxşı dəmlənmiş pürrəngi çaysız yola salmazdı. O ki qala hörmətli adam ola, həkim, ya feldşer ola.
 
@@ -420,7 +420,7 @@ Zülfüqar kişi gözlərini açdı:
 
 – Kiri, ay bava, sən ölənərin goru, ürəyimizi üzümə, qoy, şər vaxtıdı. Nolub, ayə, sənə? – Salatın hirsli-hirsli donquldandı, Moşunu Mahmudun dalınca göndərdiyi dəqiqədən ürəyində yığılıb qalmış 
 
-@@ 036
+@@ 018
 
 >>nigarançılığın ağırlığı elə bil bu sözlərlə qaynaya-qaynaya ağzından eşiyə töküldü.
 
@@ -458,7 +458,7 @@ Zülfüqar kişi soruşdu:
 
 – Yaxşı dərmandımı, bizimdi, ya onnarın? – Salatın Mahmuddan soruşdu. Son beş-altı ildə Salatın həm atasının xəstəliyinin, həm də öz
 
-@@ 037
+@@ 019
 
 >>azarının – ayaqları şişirdi, tez-tez də təngnəfəs olurdu – əlacını onların dərmanında görürdü. Lap balaca başağrısı həbi olanda da maraqlanırdı ki, hardan gətiriblər.
 
@@ -484,7 +484,7 @@ Salatın əlini tatar Temirin ayaqlarını qatlayıb oturduğu səmtə uzatdı:
 
 – Apar onu aşağı, yerini sal. Ayından-oyundan da ver, açmış olar. Araqlardan birini də aç, qoy qabağına. 
 
-@@ 038
+@@ 019
 
 – Genə istəyirsən piyan olub ağacamı dırmansın?
 
@@ -520,7 +520,7 @@ Onlar otaqdan çıxandan sonra – Temirin eşikdə, pilləkənlərdən hələ �
 
 – Mahmud, dərdin alım, səni də axır vaxtlar yamanca əziyyətə salıram. Neynim, qocalığın üzü qara olsun... Allah adama bir can verir, üstəlik də min azar... Əmbə, başın haqqı, düz sözümdü, bu xına o
 
-@@ 039
+@@ 020
 
 >>xınadan döyül. – Qoca çətin danışırdı, nəfəsi boğazında kəsilirdi, hövsələsi daralmış adamlar kimi, sözləri tələsik deməyə çalışırdı. Yastığın üstündə Zülfüqar kişinin başı yumruq boyda görünürdü.
 
@@ -540,7 +540,7 @@ Mahmud oturduğu yerdəcə dikəldi, narazılıqla başını bulayan Moşuya bax
 
 – Tem boleye!.. İndi mənə prokuror deyə ki, get filankəsi öldür, öldürmərəmmi? Hökumət adamının bir sözünü iki eləmək olarmı, a kişi, özün də dünya görmüş adamsan? – Mahmud söhbətin yönünü dəyişmək istədi, zarafata salmaq istədi, amma ona zillənmiş bir cüt gözdə, pırpız, zəhmli qaşların altındakı bulanıq, işıqsız gözlərdəki qorxunu, şaşqınlığı və ümdəsi də ümidsizliyi görəndə fikirləşdi ki, bəlkə elə doğrudan, bu xına o xınadan döyül? Bu dünyada azmı qəribəliklər, ağlasığmayan əhvalatlar baş verir?.. Allah, özün saxla! Bu nə axmaq söhbətdi ə? İyirmi birinci ildə əcəli yetmiş bir Allah bəndəsinin bu axşama, bu evə, bu işığa nə dəxli var, görəsən? Kişi, belə getsə, özünü də dəli eləyəcək, evdəkilərin də ürəyini üzəcək. Bəlkə bir yuxu dərmanı verim, halvalıq olub səhərə kimi xoruldasın? Amma bu fikirdən vaz keçdi. Çünki Zülfüqar kişi zəifləməyinə, son
 
-@@ 040
+@@ 020
 
 >>beş-on gündə əlbəttə zəifləmişdi və belə vəziyyətdə bu cür dərmanlar ürəkbulanması və başgicəllənməsi verə bilərdi.
 
@@ -560,13 +560,13 @@ Zülfüqar kişi:
 
 – Temirin başı batsın, - dedi. - Mən elə ağlamağı demirəm, a bala. Mən özgə ağlamaqdan danışıram... - Yenə gözlərini yumdu, kirpikləri divara qonmuş, gur lampa işığından qorxuya düşmüş kəpənək qanadları kimi titrəyirdi. Daha bir xeyli dinmədi. Mahmud qollarını sinəsində çarpazlayıb əsnədi, necə olsa, həm yorğundu, həm də keçdi, yuxusu gəlirdi. Moşu ona xəbər gətirəndə güman eləyirdi ki, gedib iynədən vuracaq, ya dərman verib, qonşu otaqda Salatının saldığı yorğan-döşəkdə səhərə kimi xumarlanıb yatacaq. Belə havada yatmaqdan yaxşı nə ola bilərdi: qayığa mindiyi dəqiqədən canına hopmuş, sümüklərinə işləmiş rütubət bədənindən çıxmırdı. Bu Salatın görən harda qaldı, araqdan-zaddan gətirəydi, içib həm qızışaydı, həm də canı cəhənnəm, lap keflənib, bu qoca kişinin səfsətəsini unudardı... Yox, doğrudan ağır xəstəyə bənzəmirdi, nəbzi yerində, təzyiqi 
 
-@@ 041
+@@ 021
 
 40 normada, sifətində nə qızartı var, nə də başağrısından şikayətlənirdi. Yəqin elə yuxusunu qarışdırıb, o uryadnikdi-nədi, onu görüb, verib şalvara. Ax, ey zalım qocalıq!.. Nə adam kimi qoyur yaşayasan, nə də vaxtında bir ucuz ölüm yetirir ki, birdəfəlik bu dünyanın şirinindən, acısından canını qurtarasan. Adam, vallah, gərək vaxtı-vədəsi gələndə qırağın qatdaya. Bu dünyada çox yubananların hamısının aqibəti belə olub: qara torpaq altına getməmişdən qabaq, olmazın əzab-əziyyət çəkiblər, ötən illəri yada salıblar, yada salanda da mütləq xatirələrində bir qənbərqulu çıxıb meydana, başlayıb ürəklərini, beyinlərini oyum oymağa... Mahmuda elə gəldi ki, Zülfüqar kişi yatdı, çünki səsini alçaldıb, bir-iki dəfə onu çağırdı, kişi hay vermədi. Amma Zülfüqar kişi yatmamışdı. Bu, başıbəlalı dünyanın iki gerçəkliyi arasındakı vaxt sərhədindən o taya adlamışdı. Qan çanağının daşlı-kəsəkli ətəyinə, yuxarıdan sallanan sal qayaların çalın-çarpaz kölgəsinə, qarlı dağların başından əsən buz nəfəsli bir küləyin qabaq-qənşərinə keçmişdi. Orda cavanca bir adam dayanmışdı, əsmə papirosunu qalın, həbəşi dodaqları arasında bərk-bərk sıxıb, tüstünü dalbadal ciyərinə çəkə-çəkə sol qolunu qatlayıb, beşatılanı hazır saxlamışdı: qara pırpız qaşların altındakı iti gözlər ətrafdakı daşların, qayaların arasında başqa birisinin qaraltısını axtarırdı. Tüfəngli adam buraya, göyün yeddinci qatına qalxmamışdan əvvəl, gecə qara damda, lampa işığında oturub, əsmə tüstülədə-tüstülədə çox şeyləri götür-qoy eləmişdi, həm eləsinə fikirləşmişdi, həm beləsinə, darıxıb eşiyə də çıxmışdı, kimsəsizlik içində uyuyan səmanın tən ortasındakı ayın işığında Kürün axar sularına baxmışdı, ətrafdakı hənirtini-xışıltını dinləmişdi, nəhayət, yağlı tüfəngin çaxmağını keçirib, yapıncıya bürünüb, səhər, hələ quşlar oyanmamışdan qabaq Qan çanağına qalxan cığıra ayaq basmışdı. İndi bu tüfəngli adam burdan əliboş qayıda bilməzdi, dünya dağılsaydı da, qarlı dağlar, buzlu qayalar yerindən qopub onun üstünə gəlsəydi də, o, gərək tüfəngin tətiyini çəkəydi, bu dağlara, dərələrə vəlvələ salaydı. Başqa çıxış yolu yoxdu: adamın alnına nə yazılıbsa, elə odur. Hərənin bu dünyada öz qisməti var. Qismətdən savayı bu dünyadan nə ummaq olar ki?.. "Tovariş Salaxov, budet sdelano!"
 
 Sonra Sarıca oğlu Məhəmmədin meyitini qarnı üstə atın belinə aşıranda, dağlar tərəfdən güclü, vıyıltılı bir külək qopanda, o, tüfəngini çiynindən asıb, gözlərini qıyıb ətrafına baxmışdı: atılan iki güllə səsi olmasaydı, bunun ardınca, Sarıca oğlu Məhəmmədin qarnından qopan
 
-@@ 042
+@@ 021
 
 >>heyvan böyürtüsü eşidilməsəydi, deyərdin ki, buralar dünya yaranandan bəri bir ins-cins nəfəsi görməyib. Beləcə dayanıb, qan iyi aldığından ağzı köpüklənə-köpüklənə qantarğanı gəmirən ata baxmağa ürəyi gəlmədən, havalanmış kimi, ucadan demişdi:
 
@@ -596,7 +596,7 @@ Zülfüqar kişi Mahmuda cavab verdi:
 
 – Vallah, elə bu zamanda piyanısqalıqdan yaxşı şey yoxdu. – Qızının ona təəccüblə və bir az da tərs baxdığını görüb dedi: – Nədi, az, yalanmı deyirəm?.. Eşşəklik yaxşıdır, ya piyanısqalıq?
 
-@@ 043
+@@ 022
 
 Salatın əlini çənəsinə aparıb başını buladı.
 
@@ -620,7 +620,7 @@ Mahmudun gözlədiyinin əksinə olaraq – arağı stəkanlara süzəndə bayaq
 
 Mahmud Zülfüqar kişinin sifətinə baxdı: qocanın sifəti doğrudan dəyişmişdi, arıq, dərisi cod yanaqları allaşmışdı, bu allıq, güclə sezilsə də, gözlərinə də axmışdı, bu gözlərdə indi nə qorxu vardı, nə də bayaq Mahmudu əməlli vahimələndirmiş ümidsizlik. Bu gözlər indi hələ əcəli yetməmiş bir qocanın adi gözləri idi. Mahmud ürəyində dedi:
 
-@@ 044
+@@ 022
 
 "Şükür verən gününə, deyəsən, bu dəfə də xata-bəladan sovuşduq".
 
@@ -634,7 +634,7 @@ Mahmud qırx beş illik ömründə, ağlı kəsən gündən dəfələrlə sınam
 
 Şükür, bugünkü əhvalat da pis qurtarmadı: arxayınçılıqla qurtardı. Çünki necə olsa, əgər Mahmud gecənin bu vədəsində, belə havada buraya gəlib Zülfüqar kişiyə bir əncam çəkə bilməsəydi, yəqin ki, nə
 
-@@ 045
+@@ 023
 
 >>bu gecəni rahat yuxuda yata biləcəkdi, nə də sonrakı günlərdə bu günün ağrısından-acısından canını qurtara biləcəkdi.
 
@@ -644,7 +644,7 @@ Belə-belə işlər, ağrısın alasan şeytana papış tikən belə dünyanın!
 
 Mahmudun sümükləri qızışmışdı, pazı pazla çıxardıblar deyiblər: o da, bu nəmiş havanın sümüklərinə, iç-icəlatına doldurduğu üşərtini bayaq Salatının gətirdiyi araqla çıxarmışdı. Gözləri də otağın ala-bula qaranlığına alışmışdı. Sağ əlini qatlayıb başının arxasına qoymuşdu, gözlərini tavana zilləmişdi, eşikdən içəri düşən bulanıq işıq tavanı
 
-@@ 046
+@@ 023
 
 >>bozumtul, yağışqabağı göyün bir parçasına bənzədirdi. Mahmud bilirdi ki, indi bu evdə hamı şirin-şirin yatır, Salatın, Moşu, Zülfüqar kişi... Çünki indi günün elə vədəsi idi ki, bu yerin, bu obanın camaatı yatmalıydı, min il, milyon il bundan öncə öyrəşib adət etdikləri kimi: gün batdımı, quşların səsi kəsildimi, hamı yorğan-döşəyinə girib, salavatını çevirib yuxuya gedirdi, min dəfə gözlərini açıb gördükləri səhərin həsrətində, intizarında yatışırdılar. Mahmud qımışdı: vallah, belə bir məxluqun gecə gördükləri yuxulardan əməlli kitab yazmaq olar!.. Amma olmayaydı. Mahmudun belə işlərlə heç arası yox idi, həmişə belə söhbətlər eşidəndə əsəbləri yerindən oynayırdı, o dəqiqə dilxor olurdu, özünə yer tapa bilmirdi. Ölü də yuxuya girərmi, a kişilər? Uryadnik əhvalatını, nədənsə, Mahmud tamam unuda bilmirdi. Bayaqdan neçə kərə bu əhvalatın üstünə qayıtmışdı. Salatın, gətirdiyi yemək-içməyin qalanını yığışdırıb aşağı aparandan sonra, Zülfüqar kişinin Mahmuda təfərrüatı ilə danışdığı uryadnik əhvalatının xofumu desin, ağrısını desin – Mahmud özü bilmirdi – nə beynindən çıxırdı, nə də gözləri qabağından gedirdi. Nəsə, bu tamam ayrı əhvalatdı, özgə gərdişdi. Mahmudun yadına düşdü ki, Zülfüqar kişi zoğal arağından yarım stəkan hortdadandan sonra, düzdü, özünə gəlsə də, nədənsə kövrəlmişdi, dəyirmi, qızarmış gözlərini Mahmuda zilləyib, kövrək-kövrək, səsi qırıla-qırıla ona uzaq keçmişin əhvalatını ikinci, üçüncü dəfəmi, amma bir də danışmışdı. Mahmud da arada lap əsəbiləşmişdi, Salatınla ağız-ağıza verib uryadnikin dədəsini, cijisini bir-birinə qatmışdılar, lap axırda, Mahmud bir “vot tebe nə!” deyib, Zülfüqar kişinin sözünü kəsib soruşmuşdu ki, uryadnik köpəkoğlunun kimə nə pisliyi keçibmiş ki, yazığı divansız-məhkəməsiz qanına qəltan eləmisən?! Zülfüqar kişi də xeyli susub, alnını qırışdırıb, maddım-maddım Mahmuda baxandan sonra, səsinin zil yerinə salıb çığırmışdı: “Tovariş Salaxov, budet sdelano!” Hamı mənası heç kəsə məlum olmayan bu əcaib sözlərin müqabilində şaqqanaq çəkib gülüşmüşdü.
 
@@ -652,7 +652,7 @@ Ay sənin filan yerini yeyim, şeytana papış tikən belə-belə olmuş dünya!
 
 Zülfüqar kişi ikinci dəfə ah çəkəndə Mahmud daha heç bir şey eşitmədi... Zülfüqar kişi gözlərini açdı, arxası üstə uzanmış halda, yor-
 
-@@ 047
+@@ 024
 
 46 qanın altında qarnını qaşıdı, amma həmin dəqiqə də eşitdiyi səsdən nə diksindi, nə də qorxdu. Qalxıb yerində oturdu. Zülfüqar kişinin yatdığı otağın ensiz pəncərəsi arxasından gələn səs ona həm tanışdı, həm də yaddı. Kimdi bu görən, a başına dönüm?.. Kişi tab eləmədi, çarpayıdan enib çəkələklərini geyindi, ağ tuman-köynəkdə yavaş-yavaş pəncərəyə yanaşıb eşiyə baxdı. Aşağıdakı tut ağacının altında bir qaraltı gördü, amma bu qaraltının kim olduğunu ayırd edə bilmədi. Düzdür, qübbənin ortasındakı ay lap günəş kimi yanırdı, göyün üzündə isə bir dənə də bulud yoxdu, amma qaraltının sifəti görünmürdü. Əvvəl istədi, çarpayının yanında yerdə yatan qızı Salatını qaldırsın, amma neyçünsə bu fikrindən vaz keçdi, ürəyinin döyüntüsünə qulaq verə-verə birdən naqafil bir hərəkət elədi: tələsik pəncərəni taybatay açıb başını eşiyə uzatdı və özü öz səsindəki ötkəmliyə təəccüb edib, qaraltıdan soruşdu:
 
@@ -664,7 +664,7 @@ Zülfüqar kişi ikinci dəfə ah çəkəndə Mahmud daha heç bir şey eşitmə
 
 – Gəlirəm, dərdin alım, gəlirəm! – Zülfüqar kişi az qala çığırdı. Ancaq evdə heç kəs oyanmadı, yiyəsinin quruca hənirtisindən hürməyə başlayan həyətdəki it də cınqırını çıxarmadı, yalnız qübbənin ortasında günəş kimi şölə saçan ay işığını artırdı və bu işıq Zülfüqar kişinin gözlərinə dolub içərisinə axdı, ürəyindəki buzu əritdi. – Bu dəqiqə, ağrın ürəyimə, gəlirəm, – deyib Zülfüqar kişi ağladı, yaman ağladı. Tələsik geri döndü, üzüqoylu yatan qızı Salatına baxdı, amma başa düşmədi ki, bu qadın kimdir, otağa nəzər saldı, çarpayıya baxdı 
 
-@@ 048
+@@ 024
 
 >>və harda olduğunu anlamadı. Elə beləcə, çəkələklər ayağında, ağ tuman-köynəkdə qapını açıb pillələrlə endi, həyətə düşüb tut ağacının altına gəldi, amma Sarıca oğlu Məhəmmədi orda görmədi.
 
@@ -704,7 +704,7 @@ Sarıca oğlu Məhəmməd güldü:
 
 – Hə. 
 
-@@ 049
+@@ 025
 
 – Bə...
 
@@ -738,7 +738,7 @@ Ay qübbənin ortasında idi. Kürün qurumuş vadisində daşlar ay işığınd
 
 ...Səhər Zülfüqar kişinin meyitini Kürün sahilində, yaxşı, qayğısız günlərində rahat-rahat oturub, qəlyanını tüstülədə-tüstülədə, zümzümə eləyə-eləyə bəzən saatlarla Kürə tamaşa elədiyi yastı daşın yanında tapdılar. Bu xəbəri hamıdan erkən oyanmış tatar Təmir Mahmuda çatdırmışdı: ala-toran vaxtı qalxıb, əsnəyə-əsnəyə, gərnəşə-gərnəşə, guppuldayan, damarları şişmiş gicgahlarını ovucları ilə hövkəleyəhövkələyəhövkələyə – dünənki tut arağından sonra başında yarım pudluq ağırlıq vardı – Kürün sahilinə enmişdi ki, soyuq suyla həm əməlli yuyunub özünə gəlsin, həm də qayığına baş çəksin, çünki bir stəkan çay içib yola düşməliydilər: Mahmudu geri, evinə aparmalıydı. Uzaqdan ağ tuman-köynəkdə, üzüqoylu yaş, sıyıq torpağın üstünə yıxılmış adamı görən kimi tatar Təmir başa düşdü ki, bu yazıq bəndə Zülfüqar kişidir.
 
-@@ 050
+@@ 025
 
 Pişik çımxırtısına bənzər bir səs çıxarıb, iki əlli dizlərinə vurub, tez geri dönmüşdü, qaça-qaça həyətə girmişdi, ordan da birnəfəsə pilləkəni qalxıb, ölüm yuxusuna getmiş Salatını oyatmadan, özünü Mahmudun yatdığı qonaq otağına salmışdı. Mahmud necə qalxdı, geyindi, necə tatar Temirlə evdən çıxıb Kürün sahilinə endi – xəbəri olmadı. Əyilib, meyiti arxası üstə çevirdi, biləyindən yapışıb nəbzini tutdu, havalı adamlar kimi başını bulaya-bulaya baxışlarını Zülfüqar kişinin açıq qalmış gözlərinə zillədi. Tatar Təmir belini əyib, əllərini dizləri üstə qoyub, çənəsi əsə-əsə təlaşla Mahmuda baxırdı: ondan Allahın ağlagəlməz möcüzəsini gözləyirdi. Mahmudu isə qorxu çulğamışdı, tükləri biz-biz olmuşdu, alnına da soyuq tər gəlmişdi. Tez əlini uzadıb Zülfüqar kişinin gözlərini qapadı, vallahi ki, bunu eləməsəydi, bəlkə də doğrudan ağlı çaşardı: o gözlərin hər birində hərəsi alma boyda bir ulduz görmüşdü, buz qəlpəsi kimi işıldayırdılar. Mahmudun boğazından xırıltılı bir səs çıxdı:
 
@@ -754,7 +754,7 @@ Bu vaxt bir az aralıda Salatının yuxulu gəl səsi aləmi başına götürdü
 
 ...Burda, Kürün sahilindəki bu qədim kənddə növbəti hüzr mərasimi belə başladı. Moşunu poçta göndərdilər ki, tez rayon mərkəzinə zəng vurub bu xəbəri məsul yoldaşlara çatdırsın. Zarafat deyil, bu mahalın, bu obanın köhnə bolşeviklərindən biri, bəlkə də lap axırıncısı rəhmətə getmişdi və bunu mütləq lazımi yoldaşlar bilməliydilər. Salatının təkidilə tatar Təmir qonşuluqdakı şiə kəndinə – molla dalınca getdi: Mahmudla belə məsləhətləşdilər ki, mollanı, gələn-gedən görməsin deyə aşağı otaqların birində əyləşdirsinlər, yavaşca Quranını, yasinini oxusun. Çünki Zülfüqar kişi köhnə bolşevik olsa da, cavanlıqda ətrafdakı məscidlərin bağlanmasında ad çıxarsa da, həmişə sözünün əvvəli də Allah olmuşdu, sonu da. Xəbər çox tez yayılmışdı: Zülfüqar kişinin meyitini Kürün sahilindən evə gətirənə qədər kəndin nə qədər ağsaqqalı, qarasaqqalı vardısa, hamısı həyətə dolmuşdu: Salatına, Moşuya, hətta Mahmudun özünə də başsağlığı verdilər, ürəkdirək verdilər, nə lazımdısa hamısını dedilər. Ara sakitləşəndən sonra 
 
-@@ 051
+@@ 026
 
 >>meyiti aparıb Berzan kəndindəki yeganə məsciddə yuyub gətirəndən sonra Mahmudun gecələdiyi qonaq otağındakı iri stolun üstünə üzü qibləyə sarı qoyandan sonra, bu mərasimin məxluqundan üç nəfər – Mahmud, Təmir və Moşu yavaşca evin arxa tərəfindəki xəlvətliyə, sıx ağacların arasına çəkildilər. Mahmud neyçünsə əsəbi-əsəbi Moşuya dedi:
 
@@ -786,7 +786,7 @@ Təmir ağzındakı xırdaca çörək parçasını heyi qalmamış adamlar kimi,
 
 – Nə yuxu, ə?.. Qoy oturmuşuq, sən başın! – O, “yuxu” kəlməsindən, deyən, qorxuya düşmüşdü.
 
-@@ 052
+@@ 026
 
 51
 
@@ -816,7 +816,7 @@ Tək mən deyiləm yuxulara inanan. Yəqin əksəriyyət inanır, amma söhbətd
 
 Nənəm deyərdi, su aydınlıqdı, at savaşdı, qovğadı, ilan var-döv-lətdi. Qalanı yadımdan çıxıb. Mənim yuxularımı tərsinə yozardı, təkcə
 
-@@ 053
+@@ 027
 
 >>mənim yox, elə bütün qohum-əqrəbanın, qonum-qonşunun da həmçinin. Yanına gələrdilər, ordan-burdan söhbət eləyəndən sonra, görərdin ki, hərəsi öz yuxusunu danışardı, nənəm diqqətlə qulaq asardı, sonra yəqin ürəyinə xal salmamaq, qan qaraltmamaq, ümidləri qırmaq naminə başlardı yuxuları tərsinə yozmağa. Bizdən narazı, xeyirduasız gedən olmazdı. Ələlxüsus, dava vaxtı, tərsinə yuxu yozmağı bacarmaq az şey deyildi.
 
@@ -826,7 +826,7 @@ Uşaqlıqdan yuxu görməyə adət etmişəm. İndinin özündə də, hər gecə
 
 Səhər alaqaranlıqda yerinin içində qımıldanmadan, yumruqlarını sinəsinə sıxıb, gözlərini bir nöqtəyə zilləyib, başlayacaqsan bircə-bircə yadına salmağa. Yadına salacaqsan ki, uzun pilləkənin aşağısında dayanıb yuxarı baxırdın. Orada, yuxarıda işıq yanırdı. Hər adəmin öz təkrarolunmaz nadir yuxu işığı var. Mənim işığım dumanlı gündə güclə, öləziyə-öləziyə yanan fənər işığına bənzəyir... Heç bir vaxt onun üzünü görməsən də, bircə kərə səsini eşitməsən də, əminsən ki, o, mütləq gələcək, çünki başqa cür ola bilməz – işıq əbəs yerə yanmır, havayı yanmır, o gəlməlidir ki, nigarançılığa, gözüyoldalığa son qoyulsun, sənə bir udumluq təzə nəfəs versin... Gəlib pilləkənin başında dayanacaq, aşağı baxacaq, səni görüb, üzündə təəccüb, gözlərində maraq aşağı enməyə başlayacaq. Sən də yavaşyavaş yuxarı qalxacaqsan, pilləkənin ortasında görüşəcəksiniz. Onun uzun, səhər şahinin ətri qoxuyan bəyaz saçlarını sığallayacaqsan, sifətini ilıq sinəsinə sürtəcəksən, sonra gözlərindən öpəcəksən. Daha sonra, qəflətən ürəyinə nəsə damacaq, dodaqlarını aralayıb bircə kəlmə deyə biləcəksən: getmə... Vəssalam. Sonra tək qalacaqsan, həmin o zəif işığın sarımtıl, bozumtul, qırmızımtıl dumanı arasında tək-tənha. Əgər səksən iki cür tənhalıq varsa, bu tənhalıq səksən üçüncüdür.
 
-@@ 054
+@@ 027
 
 Qalxıb mətbəxə gedəcəksən, krantı açıb bir stəkan soyuq suyu birnəfəsə başına çəkəcəksən. Bu da ikinci, vəssalam. Qayıdıb yerinə uzanandan sonra, Allaha inanmasan da, O Gözəgörünməzə yalvaracaqsan ki, kaş o yuxunun mabədini görəydim, bu mümkün deyilsə, heç olmazsa, dəqiq, mütləq təkrarını görəydim. Amma gözünə yuxu gedəndən sonra daha heç bir şey görməyəcəksən, bəlkə ilandan, kərtən-kələdən gördün – bu isə, hesabdan deyil. Bu da üçüncü, vəssalam, yanında da şüttamamı.
 
@@ -834,7 +834,7 @@ Mən bir şeyə tamamilə əminəm ki, beş ilmi, on ilmi, lap əlli ilmi sonra 
 
 Həyətimizdə, bir maykada və tursikdə, ayaqyalın, başaçıq dayanıb, əlimdəki turş almadan dişdəm vura–vura Seyfulla əminin işinə tamaşa eləyirdim. Seyfulla əmi bütün günü həyətimizi, binamızın dörd yanını süpürür, axşama kimi işləyir, axşamüstü, hələ qaranlıq düşməmiş, ağ döşlüyünü çıxarıb, pas atıb qaralmış vedrəsini, uzunsov cod süpürgəsini zirzəmidə gizlədib, müharibə qurtarandan bir ay sonra aldığı “Qafqazın müdafiəsinə görə” medalını taxır döşünə, düz ayaqlarının altına baxa–baxa tindəki dükana gedir. Bir şüşə şirin şərab, bir balaca kağız bükümü şor pendir alıb geri qayıdır, hələ həyətdən dağılmayıb bir küncdə dayanmış biz uşaqları görüb, qalın barmağı ilə bizi hədələyə–hədələyə deyir: “Ay sizin başınıza dönüm, sizin qadanızı alım. Gedin bəy–bəy eləyin də!” Biz isə bu sözlərə məhəl qoymuruq, durduğumuz yerdəcə dayanıb, bir–birimizə göz eləyə–eləyə, işarə verə–verə, maraqla onun arxasınca baxırıq. Çünki Seyfulla əmi qıl körpüsü kimi amanabənd, daşları kələ-kötür pilləkənləri qalxıb ikinci mərtəbədəki dəmir qapının arxasında yox olandan düz yarım saat onun nazik, yanıqlı səsi eşidiləcək: Seyfulla əmi səsinin kövrək yerinə salıb, segah üstündə dağlardan, dərələrdən, çaylardan oxumağa başlayacaq…
 
-@@ 055
+@@ 028
 
 Sonra, hava qaralıb, pəncərələrdə seyrək işıqlar ağarıb-qızarmağa başlayanda, bizim həyətə sütül bir leytenant gələcək. Bu leytenant dünənki deyil, dünənki isə srağagünkü mayor deyildi... Leytenant par parıldayan uzunboğaz çəkmələrini tappıldada-tappıldada yanımızdan ötəndə bizə çəpəki nəzər salacaq, biz çoxbilmişlər isə, özümüzü o yerə qoymayıb, saymazyana düz onun üzünə baxmaqdan çəkinməyəcəyik. Leytenant, Seyfulla əminin pilləkənlərinə sarı yönələcək, yuxarı qalxmayıb, Zeynəbi gözləyəcək. Zeynəb, Seyfulla əminin anadan yetim qalmış təkcə qızı, çit paltarda, qolları açıq, əlində “trofey” sumka, Tıq-tıq xanım kimi, şappaşap-tappatap pilləkənləri enəcək, heç kəsə məhəl qoymadan, ayaq saxlamadan həyətin darvazasına sarı yönələcək: guya heç kəsi tanımır. Leytenant da onun dalınca. Bir azdan Seyfulla əminin qapısı yenə açılacaq, bu dəfə kişi özü çıxıb, ayaq üstə yırğalana-yırğalana, qırmızı burnunu çəkə-çəkə bizim üstümüzə qışqıraraq: “Ay qırılmışlar, ay filan olmuşların qarnından çıxmışlar! Cəhənnəm olub gedin xarabanıza da! Teatra gəlmisiz?!” Bu sözləri ucadan, lap bağıra-bağıra deyib, başını sinəsi üstə əyib, başlayacaq ağlamağa.
 
@@ -844,7 +844,7 @@ O gecə nənəm yenə yerimi salacaq, sonra mən yenə nənəmə dərmən verəc
 
 Gündəlik yazanlara hərdən paxıllığım tutur. Amma əslində bunun heç bir əhəmiyyəti yoxdur. Çünki heç bir şeyi insan həmişəlik unutmur, çünki xatirənin öz vədəsi var: vaxtı gələndə beynin bütün kilidli qapıları öz-özünə açılacaq. Amma gərək bu xatirələrin qabağında davam gətirə biləsən. Xatirələr üstünə gələndə, kilidli qapılardan biri
 
-@@ 056
+@@ 028
 
 >>açılıb, boğazından içinə qaynar qurğuşun töküləndə, ürəyinə də damcı-damcı ağrı axanda, gərək ya fit çalıb, göz vurub özünü səfehliyə qoyasan, ya əllərini qaldırıb təslim olasan. Başqa yol yoxdur. Çünki keçmiş həmişə pusqudadır, fürsət düşən kimi tətiyi çəkir.
 
@@ -876,11 +876,11 @@ Xəstə gülümsünüb, Mahmuda göz vurdu.
 
 Mahmud lap uğunub getdi, xəstə də güldü və öskürdü, amma öskürəyi yumşaq çıxdığına görə sevindi: quru öskürək sinəsində son vaxtlar elə ağrılar verirdi ki, gözlərinə qaranlıq gəlirdi.
 
-@@ 057
+@@ 029
 
 Zəminə ərinin ayaqları altda, çarpayının üstündə oturdu, gülə-gülə, əllərini oynada-oynada Mahmuda nəsə dedi və belə məlum oldu ki, arvad Salatından fərqli olaraq “cartesin” mənasını çoxdan bilirmiş... Mahmud da təzədən, bayaq xəstəyə nəql etdiyi əhvalatı – Zülfüqar kişiylə Salatının boş şeylərin üstündə höcətləşməklərini, tatar Təmirdən, onun qayığından, Tamaradan Zəminəyə danışmağa başladı. Xəstə onlara daha qulaq asmadı, gözlərini yarıyumulu halda, sifətində bayaqkı gülüşdən qalma rahat təbəssüm, sol əlini uzadıb, çarpayının yanındakı tumbanın üstündən siqaret götürüb yandırdı, ləzzətlə bir-iki qullab vurandan sonra, doğrudan da, özünü lap yaxşı hiss elədi: yəqin ki, Zəminə haqlı imiş, Mahmud onlara gələndə ələ bil hər dəfə özüylə Kür qırağının tilsimli ab-havasını, yüngüllüyünü və can rahatlığını gətirirdi. Mahmud onlara gələndə xəstənin bəzi-bəzi məsələlərə ümidi çoxalırdı, son iki ayda tez-tez yadına saldığı qanqaraldıcı əhvalatlar, ovqatı təlx edən xatirələr, qısa müddətə olsa da, yaddaşından silinirdi, növbəsini gözləyən kilidli qapılar daha açılmırdı: bu qapılar ələ bil Mahmudun xudahafizləşib getməsini gözləyirdi. Amma indi siqareti tüstülədə-tüstülədə arvadıyla Mahmudun şirin söhbətinə qulaq asmadan xəstə bir məsələni düşünürdü: Mahmud Zülfüqar kişinin ölümü əhvalatını danışanda, bayaq bir familiya demişdi, deyəsən Salahov... Adil Nəmənnəyoviçsə. Bəlkə ikinci blokdakı Salahovdur? Çünki o da çoxdandı doxsanı ötüb, iyirmi ilə yaxındır ki, hökumətdən fərdi pensiya alır, axşamlar bulvara çıxır və deyilənə görə, həmişə böyük vəzifələrdə işləyib. Bircə tez sağalsaydı, həyətə düşəndə o biri qonşulardan bu məsələni dəqiqləşdirə bilərdi. O ki qaldı uryadnik əhvalatına, xəstə əmin idi ki, bu adı da haradasa, haçansa eşidib, mütləq eşidib, buna heç bir şübhə bilməzdi. Amma harada? Bu dəfə xəstənin bütün cidd-cəhdinə baxmayaraq, nə illah etdisə də, kilidli qapılardan heç biri açılmadı. Xəstə yüz faiz əmindi ki, o uryadnik, bu qapılardan birinin arxasında dayanıb öz növbəsini gözləyir... Salahovun arıq, uzun bədəni, sarımtıl sifəti, azca əyri ağzı – deyilənə görə, bir dəfə yüngülvarı insult keçirmişdi – sümükləri çıxmış yanaqları və bir də qıyıq möğolu gözləri, xəstənin gözləri qabağına gəldi, o, Salahovu, onun nimdaş paltosunu, üstü gümüşlə naxışlanmış qədim çəliyini apaydın, indi Mahmudu gördüyü kimi, bütün dəqiqliyilə gördü. Xəstənin ürəyinə nəsə damdı: vallah, deyəsən, ələ o Salahovdur!
 
-@@ 058
+@@ 029
 
 Mahmud xəstəyə baxıb Zəminədən soruşdu:
 
@@ -898,7 +898,7 @@ Xəstə gülümsündü. Mahmud onun sarı dişlərini gördü, gözlərinin alt�
 
 Zəminə çayniki götürüb, çayı təzələməkdən ötrü otaqdan çıxandan sonra, iki nəfər – xəstə və Mahmud – nə üçünsə diqqətlə bir-birilərinə baxdılar və yəqin ki, hər biri ürəyində nəsə vacib bir şey barəsində fikirləşdi. Bunu Mahmud da, xəstə də eyni zamanda duydular: ikisinin də dodaqlarında hüznlü təbəssüm gəzdi, ikisi də elə bil bir-birindən utandı. Əgər indi üçüncü adam olsaydı, bir-birinə baxan bu iki nəfərin nəzərlərindən və əlbəttə, bu üçüncü adamın zənni iti olsaydı əgər, çox 
 
-@@ 059
+@@ 030
 
 >>şey oxuya bilərdi. Mahmudun xəstə qohumuna yazığı gəlirdi, bayaq-dan gülsə də, məzəli əhvalatlar danışsa da, zarafat eləyib ev yiyələrini əyləndirsə də, Mahmud əmin idi ki, qohumunun azarı ötərgi azar-lardan deyil, nəsə ciddi şeydir, haray salıb aləmi ayağa qaldırmaq lazımdır. Amma bunu Mahmud, təbii nə xəstəyə deyə bilərdi, nə də onun arvadına. Belə şeyləri heç kəs heç kəsə deyə bilməzdi: ümidin ətəyindən yapışıb, bir-iki il lap sürünməyin özü də, əlbəttə, qazancdı. Mahmud belə hallara düşəndə, yəni ürəyinə damdığı bir şeyin həqiqət olduğuna inananda həmişə özünü itirirdi, bilmirdi əlini hara atsın, kim-dən imdad diləsin, kömək üçün kimin üstünə getsin. Əlacı bir gözəgörünməzə qalırdı: içindən qalxan səs, onun özündən başqa heç kəsin eşidə bilmədiyi səs, beynini, ürəyini, bədəninin lap xırdaca hüceyrələrini də elə bil üyub toza döndərirdi, iradəsini məhv edirdi. “Ya Tanrı, özün kömək 011!”. Amma ömrü boyu neçə dəfə sınamışdı: son ümidin, son xahişin harayını Tanrı hələ eşitməmişdi. Mahmuda hərdən elə gəlirdi ki, Tanrının gözləri görür, ürəyi duyar, amma qulağı eşitmir. Çünki qulağı eşitsəydi, dünya milyon-milyon bəlalardan canını qurtarardı.
 
@@ -920,7 +920,7 @@ Xəstə gözlərinin yaşardığını hiss elədi və bu halı Mahmudun nəzəri
 
 – Ağrıyırsanmı genə? – deyə təşvişlə soruşdu.
 
-@@ 060
+@@ 030
 
 – Hə, balaca... Eybi yox, indicə keçib gedər... Qalxan kimi kassadan götürüb göndərəcəm. - Sonra zarafata salmaq istədi. - Qırağımı qatdasam, onda uşaqlar verərlər!
 
@@ -946,13 +946,13 @@ Xəstə başını buladı.
 
 Xəstə, arvadının gözlərindən gördü ki, Mahmuda verdiyi beş yüz manat möcüzə yaradıb: o gözlərdən qayğıdan uzaq balaca uşağın sevinci, şadlığı axırdı. Xəstə bilirdi ki, beş yüz manat iki ay, heç olmasa, ay yarım evin dolanışığını yoluna salacaq, daha səhərlər və axşamlar bu evdə ərlə arvad bir-birinin üzünə həyəcanla, gərginliklə, nigarançılıqla baxmayacaqlar... İki ay, heç olmasa, ay yarım.
 
-@@ 061
+@@ 031
 
 Xacə Ənvər xırdaca maşa ilə közərən tiryəki uzun qəlyanın hoqqasına qoyub, ciyər dolusu qullab vurdu, gözlərini yumub tüstünü ağzında saxladı, sonra ehmalca dolu, qırmızı dodaqlarının arasından, yastı burnunun deşiklərindən buraxdı: tiryək əvvəl-əvvəl göz qapaqlarındakı ağırlığı və yorğunluğu yox elədi, sonra ilıq hava kimi beyninə yayıldı və ayaqlarını keyləşdirdi. Xacə Ənvərə ən çox əziyyət verəm ayaqları idi: qabarmış damarları göyümtül millər kimi baldırlarından su yığılıb şişmiş dizlərinə qədər uzanıb, dırnaqları çürümüş barmaqlarındakı ağrını, giziltini bütün bədəninə yayırdı. Xacə Ənvər bu əqidədə idi ki, Allah ona dünyanın ən ağır bəlasını verib, ələlxüsus da axşamlar, dünyanın bütün canlıları rahatlığa çəkiləndə, hava sərinləşəndən sonra şiddətlənən, sulu gözlərinə qara duman gətirən, çənəsinə kimi bütün bədənini çulğayan bu şeytan ağrılarına dözmək bəlasını verib: heç itə, heç çaqqala qıymadığı bir əzabı, xudavəndialəm xacə Ənvərin adına yazıb və buyurub ki, son nəfəsinə kimi, canın ağzından çıxana kimi bu ağrıları bədənində gəzdir və şükür elə ki, səni kor xəlq eləməmişəm. Xacə Ənvər bu dəfə gümüş mücrüdən tiryəkin iri parçasını götürmüşdü, o bu axşam huşunu tamam kütləşdirmək, ağrılardan Allahın köməkliyi ilə canını qurtarmaq arzusunda idi: bir azdan, düşərgədə tonqallar yandırılanda, o, hökmdarın çadırına gedəcəkdi, bayaq vəzir buyurmuşdu ki, ordunun almağa hazırlaşdığı qaladan iki saray şairi aşağı enib və özlərilə çox mühüm hərbi məlumatlar gətiriblər. Və bir də bu düşərgədə, hökmdarın quruca hənirtisindən qorxub qarınağrısına düşən sərbazlardan biri öz doğma qardaşını bir gavur qızının üstündə qanına qəltan eləyib və yəqin ki, hökmdar o sərbazın böyük tikəsini qulağı boyda etdirəcəkdir: bayaq xacə Ənvər öz çadırına gələndə cəlladı qırmızı libasda görmüşdü. Deməli, gəcə-yarıya qədər xacə Ənvəri yatmağa qoymayacaqlar, gecəyarıya qədər xacə Ənvər hökmdarın hüzurunda ayaq üstə dayanıb ağrılara davam gətirməli olacaqdır... “Ya xudavəndi-aləm, fəqiri-bəndənə yazığın gəlsin. Şükür verən gününə!”
 
 Gümüş mücrüdən götürülmüş iri muncuq boyda hind tiryəki xacə Ənvərin baxtından tünd çıxmışdı: yavaş-yavaş beyni dumanlanırdı, əzələləri sustalırdı, ümdəsi də ayaqları get-gedə daha çox keyləşdiyindən, ağrıları əməlli azalmışdı. Yürüşqabağı hökmdar nə sərkərdə-
 
-@@ 062
+@@ 031
 
 >>lərinə, nə də sərbazlarına tiryək çəkməyə rüsxət vermirdi – bu qadağa hamı üçün Quran ayini qədər müqəddəs idi – çünki yürüşqabağı hökmdara dəmirağacı təki möhkəm əzələlər və aydın zehinlər lazımdı. Bu qadağa yalnız xacə Ənvərə aid deyildi. Çünki hökmdar bilirdi ki, xacə Ənvərin azarı elə azardı ki, o, dünya dağılsaydı da, tiryəki tərgitə bilməzdi. Tərgitsəydi, günün bir vədəsində qəflətən ölə bilərdi, hökmdar isə neçə illərdi, köpək kimi vəfalı nökərinə sidq ürəklə bağlanmışdı və hərdən ona elə gəlirdi ki, o – böyük bir məmləkətin böyük hökmdarı – həmin məmləkətdə, bəlkə də bütün yer üzündə, hamıdan çox xacə Ənvəri sevir və hamıdan çox xacə Ənvərə inanır.
 
@@ -962,7 +962,7 @@ Tonqalların, bir də torpağa basdırılmış uca dirəklərin başındakı ç�
 
 İçəridə vəzirdən və vəkildən savayı xacə Ənvər də vardı, o, çadırın bir küncündə dayanıb, iki qulağını bir eləyib, hökmdarın dediklərini dinləyirdi. Hökmdar, düşmən qalasından gəlmiş şairləri hüzü-
 
-@@ 063
+@@ 032
 
 >>runa buraxmaq fikrində deyildi, çünki onların gətirdikləri məlumatları sərkərdəbaşına verib, axşama yaxın onun izahını dinləyəndən sonra qərara gəlmişdi ki, daha əlavə söhbətə, əlavə sorğuya ehtiyac yoxdur: yürüşə lap indi başlamaq olar. Qala artıq hökmdarın əlində idi. Bu, hökmdarın fikrincə, Allahın möcüzəsi idi, xudavəndi-aləmin ona göstərdiyi mərhəmətin nişanəsi idi. Tanrı hökmdarın tərəfində idi... Xacə Ənvər əllərini arxasında cütləyib, ayaqlarında yun corablar, xalıların, mütəkkələrin üstündə gəzişən və çox nadir hallarda müşahidə etdiyi bir şeyi – hökmdarın gülümsədiyini görüb, ürəyində bu gün neçənci dəfə idi ki, “şükür, şükür” deyirdi. Yalnız vəzirin son sözlərini eşidəndə hökmdar dayandı, qaşlarını düyünləyib təəccüblə, ağır-ağır başını buladı.
 
@@ -984,7 +984,7 @@ Hökmdar çadırın ortasına yönəldi, enli taxta əyləşib başını sinə-s
 
 – Şairlərə deyin ki, hökmdar razıdır. – Sonra başını qaldırıb, qırışmış boğazının hülqumunu oynada-oynada, həmişəki qaydasında üzündən zəhrimar yağa-yağa, yorğun və narazı təbəssümlə sözünə davam elədi: – Mən çox məmləkətlər görmüşəm, amma şairi şairinin başını istədiyi məmləkəti görməmişdim... Şükür verən gününə, ulu Tanrı, bunu da gördük.
 
-@@ 064
+@@ 032
 
 Hamının çiynindən dağ götürüldü, hamının nəfəsi ciyərlərindən rahat və sərin çıxdı və hamının ürək döyüntüsü əvvəlki adi qaydasına düşdü: hökmdarın bəxşişindən imtina etmək xəbərini hökmdara çatdırmaq buradakıların hər birinə baha otura bilərdi... Cəllad belə məşvərətlər zamanı həmişə eşikdə qırmızı libasında əmrə müntəzir dayanırdı...
 
@@ -1000,7 +1000,7 @@ Gavur qızını gətirdilər. Qızın bəyaz saçları vardı, bu saçlar o qəd
 
 Sərbaz öz adını eşidəndə gözlərini açıb hökmdara baxdı. Dodaq-larını aralayıb istədi hökmdardan imdad diləsin, amma qalın dodaqları aralanmadı: sərbazın boğazından iniltiyə bənzər bir səs çıxdı. Hökmdar sərbazın meyit sifətinə ilana, kərtənkələyə baxırmış kimi həm ikrahla, həm də gözucu baxdı və nə üçünə sarımsaq iyi duydu. Sərkərdələr, sərbazlar, vəzir, həm bu divan mərasiminin nəylə qurtaracağını əvvəlcədən bilirdi: yürüşqabağı bir sərbazın, bir sərkərdənin nəmək-
 
-@@ 065
+@@ 033
 
 64 rəmə əl vurmağa ixtiyarı yoxdu, bu qadağanı pozanların aqibəti hamıya məlumdur – qırmızı libasını geymiş cəlladın iti baltası təzə qan, axşam işığında qırmızı yox, bəhməz kimi qaramtıl rəngə çalan qan intizarında gecə-gündüz öz növbəsini gözləyirdi: bu baltanın yanından kim keçirdisə, nəfəsi kəsilirdi. Hökmdarın qadağasını pozmaq Tanrının qadağasına xilaf çıxmaq demək idi. İndi, əslində, heç kəsi Səlim adlanan sərbazın aqibəti maraqlandırmırdı. Səlim adlanan sərbazın bir gavur qızının üstündə doğma qardaşını öldürdüyü xəbərini hökmdara çatdıranda, hökmdar sirkə içibmiş kimi üz-gözünü turşudub, yumruqları ilə vəzirinin kürəklərinə döyəcləmişdi, amma hirsi, kini sönməmişdi, yazıq vəzirin saqqalından yapışıb bir çəngə tük qoparmışdı. Sonra boşalıb, əldən düşüb, taxta oturmuşdu, əllərini dizləri üstə qoyub yorğun-yorğun bu sözləri demişdi: “Sizin Allah axırınıza çıxsın… Məmləkəti məhv edəcəksiniz!” İndi hamı bir uşaq yetikliyilə gavur qızının aqibəti ilə maraqlanırdı. Hökmdarın bu sarıdan fikrini heç kəs bilmirdi, hökmdar gavur qızını sərbazlarından birinə bağışlaya bilərdi, gavur qızının başını bədənindən ayıra bilərdi, şaqqalatdırıb hər ayağını, hər əlini bir dirəkdən əsdirə bilərdi. İndi hər şey yalnız hökmdarın iradəsindən asılı idi, bir də onun ovqatından… Hökmdar əlini qaldırdı, cəllada işarə verdi. Cəllad, canı çıxmış, yalnız quruca nəfəsi qalmış sərbaz adam yerinə qaldırdı, soyuq baxışların altında öz işini gördü: sərbaz cınqırını da çıxarmadı – qırxıq baş bir göz qırpımında bədəndən ayrılıb» sarımtıl otların üstünə dığırlandı, yalnız baltanın iti tiyəsi cingildədi. Və bir də, bu öyrəncəli sükut içərisində hamı gavur qızının sinəsindən qopan ahını eşitdi. Amma heç kəs cürət edib gavur qızına baxmadı, bir hökmdardan başqa; o, ağır-ağır başını döndərib, gözlərini qıyıb, əvvəl gavur qızının yalın ayaqlarına, kirli dırnaqlarına baxdı, sonra gözləri yenə bəyaz saçlara dikildi. Bu bəyaz rəng axıb hökmdarın qaralmış sifətinin qırışları arasına yayıldı: hökmdarın sifətində işıq gəzdi, lakin bu işığı heç kəs görmədi. Bu işığı yalnız Tanrı gördü.
 
@@ -1014,7 +1014,7 @@ Hökmdar dönüb, üzü çadırına sarı dayandı və davam elədi:
 
 – Qalanı almayınca, qaladakı erkəkləri qanına qəltan eləməyincə, Səlim sərbazın başını nizəyə keçirib lap qurd düşüncəyə qədər saxlayın!..
 
-@@ 066
+@@ 033
 
 65 O gecə hökmdar yuxusunda rahat bir bəyaz rəng gördü və bu bəyaz rəngin içərisində qadın laylası eşitdi: anasının səsi idi.
 
@@ -1026,7 +1026,7 @@ Xəstə, hələ xəstələnməmişdən qabaq, çox-çox qabaq, əlində vedrə, 
 
 Gələcəyin xəstəsinin yerində başqa adam olsaydı, yəqin ki, qışqırıb siçovulu təpiklərdi, ya da vedrəni tullayıb, qorxudan qaçıb evinə qurtulardı. Çünki bu zəmanədə hamıya məlumdur ki, çoxları danışır, nitq eləyir, çənə-boğaza qoymur, amma siçovul danışa, gecə on ikinin yarısında, qaranlıq yerdə, zibil atmağa enmiş sadə bir sovet vətəndaşının qabağında dayanıb ona “salam” deyə, bu, vallahi, kimin desəniz ağlını çaşdıra bilərdi. Amma xəstə olası adam belə şeylərdən qorxan deyildi. Doğrusu, geci-tezi var, bu cür və ya buna bənzər əhvalatlar çoxlarının başına gəlir, bəlkə bundan da qəribələri, amma heç kəs boynuna almır, çünki boynuna alanların hamısı indi dəlixanalarda arxası üstə uzanıb tavana baxır. Düzdür, bu sözləri siçovulun ağzından
 
-@@ 067
+@@ 034
 
 >>eşidəndə xəstə olası adamın bədəninə müxtəsərcə üşütmə gəlmişdi, yüngülvarı udqunmuşdu, amma qorxmamışdı, vedrəni deşiklərdən birinə boşaldıb, özünü heç o yerə qoymamağa çalışaraq soruşmuşdu:
 
@@ -1052,7 +1052,7 @@ Xəstə olası adam vedrəni yerə qoyub, əlinin arxası ilə alnına gəlmiş 
 
 – Qorxma, qorxma! – Kirlikir onun fikirlərini qabaqladı. – Havada gəlməyib başına. Psixikan da yerindədi. Lap arxayın ol!.. Sən ki məndən qorxmadın, deməli, ayıq adamsan. Bəzi məsələləri başa düşən adamsan. Qədrini bil, canına bax, siqaret çəkmə, hər yay çalış, putyovka düzəldib sanatoriyaya gedəsən. – Yeriyib, müsahibinin qabaq-qənşərində dayandı. Bu dəfə səsi müdrikanə çıxdı: – Hər gün də
 
-@@ 068
+@@ 034
 
 67 arvadın yanına girmə, mənnən sənə əmanət. Arvadları pis öyrətməyin, canım!.. Sizin evinizi bilirsən nə yıxacaq? Hə?
 
@@ -1078,7 +1078,7 @@ Xəstə olası adam evdən gətirdiklərini – kolbasanı, çörəyi, bir də a
 
 – Mən araq içməyəcəm, sən içəcəksən. Yəni mən də içəcəyəm ha, amma sənin kimi yox. – O, üz-gözünü turşudub öskürdü. – Çünki mən sənin kimi içsəm, selikli qışam yanar, o dəqiqə ölərəm, qonşu. Sən belə otur, vedrəni çək bir az sağa. – Xəstə olası adam Kirlikir necə demişdi, elə də elədi. – Hə, indi otur. Afərinlər. Görürsən, qonşu, sən-
 
-@@ 069
+@@ 035
 
 >>nən mən həm üzbəüz oturmuşuq, həm də yox. Daha doğrusu, aramızda... – O yenə bir gözünü yumdu. – Ha, aramızda düz altmış üç dərəcəli üçbucaqlı bir sahə əmələ gəlib. Deməli, sən arağı içdikcə, mən özümə lazımi dərəcədə alkaloidləri havadan qanıma çəkəcəyəm... – Xəstə olası adam açıqca maraqla Kirlikirə baxırdı. – Bunu necə elədiyimi başa sala bilərdim, amma düzü, qonşu, birinci, hövsələm yoxdu, ikinci də... bir az ağır olar sənə belə şeyləri başa düşmək. Yox, nə telekinezdi, nə parapsixologiya. Məkanın dördüncü vektorunda qravitasiyanın bir xüsusiyyəti də özünü büruzə verir... Qonşu, gözlərindən görürəm ki, qandığın qrafa yoxdu. – Xəstə olası adamın həqiqətən heyrətdən gözləri dəyirmilənib hərəsi bir gavalı boyda olmuşdu. – Sən heç əşşi! Sizin o məşhur alim var ey... fizik, bu yaxınlarda da arvadı onu baldızıynan yaxalayıb ha, onu deyirəm... Nədi, bundan da xəbərin yoxdu?.. A kişi, sən lap əfəlsən ki? Bütün şəhər danışır bundan ki!.. Onun yuxusuna girmişdim. Başın haqqı, qravitasiyaya dair elementar bir sual verdim ona, sən öl, cavab verə bilmədi. Amma neynirsən, adı akademik, sinəsi də ordenlərlə dolu! Amma gəl indi bizim günümüzə bax!.. Bu vaxt xəstə olası adam elə bil yuxudan ayıldı: bu hadisə, onun Kirlikirlə rastlaşıb zibil yeşiklərinin arasında havası ağır zibilxanada söhbət eləməsi, bütün bu keçirdiyi hisslər, duyğular haçansa olmuşdu, çoxdanmı, ya bu yaxınlardamı – bunu deyə bilməzdi, amma dəqiq olmuşdu. Hətta o, zibilxananın girəcəyində dirəkdən sallanıb yanan, zəif işığı ilə zibil yeşiklərini sarımtıl rəngə boyamış lampanı nı da xatırladı və bu lampanın işığını yuxuda tez-tez gördüyü uzaq və təlaş dolu bir çırağın işığına bənzətdi: o çırağın işığını lap aydın xatırladı və ürəyi döyünməyə başladı, “Xudaya, – deyə fikirləşdi, – haçan görmüşəm o çırağı?” Gözlərinin qabağına bəyaz bir rəng gəldi, titrək, ümid dənizi kimi təmiz və qayğısız bir bəyaz rəng. Və həmin anda da, lap uzaqlarda, bu zibilxanadan ağlasığmaz dərəcədə uzaq olan bir yerdə, bəlkə də dünyanın lap o başında əsməyə başlayan küləyin boğanağını eşitdi. Gözlərini yumdu. Kirlikir dedi:
 
@@ -1088,7 +1088,7 @@ Xəstə olası adam kirpiklərini araladı.
 
 – Düz sözümdü, – deyə Kirlikir davam elədi, amma bu dəfə elə bil bir qədər cəsarətsiz danışdı: – Bir yanın boş qoy, – dedi, başını aşağı salıb qarnını qaşıdı. – Çox dərinə gedəndə içindən qənbərqulu çıxır... İşıqlı, küləkli, filan-peşməkandı, bunlara gərək bu zamanada barmaq-
 
-@@ 070
+@@ 035
 
 >>arası baxasan, yoxsa işlər olar fırıq. Di yaxşı! Əyləş, qonşu vuraq özümüzçün.
 
@@ -1132,7 +1132,7 @@ Xəstə olası adam əlini şalvar cibinə salıb, o vaxtlar dəbdə olan “Avr
 
 Kirlikirin də araqdan sonra elə bil dili açılmışdı, dəqiqi, o elə bil get-gedə, danışdıqca, aradakı ünsiyyət bərkidikcə daha cəsarətli olur-du: bayaq, qonşu ilə tanış olduğu ilk dəqiqələrdə səsində, xəstə olası adamın diqqətindən yayınmayan müxtəsərcə bir qorxu və ehtiyat vardı. Amma indi Kirlikir, necə deyərlər, söhbətin, məclisin yüyənini əlinə almışdı, həm tamadalıq eləyirdi, həm də qonşu sarıdan tamam arxa-
 
-@@ 071
+@@ 036
 
 >>yındı, təpikdən-filandan qorxmurdu. Bu zəmanədə də siçovul adlanan bəndəyə nə lazımdı ki?.. Otur, rahat kolbasanı ye, araqdan yavaşıyavaşyavaş vur və şükür elə ki, böyrünü-başını təpikləmirlər. Xəstə olası adamın beynində bir-iki söz kibrit qızartısı kimi alışıb yandı. “Təpik nədi, bu, niyə təpikdən qorxur?” – deyə incik-incik düşündü və həmin anda da dərk etdi ki, o da Kirlikirin bəzi fikirlərini oxuya bilir.
 
@@ -1154,7 +1154,7 @@ Xəstə olası adam, çörək, kolbasa götürüb yeməyə başlayanda Kirlikir 
 
 – Üç gün bundan qabaq Səməndərovun onikibarmaq bağırsağının alt hissəsində, selikli qişada noxud boyda bir şiş əmələ gəlib… Düdüyün hələ xəbəri yoxdu. – Kirlikir yumulu gözünü açıb müsahibinə ikigözlü baxdı və xəstə olası adama elə gəldi ki, bu baxışlarda nəsə məzəmmətedici bir şey var. – Mən bilirəm kimə düdük demək
 
-@@ 072
+@@ 036
 
 >>lazımdı, kimə ağıllı adam... Heç narahat olma. Sən, misalçün, o qədər ağıllı döyülsən, amma yaxşı adamsan. Səməndərov isə düdük adamdı. Dədəsi də düdükdü, özü də... Niyə? Qulaq as... Səməndərovun evində səkkiz yüz min, təzə pulla ha, pulu var, hələ mən qızılları, brilyantı demirəm, bunnarı Ağdamda dədəsigildə saxlayır. Hamısını da, demək olar ki, tütün fabrikində bu “Avrora”nın hesabına qazanıb. Zəhərin hesabına. Camaatı zəhərləyə–zəhərləyə... Məni, xahiş eləyirəm, düz– gün başa düşəsən. Bacarana can qurban!.. Camaat sex açır, rüşvət alır, rüşvət verir. Onnarnan mənim işim yoxdu. Genə deyirəm, bacarana can qurban! Zamana belədi. Hamı sənin kimi əfəl deyil ki! Özünə bir əməlli şalvar da ala bilmirsən. Nə isə, şalvar məsələsinə sonra... Zaraza, hər yay cibinə otuz min qoyub gedir Soçiyə, Kislovodska, guya ki, ürəyi xarabdı. On beş–on altı yaşlarında qız uşaqlarını korlayır, pulun gücünə ha, qayıdıb gəlir, leşin salır arvadın üstünə. Neçə dəfə yuxusuna girmişəm, mənim də canım candı, dəmir döyül, axı, demişəm, qorxutmuşam ki, ay zaraza, adam ol, körpə uşaqları bədbəxt eləmə, geci–tezi var, çıxacaq qabağına! Ay–hay! Kimə deyirsən! Mənə bilirsən yuxuda nə deyir? Deyir, qələt eləmə, sən məni aldada bilməzsən, sən Şaumyan rayonunun oboxeisinsən, gəlmisən məndən söz almağa. Ay qonşu, belə zırramadan nə gözləyirsən?! Axırı noldu? Noxud boyda şiş altı aydan sonra böyüyüb olacaq yumurta boyda, metastazalar yayılacaq bütün qarın nahiyəsinə, ordan da keçəcək ciyərə və ilaxır. Əhvalat vaqe olacaq qaran–qurux yerdə. Fatihə!.. Süz görüm, genə qanım qaraldı. – Kirlikir əsəbi–əsəbi boğazını arıtladı.
 
@@ -1164,7 +1164,7 @@ Xəstə olası adam isə qulaqlarına inana bilmirdi və bu əhvalatı Kirlikiri
 
 – Bunu da içək, qonşu, sənin sağlığına! – Kirlikir yenə burnunu xəstə olası adamın əlindəki stəkana sarı tuşladı. – Xoşbəxt ol!
 
-@@ 073
+@@ 037
 
 Dünyanın iki məxluqu – bir adam və bir siçovul, ilin mülayim fəslində, gecənin ulduzları parıldaşan vədəsində bir şüşə arağı yarı eləmişdilər, bəlkə də yarıdan bir az çox. Xəstə olası adam, deyəsən, əməlli keflənmişdi: boşalıb, bir tuluq havaya dönmüşdü, ona elə gəlirdi ki, külək əssə, yerindən qopub yuxarı qalxacaq. Amma hardasa əmin idi ki, bu, təkcə arağın təsirindən deyildi. Bu qeyri-adi görüş və söhbət elə bil onu adamlıqdan çıxarmışdı. O daha zibilxananın üfunətini də hiss eləmirdi: əvvəllər bura gələndə, əksər hallarda barmaqlarını ilə burun pərələrini bərk-bərk sıxırdı, ikrah hissi ilə ətrafa baxıb, vedrəni yeşiklərdən birinə boşaldıb, tələm-tələsik burdan çıxmağa çalışırdı. Amma indi zibilxananın iyi elə bil hardasa çox-çox uzaqlarda qalmışdı, bu iyin əvəzinə bura duyumsuz bir hava axını dolmuşdu, həm sərindi, həm ilıq, adama ləzzət verirdi. Xəstə olası adam bir şeyə də qəti əmin idi ki, bu havanı bura Kirlikir gətirmişdi, üfunəti burdan o yox eləmişdi.
 
@@ -1186,7 +1186,7 @@ Kirlikir başını yuxarı qaldırıb, burnunu dirəkdən sallanmış lampaya tu
 
 Kirlikir qalxıb zibilxananın sınıq-salxaq qapısına sarı yönəldi, içəri düşən işıq zolağından gizlənib, özünü qaranlığa verdi.
 
-@@ 074
+@@ 037
 
 Odu ha... Salahov Adil Qəmbəroviç.
 
@@ -1208,7 +1208,7 @@ Bunu deyəndən sonra, Kirlikir fırfıra kimi yerində fırlanıb tozanaq qopar
 
 – Tfu, zəhrimar! Adə, bu nə svoluçxanadı bu həyət! Başdan-ayağa antisanitariyadı. Svoloçı! - Hər ehtimala qarşı çəliyini hiddətlə yerə çırpdı və qəribəsi bu oldu ki, onun dəhşətli qorxu içərisində çırpınan ürəyinin döyüntüsünü zibilxanada daldalanıb dayanmış, indi Kirlikirə qoşulub onunla bir yerdə uğunub gedən xəstə olası adam öz ürəyinin döyüntüsü imiş kimi aydınca eşitdi: ona elə gəldi ki, belə ürək çırpıntısından sonra heç bir canlı yaşaya bilməzdi və belə ürək yüz yerə parçalanıb tikə-tikə olmalıydı. Amma çəlikli kişi nə öldü, nə yıxıldı, çəliyini yarə vura-vura tələsik blokun qapısından içəri girdi və qaran-
 
-@@ 075
+@@ 038
 
 Svolocı!
 
@@ -1232,7 +1232,7 @@ Kirlikir xəstə olası adamın gözlərinin içinə baxdı.
 
 Xəstə olası adam başa düşdü ki, Kirlikir əməlli keflənib, çünki açıq-aşkar hətərən-pətərən danışırdı: hökmdarın törəməsi?.. Kirlikir yenə zibil yeşiklərinin arasında gəzişməyə başladı, sonra dayanıb zəndlə ona baxdı: 
 
-@@ 076
+@@ 038
 
 – Eeh! – yanıqlı-yanıqlı əlini yellədi. – Zəhrimara qalsın belə həyat. Tüpürəsən belə həyata, ay qonşu. – Sonra gözlərini qıydı, xəstə olası adamın bədəninə od düşdü, ona elə gəldi ki, tükləri ütüldü. – Sənə güvəndiyim dağlar, sənə də qar yağarmış. İnanmırsan, hə?
 
@@ -1268,7 +1268,7 @@ Bayaqdan bu söhbətə gülə-gülə, ləzzət ala-ala qulaq asan oğlan uşağ�
 
 – Mama, – dedi, – papanın qarnına gör necə balaca-balaca tüklər çıxıb?
 
-@@ 077
+@@ 039
 
 Zəminə yaxına gəldi:
 
@@ -1294,7 +1294,7 @@ Xəstə özünü o yerə qoymadı:
 
 – Bıy, səndən nə əcəb, ay kişi, zibil dərdinə qalırsan, hə? Yəni sənnən başqa evdə adam yoxdu?.. Uşaqlar atır. 
 
-@@ 078
+@@ 039
 
 Xəstə başını tərpətdi, gülümsündü və arvadına minnətdarlıqla baxdı: bu sualına belə adi cavab almasaydı, bəlkə də beyninə qan sızardı – bunu gicgah damarlarının guppultusundan hiss etdi, elə bil kilidli qapılardan hansısa cırıldayıb açılmaq istədi. Xəstə, həyətlərindəki zibilxananın girəcəyində şalbandan sallanmış elektrik lampasının işığını xatırladı, bu işıq uzaq sarı ləkə kimi gözləri qabağında dəyirmi-dəyirmi halqalar əmələ gətirdi və üstəlik də, xəstənin ürəyi darıxdı. Bir bəyaz rəng gözlərindən içəri axdı.
 
@@ -1308,23 +1308,23 @@ Arvadı narazılıqla ərinin üzünə baxdı.
 
 Doktor Mərg Berqman vaxtilə, təxminən otuzuncu illərdə dədə-baba yurdu Jitomirdən baş götürüb Bakıya gəlib, şəhərin o zaman “Bondarnıy” deyilən məhəlləsində məskən salmışdı. Köçməyinə köçmüşdü, amma bunun dəqiq səbəbini bilənlər azdı, bəlkə də heç yoxdu. Hər halda doktorun özü bu tələm-tələsik, narahat və təhlükəli köçün səbəbini izah eləməyi xoşlamırdı, neçə illər bundan qabaq olmuş bu xoşagəlməz əhvalatı elə bil birdəfəlik yadından çıxarmışdı; hər gün səhər yazı masasının üstündəki tozu nəm əski ilə sildiyi kimi, Jitomir-Bakı əhvalatını yaddaşından həmişəlik silib tullamışdı. Onun özünə hər hərdən, ələlxüsus, son iki-üç ildə elə gəlirdi ki, heç Jitomirdə olmayıb, orada dünyaya gəlməyib, atasının, anasının qəbri də orda deyil. Mərg Berqman Bakıda anadan olub, Bakıda boya-başa çatıb, özü də, onu anası Dora Solomonovna doğmayıb, nə isə bir möcüzə baş verib və o, menzurka kimi bir şeyin içində əmələ gəlib doğulub. Bir Allah bəndəsinin harda anadan olduğunun və kimin qarnından çıxdığının bu dünyaya, bu günə, bu axşama nə dəxli?.. Hər dəfə bazar günü, qışın soyuğunda, yayın istisində Bayıl bazarına, evdə saxladığı balıqlara yem almağa gedəndə bu fikrin həqiqət olduğuna daha çox inanırdı. Balıq bazarına gedəndə taksiyə minmirdi. Bütün yolu piyada gedə, yan-yörəsinə baxa-baxa, səhərin ilıqmı, ya soyuqmu havasında xumarlana-xumarlana dünyaya verdiyini vermiş, dünyadan aldığını
 
-@@ 079
+@@ 040
 
 >>almış bu qoca yəhudi hər anın, hər dəqiqənin xırda və ötərgi səadətini canına hopdururdu, qanına çəkirdi. Doğrudan, insana xoşbəxt olmaqdan ötrü çox şey lazım deyilmiş: bircə anlıq səadətin səhər yeli kimi ilıq təmasından başqa görəsən, insana nə lazımdır? Heç bir şey. Ürək sıxan, qan qaraldan hadisələr isə bu səadətin işığında uzanıb-qısalan kölgələrdən savayı bir şey deyil, gərək bu kölgələrə fikir verməyəsən, gərək onları vecinə almayasan, fikir versən, vecinə alsan, elə kölgənin özünə büdrəyib yıxıla bilərsən: badalaq vurmaqda kölgənin bu dün-yada tayı-bərabəri yoxdur...
 
 Bu gün evə qayıdanda, müxtəsər təngnəfəs olsa da, hər halda, yetmişi ötmüşdü, əhvalı lap kəllə-çarxda idi. Enli pilləkənləri – olduğu bina Bakının inqilabdan qabaq tikilmiş binalarındandı – zümzümə eləyə-eləyə qalxıb, ikinci mərtəbədə dayandı, ağzı bağlı bankanı yerə, ayaqları altda qoydu, əlini şalvar cibinə salıb ağır açar dəstəsini çıxartdı və dəmir qapısının iki kilidini açdı. Kənardan ona baxan olsaydı, sifətindəki işığı, gözlərindəki şöləni görən olsaydı, deyərdi ki, yəqin təzəcə order alıb, buna görə də belə sevincəkdi. İçəri keçib, hər iki divar boyu üst-üstə qoyulmuş parıltılı rəflərdəki kitablara baxıb burnunu çəkdi, ayaqqabılarını çıxarıb səliqə ilə cütləyəndən sonra bir tərəfə qoydu və rəngi solmuş, dabanları yeyilmiş, yaşıl mahuddan çəkələk-lərini geyindi. Sonra kabinetinə keçdi. Yazı masasının yanında, divara pərçimlənmiş, polad borucuqlardan düzəldilmiş çərçivənin arasında yerləşdirilmiş iki iri akvariuma baxdı. Balıqlar qaraltı görüb hərəkətə gəldilər, aram üzənlər burunlarını şüşəyə yapışdırıb yuxarıaşağı şütüməyə başladı, iti üzənləri, kompressorun suya vurduğu hava axarında fırlanıb vurnuxdu: balıqlar yəqin bildilər ki, bu gün onlara təzə yem veriləcək, yiyələri bazardan qayıdıb, indi suyun içində yumağa dön-müş qırmızı qurdlar gətirib. Mərg Georgiyeviç gülümsündü, uşaq kimi sevindi və əlinin arxası ilə akvariumun şüşəsini sığallayıb boğazından qəribə bir səs çıxardı: “quli, quli, vı moi!” Sonra Mərg Georgiyeviç balkona çıxdı, bankadakı yemi su qarışıq dördkünc küvetin içinə boşaltdı: bazardan gətirilən yemi o dəqiqə balıqlara vermək olmazdı, gərək bir müddət ötsün, sonra böyüdücü şüşə ilə Mərg Georgiyeviç qurdları diqqətlə nəzərdən keçirib, balıqlara zərər verə biləcək bəzi həşəratları pinset ilə tutub tualetə atmalıydı... Mərg Georgiyeviç otağa qayıdıb qapını arxasınca bağladı, mətbəxə getdi, qaz pilətəsini yandırıb çayniki istiyə qoydu. Sonra yenidən kabinetinə qayıtdı, akva-
 
-@@ 080
+@@ 040
 
 Zəminə xanım? Hər vaxtın xeyir. – Mərg Georgiyeviç Bakıya köçüb yaşadığı illər ərzində Azərbaycan dilini mükəmməl öyrənmişdi.
 
 – Çox sağ ol, salam göndərən sağ olsun... Tək... hemoqlobininin elə bir təhlükəsi yoxdu, narahat olma – rus dilinə keçdi. – Tı, radi boqa, ne bespokoysya. Poka ya ne viju veskix priçin dlya qospitalizatsii. Vse svyazano s qormonalnımi izmeneniyami, 1 pritom, neznaçitel'nimi. – Yenə Azərbaycan dilində davam elədi: – Bəli, bəli, qarnına tük çıxması da, əsəblərinin yerində olmaması da, hamısı ancaq hormonal dəyişikliklərlə əlaqədardır. Heç narahat olma. Axşam səkkizdən sonra gələcəyəm, mütləq. Bircə Səlimə xanıma baş çəkməliyəm, lap daha məni əldən salıb. Sonra sizə gələcəyəm. Mənnən də çoxlu salam söylə. Hələlik. – Dəstəyi aparatın üstünə qoydu, bir müddət nə haqdasa fikirləşə-fikirləşə dəstəklə aparatı birləşdirən burulma məftilə baxdı və yerindən qalxmadı. Mətbəxdə çaynik fit verənə kimi beləcə oturub tərpənmədi. Çaynik fit çalıb, “qaynadım, partladım” deyəndə qalxdı, qurumuş fəqərə sütunundakı sızıltıya məhəl qoymadan mətbəxə yönəldi, dəhlizdən keçəndə yüngülvarı axsadığını hiss etdi – ağrı həmişə sağ ayağına vururdu – fit çaldı, mətbəxdə özünə bir stəkan tünd çay süzüb kəmşirin elədi, tələsmədən, alkoqolik şirin çaxırın hər qurtumunu vaxtı uzada-uzada içdiyi kimi (ağlına gələn bu müqayisədən güldü), o da çayını qurtum-qurtum, dadını, istisini dilinə, selikli qişasına, beyninə yaya-yaya içdi. Bayaqdan, telefonla danışdıqdan sonra içərisində hərələdiyi fikrin üstünə bir də qayıtdı: xəstənin bütün analizləri, üstəlik də, ümumi klinik mənzərə onun diaqnozunu hərtərəfli təsdiq edirdi, lakin belə bir aydın mənzərə fonunda adam qarnına birdən-birə tük çıxmasının səbəbi heç cür izah olunmurdu. Və açığı, Bakıda Mərg Georgiyeviçin bu sarıdan məsləhət ala biləcəyi elə bir adam da qalmamışdı. Şəhərin ən məşhur endokrinoloqu sayılan, Mərg Georgiyeviçin köhnə dostu professor Qasımbəyli inişil rəhmətə getmişdi. Qalanları, açıq, o qədər də bel bağlamalı adamlar deyildilər, cavan həkimlərin isə əksər hallarda bisavadlığı ilə üz-üzə gələndə qolları sustalıb yanına düşürdü... Berqman bu məsələdə, şübhəsiz, ilişməyinə ilişmişdi, müalicəsinin hansı mərhələsində isə səhvə yol vermişdi. Səhvəmi?.. Hər halda, Mərg Georgiyeviç özü, səhv elədi-
 
-@@ 081
+@@ 041
 
 >>yine heç cür inanmırdı. Hətta hər hərdən fikirləşirdi ki, evindəki bütün kitabları, təbii, tibb kitablarını ələk-vələk eləyib təzədən səhifə-səhifə oxusa, bu suala cavab tapa bilməyəcək, yenə çaş-baş qalacaq. Burda nəsə başqa şey vardı: bu metamarfozanın kökü, ola bilsin, nəinki tibbi, heç genetik problemlərlə də bağlı deyildi. Bəlkə elə yaradan belə buyurub ki, xəstə, filan yaşına çatanda qarnına tük çıxsın, Mərg Georgiyeviç, yaşının bu vaxtında, səhhətinin bu vəziyyətində əndazədən çıxarsın, onun rahatlığına, əmin-amanlığına son qoysun?.. Bu fikrinə də güldü, başını buladı, çayını yarı eləməmiş, üstünə su aldı və yenə bayaqkı qaydasında, xırda qurtumlarla, beynində qaynaşan təzadlı suallara nə qədər cəhd eləsə də, cavab tapmadan içməyə başladı. Gözlərini dolandırıb, mətbəxin enli pəncərəsindən eşiyə baxdı və bozum-tul-mavi səmanın düz ortasında futbol topu boyda dəyirmi bir bulud gördü. Bu bulud parçasının dəyirmiliyi təxmini deyildi, dəqiq və həndəsi dəyirmilik idi: elə bil sirkulla çəkilib səmanın hamarlığına yapışdırılmışdı. Və bu andan, buludu gördüyü dəqiqədən Mərg Georgiyeviç hər şeyi unutdu, xəstəni də, telefonla bayaqkı söhbətini də, tərəddüdlərini də. Hər şey, o bulud parçasından çıxan asfalt rəngli tutqun şölənin içərisində elə bil əriyib muma döndü, axıb-axıb, yaddaş cığırlarının arasında hopulub yoxa çıxdı. Amma bu cığırlardan birində, dolana-dolana yaddaş quyusunun lap dibinə gedən kələ-kötür cığırın ucunda, qurtaracağı nöqtədə, dəyirmi buludun şəklinə bənzər başqa bir bulud, ağ parça üzərində mürəkkəb ləkəsi kimi üzə çıxıb Mərg Georgiyeviçin beynini yüngülcə dumanlandırdı: bu bulud parçası indi onun pəncərədən gördüyündən daha tünd idi, qaraya çalırdı və neçə illər bundan qabaq, buradan çox-çox uzaqlarda, Mərg Georgiyeviçin anadan olduğu yerdə, qalın meşədə ağacların arasında arxası üstə uzanıb, qorxudan əsə-əsə, təlaşla göyə baxan bir oğlan uşağının gördüyü buluddu. O zaman bu oğlan uşağının yeganə ümidi, yağışın rütubəti ilə bətnini doldurub ağırlaşmış, nəhəng kazak papağına bənzəyən bu yeganə buluda qalmışdı. Və o zaman, o uzaq illərdə həmin o oğlan uşağının Allahdan diləyi bu idi ki, kaş o bulud yerə enib, onu, ağacların arasında ürəyinin çapalamasından əsim-əsim əsən bu oğlan uşağını qalın yorğan kimi örtüb görünməz eləyəydi, at ayaqlarından və sivrilmiş qılınclardan qoruyaydı. Kaş bir də onun qulaqları “ğidovskoe otrodye” sözlərini eşitməyəydi. Çünki bu sözlərdən sonra həmişə onun uşaq burnuna laxtalanmış qan iyi dolurdu.
 
-@@ 082
+@@ 041
 
 Jitomir qatar təkərlərinin taqqaturuqlu səsi arxada qalmışdı, – özü də gör bir nə vaxt – zaman yavaş-yavaş hər şeyi Mərg Georgiyeviçə unutdurmuşdu, amma, görünür, yalnız o bulud parçasından savayı... Mərg Georgiyeviç stəkanı mətbəx stolunun üstünə qoyub, məhkəmədə hökmü oxunan müqəssir kimi başını aşağı saldı və neyçinsə, yazı stolunun orta yeşiyində, lap dibdə, illərdən bəri göz bəbəyi kimi qoruyub saxladığı köhnə naqanı xatırladı. O naqanın bircə gülləsi vardı. Mərg Georgiyeviçin son ümidi, son sığınacağı idi.
 
@@ -1352,7 +1352,7 @@ Soyuq külək əsirdi, yaman soyuqdu. Ağaclarda bir dənə də yaşıl yarpaq q
 
 Evə qayıtmalıydım, amma qatarı yola salıb perrondan vağzalqabağıbağı meydana çıxdığım dəqiqədən əllərimi plaşımın ciblərinə dürtüb
 
-@@ 083
+@@ 042
 
 >>bir yerdəcə quruyub qalmışdım. Harasa, kiməsə zəng vurmalıydım. Amma kimə və hara? Heç cür yadıma sala bilmirdim. Bu külək, bu zəhrimar tozanaq elə bil beynimi iflic eləyib qurutmuşdu. Nənəm buna deyərdi xərifləmə...
 
@@ -1374,7 +1374,7 @@ Mən soruşardım:
 
 ...Çay məni diriltdi. Kirpiklərimdəki ağırlıq yox oldu, yorğunluğum yavaş-yavaş canımdan çıxmağa başladı: elə bil əzələlərimə
 
-@@ 084
+@@ 042
 
 >>dolmuş suyu çəkib sovurdular, əməlli yüngülləşdim. Çaydan sonra Marqo mənə on beş dəqiqə bundan qabaqkı kimi əzik-üzük və qoca görünmədi.
 
@@ -1400,7 +1400,7 @@ Gecə tez-tez özü ilə külək gətirirdi. Əvvəlcə xışıltı ilə damlar�
 
 Hardasa oxumuşdum, ya eşitmişdim, amma bilmirəm nə vaxt: diridirilikdəmi, ya ölülükdəmi – hər adamın bir yolu var, lap orta məktəbin hesab kitablarında olduğu kimi: “A” məntəqəsindən “B” məntəqəsinə gedən yol. Hamı özünün “A” məntəqəsindən çıxıb “B” məntəqəsinə gedir və gedir ki, bəlkə baxıb görsün “B” məntəqəsindən sonra nə var, doğrudan da bəlkə elə bir şey var ki, nəinki hesab kitablarında, heç dünyanın ən müdrik kitablarında da bunun izahını, mənasını tapmaz-sən. Mənə, ələlxüsus, Marqoya verdiyim adi suallara bəzən anlaşılmaz cavablar alandan sonra elə gəlirdi ki, Marqo və ona bənzəyən başqa qadınlar “B” məntəqəsindən çıxıb üzü bəri gəlirlər, gəlirlər ki, “A” məntəqəsində bizi kimilərə balaca bir möcüzə bəxş eləsinlər, bir udumluq təzə hava versinlər, qollarımızdan yapışıb, qəddimizi düzəldib desinlər ki, vallah-billah günəşə baxmaq təhlükəli deyil, qorxmayın – siz kor deyilsiniz.
 
-@@ 085
+@@ 043
 
 84
 
@@ -1418,7 +1418,7 @@ Sonra Zülfüqar kişi gülümsündü, pırpız qaşları kirpiklərinə qarış
 
 Bizim iri, işıqlı həyətimizdə təxminən mart ayının sonlarından başlayaraq həyat tamam dəyişir. Payızda, qışda yağış, qar yağıb kif və rütubət qoxuyan gölməçələr əmələ gətirəndə həyətimizi görməsən yaxşıdır. Elə xəfə, ürəksıxan, yüz il sandıqda qalmış qarı paltarı kimi yazıq görkəmi olur ki, yolun ordan düşəndə yan-yörənə baxmaqdan qorxursan. Əgər qulyabanı varsa, yəqin qış aylarında gəlib bizim həyətdə yaşayır... Amma elə ki, yaz başladı, yazıq-yazıq künc-bucağa sıxılmış ağaclar tumurcuqlandı, bizim upravdomun fəaliyyəti qazanda qaynayan su kimi aşıb-daşır. Orda-burda yığılıb qalmış paslı boru parçaları, köhnə vedrələr, məftil, taxta tullantısı yük maşınlarına doldurulub həyətdən çıxarılır, asfalt sulanır, stollar, skamyalar rənglənir,
 
-@@ 086
+@@ 043
 
 >>uzun sözün qısası, həyət upravdomumuzun özü dediyi kimi, dönüb olur “lyuks”. Üst dodağının tən ortasında qara milçək tək yapışıb qalmış balaca dördkünc bığını şəhadət barmağı ilə sığallaya-sığallaya həyətdə elədən-elə, belədən-belə gedib, fəhlələrə, süpürgəçilərə pəhləvan kimi hayqıra-hayqıra göstərişlər verir: “Əlli tərpənin, yoxsa Allah haqqı, demaqoqların dilindən qurtara bilmərik. O taxtaları da vızıldatl Ay malades! Qurgen, stolun ayağına qırmızı vur, qoy olsun abstraktını. Rəngə heyfin gəlməsin, hökumətindi. Qızxanım bacı, sənə də malades!”
 
@@ -1428,7 +1428,7 @@ Həyətdə heç kəs yoxdur. Altı tamamdan başlayıb yeddinin yarısınacan da
 
 – Sənin sabahın xeyir, ay oğul... Bu gün maqazinə təzə ət gətirəcəklər, istəyirsən, bir kilo gətirim səninçün. Günorta yumurta da olacaq deyirlər, diyetiçiski.
 
-@@ 087
+@@ 044
 
 Mən Qızxanımın yuxarıdan lap balaca görünən kök, yumru bədəninə, özündən uzun süpürgəsinə, qara qaloşlarına baxa-baxa belə dəqiqələrdə tamam ayrı şeylər düşünürəm. Çünki hələ yuxuluyam, bayaqdan bəri Qızxanımın qarğışını, indi onun ət, yumurta haqqında dediklərini eşitsəm də, nə üçünsə bir şey deməyə söz tapmıram. Birdən hardansa ağlıma belə fikir gəlir: “Görəsən Qızxanıma bir milyon versən neylər?”
 
@@ -1442,7 +1442,7 @@ O vaxt, bu sözlər deyilən vədə Bakıya yenə payız gəlmişdi, soyuq idi. 
 
 Xəstəni milis şöbəsinə çağıranda o hələ hər şeydən bixəbər idi. Cavan leytenantın kabinetində eşitdiyi sözlərdən əvvəl-əvvəl özünü itirdi, leytenantın müəmmalı-müəmmalı və bir az da eyhamla gülümsədiyini görəndə lap pərt oldu. Məlum oldu ki, Marqo Bakının hansı mehmanxanasındasa, rayondan gəlmiş bir məsul işçinin nömrəsində tutulub. Cinayətin məğzini cavan leytenant, dünyaya gəldiyi gündən ədəb-ərkan qaydalarının nə demək olduğunu başa düşmədiyi üçün, çox açıq-saçıq izah elədi, hətta, üstəlik, bəzi təfərrüatları da sadaladı. Bu da məlum oldu ki, qanuna görə istintaq qurtarana kimi hər hansı bir
 
-@@ 088
+@@ 044
 
 >>şəxs Marqonu zamına götürə bilər və Marqo heç kəsi olmadığı üçün onun adını verib.
 
@@ -1460,7 +1460,7 @@ O, leytenantın yanından axşam ala–toranına çıxanda çox gedə bilmədi, 
 
 Berqman zəngi çalıb, Zəminənin tələsik açdığı qapıdan içəri girəndə dərman iyini duymadı, amma mətbəxdən gələn qızardılmış ət iyi o dəqiqə burnuna doldu. Qoltuğunda karton qovluq vardı, onu nikelli asılqanın üstünə qoydu və Zəminə ilə salamlaşdı. Qadının əli soyuq idi, dəhliz isə isti – mətbəxdəki bişmişin buxarlı istisi dəhlizə
 
-@@ 089
+@@ 045
 
 >>yayılmışdı – Berqmanın gözləri acışdı. O da Zəminənin hər tərəf gələnin ağzından min dəfə eşitdiyi bu sözləri dedi:
 
@@ -1496,7 +1496,7 @@ Berqman qadının qolundan tutdu.
 
 Onlar yemək otağına keçdilər. Xəstə, arvadının saçaqlı yun şalını çiyinlərinə salıb, kresloda, televizorun qabağında oturmuşdu: ekranda sinəsi ordenlərlə dolu bir kişi nəsə danışırdı. Berqman qapının astanasından ekranın göyümtül rəngini akvariumlarının suyuna bənzətdi. Addım səslərini eşidəndə xəstə geri döndü və Berqmanı görən kimi yerindən qalxmaq istədi, sifətinin əzələləri dartıldı, amma Berqman əlinin hərəkəti ilə onu tərpənməyə qoymadı, yaxına gəlib əl tutdu.
 
-@@ 090
+@@ 045
 
 – Nu kak?
 
@@ -1518,7 +1518,7 @@ Zəminə:
 
 Xəstə ehmalca köynəyini qaldırdı, batıq qarnını, qabırğaları qabarmiş köks qəfəsini utana-utana Berqmana göstərdi. Köynəyinin yaxasını açıb, maykasını yuxarı qaldıranda, bu adicə hərəkətdən cüzi küçə düşdüyündən alnına tər gəldi, qollarının boşalmış əzələləri əsdi. Bərqmən əlini xəstənin qarnına çəkdi, xırdaca tükləri sığalladı: ovcunda xoşagəlməz bir təmas duydu, elə bil əlini küçə itinə toxundurmuşdu. Sonra pencəyinin sol cibindən xəncər tiyəsi kimi parıldayan balaca çəkic çıxarıb, dəstəyi ilə xəstənin sinəsində xacə bənzər bir şey çəkdi: refleks demək olar ki, heç yoxdu.
 
-@@ 091
+@@ 046
 
 – Belində ağrı olmur ki? – soruşanda xəstə onun nəyi nəzərdə tutduğunu başa düşüb tələsik cavab verdi:
 
@@ -1546,7 +1546,7 @@ Xəstə də güldü, səsini Berqmanın danışıq tərzindəki səmimiliyə və
 
 – Nəyi deyirsiniz?
 
-@@ 092
+@@ 046
 
 Berqman kresloda qurdalandı, ayaqlarını düzəldib qabağa uzatdı, bayaqdan stabilizatoru cızıldayan və nəsə göstərən televizorun ekranına baxıb, fikri tamam başqa yerdə olduğu üçün, heç bir şey görmədi və davam elədi:
 
@@ -1560,7 +1560,7 @@ Xəstə, Berqmanın bu sözlərinə əvvəl təəccüb elədi: çünki onun, Ber
 
 Xəstə, Bermanın ağ və uzun kirpiklərinə baxdı: otağın ortasında, tavandan sallanmış qədimi lüstr – Zəminənin cehizi idi – gümüşü haşiyəli eynəyin sağ şüşəsinin tən ortasında buğda boyda brilyant kimi əks edib adamın gözünü qamaşdırırdı... Berqman ələ bil xəstənin nəyə diqqətlə baxdığını duydu və onu bu zövqdən məhrum etmək niyyəti ilə başını azca yana döndərdi: işıqdan qopmuş brilyant parçası elə işıq sürəti ilə də şüşənin hamarlığından yox oldu.
 
-@@ 093
+@@ 047
 
 Beləcə, bir müddət bir-birinin üzünə baxa-baxa oturub danışmadılar və xəstəyə elə gəldi ki, Berqmanın ürəyi doludur, daha nəsə bilir, amma neyçinsə demək istəmir: doktorun sifətinin sərt ifadəsində indi tərəddüd də vardı – xəstə bunu açıq-aydın görürdü... Bir azdan Berqman dedi:
 
@@ -1576,7 +1576,7 @@ Qapı açıldı, Zəminə əlində podnos içəri girdi. Podnosu stolun üstün�
 
 – Bəh, bəh! Buna deyərəm çay. Əla! Vallah, nə qədər orda-burda çay içmişəm, amma Zəminə xanımın dəmlədiyi çaydan görməmişəm. Belə çayı gündə mənə versələr, ömrümdə xəstələnib eləmərəm. 
 
-@@ 094
+@@ 047
 
 Zəminə gülüb, əlini ərinin çiyninə qoydu.
 
@@ -1598,7 +1598,7 @@ Zəminə qalxıb Berqmanın stəkanına təzədən çay süzdü, nəlbəkisini a
 
 Və üçü də güldü... O toyda xəstənin rəhmətlik atasının yaxın dostu doktor Mərg Georgiyeviç Berqman ən əziz qonaq kimi iştirak edirdi və məclisin qızışan vaxtında, camaat içib keflənəndən sonra o, tamadadan söz istəyib sağlıq söyləmişdi. Doktor Berqman təmiz Azərbaycan dilində danışmağa başlayanda məclisdə kim vardısa, ələlxüsus, “bəy”in kənddən gəlmiş qohumları heyranlıqla əl çalmışdılar. Xəstənin bu da 
 
-@@ 095
+@@ 048
 
 >>yadında idi ki, Zülfüqar kişi üzünü ona, təzəbəyə tutub ucadan demişdi: “A bala, a bala, ayə, bu bizim dili tatar Təmirdən yaxşı bilir!” Mahmud isə, Berqman sözünü qurtarıb əyləşəndən sonra ona yanaşıb, üzündən-gözündən öpüb bağrına basmışdı və xəstədən soruşmuşdu: “Bu, musurmandır mı?”
 
@@ -1606,11 +1606,11 @@ Doktorla Zəminə o uzaq illərdə, yanvar ayının soyuğunda baş vermiş bir 
 
 Xəstə nənəsini xatırladı. Bu xatirə, kilidli qapıların arxasında öz növbəsini gözləyən xatirələrdən deyildi, bu sahilə yaxın burulğanın
 
-@@ 096
+@@ 048
 
 >>köpüyü üzdə olduğu kimi, məhz üzdə olan, işığı heç vaxt sönməyən, dəqiqliyi korşalmayan xatirələrdəndi. Bu xatirə, beşmərtəbənin uzun pilləkənlərini hıqqana-hıqqana qalxıb təngnəfəs olmuş, qapının açarını tapmadığından deyinib, şəhərləri salan, çoxmərtəbəli binaları tikən adamları ürəyi boşalana kimi söyən, tək qızını itirmiş bir qoca arvadın – ona qarı demək olmazdı, hər halda, xəstə özü heç bir vaxt onu qarıya bənzədə bilmirdi – elə bil dünən olmuş adicə günlərindən biri idi. “Ay başınıza dönüm! Hamıya payok verirlər, amma bizim əfələ heç nə vermirlər!” Əfəl, xəstənin atası idi. Onların yaşadığı binada müharibə vaxtı hamı payok alırdı, bir xəstənin atasından savayı. Xəstənin atası səhər ala-toranda işə gedərdi və o zamanlar balaca, sısqa uşaq olan xəstə, hər hərdən ayılıb çarpayısı üstə dizüstə durub, gözlərini ovuşdura-ovuşdura pəncərədən eşiyə baxırdı və boz, yarıqaranlıq şəhərin üzərində qalın yorğan kimi qərar tutmuş qara buludları görəndə başa düşə bilmirdi ki, adamlar niyə bu vaxt işə getməlidirlər və niyə istədikləri qədər yatmamalıdırlar. Nənəsi, nəhayətyat, açarı tapırdı, məlum olurdu ki, açar, günlər görüb, qocalıb saralmış meşin çantanın lap dibində, yarıçürük kartofun altında qalıbmış. Küçə qapısı açılanda, cəftələri elə cırıldayıb taqqıltı qoparırdı ki, uşaq, kinoda gördüyü tankların səsini xatırlayırdı. Küçənin soyuğundan nisbətən isti evə girib, nənəsi əvvəl-əvvəl bir salavat çevirirdi, sonra sinəsi xışıldaya-xışıldaya mətbəxə yönəlirdi, çox vaxt mətbəxə getməmişdən qabaq yataq otağına burulurdu, nəvəsinə baş çəkirdi, üstünü yoxlayırdı, yoğun bədənini birtəhər əyib, gözünün ağı-qarası bircə nəvəsinin üzündən öpüb, “yat, ay yetim, yat” deyirdi... Nənəsi hamıdan tez qalxırdı, xəstənin atasından da tez, su qaynadırdı, mətbəxdəki nöyüt pilətəsilə əlləşə-əlləşə hey deyinirdi. Çünki hələ müharibədən çox-çox qabaq, Kömürçü meydanında bir şikəst alverçidən alınmış bu “Sankt-Peterburq” pilətəsi – o pilətə indiyə kimi xəstənin Şüvəlandakı bağında, evin altındakı zirzəminin bir küncdə qalır – Bakının nöyütü ilə işləmək istəmirdi. “Bəxtəvərlərin pilətəsi də adam balası kimi yanır, bizimki andıra qalmış, göz dağıdı ki, boynumuza düşüb!..” “Ay nənə, sən niyə həmişə qışqıra-qışqıra danışırsan? Olmaz ki, qışqırmayasın?” “Ay yetim, qışqırmayım, bəs neyləyim?” Arvad nəvəsini qucaqlayıb bağrına basırdı, isti nəfəsini üzünə verirdi, saçlarını sığallayırdı, üzündən-gözündən öpüb, elə gözəl, elə şirin sözlər deyirdi ki, o uzaq illərin balaca, qan azlığından rəngi-rufu
 
-@@ 097
+@@ 049
 
 >>saralmış sısqa uşağın ürəyinə dünyanın böyük bir sevinci dolurdu: indi ələgəlməz olmuş bu sevincdə nənəsinin paltarından, başındakı şalından gələn nöyüt iyi də vardı.
 
@@ -1622,7 +1622,7 @@ Xəstə bayaq, iki-üç dəqiqə bundan qabaq, arvadı ona mürəbbə qoymaq ist
 
 O vaxt, həmin o tavanı hündür binada yaşayanlardan “payok” alanların bəziləri hərdən nənəsinə “qonşu payı” göndərirdilər. Nazik dəmirdən dəyirmi qablardakı sarı, qırmızı, yaşıl mampasılar həm şirin olurdu, həm də turşməzə. Nənəsi bu mampasılardan yemirdi, qabın içindəkini bircə-bircə sayıb, iki yerə bölürdü, çox hissəsini xəstənin atasına saxlayırdı. “O cür ki, o əfəl yazıq işləyir, qoy canına qüvvət olsun!” Özü isə həmişə şəkər tozundan bişirdiyi sarımtıl qənddən yeyirdi: alüminium krujkada buğlanan çayın rəngi az-maz sarıya çalırdı, dili-dodağı yana-yana bu çaydan içib, tez-tez də ovcunu yalayırdı. Çünki bayaq həmin o sarımtıl qəndin xırdaca tikəsini bir müddət
 
-@@ 098
+@@ 049
 
 >>ovcunda saxlamışdı, indi bu qənd parçasının ovcunda qalmış şirininə də heyfi gələrdi. “Malım batınca, canım batsın!” – gülürdü. İki ayda, üç ayda bir dəfə, onlardan ikimərtəbə aşağıda yaşayan Nəmənəyovsa elə bir “qonşu payı” göndərirdi ki, nənəsinin sevindiyindən gözlərinə işıq gəlirdi. Bu “qonşu payı”nı səhər tezdən bazara çıxarıb bir buxanka ağ çörəyə dəyişdirərdi. Xəstənin atası nə araq içərdi, nə də konyak. Sonralar, çox-çox sonralar, xəstə nənəsini basdırandan sonra, ata ilə oğul üzbəüz oturub uzun yay axşamlarında çənə söhbəti eləyəndə, atası danışardı ki, əvvəllər araq da içərmiş, pivə də. İçkini müharibədən qabaq bəzi əhvalatların şahidi olandan sonra tərgitmişdi. Qonum-qonşu, simsar adamlar bir-birilərinə danışırdılar ki, orda, azadlıqda içki içməyə, papiros çəkməyə adət edənlərin aqibəti çox pis olur. Guya ki, yarım stəkan arağın üstündə adamı qanına qəltan eləyirlər... O işıqlı yay axşamlarının şirin söhbətlərindən az-çox yadında qalanı atasının kömür kimi qaralmış sifəti idi. Atası həmişə müharibədən qabaqkı əhvalatları xatırlayanda kömür kimi qaralırdı, səsi də kökdən düşmüş sim təki ağırlaşıb kallaşırdı: “Tfu sənin hərci-pətərinə, belə dünya!..” Dünyanın və hərci-pətərin, bunlardan savayı çox-çox başqa şeylərin nə demək olduğunu o qayğısız yay axşamlarında atasına diqqətlə qulaq asan oğlan uşağı hələ bilmirdi. Bildiyi bəlkə də bu idi ki, ondan və onun atasından uzaqlarda dünya adlanan bir şey var – dünya sözü oğlan uşağının təsəvvüründə bağlarındakı quyuya bənzəyirdi – bu dünyaya düşənlər bir də geri qayıtmırlar, hərci-pətər deyilən yerdə ilişib, ömürlük orada qalırlar... O vaxtlar gecə evlərdə elektrik lampalarının işığı, cərəyan azaldığına görə tez-tez öləziyib zəifləyirdi: gur ağ işıq birdən-birə qırmızılaşırdı və bu qırmızı işığın içində, gicgahları, bığı-saqqalı vaxtından tez çallaşmış kişinin sifətindəki kömür qaralığı eşikdəki qaranlığın çəkisinə bənzəyirdi. O ağır, hüznlü qaranlıqdan elə bil parça ayrılıb, pəncərənin şüşəsini yarıb, atasının sifətinə qonurdu, dərisinə hopurdu.
 
@@ -1630,7 +1630,7 @@ O vaxt, həmin o tavanı hündür binada yaşayanlardan “payok” alanların b
 
 ...Mərg Georgiyeviç Zəminə ilə şirin söhbətdə idi və deyəsən nəsə uşaqlar barədə soruşurdu. Mərg Georgiyeviçin ağzından çıxan sözləri, onlar üzbəüz otursalar da, xəstə uzaqdan eşidirdi, elə bil bu sözlər bu qısa məsafənin hansı nöqtəsindən ləngiyirdi. Və bir də bu sözlərin axarı, neyçinsə, xəstənin haçansa eşitdiyi və indi xatırladığı, illərin ortasında ilişib ləngiyən başqa sözlərin axarına qatışırdı. “Cəllad oğlu
 
-@@ 099
+@@ 050
 
 98 cəllad, qırdı tökdü məmləkəti!” Nənəsinin o biri otaqdan təlaşlı səsi gəlirdi: “Vaxsey, genə söydülər!” Yazıq arvad neyləsin, son vaxtlar, “cəllad oğlu cəllad”ı söyənlər çörəksiz qalırdı...
 
@@ -1652,7 +1652,7 @@ Vəssalam.
 
 Mən əlimi yellədim.
 
-@@ 100
+@@ 050
 
 Əşşi, Mərg Georgiyeviç!.. Rəhmətlik oğlu, ürəyimizi saldı. -- Mən əlimi dəhlizə sarı uzatdım. -- Orda qovluq qoyub, onu ver mənə.
 
@@ -1666,7 +1666,7 @@ Günəş, sıldırımlı buzlaqların üzərində çətir kimi açılmış göy 
 
 Baba Kahanın qaranlıqdan başlayıb qaranlığa gedən, dünyanın bütün rənglərini – ağını, qırmızısını, yaşılını lap elə həndəvərində əridib zülmət qaraya çevirən oyumundan hənirti eşidilirdi. Bu oyunun bir ucu məğribdəydi, bir ucu məşriqdə: bu oyum dünyanın ortasından keçirdi. Baba Kahanın hənirtisindən milyon-milyon işıq illəri mənzilində yerləşən nəhəng ulduzların şöləsi ilğım kimi sayrışırdı, gözü yolda qalanların ümidini qırıb, birini mərd edirdi, o birini namərd. Baba Kahanın dibsizliyində bir külək yatağından baş qaldırırdı, məğribdə başlayan hənirtisindən məşriqdə tufan qopurdu: köklü-budaqlı ağacları kökün-
 
-@@ 101
+@@ 051
 
 >>dən qoparırdı, dünyanın barmağına dolayıb sapand kimi oynadanların bağrı çatlayırdı, canı ağzından çıxanların gözlərinə ümid gəlirdi... Bu boğanaqlı xəbərdarlıq, bu fəlakətli uğultu yatağından baş qaldırıb, həmləyə hazırlaşan küləyin hələ adicə hənirtisi idi.
 
@@ -1682,7 +1682,7 @@ Xacə Ənvərin qulaqları tərpəndi, büzüşüb yatdığı yerdən dik atıl�
 
 Bu, günün, ilin həmin o vədəsi 10 ki, şahidlər olmadığına görə, hökmdar nökərini adıyla çağırırdı, zəhmli baxışı ilə yox, nökər isə öz
 
-@@ 102
+@@ 051
 
 >>hökmdarına peyğəmbər buyurduğu kimi “adil hökmdar” demirdi, ana balasına müraciət edən təki, çox adi və şirin sözlər deyirdi:
 
@@ -1700,7 +1700,7 @@ Xacə Ənvər yan-yörəsinə boylandı, küncdə yazıq-yazıq alovlanan çıra
 
 – Halsızlıqdandı, ağrın canıma. Külək-zad əsmir, – dedi və bədəninə dolan üşütmədən dərisində gizilti gəzdi. – Sənə belə gəlir. – O,
 
-@@ 103
+@@ 052
 
 >>hökmdarın açıq gözlərinə baxa-baxa davam elədi: – Səhər, inşallah, isti madyan südü verəcəm sənə, olacaqsan anadangəlmə.
 
@@ -1718,7 +1718,7 @@ Bu sözlərdən sonra hökmdar daha gözlərini açmadı, balaca, üç-künc ç�
 
 Sonra hökmdar tərlədi. Qırış alnına puçur-puçur su gəldi, damlalara dönüb üzünə-gözünə axdı. Xacə Ənvər dəsmal götürüb hökmdarın sifətini quruladı, quru dəsmal tezliklə islanıb nəmləndi, ancaq bu nəmlikdə sərinlik yoxdu, bu nəmlikdə isti vardı: hökmdarın içərisindəki qızdırma tərlə eşiyə çıxırdı. Xacə Ənvərin şadlığından gözləri yaşardı. O, salavat çevirdi, hökmdarın tərləyəndən sonra yüngülləşib mürgüyə getdiyini və rahat nəfəs aldığını görüb, özü də ciyər dolusu köksünü ötürdü, yaşarmış gözlərini əlinin arxasıyla silib bir-iki addım geri atdı, bayaq yatdığı yerdə, kilimin üstündə bardaş qurub əyləşdi. Hökmdarın tərini sildiyi mələfəni dizləri üstünə qoyub, başını yorğun-yorğun sinəsi üstə əyəndə gözlərinə sataşan şeydən bütün bədənini qorxu qarışıq heyrət bürüdü: bayaq nəm və ilıq olan mələfənin zərif tükləri arasında xırdaca buz parçaları vardı, şüşə qırıntıları kimi par-par parıldayırdı. Xacə Ənvər əvvəl elə bildi ki, bunlar, elə əslində, şüşə qırıntılarıdı. Əlini uzadıb, ehtiyatla birini götürəndə buz parçası barmaqları arasında əriyib suya döndü və həmin anda da xacə Ənvər uzaqdan, lap uzaqdan uğultulu bir küləyin səsini eşitdi – elə bil hardasa meşə tərəfdə səsi batmış qoca bir canavar uladı – o, çapalayan ürəyinin, qulaqlarında boğuq əks-səda
 
-@@ 104
+@@ 052
 
 >>verən çırpıntısını dinləyə-dinləyə başını qaldırıb şirin mürgüdə olan hökmdarın sifətinə baxdı: hökmdarın alnı buz bağlamışdı, bu buz parçası çadırın küncündə yanan çırağın işığını əks edib, xacə Ənvərin gözlərinə salırdı və əks olunan bu işıqla xacə Ənvərin gözlərindən içərisinə soyuq axmağa başladı, ayaqları, qarnı, hülqumuna kimi bütün bədəni soyuqla doldu. Xacə Ənvər qımıldanmadan, cınqırını çıxarmadan ürəyində fəryadlı bir səda qopardı: “Ulu tanrı, ey göyləri, yerləri yaradan, ya bu gecənin sahibi, sən mənim ömrümdən kəsib mənim hökmdarımın ömrünə çala. Əgər onun canını alacaqsansa, əvvəl mənim canımı al. Məni cəhənnəmə salacaqsansa, onu cənnətlik elə!” Sonra yenə başını yavaşyavaş sinəsi üstə əyib, səssiz-səssiz ağladı.
 
@@ -1730,7 +1730,7 @@ Arvad qolumdan tutub silkələdi, gözlərimi açıb baxdım: yanımda dayanıb,
 
 – Avtomatdan danışıram.
 
-@@ 105
+@@ 053
 
 Telefonunuz işləmir?
 
@@ -1746,7 +1746,7 @@ Bu “sss”dan başa düşürdüm ki, günün bu vədəsində beşmərtəbəni 
 
 Səlimə xanımın diaqnozunun adını Berqman deyəndə çox uzun və müəmmalı çıxırdı. Üç-dörd il idi ki, arvad bu azara və yəqin ki, çarəsi olmayan azara tutulmuşdu. Qonum-qonşu, tanış-biliş ondan qaçırdı. Atasına görə lazımi dairələr çalışırdı ki, o, ruhi xəstəxanaya düşməsin. Burda məsələ tamam aydın idi: camaat niyə desin ki, Sədi əfəndinin bir qızı vardı, o da yaşının bu vaxtında gedib düşdü dəlixanaya. Əslində, elə biz də – Səlimə xanımın yaxın adamları da, onun belə vəziyyətlərində, xəstəliyinin residivi təkrar olan vaxtlarında onunla görüşməkdən, təsadüfən olsa da, üz-üzə gəlməkdən ehtiyat edirdik. Elə mən özüm belə dəqiqələrdə bilmirdim neyləyim, əlim-ayağım da elə bil gərginlikdən bədənimə ağırlıq edirdi. Ya zarafata salırdım, ya da səbəbsiz-filansız ciddiləşib, sonradan başa düşürdüm ki, hətərən-pətərən danışmağa başlamışam, Səlimə xanım da bunun üstündə məndən inciyib. Səlimə xanımın pudralı, ənlikli-kirşanlı qırış sifətinə də, bu sifətə sonradan yerləşdirilmiş kimi görünən zülmətin bir parçası olan zil qara gözlərinə də baxmaqdan çəkinirdim. Mənə elə gəlirdi ki, Səlimə xanımdan ötrü bu dünyada nə pis şey vardısa, hamısına günah- 
 
-@@ 106
+@@ 053
 
 >>kar mənəm, mənim arvadımdı, mənim xırda oğlan uşaqlarımdı. Uşaqlar onun adını “gülən-ağlayan” arvad qoymuşdular. Doğrudan da, onun ağlamağı ilə hırra çəkib gülməyi arasında heç kiçicik bir ah da keçmirdi. Siqareti siqaretə calayıb çəkə-çəkə, gah gözləri dolurdu, gah da səsini sinəsinə salıb, nikotinlə dolmuş bronxlarından xırıltılı bir səs çıxarıb, başlayırdı gülməyə...
 
@@ -1770,7 +1770,7 @@ Arvad dodaqlarını marçıldada-marçıldada çay içirdi və piroq yeyirdi. Be
 
 – Xəttini yaxşı oxuyammıram, – yalan dedim. Çünki neyçinsə başa düşdüm ki, atamın səsiylə dəftərə yazılmış bu sözlərdən sonra oxuyacağım şeyləri gərək məndən savayı bu dünyada bəlkə də heç kəs bilməməlidir. – Sən yıxıl yat, mən höccələyim, görüm nə yazıb. Çox pis xətti varıymış rəhmətliyin.
 
-@@ 107
+@@ 054
 
 – Necə yıxıl yat, ədə? – Arvad fincanı nəlbəkinin üstünə qoydu.
 
@@ -1796,7 +1796,7 @@ Axşam arvad umac bişirmişdi, bir-iki qaşıq yedim, dəxi iştaham çəkmədi
 
 Bir arvada baxdım, bir qabağımdakı dəftərə, ha dedim ki, özümü saxlayım, amma çifayda, lənətə gəlmiş şeytan dilimi qoymadı dinc dursun. Dedim, cəhənnəmə bir ərzi-hal yazıb göndərmək istəyirəm ki, odabaşıdan-zaddan biri gəlib mənim canımı bu zırıltıdan qurtarsın! Arvad ağladı. Mən indi, həqiqət, neyləyim, a kişilər?! Eşikdə Muxtar Kərimli çığırır, başımı dəng eləyir, evdə də arvad ağlayıb ürəyimə dağı çəkir. Oğul deyirəm belə şeylərə davam eləyə! Əlqərəz, nə isə, qalxıb gəlib arvadı qucaqladım, könlünü aldım və sordum ki, övrət, axı, sən
 
-@@ 108
+@@ 054
 
 >>əvvəllər heç mənim yazı-pozumla belə maraqlanmazdın, nədi, xeyir ola, bu nə həvəsdir təzə-təzə əmələ gəlib səndə?.. Arvad dedi ki, əvvəllər nə yazmısansa, kifayətimizdir, səni and verirəm imama-peygəmbərə gəmbərə daha yazma.
 
@@ -1812,13 +1812,13 @@ Bu gün yanvarın dördü gecəsidir. Bakıda bir külək əsir, deyirsən kürr
 
 Əlqərəz, bir az da arvadla mırt vurduq, çənə söhbəti elədik, arvad dedi ki, bəs, üzümüzə gələn ayın iyirmi birində Səlimənin yeddi yaşı, inşallah, tamam olacaq, qonumdan-qonşudan çağırmaq gərəkdir ki, uşağın könlü açılsın, axır vaxtlar çox sınıxıb, doxtur deyib əsəblərindəndi. Elə mən də bilirəm ki, uşağın əsəbləri yaxşı deyil. Elə bu babətdən xeyli məyus oldum, dedim: arvad, tez-tez uşağı havaya çıxart, qoy pioner balalarla qaçışıb eyni açılsın. Arvad genə üz tutdu
 
-@@ 109
+@@ 055
 
 >>mənə ki, hər şeyi zarafata salma, camaatı sancma... Daha mən ona deyə bilmədim ki, qız uşağı qız uşağıdı, yeddi yaşı olanda nə olar, oğlanlı-qızlı bulvara çıxıb, parapet bağına çıxıb baraban çalmağın nə əhəmiyyəti?.. Uşaq evdə oturub dərs oxuyar, valideynlərilə qonaq gedər, qoşaldan, şəkərçörəkdən yeyib ölüb yatar xarabasında. Bunu da arvada deyə bilmədim və bundan savayı çox-çox şeyləri də arvada deyə bilmədim... Arvada necə deyəydim ki, bizim həyətdə yaşayan Akop Mirzəyan bu gün səhər mən Muxtar Kərimlinin yanına gedəndə qabağımı kəsib və möhkəm çaxır içib kefləndiyi səbəbdən mənə dedi ki, Mirzə, tı julik!.. Dedim ay köpəyoğlu, mənə niyə julik deyirsən, mənim sənə nə pisliyim keçib? Üzümə baxıb qoyun kimi dişlərini aşırdı ki, sən elə juliksən ki, durubsan, çünki səni gərək ifşa eləsinlər, üstəlik də dedi ki, sən elə-belə julik deyilsən, sən burjuy julikisən. Bu “burjuy” adını mənə yapışdıranın atasına lənət! Kərimli, elə sənin atana lənət ki, fitva səndən gəlir! Bunları mən bizim arvada necə deyə bilərdim və bunları, bunlara oxşayan başqa-başqa şeyləri görə-görə zarafata salmayım bəs mən nə qayırım? Vallah, elə əslində bütün bu zırıltı zarafata oxşayan naməhvar bir şeydi ki, Domoklun qılıncı kimi asılıb durmuş başımız üstündən. Ay Akop, sənin dədənə lənət!.. Xub, qoy bir nəfəsimi dərim, yazıram, yazdıqca da cızdağım çıxır.
 
 Bir azdan arvad durub getdi yatmağa, mən sobaya bir-iki odun parçası atdım. Külək kəsmirdi ki, kəsmirdi, qapı-pəncərəni yerindən oynadırdı, deyirdin axır-ol-zamandı gəlib çıxıb. Uşkula dəftərini bayaq bağladım ki, bir az nəfəsimi dərim, masanın yeşiyini açıb, bəxtəvər və asudə vaxtlarımda yazdığım... heç bilmirəm adına nə deyim: romanmı, böyük hekayətmi, nə isə, deyək ki, yazdığım yazını götürüb bir də vərəqlədim və arvad otaqda olmadığı üçün dəxi özümü saxlaya bilmədim, bir qədər boşaldım və gözlərim doldu. Daha bu elə məqam idi ki, burda heç nəyi zarafata salmaq olmazdı, belə bir şeyi də zarafata salsan Allaha ağır gedər. Yazdığım yazının bir qədər ora-burasına baxdım, on beş-iyirmi səhifə oxudum və vallah, a kişilər, oxuduqlarım yenə xoşuma gəldi. Mənim yazdığım yazı Kərimlinin xoşuna gəlir, cəhənnəmə gəlsin, gora gəlsin, amma özümün xoşuna gəlir, neynim?! Səni görüm neynim deyib qalasan, ay Kərimli! Nə tuği-lənət olub və keçib bizim gözəl-göyçək hökumətimizin boğazına?! Nə isə, yazdığım yazını təzədən qoydum yeşiyə, yeşiyi açarladım, açarı da qoydum cibimə və xeyli fikrə getdim. Fikirləşdim ki, mən bu yazdığım yazını
 
-@@ 110
+@@ 055
 
 >>harda saxlayım... “Tutdum orucu irəmazanda, mollam da döyür yazı yazanda”... Sənə min rəhmət, şair!.. Deyəsən, yazılanları gizlətmək vaxtı gəlib çatıb axı, ağalar!”
 
@@ -1830,7 +1830,7 @@ Heç yadıma gəlmir ki, Bakıda belə qar yağa. Şükür ki, heç olmazsa kül
 
 21-i yanvarın qış gecəsi. 
 
-@@ 111
+@@ 056
 
 27-i yanvarın qış gecəsi.
 
@@ -1840,25 +1840,25 @@ Adamınkı gətirməyəndə gətirmir. Axır vaxtlar ürəyim məni lap taqətd�
 
 Səhər doqquz radələrində zəng eləyib dedilər ki, bəs, bu gün günorta gərəkdir ki, Kərimlinin yanında olasan, kişi iclas çağırıb və sənin gəlməyin vacibdən də vacibdir. Dilxor oldum, matım-qutum qurudu, amma ki, neylim, telefondakı səsə cavab verib dedim “bəçeşm”. Arvad da xeyli təşvişə düşdü, telefonu icad eləyənin ata-anasını bir-birinə qatıb bir-iki ağız da yaxşı sözlər dedi. Arvada dedim qorxubeləmə, iclasdı da, bunlar bilirsən ki, iclassız dolana bilmirlər, iclas keçirməsə, Muxtar Kərimlinin bağrı çatlayar. Nə isə, üzümü qırxdım, saçımı-saqqalımı daradım, Kərimlinin acığına ən yaxşı kostyumumu geyinib, başıma da, yenə də ki, şu hərifin acığına buxara papağımı qoydum və on bir radələrində evdən çıxıb, qarda sürüşüb yıxılmayım deyə yavaş-yavaş bizim yuxarı məhəllədən endim, çıxdım Olginskiya və bir azdan çatdım Kərimlinin bayquşı-xarabazarına. Qarderobçu Vazqen kişidən soruşdum ki, a kişi, xeyir ola, qışın bu günündə nə məsələdi. Vazqen kişi dedi ki, bunu heç kəs bilməz, bunu bilsə, bilsə ancaq o özü bilər. Dəxi bir söz soruşmadım, ikinci mərtəbəyə qalxıb girdim zala və oturdum həmişə oturduğum yerimdə, lap axırıncı sırada sağ tərəfdə. Zalda bir xeyli adam vardı, hamısı da başıaçıq oturmuşdu, bir məndən savayı. Mən qışın oğlan çağında, özü də belə bir soyuq yerdə heç cür papaqsız otura bilməzdim, çünki papaqsız otursaydım naxoşlayardım. Mənim də naxoşlayıb ölməyimi Kərimli Allahdan istəyir. Üç-dörd cavan şair vardı, pəncərə qabağında dayanıb uzun papiros çəkirdilər, dönüb bir xeyli tərs-tərs mənə baxdılar. Mən özümü heç sındırmadım, papağımı bir az da çəpəki qoydum və dübarə zala baxdım ki, bəlkə binəva A. Q.-da elə bu adamların arasındadı, zəng edim
 
-@@ 112
+@@ 056
 
 >>bizim arvada deyim ki, onun övrətinə gözaydınlığı versin. Çox bax-dım, çox göz gəzdirdim, çifayda, bəraderimi burda görmədim və şü»-hədən ürəyim xeyli sıxıldı və xeyli də ağrıdı. Kişi əppəyə dönüb uçdu göyə də!.. Əlqərəz, yarım saatdan sonra, camaat soyuqdan donub dizlərini ovxalamağa başlayanda Kərimli, yanında da iki-üç əsabəsi dal qapıdan gəlib girdilər zala və keçib oturdular səhnədə qoyulmuş stolun arxasında. Xub, hamı diqqət kəsildi, qurbağa gölünə daş atdılar. Bütün bu zirvədən sonra, bəli, məlum oldu ki, respublikamızın bir çox kəndlərində balaca-balaca uşaqlar traxoma azarına tutulublar və hökumət qərar qəbul eləyib ki, bu zəhrimar azarın kökü yerli-dibli kə-silsin. Bunu camaata elan etməkdən ötrü M.Kərimli qoltuğunda bir xeyli kağız-kuğaz yerindən qalxıb keçdi xitabət kürsüsünə, xeyli danışdı və dediyindən belə məlum oldu ki, balalarımıza əziyyət verən bu traxoma azarı təkcə Allahın bəlası deyilmiş, mənfur sinfi düşmənlərin bəd əməllərindən biridir. Və gərəkdir ki, bizim hamımız bundan sonra ziyada ayıq olaq və gecə-gündüz siyasi savadımızı artıraq. Lap axırda da dedi ki, biz qələm sahibləri gözəl-gözəl əsərlər yazmalıyıq, gözəl-gözəl şeirlər, hekayələr yaratmalıyıq ki, bizim balaca balalarımız oxuyub feyzyab olsunlar. Ağıllı sözə nə deyəsən. Kərimli olanda nə olar. Hamı əl çaldı, mən də o cümlədən, camaata qoşulub əl çaldım, yerindən “əhsən!” deyənlər də oldu. Sonra qələm sahibləri növbə ilə danışmağa başladılar. Amma məsələ bundadır ki, bu danışıqların mətləbindən mənə bir şey hasil olmadı. Traxoma azarı qaldı bir tərəfdə, yerindən duran-duran dedi ki, vəziyyətimiz fənadan da fənadır, çünki bu mənfur sinfi düşmənlərin əlindən bilmirik neyləyək, hamamda, dükanda ağızlarına gələni danışırlar. Hətta biri dedi ki, bunlar adam deyillər, bunlar svoloçdular, bunların kökünü də elə traxoma azarının kökü kimi birdəfəlik kəsmək lazımdır. Zalda o qədər əl çaldılar ki, dedim, bu gözəl binanın zərli-naxışlı tavanı başımıza uçmasa yaxşıdır. Bunlar hələ qalsın o yana. Kərimlinin yanında oturmuş bir gənc şair, səhv etmirəmsə, ismi Qadir Pünhan idi, bəli, o durub dedi ki, bəs mən söz verirəm üç günün içində bir poema yazıb tərəqqimizə əngəl törədənlərin hamısını məhv eləyim getsinlər. Bir kişi də soruşmadı ki, ay başına dönüm sənin, bunlar hamısı çox yaxşı, bəs bu iclasın traxoma azarına tutulmuş balalara nə dəxli? İstədim mən yerimdən bir replika verəm, övrət gəlib durdu gözlərimin qabağında, Kərimlinin zəhrimar sifəti gəlib durdu gözlərimin qabağında, hirsimi uddum, dinmədim,
 
-@@ 113
+@@ 057
 
 >>susdum... Elə bu vaxt Kərimlinin səsini eşitdim. Yerindən qalxıb, mən oturan səmtə boylanıb dedi ki, bəs, bu gün bizim iclasda ağsaqqal yazıçılarımızdan Sədi yoldaş əyləşib, yaxşı olardı ki, o da bir-iki gəlkəlmə desin, görək nə deyir. Ay sənin atana lənət, ay ilan yuvasından oynadan kərtənkələ!.. Neynim, durdum, gedib xırda pillələri qalxıb çıxdım xitabət kürsüsünə. Amma hamıya bayaqdan al çalırdılar, fəqət mən səhnəyə çıxanda heç əl çalan olmadı, tərsinə, gördüm ki, camaat mənə belə birtəhər baxır. Eh, dedim, ölmək ölməkdi, bəs xırıldamaq nə deməkdi. Əl çalmırsız, cəhənnəmə çalın... Nə isə, dedim ki, burda söz deyən yoldaşlar çox ağıllı sözlər dedilər, çox faydalı kəlamlar işlətdilər, elə cəmi çocuqlar bizim çocuqlardı, onların sağlamlığı millətin sağlamlığı deməkdir, buna şəkk-şübhə ola bilməz. Amma, mən bilən dedim, biz bir savab iş də görməliyik, o da ibarət olsun bundan ki, pul yığıb, ianə toplayıb verək komunxoza, onlar da həkimlərin həm məvacibini artırsınlar, həm də dava-dərmandan çox alıb traxoma azarına tutulmuş balalarımıza versinlər. Bunu demişdim ki, zalda oturanlardan bir-iki nəfəri əl çaldı, bir-iki nəfər öskürdü, amma Kərimli qalxıb ayağa, üzünü övvel-əvvəl tutdu mənə, dedi “ay-hay”, sonra döndü zalda da oturanlara tərəf. Başladı, nə başladı! Dedi ki, siyasi bisavadlığın ən bariz nümunəsi elə bu yoldaş – Sədi yoldaşdı. Dedi ki, necə yəni bizim həkimlərin məvacibini artırmaq gərəkdir. Bəyəm ki, ha, bizim həkimlər acından ölürlər, bəyəm ki, ha, hökumət onlara pul vermir? İndi, dəqiqi, yadımda deyil, amma deyəsən elə belə də dedi. Zalda bir gurultu qopdu, dedim papağım başımdan uçacaq indi. Əstəğfürullah, işə düşmədim! dim! Bir xeyli gözlərimi döyə-döyə dayandım xitabət kürsüsündə, danışa bilməzdim və danışsaydım da bu gurultunun içərisində məni heç kəs yəqin ki, eşitməzdi. Məxluq bir qədər sakitləşəndən sonra Kərimli dübarə mənə səri dönüb soruşdu ki, bəs yaradıcılıq planların nədi, yəni bu iclasdan sonra gedib evdə də yazacaqsan. Dəxi özümü saxlaya bilmədim, adamın səbir kasası daşanda çox pis olur. Səsimin lap zil yerinə salıb Kərimliyə dedim ki, mən hər iclasdan sonra evə gedib əsər yazmağa və əlimə qələm almağa adət eləməmişəm və dedim ki, adam gərək mərifətli olsun, niyə bir belə camaatın arasında sən mənə bisavad deyirsən, bisavadın ən yekəsi sənsən ki, tuği-lənət olub keçmisən bizim boğazımıza... Hə, bu sözləri mən deyəndən sonra qurbağa gölünə yekədən də yekə bir daş saldılar. Zal dönüb oldu meyitxana. Necə ki, meyitdən səs çıxmaz, bir kimsədən səs çıxmadı.
 
-@@ 114
+@@ 057
 
 Necə səhnədən enib zalı keçdim, qanım qara, özümü söyə-söyə neçə gəlib Vazqen kişidən kürkümü aldım və Vazqen kişi də rəngirufuma baxıb xeyli pə)mürdə oldu bunu bir Allah bilir. Küçəyə çıxanda gördüm ki, yenə qar yağır, amma bu qar sulu qar idi, üzümgözüm islandı... Elə evdə də müxtəsərcə bir dilxorçuluq oldu. Arvad məndən soruşdu ki, ay kişi, bəs nə məsələdi, niyə səni Muxtar Kərimİinin yanına çağırmışdılar. Özümü saxlaya bilmədim, çımxırıb dedim çağırmışdılar ki, məni səhnəyə çıxarıb meymun kimi oynatsınlar. Camaat çırtıq çaldı, mən də başımda buxara papaq xeyli oynadım, cəmi məxluq da feyzyab oldular... Bu söhbəti Səlimə balam da eşitdi, ləzzət elədi ona, qaqqanaq çəkib doyunca güldü. Gülməyib neyləsin, gülməli şeylərə uşaq gülər dəl.. Arvad gördü ki, mən də uşağa qoşulub güldüm, onun da könlü açıldı və bu səbəbdən məndən soruşdu ki, bəs tirmə kaşne noldu, Kərimli qaytarmadı sənə? Dedim, o qaytarmaq istəyirdi, mən kaşneni ona peşkəş elədim. Sonra ağlıma bir fikir gəldi ki, kaş, bir balaca asudəlik olaydı, mən də oturub bir hekayə yazaydım və adını da qoyaydım “Tirmə kaşne”. Amma heyf, səd heyf... 31-i yanvarın elə həmin o soyuq qış gecəsi. Gecə birin yarısıdır. Evdəkilər yatır, mən də nöyüt lampasını yandırıb, oturub ordan-burdan fikirləşirəm. Elektrik işığı yanmır, upravdom deyir hardasa xətləri ildırım vurub. Heç mənim əllərim əsməzdi, bəs görən indi niyə əsir? Yəni mən lap qorxağam, zırı qorxağam?.. Nə isə, hər halda yazmağım məsləhətdir, yazmasam çox şey qorxuram huşumdan çıxa.
 
 Səhər hara getdiyimi arvada demədim, ondan gizlətdim, çünki ürəyi ağrıyırdı. Allah, sən mənim ömrümdən kəsib övrətimin ömrünə çala, çünki qız uşağına ana gərəkdir, heç vədə sən mənim Səlimə balamı anasız qoyma, ya rəbbim!.. Məni çağırdıqları idarəyə gəlib, qapını açıb girdim içəri, gördüm piştaxta kimi bir şeydi, onun dalında bir kişi oturub, dedim salaməleykim, o da mənə baxıb başını tərpətdi, gördüm heç danışmaq, kəlmə kəsmək fikrində deyil. Neçədə demişdilərsə, düz vaxtında gəlmişdim. Divardakı yumru saat düz on tamamı göstərirdi. Əlqərəz, kişi, adımı, familimi, soruşdu, pasportumu alıb oxudu, sonra bir xeyli pasportdakı şəklə baxdı, bir xeyli də mənim üzümə baxdı. Əvvəl elə bildim bəlkə səhv salıb evdən öz pasportum əvəzinə övrətinkini götürmüşəm, bu babətdən balaca bir nigarançılıq keçirtdim. Amma, şükür Allaha, nigarançılığım əbəs oldu, kişi dedi ki, keç, kürkünü, papağını
 
-@@ 115
+@@ 058
 
 >>çıxart, qalx ikinci mərtəbəyə, orda sənə deyərlər hansı otağa getmək gərəkdir. Mən qarderoba keçib kürkümü, papağımı qarmaqlardan birinə asana kimi, kişi harasa zəng vurdu, mənim adımı, familimi dedi. Qarderobdan çıxıb ikinci mərtəbəyə qalxdım, gördüm üzündən da uzun bir dəhlizdi və bu dəhlizin divarları boyu xeyli qapılar var və qapıların hamısı bağlıdır. Burda ovqatım bir qədər təlx oldu, çünki ötən gecə yuxumda gördüyüm vaqonu xatırladım. Çox əbləh bir yuxu idi, adam gərəkdir ki, belə yuxular görməsin, çünki belə röyalar gec-tez adamı əndazədən çıxardır. Görmüşdüm ki, bir vaqonun dar dəhlizində dayanmışam və cəmi kupçərin qapıları kip bağlıdır və bu kilidli qapıların hansınınsa arxasında bir kişi xeylağı ağlayır və bir arvad da ona deyir ki, kişi, ağlama, hər şey, inşallah, düzələr. Mən də ha istodim çönüm geri baxım, amma çönə bilmirəm, elə qabağımdakı zil qaranlıq pəncərəyə baxıram... Nə isə, heç bilmədim, bu röya burda mənim hardan yadıma düşdü. Əlqərəz, dəhlizin girəcəyində, stol arxasında başqa bir kişi oturmuşdu, lap məni aşağıda qarşılayan kişiyə oxşayırdı və mən əvvəl-əvvəl elə bildim ki, bəlkə elə onun qardaşıdır. İkisinin də əynində qara pencək var idi və ikisi də ağ köynək geyib üstündən qara qalstuk taxmışdı. O da mənim adımı, familimi soruşdu, o da mənim pasportumu alıb xeyli ora-burasına baxdı, aşağıdakı kişinin verdiyi balaca kağızı stolun üstünə qoydu, pasportu mənə qaytardı və dedi ki, otuz üçüncü otağa gedəcəksən, səni çağıracaqlar, hələlik keç otur stulların birində. Mən də keçib divar boyu qoyulmuş stullardan birində oturub dizlərimə dirsəkləndim, nəfəsimi dərdim və burda hiss elədim ki, bayaq o röyanı xatırladığım səbəbdən heç özümdə deyiləm. Buna görə də ürəyim gup-gup guppuldayır və Səlimə balamın sifəti gəlib durdu gözlərimin qabağında. Başladım gözlərimi zillədiyim çəpəki vurulmuş əntiq parketləri bircə-bircə soldan-sağa və sağdan-sola saymağa, sağdan-sola sayanda bilmirəm, neyçinsə, tərs kimi, ikisi artıq çıxdı və bu da mənim heç xoşuma gəlmədi. Kişi görməsin deyə ahəstə başımı silkələdim. Adamın ki, qulaqlarına su dolar və bu səbəbdən adam özünü narahat hiss edər, mən də indi qulaqlarımda qalmış bir iniltili səsdən özümə yer tapa bilmirdim. Bu yuxu görəsən, mənim yadıma hardan düşdü, ay Allah? Doğrudan da, heç hənanın yeridir?.. Bu minval ilə azı bir yarım saat keçdi və bu yarım saat ərzində bu qapıları bağlı uzun dəhlizdə heç bir milçək də uçmadı və nə mən, nə də qara kostyumlu kişi çınqırımızı çıxartmadıq.
 
-@@ 116
+@@ 058
 
 Nəhayət ki, kişinin stolu üstündəki telefonlardan biri yavaşca zəng çaldı. Kişi əlüstü dəstəyi götürdü, bir qədər qulaq asıb, dedi “budet sdelano, tovariş Salaxov!” Sonra dəstəyi qoydu yerinə, qalxıb mənə yavuq gəldi və dedi ki, dur gedək, səni ötürüm otuz üçüncü otağa, səni orda gözləyirlər. Ürəyimdə “bismillah” deyib qalxdım ayağa və düşdüm kişinin dalınca. Otuz üçüncü otağın qabağında kişi dayandı, başını tərpədə-tərpədə gülümsündü və qapını açıb dedi “proydite”.
 
@@ -1868,7 +1868,7 @@ Mən bu otağa, yəni ki, otuz üçüncü otağa girəndə, dedim hər halda öz
 
 Vallah, bu sözləri elə bir tövrlə dedi ki, doğrudan mənim xoşuma gəldi və mən ziyada məmnun oldum. Sonra kişi stolun arxasından çıxdı, mənə yanaşıb əl verdi və bir xeyli əlimi silkələdi. Dedi ki, Sədi əfəndi, çox-çox üzrlər istəyirəm ki, sizi bir o qədər gözlətdim və əziyyət verdim, vallah, o qədər işim olur, heç olmazın qədər və bundan sonra əlavə edib dedi ki, bəs, bu gün onun ən xoşbəxt günüdür, çünki Sədi əfəndi kimi xalqımızın fəxri olan bir insanla tanış olub. Deyim bu sözlər mənə ləzzət eləmədi, əlbət, nainsaflıq olar. Amma o biri tərəfdən fikirləşdim ki, əgər ki, bu mənnən tanış olmaq fikrin-dəymiş, bəs nə səbəbdən məni bura çağırıb, evimə gəlməyib və yaxud mənnən iclaslarda-filanda görüşüb tanış olmayıb. Dəxi çox dərinə getmədim, o mənim əhvalımı soruşdu, mən onun əhvalından xəbər tutdum, sonra sordum ki, bəs ismi-şərifiniz. Dedi Salahov Adil Qəmbəroviç, amma onu da dedi ki, bəs mənə eləcə Adil de, çünki mən sənin kiçiyinəm. Dedim xub, çox gözəl və çox pakizə, mərifət sahibi olan adamlar elə hər babətdən hörmətə və ehtirama layiqdirlər. Amma bunları ucadan demədim, bunları ürəyimdə dedim. Salahov qolumdan
 
-@@ 117
+@@ 059
 
 >>tutub məni özü ilə üzbəüz otuzdurdu və elə bu vaxt qapı açıldı və bir qadın xeylağı əlində balaca podnos içəri girib dəm çaynikini, əntiq naxışlı stəkanları, bir də mənim Səlimə balamın ən çox xoşladığı üstü deşik-deşik dəyirmi peçenyeləri stola düzdü. Və yəni Salahov mənim bu peçenyelərə müştəri gözüylə baxdığımı anladığındandır ki, dedi, Sədi əfəndi, niyə belə diqqətlə baxırsan? – Açığı utandım, gülüb dedim ki, bəs bu peçenyelər əvvəllər mağazalarda çox olurdu, indi yoxa çıxıblar, mənim də balaca qızım bunları çox xoşlayır. Salahov bunu eşitmişdi ki, dedi, elə bu və yerindən qalxıb qapı ağzında əmrə müntəzir dayanmış qadına nəsə pıçıldadı, fikirləşdim ki, yəqin deyir, bunlardan yenə gətirsin, dedim kifayətdir, aclığım yoxdur. Salahov əlini yellədi və mənə cavab verdi ki, ayrı məsələdir, sən narahat olma. Sonra qayıdıb oturdu öz yerində, bilmirəm neyçinsə bir xeyli gözlərimin içinə baxdı, lap doxtur naxoşa baxan kimi baxdı, daha sonra gülümsündü, çayniki götürüb stəkanlara çay süzdü və dedi ki, Sədi əfəndi, gəl çayımızı içək, söhbətimizi eləyək, görək başımıza nə gəlir. Dedim, xub, gözəl fikirdir, çünki eşikdə əməlli soyuq var və mən də bura gələndə möhkəm üşümüşəm...
 
@@ -1876,21 +1876,21 @@ Vallah, bu sözləri elə bir tövrlə dedi ki, doğrudan mənim xoşuma gəldi 
 
 İkinci stəkana keçəndə, Salahov lap əvvəl mənim sonuncu romanımdan başladı və mən başa düşdüm ki, o mənim yazdığım yazını oxuyub, özü də diqqətlə oxuyub və heç şübhəsiz, bu yazını ona oxumağa Muxtar Kərimli verib. Ondan savayı bu yazını Salahova heç kəs verə bilməzdi. Çünki mən yazının üzünü hələ heç makinadan təzə əlifba ilə çıxartdırmamışdım, xeyli zəhmət çəkib, yuxusuz gecələr keçirib əski əlifba ilə, Kömür meydanında bir cühuddan qızıl qiymətinətinə aldığım ağappaq kağızlara köçürmüşdüm və çap eləmək məqsədilədilə vermişdim Kərimliyə oxumağa. Çünki təzə qaydaya görə, bundan sonra kim yazdığını çap elətdirmək istəyirsə, gərək əvvəl-əvvəl verəydi şeytanlar padşahı Muxtar Kərimliyə, o oxuyaydı və nəhayətdə o, imza atandan sonra, aparıb verəydi naşirə və mühərrirə. Nə isə, dəxi üstünü vurmadım, yəni Salahovdan soruşmadım ki, a kişi, Kərimli
 
-@@ 118
+@@ 059
 
 >>mənim əsərimi oxumağa sənə niyə verib və verəndə də görəsən nə məqsəd güdüb. Çünki mənim bu əsərimdə nə bolşevik vardı, nə müsavat, nə də anarxçı. Ürəyimi yandıran, məmləkətin uzaq gecmikeçmişindən bəhs edən bir tarixi əhvalatdı ki, qələmə almışdım. Amma söhbət bundadı ki, Kərimlidən fərqli Salahov mənim bu yazdığım yazımı xeyli təriflədi, özü də elə ləzzətli sözlərlə təriflədi ki, yağ kimi canıma yayıldı, ürəyimdə dedim, Allah sənin ölənlərinə rəhmət eləsin, ay Salahov. Əhsən səni doğan anaya!.. Çünki mənim bu əsərim Kərimlinin heç xoşuna gəlməmişdi, hələ xoşuna gəlmədiyi bir yana dursun, o iclas olmurdu ki, qalxıb bu yazı haqqında ağzına gələni danışmasın və məni məxluqun içərisində biabır etməsin. Dediyi də əsasən bundan ibarət olsun ki, mən səfsəfəyə bənzər bir şey yazmışamşam, nə başı var, nə filan yeri, gözəl-göyçək temalar dura-dura gedib yapışmışam tarixi-nadirdən və bu tarixi-nadirə mənim münasibətim sinfi münasibət deyil, çox əbləhanə bir sinfi münasibətdir. Və bu səbəbdən, təbii, əsərin çap olunması barəsində heç söhbət ola bilməz və ilaxır və bu kimi qanqaraldan, könül bulandıran şeylər deyirdi. Elə buna görə də Salahovun dediklərində bir cəhət məni çaşdırdı və o dərəcədə çaşdırdı ki, lap başım ağrıdı. Salahov uzun-uzadı yazdığım yazıdan danışıb, özü də təfərrüatı ilə, lap axıra yaxın, yəni əsər barədə söhbətimizin sonunda dedi ki, Muxtar Kərimli də mənim əsərimdən xeyli feyzyab olmuşdur, bu yüksək fikrini o, Salahovun özünə deyib. Bunu söyləyəndən sonra Salahov ciyərləri susuzluqdan yanan adamlar kimi, çayından iri bir qurtum boğazına tökdü, stəkan yarısınacan boşaldı və yenə bayaqkı təhər gözlərimin içinə baxdı. Əgər bundan sonra kim mənə desə ki, bu zamana adamlarının işindən, sözündən baş çıxarır, şəksiz, mən belə kəsi məsxərəyə qoyub gülərəm. Necə ki, a kişilər, mənim əsərim Kərimlinin xoşuna gəlib və o bunu Salahova deyib?! Lənət şeytana, nə yaxşı ki, Salahov çay gətizdirmişdi, çünki bu çay dəsgahı olmayıb, mən söhbətin bu yerində çay içib başımı qatmasaydım, şəksiz, dəli ola bilərdim. Çünki zırıltı, zırıltı, bu boyda zırıltı? Bu boyda yəni həyasızlıq, riyakarlıq olar?
 
 Belə həyasızlıq, belə riyakarlıq. Allahı demirəm, lap şeytanın özünə ağır getməz? Əcəba, bu nə dünyadı biz yaşayırıq, ömür sürürük?.. Amma bayaqdan nə qədər ehtiyatlı və tədbirli tərpənsəm də, hər dediyim sözü ölçüb-biçsəm də, burda dəxi özümü saxlaya bilmədim, dedim axı, elə bir iclas, elə bir müşavirə olmur ki, orda Muxtar Kərimli
 
-@@ 119
+@@ 060
 
 >>yoldaş mənim əsərimi tənqid eləməsin, məni söyməsin. Salahov dediklərimə düzəliş verdi, dedi ki, tənqid eləyirdi, söyürdü, yəni bunlar hamısı keçmiş zamanda olub, amma bundan sonra belə olmayacaq. Biz onu başa saldıq ki, onun romana münasibəti həm birtərəflidir, həm də bəzi məqamlarında yanlışdır və biz qoymarıq ki, Sədi əfəndi kimi millətimizin fəxri olan bir kəs hər xırda şey üstündə qanqaralığına düçar olsun. Bunu deyib Salahov mənə bir stəkan da çay süzdü və qabağımdakı nimçəyə iki-üç dənə üstü deşik-deşik olan dadlı peçenyelərdən qoydu. Mən birini götürüb yedim. Bundan sonra, Salahov güman, mənim peçenyeni yeyib qurtarmağımı gözləyirdi, yenə qayıtdı əsərimə və soruşdu ki, orda bir təlxək var, Üfləmə Qasım, o surəti yaradanda kimi nəzərdə tutmusan?.. Ürəyimdə dedim, əstəğfürullah, özüm-özümə təpər verdim ki, kişi, ayıq ol, əsərdəki bütün əhvalatları bir kənara qoyub bu niyə təkcə Üfləmə Qasımı soruşdu, dedim bəlkə mənə badalaq vurmaq istəyir?.. Özümü heç o yerə qoymadım, yəni istəmədim ki, mənim tutulduğumu, ya şaşdığımı Salahov hiss edə və bu səbəbdən peçenyelərdən birini də götürüb bir dişdəm vurdum, çayımdan da bir qurtum içdim və dedim ki, heç bir kəsi nəzərdə tutmamışam, Şuradan qabaq mən İstanbulda çalışanda orda kifayət qədər tarixi sənədlərə baxmışam və Məmləkət xanının həqiqətən belə bir təlxəyi olub, adı da Üfləmə Qasım. Sonra Salahov sordu ki, deyirlər İstanbul çox gözəl şəhərdir, mən də cavab verdim ki, həqiqətən gözəl şəhərdir, necə ki, dünyada çox-çox gözəl şəhərlər var, İstanbul da, şəksiz, onlardan biridir. Bundan sonra dəxi Salahov mənimlə üzbəüz oturmadı, yerindən qalxıb otaqda bir o yana, bir bu yana getdi, sonra gəlib oturdu öz stolunun arxasında və stola dirsəklənib, üçümüncü dəfə idi ki, yenə düz gözlərimin içinə zilləndi və mən özümə gəlməmiş soruşdu ki, Sədi əfəndi, bəs sənin A. Q. barədə fikrin nədir, o necə adamdır?.. Ürəyimdə dedim ki, aha, kül sənin başına ay Sədi, sinni adam ola-ola necə sən bayaqdan bilməmisən ki, səni niyə bura çağırıblar?! Ay bərəkallah sənə! Ay roman belə getdi. Üfləmə Qasım elə getdi və Kərimli də lap o yana getdi. Dedim, özünü ələ al, kişilik məqamı gəlib çatıb, indi dəxi zarafatı burax, indi namus və qeyrət məqamıdır. Dedim ki, A. Q. bizim məmləkətin, bizim gözəl-göyçək respublikamızın ən namuslu, ən qeyrətli və təəssübkeş vətəndaşlarındandır və mən onun barəsində yalnız yaxşı sözlər deyə bilərəm və onu da deyə bilərəm ki, A. Q. kimi bizim məmləkətdə savadlı, istedadlı
 
-@@ 120
+@@ 060
 
 >>ikinci bir ziyalı tapmaq olmaz. Bunu dedim və hirsləndiyim babətdən keçdim üçüncü peçenyeyə, onu saldım dişlərimin arasına, elə bil peçenye yox, Salahovun özünü yeyirdim və özümü çox rahat hiss elədim, çünki ürəyimi boşaltmışdım və deyəsən, vaxtında ayılmışdım. Necə ki, siçan bir deşik tapıb pişiyin əlindən qurtular, mən də başa düşdüm ki, dəxi tələyə-zada düşəsi deyiləm. Hətta, ürəyimdə bu fərasətimə görə özümə bir gözəl “bərəkallah” da dedim. Salahov da mənim bu sözlərimə xeyli güldü, yenə dönə-dönə üzrxahlıq elədi ki, gərək bağışlayasan, vaxtını deyəsən çox alıram, amma neyləmək olar, hər kəsin öz işi var və hər kəs gərəkdir ki, öz işini namusla görsün. Mən də dedim, əlbət, əlbət, belə ağıllı sözə kim nə deyər. Sonra Salahov dedi ki, söhbət A. Q.-nin savadlı, ya qeyri-savadlı olmasından getmir, söhbət ondan gedir ki, A. Q. ağzını qoyub Allah yoluna, orda-burda çərənləyir. Dedim, qardaş, mən onu neçə illərdir ki, tanıyıram, həm özümüz dostuq, həm də övrətlərimiz bir-birinə bacı kimidirlər və bütün bu illər ərzində mən onu heç artıq-əskik danışan görməmişəm, həmişə başını aşağı salıb yazı-pozusuyla məşğul olub və bir adama deməyib ki, gözün üstə qaşın var. Salahov elə bil təəccüblənən kimi oldu, bir qaşı yuxarı qalxdı, bir qaşı aşağı düşdü və dedi ki, mən sizin dost olduğunuzu bilmirdim və sonra dedi “heyf”. Daha sonra sordu ki, bəs yəni bu heç bir dəfə də olsun ağzını bir yerdə dağıtmayıb? Dedim, heç yarım dəfə də, nəyə desən and içə bilərəm. Əlinə düşən pulların yarısını da həmişə yetim-yesirə, fəqir-füqəraya paylayıb. Salahov yenə də mənə diqqətlə baxdı, elə bil məni birinci dəfə idi görürdü və qaqqanaq çəkib elə güldü ki, elə bil yüz xoruz bir yerə yığışıb birdən banladı. Mən, açığı heç bu tövr gülən adam görməmişdim və fikirləşdim ki, görəsən bu nəyə gülərək və mənim hansı sözümə güldü. Nə illah elədim, başa düşmədim. Nə isə, bu qaqqanaqdan sonra Salahov mətləbi dəyişdi, keçdi havaya, eşikdə yağan qara və dedi ki, belə havada vay evində olmayanların halına, belə havada gərək evində oturub çay içəsən. Stolun yanındakı zəngi basdı. Qapı açıldı, bayaq çay gətirən qadın əlində bir bağlama içəri girdi və gəlib o bağlamanı mənim qabağıma qoydu. Salahov dedi ki, bu həmən peçenyelərdəndi, aparıb verərsən bizim balaca qızımıza, qoy ləzzətlə yeyib, Adil əmisi ni yad eləsin. Dedim, sən Allah, zəhmət çəkmə, özüm tapardım, dedi ki, elə şey yoxdur, peçenye nədir ki, ondan ötrü ölkənin böyük yazıçısı düşsün mağazalara və bu kimi qeyri-gözəl sözlər dedi yenə. Sonra
 
-@@ 121
+@@ 061
 
 >>olinin altındakı kağızlardan birini götürüb verdi mənə və dedi ki, Sədi əfəndi, sizdən bir xahişim var, o da bundan ibarət olsun ki, A. Q. haqqında burda nə demisən, hamısını yaz bu kağıza. Təşvişə düşüb sordum ki, axı, nə yazım, mən o binəva barədə nə dedim ki?.. Bu dəfə yüz xoruz yox, min xoruz bir yerə yığışıb birdən banladı, az qala qulaqlarım batacaqdı. Dedi ki, nə demisən onu. Yəni yaz ki, o sənin ən yaxın rəfiqindir, neçə illərdir özünüz və qadınlarınız dostluq eləyirsiniz,, dəfələrlə bir yerdə olmusunuz və o heç bir vaxt və heç bir yerdə ağzını dağıtmayıb. Təxminən buna bənzər sözlər dedi. Dedim, vəssalamlam? Dedi, bəs necə! A kişi, kor nə istər, iki göz, biri əyri, biri düz. Kağızı çəkdim qabağıma, qələmi batırdım mürəkkəbə və Salahov nə demişdisə, hamısını yazdım. Altından da imza atdım və ayın tarixini qoydum. Sonra Salahov əlini uzatdı, kağızı məndən götürdü, qoydu qabağına, oxudu, dedi “çox əcəb”, mən də gördüm ki, daha durmaq məqamıdır, durdum, Salahovla əl tutub sağollaşdıq, o məni kandara kimi ötürdü və mən də şad-xürrəm dəhlizə çıxıb, gəlib kişidən balaca kağızı alıb düşdüm aşağıya. Aşağıdakı kişi qoltuğumdakı bağlamanı görüb soruşdu: “Çto eto?” Dedim: “Eto est peçenye, kotoroe podaril mne tovariş Salaxov”. Kişi də gülümsündü və mən də gülümsündüm...
 
@@ -1900,13 +1900,13 @@ Bilsəydim ki, gecə üçün yarısında, cəmi şəhərin şirin yuxuda olduğu
 
 Nə isə, endim həyətə, gördüm tərtəmiz qar ay işığında elə gözəl bərq vurur ki, kefim açıldı, şaxtalı havanı da ciyər dolusu çəkdim içimə. Nə gözəl gecədir, xudaya! Elə yaşamaq da pis deyilmiş, bu dünya nə
 
-@@ 122
+@@ 061
 
 >>hoqqa çıxarsa da, elə təkcə bu gecənin, bu qarın eşqi̇nə yaşamağa dəyərmiş! Həyətdə bir o tərəfə getdim, bir bu tərəfə getdim, ayaqlarım altında xırçıldayan qarın səsi də mənə olmazın ləzzət verdi və elə bu vaxt arxadan bir səs eşitdim. Səs dedi ki, Mirzə, axşamın xeyir. Bildim ki, Akop Mirzəyanın səsidir, nadürüst oğlu nadürüstün səsini tanımayana lənət! Geri dönməmişdən qabaq öz-özümə dedim ki, dəxi bu dəfə də ağzını dağıtsa, ona bir kəllə vurub ağzını-burnunu qanatmaq mənə borc olsun. Geri döndüm və gördüm ki, elə Akop Mirzəyandı, özü də çox yüngül geyinib, deyəsən, həyətdəki ayaqyolundan gəlirdi, çünki sağı əlində aftafa vardı. Bu aftafanı erməninin əlində görəcək, ürəyimdə dedim “əhsən sənə” və Akop Mirzəyana bir qədər hörmətim artdı. Dedim, aqibətin xeyir, Akop, xeyir ola? Dedi, heç, səndən bir xahişim var, sən ölənlərinin goru, sözümü yerə salma. Dedim, ölənlərinin goruna and içirəm ki, çalışaram salmaram. Akop bir-iki kərə asqırdı, sonra dedi ki, bir yarım saatlığa bizə gedək, mən ölüm. Dedim, a kişi, gecə üç tamamdır, övrətin, uşaqların yatır, mən sizə gedib niyə onların şirin yuxusuna haram qatım. Akop bir addım qabağa atdı, yenə asqırdı və yalvara-yalvara dedi ki, uşaqlar içəri otaqda yatırlar, biz şüşəbənddə oturarıq və mənim bu xahişimə əməl eləməsən, peyğəmbər haqqı, qorxuram bu gecə ürəyim partlaya. Bu sözlərdən sonra dəxi olan-qalan bəhanəm kəsildi, bir ayağım altındakı qara baxdım, bir başım üstündəki aya baxdım, bir də əlində aftafa tutub dayanmış Akopa baxdım və dedim ki, xub, gedək deyirsən, gedək!”
 
 Qədimi saat gecə iki tamamı vurdu, xəstə gözlərini Sədi əfəndinin əski əlifba ilə və gözlə xətlə yazılmış gündəliyindən ayırdı. Saat ikini vurmasaydı da, xəstə oxuduqlarına kiçicik də olsa bir fasilə verməliydi, Sədi əfəndi demişkən, bir nəfəs dərməliydi, çünki o, neyçinsə Sədi əfəndini məhz o qarlı gecənin soyuğunda, əlində aftafa tutub dayanmış Akop Mirzəyanla üzbəüz qoymaq, vaxtı o məqamda saxlamaq istəyirdi. Çünki xəstə əmin idi ki, o qarlı gecə, bəlkə də Sədi əfəndinin ən xoşbəxt və rahat gecələrindən biri idi, əgər xəstə gündəliyin davamını oxusaydı, Sədi əfəndini o gecədən, o xırçıldayan qardan və işığı ilə aləmi nura boyamış bədirlənmiş aydan ayıracaqdı... Xəstə dəftəri stolun üstünə qoydu və vaxt dayandı: Sədi əfəndi və Akop Mirzəyan qarlı gecənin ay işığında quruyub hərəkətsiz qaldılar. Sonra xəstə kreslodan qalxdı, zəiflikdən və uzun müddət bir yerdə
 
-@@ 123
+@@ 062
 
 >>oturduğundan yüngülcə başgicəllənməsi keçirdi, amma təkrar kresloyalöyə əyləşmədi, üç-dörd addım atıb pəncərəyə yanaşdı, pərdələri aralayıb sağ əlini pəncərənin şüşəsinə qoydu, bədəni üşürgələndi. Şüşə bumbuz idi, xəstənin ovcuna elə bil buz yapışdı və bu təmasdan köks qəfəsində xoşagələn bir sərinlik hiss elədi, elə bil bu isti havası ağır otaqdan çıxıb, bir möcüzə hesabına uca dağ başına qalxmışdı, nəfəs alıb ciyərlərini təmiz hava ilə doldurmuşdu. Salahov Adil Qəmbəroviç... Mahmud deyən, Zülfüqar kişinin qənimi Salahovdurmu, elə ikinci blokda yaşayan şələbiğ kişinin familiyası Salahov deyildimi?.. Ax, ey Sədi əfəndi! Heç göz görə-görə, qulaq eşidə-eşidə adam özünü tələyə salar?.. Xəstə ah çəkdi, barmaqlarını cütləyib gözlərini ovuşdurdu. Axı, Salahova Sədi əfəndinin yazdığı o üç-dörd cümlədən savayı heç bir şey lazımdı deyilmiş, bu, xəstə üçün gün işığı kimi aydın idi. Yəni etiraf elə ki, sən A. Q. ilə uzun illər dostluq eləmisən, tez-tez görüşmüşsünüz, görüşəndə də köhnə dostlar kimi nələr danışıb, birinizə nələr demisiniz, bunu sübuta yetirmək asandır. Xəstə, Sədi əfəndinin yuxusunu xatırladı. Gözləri önündə ağlayan bir kişi gördü, bu kişi elə bil qaranlıq pəncərənin arxasından dönüb ona əl də elədi və işıqsız, havasız boşluqda bir müddətdən sonra itib görünməz oldu...
 
@@ -1926,7 +1926,7 @@ Zəminə başını buladı, tərpənib ərinə yanaşdı, əlinin arxasını onu
 
 Sonra arvadının yuxulu, amma şirin yuxudan sonra durulub allanmiş sifətinə, iri, badamı gözlərinə, uzun kirpiklərinə, əynindəki qara
 
-@@ 124
+@@ 062
 
 >>alt köynəyinə və dolu qollarına baxıb, özü anlamadığı bir səbəb ucundan, neyçinsə kövrəldi, azca əyilib Zəminənin əlini əlləri arasına aldı və uzun-uzadı ovcunun içindən öpdü. Qadın əlinin ilıqlığı damarlarına, beyninə, ürəyinə axdı. Zəminə də ərinin başını sığalladı, boş qalmış əlini qaldırıb çal saçların üstündə gəzdirdi və arvada elə gəldi ki, ərinin başı balacalaşıb, lap körpə uşağın başı boyda olub. Zəminə dedi:
 
@@ -1940,41 +1940,41 @@ Xəstə qayıdıb təzədən kresloda əyləşdi, qanrılıb hər ehtimala qarş
 
 “Akop, əlində aftafa düşdü qabağa, mən də xəz kürk əynimdə, buxara papaq başımda düşdüm onun dalınca və biz gəlib girdik, Akopun birinci mərtəbədə yerləşən şüşəbəndinə. Mən ömrümdə Akopgildə olmamışdım və Akopdan savayı, bu məhəlləyə köçdüyüm gündən heç bir qonşugildə də olmamışdım. Yatsaydım yuxuma girməzdi ki, belə bir balaca şüşəbənddə bu tövr səliqə-sahman ola bilər və bir belə çiçək ola bilər. Akop Mirzəyanın şüşəbəndində yaz fəsli idi, divarlar boyu yerdə, rəflərdə qoyulmuş güldanlarda o qədər çiçək, gül vardı ki, desəm, bura cənnətin bir guşəsi idi, əlbət, yanılmaram. Eşq olsun belə səliqəyə və belə zövqə! Akop da gördü ki, mən heyrətlə onun güllərinə baxıram, ləzzət apardı, kürkümü əynimdən çıxarda-çıxarda dedi ki, hə, Mirzə, bunun da ayrı ləzzəti var ha! Dedim, bəs necə, ay kişi, bunu bacarmağa məxsusi qabiliyyət gərəkdir və belə şey hər adamın əlindən gəlməz. Bu sözlərim Akopa ayrı cür ləzzət elədi, kürkümü divardan asdı, sonra qolumdan tutub, məni isti şüşəbəndin divarına bitişik qoyulmuş ağ süfrəli dəyirmi stolun arxasında stul üstündə otuzdurdu. Amma bundan qabaq Akop otaqdan yastı bir balınc gətirdi, o balıncı stulun üstünə qoydu ki, mənə yumşaq olsun və mən özümü yaxşı hiss eləyim... Vallah, a kişilər, bu dünyanı məhvərindən qop-
 
-@@ 125
+@@ 063
 
 >>mağa qoymayan çox-çox mətləblərdən biri də, heç şübhəsiz, bu dünyanın qəribəlikləridi. Çünki bu dünyanın qəribəlikləri olmasaydı, yəqin məni tale bu gün Akop Mirzəyana rast gətizdirməyəcəkdi. Kişi bir canfəşanlıq göstərirdi ki, dedim, bu cür getsə həlak olar, yıxılıb ürəyi-zadı gedər, sonra xataya düşərik... Məni otuzdurub yerimi rahlayandan sonra keçdi şüşəbəndin ortasında dayanmış şkafın arxa tərəfinə, gördüm su səsi gəlir, başa düşdüm ki, krantı açıb əllərini yuyur. Burda bir balaca yanlış eləmişdi, gərək əvvəl-əvvəl əllərini yuyaydı, sonra əlini mənim paltoma, qoluma-filana vuraydı, nə isə, əhəmiyyətsiz məsələdi. Əllərini yaxşı-yaxşı yuyub qurulayandan sonra, şkafın dalından çıxıb dedi, bu saat, – mən də oturub gül-çiçəyə baxa-baxa onu bir müddət gözləməli oldum. Bir azdan Akop əlində podnos şkafın dalından çıxdı, bu gün mənimki podnos sarıdan xeyli gətirmişdi, gördüm podnosun içində göy-göyərti, boşqabda soyutma ətə bənzəyən bir şey və bir şüşə də araq var. Dedim, bəlkə uşaqlardan birinin anadan olduğu gün olub bu gün və buna görə kişi sevincəkdi və indi məni də qonaq eləmək istəyir. Soruşdum ki, xeyir ola, ay Akop, bu nə həngamədi, dedi heç nə soruşub eləmə, nə sənin yuxun gəlir, nə də mənim, səhərə də hələ çox var, savabdı, qoy bir erməniylə bir müsəlman oturub tut arağından vursunlar. Sonra əlavə etdi ki, belə bir xeyir əməl, şübhəsiz, başımız üstdəki tək Allaha da xoş gedər. Mən doyunca, dedim, vallah, çox gözəl fikirdir, amma birdən ətin donuz əti olar! Akop da Allaha and içib dedi ki, o, ömründə müsəlmanın qabağına donuz əti qoymaz, təzə dana ətinin soyutmasıdı, arxayın ol. Dedim, xub, amma ki, araq şüşəsinə bir də baxıb, müxtəsərcə təşvişə düşdüm, fikirləşdim ki, bu cür şirin görüşdən sonra birdən nadürüst oğlu keflənib-ələyər, ağzını dağıdıb qanqaraltılıq salar. Çünki, hər halda, Akop Mirzəyan elə şəxslərdən idi ki, onun ipinə heç vəchlə odun yığmaq olmazdı. Amma indi mənim durub getməyim də, şəksiz, yaxşı çıxmazdı, mənə ayıb olardı. Buna görə də, ürəyimdə dedim cəhənnəmə, nə olar olar, mən ki, bu gün Salahov bəndələrinin yanından ürəyimcə evimə qayıtdım və xəstə övrətimi canı salamat gördüm, dəxi belə bir xoşbəxt günün axırı rəvadır ki, belə xoşbəxtliklə də qurtarsın... Akop səliqə ilə çörəyi doğradı, göy-göyərtini yerbəyer eləyib mənim qabağıma qoydu və iki çəngəl gətirmişdi, onlardan birini də dəsmalla silib, qoydu mənim qabağımdakı boşqaba. Sonra soruşdu ki, Mirzə, sən içib yeyirsən, ya yeyib içirsən? Soruşub, diqqət
 
-@@ 126
+@@ 063
 
 >>kəsilib, üzümə baxdı. Mən də dedim, bəs sən necə, Akop? Dedi ki, mən yarım stəkan içməsəm, boğazımdan heç tikə də keçməz. Dedim elə mən də sənin kimi, içməsəm, boğazımdan su da getmir. Akop ziyada sevincək oldu, elə bildim indi lap körpə uşaqlar kimi şadlığındankindən yerindən hoppanıb çırtıq çalacaq. Rəhmətlik oğlunun xəbəri yox idi ki, mən ildə uzağı bir ya iki dəfə içirəm, o da kefim duru olanda. Amma indi qərara gəlmişdim ki, Akopla dübədü gedim, çünki erməni millətinin gözəl xasiyyətlərindən biri də budur ki, kimin qanı qara oldu, kim ki, dilxorçuluğa düçar oldu, bir-iki stəkan araq içib özünə gəlir. Biz isə həyatın belə məqamlarında övrəti məscidə göndəririk ki, gedib nəzir versin, dua oxutdursun... Akop hələ ayaq üstə idi, araq şüşəsini açıb ikimizə də süzdü, sonra məndən rüsxət istədi ki, əyləşsin. Düzü lap mat qaldım onun qonaqpərvərliyinə, dedim, bu nə sözdür, ay Akop kirvə, əlbəttə əyləş, mən sənin qonağınam, sən də ev yiyəsisən, gərəkdir ki, ikimiz də üzbəüz əyləşək. Akop sevincək ay1054, mənim çəngəlimi götürüb, səliqə ilə soyutma ətin iri bir tikəsinə batırdı və mənim boşqabıma qoydu. Sonra badəsini qaldırdı, dedim indi uzun-uzadı bir sağlıq deyəcək, çünki mən erməniləri də gürcülər kimi, həmişə uzun sağlıqlar deyən görmüşəm, amma Akop iki-üç kəlmə dedi, dedi ki, Mirzə, gəl bunu içək elə pis günümüzdə belə olsun. Vallah, bu sözləri mən eşidəndə, özü də Akopun ağzından eşidəndə mütəəssir oldum, çünki indiki zamanda ən ağıllı və fərasətli adamlar gərəkdir ki, elə bu sözləri desinlər. Dedim, Akop, min yaşa, sənə eşq olsun, sən həqiqətən həm yaxşı kişisən, həm də yaxşı qonşusan, mən də içirəm sənin, sənin övrətinin və balalarının sağlığına, o da dedi ki, malı mala qatma, gəl bunu mən deyən sağlığa içək, sonra söz sənindir, içərik uşaqların sağlığına. Tut arağı göz yaşı kimi dumduru idi, həqiqətən yaxşı çəkilmişdi, belə təmiz arağı mən cavanlıqda, bir-iki dəfə Tiflisdə olanda içmişdim, bir gürcü bəradərimin evində. Arağı Akop birnəfəsə boğazından tökdü getdi, amma mən yarıyacan içdim, çünki zəhrimar çox tünd idi, içimi yandırdı. Tez bir parça çörək götürdüm, bir tikə pendir götürdüm yedim və mən hələ özümə gəlməmişdim, Akop dübarə stəkanlarımızı ağzınacan doldurdu və dedi ki, içkidə zorakılıq olmaz, sən nə qədər içirsən iç, amma mən gərək bu gecə möhkəm vuram, çünki iki gündür ki, arağım qurtarmışdı, dilimə bir gilə də dəyməyib və bu səbəbdən özümü çox pis hiss edirəm... Burda mən bir cəhəti qeyd etmək istərdim. Akop bizim dildə deyim ki,
 
-@@ 127
+@@ 064
 
 >>bisavad danışırdı, düz olmaz, elə Muxtar Kərimlidən pis danışmırdı, intəhası, bəzi hərfləri düz demirdi və ortada da tez-tez “ara”, “elli” kəlmələri işlədirdi, buna görə də danışığı bir az gülməli çıxırdı. Bu da mənə ziyadə ləzzət verirdi və mən tez-tez gülürdüm... İkinci qədəhləri mən deyən sağlığa içəndən sonra gördüm bir az keflənmişəm, başım gicəllənir və buna görə də girişdim soyutma ətə və gördüm ki, ət doğrudan da dana ətidir, donuz deyil, həm də duzu, istiotu, hər şeyi qədərindədir və açığı, axır vaxtlar heç belə dadlı yemək yeməmişdim. Akop da gördü ki, mən iştahla yeyirəm, dedi mənə, nuş, sonra yenə qədəhlərimizi doldurdu və dedi ki, ay Mirzə, bəs mən sənin yanında üzüqarayam. Dedim üzüqara düşmənin olsun, niyə belə deyirsən? Cavab verdi ki, diyəsən bir-iki kərə səni acılamışam, neynim, bu zəhrimarı çox içəndə işlər olur xarab, dilimi dinc saxlaya bilmirəm. Dedim, ay Akop, heç sənin məni acıladığın yadıma gəlmir axı? Dedi, mən ölüm? Dedim, bu sən öl. Bu yerdə Akop bir qədər fikrə getdi, gördüm alnını övkələyir və yəqin nəsə yadına salmaq istəyir. Qoymadım çox fikirləşə, dedim düz sözümdür, biz sənnən həmişə görüşəndə bir-birimizə güldən artıq söz deməmişik. Akop üzümə baxıb dedi, bax, sən Allah, düz deyirsən? Dedim, vicdan haqqı düz sözümdür. Mən bu sözləri deyəndən sonra gördüm Akop sevindi, rəngi-rufu da dəyişdi, əlini əlinə sürtüb dedi ki, axı, doğrudan kimə-kimə, amma mən sənə ömrümdə pis söz deyə bilmərəm, çünki mənim sənə xüsusi hörmətim var, sən bizim həyətin ağsaqqalısan və bütün qonşular sənin başına and içirlər. Sonra mənim başımdakı buxara papağa baxdı, soruşdu ki, bu əla papaq da sənə çox yaraşır, bəs bunu hardan almısan?.. Dedim bunun dərisini mənim üçün Səmərqənddən gətiriblər və papağı da Bazarında papaqçı usta Avanes var, məşhur adamdı, o tikib. Akopun əlinə bəhanə düşdü, badəsini qaldırıb dedi, gəl bunu da içək Avanesin sağlığına, o ki madam belə papaq tikib, deməli, dünyanın yaxşı kişilərindən biridir. Biz indi burda oturub içirik, o yazıq evdə yatır. Gəl onu yad eləyək və arzu eləyək ki, bundan sonra da canı sağ-salamat olsun və bundan sonra da belə-belə papaqlar çox tiksin. Çünki kişinin yaraşığı papaqdır, papaqsız kişini tulla getsin zibilliyə! İçdik. Bu üçüncü badədən sonra başgicəllənməm və kefliliyim elə bil keçdi, yəni tamam yox olmadı, intəhası, dayandım bir babətdə, dəxi bundan o yana keflənmədim, oldum düppədüz. Elə Akop da bir qədər fasilə verdi, o da ətdən götürüb ora-burasını diddələdi, mən şüşəbənddəki
 
-@@ 128
+@@ 064
 
 >>gül-çiçəyə baxıb və ürəyimdə Akopa əhsən dedim, çünki qışın bu vaxtında, belə yaşıllığa tamaşa etmək, həqiqətən, adamın könlünü açırdı... Bir azdan Akop məndən soruşdu ki, ay Mirzə, bu axır vaxtlar heç xoşuma gəlmirsən, gözümə birtəhər dəyirsən, naxoşlayıb eləməmisən ki? Əvvəl-əvvəl Akopa şübhə ilə baxdım, fikirləşdim ki, bəlkə elə bu da məndən söz almaq istəyir, amma Akopun xumarlı quzu gözlərini görəndə elə bil qeybdən bir səs mənə dedi ki, belə gözlərin sahibi ömründə donosbaz ola bilməz və gedib heç kəsi heç yerə satmaz. Dedim, Akop kirvə, naxoşlamamışam deyəm, əlbət yalan olar, çünki bir balaca ürəyim ağrayır və yuxusuzluq da məni taqətdən salıb. Amma ki, söhbət bundadı ki, işlərim düz gətirmir, axır vaxtlar bəzi nadürüst adamlar mənə göz verirlər, işıq vermirlər. Akop iri pəncəsini stolun üstünə vurdu, qaşlarını çatdı, gözlərindən cin yağıdıra-yağıdıra mənə dedi ki, o adamları sən mənə göstər, qalanınnan işin olmasın, hülqumlarını gözlərindən çıxarıb atım ayaqlarının altına. Burda bilmirəm mənə nə oldu, ya Allah-təala olan-qalan ağlımı da başımdan aldı, ya tut arağı məni xarab eləyib huşumu yoxa çıxartdı, bilmirəm, ağzımı açıb bu gün başıma gələn əhvalatı açıb hamısını danışdım Akopa. Dedim bundan sonra, yəni bu söhbəti eşidəndən sonra Akop yəqin başlayacaq mənə ürək-dirək verməyə, deyəcək ki, qorxub eləmə, Allah kərimdir, inşallah, heç nə olmaz. Amma Akop heç nə demədi, əlini uzadıb mənim əlimdən tutdu və öpdü, başını stolun üstünə qoyub başladı uşaq kimi hönkür-hönkür ağlamağa. Mən olmazın dərəcədə özümü itirdim, dedim bu yazıq niyə bu günə düşdü, əcəba, günahların hamısı məndədi, nahaq hər şeyi ona danışıb yazığı kövrəldim. Əlimi ehmalca uzadıb onun pırpız saçlarına toxundurdum, dedim, Akop kirvə, sən ölənlərinin goru, belə şeylərə çox fikir vermə, özünü ələ al, bilsəydim sənə heç nə deməzdim, inşallah, düzələr hər şey, görürsən ki, sağ-salamat gəlib oturmuşam sənin yanında. Bir azdan Akop başını qaldırdı, əllərilə gözlərinin yaşını sildi, sonra dedi ki, ara, bilirsən niyə ağladım, sordum niyə, dedi, sən bayaq o əhvalatı mənə danışanda, yazıq qardaşım düşdü yadıma. Onun da adı Salaxdı, Allah rəhmət eləsin. Qədəhini əlinə aldı və dedi ki, heç qorxub-eləmə, dəvədən böyük fil var, sənə heç kəs bata bilməz, çox o yan-bu yan eləyərlər, götürüb bir teleqram vurram Moskvaya, hamısının atasını yandırarlar. Sən, dedi, Sədi əfəndisən, hara gedirəm, sənin adını çəkən kimi dükanda-bazarda, hamı səni tanıyır, hamı sənin balana dua
 
-@@ 129
+@@ 065
 
 >>oxuyur, çünki sən çox fəqir-füqəranın əlindən tutmusan. Sonra dedi ki, Mirzə, başımız üstdəki o tək Allah heç kəsə pis gün göstərməsin, amma bilmək olmaz bu dövranın gərdişini, birdən olmadı elə, oldu belə, bir şeyi yadında saxla. Yadında saxla ki, sənin burda, bu həyətdə qardaşdan artıq bir qonşun var, adı Akopdu, familiyası Mirzəyan. Biz sənə Mirzə deyirik, amma mənim familiyam Mirzəyandır. Mənim yəni bir dənə yanım artıqdır. Biz elə qan qardaşı kimi bir şeyik. Nə dərdin oldu, qorxma, dayanmışam dalında, Salahov olmur, lap gorbakor atası olsun, hamısının hülqumunu boğazından çıxarıb ataram ayaqlarının altına... Burda, yəni söhbətin bu məqamında, Akop kirvənin ağzından çıxan axırıncı sözləri eşidəndə anladım ki, dəxi hərif ya dəmlənib, ya da dəmlənmək ərəfəsindədir. Bayaq Akop kirvənin gözləri mənə xumarlı quzu gözləri kimi görsəndi, amma indi hirsli-hirsli baxırdı və dəxi bu gözlərdə fağırlıq və xeyirxahlıqdan əsər-əlamət qalmamışdı, deyərdin, həqiqətən, bir yad adam əlinə keçsə, parçalayıb qanını içər. Elə buna görə də, mən də bir qədər özümü yığışdırmalı oldum, hətta ürəyimdən keçdi ki, bəlkə ayağa qalxım, xudahafizləşim, gedim evimə yatmağa, amma elə bil Akop kirvə mənim bu fikrimdən xəbər tutdu və yenə bayaq həyətdəki kimi başladı mənə yalvarmağa ki, sən ölənlərinin qoru, tələsib eləmə, hələ orda bir şüşə də arağım var. Dedim, yox, aşna, bu bəsimizdi, mən bundan artıq içə bilmərəm, içsəm, elə burda yıxılıb ölərəm. Akop da dedi, onda xub, gəl bunu da içək şəxsən sənin sağlığına, Allah sənə ömür versin və Allah sənin bütün düşmənlərini yer üzündən yox eləsin. İçdik, bu dəfə də Akop kirvə öz qədəhini tamam boşaltdı, mən yenə yarıyacan içdim. Mənim elə cavanlıqdan kefli adamlardan acığım gəlir və bu səbəbdən də özümə rəva bilmərəm ki, keflənib gedim özümü yıxım övrətin üstünə. Əlbət, bunları ürəyimdə dedim. Sonra Akop kirvə mənə dedi ki, sənin danışdığın o ağlamalı əhvalatdan sonra, istəyirəm sənə bir erməni havası oxuyum, o da ibarət olsun “Sırın axçık”dan. Dedim, oxuyarsan, evdəkilər ayılar Akop dedi ki, mən oxuyanda heç kəs ayılıb eləmir, çünki öyrəncəlidirlər. Bir də dedi ki, arvad çox o yan bu yan eləyər, göndərrəm atasıgilə, Qarabağa. Onda dedim, xub, oxu!.. Akop əlini qulağının ardına qoydu, stola dirsəkləndi və gözlərini yumub yavaş, pəsdən oxumağa başladı.
 
 Mən çox oxuyanlar eşitmişəm, Bakıda, Qarabağda, Tiflisdə, lap əla-əla xanəndələrə qulaq asmışam, yaxşı və asudə vaxtlarımda nə-
 
-@@ 130
+@@ 065
 
 129 mər də vermişəm onlara, amma Qurana əl basaram ki, Akop kimi oxuyan hələ görməmişəm. Yəni çox güman ki, ondan da yaxşı oxuyanlar var və ondan da yaxşı musiqini bilənlər yox deyil. Amma söhbət bundadı ki, əvvəla, belə yanıqlı, belə ürəkdən gələn səs həqiqətən eşitməmişəm, ikinci də, bu cür adamın cızdağını çıxardan hava da eşitməmişdim. O dərəcədə pəjmürdə-hal oldum ki, gördüm gözlərim dolmaq üzrədir, özümü güclə saxladım və Akopa qulaq asa-asa fikirləşdim ki, belə hava heç bir vaxt kef məclisində, toyda, nişanda yarana bilməz, belə hava ancaq müsibətdən yarana bilər və əgər indi Akop burda yox, bu havanı qarlı dağların başında oxusaydı, vallah, dünyanın bütün qarları əriyib suya dönərdi. O qurtarıb, gözlərini açıb mənə baxanda, dəxi mən onun üzünə baxa bilmədim. Dedim, Akop, səni görüm min yaşayasan, səni görüm ömründə neynim deyib qalmayasan, sən ki, məni bu dünyadan ayırıb ürəyimə təpər verdin, bundan sonra sənnən oldum həqiqət qan qardaşı. Sonra dedim, özünə araq süz, o da süzdü, qədəhimi qaldırıb dedim, bunu da içirəm sənin oxuduğun havanın sağlığına və bir də sənin bu gözəl evinin işığının sağlığına. Akop kirvə mənim bu sözlərimdən çox məmnun oldu, deyəsən, bir az da utandı, dəxi bir söz demədi, arağı başına çəkib yerindən qalxdı və yanaşıb üzümdən öpdü. Mən də onun üzündən öpdüm, sonra dedim ki, daha gecdir, mən durum çıxım gedim evimizə, sən də yıxıl yat. Səhər, inşallah, görüşərik. O, kürkümü tutdu, mən geyindim, dəxi onu həyətə çıxmağa qoymadım, kandarda əl tutub, bir-birimizə keçən xeyrə qalsın deyib ayrıldıq və mən həyətə çıxıb, dedim, bir qədər də hava almaq heç pis olmaz. İlahi, gecə necə gözəl gecə idi! Şükür verən günunə, şükür bu gecəyə, bu ağ qara, bir də başım üstə yanıb şölə saçan Aya! Min şükür!”
 
 Bu sətirlərdən sonra üçüncü dəftərin ortasından bir neçə varağı qoparmışdılar, varaqların tikiş yerlərində xırdaca kağız parçaları qalmışdı. Təbii, bunları ya Sədi əfəndi özü qoparmışdı, ya da Səlimə xanımın işi idi. Xəstəyə tamamilə aydın idi ki, Səlimə xanım hansı mülahizəyə görəsə, gündəliyi bütünlüklə xəstəyə verməmişdi. Xəstə, Səlimə xanımın ənlikli-kirşanlı sifətində hamıya və hər şeyə şübhə ilə baxan zil qara gözlərini xatırladı, xırıltılı və gülən-ağlayan səsini yadinə saldı və yüngülcə köksünü ötürdü. Bu üçüncü dəftərin lap sonunda səhifə yarımlıq bir yazı da vardı. Bu yazımı xəstə iki-üç dəqiqə qabaq diqqətlə iki dəfə oxusa da, nə illah eləmişdisə, heç bir şey başa 
 
-@@ 131
+@@ 066
 
 >>düşməmişdi, çünki bu qeydlərin əvvəlki yazılarla heç bir məntiqi əlaqəsi yoxdu, hətta ona bayaq elə gəlmişdi ki, Sədi əfəndinin o soyuq, qarlı ilin yanvar ayında, əsəbi gərginlikdən bəlkə şüuru da bulanmışdı... Xəstə daha saata baxmadı, onsuz da rejim deyilən şeyi bu gecə əməlli pozmuşdu, indi yarım saat çox və az oturmağının heç bir əhəmiyyəti yoxdu, yəqin Zəminə də daha ayılmayacaq, çünki gecənin bu vədəsində – səhərə yaxın adamın yuxusu şirin olur. O yenə başını dəftərin üzərinə endirdi, məntiqsiz və xəstə bir şüurun məhsulu saydığı qeydləri bir də oxudu.
 
 “...üzümə elə baxırdı ki, a kişi̇lər, dedim yəqin dəli olmuşam. Cod tükləri vardı, özü də yekə bir pişik boyda idi. Atana lənət belə zəmanə, bu məxluq, adını bayaq Kirlikir demişdi, mənə elə ağıllı sözlər dedi ki, qarnını qaşıya-qaşıya məni o qədər mətləblərdən agah elədi ki, dəxi bu məxluqun həqiqət ağıl yiyəsi olduğuna məndə şəkk-şübhə qalmadı. Sonra da dedi ki, əfəl olma, dedi ki, sənin kimilərinin evini əfəllik yıxır, bir də səni Salahovun, ya Muxtar Kərimlinin yanına çağırsalar çıx aradan, çünki, dedi ki, sənin zırıltın hələ qabaqdadır, dedi ki, canına bax, yaxşı bir firəng dərmanı var, aptekin nömrəsini də dedi, get o dərmandan çoxlu al saxla, çünki sənə lazım olacaq. Sonra zibil yeşiklərinin arasında bir o yana getdi, bir bu yana getdi və bir gözünü yumub bir gözüylə baxa-baxa mənə dedi ki, o yazdığın yazını da qoy bir yerə, gizlət, heyfdi, vaxt gələr, çıxardarlar üzə. Mən dəxi qorxunu qoydum bir tərəfə, başımın üstünü kəsdirən fəlakəti o biri tərəfə və sordum ki, Kirlikir qardaş, sən siçovul ola-ola nə əcəb bizim dili belə yaxşı bilirsən və bizim bu əhvalatlardan da nə əcəb belə xəbərdarsan. O yenə qarnını qaşıdı və dedi ki, mən ancaq sizin dildə yox, mən cəmi dillərdə danışıram, çünki mən bu məmləkətin ən qocaman siçovuluyam və çalışıram ki, yaxşı adamlara kömək eləyəm, çün-ki yaxşı adamlar ölüb gedirlər, pis adamlar qalırlar. Amma, heyf, dedi ki, çox yaxşı adamlar məni görən kimi ya çığırıb qaçırlar evə, ya məni ayaqları altına salıb təpikləyirlər, ya da dediyim sözlərə inanmırlar. Mən də dedim, heç qorxub eləmə, Kirlikir qardaş, olan ömrümə heç bir milçək də öldürməmişəm, çünki mənim Allahın cəmi heyvanlarına yazığım gəlir və sənin dediyin sözlərin də hamısına inanıram. Bu sözlərim Kirlikirin gördüm xoşuna gəldi, bu dəfə sağ gözünü yumub sol gözünü açdı, yenə qırmızı qarnını qaşıdı, dedi mənə “əhsən”, sonra dedi ki, sən gərəkdir ki, ölümdən də qorxmayasan, çünki öləndən sonra
 
-@@ 132
+@@ 066
 
 >>dəxi biləcəksən ki, adam gərək ölümdən qorxmasın. Bu sözləri eşi-dəndə, dedim ürəyimə bıçaq soxdular, övrətlə Səlimə balam gəlib durdu gözlərim qabağında, Kirlikir də yanıqlı bir ah çəkdi və dedi ki, ay rəhmətliyin oğlu, sən öz canının hayına qal, övrət, uşaqlar hamısı dolanacaq, sən günü sabah get filan nömrəli aptekə, o dediyim firəng dərmanından çoxlu-çoxlu al, səfərin bu yaxınlarda uzaq yerə olacaq, çünki, mən bilən dedi, dəxi əhvalat vaqe olub qaran-qurux yerdə və qurtarıb gedib. Sonra çox biədəb bir söyüş söydü və dedi ki, “budet sdelano, tovariş Salaxov” və mənim qarnım ağrıdı. Sonra başım qaldırıb Aya baxdı və mən də Aya baxdım. Gördüm Ay balacalaşıb olub alma boyda bir şey və mən elə billəm ki, ulduzdur. Düzü, əməlli qorxuya düşdüm. Bu yerdə Kirlikir dedi ki, dəxi mən gedəsi oldum, çünki məni çağırırlar. Dedi, salamat qal və mən ağzımı açmamış zibil yeşik-lərinin arasına girib qeyb oldu. Mən yenə göyə baxdım, dəxi Ayı görmədim, gördüm ki, göyün üzündə hərəsi alma boyda iri-iri ulduzlar yanır və bu ulduzlardan mənim başım üstünə əməlli soyuq axır, az qala donmuşdum, tez çöndüm, getdim evimizə”.
 
@@ -1982,7 +1982,7 @@ Vəssalam. Xəstə, dəftəri qatlayıb stolun üstünə qoydu, külqabıdan, ba
 
 Səhər açılanda xəstə sağ tərəfinə baxıb arvadını yanında görmədi, bundan bildi ki, yəqin uşaqları məktəbə yola salıb və indi də mat-
 
-@@ 133
+@@ 067
 
 >>bəxdə işiylə məşğuldu. Sol əlini uzadıb tumbanın üstündən saatını götürüb baxdı, gördü on birin yarısıdır. Qalxdı, gecə çarpayının yanındakı stulun söykənəcəyinə tulladığı xalatı götürüb geyindi və yataq otağından çıxıb mətbəxə gəldi. Zəminə mətbəx stolunun arxasında oturub bugünkü qəzetlərə baxırdı, hənirti eşidib başını qaldırdı, astanada dayanıb yuxulu-yuxulu ona zillənmiş ərini gördü.
 
@@ -1994,7 +1994,7 @@ Səhər açılanda xəstə sağ tərəfinə baxıb arvadını yanında görmədi
 
 Mətbəxdən səs gəldi:
 
-@@ 134
+@@ 067
 
 – Nə?
 
@@ -2024,7 +2024,7 @@ Zəminə geri döndü və başını buladı.
 
 Siqareti yandırandan sonra, Zəminə otaqdan çıxıb arxasınca qapını bağlayandan sonra, xəstə ürəyinə dolmuş rahatlıqdan özünü göyün yeddinci qatında hiss elədi. Tüstünü ciyərlərinə çəkib bir müddət için-də saxladı, nikotin yaxşı konyak kimi, əvvəlcə beynini yüngülcə dumanlandırdı, sonra əzələlərinə süstlük gətirdi və xəstə, həqiqətən, tamam saraldığını inandı. İnsana əsl xoşbəxtlik üçün düz deyiblər ki, əksər hallarda elə bir fövqəladə şey lazım olmur. Bir parça yaxma, ya bir dənə yaxşı siqaret, görürsən ki, bütün ovqatını dəyişdi, sərin külək
 
-@@ 135
+@@ 068
 
 >>əsib burnunu dağıtdığı kimi, qanqaralığını, əsəbi gərginliyini yox elədi.
 
@@ -2064,7 +2064,7 @@ Səlimə xanım bir müddət cavab vermədi, telefon dəstəyində nəsə uğuld
 
 – Vallah, Səlimə xanım, düz sözümdü, heç nədən qorxub eləmək lazım deyil. Bizim binaya hər gün o qədər adam gəlir ki! Kim kimdir, ay arvad, gəlin oturaq, bir stəkan da pürrəng çay içək, mırt vuraq özümüzçün. Hə?
 
-@@ 136
+@@ 068
 
 – Yaxşı, qoy bir özümü səliqə–sahmana salım, gələrəm. – Uğunub getdi. – Arvad yaşa dolanda vasvası olur, min göz baxır, gərək özünə bəzək–düzək versin. Dost var, düşmən var.
 
@@ -2090,7 +2090,7 @@ Xəstə dedi:
 
 Zəminə dedi:
 
-@@ 137
+@@ 069
 
 – Elə səni də salacaq çənəsinin altına. - Sonra nəsə fikirləşib əlavə elədi: - Bax, sən Allah, əsəbiləşib eləmə. Gəlib ağırlığını tökəcək genə sənin üstünə. Ay dədəm belə oldu, ay nə bilim, Muxtar Kərimli belə dedi. - Qısaca sükutdan sonra: - Səni and verirəm uşaqların canına, qarışma heç nəyə. Öz intriqalarıdı, qoy özləri də altını çəksinlər. Sənin başına bir iş gəlsə, heç kəs gəlib mənim balalarımı dolandırmayacaq.
 
@@ -2118,11 +2118,11 @@ Zəminə kitab şkaflarından birinə yanaşıb, aşağı yeşiyi açdı və iri
 
 Xəstənin zənnincə köhnə şəkilləri, ölüb-getmiş əzizlərinin şəkillərinə albomlarda, yeşiklərdə və başqa qaranlıq yerlərdə saxlayıb, hərdən-
 
-@@ 138
+@@ 069
 
 >>hər >>hərdən onlara baxmaqda, evə gələn qonaqlara göstərməkdə nəsə bir anormallıq vardı: insan həyatı tərk edəndə bütünlüklə tərk etməlidir, özündən sonra, zahirini, səsini yalnız xəyallarda və qulaqlarda qoyub getməlidir və əgər sağ qalanlar çay içə, çörək yeyə ölülərinin şəklinə, gündəlik həyatın adi şeylərinə tamaşa edirmiş kimi baxırlarsa, ya da daha pisi, ölülərin sağlığında maqnitofona yazılmış səsinə qulaq asırlarsa, bu, ölümün müqəddəsliyinə xələl gətirir, bu, dirilər və ölülər arasında yaranmış zaman distansiyasında insanın ən qiymətli və kövrək hisslərini – intizarını və həsrətini tədricən əridib yoxa çıxardır... Albomu tez-tez vərəqləyə öz şəkillərinə, Zəminənin şəkillərinə, uşaqların və başqa qohum-əqrəbanın, tanışların şəkillərinə gözucu və ötəri baxa-baxa, nəhayət, Sədi əfəndinin kartonu saralmış köhnə şəklini tapdı. Buxara papaq, qalın kürk, nazik qalstuk və dizi üstə qoyduğu sol əlinin adsız barmağında parıldayan iri daşlı brilyant üzük. Ən ümdəsi də, şəklə baxanın düz gözlərinə zillənmiş bir az gülümsər və bir az da qüssəli olan sənətkar, şair gözləri. Bu gülümsər və gözəl çöhrənin kiçicik bir anı neçə illərdir ki, dəyişməz qalır və hələ bundan sonra da, ta qiyamətə qədər, belə dəyişməz qalacaqdır: dünyanın dağları, okeanları dəyişməz qaldığı kimi, insan yaşadıqca məhəbbət və nifrət dəyişməz qaldığı kimi... Xəstə, albomu bağladı, neyçinsə Sədi əfəndini gözlərini görəndən sonra darıxdı, o dərəcədə darıxdı ki, təzədən siqaret çəkmək istədi, amma özünü saxladı və birdən-birə yadına qəribə bir şey düşdü: təxminən üç-dörd gün bundan qabaq, axşam on birdə yuxu dərmanı içib yatmışdı, haçansa qəfil ayılıb saatına baxıb görmüşdü ki, heç yarım saat da yatmayıb. Dərmandan ağırlaşmış başında gurultu hiss eləmişdi. Yuxuda qoca bir canavar görmüşdü, nə quş, nə at, nə it, yəni həyatda dəfələrlə görüb müşahidə etdiyi heyvanlardan heç biri yuxusuna girməmişdi, məhz elə bu qoca canavar girmişdi. Bir dəfə, hələ uşaqları lap balaca olanda bazar günü onları heyvanxanaya aparmışdı, orda dünyanın bütün qəribə-qəribə heyvanlarına tamaşa etmişdilər, gülmüşdülər, heyrətlənmişdilər, amma canavar saxlanılan qəfəsi boş görmüşdülər. Heyvanxana işçilərindən birini saxlayıb, xəstə yoğun dəmir milləri pas atıb saralmış bu qəfəsin nə səbəbə boş qaldığı ilə maraqlanmışdı. İşçi bir sözə on sözlə cavab verən adamlardan olduğu üçün, bu boş qəfəsin tarixini uzun-uzadı xəstəyə danışmışdı. “Qədeş, burda bir qoca qotur canavar vardı. Xox əliyirdim ona, qorxusundan gedib girərdi qəfəsin küncünə.
 
-@@ 139
+@@ 070
 
 138 Yimey də yimirdi, bir deli arvad vardi, hər gün gəlirdi, yidizdirirdi bini.
 
@@ -2142,7 +2142,7 @@ Mətbəxdən yenə səs gəldi:
 
 – Səni bilmirəm, amma bu bizə gəlib-gedəndən sonra mən iki gün özümə gələ bilmirəm.
 
-@@ 140
+@@ 070
 
 – Əşşi, daha neynəyək, – dedim, boğazım ayışdı, bir-iki kərə asqırdım. Səlimə xanım o qədər siqaret çəkmişdi ki, Zəminə, onu ötürəndən sonra yun şalını gətirib mənim çiynimə salmış və balkona açılan pəncərələri taybatay açmışdı.
 
@@ -2166,7 +2166,7 @@ Mən başımı tərpətdim. Zəminə tez qalxıb o biri otağa getdi, çiyin as�
 
 Zəminə arxamca küçə qapısını bağlayan kimi bildim ki, indicə qaçıb balkona gedəcək və mənim pilləkənləri enib blokun qapısından həyətə çıxmağımı gözləyəcək. Mən yavaş-yavaş, ehtiyatla pilləkənləri enməyə başladım, çünki dizlərim zəiflikdən əsirdi, çoxdan unutduğum blok idi – elə bil turşumuş kələm iyi idi – uzun fasilədən sonra, iki aylıq ayrılıqdan sonra yenidən burnuma doldu və etiraf etməliyəm
 
-@@ 141
+@@ 071
 
 >>ki, bu həm yeni, həm də tanış duyumdan hətta, bir az kövrəldim də, çünki insan öz evinə, işığına, çarpayısına adət etdiyi kimi, iylərə, qoxulara da adət edir. Üçüncü mərtəbənin meydançasında bir boz pişik gördüm: o da divarları iyləyə-iyləyə, qulaqlarını şəkləyib, tüklü quyruğunu dik tutub aşağı enirdi və yəqin ki, o da mənim kimi həyətə, hava almağa getmək fikrinə düşmüşdü. Mən Sədi əfəndinin Kirlikirini xatırladım.
 
@@ -2184,11 +2184,11 @@ Zəminə yenə çığırdı:
 
 Başımı tərpətdim ki, yəni arxayın ol. Zəminə balkondan yox olub otağa qayıdandan sonra, xeyli dayandığım yerdə durub, gözlərimi yumub üzümə düşən gün işığından, sifətimi yalayan sərin havadan ləzzətzat ala-ala daha heç bir şey haqqında düşünmək istəmədim, özümü bütünlüklə günəşin və havanın ixtiyarına verdim. Günəş süd kimi ilıq idi, havadan bal ətri gəlirdi. Bir azdan hiss elədim ki, nəsə, başım gicəllənir, Allahın quruca havasından da yadırğamışdım. Gözlərimi açıb, bir az həyətdə gəzişdim, sonra qoca tut ağacının altındakı, yaxşı upravdomun yaşıl rəngə boyadığı, indi isə solub bozarmış skamyada əyləşdim. Sol tərəfimdəki damı çürüyüb uçulmuş zibilxananın iyi burnuma dəydi, azca keçəndən sonra bu iyə də öyrəşdim: xəstəlikdən sonra bütün şərti reflekslər bərpa olunurdu... Bayaq Səlimə xanım da siqareti siqaretə calaya-calaya şərti reflekslər barədə mənə mühazirəyə bənzər bir şey oxudu. Heç bir şey başa düşmədim, sözünü kəsib bir familiya uydurub dedim ki, onun kitabında bütün bunları oxumuşam. Səlimə xanım o məşhur alimin familiyasını birinci dəfə indi eşitdiyinə görə bir az təəccübləndi, sumkasını açıb bloknotuna qeyd
 
-@@ 142
+@@ 071
 
 >>elədi, sonra mənə razılığını bildirdi... Zəminə bir az bizimlə oturub, mənə göz eləyib, Səlimə xanımdan üzr istədi ki, uşaqlara yemək hazırlayıram, siz oturub söhbətinizi eləyin, mən mətbəxə gedim. Zəminə otaqdan çıxandan sonra mən Səlimə xanımdan Sədi əfəndi barədə bir neçə şey soruşdum. A. Q.-nin kim olduğu ilə maraqlandım, Səlimə xanım dedi ki, bu barədə mənə dəqiq heç bir məlumat verə bilməz, çünki o illər o, balaca qız idi, yuxarı Dağlıq küçəsindəki evlərinə də o bəxtəvər günlərdə çox adam gəlirdi, sonra onların hamısının ayağı kəsildi. A. Q. da yəqin onlardan biridir. Sonra bu da mənə məlum oldu ki, Sədi əfəndinin yazdığı gündəlikdən yalnız elə bu üç nazik dəftər qalıb, Səlimə xanım Qazaxıstandan qayıdandan sonra, bütün yaxın və uzaq qohumlarının evlərini bircə-bircə gəzib, amma heç kəsdə heç nə tapmayıb. Bəs roman?.. Səlimə xanım təzə siqaret yandırdı, səsini alçaldıb qapıya baxıb və ənnikli-kirşanlı sifətində iki qara deşiyə bənzəyən gözlərini mənə zilləyərək dedi ki, “eto sekret!” Sonra dodaqlarını bir-birinə sıxıb güldü, ətli, sallaq yanaqları titrədi, sifətindəki pudranın narın tozu qara jaketinin sinəsinə səpələndi, yan-yörəsinə baxa-baxa şəhadət barmağını dodaqlarına yapışdırdı: “Sss...” Sonra gözləri doldu, tez-tələsik sumkasını açıb, yaylığını çıxardı və növbə ilə, kirpiklərinin qarası axmasın deyə ehmalca gözlərini quruladı. Dedi ki, sabah yox, birisi gün yola düşür, özü də uzağa gedir, əgər bu dəfə də atasının romanının əlyazmasını tapmasa, ömürlük ümidini üzməli olacaq, çünki daha gümanı heç yerə qalmayıb. Səlimə xanımın dediklərindən nəsə ağlım bir şey kəsmədi, neçə illərdir ki, mən bu roman söhbətini eşidirdim, Səlimə xanımgilə gedəndə, onunla telefonla danışanda, həmişə səsi qırıla-qırıla, əsəbiləşə-əsəbiləşə mənə romanın əlinə düşdüyündən danışırdı, ancaq aylar, ötürdü, ortada isə bir şey yoxdu... Mən, Sədi əfəndinin gündəliyini oxuyana kimi, açığı, elə bu fikirdə idim ki, roman haqqında olan bu söhbətlər, yalnız və yalnız bulanıq şüurun, bütün dünyadan küsmüş hirsli-hikkəli bir qadının növbəti xülyalarından biri idi. Səlimə xanım bu illər ərzində azından dəfə mənə demişdi ki, Moskvadan filankəsov zəng vurub, filankəslərə xüsusi tapşırıq verib və bu tapşırıqdan sonra Muxtar Kərimlinin də, Salahovun da işləri çox pis olacaq və ilaxır... Amma dünən gecə Sədi əfəndinin “uşkula” dəftərini oxuyub kədərlənsəm də – bu kədər hissinin acısı indiyə kimi
 
-@@ 143
+@@ 072
 
 >>ürəyimdə qalıb – həm də sevinmişdim: əmin idim ki, Sədi əfəndinin son romanı var, əgər əlyazması qarışıqlıqda, müsibətli illərdə itib-batmayıbsa, bu, həm Səlimə xanımın, həm də bizim, bəlkə də son sevincimiz olacaq. Şəxsən məndən ötrü bu son roman qanadı qırıq ümidin son uçuşu demək idi. Və bəlkə də elə bu son uçuş ərəfəsində mənim sağalmağım lazımmış: şübhəm yoxdu ki, bu romanın, əgər tapılarsa, uzun illərdən sonra ilk oxucusu mən olacağam və bu “yazılmış yazı” üzə çıxandan sonra, bəlkə də neçəsinin dili gödələcək, neçəsi qaranlığa çəkilib, bir daha üzdə görünməyəcəkdir. Kaş, Səlimə xanım bu əl yazısını tapa biləydi: axı, adam ömrü boyu uduza bilməz, heç olmasa bir dəfə əli gətirməlidir, axı!.. Mən dolayı yollarla, Səlimə xanım inciməsin deyə, gündəlikdə oxuduğum Kirlikir əhvalatını da ondan soruşdum və ağlıma gələn birinci fikri dedim: yəqin bu siçovul əhvalatı da o romandan bir parçadır, yoxsa bu parçanı heç cür izah etmək mümkün deyil. Səlimə xanım başını buladı, soyumuş çayından içib, dedi ki, yox, buna inanmır... Sonra elə bir yanıqlı ah çəkdi ki, tüklərim ürpəşdi: yazıq kişi, dedi, başına gələn o əhvalatlardan sonra havalanıbmış yəqin. “Yazıq, yazıq papa!”
 
@@ -2198,7 +2198,7 @@ Mən skamyadan qalxdım, daha başım gicəllənmədi, yay qurtarandan sonra tə
 
 …Gündüz yuxusunun, ələlxüsus, sarımsaqlı qatıqla çoban bozartmasını yeyəndən sonra – yaşasın Mahmudu, iki gün bundan qabaq yenə bir heyvan göndərmişdi – təmiz yorğan-döşəyə girib gündüz yuxusunda yatmağın özgə ləzzəti var. Arvad deyinsə də ki, gündüzlər
 
-@@ 144
+@@ 072
 
 >>bacar yatma, sonra gecə ikiyə qədər oturursan, yata bilmirsən və buna görə də yuxu dərmanı atırsan, səhər başın şişir, danışdığını bilmirsən, yuxu dərmanının ucbatından bütün günü olursan gic kimi, dəxli yoxdur, məhz elə gündüz saat üçdə, dördün yarısında yorğan-döşəyə girib bir saat, saat yarım xumarlanmağın ləzzətini heç bir şey verməz. Mən gündüzlər yatanda rahat yatıram, gündüzlər yuxu görmürəm və gündüz yuxusundan sonra oturub, nigaran-nigaran qapı-pəncərəyə baxmiram: gündüzlər davranışın yeknəsəq axarında hər şey, krandan gələn su kimi, pəncərədən düşən işıq kimi çox-çox adiləşir, adamı narahat edən bir çox mətləblər elə bil otağın künc-bucağında, şkafın, şifoncrin dalında gizlənib üzə çıxmırlar. Ən ümdəsi də, gündüzlər adam bilir ki, hələ gecəyə çox var, gecənin sirli, ağır və narahat hökmranlığına hələ çox qalıb, indi gündüzün qayğısızlığından doyunca istifadə edə bilərsən. Gecə, öz müəmmalı sualları ilə gözəgörünməz cəllad kimi başının üstünü kəsdirəndə sən də yata bilməyib yuxusuzluqla əlbəyaxa olanda, dərman atmayıb bəs neyləyəsən?.. Mahmud deyirdi ki, elə ki gördün yuxun gəlmir, yarım stəkan Qriqor erməninin tut arağından hortdat getsin, üzüqoylu yastığın üstünə düşüb səhərə kimi yatacaqsan - bunu eləməyə də həkimlər icazə vermirlər. Arvad da tut araqlarını elə yerdə gizlədib ki, minaaxtaranla da gəzsən tapa bilməzsən. Yaxşı ki, iki gündə, üç gündə bir balaca rumka konyak içməyə icazə verir. Qapı açıldı, Zəminənin başı göründü:
 
@@ -2210,7 +2210,7 @@ Mən skamyadan qalxdım, daha başım gicəllənmədi, yay qurtarandan sonra tə
 
 Mən, buludların arasından deşik tapıb, pəncərəyə tuşlanıb içəri düşmüş çəpəki gün işığında xırdaca həşəratlar kimi uçuşan toz dənəciklərinə baxdım, bundan sonra qulaqlarımda quş qanadlarının səsini andıran bir səs eşitdim: elə bil təyyarədən yenicə enmişdim, ayağımı torpağa qoyan kimi qulaqlarım açılmışdı - bayaqdan beynimdə guruldayan şırıltı yox oldu. Uzun sürən ağır xəstəlikdən sonra - eşq olsun bu cümləni icad edənə - ilk dəfə həyətə enib hava aldığıma görə, sonra da, evə qalxıb, bir boşqab çoban bozartmasını olmazın iştahla içəri ötürdüyümə görə, ağırlaşıb bir dəmir parçası olmuşdum və başa 
 
-@@ 145
+@@ 073
 
 >>düşdüm ki, bu ağırlıq məni yuxu deyilən quyunun lap dibinə salacaq.
 
@@ -2222,11 +2222,11 @@ Dərd də, azar kimi gələndə batmanla gəlir, bacım!.. Alınmış qalada qan
 
 Xacə Ənvər, alınmış qalanın ağ saqqallı, pəhləvan qamətli xanına məxsus dəbdəbəli, yüz otaqlı sarayının, divarları mina və qızıl suyu ilə işlənmiş, geniş pəncərələri şəbəkəli otaqlarından birinə girib, dalıyca güclə sürdüyü ayaqlarını min bir əzabla çəkə-çəkə, özünü zərlibaftalı məxmər mütəkkələrin üstünə saldı: gecə başlayıb sübh açılanda sona yetən yürüş, hökmdarın qoşunu üçün çox asan qələbə ilə qurtarsa da, yuxusuzluq və dumanlı rütubət onun ağrılarını artırmışdı. Xanı edam edəndən sonra, ağ saqqallı başı nizəyə keçirib, sərbazların at kişnərtisinə bənzər hayqırtıları altında uca bir təpəyə sancandan sonra, hökmdar ətraf kəndləri yandırmağa əmr vermişdi, komalara od vurub, eşiyə çıxanların hamısını – qocanı, cavanı, uşağı qılıncdan keçirib qanına qəltan eləyəndən sonra isə, hökmdar xacə Ənvərə demişdi, get dincəl, get uzan və get tiryəkini çək. Xacə Ənvər gözlərinə, burnuna dolan tüstüdən öskürə-öskürə, əyilib hökmdarın göy damarları pırtdamış əlindən öpmüşdü. Saray tərəfə gedə-gedə, arxasında eşitdiyi qarmaqarışıq səsləri dinləyə-dinləyə, məğribdən məşriqə qədər nəhəng sütunlar kimi göy səmanın ortasına burum-burum ucalan qara tüstülərə baxa, ürəyində bu ədalətli qələbəyə görə tanrıya həm öz adından, həm də hökmdarın adından təşəkkürünü bildirmişdi. Xanın başını bədənindən ayırandan sonra, birinci olaraq xacə Ənvər irəli gəlib, qırmızı libaslı cəlladın uzun və əzələli ayaqları altında, sarımtıl payız otlarının arasında saqqalı ağaran, laxtalanmış qanı sifətinə yayılan başı murdarladı. Sonra sərkərdə və sərbazlar gülə-gülə, çığıra-çığıra növbə
 
-@@ 146
+@@ 073
 
 >>ilə başa yanaşıb, xacə Ənvərin elədiyini eləmişdilər. Daha sonra, sərkərdələrdən kiminsə, sarayın xəlvət otaqlarından birində yaxalayıb tapdığı xanın baş hərəmini, hökmdarın əmri ilə təkgöz Sadıx adlı, qılıncın bir həmləsi ilə adamı iki bölən qüvvətli sərbaza vermişdilər. Təkgöz Sadıx, ayğır kimi bir səs çıxarıb, qadının uzun saçlarını sağ qolunun biləyinə dolayıb, arxasınca çəkə-çəkə onu təpələrdən birinin döşündəki kolluğa aparmışdı... Xudaya, sən mənim ömrümdən alıb, mənim hökmdarımın ömrünə çala!.. Xacə Ənvər böyrü üstə döndü, məxmər mütəkkənin yumşaqlığını və sərinliyini yanağında hiss elədi, iki dərin qullab vurduğu hoqqalı qəlyanını yanına, xalı üstünə qoydu. Tiryəkin dumanı beynindən ayaqlarına axdı, ağrı əvvəl-əvvəl hoqqul-dadı, sonra yavaş-yavaş azalmağa başladı, xacə Ənvər elə bil dağ başına qalxdı, oddan-tüstüdən, hətta öyrəşdiyi qan iyindən canını qurtarıb, hardasa ins-cins olmayan bir yerdə elə bir ciyərdolusu nəfəs aldı ki, gözlərinə işıq gəldi. Əgər xudavəndi-aləm onun hökmdarını qara qızdırmanın əlindən aldısa, onun hökmdarına bu qalanı belə asanlıqla ələ keçirməyə imkan verib, hirsinə, hikkəsinə sərin su axıdıb, söndürdüsə və nəhayət, elə xacə Ənvərin özünün bu böyük şadyanalıq günlərində ağrısını, əziyyət-əzabını azaltdısa, deməli, dünən gecə o qoca kaftarın – başı əsən, gözləri ayağının altını görməyən saray münəcciminin uydurmaları boş şeymiş. Gecə, yürüşdən qabaq, hökmdar sərkərdələri ilə son məşvərəti də eləyib qurtarandan sonra, o qoca çaqqal rüsxət istəyib, hökmdarın çadırına girmişdi və demişdi ki, dö-nü» geri qayıtmaq lazımdır, ulduzların durumu fəlakətdən xəbər verir. Əgər münəccim sinli olmasaydı, əgər başı əsib, kirpikləri titrəməsəydi, yəqin hökmdarın özü qılıncını siyirib onun başını bədənindən ayırardı. Amma hökmdarın münəccimə yazığı gəldi, ona yanaşıb, əlini uzadıb seyrək saqqalından elə bir çəngə qopardı ki, münəccimin çənə-sindən damla-damla qan axdı... Xacə Ənvər gülümsədi, çünki bundan sonra münəccim ağlayıb göz yaşları tökdü və onun bu halı hökmdara o qədər ləzzət verdi ki, əllərini böyrünə qoyub doyunca güldü... Xacə Ənvər eşikdə davam eləyən talanın ərşə qalxmış ah-naləsini burda da eşidirdi, amma sarayın qalın daş divarları hayqırtı, inilti-ağlaşmanın qatım-qarışıq nidalarının qabağını bir qədər alırdı, bu sədalar, xacə Ənvərin uzanıb xumarlandığı saray otağında quyuya düşən səs kimi loqqultulu bir əks-səda verirdi. Xacə Ənvər gözünü açıb hökmdarını tanıdığı gündən, gün işığına, soyuğa, istiyə alışdığı kimi, hər dəfə yü-
 
-@@ 147
+@@ 074
 
 >>rüşdən sonra, növbəti qələbədən sonra, göyə dirənib ətrafı lərzəyə gətirən bu səslərə də alışmışdı. Xacə Ənvərin alışa bilmədiyi yalnız son iki ildə tapdığı, bu Allahın bəlası olan dözülməz ağrıları idi: son vaxtlar isə, o, balaca gümüş mücrünü gecənin ölüm yuxusuna gedəndə yastığının yanında, əlinin altında saxlayırdı, uzun, hoqqalı qəlyanını, ana balasını yanında yatızdırdığı kimi, gecələr köksünə sıxıb yatırdı... Xacə Ənvər əlini uzatdı, yenə qəlyanı götürdü, dolu dodaqları arasına alıb uzun-uzadı bir qullab vurdu və başa düşdü ki, bu, hələlik, bəlkə də gecəyə kimi, sonuncu qullabdır, çünki ağrıları daha yoxdu, çünki gözlərinin itmiş işığı geri qayıdıb, təzədən bəbəklərinə dolmuşdu, ürəyinin də tez-tez itən döyüntüsü əvvəlki qaydasına düşmüşdü. Şükür verən gününə, ulu tanrı! Xacə Ənvər özünü sağaltmasaydı, axşama yaxın təyin olunmuş ikinci ədəmdə iştirak edə bilməyəcəkdi: neçə gün əqdəm bu qaladan enib hökmdarın yanına gəlmiş və özləri ilə çox vacib məlumatlar gətirmiş iki saray şairinin bəxşiş, daş-qaş əvəzinə istədikləri ölümün vədəsi yetmişdi. Bu gün axşam, gün batanda, hökmdarın hüzurunda və bütün xəlqin gözü qabağında bu məmləkətin böyük şairini edam edib başını həmin o şairlərə verəcəkdilər. Hökmdar buna razılığını çoxdan vermişdi və hələ hökmdar heç bir zaman vədinə xilaf çıxmamışdı. İndi o iki saray şairi – bayaq xacə Ənvər onları görmüşdü – sevindiklərindən üzbəüz oturub dəyirmi mizin arxasında zər atmaqla məşğuldular... Bu gün xudavəndə-adam buyurmuşdu ki, hökmdarın mərhəməti sayəsində hər kəs iki aydan çox çölbiyabanın ortasında, keçilməz meşəliyin yaxınlığında, aclıqdan, qızdırmadan, atmilçəyi boyda olan ağcaqanadların əlindən min bir məşəqqətə dözüb səbir edən igid sərbazlar, vəzir, vəkil elə bu iki saray şairi də arzusuna yetsin; bu gün heç bəndənin ürəyində nakamlıq qalmamalı idi, buna görə də hökmdar bu gün bütün qadağalarını hələlik, yenə yürüşə qədər ləğv eləmişdi... Xacə Ənvərin ağrıları hind tiryəkinin hesabına, bədənindən tamam çəkilib yox olduğu və bu ağır, lırt bədənin yüngülləşib quşa döndüyü məqamında onu hökmdarın hüzuruna çağırdılar. Xacə Ənvər yarıyumulu gözlərini açıb, qalxanlınizəli içəri girmiş pəzəvəng keşikçidən soruşdu:
 
@@ -2236,7 +2236,7 @@ Xacə Ənvər, alınmış qalanın ağ saqqallı, pəhləvan qamətli xanına m�
 
 Xacə Ənvər yerindən qalxıb, üzünü qibləyə tutub salavat çevirdi və ovqatı xeyli yaxşılaşdığından, yenə tanrıya təşəkkürünü bildirdi,
 
-@@ 148
+@@ 074
 
 >>hələ də yerindən tərpənməyib, xacə Ənvərin rüsxətini gözləyən qarasaqqal, qarabığ keşikçidən başqa şey soruşdu:
 
@@ -2254,7 +2254,7 @@ Xacə Ənvər yerindən qalxıb, üzünü qibləyə tutub salavat çevirdi və o
 
 Xudavəndi-aləm buyurmuşdu ki, hökmdar xadim olsun və tale bu buyruğu həyata keçirmişdi: neçə-neçə sənələr bundan qabaq, burdan çox-çox uzaqlarda yerləşən bir məmləkətin saray zirzəmisində, başı daz, qulaqları iri, gözləri kirpiksiz quzğun gözlərinə bənzəyən bir kişi, kiminsə əmrini yerinə yetirərək, beş yaşlı oğlan uşağını bağırda xadim edib, qanını da uşağın üzünə yaxmışdı. Kimsə kimdən,
 
-@@ 149
+@@ 075
 
 Allahın buyruğu ilə, intiqamını belə almışdı: bu qanın iyi indiyə kimi hökmdarın burnunda qalmışdı. Amma nə vaxtsa, kimin kimdənsə aldığı intiqamın əvəzini hökmdar hələ çıxmamışdı. Neçə sənələr idi ki, məmləkət-məmləkət gəzib, düşərgələr salırdı, kəsilmiş başlardan qala qurub, obaları, elləri odun ağzına verirdi – saray zirzəmisində bir vaxt bağırmış oğlan uşağının ürək yanğısını söndürmək istəyirdi, lakin bu istəyinə nail ola bilmirdi: illər keçirdi, bu yanğının qəzəbi, kimi sönmək istəmirdi, dəli ağrısı ulduzsuz gecənin qaranlığı kimi gözləri önündən çəkilmirdi. Bu yanğını söndürmək üçün, nə vaxtsa kimin kimdənsə aldığı intiqamın intiqamını, peyğəmbər hüzurunda müqəddəs borc kimi ödəmək üçün, hökmdarın başı üzərində yanan günəşə qılınc çəkmək lazımdısa, bunu da edəcəkdi: kaş əcəl möhlət verəydi, kaş gözəgörünməz tanrı mərhəmətini onun üstündən əsirgəməyəydi...
 
@@ -2270,7 +2270,7 @@ Hökmdar əlini üzünə apardı, yol çəkən gözlərini ehmalca ovuşdurdu, e
 
 – Təki sən deyən olsun, – dedi. – Allah buyuran məsləhətdir. – Sonra əlini xacə Ənvərin araqçınlı başına qoydu. – Deyirəm çox yubanmayaq burda, hə?
 
-@@ 150
+@@ 075
 
 Buyruq səninkidir, hökmdar, məsləhət Allahın.
 
@@ -2306,7 +2306,7 @@ Xacə Ənvər bir-iki dəfə əlinə vurdu, keşikçibaşı döyüş libasında 
 
 Keşikçibaşı ikiqat əyildi, sonra dönüb qapıdan çıxdı və xacə Ənvər nəfəsini dərməmiş, vəzir, vəkil, əyanlar, sərkərdələr bayram libaslarında sarayın elçilər otağına daxil oldular: bu libasların ala-bəzəkliyi, müxtəlif rənglərin, zərli-baftalı xalatların, çalmaların parıltılı-işıltılı ziyası elçilər otağının gözqamaşdıran ziyasını elə bil daha da artırdı və
 
-@@ 151
+@@ 076
 
 Vəzir!
 
@@ -2344,7 +2344,7 @@ Vəzir davam etdi, həyəcandan ucu iti, uzun ağ saqqalı titrəməyə başlad�
 
 – İnşallah, – dedi hökmdar. – Bilirəm, qoca! – Hökmdar narahat olanda, əsəbiləşəndə həmişə vəzirinə “qoca” deyirdi. Bunları mənə
 
-@@ 152
+@@ 076
 
 >>təzədən söyləyib başağrısı verməkdə məqsədin nədir? – Xacə Ənvər hökmdarın zəhmli baxışlarından çiyinlərində elə bir ağırlıq hiss etdi ki, qorxdu fəqərə sütunu ortasından quru ağac kimi qırıla. Vəzir yenə ikiqat oldu.
 
@@ -2360,7 +2360,7 @@ Vəzir davam etdi, həyəcandan ucu iti, uzun ağ saqqalı titrəməyə başlad�
 
 ...Xacə Ənvər elçilər otağından çıxandan sonra öz otağına qayıtmadı, sarayın mərmər pilləkənlərini enib, payız fəslinin sarımtıl rəngi içində uyuyan yaraşıqlı bir bağa çıxdı, başını qaldırıb adamın ürəyini sıxan xəzan ovqatından ayrıldı: səma göm gömgöy və dupduru idi. Xacə Ənvər ah çəkdi, nəsə yaxşı bir şey yadına düşdü, amma bunun məhz nə olduğunu dərk edə bilmədi, çünki tiryəkli beyninin dumanı çox qatı idi, bu qatılıq içərisindən keçmişə qayıtmaq mümkün deyildi. O, bir qədər bağda gəzdi, iradəsi gücünə, indi uzaqlardan gələn
 
-@@ 153
+@@ 077
 
 >>ağlaşma-iniltini də daha eşitmədi və bağın qurtaracağında dayanıb, aşağı, dərə dibindəki yola baxdı: torpaq yol uzun toqqa kimi dərə boyu burula-burula baş alıb meşənin içinə gedirdi və bu yolda bir araba dayanmışdı. Kimindi, hansı binəvanındı bu araba görəsən?.. Bu sual onun ağlına hardan gəldi, başa düşəmmədi, özü-özünə təəccüb edib çiyinlərini çəkdi.
 
@@ -2368,7 +2368,7 @@ Xacə Ənvərin yarğanın başından bir qaraltı kimi gördüyü bu araba sara
 
 Qasım da, arabanın yanında qurdalana-qurdalana, oxunu, yayını bir də yoxlayıb, belini düzəldib yuxarı baxanda yarğanın başında, saray bağının qurtaracağında bir qaraltı gördü: işıq gözlərinə düşdüyü üçün, əvvəl xacə Ənvərin qaraltısını nəhəng quzğuna bənzətdi, sonra gördü
 
-@@ 154
+@@ 077
 
 >>ki, adamdır və bildi ki, hökmdarın adamlarındandır: təlxək tutarlı bir qarğış bilmirdi, çünki ömrü boyu oyun çıxarıb məzəli-məzəli sözlər deyib, camaatı əyləndirməklə məşğul olmuşdu, buna görə də əvvəl duruxdu, sonra ağlına gələn qarğışı ürək yanğısı ilə bir yerə ağzından eşiyə tökdü:
 
@@ -2380,7 +2380,7 @@ Təlxək bu sözləri ucadan dedi, bildi ki, mənzil uzaqdır, boğa-zindan çı
 
 ...Şairi zindandan çıxarıb edam yerinə aparanda al günəş dağların başında qan tuluğu kimi sallanıb durmuşdu. Şair boğazını, çənəsini, gözlərinə kimi sifotinin bütün əzalarını deşim-deşim deşən ağrıdan inildədi, əlləri arxasında toqqa gönül ilə bərk-bərk bağlı olduğuna görə, hər ilin sarımtıl xəzanı gələndə, qürub çağı günəşi belə al-qırmızı görəndə, həmişə elədiyini indi eləyə bilmədi: şair salavat çevirmək istədi, mümkün olmadı. Xudaya, bu nə ağrıdır?.. Bir də günəşə baxdı, qırmızı işığın şöləsi ağrı içində qovrulan şairin sifətində elə bil çıraq kimi yandı, amma bu yanğıdan üzü-gözü bir qədər sərinlədi... Vəzir, vəkil və bir neçə sərkərdə, hökmdardan xəlvət və ədəmdən qabaq gizli məşvərət keçirib qərara gəlmişdilər ki, şairin başı bədənindən ayrılan qədər dilini kəssinlər. Kəssinlər ki, edam mərasimi zamanı, bu xaraba məmləkətin şairi, vəziri, vəkili acıladığı kimi, hökmdarı acılamasın, hökmdara ağır söz deməsin. Vəzir ömründə təsəvvür edə bilməzdi ki, ölümqabağı şairlərin dili belə acı olarmış! Bu gün hökmdarın böyük bayramlarından biri idi və belə bir bayramın qanqaralığı ilə bitməsi vəzirə, vəkilə çox baha otura bilərdi. Vəzir də, vəkil də həmişə görmüşdülər ki, qırmızı libaslı cəlladın iti baltası havaya qalxmamış-dan qabaq, edama məhkum olanların hamısı hökmdarın qarşısında diz çöküb ondan imdad diləmişdilər. Vəzir də, vəkil də bilirdi ki, şair heç kəsdən imdad istəməyəcək, ağzını dağıdıb acı sözlərlə böyük bayramı böyük matəmə çevirəcək. Buna görə də pıçıldaşıb-qıqqıldaşıb, şairin
 
-@@ 155
+@@ 078
 
 >>dilini kəsdirmişdilər... Şair isə bayaq potaboy, ağzında bir dənə də dişi qalmamış bir kişinin əlində qırmızı ət parçasını görsə də, indi dilinin kəsildiyini hiss eləmirdi, əksinə, ona elə gəlirdi ki, dili ağzında şişib və bu müsibətli ağrı o şişin ağrısıdır. Bir yandan da qüruba enən günəşin bu qırmızı müsibəti!
 
@@ -2388,7 +2388,7 @@ Kimsə arxadan onu itələdi və nizəli-qalxanlı iki keşikçi qabağa keçdi,
 
 Şairi edam yerinə qaldırdılar. O, gözlərini qıyıb əvvəl-əvvəl aşağıda, meydançanın ortasında taxtada əyləşmiş hökmdarı gördü və şairin gözləri qaqqanaq çəkib güldü: xadim xanın çöhrəsi heyva çürüsündən də artıq qırış idi və xadim xanın uşaq başı boyda balaca bir başı vardı. Sonra şair başını ağır-ağır endirib sərbazlara baxdı: sərbazlar təzək iyi verirdilər. Sağ tərəfdə dayanıb, qorxu içində şairin edamına tamaşa edən öz obalılarını – qocaları, qarıları, cavan oğlan uşaqlarını və nəhayət, ömrü boyu uca qamətlərini və ala gözlərini vəsf elədiyi gəlinləri, qızları görəndə gözündən bir damla da yaş axdı: bu damla da ağ deyildi, bu damla da qırmızı idi. Çünki şairin ürəyi od tutub yandı, şair bildi ki, qara telləri çiyinlərinə tökülüb məlul-məlul dayanmış, göz yaşları qurumuş bu gəlinlərin, bu qızların hər birinin bətnində indi neçə-neçə sərbaz toxumu var. Gözlərinə qırmızı yaş gəldi və şair ürəyində öz
 
-@@ 156
+@@ 078
 
 Çıgırıdı:
 
@@ -2400,13 +2400,13 @@ Bu qəzəbli səsdən üzbəüzdəki meşədə qarğaların səsi aləmi başın
 
 Araba, vahiməli sükut içərisində qıjıltı qopara-qopara meşənin seyrəkliyindən sıxlığına yönəldikcə, hava elə bil bulanıb, dəqiqodəqiqədəqiqə, saniyə-saniyə qaralırdı. Əvvəlcə Üfləmə Qasım meşənin bu qəribəliyinə fikir vermədi, ona elə gəlirdi ki, heç qabağındakı yolu da əməlli saça bilmir, çünki gözlərini orda, ağ sarayın qabağındakı meydançada qoymuşdu: bu gözlər, əcələ təslim olmuş şairin saralmış sifətinə zillənib qalmışdı. Gözün tökülsün, fələk!.. Təzə yiyəsinin ürəyində dediyi bu yanıqlı qarğışı elə bil qatır eşitdi, dayanmaq istədi, Üfləmə Qasım bunu hiss edib, qatırı var gücü ilə mahmızladı: heyvanın bədənində şaqqıldayan qamçının səsi Üfləmə Qasımı ayıltdı, gözlərini geri qaytardı. O, meşəyə baxdı. Ona elə gəldi ki, dərəyə nis- 
 
-@@ 157
+@@ 079
 
 >>batan meşənin havası daha sərindir, bu sərinlik, qatır arabanı irəli çəkib apardıqca artırdı və belə getsə, iki-üç saatdan sonra o gəlib qarlı bir diyara düşəcək. Sonra başını qaldırıb, palıdların, vələslərin, cevizlərin kəlləsinə göz gəzdirdi: bu meşənin də payız yarpaqları, orda, arxada qalmış, tüstüdən boğulan başıbəlalı məmləkətin yarpaqları kimi sapsarı idi və hələ ağacların budaqlarında topa-topa çoxlu yarpaq qalmışdı. Özgə vaxt olsaydı, bu havanın yüngüllüyündən, axşam alatoranının gözəlliyindən vəcdə gəlib, pəsdən bir bayatı deyərdi. Amma Üfləmə Qasımın nəinki bayatı deməyə, heç əməlli-başlı ciyərdolusu nəfəs almağa da tutarı qalmamışdı: fələk Üfləmə Qasımın bədənindən şirəsini yox eləmişdi, gözlərinin işığını azaltmışdı, qüvvəli ayaqlarının gücünü almışdı. Nə qədər yol gedəcəkdi, neçə vahiməli gecəni bu meşənin zülmətində, ağacların altında keçirəcəkdi – hələ bunları Üfləmə Qasım bilmirdi. Amma getməliydi, lazımdı olsa xortdanın özün qucaqlayıb onunla bir yerdə bu meşədə gecəməliydi: şairin əlyazmalarını uzaqlara, qan tökülməyən, baş kəsilməyən bir yerə aparıb orda çörəyi halal adamların diyarında otun-ələfin altından gün işığına çıxarmalıydı. Amma təlxək qüssəli-qüssəli xəzan yarpaqlarına bir də baxıb düşündü ki, görən, bu dünyada çörəyi halal olan adamların diyarı hardadı? Çünki at kişnərtisi və sərbaz hayqırtısı hələ də qulaqlarında qalmışdı, təlxək bu diyarı tapsa da, əgər belə bir möcüzə baş versə, qulaqlarındakı bu səslərlə ora getmək istəmirdi. Bu səsləri ondan savayı kim eşitsə – qarnına qorxu dolacaq. Qorxu toxumundan bətni ağırlaşmış adamların arasında əlyazmalarını otun-ələfin altından çətin gün işığına çıxartmaq olar!
 
 Təlxək qatırın cilovunu çəkdi, araba dayandı. Arabadan düşüb, qıjıltı kəsiləndən sonra, sərin hava kimi qulaqlara dolan sakitlikdən xumarlanan kimi oldu. Əlini otun-ələfin içinə salıb altında nə vardısa, bu gün neçənci dəfə idi bir də yoxladı, sonra iri bir kisənin bağını açıb, yola götürdüyü azuqəni də gözdən keçirdi, xamralı çörəyinin, pendirin, göy-göyərtinin ona xeyli çatacağına bir daha inanıb, təzədən arabaya qalxmaq istəyirdi ki, qəfil eşitdiyi səsdən tükləri ürpəşdi: hardasa yanıqlı-yanıqlı bir uşaq ağlayırdı. Qulaq verdi, elə bil biri yox, bir neçəsi ağlayırdı. Dadına tez-tez eşitdiyi qorxulu rəvayət düşdü: hal arvadı, meşədən, səhradan keçən tənha yolçuları saxlamaq üçün səsilə ağlayır, sonra onları yaxalayıb, qalın hörüyünü boğazlarına dolayıb boğur. Allah, özün kömək ol! Üfləmə Qasım qarnının soyuduğunu
 
-@@ 158
+@@ 079
 
 >>hiss elədi və ağlaşmanın kəsmədiyini görüb, yaxınlaşıb qatırın boy-nunü qucaqladı. Qatır, ömründə görmədiyi bu mərhəmətdən elə bil kövrəldi, başını silkələyə-silkələyə bir-iki kərə fınxırdı. Bu səs, yanıqlı uşaq iniltisi lap yaxından, Üfləmə Qasımın gözləri qabağında sıralanıb durmuş nəhəng ağacların arxasından gəlirdi. Allah, bu nə bəladı mən düşdüm?.. Amma daha dayana bilmədi, neyçinsə ürəyi sıxıldı, əgər belə yanıqlı-yanıqlı ağlayan doğrudan da hal arvadı idisə, qoy elə boğub öldürsün, Allahın qismətindən artıq nə ummaq olar ki?.. Gözün tökülsün, fələk, bu nə yanıqlı iniltidir belə?! Üfləmə Qasım yerindən tərpənib özünü ağacların arasına saldı, gur gicitkən kollarının arasından birtəhər keçib, talaya bənzər bir yerə çıxdı və sağ əldə, nəhəng bir palıdın gövdəsinə bitişik qurulmuş balaca komacığı görüb, başa düşdü ki, ağlaşma səsləri oradan gəlir.
 
@@ -2428,7 +2428,7 @@ Qız nəhayət dilləndi:
 
 – Sərbazlar əvvəl atamı öldürdülər, sonra anamı. – Qız başını sinəsinə əydi, bu sözlərdən sonra komanın içindəki inilti elə bir çığır-bağıra, ağlaşmaya döndü ki, Üfləmə Qasım daha özünü saxlaya bilmədi, irəli atılıb qızın yanından ötüb komaya yanaşdı, başını içəri soxdu: qaranlıq, havası rütubətli komaya neçə nəfər olduğunu əməlli seçə bilmədi. Dedi:
 
-@@ 159
+@@ 080
 
 – A bala, a bala, çıxın eşiyə, ay uşaq, xəstələnərsiniz! Komadan bir-birindən balaca, dörd qız uşağı çıxdı, beş oğlan uşağı. Üfləmə Qasım başa düşdü ki, odunçu Bəhlulun beş oğlu, beş qızı yetim, kimsəsiz qalıb, bu başıbəlalı dünyanın səfillərinə qarışmışdılar. Başını yuxarı qaldırıb, bu gün neçənci dəfə idi, ucadan dedi:
 
@@ -2450,7 +2450,7 @@ Böyük bacısının əlindən tutub, başını onun qarnına qoyub dayanmış l
 
 Uşaq ikiəlli, bacısının qolundan yapışdı. Qız tikəni Üfləmə Qasımın əlindən alıb uşağa verdi və yalnız bundan sonra oğlanlı-qızlı hamısı balaca əllərini süfrəyə uzatdılar. Bu payız axşamının sərin sakitliyi marçıldayan dodaqların səsinə qulaq asa-asa, udqunan nazik boğazlara baxa-baxa Üfləmə Qasım quruyub qaldı: elə bil bu yetimlərin başına gələn fəlakətin nə demək olduğunu yalnız indi anladı. Xudaya, bəs bunların axırı nə olacaq? Allah, bunlara sən necə qıydın? Uşaqlar tikələrini yeyib dayandılar və ac gözlər, qırpımı kövrək gözlər təzədən süfrəyə dikildi. Üfləmə Qasımın canına qızdırma doldu, əyilib sonbeşiyi qucağına aldı, isti, balaca dodaqları öpdü.
 
-@@ 160
+@@ 080
 
 Ay qız, ceyran bala, – deyə böyük qıza sarı döndü. – Hamısı sizindi, a bala, yeyin.
 
@@ -2470,7 +2470,7 @@ Qız gülümsünüb cavab verdi:
 
 – Sənin əmi deyən dilinə qurban kəsim, a ceyran bala! – Sonra Üfləmə Qasım əlini çuxasının yaxasından içəri saldı, qoltuğuna yaxın, çuxaya tikdiyi balaca məxmər kisəni bu gün birinci dəfə yoxladı: qızıllar, gümüşlər yerindəydi, dünən gecə nəyə vardısa sa bu kisəyə yığıb, atadan-anadan yetim qalmış Üfləmə Qasım, bir ayağı yox, iki ayağı da gorda olan qoca nənəsinin ağ gəlmiş gözlərindən öpüb evdən
 
-@@ 161
+@@ 081
 
 >>çıxmışdı. Fərasətinə eşq olsun, ay Qasım!.. Uşaqlara baxa-baxa, onlarınrın üzünə gülümsəyə-gülümsəyə, beynində, qarşıda duran xərcləri hesabladı: mənzil başına gedib çatana qədər, yolüstü kəndlərdən on bir nəfərin azuqəsini götürmək üçün, on cüt də çarıq almaq üçün bu pullar xirtdəyə qədər bəs eləyəcəkdi. O, başını yuxarı qaldırdı, ala-bula bozaran göyün ortasındakı dəyirmi aya baxdı, ayın ətrafında, axşam qaranlığında bu yetimlərin gözləri kimi işıldayan ulduzlara tamaşa elədi və ömründə bəlkə də birinci dəfə idi ki, sidq ürəklə Allaha “şükür” dedi... Bu vaxt sonbeşiyin ağlamasının səsini eşitdi:
 
@@ -2490,7 +2490,7 @@ Bu nazik və gülməli səsə geri dönən uşaqlar, ay işığının gümüş r
 
 Uşaqlar deyib danışa-damşa, gülüşə-gülüşə yaxına gəldilər və Üfləmə Qasım başladı: əvvəl hoppandı, əlləri üstə durub, ayaqlarını yana aralayıb havada oynatdı, sonra yenə xoruz kimi banlaya-banlaya mayallaq aşdı, otun üstündə özünü sürüşdürdü, ayaqlarını qayçı kimi
 
-@@ 162
+@@ 081
 
 >>açıb oturdu, daha sonra yenə quş təki qanad açdı, yenə mayallaq aşdı, özünü yıxıb, başından tutub “uf, uf, öldüm, yandım” dedi və daha nələr eləmədi!.. Bu ay işığında, saralmış payız otlarının üstündə on yetim dünyanın ən şirin və ən gülməli nağılına tamaşa edə-edə, quzu sürüsü kimi baş-başa verib irəli gəldilər, indi bardaş qurub oturmuş, başını var gücü ilə silkələyə-silkələyə şiş təskülahının zıngırovunu səsləndirən Üfləmə Qasım yanaşdılar, ona qoşulub gülməkdən uğunu» getdilər. Sonbeşik isə lap yaxına gəlib, Üfləmə Qasımın ayaqları üstə oturdu və başını onun sinəsinə qoydu: uşağın isti nəfəsi təlxəyin sifətində gəzdi, təlxək onu bərk-bərk qucaqlayıb ot iyi verən qıvrım saçlarından öpdü. Sonra dedi:
 
@@ -2500,7 +2500,7 @@ Heç kəs “hara” deyib soruşmadı. Yetimlər gülüşüb əl çaldılar, so
 
 Meşədən bayquşların səsi kəsik-kəsik eşidilməyə başlayanda, Ay, ulduzlar işığını artırıb, qatı qaranlığı ağacların altına, görünməz çığırcığırlara qovduğu vədə, odunçu Bəhlulun meşədə gecələməkdən ötrü qurduğu balaca komadan böyük qız yamaqlı bir kilim çıxardı, bu kilim kimi yamaqlı, solub bozarmış enli yorğan çıxardı, uşaqlar ətrafa səpələni» ot yığdılar, kilimin üstündə yataq yeri hazırladılar: Üfləmə Qasım ortada uzandı, beş oğlan uşağı sağ tərəfində, beş qız uşağı da sol tərəfində, dərin və rahat yuxuya getdi. Təlxəyin bədənində yorğunluqdan qaya ağırlığı vardı. Üfləmə Qasım da, uşaqlar da yuxuya getməmişdən qabaq, başları üzərindəki səmada parıldasa-parıldasa yanıb, böyüyüb, hərəsi bir alma boyda olan ulduzlara baxdılar: Üfləmə Qasım yenə “şükür” dedi. Uşaqlar gözlərini yumub yatışan kimi, Ay işığının tilsiminə düşüb yuxuda sehrli zınqırov səsləri eşitdilər, on yetimin sifətinə Ayın, ulduzların işığından toxunmuş gülümsər bir təbəssüm qondu. Üfləmə Qasım isə uşaqların yuxuda gördüyü zınqırovun səsini eşitmədi, çünki çox yorğundu. Zınqırov səslərindən xəbəri olmadığı kimi ömürlük tərk etdiyi, indi uzaqlarda qalmış məmləkətin sonuncu qiyamət günündən də xəbəri olmadı... Bir günün gündüz çağında dünyanın ən səvab işini görən təlxək, şairin əlyazmalarını xilas edib ürəyi səksəkəli yola düşən təlxək, zillət kimi ağır olan bu günün qürub
 
-@@ 163
+@@ 082
 
 >>çağında tanrının hökmünü yerinə yetirib, beş oğul və beş də qız atası olmuşdu: indi gərək təlxək ölüm yuxusuna gedib, canından yorğunluğu tamam çıxardaydı və səhər yuxudan gümrah oyanaydı, çünki hələ mənzil başına çox qalırdı və o daha bu başıbəlalı dünyada tək deyildi.
 
@@ -2526,7 +2526,7 @@ Amma yenə vəzir deyən olmadı, şeytan quyruq buladı və şair istəyən old
 
 Ədəmdən sonra, şairin başını qızıl teştə qoyub, gətirib saray şairlərinin ayaqları altına qoyandan sonra, hökmdar bütün əyanlarını, sərkərdələrini başına yığıb, çiçək kimi ala-bəzək bayram libasları geymiş
 
-@@ 164
+@@ 082
 
 >>bu adamların arasında, döyüş paltarında olduqları üçün, qara, iri arıları xatırladan keşikçilərin əhatəsində, məxmər çəkmələrini xəzan yarpaqlarının üstünə basa-basa yavaş-yavaş saraya qayıtdı, aşpazların hazırladığı ləziz bayram xörəklərinin iyini uzaqdan hiss edib, üz-gözünü turşutdu: hökmdarın neçə gün idi ki, qızdırmadan sonra hələ iştahı qaydasına düşməmişdi və bişmiş iyi burnuna dəyəndə ürəyi bulanırdı.
 
@@ -2534,7 +2534,7 @@ Elçilər otağında təşkil edilmiş böyük ziyafətdə, hökmdar özü içm�
 
 Bu gözəl bayram büsatının sonunda şeytan quyruğunu buladı, cəhənnəmə vasil olmuş şairin nəhs niyyətinə əməl edib, xoşagəlməz bir 
 
-@@ 165
+@@ 083
 
 >>xəbəri saray bağında, sakit və ulduzlu payız axşamının, sərinliyində gəzişən hökmdara çatdırmaqla, vəzirin yeyib-içdiyini burnundan tökdü, üstəlik də, indi, sarayın lap ucunda yerləşən xəlvət yataq otağında, bağlı qapı arxasında xacələrdən biriylə qalmış, isti suda müşk-ənbərlə çimizdirilib ətir qoxuyan, ağ yorğan-döşəkdə bişmiş çolpa kimi buxarlanan on beş yaşlı bir qız da, yəqin ki, əlindən çıxacaqdı: belə qan-qaralıqlardan sonra vəzir həmişə kişilikdən düşürdü. Qoca vəzirin qəzəbdən ürəyi, içi-içalatı əsim-əsim əsdi.
 
@@ -2566,7 +2566,7 @@ Vəzir hökmdarın qabağında dizüstə çöküb bərk-bərk ayaqlarını qucaq
 
 – Mən bilirəm! – hökmdar ilə vəziri kənara tulladı və vəzir yenə eynən qəfil təpik yemiş küçük kimi zingildədi. – Mən bilirəm o kaf-tarın niyyətini! – deyə hökmdar davam elədi. – Axırı ki, istədiyini elədi, ilan toxumundan əmələ gəlmiş qoca koramal! Mənim ovqatıma soğan doğradı, hökmdarın bayramına zəhər qatdı, onun zəhəri cəhənnəmdə gözlərinə tökülsün!
 
-@@ 166
+@@ 083
 
 Sonra susdu. Hamı ikiqat olub qalmışdı: hökmdara ilk anlar elə gəldi ki, bütün əyanları, sərkərdələri, ətrafında kim vardısa, hamını gözəgörünməz bir qılıncla yarı bölüblər. Hökmdarın ürəkbulanması bu dəfə qalxıb lap hülqumunda dayandı, özünü o qədər pis hiss elədi ki, istədi xacə Ənvəri yanına çağırsın: yanar dağ püskürtüsü kimi birdən başlayan qəzəbin istisi başına vurdu, üç-dörd gün bundan qabaq keçirdiyi qızdırmalı gecələri xatırladı, ovqatı təlx edən bəzi xırda-para əhvalatları da yadına saldı və hökmdar bir heçə anın içərisində zəifləyib elə hələ düşdü ki, vəzirvəkilin, əyan-sərkərdənin gözləri qarşısında az qala yıxılacaqdı. Xacə Ənvər uzaqdan nəsə hiss elədi, hökmdardan rüsxət gözləməyib, gəlib, onun yanında dayandı. Elə bu vaxt hökmdar, xacə Ənvər, vəzir, vəkil, saray bağına axşam gəzintisinə çıxmış əyanlar, sərkərdələr hardansa bir qadın səsi eşitdilər: kimsə ağı deyirdi, yanıqlı-yanıqlı kimisə oxşayırdı.
 
@@ -2588,7 +2588,7 @@ Qarı başını qaldırıb gözləri qabağında dayanmış qaraltını əməlli
 
 Sərkərdə gülümsündü, toqqasından sallanmış qamçısını götürüb var gücü ilə yox, elə-belə arvadı ağrıtmaq üçün, arıq kürəyinə yüngülcə zərbə endirdi. Amma sərkərdənin xəbəri yox idi ki, bu arıq bədəndə daha hey deyilən şey qalmamışdı və bu yüngül qamçı zərbəsindən, şairin bədəni üstündə dünyanın ən yanıqlı ağısını deyən qoca qarı –
 
-@@ 167
+@@ 084
 
 Üfləmə Qasımın iki ayağı gorda olan, gözlərinə ağ gəlmiş nənəsi böyrü üstə düşüb, canını Allaha tapşırdı. Amma keçdi, nə cəllad baltası, nə də bu sərbazın son qamçı zərbəsi daha bundan sonra heç bir şey eləyə bilməyəcəkdi. Məmləkətin ən qoca ağbirçəyinin dediyi son ağı
 
@@ -2600,7 +2600,7 @@ Baba Kahanın oyumundan gələn hənirti ağ dumana dönüb eşiyə axdı, yuxar
 
 – Kökünüz kəsilsin sizin, ay ikiayaqlı bəndələr! …Eşikdəki uğultunu eşidəndə, şəbəkələrdəki şüşələr arxa tərəfdən büzüşüb, qırmızısını, yaşılını, sarısını itirib qara rəng alanda, sara-yin elçilər otağına qəfildən elə bir soyuq doldu ki, hökmdar taxtından sıçramaq istədi, sıçraya bilmədi, əyilib, yenə ayaqları altıda oturmuş xacə Ənvərin əllərindən yapışdı.
 
-@@ 168
+@@ 084
 
 – Bu nədir, Ənvər! - Elə çığırdı, səsi elə bil kökündən qopdu. Amma eşikdəki uğultudan, vıyıltı salıb saray divarlarının özülünü tərpədən küləyin səsindən xacə Ənvər heç nə eşitmədi.
 
@@ -2618,7 +2618,7 @@ Sonra o, hökmdarının yanına qayıtdı, bir söz demədi, əlindən tutub arx
 
 Amma yenə nə hökmdar, nə xacə Ənvər bir-birini eşitməmişdi. Hökmdar vəfalı nökərinin sulu gözlərinə baxıb başa düşdü ki, onu bu müsibətdən ancaq xacə Ənvər qurtara bilər: neçə il əqdəm, burdan uzaqlarda, düşərgədə quruyub qaxac olmuş və gözlərində hərəsi bir alma boyda ulduzlar yanan at və insan cəsədləri hələ hökmdarın yadındandan çıxmamışdı. O razı olub, başını tərpətdi. Xacə Ənvər qabağa düşdü, uzun pilləkənləri enib, lap aşağıda dəmir qapını görəndə hökmdar, xacə Ənvərin onu saray zirzəmisinə gətirdiyini başa düşdü. Və ömründə birinci dəfə hökmdar xacə Ənvərin yanında dəhşətli qorxusunu gizlədə bilmədi, ona yalvardı:
 
-@@ 169
+@@ 085
 
 – Ənvər, məni zirzəmiyə salma!
 
@@ -2638,7 +2638,7 @@ Hökmdar başını aşağı salıb xacə Ənvərə tabe olub, bütünlüklə ixt
 
 – Bu saat, başına dönüm, bu dəqiqə! – deyib, xacə Ənvər hökmdarın qoluna girdi, onu zirzəminin çıraq yanan küncündə durmuş alçaq taxta sarı apardı.
 
-@@ 170
+@@ 085
 
 Sən uzan, uzan. - O, hökmdarı döşəksiz, yastıqsız taxtda uzatdı, əbasının üstündən bağladığı enli parçanı açıb yumruladı, yastıq əvəzi eləyib hökmdarın başı altına qoydu, sonra xacə Ənvər əbasını da çıxardı, onun üstünə saldı, özü də onun yanında uzanıb, böyrünə qısıldı, Allaha yalvarıb, peyğəmbərə yalvarıb, bədəninin bütün hərarətini hökmdarın bədəninə keçirdi, amma xeyri olmadı. Hökmdar yenə dedi:
 
@@ -2668,7 +2668,7 @@ Gündüz yuxusu, doğrudan da həm şirin olur, həm də rahat: axır vaxtlar, g
 
 İnsanı gərək həmişə ümidin ətəyindən yapışsın, həmişə sabahı, gələ-
 
-@@ 171
+@@ 086
 
 >>əyi düşünsün, dünənə, keçmişlə yaşamaq adama baha oturur, çünki insanın ancaq bu günü və gələcəyi var, insanın keçmişi yoxdur: vaxt durmadan, nəfəsini dərmədən yalnız qabağa axır, insan isə özünü həmişə, hansı şəraitdə olursa olsun, sağlıqda da, xəstəlikdə də, ancaq zamanın birsəmtli axarına tabe etməlidir... Xəstə gülümsündü: dadlı çoban bozartmasından sonra yatıb, durub, bu cür müdrikanə fikirləşməyin özü də pis şey deyil, yaxşı deyiblər ki, sağlam bədəndə sağlam da ruh olar. Xəstə qalxdı, ayaqlarını çarpayıdan sallayıb çəkələklərini tapdı, sonra stulun üstündən xalatını götürüb geydi və saatına baxdı: düz iki saat yarım yatmışdı, nə əcəb Zəminədən, onu ayıltmayıb... Durub pəncərəyə yanaşdı, pərdələri aralayıb eşiyə, həyətə baxdı. Hava tutulmuşdu, deyən, yağış yağacaqdı, bundan başqa, həyətin səliqəsizliyini, damı uçmuş zibilxananın içindəki zibil yeşiklərinin quyu kimi qara ağızlarını, budaqlarında bir dənə də yaşılı qalmamış tut ağacının iri-iri sarı, qırmızı yarpaqlarını yüngülcə tərləmiş pəncərə şüşələrindən görüb düşündü ki, indi, üstəlik, payız yox, yaz olsaydı, onda olardı lap əla. Kim nə deyir desin, amma payız kimi axmaq fəsil yoxdur. Payız ilin nə oyanlıq, nə də buyanlıq olan fəslidir, payız ələ əslində, zökəm kimi bir şeydir, adamı keyləşdirir. Vay belə havada yolu çölə, meşəyə düşənlərin halına... Arxadakı qapı cırıldadı, Zəminənin səsi gəldi.
 
@@ -2684,19 +2684,19 @@ Xəstə, “zəng eləmişdilər”i eşidəndə yadına düşdü ki, yuxuda qə
 
 – Mütləq! – dedi Zəminə. – Get adam arasında görün, dost var, düşmən var. Görsən ki, maraqsız iclasdı, qayıdarsan evə, – Zəminə
 
-@@ 172
+@@ 086
 
 >>ərinin sifətinə baxdı. – Saqqalını da qırxarsan səhər, ağ köynəyini də ütüləmişəm, təzə kostyumunu da geyərsən.
 
 Xəstə dinmədi... Kirlikirin Sədi əfəndiyə dediyi sözləri xatırladı: "Bir də səni Salahovun, ya da Kərimlinin yanına çağırsalar, çalış, aradan çıx". Güldü və gərnəşib bədənini xırçıldatdı. ...Səhərisi, on bir radələrində evdən çıxıb ayağını küçəyə basanda, yaxasındakı yun şərfini düzəltdi, plaşını yuxarıdan aşağı düymələdi, kepkasını da gözlərinin üstünə basdı. Fikirləşdi ki, kaş, qonşuya-filana rast gəlməyəydi, çünki rast gəlsəydi, məcbur olub dayanıb, xəstəliyi barədə uzun-uzadı məlumat verməli olacaqdı, özü də çənəsi yorulana qədər. Yəqin yalnız onun yox, elə dünyanın bütün qonşuları bu cəhətdən bir-birilərinin eynidirlər. Adamı sappasağ görəndə, elə bil tramvay, trolleybus görürlər, salamlaşıb, müxtəsərcə hal-əhval tuturlar, amma elə ki, uzun xəstəlikdən sonra onların əlinə keçdin, qalırsan çıxılmaz vəziyyətdə. Xəstəliyin nəydi?.. Hansı həkim baxırdı? Hansı dərmanları içirdin? Hakimlər indi nə deyirlər?.. Gərək hamıya cavab verəsən, sonra məsləhətlərə qulaq asasan və üstəlik, hamının sağalmaq münasibətilə atəşin təbriklərini qəbul edib, hər birinə öz atəşin təşəkkürünü bildirəsən. Yəni heç kəsi qınamalı deyil: hərdən xəstəyə elə gəlirdi ki, yalnız onun yaşadığı binada yox, bu böyük şəhərin bütün saysız-hesabsız binalarında hamının söhbəti eyni olur: kim nə aldı, kim qızını kimin oğluna verdi, kimə nə cehiz gətirdilər? Filankəsovun dalından dəyib yerinə Filankəsovu qoydular – işdən çıxarılan və işə qoyulan filankəsovlar biriydimi, ikiydimi – və nəhayət, kim nədən öldü və nədən xəstələndi? Vəssalam. Elə bil bu söhbətlərdən savayı bu şəhərdə gözədəyimli bir mövzu yoxdu. Xəstənin fikrincə – bu fikir onun ağlına indi gəldi, yavaş-yavaş, yeşikdə əzgil yığını kimi birbirinə bənzəyən şəhər adamlarına baxa-baxa aşağı enib, sevinə Kommunist küçəsinə yönəldiyi müddətdə – əgər bu adamların hər biri küçəyə çıxanda, evə qayıdanda, başını qaldırıb göyə baxsaydı, günəşi, ayı, ulduzları görsəydi, belə söhbətlərin çoxu bəlkə də aradan götürülərdi. Belə getsə, ildən, iki ildən sonra bioloji mutasiya baş verə bilər, boyun əzələləri başları yuxarı qaldırmaq qabiliyyətini itirə bilər. Başını qaldır, göyə bax, dünya gözlərində gözəlləşsin. Eşq olsun bu kəlama! Əbülqasıma demək lazımdır ki, bunu da kitabına salsın, bir də o zınqırov səsini də salsın... İlahi, o nə səs idi elə? Kaş, adam həmişə elə səsli yuxular görəydi, həmişə elə yuxular görən, elə
 
-@@ 173
+@@ 087
 
 >>zınqırov səsləri eşidən adam yüz il yaşayar, “uf” deməz. Daha doğrusu, kaş yuxular ölülərsiz, ölülərlə bağlı hadisələrsiz olaydı. Həmişə yuxuda o cür səslər eşidəydin. Və bir də, payızın bu sərin günündə, kaş ağacların sarı-sarı yarpaqları olmayaydı... Xəstə, yolu üstündəki qəzet kiosklarından birinin qabağında ayaq saxladı, dövrələmə şüşələrə yapışdırılmış rəngbərəng jurnallara baxdı, bu jurnalların üz qabığındakı gülümsər çöhrələrə tamaşa etdi və Sədi əfəndinin şəkillərindən biri gözləri qabağına gəldi: buxara papaq, əynində, kürk, sol əlinin adsız barmağında da brilyant üzük... Xəstənin ürəyi sıxıldı, tez əlini plaşının cibinə saldı; yox, sağ olsun Zəminə, nitroqliserin ordaydı. Jurnalların üz qabığından baxan müxtəlif kişi və qadın sifətlərinin heç birində sarılıq yox idi, amma Sədi əfəndinin albomdakı şəkillərinin hamısı xəzan yarpağı kimi sapsarı saralmışdı. Ay gidi dünya, hey!.. Xəstə yerindən tərpənib təzədən yola düzəldi və gedə-gedə fikirləşdi ki, gör bir neçə illədir Muxtar Kərimli iclaslar çağırır, çoxlarının sümükləri bu illər ərzində qara torpaq altda çürüyüb, amma o, maşallah, elə eləyir ha!.. Amma bu fikir xəstənin ağlına gəlsə də, xoşuna gəlmədi, çünki bu fikirdə qəddarlıq vardı. Allah verən ömrü, allah da almalıdır!.. Xəstəyə elə gəlirdi ki, o özü, Sədi əfəndinin üç dəftərlik gündəliyini oxuyandan sonra, qəddarlaşmamışdı, sadəcə, gözləri açılmışdı, çoxdan ürəyində gəzdirdiyi şübhəli sualların cavabını tapıb, bir-iki gün ərzində həyata, bəzi hadisələrə baxışında bir qədər müdrik və ayıq olmuşdu. “İndi cırtqozluq eləmək vaxtı deyil, başını aşağı salıb, hərə bir parça çörəyini yeyir, sən də ağlını başına yığ, canının qeydinə qal”. Berqman onlardan gedəndə dəhlizdə bu sözləri demişdi. Əlbəttə, bu kəlam, Əbülqasımın kitabına düşə biləcək müdrik kəlamlardan sayıla bilməzdi, amma hər halda bu sözlərdə həqiqət vardı: bu dünyanın və bu davranışın sadə həqiqəti...
 
 İclasdan sonra, qanıqara, daha yoldan ötənlərə baxmadan, heç nəyə fikir vermədən, həm özünü söyürdü, həm də Səlimə xanımı. Nahaq, nahaq Səlimə xanım gündəliyi ona vermişdi: gedə-gedə, Səlimə xanımın ənlikli-kirşanlı sifətini gözləri qabağına gətirə-gətirə daha da əsəbiləşirdi, “gülən-ağlayan” səs qulaqlarında səsləndikcə canına, çoxdan unutduğu tanış bir üşütmə dolurdu... Canım, nə qəhrəmanlıq, nə ədalət, nə cücəplov? Ay hay!.. Mərg Georgiyeviç də, Zəminə də peyğəmbərlik eləməzdilər: sal başını aşağı, bir parça çörəyini ye, allahına şükür elə. Sədi əfəndi necə demişdi? “Zirilti, zırıltı, bu boyda
 
-@@ 174
+@@ 087
 
 >>zıriılti?” Doğrudan da, atana lənət, ay Kərimli? Bu hava da bir yandan: sənin sarı yarpaqların qurusun, payız!..
 
@@ -2704,7 +2704,7 @@ Xəstə dinmədi... Kirlikirin Sədi əfəndiyə dediyi sözləri xatırladı: "
 
 Xəstənin qulaqlarına musiqi səsi dəydi, yana dönüb gördü ki, musiqi səsləri, ensiz taxta qapısı üstündə neon lampalarının işığı ilə 
 
-@@ 175
+@@ 088
 
 "Disko bar" yazılmış, zirzəmidə yerləşən qırmızı, yaşıl, sarı şüşələrdən yaraşıqlı şəbəkəli pəncərələri yoldan ötənlərin dizləri hündürlüyündə olan bir yeməkxanadan gəlir. İndi əlli atmaq heç pis olmazdı!.. Xəstənin gözlərinə işıq doldu, aşağı, bara enməmişdən qabaq, telefon budkasına girib evə zəng vurdu. Dəstəyi Zəminə götürdü.
 
@@ -2730,7 +2730,7 @@ Barın içərisi eynilə keçmiş saray otaqlarına bənzəyirdi: qədimşayaq m
 
 Amma saray kimi bərli-bəzəkli olan bu qəribə barın havası xəstəni açmadı, boş stollardan birinin arxasında, üzü yanıb-sönən projektorlara sarı oturub, ofisiantı gözləyə-gözləyə hiss elədi ki, buranın havasında, düzdür, çox soyuq olmasa da, nəsə xoşagəlməz bir şey var: yəqin dünyanın bütün zirzəmiləri belədir, nə qədər qızdırsalar da, nə 
 
-@@ 176
+@@ 088
 
 >>qədər işıqlandırıb parıldatsalar da, bu havada məhz zirzəmi ovqatı duyulur, adamın ürəyi sıxılır. Hətta, bir an xəstəyə elə gəldi ki, zirzəminin altında nəhəng bir boşluq var və hiss elədiyi bu duyumsuz soyuq o boşluqdan, Yer kürəsinin hansısa bir qaranlıq səltənətindən gəlir. Amma daha çox dərinə getmədi, çünki çox dərinə getsəydi, onsuz da qaralmış qanı lap qatılaşacaqdı. Zəminənin gözündən iraq! Burdan çıxıb evə qayıdanda, ağlabatan bir şey uydurub deməlidir ki, arvad ona inansın. Lap elə demək olar ki, iclasdan sonra Kərimli onu aparıb “İnturist”də qonaq elədi, içib, kövrəlib, bağrına basıb öpdü, o da şərfini çıxarıb Kərimliyə bağışladı. Ay inandı ha!.. Xəstə zala göz gəzdirdi: ondan başqa cəmi üç-dörd adam vardı, iri stollardan birinin arxasında oturub, ucadan danışa-danışa yeyib-içirdilər. Ofisiant yanaşıb onun yanında duranda, xəstə soruşdu, nəyiniz var. Ofisiant məmləkətin ən ləziz xörəklərinin adını bircə-bircə çəkdi: düşbərə, qutab, xəngəl, qazan kababı, tənək dolması, bozartma, balıq kababı, balıq lüləsi və ət lüləsi. Eşq olsun belə məmləkətə!
 
@@ -2740,7 +2740,7 @@ Amma saray kimi bərli-bəzəkli olan bu qəribə barın havası xəstəni açma
 
 Xəstə bura enməmişdən qabaq, yüz əlli qram içib özünə gəlmək fikrindəydi, amma divardan asılmış qalxanları, əyri qılıncları, xalılar üstündə qoyulmuş sənəkləri, bardaqları görüb, özünü Koroğlu kimi Qıratın belində hiss elədi, ofisianta dedi ki, iki yüz əlli araq gətir, yanında da bir az ayın-oyun, iki dənə də balıq kababı qoy. Ofisiant başını tərpədib, dönüb gedəndən sonra, xəstə stola dirsəkləndi, gicgahlarını hövkələdi və başa düşdü ki, heç özündə deyil. Evdən çıxıb bu iclasa getdiyi yerdə kaş, ayağı sınaydı! Elə bil camaat iclasa yox, hüzür yerinə gəlmişdi... Ofisiant ildırım sürəti ilə geri qayıtdı, iri podnosda o qədər şey gətirmişdi ki, beş adamın yeməyini görərdi. Xəstə üstünü vurmadı, ofisiant gətirdiyi yeməkləri stolun üstünə düzdü və balaca qrafindəki araqdan xəstənin qədəhinə süzdü. Xəstə bir turp götürdü, duza batırdı və arağı hortdatma atıb, turpu dişləri arasına saldı. Bəh, bəh, bəh!.. Sonra bir az quru balıq, bir tikə pendir götürüb boş boşqabına qoydu, iştahla yeməyə başladı... Amma Muxtar Kərimli çıxışının axırında elə bir ağ yalan dedi ki, əgər o dünya varsa, təkcə elə bu yalanın üstündə o, gərək cəhənnəmin alovunda yanıb qovurulsun... Xəstə evdən götürdüyü üç siqaretdən birini yandırdı, tüstünü ciyərlərinə çəkdi və sonra elə bil, başı üzərindən bu zalın eşik qapısına
 
-@@ 177
+@@ 089
 
 >>doğru axıb gedən siqaret tüstüsünə qoşulub, təzədən küçəyə çıxdı və Kərimlinin, Sədi əfəndi demişkən, “bayquşı-xarabazar”ına qayıtdı. Amma keçmişlərdə tavanı yaraşıqlı və zərli-naxışlı olan bu qədim binanın iclas salonunda, arağın birinci yüz qramını səhər evdə yediyi bir tikə çörəkdən sonra, demək olar ki, acqarına içmiş xəstə, Kərimlinin dediklərini də, sifətini də, elə bil indi çəkdiyi siqaretin tüstüsü arxasından gördü və araqdan sonra yumşalıb, hirsi bir az soyuduğuna görə, əvvəl eşitdiyi sözləri də yaxşı xatırlaya bilmədi. Deyəsən, sözünün əvvəlində də, axırında da Kərimli dedi ki, bu yubileyi ən yüksək səviyyədə keçirmək hamının müqəddəs borcudur. Sonra, Sədi əfəndinin yubileyi ilə əlaqədar, nəşriyyatlarda çıxacaq əsərlərin siyahısını oxudu və görüləsi başqa tədbirlər barədə zalda oturanlara məlumat verdi. Daha sonra isə Kərimli zalda oturanlara müraciət etdi:
 
@@ -2762,7 +2762,7 @@ Kərimli yenə çayından içdi, yenə qalstukunun düyümünü ora-bura tərpə
 
 – Yox, əzizim, mənə bu roman barədə bir şey məlum deyil. – Sonra elə bil nəsə yadına saldı, güldü. Muxtar Kərimlinin gülüşünü bir dəfə eşidən ömründə yadından çıxarmazdı. Elə bil “fındığı gülüş” ifadəsini, haçansa, kimsə bu gülüşü eşidəndən sonra yaratmışdı. Xəstə isə indi dəfələrlə şahidi olduğu gülüşü bir də eşidib özünü itirdi, təşvişlə yan-yörəsinə baxdı, ona elə gəldi ki, kimsə, bəlkə elə o özü indi-cə ağzını açıb Kərimliyə bir söz deməliydi, amma dodaqlar aralanmadı, çünki hamı bu gülüşün tilsiminə düşmüşdü. Sədi əfəndinin kündəli- 
 
-@@ 178
+@@ 089
 
 >>yində oxuduğu bir cümləni xatırladı: “Bu dəfə min xoruz bir yerə yığışıb birdən banladı”. Kərimli davam elədi: – Yazıq, qəbri nurnan dolsun!.. İndiyə kimi gözlərimin qabağındadı. Çox səliqəli geyimi vardı rəhmətliyin, başına buxara papaq qoyardı. Səhv etmirəmsə, balaca bir üzük də gəzdirərdi barmağında. – Yenə güldü, fındıqlar qaynayıb, tavana dəyib yerə tökülüşdü. – Deyirdik ona, o vaxtlar biz nisbətən cavan idik, hə, deyirdik ki, ay Sədi əfəndi, deyirlər təzə əsər yazmısansən, ver, bir biz də oxuyaq, bizə deyirdi, gədə, sən ölənlərinin goru, əl çək məndən!
 
@@ -2772,7 +2772,7 @@ Zaldan qaqqanaq qopdu, əl çalan da oldu. Elə bil hüzür yerinə gelmiş cama
 
 Vəssalam! Daha nə sual ola bilərdi ki? Yubiley ən yüksək səviyyədəyedə keçiriləcəkdi, deməli, Səlimə xanımın bütün narahatçılığı, təşvişi əbəsdi. Daha bundan sonra nə demək olardı?.. Xəstə başını aşağı saldı, isti tuman-köynəyi altında bədəni tərlədi və bu dəfə Sədi əfəndinin gündəliyinin başqa bir yerini xatırladı: “İstədim mən yerimdən bir replika verəm, övrət gəldi durdu gözlərimin qabağında, hirsimi uddum, dinmədim, susdum”. “Vəssalam”lardan uzun bir karvan düzəlib, ta bu iclasın sonuna kimi, xəstənin gözləri qabağından gəlib keçdi. Atana lənət, ay Muxtar Kərimli! Tfu sənin hərçi-pətərinə, belə dünya!.. Sonra, iclas qurtaranda hamı sevincək və tələsik salondan çıxanda – uzun iclaslarda oturmağa heç kəsin hövsələsi qalmamışdı – Kərimli xəstəni saxladı, qəbul otağında köməkçinin, üstünə qalaq-qalaq kağız yığılmış stolu yanında dedi ki, monoqrafiya onun çox xoşuna gəlmişdir və Sədi əfəndidən, ümumiyyətlə, çox yazmaq lazımdır, çünki, çox təəssüf ki, Sədi əfəndi hələ öz layiqli qiymətini almayıb. Xəstə, Kərimliyə qulaq asa-asa, onun hər kəlməbaşı uzada-uzada işlətdiyi “çox”lardan əsəbiləşə-əsəbiləşə, dayanıb başını aşağı salıb, yenə bir söz demədi. Sədi əfəndinin yubileyi keçirilirdi. Sədi əfəndi haqqında yazılmış ən böyük monoqrafiyanı Kərimli qeydsiz-şərtsiz bəyənmişdi – daha bundan sonra nə demək olardı ki?.. Bundan sonra bir söz deyənin gərək ağlı başında olmasın. Sonra Kərimli xəstənin qolundan tutub bərk-bərk sıxdı və dedi:
 
-@@ 179
+@@ 090
 
 – Sən Səlimə xanımla yaxınsan, ona de ki, heç narahat olmasın. - Gülümsünüb, xəstənin gözləri içinə baxdı. - Qoy hər şeyin üstündə əsəbiləşməsin. Səhhəti, deyəsən, o qədər də yaxşı deyil.
 
@@ -2812,7 +2812,7 @@ Xəstə bir daha başa düşdü ki, o, həqiqətən zirzəmidədir, çünki həy
 
 Bu həyət çox iri və qəribə həyət idi. Bu həyətin, adamı çaşdıran və hövsələsini daraldan qəribəliyini xəstə ilk dəqiqələr başa düşmədi. Qəfil hiss elədiyi soyuqdan üşüyə-üşüyə ətrafına baxıb, həyəti hər
 
-@@ 180
+@@ 090
 
 >>tərəfdən dördkünc bir həndəsi kvadrata salmış binaları görəndə, xəstə duruxdu və qorxdu, binaların heç birinin həyətə nə qapısı vardı, nə də pəncərəsi və bu həyətə yeganə çıxış yolu yeməkxanadan idi. Xəstə dönüb geri baxdı: zirzəminin həyətə açılan dəmir qapısı kip bağlı idi. Xəstənin ürəyinə nəsə damdı, fikirləşdi ki, görəsən, divarları parusin üzü kimi hamar olan bu binaların o biri tərəfdən qapısı-pəncərəsi varmı və əgər yoxdursa, bu qapısız, pəncərəsiz binalarda kimlər yaşayırlar?.. Xəstə, neyçinsə, yerindən tərpənmək istəmədi, düz həyətin ortasında tikilmiş taxta ayaqyoluna baxa-baxa qaldı: ayaqyolunun da qapısı kip bağlı idi və xəstəyə elə gəldi ki, o, nə üzbəüzündəki qapını, nə də arxasındakı qapını daha aça bilməyəcək. Lap üşüdü və elə həmin anda da, hardasa, başında isti bir ağrı qopararaq, cırıltı ilə bir qapı açıldı: xəstənin gözləri doldu, çünki bu açılan qapı beynindəki kilidli qapılardan birisiydi – taxta ayaqyolunun qabağında pişik boyda bir siçovul dayanıb xəstəyə baxırdı. Xəstə Kirlikiri tanıdı. İnanan inansın, inanmayan inanmasın... Və xəstə hər şeyi başa düşdü, sonra qorxa-qorxa gözlərini açıb, qapısız və pəncərəsiz olan binaların buz bağlamış divarlarına baxdı. Zəminənin səsi gəldi:
 
@@ -2838,7 +2838,7 @@ Doktor Berqmanın dodaqları aralandı, amma xəstə onu eşitmədi, çünki ind
 
 Telefon dəstəyində uğultulu bir külək əsirdi, xəstənin bədəninə elə bir üşütmə doldu ki, dişləri bir-birinə dəydi. Amma özü dediyi sözləri eşitmədi.
 
-@@ 181
+@@ 091
 
 – Tapdım, tapdım!.. - Səlimə xanımın səsi uğultulu küləyin əsdiyi yerdən, hardansa, çox uzaqdan gəlirdi.
 
@@ -2866,7 +2866,7 @@ Doktor tez əlini uzadıb o gözləri qapadı.
 
 Xəlil dayının kababxanasında sübh tezdən xaş yeyib, əməlli də vurub keflənmiş iki nəfər indi çay içə-içə söhbət eləyirdilər. Onlardan biri feldşer Mahmud, o birisi isə Zülfüqar kişinin nəvəsi Moşu idi. Zülfüqar kişi rəhmətə gedəndən sonra, qohum-əqrəba, tanış-biliş yığışıb, məsləhətləşib qərara gəlmişdilər ki, Moşudan gedib ali məktəbdə oxuyan olmaz, buna görə də onu raypoda işə düzəltmişdilər... 
 
-@@ 182
+@@ 091
 
 İndi Moşu, əlini şalvar cibinə salanda, kirli yaylığı ilə bərabər beş-altı iyirmibeşlik çıxarırdı. Mahmud deyirdi:
 
@@ -2902,7 +2902,7 @@ Mahmud dedi:
 
 Moşu soruşdu:
 
-@@ 183
+@@ 092
 
 – Ay Mahmud doxtur, bavam deyirdi ki, orda bir iri kaha var, içində əjdaha kimi bir şey yatır, deyirdi, heç quş da ora qalxammaz, bə bular ora necə qalxacaqlar?
 
@@ -2932,7 +2932,7 @@ Təmir yanıqlı bir ah çəkib dedi:
 
 – Gedirəm, – dedi tatar Təmir. – Vətənə qayıdası olasıyam. – Əgər Mahmud günün bu vədəsində, elə burda, Xəlil dayının yeyib-içdiyi kababxanasında eşitsəydi ki, dünyanın bütün ilan-qurbağası dil açıb adam kimi danışmağa başlayıb, bu dərəcədə çaşıb heyrətlənməzdi: elə bil qulaqlarında nəsə partladı, nəfəsi də boğazından eşiyə çıxmadı. Moşu isə gözləri bərələ qalıb, ağzını açdı:
 
-@@ 184
+@@ 092
 
 – Ayə, Tamaranın yanınamı qayıdırsan?
 
@@ -2972,7 +2972,7 @@ Moşu tatar Təmirə baxdı, Mahmuda baxdı, bir şey anlayammadı: onların iki
 
 – Arağını son damlasına kimi içdi, yenə heç bir şey yemədi və yerindən qalxdı. – Di, yolçu yolda gərək.
 
-@@ 185
+@@ 093
 
 Mahmud da, Moşu da ayağa durdular, bir-birinə baxıb, bir-birinin fikrini oxuyub, ikisi də əlini cibinə saldı, hərəsi əlli manat çıxarıb Temirin cibinə basdı. Təmir razılıqla başını tərpətdi. Sonra Təmir, qulaqlı papağını başına qoydu, tərpənib çamadanını götürdü və hər üçü kababxanadan eşiyə çıxdı. Orda, payızın üşütməli sərinində, ağacların sarı-sarı yarpaqları arasında əl tutub ayrıldılar. Mahmud soruşdu:
 
@@ -2998,7 +2998,7 @@ Lyuda dodaqlarını büzüb bir söz demədi. Gəlib kənd sovetinin binası qab
 
 – Ayə, zırıltıymış ki! – dedi.
 
-@@ 186
+@@ 093
 
 Tribunanın sağ və sol tərəfində Mahmud saydı – on dörd zurnaçı dayanmışdı, on dörd də aşıq. Mahmud kənd sovetində işləyən, arıq, ovurdları batmış, heyvanı kəsəndən sonra, boğazından axan laxtalı qan rəngində qırmızı qalstuk salmış Vahidi əl eləyib yanına çağırdı.
 
@@ -3042,7 +3042,7 @@ Moşu, Mahmudun dümağ ağarmış sifətinə, işığı qaralmış gözlərinə
 
 – Noldu sənə, ay Mahmud doxtur?
 
-@@ 187
+@@ 094
 
 – Məni elə çıxart burdan ki, camaat görməsin.
 
@@ -3068,7 +3068,7 @@ Bu gün, bu gurhagurda, qəfil və gözlənilməz bir hadisə baş verdi. Qarnı
 
 Birdən Çomaq Qulamın ağzı açıldı, bu cod, əsəbi səsi Mahmud ömründə birinci dəfə eşitdi:
 
-@@ 188
+@@ 094
 
 – Bu gün qətl günüdür, Mahmud!
 
@@ -3110,7 +3110,7 @@ Mahmud irəli gəldi.
 
 – Gedək.
 
-@@ 189
+@@ 095
 
 Onlar əl-ələ tutub addımladılar. Onlardan qabaqda bəyaz saçları çiyinlərinə tökülmüş, uzun don geymiş, dabanları çatlaq bir gavur qızı və bir qoca canavar gedirdi. Mahmud soruşdu:
 
@@ -3144,11 +3144,11 @@ Dəxi mən, a kişilər,, bundan sonra, bir kimsənin röyasına girmərəm! Amm
 
 Yuxunuz şirin olsun, dirilər!
 
-@@ 190
+@@ 095
 
-@@ 191
+@@ 096
 
-@@ 192
+@@ 096
 
 // Hekayələr
 
@@ -3192,7 +3192,7 @@ Daha məndə nə ət qalıb, nə də su!
 
 Göz yaşlarımı ovuc-ovuc ona içirtmişəm!
 
-@@ 193
+@@ 097
 
 Bax, mənim əzizim, mən həmin o şahzadəyəm. İntəhası nə dəmir libasım, nə polad qılıncım, nə də dağlar və dəryalar arxasında məni gözləyən dünya gözəli, sevgilim var. Bütün bunların əvəzində bir ürəyim var, bir də ki, iki gözüm. Özüm də anadan olduğum ölkənin, Vətənimin qəlbində yaşayıram.
 
@@ -3252,7 +3252,7 @@ Qardasım, məmləkətimdə, Təbrizdə xəzri əsir... Xəzri!
 
 Yalta, iyul, 1959-cu il
 
-@@ 194
+@@ 097
 
 – Adiafon!
 
@@ -3298,7 +3298,7 @@ Təmiz səmada süzən qartal arabir aşağı enir, sərt qayaların birinə qon
 
 Bir tərəfdən sərt qayalıqlarla, o biri tərəfdən qalın meşə ilə əhatə olunmuş geniş çəmənlikdə uzanan şose ilə mavi rəngli bir “Pobeda” gedirdi. Maşında şoferdən başqa daha üç nəfər var idi. Onlardan ikisi arxada, biri qabaqda – şoferin yanında oturmuşdu. Danışmırlar. 
 
-@@ 195
+@@ 098
 
 Arabir haradansa, çox uzaqlardan, dağların dalından göy gurultusu eşidilirdi. Təsadüfən maşının içinə düşmüş, indi bayıra yol tapmayan iri və yaşıl bir milçək dal şüşənin üstündə vurnuxur, qanadlarına güc verib vızıldayır, şüşənin üstündə mütəmadi yuxarı-aşağı sürüşürdü. Maşında yalnız ritmlə işləyən motorun və milçəyin yeknəsəq səsi eşidilirdi.
 
@@ -3332,7 +3332,7 @@ Qüdrətini sizdən aldı, Mənim sazım, sözüm, dağlar.
 
 – Eh!.. Mən bu dağları, obaları gəzə-gəzə şair oldum. Hər dağda izim var, – deyib bir anlığa susdu, əliylə uzaqda, göy bir yamacın üstündə otlayan sürünü göstərib davam etdi: – Bu dağlar olmasaydı, bax 
 
-@@ 196
+@@ 098
 
 >>o sürünü otaran çoban olmasaydı, mən... – O, sözünü kəsib geri dönərək gülümsündü: – Onda mən olardım sənin tayın, – dedi. Bununla da ovçular arasında zarafat başlandı.
 
@@ -3350,7 +3350,7 @@ Bir azdan kənd göründü.
 
 Hər tərəfi tutmuş möhtəşəm dağların ətəyində yerləşmiş kənd o qədər kiçik görünürdü ki, uzaqdan səhnə dekorasiyasını andırırdı. 
 
-@@ 197
+@@ 099
 
 Maşın kəndə girən kimi bir dəstə uşaq onun dalınca qaçmağa başladı. Maşın toz qaldıra-qaldıra kəndin ortasına qədər gedib sağa buruldu, təzə tikilmiş ikimərtəbəli klubun yanında dayandı. Şairin bu kəndə gəlməsini əvvəlcədən bilən camaat klubun qabağına toplaşmışdı.
 
@@ -3378,7 +3378,7 @@ Qız son dərəcə ağır bir hərəkətlə başını qaldırdı. Gözlərinin i
 
 Şairin yoldaşları ilk dəfə idi ki, onu gözüyaşlı görürdülər. Onlar mütəəssir halda bir-birinin üzünə baxır, bilmirdilər nə etsinlər.
 
-@@ 198
+@@ 099
 
 Şair bir neçə saniyə bu vəziyyətdə durdu. Sonra qızın başını sinəsindən ayırıb bir az geri çəkildi. Onun üzündən tutub alnından öpdü. Qızın göz yaşlarından islanmış əli ilə öz gözlərini sildi.
 
@@ -3414,7 +3414,7 @@ O, bəzən saatlarla bir yerdə oturub kor qızın – Gülərin taleyini düş�
 
 Bakıya yenə bahar gəlmişdi. Ağaclar çiçək açmışdı. Üç ay müddətində qalın buludlar arxasında gizlənmiş günəş indi mavi səmadan təbiətə baxır, şüalarını yerə çiləməkdə xəsislik etmirdi... Ovçuluq idarəsi qəzetlərdə verdiyi elanla ovu qadağan etmişdi. Baharın gəlməsindən narazı olan deyəsən bircə ovçular idi...
 
-@@ 199
+@@ 100
 
 Şair kabinetində, taybatay açılmış pəncərə qarşısında dayanıb baxırdı. Güllərin əhvalatını bütünlüklə unutmasa da, ovçuluqdan da, ovdan da söhbət edir, bu payız yenə ova getməyə hazırlaşırdı.
 
@@ -3454,7 +3454,7 @@ O susdu, geri çəkilib qıza bir də baxdı.
 
 – Şair yanılmaz, qızım! – deyə sözünü tamamladı. – Mən şerimi yazdım... 
 
-@@ 200
+@@ 100
 
 # Qartal
 
@@ -3480,7 +3480,7 @@ Ovçu nələr çəkmirdi. O, qartalın ölüsünü görmək üçün öz ölümü
 
 Bəs qartal? Qartal ovçudan qorxmurdu? Yox. Axı qartal tək deyildi. Məgər qarlı dağlar, hüdudsuz səma, qüdrətli günəş, sakit gecələrin sehrli laylası, sıldırım qayaların arasında qaynayan bulaqların sərin suyu,
 
-@@ 201
+@@ 101
 
 >>göydə dəliqanlı igidlər kimi oynaşan ildırımlar – məgər bunlar hamısı qartalı ovçunun hiyləgər niyyətindən, onun amansız gülləsindən qorumurdu mu?
 
@@ -3504,7 +3504,7 @@ Ovçu isə qartalın son gününü gözlədi.
 
 Qartal saralmış gözlərini açıb ətrafa nəzər saldı: təbiət nə qədər gözəl idi. Qartalın yadına cavan vaxtları düşdü. Qıy vurub qalxmaq 
 
-@@ 202
+@@ 101
 
 >>istədi. Təbiətdə hər şeyi – dağları, daşları, topa buludları bağrına basıb duz kimi yalamaq istədi. Lakin qanadları qalxmadı. Gözləri yaşardı. Elə bu vaxt qulaqları ovçunun addım səslərini eşitdi. Yox, yox, ovçu qartalın belə ölümünü görməməli idi...
 
@@ -3532,7 +3532,7 @@ Moskva. İyul ayının sonu.
 
 Mən bu gün diplom almışam, qara cildli bir diplom. Mənim beşillik tələbəlik həyatım artıq arxada qalmışdır. Görən doğma Moskvada keçirdiyim bu beş ili mən unuda bilərəmmi? Bir gün də belə yox!
 
-@@ 203
+@@ 102
 
 Moskva. İyul ayının sonu.
 
@@ -3560,7 +3560,7 @@ Nika əlini uzatmadan adını dedi və incə bir səslə:
 
 – Bəs sizin adınız? – deyə soruşduqdan sonra qolundan asılmış redükülündən yaylığını çıxarıb alnının tərini sildi.
 
-@@ 204
+@@ 102
 
 Mən də adımı dedim. Nika isə daha danışmadı, susdu. İslamın üzünə baxıb nədənsə dodaqlarını marçıldatdı.
 
@@ -3594,7 +3594,7 @@ Hamı sağlığıma içdi. Elmar tez boşqablarımıza duzlu xiyar qoydu.
 
 – İndi qoy hər kəs özü-özünə qulluq etsin. Daha mənim təhərim yoxdur, – deyə o, qədəhləri təzədən doldurdu. Biz bir də içdik. Sonra 
 
-@@ 205
+@@ 103
 
 >>bir də. Elmar nədənsə o saat kefləndi, dili dolaşdı, tez-tez gəyirməyə başladı.
 
@@ -3622,7 +3622,7 @@ Belə günlərimiz çox oldu. Ancaq bir gün gəldi ki, bizim dostluğumuz soyud
 
 Günlərin birində yenə İslamın yanına – 220 No-li otağa gəlmişdim. Qış idi. Otaqda istidən çox ürək sızan bürkü vardı. Paltomu soyunan kimi İslamdan “tarı dınqıldatmasını” xahiş etdim. Əvvəlcə o boyun qaçırdı, dedi ki, çalmıram, kefim yoxdur. Mən bir də təkid etdim,
 
-@@ 206
+@@ 103
 
 >>zarafatyana ona “forslanma” dedim. O isə hirsli-hirsli üstümə çim-xırdı:
 
@@ -3658,7 +3658,7 @@ Mən Elmara cavab vermək istədim. İslam sözümü ağzımda qoydu:
 
 – A kişi, Bakıda nə var? Ağlın olsun, gedib düşəcəksən müsəlmançılığın içinə, mədəniyyətsizlərin arasına. Gül kimi Moskvanı, restoranları, cananları qoyub hara gedirsən?
 
-@@ 207
+@@ 104
 
 Bir söz deyə bilmədim. Nədənsə həm Elmarın “xaraba” kəlməsi, həm də İslamın son sözləri mənə həmin tar əhvalatını xatırlatdı. Bu iki şeyi bir-birinə bağlayan məna bədənimə üşütmə gətirdi.
 
@@ -3684,7 +3684,7 @@ Bir söz deyə bilmədim. Nədənsə həm Elmarın “xaraba” kəlməsi, həm 
 
 – Hm... Nizami, Füzuli... – dedi. – Sənin dediklərinin hamısı düzdür. Mən Nizamidən də, Füzulidən də, Sabirdən də həzz alardım, gecə yarıya qədər onları oxuyardım. Düzdür, mən tar da çalardım, şikəstə də deyərdim. Bax o tar mənim əlimdən yerə düşməzdi. – Burada o, sözünü kəsib divardan asılmış ağ sədəfli tarını göstərdi. Mən bayaqdan o tara fikir verməmişdim. İndi verdim. Tarın sədəfi qaralmış, üstünü toz basmışdı. Demək, artıq İslam tarını əlinə almırdı, onun barmaqları o simlərə toxunmurdu. – Düzdür, sənin dediklərinin hamısı 
 
-@@ 208
+@@ 104
 
 >>düzdür. Ancaq o vaxtlar keçdi. İndi o Nizami, o tar, o kamança, nə bilim, segahlar, zabillər nə sənə lazımdır, nə də mənə!
 
@@ -3706,7 +3706,7 @@ Bu, o demək idi ki, yəni çıx get.
 
 Mənimsə elə bil dizlərim qurumuşdu, deyəsən gözlərim də yaşarmışdı.
 
-@@ 209
+@@ 105
 
 İslam, axı, Azərbaycan...
 
@@ -3752,7 +3752,7 @@ Nəhayət, mən vicdanımdan, bir də anam Azərbaycanın torpağından üzr ist
 
 Sonra...
 
-@@ 210
+@@ 105
 
 Sonra isə Bakıda, Azərbaycanın hər şəhərində, hər kəndində hər yoldan ötəni saxlayıb bu sözləri deyəcəyəm: Gedin onları axtarın, tapınl Onlar 220 No-li otaqda yaşayırlar Qorxmayın, onların üzünə tüpürün! GÜLLƏR
 
@@ -3778,7 +3778,7 @@ Onun on altı yaşında nə dərdi ola bilərdi?
 
 İndiyədək, on altı illik ömrü ucsuz-bucaqsız çəmənlikdə sakit axan bir çaya bənzəyirdi. Bu çay nə bulanır, nə qayalarla çarpışır, nə də bir maneəyə rast gəlirdi.
 
-@@ 211
+@@ 106
 
 Lakin amansız dərd şəffaf suyun içinə düşən tünd bir mürəkkəb damlası tək onun həyatını bulandırırdı. Tahir əvvəlcə sarsılsa da, vaxt keçdikcə, dərdin də məhəbbət, sevinc kimi çox təbii bir hiss olduğunu dərk etdi...
 
@@ -3804,7 +3804,7 @@ Tahirin nəzərləri birinci sırada ki iki boş yerə sancıldı. Nə olaydı i
 
 Tahir birdən-birə tutuldu. Qara qaşları düyümləndi. Oturanlar elə bil dumanlı pərdəyə büründülər. O, yıxılmasın deyə divara söykəndi. Gözündən bir damla yaş süzülüb o dəqiqə də yanağında qurudu. Xəyalında bir anlığa öz evləri canlandı.
 
-@@ 212
+@@ 106
 
 Budur, onun səkkiz aydan bəri adı, rahat insan yuxusuna həsrət qalmış yorğun anası atasının başını yastıqdan üsulluca qaldırıb ona çay qaşığı ilə su verir, deyir:
 
@@ -3834,7 +3834,7 @@ O, özlüyündə bu cavabın mənasını yaxşı bilirdi. O məna bu idi: “İk
 
 O, bu sözlərin mənasını çoxdan başa düşmüşdü. Bu sözlər yuxusuz gecələrin əli ilə onun qəlbinə, beyninə yazılmışdı. O bilirdi ki, əlacsız xəstə nə deməkdir. O bilirdi ki, atasına bir daha yorğan-döşəkdən qalxmaq qismət olmayacaq. Tahir bu günlər atasına – o ağıllı, rəhmdil kişiyə son oğulluq borcunu verirdi. Nəm dəsmalla onun ayaqlarını silir, yastığını düzəldir, bir sözlə, əlindən gələni edirdi. Bir gün, iki gün, üç gün... Nəhayət, atası, gülən, danışan, gəzən ən adi bir insan kimi onun gözləri qarşısından həmişəlik gedəcəkdir. Ata!.. Bu ad onun üçün indi əvvəlkindən nə qədər əziz və nə qədər mehriban səslənirdi. İndi Tahiri yandıran atasının bu konsertdə olmaması idi. Axı, o, uzun illik zəhmətinin bəhrəsini ona, ilk növbədə yalnız ona göstərmək istəyirdi!..
 
-@@ 213
+@@ 107
 
 Foyedə üçüncü dəfə çalınan zəngin səsi Tahiri əzablı fikirlərdən ayırdı. Otaqda kimsə qışqırdı.
 
@@ -3858,7 +3858,7 @@ Həsəndən sonra Tahirin növbəsi idi. O, səhnəyə çıxan kimi duruxdu. Bö
 
 Tahir hiss edirdi ki, çaldığı əsər indi onun barmaqları altında tamam başqa bir ruhda – bu əsərin mənasına yabançı olan bir ruhda səslənir.
 
-@@ 214
+@@ 107
 
 Bunun səbəbi nə idi? Tahirin xəyalını yenə o iki boş yer çulğaladı. Görünür, son günlər dərd onu çox sarsıtmışdı. Tahir artıq özünü itirməyə başlamışdı. Müdhiş həyəcandan başı gicəllənir, barmaqları quruyurdu. Elə bu an... Tahir royalın içində, sarı simlərin üstündə uzanmış atasını gördü. Qulaqlarına doğma bir səs gəldi:
 
@@ -3880,7 +3880,7 @@ Tahir ayağa qalxdı. Salondan hənirti də eşidilmirdi. Hamı Tahirə baxırd�
 
 – Tahir, buyur.
 
-@@ 215
+@@ 108
 
 Tahir səs gələn tərəfə döndükdə, yanında məktəbli geyimində dayanmış sinif yoldaşı Şəfiqəni gördü. Utandığından Şəfiqənin yanaqları qızarmışdı. Qız əlində tutduğu kiçik bir gül dəstəsini Tahirə uzadıb, onun bu töhfəni qəbul etməsini gözləyirdi. Tahir qısa bir tərəddüddən sonra gül dəstəsini aldı və Şəfiqənin əlini sıxıb» “çox sağ ol” dedi. Şəfiqə səhnəni tərk etdi.
 
@@ -3908,7 +3908,7 @@ Elə bu an atasının bir-birinə yapışmış kirpikləri aralandı. O, gözlə
 
 – Dədə, bax, bu gülləri mənə veriblər, bu gün konsertdə çaldığıma görə veriblər, – deyə Tahir qabağa yeriyib gül dəstəsini atasına tərəf uzatdı.
 
-@@ 216
+@@ 108
 
 Xəstə laqeyd nəzərlərlə güllərə baxdı, göyümtül dodaqlarını açıb çox zəif bir səslə dilləndi:
 
@@ -3926,7 +3926,7 @@ Anası işdən gec qayıdanda Elçin nənəsinin yanında yatırdı. Gülsabah a
 
 Gülsabah arvad işığı keçirib nəvəsinin yanına girdi. Elçin isə o saat qarını söhbətə tutar, gah Şah Abbasın nağılını, gah da Molla Nəsrəddindən danışmasını xahiş edərdi. Gülsabah arvad da əlacsız qalıb yadına düşdüyü vaxt şah Abbasdan, ya Molla Nəsrəddindən, yadına düşmədiyi vaxt isə özündən bir şey uydurub danışardı...
 
-@@ 217
+@@ 109
 
 Bu axşam da belə oldu. Gülsabah arvad yay yorğanını üstünə çəkən kimi Elçin ona tərəf döndü, başını yastıqdan qaldırıb qarının gözləri içinə baxdı və pıçıltı ilə soruşdu:
 
@@ -3984,7 +3984,7 @@ Elçin yenə göyə baxdı, orada sayrışan ulduzları saymağa başladı. Bir,
 
 Gülsabah arvadın bu sözlərindən sonra Elçinin bədəninə üşütmə gəldi. O, tez yorğanını çənəsinə qədər çəkdi, nənəsinin kürəyinə qısıldı. 
 
-@@ 218
+@@ 109
 
 – Nənə, onda atamın da ruhu göydədir, hə?
 
@@ -4008,7 +4008,7 @@ Elçin gözlərini saatdan çəkmirdi. Bu adət ona nənəsindən keçmişdi. Ar
 
 Gülsabah arvad saata baxdığı vaxtlarda tez-tez təkrar edirdi: “Əllərinə qurban, ay oğul!”. Nənə bu sözləri niyə deyirdi?
 
-@@ 219
+@@ 110
 
 Bir dəfə Elçin Gülsabah arvaddan saatı işlətməsini xahiş etdi. “Yox, başına dönüm, o saata dəymə!” – deyə dərhal nəvəsindən uzaqlaşdı. Anası da eyni cavabı verdi. “Olmaz, oğlum, nənənin xətrinə dəyər”.
 
@@ -4024,7 +4024,7 @@ Açıq pəncərədən otağa hava dolur, küçədə oynayan uşaqların qəhqəh
 
 Rüxsara içəri girdi. Çəhrayı portfelini stolun üstünə qoyub o biri otağa keçdi, o dəqiqə də geri qayıtdı. Elçin anasının bulaşmış stolu gördüyünü güman edib gözlərini yumdu, peysərindən zərbə almağa hazırlaşdı. Ancaq Rüxsara, deyəsən, heç bir şey görmədi. O, əllərini hövkələyir, alt dodağını çeynəyir, ağır-ağır nəfəs alır, nə Elçinə, nə də stola fikir verirdi. Elçin buna təəccüblənən kimi oldu. O, anasının belə vəziyyətdə görməmişdi. Rüxsaranın bənizi bozarmış, gözlərinin altına göyümtül kölgə çökmüşdü. İlk nəzərdən xəstəyə oxşayırdı.
 
-@@ 220
+@@ 110
 
 İçəri girən Gülsabah arvad Elçinə tərəf getmək istəyirdi ki, otağın ortasında, əlləri qoynunda dayanmış Rüxsaranı gördü, yanaşıb diqqətlə gəlininin üzünə fikir verdi, başını buladı:
 
@@ -4062,7 +4062,7 @@ Elçin pərt olub geri qayıtdı, taxçanın yanında bardaş qurub, mısmirığ
 
 – Sən qocalmısan, çox şeyi başa düşmürsən. Ay ana, axı, mənim iyirmi dörd yaşım var! Tay-tuşlarıma bax da. Hamının evi-əşiyi. Mənsə
 
-@@ 221
+@@ 111
 
 >>bayquş kimi tək-tənha dolanıram. Bir də... Bir də ki, mən onu Bəhramdan da bəlkə çox istəyirəm.
 
@@ -4096,7 +4096,7 @@ Nənəsi qara haşiyəli şəklin qarşısında diz çöküb ağlayır, tez-tez 
 
 Uşaq nədənsə nənəsinin yanına getməyə cürət etmədi. Nənəsinin çiyinlərinə tökülmüş ağ saçlarına, titrəyən əllərinə, ağlamaqdan qızarmış gözlərinə baxdıqca, bu gün dinlədiyi sehrli söhbəti xatırladı. Lakin yenə heç bir şey başa düşə bilmədi.
 
-@@ 222
+@@ 111
 
 İyun ayının sonu olmasına baxmayaraq Bakıda hələ istilər düşməmişdi. Səkilərin qırağında əkilmiş ağaclar yamyaşıl idi.
 
@@ -4118,7 +4118,7 @@ Rəhim Rüxsaranın sağ tərəfinə keçdi, qoluna girdi. Ona tərs-tərs baxan
 
 Onlar bulvarın qurtaracağında tikilmiş təzə kinoteatrın qabağına çatanda, Elçin yenə dondurma satan başqa bir arvadı gördü, anasına tərəf döndü:
 
-@@ 223
+@@ 112
 
 – Mən də marojnı istəyirəm.
 
@@ -4158,7 +4158,7 @@ Rəhim Rüxsaranın əlini buraxıb gözlərini ayaqları altına zillədi.
 
 Nənəsinin və özünün adını – eşidən Elçin anasına tərəf dönüb dondurmanın suyundan bulaşmış dodaqlarını yaladı: 
 
-@@ 224
+@@ 112
 
 Nənəm kəndə gedir?
 
@@ -4204,7 +4204,7 @@ Evlərinə bir tin qalmış Rüxsara dayandı, Elçinin də qolundan çəkib sax
 
 Rüxsara cavab vermədi. Başını sinəsinə əydi. Nədənsə qızardı. Oğluna nəsə demək istəyir, amma çəkinir, tərəddüd edirdi. Bəlkə də oğlundan utanırdı. Elçin bir dəfə də “gedək də, yorulmuşam” – deyəndə
 
-@@ 225
+@@ 113
 
 Rüxsara onun əlindən tutub addımladı. Bir az getmişdilər ki, qəfildən oğluna sual verdi:
 
@@ -4252,7 +4252,7 @@ Elçin şəklə bir də baxıb, nənəsinin quru barmaqlarını ovcuna aldı:
 
 – Ay nənə!
 
-@@ 226
+@@ 113
 
 – Can!
 
@@ -4294,7 +4294,7 @@ Gülsabah arvad başını qaldırdı. Nəvəsinin çatılmış qaşlarını, cid
 
 Elçin cavab vermədi. Başını aşağı salıb ayaqlarının ucuna baxdı, çiyinlərini çəkdi.
 
-@@ 227
+@@ 114
 
 – Aldada bilməzsən. Rəhim dayıdan xoşun gəlmir, kəndə gedir-sən, aldada bilməzsən! – deyə hirsli-hirsli mızıldandı.
 
@@ -4320,7 +4320,7 @@ Gülsabah arvadı ötürməyə gələn kişinin əhvalatdan xəbəri yox idi. O 
 
 – Saatım yoxdur, – deyə kişi ətrafa boylandı, küncdəki köhnə saatı gördü. Rüxsaranın səsi eşidildi:
 
-@@ 228
+@@ 114
 
 Səkkizin yarısıdır.
 
@@ -4346,7 +4346,7 @@ Rəhim iki nəfər yoldaşı ilə gəldi. Rüxsara o biri otaqda paltarını də
 
 Rəhimin yoldaşları əllərindəki bağlamalardan cürbəcür yeməli şeylər çıxarıb stolun üstünə düzür, yavaşdan danışır, bəzən də xısmxısınxısın gülüşürdülər. Rəhim özü ilə gətirdiyi iki şüşə çaxırı bufetin üstünə, büllur qədəhlərin yanına qoyduqdan sonra şlyapasını çıxarıb stullardan
 
-@@ 229
+@@ 115
 
 >>birinin başına keçirdi, əllərini ovuşdura-ovuşdura Elçinə tərəf addımladı. Elçin nədənsə Rəhimdən çəkindi, büzüşüb divara qısıldı.
 
@@ -4362,7 +4362,7 @@ Qonaqlar stolun arxasına keçdilər. Elçin, anasının təkidi ilə, Rəhimin 
 
 – Bu zəhrimar da ərimir ki, ərimir də! – deyə gülüşün səbəbkarı Elçinə baxıb zarafat nişanəsi olaraq ordunu şişirtdi, gözlərini ağartdı. Bununla da Elçini uğunub getməyə məcbur etdi. Elçin sakitləşəndə kök kişi ciddi bir görkəm alıb, boğazını arıtladı, gər səslə sözə başladı:
 
-@@ 230
+@@ 115
 
 – Məclisimiz kiçik və xudmani olsa da, mən, necə deyərlər, toy-babalığını öz boynuma götürmək istəyirəm. - Kişi bir anlığa sözünü kəsib, oturanlara nəzər saldı, hamının susduğunu görüb, deyəsən bir az pərt oldu. Ancaq sınmadı. Sözünə davam etdi. - Mən xahiş edirəm ki, bu badələri qaldıraq hamımızın əzizi...
 
@@ -4386,7 +4386,7 @@ Elçin təəccüblə anasına nəzər salıb çiyinlərini qısaraq dodaqların�
 
 – Mən tək yatmağa qorxuram. Nənə də yoxdur! - dedi. Elçinin qəlbində Rəhimə qarşı paxıllığa bənzər bir hiss oyandı. Uşaq ağır-ağır başını qaldırıb düz anasının gözlərinin içinə baxdı.
 
-@@ 231
+@@ 116
 
 – Rəhim dayı səninlə yatacaq?
 
@@ -4402,7 +4402,7 @@ Nənəsinin elə buradaca, yanında uzandığını güman edən uşaq, sinəsin�
 
 Son günlər şahidi olduğu əhvalatlar bütünlüklə Elçinin gözləri önündə canlandı. Demək, nənənin bu evdən getməsinə səbəb, onu anasından ayırıb, burada, qaranlıqda tək yatmağa məcbur edən Rəhim dayıdır? Elçin yalnız indi başa düşdü ki, bir daha anasının sinəsinə qısılıb səhərə qədər onun yanında yatmayacaq. Elçini qəhər boğdu. O, hıçqırtılarını boğmağa çalışdı, üzüqoylu çevrilib dodaqlarını yastığa sıxdı, yastığın bir ucu islandı. Elçinin hıçqırtıları kəsildi. Lakin göz yaşlarının arası kəsilmədi. O, arxası üstə döndü, gözlərini qaranlığa zillədi. Bədirlənmiş ayın açıq pəncərədən axan soyuq şüaları altında, bir-birinin ardınca yanağına süzülən yaş gilələri muncuq təkin parıldayırdı. İndi Elçinə qəribə gələn nə nənəsinin evdən getməsi, nə Rəhim dayının bu evə gəlməsi, nə də özünün həyatında ilk dəfə tək yatması idi. Ona qəribə gələn, köhnə saatın dərin sükutu pozan yeknəsəq taqqıltısı idi. Saat işləyirdi. SİMURQ QUŞU
 
-@@ 232
+@@ 116
 
 # Simurq quşu
 
@@ -4424,7 +4424,7 @@ Qoca bir addım qabağa gəldi.
 
 – Oğul, diyəsən səni qorxutdum?
 
-@@ 233
+@@ 117
 
 Toğrul haçandan-haçana özünü toxtadıb dilləndi:
 
@@ -4458,7 +4458,7 @@ Cavan məhbus yenə qışqırdı. Lakin bu dəfə onun səsi kökdən düşmüş
 
 – Ay-hay!.. İndi üçümüz də oturub söhbət eləyirik. Amma sabah məhkəmədə hökmümüzü oxuyacaqlar. Sonra üçümüzü də aparıb qoyacaqlar güllənin ağzına. Onda da ingilislər demişkən, qud bəy! 
 
-@@ 234
+@@ 117
 
 Birdən Toğrula hər şey aydın oldu. Bir söz ildırım sürətilə fikrindən keçdi: canilər!.. Özünü zəhərindən qorumaq istədiyi canilər indi onunla üzbəüz dayanmışdılar! Demək, bunların ikisi də adam öldürüb. Əlləri qanlıdır. Məni də özlərindən sayırlar... Toğrula elə gəldi ki, bu dəqiqə özünün kim olduğunu və bura düşməsinin səbəbini deməsə, onu da bu iki nəfərə qatıb güllələyəcəklər. O, var səslə bağırdı:
 
@@ -4492,7 +4492,7 @@ Sonra barmaqlarını açdı. Yenə bükdü, yenə açdı. Nədənsə gülümsün
 
 O, əlinin dalını çoxdan bəri ülgüc görməyən sifətinə sürtdü; elə bil saqqalının qalınlığını yoxlamaq istədi. Sonra heç bir məna ifadə etməyən gözlərini harayasa uzaqlara zilləyib, dərindən, yanıqlı-yanıqlı içini çəkdi. Yenə pıçıldadı:
 
-@@ 235
+@@ 118
 
 Beş il...
 
@@ -4518,7 +4518,7 @@ Toğrul qalxdı. Ona elə gəldi ki, lampa yanandan sonra şişib böyümüş, d
 
 Qoca papirosunu tüstülədə-tüstülədə Toğrula yanaşıb onun yanında əyləşdi. Qocanın bu hərəkəti Toğrulun xoşuna gəlmədi. “Bəli də, işə düşmədik”, – deyə əsəbiliklə fikrindən keçirdi. Qoca, Toğrulun narazı qaldığını duymuş kimi, bir az yana çəkildi, sönmüş papiro-
 
-@@ 236
+@@ 118
 
 >>sunu yandırıb başını aşağı əydi və tüstüsünü dizləri arasından döşəməyə üfürdü, tüstü bir an döşəmənin üstündə burulduqdan sonra qocanın ayaqları altında qeyb oldu.
 
@@ -4544,7 +4544,7 @@ Bir müddət hər ikisi susdu. Qoca yerindən qalxıb var-gəl elədi, dəmir qa
 
 Təbiətin qoynunda böyümüş, ömrü boyu dağ yerinin təmiz havasıyla nəfəs aldığından, yaşına görə çox gümrah qalmış bu qocanın enli kürəkləri, gümüşü saçları, geniş alnında bir-birinə qovuşan dərin qırışları, çallaşmağa başlayan qalın qaşları, daim harayasa dikilmiş, lakin bəzən nə isə bir narahatlıqla dolanan, dalğın baxışlarından sonsuz bir kədər oxunan iri qumral gözləri, günün altında yanıb qaralmış sifəti
 
-@@ 237
+@@ 119
 
 Toğrula nağıllarda oxuduğu nurani qocaları xatırlatdı. Elə bil ki, o, bu dəqiqə bir-birinə sıxılmış ətli dodaqlarını aralayıb, sehrli səslə deyəcəkdi: “Qırx gün, qırx gecə yol gedərsən. Qabağına yarısı qızıl kərpicdən, yarısı da gümüş kərpicdən bir imarət çıxacaq. Sənin axtardığın dünya gözəli həmin imarətdə yaşayır”...
 
@@ -4568,7 +4568,7 @@ Cavan məhbus yerindən qalxdı. Gözlərini dolandırıb, qocanın düz üzün�
 
 Cavan məhbusun sözləri hədəfə dəydi. Qoca elə bil büzüşdü, papiros tutan barmaqları titrədi. Başını aşağı salıb ah çəkdi.
 
-@@ 238
+@@ 119
 
 Toğrul cavan məhbusa baxdı. Nazik çatma qaşları, saralıb zəfəran rəngi almış tərli alnı, ağlamaqdan qan çəkmiş yaşıla çalan gözlərinin altındakı göyümTÜl ləkələr, saqqallı sifətini lap ölgün göstərən batıq ovurdları miləmil köynəyinin açıq yaxasından qaralan tüklü sinəsi, ağ mərməri andıran qansız dodaqları onu yüz ilin xəstəsinə oxşadırdı. Danışdıqca, əlini köynəyinin yaxasından soxub – tüklərini didişdirir, qırmızı dilini çıxarıb dodaqlarını isladır, bir-birinə yapışmış uzun kirpiklərini tez-tez qırpırdı.
 
@@ -4592,7 +4592,7 @@ Qocanın səsi elə bil nəyəsə ilişib kəsildi. Toğrulun tükləri biz-biz 
 
 – Əmi, axı nəyə görə?! Adam da doğma balasına əl qaldırarmı? Qoca başını buladı. 
 
-@@ 239
+@@ 120
 
 Qulaq as, oğul, dərdim böyükdür, – deyə çarpayısında əyləşdi. Nəzərlərini Toğrulun başı üzərindən o tərəfə zilləyib öz hekayətinə başladı:
 
@@ -4602,7 +4602,7 @@ Qoca sorğulu nəzərlərini Toğrula dikdi, onun diqqətlə qulaq asdığını 
 
 Hə, vaxt gəlib keçdi. Evləndim. Otuz beş yaşım vardı. Amma uşağımız olmurdu. Yaman fikir eləyirdim... Gecəm-gündüzüm yoxdu. On ildən sonra axır ki, xudavəndi-aləm bizə bir qız uşağı verdi. Bir ay toy-bayram elədim. Oğul istəyirdim, amma Allah vermədi, elə buna da şükür dedim. Əlqərəz, vaxt gəldi, qız böyüdü. Qohum-əqrəba, tanış- 
 
-@@ 240
+@@ 120
 
 >>biliş vaxtında mənə deyəndə ki, qızı ver bir Allah bəndəsinə, qulaq asmadım. İstəyənlər də vardı. Onilliyi qurtarmışdı, sovxozda işləyirdi. Neyləyim ki, axırda belimi qırdı... Bizim kəndə bir müəllim gəlmişdi. O da qızı istəyirdi, bir-iki dəfə yanıma adam göndərmişdi. Fikir elədim ki, tanımıram, bilmirəm, atası-anası kimdi, nə yuvanın quşudu. Vermədim... Ara-sıra qulağıma söz çatırdı ki, nə bilim, qızını dünən çayın qırağında müəllimnən görüblər, nə bilim, dünən klubda bir yer-də oturmuşdular. Fikir vermədim, deyirdim, gözəl qıza söz çıxartmaq camaatın köhnə peşəsidi. Amma axırda elin sözü düz çıxdı...
 
@@ -4618,7 +4618,7 @@ Qoca, damağına bir papiros qoydu. Amma bu dəfə yandırmadı. Dizlərini ovu�
 
 Əvvəlcə məni rayona gətirdilər, ordan da Bakıya. Vəssalam... Oğul, sən yaşayacaqsan, ömrün qabaqdadır. Mən də yaşayırdım, kənddə məni
 
-@@ 241
+@@ 121
 
 >>barmaqla göstərirdilər, kolxozda da, qohum-əqrəba içində də, heç kəsin qabağında üzüqara olmamışdım. Doğmaca balamı öldürdüm. İnsan qanı tökdüm... Bizim kəndin iki qəbiristanlığı var. Ta qədim zamanlardan birində öz əcəliynən ölənləri basdırırlar, o birində də güllə, xançal yarasından ölənləri. Sovet hökuməti qurulandan bu qəbiristanlığın yolunu ot basıb. Heç kəs öz ölüsünü orda basdırmır. Çünki daha güllədən, xançaldan ölən yoxdur. Camaat lap çoxdan başa düşüb ki, qan davası, nəsil davası o zəmanədə qaldı. Amma mən... Bu gözəl zəmanədə qan tökdüm. Doğmaca balamın qanını. Günahım böyükdür, oğul. Bu günahı heç kim mənə bağışlamaz. Məni güllələməsələr də, mən yaşamayacağam. Mən öz hökmümü çoxdan vermişəm. Bax, hökmüm buradadır! – deyə qoca yumruğunu ürəyinin üstünə vurdu.
 
@@ -4636,7 +4636,7 @@ Onun nazik səsi xırp kəsildi. Qoca ondan aralanıb geri qayıtdı. Cavan məh
 
 Daha heç kəs danışmadı. Toğrul da uzandı. Gözlərini boz tavana zilləyib düşünməyə başladı. Doğrudan da, qocanın danışdığı əhvalat düzdürmü? Bəlkə mənim nəzərlərimdə qalxmaq istəyir? Yox, ölüm ayağında hamı səmimi olur. Bir də, belə adamlar heç vaxt yalan danış-
 
-@@ 242
+@@ 121
 
 >>mırlar. Bəlkə o cani deyil? Yox, doğma balasını öldürən canidən də pisdir! Bəs belə isə, onu bu cavan məhbusdan ayıran nədir?
 
@@ -4668,7 +4668,7 @@ Bir azdan onların ikisini də gəlib apardılar. Cavan məhbus getmək istəmir
 
 Onların arxasınca qapı bağlanan kimi Toğrul özündə nə isə bir boşluq hiss etdi. Uzun-uzadı qocanın çarpayısına baxdı. Sonra döşəmənin üstündə ağaran əzilmiş “Belomor” pəçkəsi gözünə sataşdı. 
 
-@@ 243
+@@ 122
 
 Durub əyildi, paçkani götürüb bir müddət əlində saxladı. Fikirli-fikirli qocanın yastığına baxdı. Bütün varlığını bürümüş anlaşılmaz bir hiss-dən ürəyi şiddətlə döyünməyə başladı. O, əzik paçkanı yerə tullayıb çarpayısına uzandı...
 
@@ -4708,7 +4708,7 @@ O getdi.
 
 Toğrul tək qaldı. Ayaqlarını sürüşə-sürüşə, birtəhər özünü çarpayısına saldı. Bir müddət heç bir şey dərk edə bilmədi. Ürəyinin şiddətli döyüntüsünə qulaq verdi. Bir həkimin vaxtilə ona dediyi sözləri yadına düşdü. “Ürəyinizdə nevroz var”. Nevroz? Görəsən, nevroz ağır xəstəlikdirmi? Yox, nevrozdan hələ heç kəs ölməyib. O isə bu gecə ölə bilərdi. – Demək, qoca məni ölümdən xilas edib? Niyə? – Toğrul boğazından yapışdı. – Məgər onun barmaqları bax beləcə, mənim boğazımdan yapışanda, qoca gözlərini yuma bilməzdimi? Onun nə işinə, Toğrul yaşayacaq, ya öləcək. Ancaq gözlərini yummayıb, yerindən qalxıb mənim qatilimlə vuruşub. Məni ölümdən qurtarıb... 
 
-@@ 244
+@@ 122
 
 Toğrulun yaşarmış gözlərinə duman çökdü. Sonra yavaş-yavaş duman çəkildi. Toğrul ağsaçlı qocanın xəyalını gördü.
 
@@ -4730,7 +4730,7 @@ Bircə saat bundan qabaq Südabə xanım zəng eləyib Kərimin xəstələndiyin
 
 Mən plaşımı çıxarıb Südabə xanımın keçən il Mərakeşdən gətirdiyi asılqanın əyri buynuzlarından birinə keçirdim. Südabə xanım kabinetin qapısını ehmalca itələdi.
 
-@@ 245
+@@ 123
 
 Kərim başının altına iki yastıq qoyub divanda uzanmışdı. Səsə gözlərini açdı. Məni görən kimi əvvəlcə qolundakı saata baxdı, sonra gülümsünüb yerində dirsəkləndi, deyəsən, qalxmaq istədi. Lakin Südabə xanımın məzəmmətlə baxdığını görüb qalxmadı.
 
@@ -4752,7 +4752,7 @@ Kərimgilə gələndə ilk dəqiqələr mən həmişə özümü narahat hiss edi
 
 Deyəsən, bunu Kərim də hiss edirdi. Çünki həmişə mənim başımı aşağı salıb dinməz-söyləməz və bir az da bikef oturduğumu görəndə tez sükutu pozub ordan-burdan danışmağa başlayardı. Əksər hallarda o, yazı stolunun yanında, iri, qırmızı radio cihazına bitişik qəfəsin içindəki bülbüllərindən söhbət salırdı. Bir neçə dəfə zarafatyana mənə demişdi ki, o xəstələnəndə bülbüllərin də qanı qaralır, bütün günü susurlar. Doğrudan da indi tavanın ortasından sallanmış göy abajurlu lampanın işığı altında rəngini dəyişib mavi tülə bürünmüş kimi görünüb bülbüllərin heç biri qımıldanmırdı. İndi bu kiçicik quşların görkəmində qeyri-adi və sirayətedici bir hüzn vardı. Mən Kərimin evdə bülbül saxlamasından həmişə narazı olmuşam. Nəyə lazımdır? Allahın dilsiz-ağızsız heyvanı dünya işığına həsrət qalıb dörd divar arasında niyə çürüsün?.. Amma bu barədə indiyəcən Kərimə bir kəlmə də deməmişdim.
 
-@@ 246
+@@ 123
 
 Südabə xanım çay gətirdi. Büllur stəkanları, gümüş qaşıqları stolun üstünə düzdü. Zoğal mürəbbəsini ortalığa qoydu.
 
@@ -4790,7 +4790,7 @@ Kərim çayını sona qədər içmədi. Yarımçıq stəkanı stolun üstünə q
 
 – Təxminən, ya qeyri-təxminən. Bunun əhəmiyyəti yoxdur. Kosmos sənin aləmindir. Mən belə şeylərdən çox uzağam. Sən de görək, yadındadırmı?
 
-@@ 247
+@@ 124
 
 Otuz il bundan qabaq olmuş bir söhbəti xatırlamaq o qədər də asan deyildi. Bircə o yadımda idi ki, otuz il bundan əvvəl Kərim də, mən də çiynimizdə tüfəng gəzdirirdik, günümüz meşələrdə, dağda-daşda keçirdi. Banditlərlə mübarizədə... Düzdür, elə o zaman mən kosmosla maraqlanırdım, bir dəfə komsomol təşkilatında bu mövzuda hətta mühazirə də oxumuşdum. Bütün rayonun cavanları axışıb qulaq asmağa gəlmişdilər. O mühazirədən sonra Kərim ilk dəfə mənə zarafatla “professor” dedi. Bu söz indiyəcən onun dilindən düşmür. Otuz il...
 
@@ -4824,7 +4824,7 @@ Kərimin qaşları çatıldı. Dodaqları hələ gülə də, gözlərində bird�
 
 “Kim yaşaya bilər ki?..” – deyə, düşündüm. Qanlı-qadalı günlər... bir parça çörəyə, isti yorğan-döşəyə həsrət qaldığımız günlər, at belində keçirdiyimiz yuxusuz gecələr... qışda qocalı-cavanlı, balaca bir 
 
-@@ 248
+@@ 124
 
 >>otağa dolub, “Pəncərədən daş gəlir, ay bəri bax, bəri bax” oxuya-oxuya, gülə-gülə, onun-bunun nənəsinin, anasının sandığından oğurlayıb gətirdiyi qırmızı çitlərə tabaşirlə şüarlar yazdığımızı, dədə-babadan qalma “dayandoldurum”larla meşələri, dağları-daşları ələk-vələk etdiyimizi, yaxşı-yaman günün dostlarını bir-birinin ardınca qara torpağa tapşırıb alovlu nitqlər söylədiyimizi, sonra da, heç kəs görməsin deyə, xəlvətə çəkilib gizlin-gizlin ağladığımızı unutmaq olarmı?!
 
@@ -4854,7 +4854,7 @@ Kərim çox qocalmışdı. Amma hələ altmış yaşı yox idi. Həyat deyəsən
 
 – Çay niyə içmirsən?
 
-@@ 249
+@@ 125
 
 – Daha bəsdir. Çox içəndə səhərəcən yata bilmirəm.
 
@@ -4922,7 +4922,7 @@ Südabə xanım mənə baxıb güldü.
 
 – Professor bizə gələndə sənin kefin açılır.
 
-@@ 250
+@@ 125
 
 – Bəs necə? – deyə Kərim də mənə baxdı. – Görmürsən kişinin üzündən şadlıq yağır?!
 
@@ -4968,7 +4968,7 @@ Xoşbəxtlikdən Südabə xanım onun dediklərini eşitmədi. Bəlkə də özü
 
 – Kərim, sən allah, əsəblərinə toxunan söhbətlər eləmə, – deyib otaqdan çıxdı. 
 
-@@ 251
+@@ 126
 
 Onun arxasınca qapı bağlananda, Kərim uzun yol gəlib əldən düşmüş adamlar kimi üzgün bir səslə soruşdu:
 
@@ -5016,7 +5016,7 @@ Mən hiss edirdim ki, Kərim bu sözləri mənə yox, özünə deyir.
 
 – Bəs nə vaxt getdi ki, mənim xəbərim olmadı?
 
-@@ 252
+@@ 126
 
 – Keçən il yayda. Sən Kislovodskdaydın.
 
@@ -5062,7 +5062,7 @@ Susduq.
 
 – Sən niyə axı hər şeyi ürəyinə salırsan, Kərim? – dedim.
 
-@@ 253
+@@ 127
 
 – Ürəyimə-zada salmıram. Fikirləşirəm. İntəhası əvvəllər ürəyimdə fikirləşirdim, indi ucadan fikirləşirəm.
 
@@ -5082,7 +5082,7 @@ Kərimin səsi elə bil boğazından yox, ürəyindən çıxırdı. Bu səs indi
 
 Mən yenə də Kərimin “professor, niyə susursan?” – deyə, verə biləcəyi sualı gözlədiyimdənmi, ya bütün vücudumu sarsıdıb daxilimdə nə isə üzücü bir boşluq, nəhayətsiz bir kədər yaradan indicə eşitdiyim etirafın təsirindənmi, qeyri-iradi olaraq dönüb pəncərəyə baxdım. Pəncərənin arxasında ulduzlu göyün cüzi bir hissəsi parıldayırdı. Tavandan axıb bu kiçik otağın hər küncünə qəribə və soyuq bir parıltı yaratmış mavi işıq sanki uzaq ulduzların şöləsi idi. Hətta bir anlığa mənə elə gəldi ki, Kərimin enli yazı stolunun üstündəki iri
 
-@@ 254
+@@ 127
 
 >>balıqqulağı da həmin ulduzların hansı birindənsə qopub təsadüfən bu otağın içinə düşmüş bir qəlpədir. Yerimdən qalxıb o qəlpəni götürmək, gətirib Kərimə vermək istədim ki, bax, bunu qoynuna sıx, bəlkə də sənə uzun illərdən bəri həmin bu soyuq qəlpə çatışmır. Axı, bu dar qəfəsdəki bülbüllər heç bir vaxt sənə təsəlli verə bilməz! Əgər mümkündürsə, Bahadırı tapaq, boz kəhəri təzədən yəhərləyək, qalxaq dağlara! Qayıdaq o günlərə...
 
@@ -5122,7 +5122,7 @@ Bu dəfə mən etiraz etmədən, dinməz-söyləməz siqaret qutusunu çıxarıb
 
 Bir müddət ikimiz də danışmadıq. Sakitcə siqaretimizi çəkməklə məşğul olduq. Tüstü ətrafımızı bürüdü. Mən bir neçə dəfə öskürdüm. 
 
-@@ 255
+@@ 128
 
 Pəncərə bağlı olsa da küçədən gələn fit səsi otaqda aydınca eşidildi. Bu səs kəsilən kimi haradansa maşın keçdi. Pəncərənin tıqqıltısı gücləndi. Bu tıqqıltı elə bil qəfəsdəki bülbüllərin də əsəbinə toxundu. Onlardan biri tərpəndi, deyəsən qanad çalmaq istədi. Mən dedim:
 
@@ -5154,7 +5154,7 @@ Bir anlığa mənə elə gəldi ki, Kərimin gözləri yaşarmışdır. Sifətin
 
 Kərim sönmüş siqaretini yandırmaq istədi. Ancaq indi barmaqları daha çox titrədiyindən kibrit yanan kimi söndü. O, təzə kibrit çıxartdı, barmaqları arasında saxlayıb kömək istəyirmiş kimi məyus-məyus, mənə baxdı. Mən başa düşdüm ki, o, yenə siqaretini yandıra bilməyəcək. Buna görə də onun siqaretini mən yandırdım. 
 
-@@ 256
+@@ 128
 
 # Soyuq daş
 
@@ -5174,7 +5174,7 @@ Qız pıçıldayır:
 
 Oğlan başa düşür ki, qız bu sözləri elə-belə, yalnız aradakı gərgin və darıxdırıcı sükutu pozmaq üçün deyir. Dünən gecə də o, əvvəlcə 
 
-@@ 257
+@@ 129
 
 >>ulduzdan başlamışdı, sonra oğlanın cavab vermədiyini, başını aşağı salıb hey papiros çəkdiyini görüb yersiz-yersiz gülmüş və gedənə kimi qonaqlarından danışmışdı. Beş-altı gün bundan qabaq atası Mədət müəllimin köhnə dostunun oğlu onlara qonaq gəlmişdi. Qızın dediyinə görə, cavan qonaq bu yaxınlarda dünya səyahətindən qayıtmışdı. Hər gün ev yiyələrini başına toplayıb qəribə-qəribə söhbətlər eləyirdi...
 
@@ -5212,7 +5212,7 @@ Qız soruşur:
 
 – Sən istərdinmi İtaliyaya gedəsən? 
 
-@@ 258
+@@ 129
 
 Mənim İtaliyada nə işim var?
 
@@ -5262,7 +5262,7 @@ Qız cavab vermir. Oğlan papirosunu yerə tullayır, tapdalayıb sönDür. Soru
 
 Susurlar. Ayın qabağından bulud keçir. Ətraf qaranlıqlaşır. PələPalıdların işıldayan gövdələri görünməz olur. Yarpaqların torpağın üstünə
 
-@@ 259
+@@ 130
 
 >>naxışlar vurmuş kölgələri elə bil buxarlanıb havaya qalxır. Yenə meh əsir, ancaq bu dəfə meh elə bil ötüb keçmir, ağacların budaqlarına ilişib qalır.
 
@@ -5298,7 +5298,7 @@ Yenə susurlar.
 
 Meh get-gedə güclənir. Yarpaqların xışıltısı yeknəsəq uğultuya çevrilir. Oğlanın burnuna nəmli və tanış bir iy dolur. Bu, meşənin qurtaracağında axan çayın sağ sahilinə yaxın, yarıya qədər suya batmış
 
-@@ 260
+@@ 130
 
 >>nəhəng qayaların yan-yörəsindən sallanan yosunların iyidir. “Sabah yağış olacaq” – deyə oğlan düşünür. Çünki bu külək yenə də uzaqlardan, üfüq boyu uzanan qarlı dağların arxasından nəhəng, kömür kimi qara buludları qovub gətirəcək, yağış ən azı iki gün şırhaşır tökəcək, meşənin bu yerində palçıq dizə çıxacaqdır.
 
@@ -5318,7 +5318,7 @@ Oğlan yerindən qalxır, ancaq bircə addım qabağa atıb dayanır. Hansı bir
 
 – Sənin necə, xoşuna gəlirmi?
 
-@@ 261
+@@ 131
 
 – Kim?
 
@@ -5350,7 +5350,7 @@ O, evə qayıdanda arvadı hələ yatmamışdı. Dama-dama, yaşıl süfrəli st
 
 – Danışdım? – deyə o, termosu özünə tərəf çəkərək qapağını burdu, ancaq stola baxıb gördü ki, stəkan yoxdur. Mətbəxə gedib stəkan gə- 
 
-@@ 262
+@@ 131
 
 >>tirdi. Kişi çayı nəlbəkiyə tökdü. İsti buğ şaxtadan bərkiyib daşa dön-müş qalın dodaqlarının donunu açdı. Çayın qurtumu mədəsinə axan kimi bədəni yavaş-yavaş isindi. O, yaxmalarından birini götürüb dişlədi.
 
@@ -5388,7 +5388,7 @@ Arvad gözlərini aşağı saldı, uzun kirpiklərinin kölgəsi gözlərinin al
 
 – Adamınkı gətirməyəndə gətirmir...
 
-@@ 263
+@@ 132
 
 Susdular. Kişi yerindən qalxıb pəncərəyə yanaşdı. Gözlərini eşik tərəfdən pəncərənin taxtalarına yatmış nazik qar layından ayırmayaraq, geri çevrilmədən dilləndi:
 
@@ -5432,7 +5432,7 @@ Arvad gözlərini yumub fikrə getdi. Sonra dodaqları büzüşdü, iniltiyyə b
 
 – Eh, ay kişi! Balam əlimdən gedir. Buna yaman gün deməzlər, evim yıxılır... Gecəm, gündüzüm yoxdur. Hara baxıram, uşaq gəlib durur gözümün qabağında. Gecələr qulağıma cürbəcür səslər gəlir.
 
-@@ 264
+@@ 132
 
 Pis-pis yuxular görürəm. O gecə görürəm, Aqil qızdırmanın içində yanır, qışqırır, ay ana, ay ana. İstəyirəm yaxına gedəm, yerimdən tərpənə bilmirəm. Dəli kimi yuxudan oyanmışam... Eh, Allah bu günü heç düşmənimə də göstərməsin!
 
@@ -5446,7 +5446,7 @@ Kişi ayaqlarının altına baxa-baxa addımlayır, nədənsə evə getməyə ma
 
 Evə qayıdanda yolu Nizami muzeyinin yanından düşdü. Tində, muzey binasının küncünə vurulmuş üçgözlü saatın altında, qışın bu vaxtında başıaçıq gəzən bir dəstə cavan dayanmışdı. Bu cavanların yanından ötəndə o, qəribə bir şey müşahidə etdi. Cavanların hamısı iki
 
-@@ 265
+@@ 133
 
 >>damla su kimi onun oğlu Aqilə oxşayırdı. Hərəkətləri, zil qəhqəhələri, başqalarının başa düşə bilmədiyi bir jarqonda danışmaları ataya öz oğlunu xatırlatdı. Bir az getdikdən sonra kişi sövq-təbii ilə ayaq saxladı, geri dönüb cavanlara xeyli baxdı. Nədənsə ona elə gəldi ki, şit gülüb-danışan bu cavanların hərəsinin cibində bir beşbarmaq var. Hər biri də ya bu gün, ya sabah, ya da bir aydan sonra kimisə vurub yaralayacaq, bəlkə də öldürəcək...
 
@@ -5480,7 +5480,7 @@ Arvad yenə soruşdu:
 
 – Necə?
 
-@@ 266
+@@ 133
 
 – Tez-tez üstümə qışqırırdı ki, qırıldıq batdıq bu müsəlmançılığın içində. Belə-belə qəribə şeylər deyirdi.
 
@@ -5512,7 +5512,7 @@ Stolun üstündə dünən olduğu kimi yenə termos və iki buterbrod vardı. O,
 
 – Nə oldu?
 
-@@ 267
+@@ 134
 
 KİŞİ BİR AN CAVAB VERMƏDİ, SONRA BAŞINI BULAYARAQ:
 
@@ -5552,7 +5552,7 @@ KİŞİ DƏRİNDƏN, Ciyər DOLUSU NƏFƏS ALDI.
 
 ARVAD AĞLADI. 
 
-@@ 268
+@@ 134
 
 # 46-cı ilin oyunları
 
@@ -5580,7 +5580,7 @@ Bu an kimsə Səkinəni çağırdı:
 
 Səkinə səs gələn tərəfə baxdıqda səngərin qurtaracağında qalaqlanmış iri yeşiklərin üstündə üç nəfər düşmən gördü. Onlardan biri enli
 
-@@ 269
+@@ 135
 
 >>toqqasına keçirdiyi uzun lüləli tapançadan çox, qundağı qırılmış tufangö bənzəyən silahını çıxarıb Səkinəyə tuşladı:
 
@@ -5624,7 +5624,7 @@ Səkinə ani tərəddüddən sonra razı oldu. O, səliqə ilə daranmış saçl
 
 Düşmənlər “urra!” deyə qışqırıb yerə düşdülər və harasa qaçdılar. Balalarını itirmiş ana yenə layla çalmağa başladı:
 
-@@ 270
+@@ 135
 
 Layla dedim yatasan, Qızılgülə batasan...
 
@@ -5650,7 +5650,7 @@ Teleqram gələndə arvadı evdə yox idi. Sadıq soruşdu:
 
 Sadıq qapını bağlayıb zənciri keçirdi (arvadı evə gəlməyəcəkdi, gecə xəstəxanada növbətçi idi). Amma teleqramı o dəqiqə oxumadı. Nəsə ürəyinə dammışdı. Otağa girəndə də teleqramı açmadı, sintetik süfrə ilə örtülmüş dəyirmi stolun üstünə qoydu. Təəccüb qarışıq bir maraqla gözlərini teleqrama zillədi. Elə bil adı kağız parçasına deyil, qəflətən peyda olmuş balaca kərtənkələyə baxırdı. 
 
-@@ 271
+@@ 136
 
 Sadığın ürəyi sıxıldı. Son ildə teleqram, yaxud məktub aldığı yadına gəlmirdi. Gecə on ikinin yarısında qapı zənginin çalınması, poçtalyonun “sroçni” deyə üç dəfə dalbadal çağırması müəmma ilə dolu bir hadisəyə çevrilmişdi.
 
@@ -5662,7 +5662,7 @@ Sadıq bir stəkan sirkə içibmiş kimi üz-gözünü turşutdu, taqətsiz, üz
 
 Sadıq geri qayıtdı, stolun arxasında əyləşib başını əlləri arasına aldı. Gicgah damarları şişmişdi. O, bir müddət nə üçünsə qımıldanmamağa, barmaqlarını belə tərpətməməyə çalışaraq, saatın beyninə işləyən taqqıltısına qulaq verdi. “Əzrayıl aparsın səni!” – deyə acı-acı düşündü. Kimi? Saranın xalasınımı? Poçtalyonumu? Ya elə özünümü?.. Bir az-dan başının ağrısı bir qədər azalandan sonra o, metal portsiqarını çıxa-rib papiros yandırdı, yanğısını su ilə söndürmüş kimi, acı tüstünü acgözlüklə ciyərlərinə çəkməyə başladı. Lakin elə həmin dəqiqə də ürəkbulanması hiss etdi. Papirosu külqabına basıb bir neçə dəfə udqundu. “Əzrayıl aparsın səni!” – deyə bu dəfə ucadan dilləndi.
 
-@@ 272
+@@ 136
 
 Əslinə qalsa, elə bu gün səhərdən Sadığınkı gətirməmişdi...
 
@@ -5696,7 +5696,7 @@ Məlum oldu ki, Sadıq yenə üç ay ev kirayəsini gecikdirmişdir.
 
 Müdir Sübhi Sadığın ona aşkar sezilən bir nifrətlə baxdığını görüb güldü. Güldü və Sadığı lap özündən çıxardı.
 
-@@ 273
+@@ 137
 
 – Bura bax niyə hırıldayırsan? – deyə Sadıq bacardıqca sakit görünməyə çalışaraq əllərini plaşının ciblərinə dürtdü və aşağı basdı. Plaşının qırışları daha da çoxaldı.
 
@@ -5712,7 +5712,7 @@ Sadıq yalnız indi əllərini ciblərindən çıxardı, plaşının düymələr
 
 Bu gün hava pis deyildi. Külək əssə də, göyün ora-burasında arasıra qalın buludlar görünsə də hələ səhərdən bəri günəşin qabağı tutulmamışdı. Mağaza ilə üzbəüz hündür binanın pəncərələrində əks olunan günəş şüşəsi yuxarıdanaşağıya doğru uzanan maili və parlaq bir xətt cızaraq dəyirmi ləkə şəklində vitrinə düşürdü. Oyuncaqların şüşə gözləri brilyant kimi ziya verirdi. Vitrinin sağ küncündə, məftil kimi nazik ayaqları üstə dayanıb qollarını yana açmış Buratino istehzalı bir
 
-@@ 274
+@@ 137
 
 >>gülüşlə düz Sadığa baxırdı. Bu istehzalı gülüş, bir nöqtəyə zillənmiş xırda, dəyirmi gözlər, bir-birinə sıxılmış nazik dodaqlar nə üçünsə Sadığa müdir Sübhinı xatırlatdı...
 
@@ -5742,7 +5742,7 @@ Qadın şirin bir təbəssümlə gülümsündü, iri, qara gözlərini azca qıy
 
 – Bəli, mənəm… Buyurun.
 
-@@ 275
+@@ 138
 
 – Mən şəklimi çəkdirmək istəyirəm.
 
@@ -5768,7 +5768,7 @@ Bəs sonra nə oldu?.. Sadıq aktrisanın şəklini çəkdi. Aktrisa pavilyondan
 
 Aktrisa gedəndə dedi:
 
-@@ 276
+@@ 138
 
 – Bəlkə şəkilləri aparmağa gələ bilmədim. Adam göndərəcəyəm. Yaxşımı?
 
@@ -5812,7 +5812,7 @@ Küçə qapısı bağlandı. Sadıq Cümşüdün səsini eşitdi:
 
 Cümşüd Sadığa yanaşdı. Sirr açırmış kimi qəribə bir ciddiyyətlə dedi:
 
-@@ 277
+@@ 139
 
 – Məşhur adamdır. Zərgər Abbas. Yaxşı oğlanlardandır.
 
@@ -5850,7 +5850,7 @@ Rejissor başını yana əyib gözlərini bərəltdi. Səsinə istehzalı bir ah
 
 – Çox təəssüf! Ümumiyyətlə, məni son vaxtlar, bəli, son vaxtlar çoxları yaxşı başa düşə bilmirlər. Eybi yoxdur, müsaidənizlə mən sualımı daha konkret şəkildə təkrar eləyə bilərəm. Müsaidənizlə...
 
-@@ 278
+@@ 139
 
 O susdu, yalnız dərindən nəfəs aldıqdan sonra davam elədi: – Siz mənim arvadımın, bəli, qanuni arvadımın şəkillərini Abbas Mirzəyev adlı bir vətəndaşa vermisiniz. Nə ixtiyarla?..
 
@@ -5886,7 +5886,7 @@ Cümşüdün səsi gəldi:
 
 İndi bunların heç bir əhəmiyyəti yoxdur. Kimin isə xoşbəxtliyi əlindən gedib, kim isə xoşbəxt olub. Ancaq... gərək o iyirmi manatı qaytaraydı. 
 
-@@ 279
+@@ 140
 
 Sadıq, Suraxanı tərəfdə, neft mədənindən iki yüz metr aralıda, daşları his çəkib qaralmış birmərtəbəli evi xatırladı. Üç uşağın səsi qulaqlarına doldu: “Dayım gəlib, ay məmə”. “Dayım mənə pirojna gətirib, ay məmə”. “Dayım məni yayda dənizə aparacaq, ay məmə...” Zərgər Abbas gəldi, şəkillərə baxdı, stolun üstünə iki onluq qoyub, çala-çala getdi. Ancaq, yəqin ki, heç vaxt, ömründə bu sözləri eşitməyib: “Dayım mənə pirojna gətirib, ay məmə...”.
 
@@ -5922,7 +5922,7 @@ Sadıq başını buladı. Qeyri-iradi, lakin acı bir təəssüf hissi ilə dü�
 
 İki il bundan qabaq, yayda, onlar kəndə gedəndə Saranın xalası qurban kəsmişdi, evində cah-calal düzəltmişdi. Kəndin ağsaqqalları gəlib Sadıqla görüşmüşdü... İki il bundan qabaq yayda Sadıq düz iki həftə ömrünün ən qayğısız günlərini keçirmişdi.
 
-@@ 280
+@@ 140
 
 İndi gərək ikisi də kəndə getsin. Dəfnə çatmasalar da gərək üçünü, yeddisini, qırxını versinlər. Əzrayıl aparsın sənil Deməli, düyü, qənd, yağ almaq lazımdır. Sadıq teleqramı səliqə ilə qatlayıb stolun üstünə qoydu. Qalxıb otaqdakı tək çarpayıda uzandı. Bir azdan pifamasını çıxarmaq, işığı keçirmək, durmaq istədi. Ancaq yuxu onu apardı. Pəncərənin açıq nəfəsliyini bağlamağı unutmuşdu. Təmiz, soyuq hava ilə bərabər, küçədə qoyulmuş reproduktorun gur səsi otağadolurdu. Sadığın yuxudan beyni dumanlananda yalnız bir söz eşitdi: “Mars”. Gecə yuxuda gördü ki, Ayın əntiq küçələrindən birində təzə fotoatelye açıb. Fil sümüyündən düzəldilmiş qapısı üstündə iri qızılı hərflərlə yazılıb: “Foto-fantaziya”. Oyuncaqların şəklini çəkir. Laborantı da müdir Sübhidir. ASTANA
 
@@ -5932,17 +5932,17 @@ Sadıq başını buladı. Qeyri-iradi, lakin acı bir təəssüf hissi ilə dü�
 
 Yəqin ki, bu dəqiqədən başlayaraq onu daha heç bir şey təəccüb-ləndirməyəcəkdi. Cəmi bir saat bundan qabaq günəş qübbənin kəllə-çarxında dayanıb aləmi yandırıb-yaxırdı. Bir saatmı? İki saatmı?.. Bəlkə lap on saat bundan qabaq: dünən gece on ikinin yarısında, indi dayandığı yerdən çox-çox aşağıda, ay işığında gümüş kəmər kimi uzanıb Azərbaycanın cənubuna gedən şosedə taksidən enəndən sonra balaca əl çamadanını nə üçünsə bərk-bərk sinəsinə sıxıb, gəldiyi yolla əks tərəfə üz tutmuş maşının arxa işıqlarına baxa-baxa fikirləşmişdi ki, daha onu bu dünyada heç bir şeylə təəccübləndirmək mümkün deyil, dünyanın min bir tilsimi bura cəmləşsə də, o, bu sərin axşamın yapış-qan təmasından savayı heç bir şey hiss etməyə qadir olmayacaq. Maşının arxa işıqları – iki dənə qırmızı nöqtə uzaqlaşıb-uzaqlaşıb, gecənin zil qaranlığı içərisində çözələndi, ağır xəstənin sonuncu ümid çırağı kimi birdən yox oldu: o, qaranlıqda öz gözlərinin necə işardığını hiss elədi… Səhər ayılanda – iki qayanın baş-başa verdiyi yerdə, sal daşın üstdə yatmışdı – düz gözlərinə düşən gün işığı uzununa baxdı: Günəş dənizin arxasından çıxırdı, qıpqırmızı idi, dəyirmi idi, boz, buludsuz səmanın köksündə haralara isə açılan nəhəng bir deşiyə bənzəyirdi, bu deşiyə
 
-@@ 281
+@@ 141
 
 >>sarı suların üzərində qırmızı bir yol gedirdi, o qırmızı yolda gecə onu bura gətirmiş taksi dayanıb qabaq işıqlarını yandırmışdı... O, gözlərini yumdu, sağ əlini yana uzadıb çamadanın üstünə qoydu və özü öz təşvişinə heyrət elədi: çamadanı burda kim apara bilərdi ki?! Nə üçünsə uzun müddət daha gözlərini açmağa cürət etmədi, başa düşdü ki, onun indiki halında qaranlıq işıqdan yaxşıdı, qaranlıqda dünyanı görmürsən və indiki halında o, dünyanı görməsəydi daha yaxşı idi. Çünki nə ətrafında cəmlənmiş qayaların, sal daşların sərt cizgiləri, nə də çox-çox aşağıda çox-çox uzaqdakı dənizin dümdüz qoynu daha onu real aləmə qaytara bilməyəcəkdi, gecəki qəfil telefon zəngi onu qırx üç il ömür sürdüyü real aləmdən həmişəlik ayırmışdı... Gecə taksi fırlanıb gedəndən sonra, şose yolundan bu qayalıqlar yığnağına qalxa-qalxa həmin bu telefon zəngini neçə dəfə eşitmişdi, Allah bilir. Necə dəfə də cırcıramaların səsi xırp kəsmişdi, qurd-həşərat da onu evindən, ailəsindən didərgin salmış bu telefon zəngindən qorxmuşdu... Gecə taksi fırlanıb gedəndən sonra, o, qaranlıq içərisində görmədiyi necə darvazalardan keçib, gördüyü keşikçilərin xısın danışıqlarının müşayiəti altında tövşüyə-tövşüyə lap yuxarı qalxmışdı, nəhayət, sonuncu darvaza bağlanıb onu qaranlığın ixtiyarına vermişdi. Gecə taksi fırlanıb gedəndən sonra o, gözlərinin işarətisindən ayaqları altına düşən işığa baxa-baxa ürəyinin döyüntüsünə qulaq asmışdı, ürəyinin sıxıntısını anlamağa çalışmışdı. Qaranlıq yalnız qaranlıq deyil, dərd-sər dolu nəhəng bir daş parçasıdır ki, məqam axtarır, əlinə gecənin çiyinlərinə salsın özünü. Hünərin var, yatma! Gecə, taksi fırlanıb gedəndən sonra, çamadanı açıb əlini içəri atmışdı: ordaydı. İki-üç dənə buterbrod, bir termos adi kran suyu, bir də o... “TT”, səkkiz dənə də gülləsi. Ay apardınız ha! Biz, qağa, çörəyi qulağımıza yemirik, ağzımıza yeyirik...
 
 İsti çəkilmişdi. Günəş, baş-başa verib dayanmış iki qayanın arasında, halqavarı boşluqda eynən səhərki kimi qırmızı-qırmızı yanırdı. İndiki hərarət günəşin deyildi, bütün günü cəhənnəm istisini özünə hopdurmuş daşlardan və torpaqdan qalxan hərarət idi: o bu hərarətin, ayaqları altından gözəgörünməz tüstü kimi, necə burulub günəşə sarı yönəldiyini bütün vücudu ilə hiss edirdi. Müşahidə elədiyi bu yanğılı axın onda heç bir təəccüb doğurmurdu, elə bil dəfələrlə, min-milyon dəfə gördüyü ən adi şeylərdən biri idi: günəş istisini geri alırdı, Allah verdiyi canı geri alan kimi. Daşlardan qəribə səslər çıxırdı, elə bil nəydisə, nəsə demək istəyirdi, kimdisə, kimisə çağırırdı. İnsan dilində
 
-@@ 282
+@@ 141
 
 >>bunu izah edə biləcək bir söz yoxdu. Hardasa ana balasını əmizdirirdi, süd körpənin ağzından aşıb-daşırdı... Beyni ağırdı. Ağrı lap içəridə idi, orda çoxdan unudulmuş xatirələrdən başqa bir şey yoxdu: nə ümid, nə həsrət, nə dilək, heç bir şey. Yalnız ağrı və yadına gəlmədiyi xatirələr. Görəsən ağrıyan nə idi, ay Allah? Belə də ağrı olarmı? Mininci dəfə çamadanı açdı, ya ikinci dəfə – bilmədi. Bu dəfə də əlini tapançanın buz kimi soyuq dəstəyinin üstünə qoydu, bir xeyli çəkmədi. Qaysaqlanmış, çatlaq dodaqları aralandı, səsini içəridən eşitdi: ay apardınız ha! Sonra termosu çıxardı, qapağını açıb bir qurtum soyuq su içdi: suyun dadında iti xəncər tiyəsinin sərt təması qədər aydın bir qoxu vardı: onmetrlik mətbəxin qoxusu, səkkizyaşlı oğlunun qoxusu. Gecə, bu əl çamadanını dolabın başından götürəndə arvadının qorxudan səndirləyə-səndirləyə dal-dalı gedib divara arxalandığını, əsim-əsim əsdiyini xatırladı. Heyrətdən genişlənib az qala hədəsindən çıxmaq istəyən bir cüt gözün dərinliyində isə qorxudan çox quduz itin qəzəbi vardı. O telefon zəngindən sonra üç otağın üçündə də hava elə bil birdən-birə ağırlaşmışdı... Taksi gümüş kəmərə bənzər yolda dayanıb onu düşündürəndən sonra da o hələ ammiak dadı verən bu ağrı havanı tamamilə ciyərlərindən çıxara bilməmişdi... Termosu təzədən çamadana qoydu, qıfılladı, beynindəki ağrıdan birtəhər xilas olmaq üçün yerini dəyişdi, baş-başa verib dayanmış qayaların sağ tərəfindəki kö!-gəliyə keçdi, oturub kürəyini qayaya söykədi, çamadanı da ayaqları altına qoydu. Amma ağrı azalmadı. Baş ağrısı olsaydı bir əncam çəkərdi: ya pencəyini çıxarıb başına dolardı, ya da gicgahlarını ovuş-durardı – övkələyib-övkələyib, birtəhər ağrını azaldardı. Bu, başqa ağrı idi, yəqin ki, belə ağrılar, belə dözülməz işgəncə verən beynin uğultusu hər adamın ömründə bircə dəfə, uzağı iki dəfə olur: bir ana bətnində, bir də ölümdən qabaq... Və yalnız indi bütün aydınlığı ilə başa düşdü ki, o, bir daha evə dönməyəcək, bir daha liftə girib beşinci mərtəbəyə qalxmayacaq, bu günmü, sabahmı, on gün sonramı – öləcək, amma harda bilmir, bəlkə də elə burda, bu qayalıqların arasında, başı üzərində dəstə-dəstə uçuşan çalağanların kölgələri altında. O, bir də evinə dönməyəcək. Onu evdən çıxarıblar – meyiti çıxaran kimi. Özü də öz cənazəsini çiyninə alıb, gecə, gümüş kəmərə bənzər yolda maşından enib və bura, qayalıqlara gətirib. Fatihə! Allah cəmi əhli-qibura rəhmət eləsin!.. Bunu kim dedi görəsən?.. Kim tək qalır elə bilir doğrudan təkdir. Amma heç kəs, heç vaxt tək qalmır. Ağrı elə bil
 
-@@ 283
+@@ 142
 
 >>ağlına gələn bu fikrə bənd imiş kimi birdən-birə yox oldu, o, gicgahlarında soyuqluq hiss elədi və bir də, səbəbi özünə heç cür aydın olmayan qəribə bir yüngüllük duydu: elə bil hündür və çətin baryeri keçmiş at idi, indi onu tövləyə rahatlanmağa aparacaqdılar...
 
@@ -5950,7 +5950,7 @@ Lift işləməyəndə pilləkənləri tövşüyə-tövşüyə qalxıb, hər mər
 
 Gecə müsibətli gecə idi. Lap uzaqdan dənizin narahat səsi gəlirdi, bu, dalğaların səsi deyildi, Yer kürəsinin nəhəng və dərin çökəklərindən birinə milyon illərdən bəri yığılmış suların çalxantısının səsi idi. İçərisindən qalxan soyuq onu dilim-dilim kəsib hərdən o dərəcəyə gətirirdilər ki, o, qayaya sığınıb yanağını daşa söykəyirdi, çünki daş nisbətən isti idi və yəqin ki... daşların ona yazığı gəlirdi. O müsibətli gecənin qorxusu isə başqa bir şeydən başlamışdı – gözlərinin işarətisindən qabağa düşən işıq dairəsində qayalardan birində əcaib bir rəsm görmüşdü: kimsə əlində nizə nəhəng bir heyvanın qarşısında dayanmışdı. Haradır bura, ay Allah?.. Elə oradır, sənin gəldiyin yer, sığınaq tapdığın yer, balaca əl çamadanında öz növbəsini gözləməkdən təngə gəlmiş tapançanın arzuladığı yer – gözdən iraq qaranlıq dünya. Və bir uzun nizə də bu dünyada öz növbəsini gözləyirdi. Görək Allah kimə verəcək!.. Taksi fırlanıb gedəndən sonra neçə-neçə darvazalardan keçib bura qalxandan sonra o, ömründə birinci və sonuncu dəfə uzaqdakı dənizin çökəyə yığılmış sularının ağır nəfəsini eşitmişdi. Anasının pay gətirdiyi bir qazan dolmanı mətbəxdə qızdırıb onun qabağına qoymuşdular. Bu dolmanın ləzzəti dünya üzərində tək qalmış sonuncu kişiylə sonuncu qadının yaxınlığı qədər təkrarolunmazdı.
 
-@@ 284
+@@ 142
 
 "A bala, haram pulun axırı yoxdu, bir az toxta".
 
@@ -5962,7 +5962,7 @@ Sal daşın üstündə, böyrü üstdə uzanıb, dizlərini büküb, bir əli ç
 
 O, ayaqqabılarına baxdı. Çünki arzuladığı üç sözün intizarında çox qala bilməzdi – ürək daşdan deyil, lap elə daşdan olsaydı da, əgər başını aşağı salıb fikrini yayındırmasaydı, o daş ürək də bu qayalar kimi partlayıb çat-çat olardı... Ayaqqabılarını toz basmışdı, dünən
 
-@@ 285
+@@ 143
 
 >>gecə geyib indiyəcən çıxarmadığından, ayaq barmaqları sızıldayırdı, baldırlarının əzələləri isə bir neçə yerdə qalın kəndirin düyünləri kimi şişmişdi. O, bir az da aşağı oyl idi, ayaqqabılarının bağını açdı, Ayağından çıxardı, corablarını da soyundu. Dabanlarını növbə ilə torpağa basdı: ilıq torpaq ayaqlarına sərinlik gətirdi. Sonra yenə, deyəsən, üçüncü dəfə çamadandan termosu götürdü, hələ də sərinliyini saxlayan sudan boğaz dolusu bir qurtum içdi, termosun qapağını dodaqlarınarına yapışdıranda hiss etdi ki, dodaqları qaysaq bağlayıb şişib. Amma məhz bu duyum, elə bil, hələ də canında qalmış gecəki qorxunun olan-qalanını apardı, o buraya gəldiyi dəqiqədən indiyə kimi birinci dəfə ciyərdolusu nəfəs aldı. Nə yaxşı siqareti buraxıb. Burda siqaretsiz qalmaq heç olmazdı.
 
@@ -5974,25 +5974,25 @@ Qırmızı günəş bayaqkı yerində, baş-başa verib dayanmış iki qayanın 
 
 O gecəki telefon zəngindən sonra necə aşağı enib pay-piyada yaşadıqları qəsəbədən şəhərin mərkəzinə, kiçik qardaşıgilə gedib onu
 
-@@ 286
+@@ 143
 
 >>yuxudan elədiyini, birotaqlı rahat mənzili bircə anın içərisində, ağır yük kimi özü ilə gətirdiyi bəd xəbərlə doldurmasını da xatırladı. Qardaşı yuxulu gözlərini elə bil aça bilmirdi, dar dəhlizdə maykada və trusikdə, ayaqyalın dayanıb kefli kimi yırğalanırdı. Güllü-güllü xalata bürünüb, bir əlilə xalatın düyməsini didişdirə-didişdirə qardaşı arvadı ərinin arxasından ona baxıb səssiz-səmirsiz ağlayırdı: yaşla dolub iriləşmiş gözlərində yazıqlığın və mütiliyin müqabilində o özünü güclə saxlamışdı, yumruq boyda hıçqırıq xırdaca hülqumuna ilişib daha yuxarı qalxmamışdı, əriyib damla-damla ürəyinə axmışdı. O, tələsik qardaşına nəsə demişdi, nəyisə ona başa salmışdı, sonra sağollaşmadan, əl tutmadan, öpüşmədən dəhlizdən çıxmışdı. Qapını arxasınca ehmalca bağlamışdı. İlk dəfə orada, mərtəbənin yarıqaranlıq meydançasında, burun pərələrində ammiak iyini hiss edə-edə ilk dəfə bu sözləri orada demişdi: “Ay apardınız ha!” Evdə tapançanı çamadana qoyanda daha arvadı son iki saatın sükutuna davam edə bilməmişdi, qadının sinəsindən inilti qopmuşdu. İlk anlar o bu səsin inilti olduğunu belə anlamamışdı; ona elə gəlmişdi ki, həyətin harasındasa yazın bu axır günlərində törəyib artmış küçüklərdən biri zingildəmişdi. Sonra çamadanı bağlayıb qəddini düzəldəndən sonra arvadına gözucu nəzər salıb başa düşmüşdü ki, arvadı onun qərarı ilə razıdır, arvadı da onun kimi başqa heç bir çıxış yolu görmür. Əhsən!...
 
 Ayaqlarının züggültüsü azalmışdı, ehmalca, tələsmədən termosun qapağını burub çamadana qoydu, çamadanı bağladı. Sabah səhər qardaşı bura gəlib onu tapmasa, onda deməli, qonşuları Müğbil kişinin müdrikanə kəlamı kimi, “əhvalat vaqe olub qurtarmalı idi”... Necə ki, indiyə kimi çox-çox adamların bu dünyada əhvalatları vaqe olub qurtarmışdı – birininki tez, birininki gec, amma qurtarmışdı. Elə o telefon zəngi də adi xəbər deyildi, “Kərimovu apardılar” kəlməsi, əslində, Müğbil kişinin müdrikanə kəlamının şifri idi, dəstəyin menbrasında qəfəsə düşmüş quş kimi çırpınan səsdə isə adi xəbərdən çox bodnibədniyabət bir niyyət vardı. Son iki ayda o, telefon zənginin yalnız gecələr səslenməsinə adət etmişdi: bu evə indi yalnız gecələr zəng vururdular və yalnız pıçıltı ilə danışırdılar. Pıçıltı ilə verilən xəbərlərdə əslində, onun üçün gözlənilməz heç bir şey yoxdu. Bu zənglərin hamısının mənası birdi: hazırlaş, qardaş, hadisələrin gedişi onu göstərir ki, vəziyyət yaxşı deyil, indiyə kimi onun və Kərimovun rüşvət verdiyi adamlar daha rüşvət almaq istəmirlər, sözü bir yarə qoyub deyiblər ki,
 
-@@ 287
+@@ 144
 
 >>gedin başınıza çarə qılın, daha bu xına o xınadan deyil. İlk dəfə o bu xəbəri eşidəndə arvadının yanında xoruzlanıb, əlini əlinə vurub, rüşvət almaq istəməyən həmin o adamların qorxaq və nakişi olduqlarından bir xeyli ağızdolusu danışmışdı, arvadı da onun təsiri altına düşüb, ərini daha da qızışdırmışdı.
 
 Bu söhbət, ərlə arvadın arasında bu ürək-dirək vermə oyunu səhərin ala-toranına qədər davam eləmişdi: gecənin qaranlığına qarışmış pəncərə şüşələri bozarmağa başlayanda və şəhərin bu yerində, qəsəbənin qurtaracağında kiminsə eyvanındamı, ya həyətindəmi xoruz bana eşidiləndə, stolun üstündəki soyumuş çaydan bir-iki qurtum içib yatmağa getmişdilər. Arvadını o dəqiqə yuxu aparmışdı. O isə bayaqkı söhbətdən cuşa gəlmiş əsəblərini uzun müddət sakitləşdirə bilməmişdi, uzun müddət yerində üstü açıq uzanıb, konkret heç bir şey haqqında fikirləşmədən, nə üçünsə, üzbəüzündəki pəncərənin tozlu şüşəsində parıldayan gün işığına baxa-baxa hisslərin, duyumların anlaşılmaz axarına tabe olmuşdu. Bədəni – ayaq barmaqlarından tutmuş beyninin ən xırdaca hüceyrələrinə qədər – bu axarın içərisində tarıma çəkilmişdi. Yalnız hava lap işıqlaşanda, üzbəüzündəki divarın rəngindəki qarma-qarışıq bozluq yox olub, yerini aboyun sarımtıl güllərinə verəndə, o, yarıyuxulu, yarıoyaq bir vəziyyətdə gözlənilməz bir fikrin girdabına düşmüşdü: əgər bir şey olarsa, Allah eləməsin, əgər onu da başqaları kimi dolaşdırarlarsa, Allah eləməsin, onda qardaş, məni diri-diri heç kəs heç yana aparıb eləməyəcək. Bu yaşımda mənim koloniyada can çürütməyə nə meylim var, nə həvəsim. Koloniya nədi, ə?.. Və, o gecə məhz bu belə bir fikrə gələndən sonra böyrü üstə dönüb, səhərə qədər, səhərə deyəndə ki, gündüzün günorta çağına kimi rahat və röyasız bir yuxu yatmışdı... Rahat – hə, amma röyasız – yox. Bu ana kimi, kim ondan həmin o gecəki yuxu barəsində soruşsaydı, yəqin ki, məhz rahat və röyasız yatdığını söylərdi. Amma yalnız bu ana kimi. İndi, qayaya söykənib, yavaş-yavaş düşən axşamın qırmızımtıl işıq aləmində, həmin o gecə, daha doğrusu, o gecənin səhər çağı, otaq işıqlaşandan sonra yatan kimi qəribə bir yuxu gördüyünü xatırladı. Ağır və narahat yuxu dərinliyində elə bil işıq yanmışdı, qırxüçillik ömründə demək olar ki, hər gecə gördüyü əbləh yuxulardan fərqli olaraq, o gecə işıqlı və həlim axara düşüb, son beş ildə bircə kərə də yadına salmadığı, haçan öldüyünü belə unutduğu dayısı Mustafa kişini yuxusunda görmüşdü. Həmişə yuxuda eşitdiyi qarmaqarışıq səslərdən də fərqli,
 
-@@ 288
+@@ 144
 
 >>əziz bir səsin yaxın sədasını eşitmişdi, yaz yarpızının nəmişli qoxusunu duymuşdu. Dayısının çal saqqalındakı çörək qırıntılarının sinəsinə töküldüyünü də görmüşdü. Mustafa kişi saçaqlı xurcununu Bakının o zamankı birmərtəbə, yastıdam evlərindən birinin dar dəhlizində qoyub, xamralı çörəyini, qovutu və xurcunun iki gözü dolu gətirdiyi nağılları ayaqları arasında vurnuxan, müharibənin acısını arıq sifətlərində parıldaşan iri gözlərdə gəzdirən balaca-balaca uşaqlara paylamışdı. Və indi, bu röyanı yadına salandan sonra başa düşmüşdü ki, günorta yuxudan durub heç bir şey xatırlaya bilmədiyinin səbəbi stol üstündə, bərli-bəzəkli nimçələrdə, gümüş çəngəl-bıçağın əhatəsində evin yiyəsini gözləyən son dərəcə dadlı, həmin o keçmişin bəlkə də bir həftəlik yeməyinə bərabər ola biləcək onun adicə səhər yeməyi idi. Ac qarın və gecə ərzində təzə çaxır kimi qaynayıb daşmış mədə şirəsi beynin sonuncu xatirə qapısını da həmişəlik kilidləmişdi.
 
 Əgər indi o vaxtlar olsaydı – ötən günə gün çatmaz, günü günə calasan da – Mustafa kişinin ayda bir dəfə, iki dəfə dağlardan enib çiynində xurcun, çal saqqalını qaşıya-qaşıya, “dağlardan gəlirəm, a bala” deyə-deyə onlara sovqat gətirdiyi vaxtlar ki, gecələr havası ağır balaca otaqda, yerdən salınmış yorğan-döşəkdə bir-birinə sığınıb-qışılıb, təzə qovutun dadı dodaqlarında yatışan bir bacı, iki qardaş dünyanın bütün qorxulu nağıllarını dünyanın ən şirin şərbəti kimi içirdilər, əgər indi o vaxtlar olsaydı, anasıyla bir yerdə Allaha, Peyğəmbərə yalvarıb vaxtı dayandırardı, ikicə günün səadətini bir insan ömrü qədər uzadardı. Kaş heç böyüməyəydi. Kaş heç o günlərdən sağ çıxmayaydı. Kaş elə dayısı ilə dağlara gedib qarda-çovğunda həlak olaydı. Kaş o yetimlik illəri qurtarmayaydı, uzanıb-uzanıb bu günlərə qədər davam edəydi. Amma neyləyəsən, deyir, sən çaldığını çal, gör fələk nə çalır. Bunu anası da deyərdi, dayısı da. Atasının cəbhədən qara kağızı gələn-də anası dəhlizdə kətilə çöküb, gözlərindən bir gilə yaş axıtmadan, birinci dəfə bu sözləri demişdi. Sonra tel vurub qohum-əqrəbadan yeganə sağ qalmış dayıları Mustafa kişini çağırmışdılar. O da dəhlizdə kətilin üstündə oturub, eynən anası kimi əllərini dizləri üstdə yumruqlayıb, bu sözləri demişdi: sən çaldığını çal, gör fələk nə çalır. Sonra qonşular bir-bir gəlmişdilər, onlar da buna bənzər nəsə demişdilər. Qara gün, Bakının bu birmərtəbə, yastıdam evlərindən birinə bu sözlərlə gəlmişdi – ağlaşmayla, vay-şivənlə yox, fələyin çaldığı havayla. O gecə o, qaranlıq pəncərədə işığa bənzər bir şey
 
-@@ 289
+@@ 145
 
 >>görmüşdü, sonra qapının astanasında fələyi görmüşdü: fələk ağ geyib, sazı sinəsinə basıb yanıqlı bir hava çalırdı... Bunu da xatırladı, bunu da unutmuşdu. Hər şeyi unutduğu kimi. Ay Allah, belə də zülm olarmı?! Yəqin elə bu zülmün çoxluğundandı ki, günəş indi belə vardı. Qayaların, daşların çalın-çarpaz çatlaqlarında da qırmızı işıq görünürdü: aləm od tutmuşdu. Hətta birdən ona elə gəldi ki, indicə, qayaya söykənib oturduğu yerdə vulkan püskürəcək, bütün unudulmuş xatirələr torpağın altındadır, vulkan püskürtüsü ilə üzə çıxmalıdır. Çünki heç bir vaxt günəş nahaq yerə belə qırmızı-qırmızı yanmayıb, hər adamın öz günəşi var və vay o gündən ki, belə qızarıb aləmi yandırıb-yaxa.
 
@@ -6010,21 +6010,21 @@ Qayalar çata-çata yanırdı. O, iki qayanın baş-başa verib dayandığı yer
 
 Haradansa qonaqları gəlmişdi – onun və Kərimovun qonağı, hər ikisinin haqq verdiyi adamlardan biri də vardı: ildə bir dəfə, iki dəfə Bakıya gəlib, gözəl mehmanxanalardan birində onunçün əvvəlcədən tutulmuş nömrədə on beş-iyirmi gün qalırdı. Axırıncı dəfə bura onunla bir yerdə gəlmişdilər, özü də gündüz yox, gecə, “İnturist”də keçən səsli-küylü, yeməkli-içməkli məclisdən sonra mehmanxanadan çıxıb, maşınlara oturub, düz bura sürmüşdülər – eynən ötən gecəki kimi bir gecə idi və bu gecədə həmin o gümüş kəmərə bənzər yol da vardı, elə bil ovuc-ovuc səmaya səpələnmiş ulduzlar da. Çox içmişdilər, çox yemişdilər, ağırlaşıb, dumanlı başlarını havaya vermək məqsədiləmi, ya bu gecəni uzatmaq, qurtarmağa qoymamaq niyyətiləmi, ala-bəzək, maqnitofonlu maşınlara oturub hay-küylə, zarafatlaşa-zarafatlaşa yarım saatlıq yol gəlmişdilər, hörmətli qonağa Qobustan qayalıqlarını göstərmək istəmişdilər. İki qız da götürmüşdülər. Ucaboylu, əndamlı, qalın və hissiyyatlı dodaqları ilk baxışdan kişiləri yolundan çıxaran Marqonu xüsusi olaraq qonaq üçün ayırmışdılar – onunla haqq-hesabı
 
-@@ 290
+@@ 145
 
 >>əvvəlcədən çürütmüşdülər. Kərimovun adamı idi Marqo, adamı deyəndə ki, kişiylə qadın arasında ola biləcək mərhələ onlar üçün keçilmiş mərhələ idi, indi Marqo seçmə qonaqlar üçün, lazımlı adamlar üçün saxlanılan bir növ bəxşiş kimi bir şeydi, xüsusi preyskurantı ilə. O biri qız onların arasına təzə düşmüşdü, deyəsən, udunu da məclisə götürüb gəlmiş məşhur tarzənin adamı idi: qaraqaş, qaragöz, danışanda hələ yanaqlarına qızartı çökən, şit, bayağı zarafatlara dözməyib hərdən başını aşağı salan bu qızın on yeddi-on səkkiz yaşı güclə olardı. O kimin alnına və yaxud hansı yerinə yazılmışdı, bunu hələ bilmirdilər və əslində, o gecə bunun heç bir əhəmiyyəti yox idi. O gecə yalnız qonağın gecəsi idi. Nə vardısa sa qonağın olmalı idi – “İnturist”də söylənilən uzun-uzadı sağlıqlar, kababın qabırğalı tikələri, fransız konyakı, kiminsə evdən gətirdiyi şorabalı bibər-badımcan, onluqlara, iyirmibeşliklərə çalınan “blatnoy” havalar (qonağın əsli Odessadan idi) və nəhayət, Kərimovun öz qolundan qonağın qoluna bağladığı qızıl qolbaqlı bahalı İsveç saatı, blok-blok Amerika siqaretləri və daha nələr, – hamısı qonaq üçün idi, onun razı qalması naminə idi. Üstəlik də, lap axırda, evdə çimib təmizlənmiş, geyinib-gəcinmiş Marqo: əgər mümkün olsaydı, onu da boşqaba-zada yerləşdirib stolun üstünə qoyardılar – təki qonaq razı qalsın. Maşınları gümüş kəmərə bənzər yolda saxlatdırıb, gecənin qaranlığına tökülüşüb – on nəfərdilərmi, iyirmi nəfərdilərmi, yadında deyildi – hıqqına, çığıra-bağıra yuxarı qalxmışdılar, qara-qara, nəhəng-nəhəng qayaların arasında ikibir-üçbir dayanıb, udunu da bura qaldırmış tarzənə demişdilər ki, çalsın. Və o ulduzlu gecədə, şəhərdən çox-çox uzaq yerdə, uzaqdakı dənizdən çox-çox hündürdə udun səsi eşidilmişdi: əks-səda verə-verə, keflənmiş beyinləri daha da dumanlandıra-dumanlandıra, kövrəlmiş hissləri cuşa gətirə-gətirə... Həmin o gecə o uda qulaq asa-asa qəribə bir fikrə gəlmişdi: görəsən, indi bu mağaralarda bir məxluq yaşayır, ya yox? Kiminsə əl fanarını götürüb, ayaqları altını işıqlandırıb, camaatdan xeyli aralanmışdı, fanarı qaldırıb işığı qayalardan birinin boz, çatlaq gövdəsinə salmışdı və birinci dəfə, əlində nizə nəhəng bir heyvanın qarşısında dayanmış əcaib adamın rəsmini onda görmüşdü, “Bıy, atana lənət, ay kişi, bu lap bizim Samsonova oxşayır ki!”. Amma nə üçünsə, bəlkə də qəfil bir vahiməyə düşdüyünə görə, dayandığı yerdə çox yubanmayıb geri qayıtmışdı, yol yoldaşlarına qarışıb, onlarla bir yerdə uda qulaq asmışdı. O gecə yorğun-arğın, mədəsində səhər tezdən
 
-@@ 291
+@@ 146
 
 >>başlayıb yediyi qutabların, kababların ağırlığı, içdiyi fransız konyakinin və cecə arağının yanğısı, lift işləmədiyinə görə, beşinci mərtəbəyəbəyə tər tökə-tökə qalxıb evə qayıdanda arvadı hələ yatmamışdı, otaqlarda işığı keçirib, mətbəxdə çay içə-içə, qəzetə baxa-baxa ərini gözləyirdi. Arvadı ona heç nə deməmişdi, ərinin səhərə yaxın evə dönməsindən gileylənməmişdi – illərdən bəri adət etdiyi, öyrəndiyi şeylərdən biri də bu evdə heç bir şeydən narazılığını bildirməmək idi; kişinin kişi yeri var, arvadın arvad. Amma o gecə bir azca başqa cür olmuşdu, arvadı, xəstəxanada ağır vəziyyətdə yatan, günbəgün şişən qayınanasının – bu gün lap pis olduğunu ərinə bildirmişdi, yalnız bircə şeydən gileylənmişdi ki, niyə gedib anasına baş çəkmir, arvad oğlunu görmək istəyir... O, mətbəxdə, arvadının yanında oturub, başını əlləri arasına alıb, xəstəxananın ağ divarlarını, ağ geymiş şəfqət bacılarını, ağ yorğan altında yatan anasının göyümtül dodaqlarını təsəvvüründə canlandırmışdı: arvadın nəfəsi çatmırdı, sinəsindəki xışıltı günbəgün, saatbasaat çoxalırdı. Həkimlərin dediyinə görə, əlac bircə möcüzəyə qalmışdı. O, başı əlləri arasında, fısıldaya-fısıldaya xeyli beləcə oturub, arvadının gileyinə cavab vermədən, özlüyündə anasının yatdığı xəstəxananın bütün həkimlərini yeddiqat söyüşlə dağılmışdı: heç dəxli var, ətək-ətək həkimə, dava-dərmana pul tök, bircə ananı xilas eləyə bilmə! Sonra spirtli içkilərdən yumşalıb lehmlənmiş beynində əsəbi bir fikir yaranmışdı: bu arvad da vaxt tapdı olmaya! Çünki qonaq hələ on gün də Bakıda qalmalıydı və bu müddət ərzində əgər arvadın başına bir iş gəlsəydi, o, qonaqdan ayrılıb, hüzr-mərasim məsələlərilə məşğul olmaq məcburiyyəti qarşısında qalacaqdı. Qonaqdan isə ayrılmaq heç cür mümkün olan şey deyildi – ona görə yox ki, qonaqla keçirdiyi günlər, saatlar yemək-içmək, kef-işrət demək idi, əlbəttə yox. Qonaq, o və Kərimov dördüncü bir şəxsi dilə gətirib onu da haqq almağa məcbur eləməliydilər. Çünki çox adamın gələcək əmin-amanlığı, rahatlığı və nəhayət, xoşbəxtliyi bu dördüncü adamın həmin o haqqı alıb-almamasından asılı idi... Bunu və buna bənzər başqa şeyləri fikirləşə-fikirləşə mətbəxdə, oturduğu yerdəcə, o, yuxuya getmişdi. Arvadının onu necə yataq otağına aparıb, soyundurub çarpayıya uzatdıkindən da xəbəri olmamışdı...
 
 Bakının birmərtəbə, yastıdam evlərindən birində bir ana uşağını əmizdirirdi, süd körpənin ağzından aşıb-daşırdı. Və başqa bir adam pəhləvan cüssəli, çal saqqalıyla o evin dar dəhlizində dayanıb, çiy-
 
-@@ 292
+@@ 146
 
 >>nindəki saçaqlı ağır xurcunu yerə qoyurdu, deyirdi: “Dağlardan gəlirəm, a bala!”. O ağladı. Səssiz-səmirsiz balaca uşaq kimi burnunu çəkə-çəkə və yazıq-yazıq ağladı. Bir vaxtlar, müharibənin lap qıtlıq illərində Bakının dar küçələrindən birində bir dilənçi vardı: sısqabədən, həmişə çirkin-pasın içində olan qoca bir kişiydi. Camaata yaxınlaşıb heç nə demirdi, əlini uzadaraq, beləcə səssiz-səmirsiz və lap balaca uşaq kimi burnunu çəkə-çəkə ağlayırdı, sədəqə diləyirdi. İndi əlçatmaz, ünyetməz uzağın aclıq illərində qoyub gəldiyi bu dilənçini xatırlamaqla, o ələ bil dünən gecə qaranlıqda taksidən enib buraya qalxdığı dəqiqədən ona rahatlıq verməyən, ümdə səbəbi nəhayət ki, yaxalamaq istəyirdi – bu səbəb çalağanların günorta kölgəsi kimi haçandan bəri gözləri qarşısında oynayırdı, torpağın, daşların üstündə sürüşüb-sürüşüb, ələ gəlmirdi. Amma gəlməliydi, o bu səbəbin nə olduğunu əvvəl-axır bilməliydi və yəqin ki, haçansa son addımdan qabaq sirli pərdə çəkilib bu ümdə səbəbin mənasını onun üçün açacaqdı. Allah bütün dirilərə səbir versin! Darvazanın o tərəfində qalan dirilərə də, bu tərəfində qalanlara da... Ona elə gəldi ki, yenə gözlərini yumub, çünki səhər erkəndən, gün çıxandan dəfələrlə gözlərini yummuşdu – işığa baxmaqdan qorxurdu. İşıqda, intizarında olduğu ümid çoxalırdı, qəlbində qurğuşun kimi qaynayıb-daşırdı, hətta hərdən ona elə gəlirdi ki, indicə qardaşımın səsini eşidəcək, qardaşı şad xəbər gətirəcək və onun bütün əzabməşəqqətləri yox olacaq – ağır, adamı dəli edə biləcək sərsəri bir yuxu, oyandıqdan sonra yoxa çıxdığı kimi. Ya xudavəndi-aləm, sən özün kömək ol!.. Amma başa düşdü ki, gözlərini yummayıb – həm hava əməlli qaralmışdı, həm də açıq gözlərinin önündə o qısaca bir müddət ərzində nə üçünsə yalnız qaranlıq görmüşdü: elə bil haradasa, bədənindən ayrı yerdə onun bir cüt başqa gözü vardı, o gözlər açılıb zil qaranlığa baxmışdı. Və bu duyum, bu anlaşılmaz hiss nəhəng bir maqnit kimi dünyanın bütün qorxu, təşviş və vahiməsini ələ bil dartıb, böyüdücü şüşə günəş işığını xırdaca bir nöqtədə cəmləşdirdiyi kimi, onun ürəyinə saldı: ona elə gəldi ki, o burada, bu Qobustan qayalıqlarində, lap elə bu oturduğu yerdə haçansa olub və onun indiki halı o haçansanın eynilə təkrarıdır. Yox, ona elə gəlmədi, bu, həqiqətən beləydi, bu inkaredilməz həqiqətdi. O, gözlərini bərk-bərk yumub başını əydi, sonra dizlərini qucaqlayıb başını dizləri üstə qoydu. Göy gurultusuna bənzər bir səs eşitdi, başa düşdü ki, ürəyinin döyüntüsünü eşidir: yumruq boyda ət parçası bir canı iki bədəndə saxlaya bilmirdi.
 
-@@ 293
+@@ 147
 
 Kaş bu gecədən səhərə sağ çıxaydım, kaş səhər qardaşım gələydi, kaş heç nə olmayaydı mənə, Allah eləməsin, Allah eləməsin, mənə yazığımız gəlsin, qoymayın, qoymayın, qoymayın, qoymayın...
 
@@ -6042,7 +6042,7 @@ Soyuq lüləni ağzına soxdu və tətiyi çəkdi.
 
 Həmin anda – gecəydimi, səhərdimi, gündüzümü, bilmirdi, – həmin anda gözlərinin işartısından irəli düşən işıq dairəsində öz növbəsini gözləyən nizə vıyıltı ilə havanı yarıb harasa uzağa süzdü, həmin anda Bakının müsəlman qəbiristanında qara torpaq altında kəfənə bürünmüş bir qarı elə ufuldadı ki, o biri meyitlər də eşitdi. Və həmin anda ətrafındakı mağaralardan çılpaq adamlar hayqıra-qışqıra, daş baltaları başları üzərində oynada-oynada eşiyə tökülüşüb onu qolları üstünə aldılar, mağaralardan birinə aparıb, bu şaxtalı havada isti-isti yanan tonqalın qırağında, başqa yaralıların yanında torpağa uzatdılar. Torpaq insan sidiyindən və qanından yumşalıb xəşil olmuşdu. Aşağıda isə, Yer kürəsinin nəhəng çökəklərindən birində, qara sularda köpək balıqları quyruqlarını dalğalara çırpıb iti dişlərini şaqqıldadırdılar. Dənizin suları qapqaraydı bu sular elə bil milyon il bundan sonraların bütün müsibətli gecələrinin qaranlığını özünə hopdurmuşdu. O, tonqalın istisindən və yarasının ağrısından xumarlanaxumarlana və nəhayət, hər şeyi birdəfəlik, həmişəlik unudub, başa düşdü ki, sağ qalsa ağ sümükləri bir-birinə vurub, mağarada hüznlü mahnı oxuyan qardaş və bacılarından biri olacaq, ölsə onu göy qubbəsinin altındakı bu ucalıqdan, nəhəng qayalardan, indi çox-çox yaxında olan dənizə atacaqlar. Çünki o qara sulardakı köpək balıqları qurban gözləyirdi. BAYATI-ŞİRAZ
 
-@@ 294
+@@ 147
 
 # Bayatı-Şiraz
 
@@ -6052,7 +6052,7 @@ Gəlib restorana çatana qədər yolboyu azı beş dəfə “cəhənnəmə ki!�
 
 Restoranın seyf qapısı kimi ağır qapısını açanda ürəyi başladı döyünməyə. Çünki yadından çıxmışdı, bilmirdi qazı bağlayıb, ya yox. Amma daha “cəhənnəmə ki!” deməyə hövsələsi çatmadı, içəri girdi, asılqanın sağ tərəfinə, restoran işçilərinə məxsus hissəsinə keçdi, paltosunu çıxarıb asdı. Vestibüldə, güzgü qabağında dayanıb saçlarını darayan gözəl bir qadına müştəri gözü ilə baxıb köksünü ötürdü. Sonra zümzümə eləyə-eləyə yuxarı, ikinci mərtəbəyə qalxdı. Kök əllərini
 
-@@ 295
+@@ 148
 
 Səbzəli dayı:
 
@@ -6084,7 +6084,7 @@ Səbzəli dayı siqareti götürüb barmaqları arasında övkələdi, yarısın
 
 Siqareti yandırdı, boğazını arıtlayıb çəkməyə başladı. Sifətində qəribə ifadə vardı: elə bil dadlı bir şey yeyirdi. Birdən Movses Sergeyeviçdən soruşdu:
 
-@@ 296
+@@ 148
 
 Sən bilən, bu yay dava başlamaz ki?
 
@@ -6110,7 +6110,7 @@ Bir milyon iki yüz min. Səbzəli dayının ajoqu qurtardı. Fikirləşdi ki, o
 
 Səbzəli dayının gözləri qabağına təzəcə təmir olunmuş “kukla” kimi göyçək otaq gəldi. Taxta çarpayımı da gördü. Gördü ki, Movses Sergeyeviç qonaq gəlib, samovar pıqqapıqla qaynayır, çarpayıda bardaş qurub oturub ordan-burdan söhbət eləyirlər, televizora baxırlar. Bayırda da qar dizəcəndir. Bəh-bəh!
 
-@@ 297
+@@ 149
 
 Bu, birinci dəfə deyildi. Həmişə pul söhbəti, özü də az pul, on-on beş manat yox, çox pul, miqdarı yüz mini, milyonu aşan pul söhbəti Səbzəli dayının beynini yerindən oynadırdı. Başqa vaxt kefi duru olanda belə nə qədər əlləşirdisə, nə qədər hıqqanırdısa yaxşı, ürəkaçan bir şey xatırlaya bilmirdi. Elə bil ömrü yarısı olan xatirələr, keçmiş günlər birdəfəlik onunla şərt kəsmişdilər: bizi havayı çağırma, gələn deyilik...
 
@@ -6118,7 +6118,7 @@ Bu, birinci dəfə deyildi. Həmişə pul söhbəti, özü də az pul, on-on be�
 
 Əvvəla, orda, keçmişdə adamı “ajoq” eləyən yumurtanın qayğanağı yox idi. Orda təzə qoyun əti, qatıq vardı, süd vardı. Orda qaz yanmırdı. Quyunun yanında, meh tutan yerdə balaca ocaq qalanmışdı. Bürkü olanda tüstüsü burula-burula yuxarı qalxıb, qarağacın budaqları arasından süzülüb ulduzların yanına gedirdi. Orda Movses Sergeyeviççin tövşük səsi, Yaponiya barədə, Karlsbad duzu haqqında uzun-uzadı söhbətləri də yox idi... Bir səs hərdən iki-üç kəlmə deyirdi: “Qurban olum, get yat”. O biri səs:” Ədə, nə zırrama adamsan, get yat demirlər sənə!” Səbzəli dayının öz səsi:”Yuxum gəlmir”. Sonra yenə birinci səs: “Dəymə uşağa, qoy otursun...”. Bu səsin şirin dadı indiyə kimi Səbzəli dayının damağında qalmışdı. Bu, bir milyon iki yüz minin təxminən üç yüz mini. Yerdə qalır doqquz yüz min... Gilavar, xəzri əsəndə hovuzun suyunda əks olunan ulduzlar bir-birinə qarışıb yox olurdu. Səbzəli dayıya elə gəlirdi ki, ulduzları ikibir-üçbir udan hovuzdakı qızıl balıqlardır, külək dayanan kimi yenə suya buraxacaqlar. Hovuzun üstündə, iri məcməyinin içində anası həmişə üzüm saxlardı. Səbzəli dayı bir salxım götürüb, hər gilədə axşam aşının sərin təməsını hiss edə-edə üzüm yeyərdi. Sonra yenə səs gəlirdi: “Ədə, ay uşaq, ay Səbzəli, ay ciyəri yanmış, gəl yat!” O biri səs:” Tez ol, qulyabanı gəlib yeyəcək səni”. Səbzəli dayı əllərini qoşalayıb ağzına aparırdı, qışqırırdı: “Yeməz!” Doğrudan da nə o gecə, nə də ondan sonrakı gecələr qulyabanı Səbzəli dayını yemirdi... Həyətin o başında yatırdı. Amma Səbzəli dayı qorxmurdu, gecələr ora da gedirdi. Oturub ayaqlarını quma basdırırdı. Günorta ocaq kimi qızıb isti püskürən qum, axşamlar, gün batandan sonra soyuyub bumbuz olurdu. Səbzəli dayının cavan xalası deyirdi ki, gecələr odabaşı cəhənnəmdə tiyanları söndürür, ona görə qum soyuyurdu. Anasından da çox istədiyi xalasının
 
-@@ 298
+@@ 149
 
 >>səsi Səbzəli dayının yadında deyildi: bu səs elə yerdə gizlənmişdi ki, üzə çıxması üçün azı iki milyon lazımdı...
 
@@ -6126,7 +6126,7 @@ Vaxt azdı. Çox azdı. Movses Sergeyeviçin yanında oturub, bir milyon iki yü
 
 Səbzəli deyərdi ki, oğlumu oxutdurub narkom eləyəcəyəm. Anası da deyərdi “Allah qoysa”. Bir nənəsi heç nə deməzdi. Başını bulaya burnunun altında deyinərdi. Səbzəli dayının nənəsinin narkom tayfasından zəhləsi gedərdi. Bundan başqa, atası deyərdi ki, adam gərək bir işdən yapışanda möhkəm yapışsın, kişi olan kəs gərək işləsin, daşdan da pul çıxartsın, nə bilim daha neyləsin. Amma nə atası deyən oldu, nə anası deyən. Səbzəli dayının hələ səkkiz yaşı tamam olmamışdı ki, evlərinə vay-şüvən düşdü, qapıları açıq qaldı. Bir-birinin dalınca əvvəlcə nənəsi, sonra atası, lap sonra da anası öldü. Çox-çox sonralar Səbzəli dayının özünün dediyi kimi, əhvalat beş ayın müddətində vaqe olub qurtardı. Səbzəli dayı köçdü xalasıgilə. Gecələr xalası ağlayanda Səbzəli də durub ağladı, xalası toxtayanda o da toxtadı. İlk günlər Səbzəli dayı xalasıgildə dura bilmirdi, evlərinə qayıtmaq istəyirdi, ağlayıb, sısqayıb, iki ayağımı bir başmağa dirəyib dönə-dönə xalasına yalvarırdı ki, apar məni evə. Xalası da onu qorxuzmaq, birdəfəlik bu fikirdən döndərmək məqsədi ilə deyirdi evə qayıtsan, Əzrayıl gəlib səni aparacaq, necə ki, nənəni, atanı və ananı apardı. Amma Səbzəli dayı nə qədər çalışırdısa heç cür təsəvvür eləyə
 
-@@ 299
+@@ 150
 
 Sözlər bilmirdi ki, onun atası kimi yekəpər, ağır adamı Əzrayıl necə qoltuğunakinə vurub aparıb... Bəs necə oldu ki, Səbzəli dayı kontrabas çalmağa başladı? Bu, uzun və xoşagəlməz əhvalatdır. Soruşanda cavab verir ki, hər adamın alnına bir şey yazılır. Mənim də alnıma bu yazılıbmış... Yazılıb ki, sən gərək kontrabas çalasan, çünki yazıya pozu yoxdur.
 
@@ -6144,7 +6144,7 @@ Onu həkimin yanına göndərdilər. Həkimin sərəncamı ilə Səbzəli dayı 
 
 Səbzəli dayı kisəsini dalına alıb tez-tələsik evə qayıtdı. Cəmi səkkiz yumurtası vardı, beşini aparıb elə həmin gün Ətağaya nəzir verdi. Sonra üç gün evdən eşiyə çıxmadı. Qorxdu ki, birdən yekəqarın həkim fikrini dəyişər, adam göndərib Səbzəli dayını təzədən apartdırar hərbi komissarlığa, ordan da basarlar birbaş davaya. Səbzəli
 
-@@ 300
+@@ 150
 
 >>dayı davaya getmək istəmirdi, heç istəmirdi. Çünki bilirdi, əmin idi ki, elə birinci gün onu vurub öldürəcəklər. İndi Səbzəli dayı dünyada iki şeydən qorxurdu: bir Əzrayıldan, bir də faşistdən... Məhəllədə danışırdılar ki, sovet əsgərləri almanların əlinə düşən kimi bir-bir tutub süngüyə keçirirlər. “Allah, özün uzaq elə, – deyə Səbzəli dayı fikirləşdi. – Mən yazığın başından qada-balanı uzaq elə, qoyma bu cavan vaxtımda qara torpaq udsun məni”.
 
@@ -6174,7 +6174,7 @@ Müstəntiq dedi:
 
 Səbzəli dayı məsələnin nə yerdə olduğunu anladı. Dili birdən açıldı, başa düşdü ki, danışmalıdı, mütləq özünü müdafiə etməlidir.
 
-@@ 301
+@@ 151
 
 – Vallah, mən heç nə deməmişəm, Allaha and olsun heç nədən xəbərim yoxdur. O gün məhəllədə uşaq-muşaq danışırdı ki, Hitler qoşununu Bakıya göndərmək istəyir. Mən də onların ağzından vurdum, dedim utanmırsız belə axmaq şeylər danışırsınız? O ki qaldı Hitlerin məsələsi, onu Kərimin oğlu Qulyabanı Həsən deyirdi! Vicdan haqqı! Mən bəgəm başa düşmürəm?! Yoldaş Stalin özü əmr eləyib ki, kim Bakını Hitlerə versə tutub güllələsinlər. Əgər bilmək istəyirsiz mən bir-iki dəfə Quleybanı Həsənin üzünə də tüpürmüşəm belə-belə sözlərin üstündə. Bütün məhəllə, Allah şahididir, vallah, mənim heç nədən xəbərim yoxdur. Dayı nədir? Allah onu vurmuşdu o mənim dayım olsun! Zəhləm onun sir-sifətindən gedir. Özüm neçə dəfə davaya dobrovol getmək istəmişəm, aparmayıblar. Həkimlər qoymayıb. Dayı ha? Qohum-əqrəbadan bir xalam vardı, o da bu yaxında rəhmətə gedib. Vicdan haqqı düz deyirəm. Hələ ili çıxmayıb. Dayım-zadım anadangəlmə olmayıb. Atamın goru haqqı düz deyirəm. Hitler nemes, mən müsəlman. O hara, mən hara! Kül qoyum onun başına... Adama da oxşamır... Mən zaddı...
 
@@ -6204,7 +6204,7 @@ Səbzəli dayı başını aşağı saldı. Qaldıranda gördü ki, müstəntiq b
 
 Müstəntiq ona əziyyət verməsə də, işi clə gətirdi ki, düz bir həftədən sonra Səbzəli dayıya iş kəsdilər. Dörd il. Kontrabas çalmağı da Səbzəli dayı qazamatda öyrəndi. Bədii özfəaliyyət dərnəyində.
 
-@@ 302
+@@ 151
 
 301 Əgər əvvəllər Səbzəli dayı iki şeydən – Əzrayıldan və davadan qorxurdusa, indi bu qorxunun üçüncüsü də artdı. Qazamat. Qazamatın adamın sümüklərini şaqqıldadan zirzəmi soyuğu, dustaqların içində hər addımbaşı rast gəldiyi anasının əmcəyini kəsənlər, gündə bir dəfə içdiyi, əncir şirəsi kimi bulanıq olan horra, ağac göbəleyitək rütubət qoxuyan çörək və sair bu kimi adamın ömrünü gödəldən şeylər. Bütün bunların ucbatından Səbzəli dayı başladı günbəgün, saatbasaat ət töküb arıqlamağa. Arıqladı, arıqladı, oldu bir dəri, bir sümük. Ac toyuq yuxusunda darı görən kimi o da gecələr yuxuda qoyun əti gördü, aş yedi, ayran içdi...
 
@@ -6214,7 +6214,7 @@ Qazamatda bədii özfəaliyyət dərnəyi vardı. Yeddi nəfərdən ibarət. Qal
 
 Bayıl türməsindən min beş yüz nəfər, Göndərirlər bizi Sibirə tərəf.
 
-@@ 303
+@@ 152
 
 Amandır, amandır, anam, ağlama, Ölməmişəm, sağam, bacım, ağlama.
 
@@ -6236,7 +6236,7 @@ Movses Sergeyeviç odekolonu götürüb onun əllərinə fısıldatdı, bir abba
 
 ...Restoranın iri, işıqlı zalında bir uğultu vardı ki, elə bil vağzaldı. Neçə il idi ki, Səbzəli dayı bu restoranda işləyirdi, hər gün qara, nimdaş paltosunu geyib, maşından, avtobusdan ehtiyat etdiyi üçün yolunu xəlvət küçələrdən salıb, “cəhənnəmə ki!” deyə–deyə bura
 
-@@ 304
+@@ 152
 
 >>gəlirdi. Amma bütün bu illər ərzində o bu boğuq, payız zökəmi kimi labüd uğultuya öyrəşə bilməmişdi. O, qeyri-adi büzüşürdü, zəhlətökən səs-küydən, insan gülüşündən gizlənmək, qorunmaq istəyirmiş kimi, başını sinəsinə əyib, restoranın qapısından səhnəyə qədər olan kiçik məsafəni qət edincə elə bil o dünyanın görüb qayıdırdı.
 
@@ -6248,7 +6248,7 @@ Səbzəli dayı arxadan Adıgözəlin yoğun peysərinə baxa-baxa, ürəyində 
 
 Marş qurtardı. Adıgözəl ağır-ağır geri dönüb “vals” dedi. Orkestr başladı vals çalmağa.
 
-@@ 305
+@@ 153
 
 Müharibə olsa yəqin ki, Adıgözəli aparardılar. Çünki cəmi qırx beş yaşı vardı. Süngüdən-zaddan soxsalar qarnına süngü sınar, vallah! O qədər piyin qabağında süngü davam edər?! Onun qənimi ancaq atomdur. Düz kəlləsinin ortasına düşsə əncilə dönər. Bir milyon iki yüz min! Dədəm vay, gör bir pullar hara gedir...
 
@@ -6258,7 +6258,7 @@ Tənəffüsdə Adıgözəllə Natan Zelmanoviç bir-birinə him-cim eləyib bufe
 
 Səbzəli dayı hələ bayaq, Movses Sergeyeviçin yanında oturduğu zaman qərara gəlmişdi ki, birinci tənəffüsə bufetə gedib əlli qram konyak içsin. Movses Sergeyeviçin atom bombası barədə söhbətindən sonra atasının, nənəsinin, anasının, səsini eşidəndən sonra konyak mütləq lazım idi. Adamın qanı niyə qaralır? Ona görə ki, adam yaşa dolduqca damarlarında qan başlayır qatılaşmağa və hüceyrələrin ki
 
-@@ 306
+@@ 153
 
 >>maqniti azaldı, adam başlayır laxlamağa. Hərdən, lap dilxorçuluq olanda bu bəlanın öhdəsindən ancaq konyak gələ bilər. Amma çox yox. Əlli qram. Çünki alışqana da benzini çox tökəndə görürsən ki, işləmir.
 
@@ -6290,7 +6290,7 @@ Səbzəli dayı çiyinlərini çəkdi: onu kim çağıra bilərdi axı?
 
 Stolun arxasında iki nəfər oturmuşdu. Qara pencəkli, qalstukunun düyümünü aşağı salıb miləmil köynəyinin yaxasını açmış orta yaşlı, ağ sifətli bir kişi. Səbzəli dayının belini əyib xırda addımlarla yaxınlaşdığını görən kimi, göy soğanı dişləri arasına alaraq küt–küt qabağına baxan yoldaşının qulağına nəsə pıçıldadı. Bu, Səbzəli dayının nazə–
 
-@@ 307
+@@ 154
 
 >>rindən yayınmadı. Başa düşdü ki, pıçıltı ona aiddir, özü də, deyəsən, yaxşı pıçıltı deyil. Amma özünü o yerə qoymadı, yanaşıb kəmali-ehtiramla salam verdi. Qara pencəkli əlini uzatdı, yer göstərdi.
 
@@ -6340,7 +6340,7 @@ Səbzəli dayı gülümsünüb stola baxdı. Düz ortada, iri plov boşqabının
 
 Bu vaxt Valya onlara yanaşdı.
 
-@@ 308
+@@ 154
 
 Bir şey lazımdı?
 
@@ -6382,7 +6382,7 @@ Səbzəli dayı dirçəldi, stulunu qabağa çəkib stola dirsəkləndi, yavaş,
 
 – Əlbəttə, muğamat hara, Adıgözəl hara. Əvvəllər heç bilirsən harda işləyirdi? - Səbzəli dayı lap qabağa əyildi. - Ölü basdıran orkestrdə. - Güldü. - Dünyanın işidir də! İndi gətirib qoyublar bura. O da başlayıb mənəm-mənəm deməyə. Muğamat hara, Adıgözəl hara? - O, əlini yellədi, ah çəkdi. Sonra: - Muğamat şərbət kimi şeydir, - dedi, - çalanda gərək ləzzət alasan, oxqay deyəsən. Elə çalasan ki, külli
 
-@@ 309
+@@ 155
 
 >>camaat ayağa qalxıb sənə tamaşa eləsin, qulaq assın... Mən olanda bizim kəndə İrandan bir kamançaçı gəlmişdi. Əşşi, nə deyim! Zalım oğlunun bir barmaqları vardı ki, adamın içi-içalatı od tutub yanırdı. o gedəndən sonra bütün kənd düz bir həftə kefli kimi gəzdi. Deməklə qurtaran şeydir bəyəm? Eh, hanı indi muğamat çalan, muğamatın qədrini bilən?
 
@@ -6416,7 +6416,7 @@ Qara pencəkli:
 
 – Gəl sən bizə bir Bayatı-şiraz çal, biz də çıxaq xəcalətindən.
 
-@@ 310
+@@ 155
 
 – Nədə çalıb?
 
@@ -6446,7 +6446,7 @@ Zaldakılar elə gülüşdülər ki, kontrabasın əcaib qıjıltısını belə 
 
 Yüz manat – iki dənə şax əllilik qoltuq cibində, almaq istədiyi ucuz televizorun xəyalı gözləri qabağında Səbzəli dayı yavaş-yavaş gedirdi.
 
-@@ 311
+@@ 156
 
 Az getdi, üz getdi, sevindiyindən birdən başını qaldırdı. Qaldırdı ki, baxsın görsün yuxarılarda nə var, nə yox?
 
@@ -6460,7 +6460,7 @@ Reanimasiya briqadasının rəhbəri həyətdə, kölgəlikdə oturub dəsmalı 
 
 Sayalı arvad səhər ala-toranda əlində aftafa həyətə enəndə başı üzərində uğultu eşitmişdi, yuxarı baxanda görmüşdü ki, lap kəlləçərxdə bir vertolyot uçur. Qonum-qonşudan xəbər bilmişdi bəs
 
-@@ 312
+@@ 156
 
 >>məsələ nə yerdədir: vertolyotnan gələn həkimlərmiş. Üstəlik feldşer də demişdi ki, uşaq-muşağa, gədə-güdəyə baxan zarafat deyil, “ölü dirildəndilər”. Sayalı arvad həm qorxmuşdu – zarafat deyil, ölü diriltməyin özü elə əslinə baxsan bir növ şeytan əməlidir, Allaha o qədər də xoş getməz belə şeylər, həm də sevindi, ona görə ki, Salahovun baldızı cavanca qızdı, deyilənə görə gözəlliyinə, boy-buxununa söz ola bilməzdi! Allaha belə cavanın ölümü də xoş gedə bilməzdi: onsuz da bu dünya qurulandan bəri qara torpaq o qədər cavan ömrə qəsd eləyib ki! Bir də Sayalı arvad ona görə sevinmişdi ki, altı aydan bəri evdə böyrü üstə düşüb qalmış, bu başı batmış feldşerin ucbatından halı gündən-günə xarablaşan qoca kişisinin dərdinə bir əlac eləyən olsa ancaq Bakıdan gələn həkimlər olar. Tələm-tələsik əl-üzünü yuyub düz kəndin feldşerxanasına yollanmışdı ki, Bakıdan gələn həkimlərdən bəlkə iynədən-zaddan ala bilər.
 
@@ -6472,7 +6472,7 @@ Feldşer də əvvəlcə həkimə baxdı, sonra qəddini düzəldib Sayalı arvad
 
 – Eləmi! – Feldşer bunu elə dedi, elə bil Salahovun baldızı doğrudan ölmüşdü və onu şəxsən özü diriltmişdi.
 
-@@ 313
+@@ 157
 
 – Allah, sənə çox şükür!.. Başına dönüm, a Mahmud, dərdin alım sənin, ona de bizə bir hökumət iynəsi versin. Bəlkə artıq qalmış ola.
 
@@ -6512,7 +6512,7 @@ Həkim feldşerə baxdı:
 
 – Yetmişi ötüb, ağrın ürəyimə. Amma bu azarı olmasaydı polad kimiydi. – Sayalı arvad cavab verdi. – Yaman ağrıları olur. Səhərəcən yatammır. Başına dönüm, ay doxtur, o gətirdiyin iynələrdən bircə-
 
-@@ 314
+@@ 157
 
 «iyini ver, vuraq bizim kişiyə, savabdı. Elə o da hökumət adamı, ömrünü dağda-daşda keçirib, kolxoz qurub, bandit tutub.
 
@@ -6542,7 +6542,7 @@ Sağ-salamat evə gəlib çıxdı. Balaca pilləkənləri qalxıb, eyvanda qalo�
 
 – Tanıdı da sözdümü? Adını çəkən kimi dedi incəli Çərkəzi tanımayan varmı? - Dedi indiyətən Bakıda bilməyiblər yəqin, yoxsa
 
-@@ 315
+@@ 158
 
 >>çoxdan göndərərdilər məni bura... Ayə, ölü dirildirlər, sənin azarın nədi ki!...
 
@@ -6562,7 +6562,7 @@ Sayalı güldü, Çərkəz də. Sayalı:
 
 – Sən, başına dönüm, onu sağalt, mən hər şeyə razı, – dedi.
 
-@@ 316
+@@ 158
 
 Mahmud əlindəki balaca çantanı otağın təkcə pəncərəsi önündəki stolun üstünə qoydu, əllərini bir-birinə sürtdü, çantanı açdı. Dördkünc dəmir qutudan bir dənə ampul götürüb pəncərənin yuxarı hissəsindən gələn işığa tutdu.
 
@@ -6608,7 +6608,7 @@ Mahmud güldü.
 
 – Pah!.. Canın da alardı!
 
-@@ 317
+@@ 159
 
 Çərkəz gÜldü, xırıltılı gülüşü elə bil sinəsində qaynadı.
 
@@ -6656,7 +6656,7 @@ Mahmud yenə saatına baxdı, heç beş dəqiqə keçməmişdi.
 
 Mahmud gedəndən sonra Çərkəz arvadından soruşdu:
 
-@@ 318
+@@ 159
 
 – Az, deyən Mahmud qanıqara getdi?
 
@@ -6702,7 +6702,7 @@ Sayalı arvad stolun altındakı köhnə çamadanı açdı, içindəki mələfə
 
 – Qoy əvvəl çay eləyim.
 
-@@ 319
+@@ 160
 
 – Yox, yubanma, çayı qayıdanda qoyarsan.
 
@@ -6720,7 +6720,7 @@ Sayalı arvad heç nə demədi, bərk-bərk boğazından yapışıb yuxarı qalx
 
 Sayalı arvad çox qaçdı, amma vertolyota çata bilmədi. Üzüqoylu çəmənliyə yıxıldı. Xeyli keçəndən sonra cırcıramaların səsi aydın eşidilməyə başlayanda bildi ki, vertolyot çoxdan uçub gedib. Birtəhər qalxıb oturdu, dizlərini qucaqlayıb, başını da dizləri üstə qoydu. Bilmədi neyləsin, durub evəmi qayıtsın, ya feldşerxanaya gedib Mahmudu tapsın.
 
-@@ 320
+@@ 160
 
-@@ 321
+@@ 161
 

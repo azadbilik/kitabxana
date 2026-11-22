@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 4
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=200
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=100
 status: DRAFT
 ---
 (Əfsanə)

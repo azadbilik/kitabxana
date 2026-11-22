@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 2
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=193
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=97
 status: DRAFT
 ---
 Üçü də cavan, üçü də subay, üçü də yaraşıqlı.

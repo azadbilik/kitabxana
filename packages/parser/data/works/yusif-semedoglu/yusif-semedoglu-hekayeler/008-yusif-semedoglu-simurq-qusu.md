@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 8
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=232
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=116
 status: DRAFT
 ---
 Arxasınca qapı örtülən anda elə bil içərisində nəsə qırıldı. Bir müddət yerinə mıxlanmış kimi dayandı, sonra yan-yörəsinə baxmadan, ağır və üzgün addımlarla kameranın küncünə sarı səndələyərək, üzüqoylu çarpayının üstünə sərildi. Bu gün səhər batqın və soyuq bir səslə deyilmiş sözlər qulağında uğuldadı: “Əsgərov Toğrul Xaspolad oğlu... beş il azadlıqdan məhrum edilir...”

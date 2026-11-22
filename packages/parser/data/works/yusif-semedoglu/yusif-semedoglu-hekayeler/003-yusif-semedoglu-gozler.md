@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 3
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=194
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=97
 status: DRAFT
 ---
 Axşama az qalırdı. İki yalın ortasında görünən günəş yavaş-yavaş saralırdı. Gündüzkü istidən sonra hava bir az soyumuş, səhərdən bəri yerə od püskürən günəş sanki yorulub gücdən düşməyə başlamışdı.

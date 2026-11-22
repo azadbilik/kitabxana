@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 15
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=294
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=147
 status: DRAFT
 ---
 Tavanı tələm-tələsik krantda yuyub Səbzəli dayı bir yumurta sındırdı. (Bir yumurtadan artıq yeyə bilməzdi, Həkim qadağan eləmişdi). Dibi qapqara qaralıb ortadan çatlamış tavanın içindəki yumurta sarısı Səbzəli dayının bir dəqiqə bundan qabaq pəncərədən gördüyü aya oxşadı. Yumurta sarısı da üfüq xəttinin üzərində sallanıb durmuş taqətsiz ay kimi adamın ürəyini sıxırdı... Səbzəli dayının yadına düşdü ki, gərək əvvəlcə tavaya yağ salaydı, sonra yumurta. Yağ tamam yadından çıxmışdı. Hirsləndi, Ürəyində “cəhənnəmə ki!” deyib yağ qabını götürdü, tavaya bir qaşıq yağ qoydu, qazı yandırdı. Siftə tikəni ağzına aparan kimi hiss elədi ki, yumurtanın ağı bişib, amma sarısı soyuqdur. İkinci dəfə “cəhənnəmə ki!” dedi.

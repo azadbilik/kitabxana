@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 14
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=280
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=140
 status: DRAFT
 ---
 Ölüm var ölümdü, ölüm də var zülümdü

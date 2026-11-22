@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 10
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=256
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=128
 status: DRAFT
 ---
 Cığırın qırağındakı, üstünə işıq düşəndə gümüşdən tökülmüş kimi görünən bu hamar daş, vaxtilə dağların başından axıb çağlaya-çağlaya bu yerlərdən keçən böyük bir çaydan yadigar qalmışdı.

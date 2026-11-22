@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 11
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=261
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=131
 status: DRAFT
 ---
 O, evə qayıdanda arvadı hələ yatmamışdı. Dama-dama, yaşıl süfrəli stolun üstündə bir termos və içində səliqə ilə kəsilmiş iki yaxma olan qırmızı haşiyəli boşqab vardı. Arvadı stola dirsəklənib, nazik qaşları altından, geniş açılmış gözlərini ona zilləmişdi.

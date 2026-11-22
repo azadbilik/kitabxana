@@ -9,7 +9,7 @@ scriptDirection: LTR
 genre: PROSE
 order: 12
 sourceNote: >-
-  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=268
+  https://turuz.com/storage/her_konu-2018/2534-Yusif_Semedoghlu-Sechilmish_Eserleri-Baki-2005-161s.pdf#page=134
 status: DRAFT
 ---
 Mühasirəyə düşmüşdülər. Çıxış yolu yox idi. Başı aşağı oturmuşdular. Hər üçü ölümlə üz-üzə dayanmışdı. Lakin heç biri – nə Siyavuş, nə Kərim, nə də Nazim ölmək istəyirdi. İki yol vardı: ya əsirlik, ya da ölüm. Düşmən xəbərdarlıq etmişdi ki, təslim olmasalar atom bombası atacaq. Onların isə atom bombası yox idi. Yadlarından çıxarıb evdə qoymuşdular. Siyavuşun, Kərimin və Nazimin anası Səkinə ələ burada – səngərdə oturmuşdu. O, qucağına sıxdığı balaca bir kuklaya – üç qardaşın bircə bacısı körpə Gülzara layla çalırdı:
