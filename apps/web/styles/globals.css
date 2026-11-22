@@ -964,13 +964,6 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   .reading-toolbar--solo:has(+ .is-poem:is(:lang(fa), :lang(ar), :lang(az-Arab))) { max-width: 48rem; }
 }
 @media (min-width: 60rem) { .reading-toolbar--verse { max-width: 48rem; } }
-.reading-toolbar .lang-tabs { margin: 0; justify-content: flex-start; }
-/* Translator switch, shown when a language has several translations */
-.lang-tabs--versions {
-  flex-wrap:     wrap;
-  margin-bottom: 2rem;
-}
-.lang-tabs--versions .lang-tab { font-style: italic; }
 .reading-toolbar + .reading-column,
 .reading-toolbar + .parallel { margin-top: 2rem; }
 /* On a phone the ornament fills the line, so a lone "Aa" takes a short row under it */
@@ -981,6 +974,243 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
     margin-bottom: 0;
   }
   .reading-toolbar--solo + .reading-column { margin-top: 0.75rem; }
+}
+
+/* ── What is read: language, translator, beside the original ──
+   Wide screens: a segmented row of languages, under it the translators and the
+   side-by-side switch. Phones: one button that opens the same choices as a sheet */
+.reading-toolbar--switch {
+  flex-direction: column;
+  align-items:    stretch;
+  gap:            0.6rem;
+  padding-bottom: 0.75rem;
+  border-bottom:  1px solid var(--rule);
+}
+.reading-toolbar-row {
+  display:     flex;
+  align-items: center;
+  gap:         0.6rem;
+  min-width:   0;
+}
+/* A poem shrinks to its longest line and centres, so its controls may run a little wider
+   than the column: room for two translators' names beside the switch */
+.reading-toolbar--switch:not(.reading-toolbar--wide, .reading-toolbar--verse):has(~ .reading-column.is-poem) { max-width: 40rem; }
+/* Only "Aa": it is the toolbar's own child again */
+.reading-toolbar--solo .reading-toolbar-row { display: contents; }
+
+.lang-seg {
+  display:       flex;
+  gap:           0.25rem;
+  padding:       0.25rem;
+  background:    var(--surf);
+  border-radius: var(--radius);
+}
+.lang-seg-item {
+  flex:            1 1 0;
+  min-width:       0;
+  padding:         0.5rem;
+  border-radius:   max(2px, calc(var(--radius) - 0.25rem));
+  font-family:     var(--font-ui);
+  font-size:       0.85rem;
+  font-weight:     700;
+  text-align:      center;
+  text-decoration: none;
+  color:           var(--ink);
+  white-space:     nowrap;
+  overflow:        hidden;
+  text-overflow:   ellipsis;
+  transition:      background 0.12s, color 0.12s;
+}
+.lang-seg-item:hover:not([aria-current]) { background: var(--surf-2); color: var(--ink); }
+.lang-seg-item[aria-current] { background: var(--pomeg-fill); color: #fff; }
+
+.reading-versions {
+  flex:        1;
+  min-width:   0;
+  display:     flex;
+  flex-wrap:   wrap;
+  align-items: baseline;
+  gap:         0.1rem 0.9rem;
+  font-family: var(--font-ui);
+  font-size:   0.8rem;
+  color:       var(--muted);
+}
+.reading-version {
+  padding:         0.3rem 0;
+  border-bottom:   2px solid transparent;
+  color:           var(--muted);
+  text-decoration: none;
+}
+a.reading-version:hover { color: var(--ink); }
+.reading-version[aria-current] {
+  color:               var(--pomeg);
+  font-weight:         700;
+  border-bottom-color: currentColor;
+}
+
+.reading-switch {
+  display:     inline-flex;
+  align-items: center;
+  gap:         0.5rem;
+  padding:     0.3rem 0;
+  border:      0;
+  background:  none;
+  color:       var(--ink);
+  font-family: var(--font-ui);
+  font-size:   0.8rem;
+  cursor:      pointer;
+}
+.reading-switch-track {
+  position:      relative;
+  flex:          none;
+  width:         2.25rem;
+  height:        1.25rem;
+  border-radius: 999px;
+  background:    var(--control);
+  transition:    background 0.15s;
+}
+.reading-switch-track::after {
+  content:       '';
+  position:      absolute;
+  top:           0.125rem;
+  left:          0.125rem;
+  width:         1rem;
+  height:        1rem;
+  border-radius: 50%;
+  background:    #fff;
+  transition:    transform 0.15s;
+}
+.reading-switch[aria-checked='true'] .reading-switch-track { background: var(--pomeg-fill); }
+.reading-switch[aria-checked='true'] .reading-switch-track::after { transform: translateX(1rem); }
+
+.reading-toolbar-parallel {
+  display:            flex;
+  padding-inline-end: 0.6rem;
+  border-inline-end:  1px solid var(--rule);
+}
+.reading-toolbar-parallel:empty { display: none; }
+
+.reading-pick {
+  display:         none;
+  position:        relative;
+  flex:            1;
+  min-width:       0;
+  align-items:     center;
+  justify-content: space-between;
+  gap:             0.5rem;
+  min-height:      2.75rem;
+  padding:         0.4rem 0.9rem;
+  border:          0;
+  border-radius:   var(--radius);
+  background:      var(--surf);
+  color:           var(--ink);
+  font-family:     var(--font-ui);
+  text-align:      start;
+  cursor:          pointer;
+}
+.reading-pick svg { flex: none; color: var(--pomeg); }
+.reading-pick-text { display: flex; flex-direction: column; min-width: 0; }
+.reading-pick-lang { font-size: 0.9rem; font-weight: 700; }
+.reading-pick-version {
+  font-size:     0.75rem;
+  color:         var(--muted);
+  white-space:   nowrap;
+  overflow:      hidden;
+  text-overflow: ellipsis;
+}
+
+@media (max-width: 40rem) {
+  .lang-seg,
+  .reading-toolbar--switch > .reading-select,
+  .reading-versions,
+  .reading-toolbar-parallel { display: none; }
+  .reading-pick { display: flex; }
+  .reading-toolbar--switch { padding-bottom: 0; border-bottom: 0; }
+}
+
+/* The sheet — native <dialog> at the foot of the screen */
+.reading-sheet {
+  margin:        auto 0 0;
+  width:         100%;
+  max-width:     100%;
+  max-height:    85dvh;
+  border:        0;
+  padding:       0;
+  border-radius: var(--radius-xl, 8px) var(--radius-xl, 8px) 0 0;
+  background:    var(--bg);
+  color:         var(--ink);
+  box-shadow:    var(--shadow-pop);
+}
+.reading-sheet::backdrop { background: rgba(10, 12, 16, 0.45); }
+:root:has(.reading-sheet[open]) { overflow: hidden; }
+.reading-sheet-panel {
+  display:        flex;
+  flex-direction: column;
+  gap:            1.25rem;
+  padding:        0.6rem 1rem calc(1rem + env(safe-area-inset-bottom));
+  font-family:    var(--font-ui);
+}
+.reading-sheet-handle {
+  align-self:    center;
+  width:         2.5rem;
+  height:        0.25rem;
+  border-radius: 999px;
+  background:    var(--surf-2);
+}
+.reading-sheet-key { margin-bottom: 0.5rem; font-size: 0.8rem; color: var(--muted); }
+.reading-sheet-langs { display: grid; grid-template-columns: 1fr 1fr; gap: 0.5rem; }
+.reading-sheet-lang {
+  display:         flex;
+  align-items:     center;
+  justify-content: center;
+  min-height:      3rem;
+  padding:         0.5rem;
+  border-radius:   var(--radius);
+  background:      var(--surf);
+  color:           var(--ink);
+  font-size:       0.9rem;
+  font-weight:     700;
+  text-align:      center;
+  text-decoration: none;
+}
+.reading-sheet-lang[aria-current] { background: var(--pomeg-fill); color: #fff; }
+.reading-sheet-versions { display: flex; flex-direction: column; }
+.reading-sheet-version {
+  display:         flex;
+  align-items:     center;
+  gap:             0.75rem;
+  min-height:      2.75rem;
+  color:           var(--ink);
+  font-size:       0.9rem;
+  text-decoration: none;
+}
+.reading-sheet-radio {
+  flex:          none;
+  width:         1.25rem;
+  height:        1.25rem;
+  border:        2px solid var(--control);
+  border-radius: 50%;
+}
+[aria-current] > .reading-sheet-radio {
+  border-color: var(--pomeg-fill);
+  background:   radial-gradient(circle, var(--pomeg-fill) 0 42%, transparent 48%);
+}
+.reading-sheet-parallel { padding-top: 0.75rem; border-top: 1px solid var(--rule); }
+.reading-sheet-parallel .reading-switch {
+  flex-direction:  row-reverse;
+  justify-content: space-between;
+  width:           100%;
+  min-height:      2.75rem;
+  font-size:       0.9rem;
+}
+.reading-sheet-done { width: 100%; justify-content: center; min-height: 3rem; }
+@media (prefers-reduced-motion: no-preference) {
+  .reading-sheet[open] { animation: reading-sheet-in 0.22s cubic-bezier(0.16, 1, 0.3, 1); }
+  @keyframes reading-sheet-in { from { transform: translateY(100%); } }
+}
+@media (pointer: coarse) {
+  .lang-seg-item { display: flex; align-items: center; justify-content: center; min-height: 2.75rem; }
+  .reading-version, .reading-switch { display: inline-flex; align-items: center; min-height: 2.75rem; }
 }
 
 .reading-select {

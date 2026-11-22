@@ -27,9 +27,9 @@ export interface ShownTranslation {
 /** What is read: the original alone, one translation alone, or the two side by side */
 export type ReadingMode = 'original' | 'translation' | 'parallel';
 
-/** A way to read the text: the original alone, a translation alone, or the two side by side */
+/** A text to read: the original, or a language it is translated into */
 export interface LangChoice {
-  /** 'original', 'parallel' or a language enum */
+  /** 'original' or a language enum */
   key: string;
   href: string;
   active: boolean;
@@ -53,6 +53,8 @@ interface Props {
   /** False for a work kept only in translation */
   hasOriginal: boolean;
   choices: LangChoice[];
+  /** The other side of the side-by-side switch; null when there is nothing to pair */
+  parallelHref: string | null;
   versions: VersionChoice[];
   /** The work has at least one translation, shown or not */
   translated: boolean;
@@ -73,8 +75,7 @@ interface Props {
 }
 
 const ORIGINAL = 'original';
-const PARALLEL = 'parallel';
-// More choices than this (original, three languages, side by side) become a select
+// More choices than this (original and four languages) become a select on a wide screen
 const MAX_SEGMENTS = 5;
 // Texts longer than this many lines open folded, culture.ru-style, showing the first part
 const LONG_LINES = 40;
@@ -99,6 +100,7 @@ export function ReadingView({
   view,
   hasOriginal,
   choices,
+  parallelHref,
   versions,
   translated,
   originalLang,
@@ -148,7 +150,7 @@ export function ReadingView({
       ? `${langTag[originalLang].split('-')[0]}-Latn`
       : langTag[originalLang];
   const langName = (lang: string) =>
-    lang === ORIGINAL ? t('original_option') : lang === PARALLEL ? t('parallel_option') : tc(`lang.${lang}` as any);
+    lang === ORIGINAL ? t('original_option') : tc(`lang.${lang}` as any);
   // On a button the script note goes ("Azərbaycanca (latın)" → "Azərbaycanca") unless
   // another choice has the same name without it: the row then fits a phone's width
   const bare = (name: string) => name.replace(/\s*\(.*\)$/, '');
@@ -236,42 +238,35 @@ export function ReadingView({
       : null;
 
   // Each choice is a link: the server sends the page with that translation, and only that one
-  const control =
-    choices.length > 1 &&
-    (choices.length <= MAX_SEGMENTS ? (
-      <div className="lang-tabs" role="group" aria-label={t('read_as')}>
-        {choices.map((choice) => (
-          <Link
-            key={choice.key}
-            href={choice.href}
-            replace
-            scroll={false}
-            prefetch={false}
-            className={`lang-tab${choice.active ? ' active' : ''}`}
-            aria-current={choice.active ? 'true' : undefined}
-          >
-            {choiceName(choice.key)}
-          </Link>
-        ))}
-      </div>
-    ) : (
-      <label className="reading-select">
-        <span>{t('read_as')}</span>
-        <select
-          value={choices.find((choice) => choice.active)?.key ?? ORIGINAL}
-          onChange={(e) => {
-            const next = choices.find((choice) => choice.key === e.target.value);
-            if (next) router.replace(next.href, { scroll: false });
-          }}
-        >
-          {choices.map((choice) => (
-            <option key={choice.key} value={choice.key}>
-              {langName(choice.key)}
-            </option>
-          ))}
-        </select>
-      </label>
-    ));
+  const control = choices.length > 1;
+  const active = choices.find((choice) => choice.active);
+  const shownVersion = versions.findIndex((tr) => tr.active);
+  const goTo = (href: string) => router.replace(href, { scroll: false });
+
+  const parallelSwitch = (label: string) =>
+    parallelHref && (
+      <button
+        type="button"
+        role="switch"
+        aria-checked={Boolean(parallel)}
+        className="reading-switch"
+        onClick={() => goTo(parallelHref)}
+      >
+        <span className="reading-switch-track" aria-hidden="true" />
+        <span className="reading-switch-label">{label}</span>
+      </button>
+    );
+
+  // The phone's sheet: a native <dialog>, so focus stays inside it and Esc closes it.
+  // It stays open while choices are made (each one a navigation that keeps this component)
+  const [sheetOpen, setSheetOpen] = useState(false);
+  const sheetRef = useRef<HTMLDialogElement>(null);
+  useEffect(() => {
+    const sheet = sheetRef.current;
+    if (!sheet) return;
+    if (sheetOpen && !sheet.open) sheet.showModal();
+    if (!sheetOpen && sheet.open) sheet.close();
+  }, [sheetOpen]);
 
   return (
     <div className="reading" id="text" tabIndex={-1}>
@@ -284,10 +279,161 @@ export function ReadingView({
               : isPoem && soloDir === 'rtl'
                 ? ' reading-toolbar--verse'
                 : ''
-        }`}
+        }${control ? ' reading-toolbar--switch' : ''}`}
       >
-        {control || <span />}
-        <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} hasGlossary={hasGlossary} />
+        {control &&
+          (choices.length <= MAX_SEGMENTS ? (
+            <div className="lang-seg" role="group" aria-label={t('read_as')}>
+              {choices.map((choice) => (
+                <Link
+                  key={choice.key}
+                  href={choice.href}
+                  replace
+                  scroll={false}
+                  prefetch={false}
+                  className="lang-seg-item"
+                  aria-current={choice.active ? 'true' : undefined}
+                >
+                  {choiceName(choice.key)}
+                </Link>
+              ))}
+            </div>
+          ) : (
+            <label className="reading-select">
+              <span>{t('read_as')}</span>
+              <select
+                value={active?.key ?? ORIGINAL}
+                onChange={(e) => {
+                  const next = choices.find((choice) => choice.key === e.target.value);
+                  if (next) goTo(next.href);
+                }}
+              >
+                {choices.map((choice) => (
+                  <option key={choice.key} value={choice.key}>
+                    {langName(choice.key)}
+                  </option>
+                ))}
+              </select>
+            </label>
+          ))}
+
+        <div className="reading-toolbar-row">
+          {control && (
+            <>
+              {/* Wide screens: the translators of the language being read */}
+              <div className="reading-versions" role="group" aria-label={t('version_label')}>
+                {translation && shownVersion >= 0 && (
+                  <>
+                    <span className="reading-versions-key" aria-hidden="true">{t('mode_translation')}</span>
+                    {versions.length > 1 ? (
+                      versions.map((tr, i) => (
+                        <Link
+                          key={tr.id}
+                          href={tr.href}
+                          replace
+                          scroll={false}
+                          prefetch={false}
+                          className="reading-version"
+                          aria-current={tr.active ? 'true' : undefined}
+                        >
+                          {versionLabel(tr, i)}
+                        </Link>
+                      ))
+                    ) : (
+                      <span className="reading-version">{versionLabel(versions[shownVersion], shownVersion)}</span>
+                    )}
+                  </>
+                )}
+              </div>
+
+              {/* Phones: one button names what is read and opens the choices as a sheet */}
+              <button
+                type="button"
+                className="reading-pick"
+                aria-haspopup="dialog"
+                onClick={() => setSheetOpen(true)}
+              >
+                <span className="sr-only">{t('read_as')}: </span>
+                <span className="reading-pick-text">
+                  <span className="reading-pick-lang">{active ? choiceName(active.key) : t('original_option')}</span>
+                  {translation && shownVersion >= 0 && (
+                    <span className="reading-pick-version">{versionLabel(versions[shownVersion], shownVersion)}</span>
+                  )}
+                </span>
+                <svg aria-hidden="true" viewBox="0 0 16 16" width="16" height="16" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round">
+                  <path d="m4 6 4 4 4-4" />
+                </svg>
+              </button>
+
+              <span className="reading-toolbar-parallel">{parallelSwitch(t('parallel_option'))}</span>
+            </>
+          )}
+          <AppearancePopover prefs={prefs} onUpdate={updatePrefs} isPoem={isPoem} hasGlossary={hasGlossary} />
+        </div>
+
+        {control && (
+          // Esc closes it; the click is only for the backdrop
+          // eslint-disable-next-line jsx-a11y/click-events-have-key-events, jsx-a11y/no-noninteractive-element-interactions
+          <dialog
+            ref={sheetRef}
+            className="reading-sheet"
+            aria-label={t('read_as')}
+            onClose={() => setSheetOpen(false)}
+            onClick={(e) => {
+              // The panel fills the dialog's box: a click on the dialog itself is on the backdrop
+              if (e.target === e.currentTarget) setSheetOpen(false);
+            }}
+          >
+            {sheetOpen && (
+              <div className="reading-sheet-panel">
+                <span className="reading-sheet-handle" aria-hidden="true" />
+                <div role="group" aria-labelledby="reading-sheet-lang">
+                  <p className="reading-sheet-key" id="reading-sheet-lang">{t('sheet_language')}</p>
+                  <div className="reading-sheet-langs">
+                    {choices.map((choice) => (
+                      <Link
+                        key={choice.key}
+                        href={choice.href}
+                        replace
+                        scroll={false}
+                        prefetch={false}
+                        className="reading-sheet-lang"
+                        aria-current={choice.active ? 'true' : undefined}
+                      >
+                        {choiceName(choice.key)}
+                      </Link>
+                    ))}
+                  </div>
+                </div>
+                {translation && versions.length > 1 && (
+                  <div role="group" aria-labelledby="reading-sheet-version">
+                    <p className="reading-sheet-key" id="reading-sheet-version">{t('mode_translation')}</p>
+                    <div className="reading-sheet-versions">
+                      {versions.map((tr, i) => (
+                        <Link
+                          key={tr.id}
+                          href={tr.href}
+                          replace
+                          scroll={false}
+                          prefetch={false}
+                          className="reading-sheet-version"
+                          aria-current={tr.active ? 'true' : undefined}
+                        >
+                          <span className="reading-sheet-radio" aria-hidden="true" />
+                          {versionLabel(tr, i)}
+                        </Link>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                {parallelHref && <div className="reading-sheet-parallel">{parallelSwitch(t('with_original'))}</div>}
+                <button type="button" className="btn btn-primary reading-sheet-done" onClick={() => setSheetOpen(false)}>
+                  {t('sheet_done')}
+                </button>
+              </div>
+            )}
+          </dialog>
+        )}
       </div>
 
       {isPoem ? (
@@ -316,24 +462,6 @@ export function ReadingView({
       )}
 
       {pagination && <Pager place="top" {...pagination} />}
-
-      {versions.length > 1 && translation && (
-        <div className="lang-tabs lang-tabs--versions" role="group" aria-label={t('version_label')}>
-          {versions.map((tr, i) => (
-            <Link
-              key={tr.id}
-              href={tr.href}
-              replace
-              scroll={false}
-              prefetch={false}
-              className={`lang-tab${tr.active ? ' active' : ''}`}
-              aria-current={tr.active ? 'true' : undefined}
-            >
-              {versionLabel(tr, i)}
-            </Link>
-          ))}
-        </div>
-      )}
 
       {parallel ? (
         <div

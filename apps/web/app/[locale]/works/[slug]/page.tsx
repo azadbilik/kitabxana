@@ -129,13 +129,20 @@ function chooseTranslation(
   const langParams = (key: string): Record<string, string> => (key === fallback ? {} : { lang: key });
   const inView = (params: Record<string, string>) => (parallel ? { ...params, view: PARALLEL } : params);
 
+  // The translation on the page, by its shortest address
+  const shownParams = (): Record<string, string> =>
+    !shown ? langParams(ORIGINAL) : shown === standard ? langParams(lang) : { tr: shown.id };
+
+  // A language keeps the side-by-side view; the original alone leaves it
   const choices: LangChoice[] = [
     ...(withOriginal ? [{ key: ORIGINAL, href: href(langParams(ORIGINAL)), active: view === 'original' }] : []),
-    ...langs.map((key) => ({ key, href: href(langParams(key)), active: view === 'translation' && key === lang })),
-    ...(withOriginal && langs.length > 0
-      ? [{ key: PARALLEL, href: href({ ...langParams(lang), view: PARALLEL }), active: view === 'parallel' }]
-      : []),
+    ...langs.map((key) => ({ key, href: href(inView(langParams(key))), active: Boolean(shown) && key === lang })),
   ];
+  // The switch between a translation alone and beside its original: where its other side is
+  const parallelHref =
+    withOriginal && langs.length > 0
+      ? href(parallel ? shownParams() : { ...shownParams(), view: PARALLEL })
+      : null;
   const versions: VersionChoice[] = inLang.map((tr) => ({
     id: tr.id,
     translator: tr.translator,
@@ -144,7 +151,7 @@ function chooseTranslation(
     href: href(inView(tr === standard ? langParams(lang) : { tr: tr.id })),
     active: tr === shown,
   }));
-  return { shown, view, choices, versions, translated: all.length > 0, withOriginal };
+  return { shown, view, choices, parallelHref, versions, translated: all.length > 0, withOriginal };
 }
 
 const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
@@ -428,6 +435,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
         view={chosen.view}
         hasOriginal={chosen.withOriginal}
         choices={chosen.choices}
+        parallelHref={chosen.parallelHref}
         versions={chosen.versions}
         translated={chosen.translated}
         originalLang={work.originalLang}
