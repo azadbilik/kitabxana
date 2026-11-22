@@ -371,10 +371,12 @@
       "OTHER": "Divan"
     },
     "source_missing": "hələ qeyd olunmayıb",
+    "original_absent": "kitabxanada hələ yoxdur",
     "new_tab": "(yeni pəncərədə açılır)",
     "breadcrumb": "Səhifə yolu",
     "read_as": "Oxu",
     "original_option": "Əsl mətn",
+    "parallel_option": "Paralel",
     "what_is": "{form} nədir?",
     "gloss_maqta": "Son beyt məqtədir: şair orada öz təxəllüsünü çəkir.",
     "appearance_size": "Ölçü",

@@ -22,6 +22,8 @@ const WORK_FIELDS = {
   bodyHtml: true,
 } as const;
 const RTL: Language[] = RTL_LANGUAGES;
+/** Published works whose original is in the library: one kept only in translation has no file */
+const HAS_ORIGINAL = { status: 'PUBLISHED', NOT: { body: '' } } as const;
 
 type AuthorRow = { slug: string; nameAz: string; bornYear: number | null; diedYear: number | null; period: string | null; status: string };
 type WorkRow = { slug: string; titleAz: string; titleFa: string | null; originalLang: Language; body: string; bodyHtml: string | null };
@@ -95,7 +97,7 @@ export class DownloadsService {
       where: { slug, status: 'PUBLISHED' },
       select: { ...WORK_FIELDS, author: { select: AUTHOR_FIELDS } },
     });
-    if (!work) throw new NotFoundException('Work not found');
+    if (!work || !work.body.trim()) throw new NotFoundException('Work not found');
     this.assertPublicDomain(work.author);
 
     const item = this.bookWork(work);
@@ -120,7 +122,7 @@ export class DownloadsService {
         titleAz: true,
         originalLang: true,
         author: { select: AUTHOR_FIELDS },
-        works: { where: { status: 'PUBLISHED' }, orderBy: [{ order: 'asc' }, { createdAt: 'asc' }], select: WORK_FIELDS },
+        works: { where: HAS_ORIGINAL, orderBy: [{ order: 'asc' }, { createdAt: 'asc' }], select: WORK_FIELDS },
       },
     });
     if (!collection) throw new NotFoundException('Collection not found');
@@ -150,11 +152,11 @@ export class DownloadsService {
           orderBy: [{ order: 'asc' }, { createdAt: 'asc' }],
           select: {
             titleAz: true,
-            works: { where: { status: 'PUBLISHED' }, orderBy: [{ order: 'asc' }, { createdAt: 'asc' }], select: WORK_FIELDS },
+            works: { where: HAS_ORIGINAL, orderBy: [{ order: 'asc' }, { createdAt: 'asc' }], select: WORK_FIELDS },
           },
         },
         works: {
-          where: { status: 'PUBLISHED', collectionId: null },
+          where: { ...HAS_ORIGINAL, collectionId: null },
           orderBy: [{ year: 'asc' }, { createdAt: 'asc' }],
           select: WORK_FIELDS,
         },

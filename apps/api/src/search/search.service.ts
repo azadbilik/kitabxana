@@ -290,7 +290,9 @@ export class SearchService implements OnModuleInit {
                 ].reduce<{ html: string; score: number } | null>(
                   (best, e) => (e && (!best || e.score > best.score) ? e : best),
                   null,
-                )?.html ?? (body ? opening(body) : null),
+                )?.html ??
+                // A work kept only in translation opens on its Azerbaijani text
+                (body ? opening(body) : bodyAz ? opening(bodyAz) : null),
             },
           };
         },

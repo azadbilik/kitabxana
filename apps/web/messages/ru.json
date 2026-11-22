@@ -371,10 +371,12 @@
       "OTHER": "Диван"
     },
     "source_missing": "пока не указан",
+    "original_absent": "пока нет в библиотеке",
     "new_tab": "(откроется в новом окне)",
     "breadcrumb": "Навигационная цепочка",
     "read_as": "Читать",
     "original_option": "Оригинал",
+    "parallel_option": "Параллельно",
     "what_is": "Что такое {form}?",
     "gloss_maqta": "Последний бейт — макта: в нём поэт называет свой тахаллус.",
     "appearance_size": "Размер",

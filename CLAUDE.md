@@ -43,7 +43,8 @@ pnpm parse scan-starts [--book anl-8289] [--dry-run]   # after importing a Natio
 
 ## Key architecture decisions
 - **Reading page** is the core experience — every work/poem has its own URL with prev/next navigation within collections
-- **Parallel text** — works have translations (AZ, RU, FA, EN) rendered side-by-side or stacked
+- **Reading modes** — works have translations (AZ, RU, FA, EN); the reading page shows one text at a time (original, or a translation — by default the reader's language) and side by side on `?view=parallel` (stacked beyt by beyt on a phone)
+- **Translation-only works** — a work whose original isn't in the library has `body = ''`, `originalLang` the real original's language, and its text as the default translation; the page shows it alone and says the original is absent, downloads skip it, and `wordCount` comes from the translation (trigger, migration `20261122120000_translation_only_word_count`)
 - **Markdown** for work body storage, rendered to HTML and cached in `bodyHtml`. `renderMarkdown` (`apps/api/src/common/utils/markdown.ts`) sanitises to an allow-list of the tags the library uses; raw HTML in a text is dropped. The parser's importers render on their own (trusted input)
 - **`@@index([collectionId, order])`** on Work — the compound index powers prev/next queries
 - **Translations**: several per language are allowed (different translators); `isDefault` marks the one shown first per work + language, and the first one added becomes the default (one default per work + language is a partial unique index, in a migration only: Prisma's schema cannot express it). The reading page switches versions via `?tr=<id>`

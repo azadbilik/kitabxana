@@ -103,8 +103,14 @@ export async function DownloadBar({ path, author, locale, kind, scans }: Props) 
  * The same downloads as one "Download" button under a text, opening a short list: EPUB and
  * TXT for public-domain authors, the work's pages of the scanned book, and the scan to read.
  */
-export async function DownloadMenu({ path, author, locale, scans }: Omit<Props, 'kind'>) {
-  const publicDomain = isPublicDomain(author);
+export async function DownloadMenu({
+  path,
+  author,
+  locale,
+  scans,
+  originalText = true,
+}: Omit<Props, 'kind'> & { /** False for a work kept only in translation: files hold originals only */ originalText?: boolean }) {
+  const publicDomain = originalText && isPublicDomain(author);
   const books = scans ?? [];
   if (!publicDomain && !books.length) return null;
   const t = await getTranslations({ locale, namespace: 'download' });

@@ -951,7 +951,7 @@ a.pager-step:hover { background: var(--surf); color: var(--pomeg); }
   max-width:       36rem;
   margin:          0 auto 1.25rem;
 }
-.reading-toolbar--wide { max-width: none; }
+.reading-toolbar--wide { max-width: 64rem; }   /* the side-by-side text's width */
 /* Only "Aa" to show: it sits on the ornament line instead of taking a row */
 .reading-toolbar--solo {
   justify-content: flex-end;

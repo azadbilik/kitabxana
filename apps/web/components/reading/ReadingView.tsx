@@ -24,9 +24,12 @@ export interface ShownTranslation {
   scriptDirection: string;
 }
 
-/** A way to read the text: the original alone, or beside a translation in one language */
+/** What is read: the original alone, one translation alone, or the two side by side */
+export type ReadingMode = 'original' | 'translation' | 'parallel';
+
+/** A way to read the text: the original alone, a translation alone, or the two side by side */
 export interface LangChoice {
-  /** 'original' or a language enum */
+  /** 'original', 'parallel' or a language enum */
   key: string;
   href: string;
   active: boolean;
@@ -46,6 +49,9 @@ interface Props {
   body: string;
   /** Chosen on the server from `?lang=` / `?tr=`; switching is a navigation to the choice's href */
   translation: ShownTranslation | null;
+  view: ReadingMode;
+  /** False for a work kept only in translation */
+  hasOriginal: boolean;
   choices: LangChoice[];
   versions: VersionChoice[];
   /** The work has at least one translation, shown or not */
@@ -67,7 +73,9 @@ interface Props {
 }
 
 const ORIGINAL = 'original';
-const MAX_SEGMENTS = 4;
+const PARALLEL = 'parallel';
+// More choices than this (original, three languages, side by side) become a select
+const MAX_SEGMENTS = 5;
 // Texts longer than this many lines open folded, culture.ru-style, showing the first part
 const LONG_LINES = 40;
 const FOLDED_LINES = 24;
@@ -88,6 +96,8 @@ const readingFontValues: Record<ReadingFont, string> = {
 export function ReadingView({
   body: text,
   translation,
+  view,
+  hasOriginal,
   choices,
   versions,
   translated,
@@ -137,7 +147,16 @@ export function ReadingView({
     ['AZ_ARABIC', 'FA', 'AR'].includes(originalLang) && !isArabicScript(body)
       ? `${langTag[originalLang].split('-')[0]}-Latn`
       : langTag[originalLang];
-  const langName = (lang: string) => (lang === ORIGINAL ? t('original_option') : tc(`lang.${lang}` as any));
+  const langName = (lang: string) =>
+    lang === ORIGINAL ? t('original_option') : lang === PARALLEL ? t('parallel_option') : tc(`lang.${lang}` as any);
+  // On a button the script note goes ("Azərbaycanca (latın)" → "Azərbaycanca") unless
+  // another choice has the same name without it: the row then fits a phone's width
+  const bare = (name: string) => name.replace(/\s*\(.*\)$/, '');
+  const choiceName = (key: string) => {
+    const name = langName(key);
+    const short = bare(name);
+    return choices.some((other) => other.key !== key && bare(langName(other.key)) === short) ? name : short;
+  };
 
   const readingVars = {
     '--reading-size': fontSizeValues[prefs.fontSize],
@@ -158,12 +177,20 @@ export function ReadingView({
   const translationAttrs = translation
     ? ({ lang: langTag[translation.language], dir: translation.scriptDirection === 'RTL' ? 'rtl' : 'ltr' } as const)
     : null;
-  // The dictionary reads Azerbaijani in Latin script, the original's or a translation's
-  const hasGlossary = originalTag === 'az-Latn' || translationAttrs?.lang === 'az-Latn';
+  const parallel = view === 'parallel' && translation && translationAttrs;
+  // The one text read on its own: the original, or the translation in its place
+  const solo = view === 'translation' && translation && translationAttrs
+    ? { html: translationHtml, attrs: translationAttrs }
+    : { html: body, attrs: originalAttrs };
+  const soloDir = solo.attrs.dir;
+  // The dictionary reads Azerbaijani in Latin script, of whichever text is on the page
+  const hasGlossary = parallel
+    ? originalTag === 'az-Latn' || translationAttrs?.lang === 'az-Latn'
+    : solo.attrs.lang === 'az-Latn';
 
   // Long poems open folded; decided from the text itself so server and client agree.
   // Prose opens whole: someone who came to read a chapter shouldn't have to unfold it
-  const lines = Math.max(lineCount(body), translation ? lineCount(translationHtml) : 0);
+  const lines = parallel ? Math.max(lineCount(body), lineCount(translationHtml)) : lineCount(solo.html);
   const foldable = isPoem && lines > LONG_LINES;
   const folded = foldable && !expanded;
   const foldClass = folded ? ' is-folded' : '';
@@ -201,8 +228,8 @@ export function ReadingView({
 
   // Line the two texts up beyt by beyt when both split into the same blocks;
   // on a phone this interleaves them instead of stacking two whole poems
-  const originalBlocks = translation ? verseBlocks(body) : null;
-  const translationBlocks = translation ? verseBlocks(translationHtml) : null;
+  const originalBlocks = parallel ? verseBlocks(body) : null;
+  const translationBlocks = parallel ? verseBlocks(translationHtml) : null;
   const rows =
     originalBlocks && translationBlocks && originalBlocks.length === translationBlocks.length
       ? originalBlocks.map((block, i) => [block, translationBlocks[i]] as const)
@@ -223,7 +250,7 @@ export function ReadingView({
             className={`lang-tab${choice.active ? ' active' : ''}`}
             aria-current={choice.active ? 'true' : undefined}
           >
-            {langName(choice.key)}
+            {choiceName(choice.key)}
           </Link>
         ))}
       </div>
@@ -250,11 +277,11 @@ export function ReadingView({
     <div className="reading" id="text" tabIndex={-1}>
       <div
         className={`reading-toolbar${
-          translation
+          parallel
             ? ' reading-toolbar--wide'
             : !control
               ? ' reading-toolbar--solo'
-              : isPoem && originalDir === 'rtl'
+              : isPoem && soloDir === 'rtl'
                 ? ' reading-toolbar--verse'
                 : ''
         }`}
@@ -266,10 +293,11 @@ export function ReadingView({
       {isPoem ? (
         <PoemTimeLeft targetId={textId} minutes={minutes} />
       ) : (
-        <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={originalDir} pagination={pagination} minutes={minutes} />
+        <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={soloDir} pagination={pagination} minutes={minutes} />
       )}
 
-      {!isPoem && sections.length >= MIN_SECTIONS && (
+      {/* The headings are the original's: they lead nowhere in a translation read alone */}
+      {!isPoem && view !== 'translation' && sections.length >= MIN_SECTIONS && (
         <details className="reading-contents">
           <summary>{t('contents')}</summary>
           <ol>
@@ -306,7 +334,7 @@ export function ReadingView({
         </div>
       )}
 
-      {translation && translationAttrs ? (
+      {parallel ? (
         <div
           className={`parallel${foldClass}`}
           style={{ ...readingVars, ...foldVars }}
@@ -345,8 +373,8 @@ export function ReadingView({
           tabIndex={foldable || !isPoem ? -1 : undefined}
           {...numberAttrs}
           {...proseAttrs}
-          {...originalAttrs}
-          dangerouslySetInnerHTML={{ __html: body }}
+          {...solo.attrs}
+          dangerouslySetInnerHTML={{ __html: solo.html }}
         />
       )}
 
@@ -365,7 +393,7 @@ export function ReadingView({
 
       <footer className="provenance">
         <p>
-          <span className="provenance-key">{translation ? t('original_text') : t('source')}</span>
+          <span className="provenance-key">{translation && hasOriginal ? t('original_text') : t('source')}</span>
           {source ? (
             <>
               {source.href ? (
@@ -383,6 +411,12 @@ export function ReadingView({
             <span className="provenance-missing">{t('source_missing')}</span>
           )}
         </p>
+        {!hasOriginal && (
+          <p>
+            <span className="provenance-key">{t(`original_in.${originalLang}` as any)}</span>
+            <span className="provenance-missing">{t('original_absent')}</span>
+          </p>
+        )}
         {translation?.translator && (
           <p>
             <span className="provenance-key">{t('translator')}</span>

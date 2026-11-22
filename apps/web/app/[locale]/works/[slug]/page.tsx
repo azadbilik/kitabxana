@@ -5,7 +5,13 @@ import { localized } from '@/lib/locale';
 import { breadcrumbLd, excerpt, LANGUAGE_TAGS, pageMetadata, publisherLd, sameAs, SITE_URL, fitTitle } from '@/lib/seo';
 import Link from 'next/link';
 import { redirect } from 'next/navigation';
-import { ReadingView, type LangChoice, type ShownTranslation, type VersionChoice } from '@/components/reading/ReadingView';
+import {
+  ReadingView,
+  type LangChoice,
+  type ReadingMode,
+  type ShownTranslation,
+  type VersionChoice,
+} from '@/components/reading/ReadingView';
 import { prosePages } from '@/components/reading/pages';
 import { WorkNavKeys } from '@/components/reading/WorkNavKeys';
 import { JsonLd } from '@/components/seo/JsonLd';
@@ -33,11 +39,17 @@ export const dynamic = 'force-dynamic';
 
 interface Props {
   params: Promise<{ locale: string; slug: string }>;
-  searchParams: Promise<{ p?: string | string[]; lang?: string | string[]; tr?: string | string[] }>;
+  searchParams: Promise<{
+    p?: string | string[];
+    lang?: string | string[];
+    tr?: string | string[];
+    view?: string | string[];
+  }>;
 }
 
 const first = (value: string | string[] | undefined) => (Array.isArray(value) ? value[0] : value);
 const ORIGINAL = 'original';
+const PARALLEL = 'parallel';
 
 const workPath = (locale: string, slug: string) => localePath(locale, `/works/${encodeURIComponent(slug)}`);
 const pagePath = (locale: string, slug: string, n: number) => `${workPath(locale, slug)}${n > 1 ? `?p=${n}` : ''}`;
@@ -64,42 +76,65 @@ function resolvePage(raw: string | string[] | undefined, pageCount: number, loca
   redirect(pagePath(locale, slug, Number.isInteger(n) && n > pageCount ? pageCount : 1));
 }
 
+/** A work kept only in translation: its original is not in the library (yet) */
+const hasOriginal = (work: any) => Boolean((work.body ?? '').trim());
+
 /**
- * Which translation is set beside the original: `?tr=<id>` names one, `?lang=` a language
- * (or `original` for the text alone); otherwise the reader's own language when the work has
- * it, then the default translation. Only the chosen one goes to the browser; the others
- * are links.
+ * What is read: the original alone, one translation alone, or the two side by side
+ * (`?view=parallel`). `?tr=<id>` names a translation, `?lang=` a language (or `original`);
+ * otherwise the reader's own language when the work has it, then the default translation,
+ * shown on its own: a reader who reads Azerbaijani shouldn't scroll past the Persian.
+ * Only the chosen translation goes to the browser; the others are links.
  */
-function chooseTranslation(work: any, locale: string, slug: string, query: { lang?: string; tr?: string }) {
+function chooseTranslation(
+  work: any,
+  locale: string,
+  slug: string,
+  query: { lang?: string; tr?: string; view?: string },
+) {
   const all: any[] = (work.translations ?? []).filter((tr: any) => tr.language !== work.originalLang);
   const langs = [...new Set(all.map((tr) => tr.language as string))];
+  const withOriginal = hasOriginal(work);
   const preferred = LOCALE_LANG[locale];
   const fallback = langs.includes(preferred)
     ? preferred
     : (all.find((tr) => tr.isDefault)?.language ?? langs[0] ?? ORIGINAL);
 
   const named = query.tr ? all.find((tr) => tr.id === query.tr) : undefined;
-  const lang = named?.language ?? (query.lang === ORIGINAL || langs.includes(query.lang ?? '') ? query.lang! : fallback);
+  const asked =
+    named?.language ??
+    ((query.lang === ORIGINAL && withOriginal) || langs.includes(query.lang ?? '') ? query.lang! : fallback);
+  const parallel = withOriginal && langs.length > 0 && query.view === PARALLEL;
+  // Side by side always pairs the original with a translation
+  const lang = parallel && asked === ORIGINAL ? (fallback === ORIGINAL ? langs[0] : fallback) : asked;
   const inLang = lang === ORIGINAL ? [] : all.filter((tr) => tr.language === lang);
   const standard = inLang.find((tr) => tr.isDefault) ?? inLang[0] ?? null;
   const shown = named ?? standard;
+  const view: ReadingMode = !shown ? 'original' : parallel ? 'parallel' : 'translation';
 
   const href = (params: Record<string, string>) => {
     const qs = new URLSearchParams(params).toString();
     return `${workPath(locale, slug)}${qs ? `?${qs}` : ''}`;
   };
   const langParams = (key: string): Record<string, string> => (key === fallback ? {} : { lang: key });
+  const inView = (params: Record<string, string>) => (parallel ? { ...params, view: PARALLEL } : params);
 
-  const choices: LangChoice[] = [ORIGINAL, ...langs].map((key) => ({ key, href: href(langParams(key)), active: key === lang }));
+  const choices: LangChoice[] = [
+    ...(withOriginal ? [{ key: ORIGINAL, href: href(langParams(ORIGINAL)), active: view === 'original' }] : []),
+    ...langs.map((key) => ({ key, href: href(langParams(key)), active: view === 'translation' && key === lang })),
+    ...(withOriginal && langs.length > 0
+      ? [{ key: PARALLEL, href: href({ ...langParams(lang), view: PARALLEL }), active: view === 'parallel' }]
+      : []),
+  ];
   const versions: VersionChoice[] = inLang.map((tr) => ({
     id: tr.id,
     translator: tr.translator,
     type: tr.type,
     year: tr.year,
-    href: href(tr === standard ? langParams(lang) : { tr: tr.id }),
+    href: href(inView(tr === standard ? langParams(lang) : { tr: tr.id })),
     active: tr === shown,
   }));
-  return { shown, choices, versions, translated: all.length > 0 };
+  return { shown, view, choices, versions, translated: all.length > 0, withOriginal };
 }
 
 const GLOSSED_FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA'];
@@ -228,11 +263,16 @@ export default async function WorkPage({ params, searchParams }: Props) {
   const minutes = readingMinutes(work.wordCount, work.genre);
   const readingTime = formatReadingTime(t, minutes);
 
-  const chosen = chooseTranslation(work, locale, slug, { lang: first(query.lang), tr: first(query.tr) });
+  const chosen = chooseTranslation(work, locale, slug, {
+    lang: first(query.lang),
+    tr: first(query.tr),
+    view: first(query.view),
+  });
   const translation: ShownTranslation | null = chosen.shown && {
     id: chosen.shown.id,
     language: chosen.shown.language,
-    bodyHtml: verse(chosen.shown.bodyHtml || chosen.shown.body).html,
+    // Read on its own, the translation's couplets can be linked to as the original's are
+    bodyHtml: verse(chosen.shown.bodyHtml || chosen.shown.body, chosen.view === 'translation').html,
     translator: chosen.shown.translator,
     translatorNote: chosen.shown.translatorNote,
     year: chosen.shown.year,
@@ -370,6 +410,8 @@ export default async function WorkPage({ params, searchParams }: Props) {
       <ReadingView
         body={original.html}
         translation={translation}
+        view={chosen.view}
+        hasOriginal={chosen.withOriginal}
         choices={chosen.choices}
         versions={chosen.versions}
         translated={chosen.translated}
@@ -419,7 +461,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
 
       <WorkActions workId={work.id} collectionId={work.collection?.id ?? null}>
         <ShareMenu url={shareUrl} text={`${heading} — ${authorName}`} title={heading} subtitle={authorName ?? ''} />
-        <DownloadMenu path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} scans={work.scan ? [work.scan] : null} />
+        <DownloadMenu path={`/works/${encodeURIComponent(slug)}`} author={work.author} locale={locale} scans={work.scan ? [work.scan] : null} originalText={chosen.withOriginal} />
       </WorkActions>
 
       <TagPills

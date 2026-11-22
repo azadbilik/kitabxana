@@ -407,6 +407,10 @@
   font-weight:   700;
 }
 :root .lang-tab { padding: 0.45rem 1rem; }
+/* Original, translation and side by side keep to one row beside "Aa" on a phone */
+@media (max-width: 26rem) {
+  :root .reading-toolbar .lang-tab { padding-inline: 0.75rem; }
+}
 :root .appearance-steps { gap: 0.3rem; }
 /* The font grid stays four loose pills, not the gazette's joined block */
 :root .appearance-steps--grid .appearance-step:nth-child(n) {
