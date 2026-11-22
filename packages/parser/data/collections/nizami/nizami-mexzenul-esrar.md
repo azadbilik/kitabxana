@@ -6,6 +6,7 @@ titleEn: The Treasury of Mysteries
 authorSlug: nizami
 genre: POEM
 originalLang: FA
+order: 1
 status: DRAFT
 ---
 

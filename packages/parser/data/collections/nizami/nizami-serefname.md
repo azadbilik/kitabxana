@@ -6,6 +6,7 @@ titleEn: Sharafnama
 authorSlug: nizami
 genre: POEM
 originalLang: FA
+order: 5
 status: DRAFT
 ---
 
