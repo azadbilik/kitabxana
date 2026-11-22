@@ -46,7 +46,7 @@ Yəqin, yəqin elə belədir...
 
 Günaşırı Bayıldakı o şəxsi dayanacaqda qarovul çəkdiyi gecələr tələbə Murad İldırımlı üçün ayıqlıqla yuxu arasında keçirdi, nə yata bilirdi, nə də ayıq qalırdı, mürgü içində zehni işləyirdi, tələbəni yorurdu və elə ki, səhər açılırdı, tələbə birbaşa universitetə gedirdi, dərsdən sonra evə qayıdırdı, o yazıq Xədicə arvad kirayənişininə baxıb: «– Anan ölsün sənün, bu nə gündü düşmüsən belə?! – deyirdi.
 
-– Nöş əziyyət çəkirsən sən belə, ay fağır? Nöş canuva cəfa eləyirsən belə?!» Əlbəttə, tələbə cavab verə bilmirdi ki, bu əziyyətin səbəbi ayda gətirib sənə 70 manat verməkdən ibarətdir... Yuxusuzluqdan tələbənin gözləri yumulurdu, amma elə ki, öz otağında dəmir çarpayıda uzanıb o göyümtül adyalı üstünə çəkirdi, heç cürə yuxuya gedə bilmirdi; ya qatmaqarışıq bir xəyal aləminə qapılırdı, ya heç vaxt həyatda görmədiyi, amma təsəvvür etdiyi erotik görümlər universitetdə bir yerdə oxuduqları qızların simasında gözlərinin qabağına gəlirdi və bütün görümlərin, xəyalların, kin- küdurətin əzabından canını qurtarmaq üçün durub M. F. Axundov adına Respublika Dövlət Kitabxanasına gedirdi, sessiya imtahanlarına hazırlaşırdı, köhnə qəzet- jurnalları vərəqləyirdi, bədii əsərlər oxuyurdu, ingilis dilini öyrənməyə çalışırdı və hekayələr yazırdı. O hekayələr isə heç harada çap olunmurdu (indiyə qədər bir yazısı da dərc edilməmişdi!), illərlə qəzetlərin, jurnalların Muxtar Xudavəndə kimi ədəbiyyat şöbəsi müdirlərinin mizlərinin gözündə yatıb qalırdı... Muxtar Xudavəndə havayı yerə hekayə çap etmirdi, ya gərək tapşırılaydın, ya gərək pul tapıb bir-iki dəfə restorana aparaydın, ya da ki, gərək kənddən ətdən, toyuqdan, motaldan, baldan bir pay gətirib Muxtar Xudavəndənin evinin qapısını döyəydin... Düzdü, indi kənddəkilər özləri yeməyə bir şey tapmırdılar, gəlib Bakıdan ucuz hökumət pendiri, hətta marqarin yağı alıb kəndə aparırdılar, amma bunun mətləbə dəxli yox idi...
+– Nöş əziyyət çəkirsən sən belə, ay fağır? Nöş canuva cəfa eləyirsən belə?!» Əlbəttə, tələbə cavab verə bilmirdi ki, bu əziyyətin səbəbi ayda gətirib sənə 70 manat verməkdən ibarətdir... Yuxusuzluqdan tələbənin gözləri yumulurdu, amma elə ki, öz otağında dəmir çarpayıda uzanıb o göyümtül adyalı üstünə çəkirdi, heç cürə yuxuya gedə bilmirdi; ya qatmaqarışıq bir xəyal aləminə qapılırdı, ya heç vaxt həyatda görmədiyi, amma təsəvvür etdiyi erotik görümlər universitetdə bir yerdə oxuduqları qızların simasında gözlərinin qabağına gəlirdi və bütün görümlərin, xəyalların, kin-küdurətin əzabından canını qurtarmaq üçün durub M. F. Axundov adına Respublika Dövlət Kitabxanasına gedirdi, sessiya imtahanlarına hazırlaşırdı, köhnə qəzetjurnalları vərəqləyirdi, bədii əsərlər oxuyurdu, ingilis dilini öyrənməyə çalışırdı və hekayələr yazırdı. O hekayələr isə heç harada çap olunmurdu (indiyə qədər bir yazısı da dərc edilməmişdi!), illərlə qəzetlərin, jurnalların Muxtar Xudavəndə kimi ədəbiyyat şöbəsi müdirlərinin mizlərinin gözündə yatıb qalırdı... Muxtar Xudavəndə havayı yerə hekayə çap etmirdi, ya gərək tapşırılaydın, ya gərək pul tapıb bir-iki dəfə restorana aparaydın, ya da ki, gərək kənddən ətdən, toyuqdan, motaldan, baldan bir pay gətirib Muxtar Xudavəndənin evinin qapısını döyəydin... Düzdü, indi kənddəkilər özləri yeməyə bir şey tapmırdılar, gəlib Bakıdan ucuz hökumət pendiri, hətta marqarin yağı alıb kəndə aparırdılar, amma bunun mətləbə dəxli yox idi...
 
 Dünən Xosrov müəllimlə birlikdə Tülkü Gəldi Qəbiristanlığından qayıdanda və məlum olanda ki, o yazıq Xədicə arvadı torpağa tapşırmaq üçün yer ala bilməyiblər, məhəllə camaatı narazılıqla gah Xosrov müəllimə, gah də tələbəyə baxa-baxa bir-biri ilə pıçıldaşdı, çörəkçi Ağabalanın əsgərlikdən təzə qayıtmış oğlu dodaqaltı söyüş söyə-söyə yerində qurcalandı və həmin anlarda tələbə Murad İldırımlı başa düşdü ki, iyirmi yeddi illik ömrünün ən məsul dəqiqələrini yaşayır, çünki birdən-birə heç vaxt bu dərəcədə hiss etmədiyi bir qətiyyət bu cavan adamın bütün varlığına hakim kəsildi: tələbə Murad İldırımlı Tülkü Gəldi Qəbiristanlığının müdirini öldürməli idi və öldürəcəkdi!
 
@@ -106,7 +106,7 @@ hamı qışqırırdı...
 
 –...tülkü gəldi!..
 
-tülkü özü görünmürdü, amma hamı onu təqib edirdi, hamı tülkünün ardınca qaçırdı və hamının üstünə par-par parıldayan kürən-sarımtıl bir işıq düşmüşdü, ucu- bucağı görünməyən bir kütlə bu kürən-sarımtıl işıq altında çığır-bağır sala-sala tülkünü axtarırdı...
+tülkü özü görünmürdü, amma hamı onu təqib edirdi, hamı tülkünün ardınca qaçırdı və hamının üstünə par-par parıldayan kürən-sarımtıl bir işıq düşmüşdü, ucu-bucağı görünməyən bir kütlə bu kürən-sarımtıl işıq altında çığır-bağır sala-sala tülkünü axtarırdı...
 
 –...tülkü gəldi!..
 
@@ -144,7 +144,7 @@ Hər tərəf qırmızı transparantlar idi, qırmızı çit üstündə; iri ağ 
 
 və hər tərəf Leonid İliç Brejnevin şəkilləri ilə dolu idi və bu şəkillərin də hamısı kürən-sarımtıl rəngdə idi...
 
-və Siyasi Büro üzvlərinin də şəkilləri bir-birindən seçilmirdi, hamısı kürən- sarımtıl rəngdə idi: Suslov... Tixonov... Qrişin... Kirilenko... Qromıko... Ustinov... Çernenko... Romanov... Andropov... Kunayev... Pelşe... Şerbitski...
+və Siyasi Büro üzvlərinin də şəkilləri bir-birindən seçilmirdi, hamısı kürən-sarımtıl rəngdə idi: Suslov... Tixonov... Qrişin... Kirilenko... Qromıko... Ustinov... Çernenko... Romanov... Andropov... Kunayev... Pelşe... Şerbitski...
 
 rəhbərin maşının pəncərəsindən çıxan əli göründü...
 
@@ -270,9 +270,9 @@ Haçansa gördüyü həmin nar ağacı indiki kimi gözlərinin qarşısında id
 
 Bunu nə vaxt görmüşdü, harda görmüşdü? – bilmirdi, yadına gəlmirdi və əslində, heç bu barədə fikirləşmirdi də, üstündəki yun adyalın yumşaqlığı və istisi içində gözlərini yumub həmin sayrışan nar qırmızısına, xəzan sarısına baxa-baxa, eşikdə yağan yağışın şövqünü duya-duya öz-özünə gülümsəyirdi.
 
-Tahirə qəflətən işığı yandırıb ərinin gecənin yarısı yerində uzanıb beləcə öz- özünə gülümsəməyini görsəydi, yəqin məəttəl qalardı və fikirləşərdi ki, görəsən, bu nə işdi belə və yəqin ki, bayaqkı sualını bir də təkrar edərdi: « – Sənə nə olub?»
+Tahirə qəflətən işığı yandırıb ərinin gecənin yarısı yerində uzanıb beləcə öz-özünə gülümsəməyini görsəydi, yəqin məəttəl qalardı və fikirləşərdi ki, görəsən, bu nə işdi belə və yəqin ki, bayaqkı sualını bir də təkrar edərdi: « – Sənə nə olub?»
 
-O yenə də gülümsədi; ömründə duymadığı bir rahatlıq içində idi və bu dəm hər şey ona ləzzət verirdi: həmişəki çarpayısının indiyəcən fikir vermədiyi gen- bolluğu da, həmişə üstünə saldığı yun adyalın bugecəki yumşaqlığı və istisi də, o gecə sakitliyi içində Tahirənin hərdən dərindən nəfəs alması da, hətta gecənin yarısı hərdənbir küçədən keçən maşınların kip örtülmüş ikiqat pəncərənin arxasından nisbətən zəif eşidilən səsi də ləzzət verirdi; ən başlıcası isə, həmin sakit, yuxulu payız gecəsi heç vaxt fərqinə varmadığı, varanda da onu qıcıqlandıran, hətta əsəbiləşdirən hər şey indi gözəl və əvəzedilməz idi.
+O yenə də gülümsədi; ömründə duymadığı bir rahatlıq içində idi və bu dəm hər şey ona ləzzət verirdi: həmişəki çarpayısının indiyəcən fikir vermədiyi genbolluğu da, həmişə üstünə saldığı yun adyalın bugecəki yumşaqlığı və istisi də, o gecə sakitliyi içində Tahirənin hərdən dərindən nəfəs alması da, hətta gecənin yarısı hərdənbir küçədən keçən maşınların kip örtülmüş ikiqat pəncərənin arxasından nisbətən zəif eşidilən səsi də ləzzət verirdi; ən başlıcası isə, həmin sakit, yuxulu payız gecəsi heç vaxt fərqinə varmadığı, varanda da onu qıcıqlandıran, hətta əsəbiləşdirən hər şey indi gözəl və əvəzedilməz idi.
 
 Onun adı Məlik, atasının adı Yusif, famili isə Əhmədli idi və Məlik Yusif oğlu Əhmədlinin qırx yaşı var idi, elmlər namizədi idi, Zoologiya İnstitutunda baş elmi işçi işləyirdi, evli idi, dörd uşağı – iki oğlan (Adil və Kamil), ikisi qız (Aytən və Zəhra – lap kiçik qızına anasının adını qoymuşdu), beşinci mikrorayonda üçotaqlı mənzili, «Jiquli» maşını və evinin cəmi üç kilometrliyində qarajı var idi.
 
@@ -330,7 +330,7 @@ Yer üzündəki həşəratların isə ən gözəli, əlbəttə, kəpənəklər i
 
 Yenə də arxa tərəfdən keçib gedən elektrik qatarının səsi gəldi və o səs qısa bir müddət Abdullanın çaldığı tarın səsini üstələdi, həyətə toplaşan camaat başını qaldırıb evin arxa tərəfinə baxdı, elektrik qatarından narazı halda başını buladı, sonra səs ötüb getdi və camaat yenə də cənazəyə baxdı.
 
-O vaxt ki, Məlik Əhmədligil İbrahimlə yazıq Əminənin toyunun 10 illik yubileyinə gəlmişdilər, onda da həmin məclisdə tarzən Abdulla tar çalırdı, deyib- gülürdülər, yeyib-içirdilər və deyib-gülən, yeyib-içən adamlardan biri də o yazıq Əminənin özü idi.
+O vaxt ki, Məlik Əhmədligil İbrahimlə yazıq Əminənin toyunun 10 illik yubileyinə gəlmişdilər, onda da həmin məclisdə tarzən Abdulla tar çalırdı, deyib-gülürdülər, yeyib-içirdilər və deyib-gülən, yeyib-içən adamlardan biri də o yazıq Əminənin özü idi.
 
 Abdulla o yanıqlı «Segah»ı çalıb qurtardı, arvadların, qohum-əqrəbanın hönkürtusü, vay-şivəni daha da artdı, İbrahim də siqareti tullayıb əlləri ilə üzünü qapadı, çiyinləri titrəyə-titrəyə ağladı, sonra yaxın adamlar Əminənin cənazəsini çiyinlərinə qaldırıb irəli düşdü, həyətə toplaşmış camaat da cənazənin ardınca getdi.
 
@@ -350,9 +350,9 @@ Küçədə elektrik qatarlarının səsi nəinki eşidilirdi, ötüb keçəndə 
 
 Professor Fazilzadə də qalın şüşəli çeşməyinin arxasından izdihama baxa-baxa uzaqlaşdı.
 
-Kəpənəklər qatardan qorxmurdu; relsin üstünə qonurdu, qatar lap bir metrliyə gəlib çatanda yüngülcə yerindən qalxıb relslərin arasındakı taxtaya qonurdu, vaqonlar sürətlə kəpənəyin başının üstündən keçib gedirdi, kəpənək yenə də yüngülcə qalxıb bayaqkı yerinə qonurdu və Məlik Əhmədli cənazənin ardınca gedə- gedə bir anlıq təsəvvüründə göz işlədikcə uzanıb gedən dəmir yolu relsinin üstünə qonmuş o ağappaq kəpənəyi gördü.
+Kəpənəklər qatardan qorxmurdu; relsin üstünə qonurdu, qatar lap bir metrliyə gəlib çatanda yüngülcə yerindən qalxıb relslərin arasındakı taxtaya qonurdu, vaqonlar sürətlə kəpənəyin başının üstündən keçib gedirdi, kəpənək yenə də yüngülcə qalxıb bayaqkı yerinə qonurdu və Məlik Əhmədli cənazənin ardınca gedə-gedə bir anlıq təsəvvüründə göz işlədikcə uzanıb gedən dəmir yolu relsinin üstünə qonmuş o ağappaq kəpənəyi gördü.
 
-Altı-yeddi il bundan əvvəl, günlərin bir günündə laboratoriyada oturub yenicə izinə düşdüyü kəpənəyi (gələcəyin gözəl Zəhra kəpənəyini!) öyrəndiyi vaxt birdən- birə bütün ömrü özünə boş və mənasız göründü, ona elə gəldi ki, dünyada kəpənəklə məşğul olmaqdan əbləh bir iş yoxdur. İri kağızlara tikilib laboratoriyanın divarlarından asılmış quru kəpənəklərə, ayrı-ayrı şəkillərdə, sxemlərdə yüz dəfə, min dəfə böyüdülmüş kəpənək gözlərinə, qanadlarının, ayaqlarının, boynunun, başının hissəciklərinə baxdı və o zaman Məlik Əhmədli özü özünə dünyanın ən miskin, ən bədbəxt bir adamı kimi göründü, amma bir neçə gündən sonra həmin hisslər tamam keçib getdi, sonra gözəl Zəhra kəpənəyi kəşf etdi.
+Altı-yeddi il bundan əvvəl, günlərin bir günündə laboratoriyada oturub yenicə izinə düşdüyü kəpənəyi (gələcəyin gözəl Zəhra kəpənəyini!) öyrəndiyi vaxt birdən-birə bütün ömrü özünə boş və mənasız göründü, ona elə gəldi ki, dünyada kəpənəklə məşğul olmaqdan əbləh bir iş yoxdur. İri kağızlara tikilib laboratoriyanın divarlarından asılmış quru kəpənəklərə, ayrı-ayrı şəkillərdə, sxemlərdə yüz dəfə, min dəfə böyüdülmüş kəpənək gözlərinə, qanadlarının, ayaqlarının, boynunun, başının hissəciklərinə baxdı və o zaman Məlik Əhmədli özü özünə dünyanın ən miskin, ən bədbəxt bir adamı kimi göründü, amma bir neçə gündən sonra həmin hisslər tamam keçib getdi, sonra gözəl Zəhra kəpənəyi kəşf etdi.
 
 – Maşının var, ə? – Bunu da baş elmi işçi Musa Bağırlı soruşdu. Musanın özünün də maşını var idi, amma hər dəfə belə yerlərə gəlmək lazım olanda maşını xarab olurdu. – Ə, mənimkinin karbüratoru buraxdı...
 
@@ -384,7 +384,7 @@ Külək elə qıy vururdu ki, mağarın dəmir qurğusunu tir-tir titrədirdi, b
 
 Burada təəccüblü, yaxud xüsusi mənası olan nə vardı ki, Məlik Əhmədliyə təsir edirdi?
 
-Mağarda Məlik Əhmədligilin qarşısındakı mizin üstünə ağ süfrə salınmışdı və elə bu süfrənin özünü də (əgər qonşudan, yaxud prokatdan götürməyiblərsə) ola bilsin ki, sabah yuyub həmin taxta sancaqlarla zivədən asacaqdılar və burada qeyri- təbii nə var ki?
+Mağarda Məlik Əhmədligilin qarşısındakı mizin üstünə ağ süfrə salınmışdı və elə bu süfrənin özünü də (əgər qonşudan, yaxud prokatdan götürməyiblərsə) ola bilsin ki, sabah yuyub həmin taxta sancaqlarla zivədən asacaqdılar və burada qeyri-təbii nə var ki?
 
 Mağarda söhbət elə gətirib çıxardı ki, İbrahim qızarmış gözlərini, yəqin ki, ağrıdığı üçün hərdən kip-kip qırpa-qırpa dovşanlardan danışmağa başladı və İbrahim, həmişə olduğu kimi, bu dəfə də dovşanlardan elə maraqlı şeylər danışırdı ki, adam bu uzunqulaq, cəld heyvanların ağlına məəttəl qalırdı. İbrahim iyirmi beş ildən artıqdı ki, dovşanlarla məşğul idi və bütün bu müddət ərzində yorulmadan yeni dovşan cinsi yetişdirmək üzərində çalışırdı.
 
@@ -514,7 +514,7 @@ Həmin gecə Bakının nisbətən geniş küçələrindən birində tramvaydan d
 
 O sürücü iş vaxtını qurtarıb öz evinə gedəcəkdi, həmişəki kimi yeyəcəkdi, yatacaqdı, bir sözlə, həmişəki kimi, nə işi vardısa, görəcəkdi, amma heç vaxt bilməyəcəkdi ki, haçansa onun sürdüyü tramvayda dünyanın ən möcüzəli bir görüşü baş verib.
 
-Şiddətli külək əsən o payız gecəsi Bakının beşinci mikrorayona qalxan küçələri bomboş idi və həmin bomboş küçələrdən keçərək evinə gedən Məlik Əhmədli dünyanın beləcə heyrətamiz, ağlasığmaz işinə indi tamam inanmışdı, min il yaşayacağını nəinki təfəkküründə dərk etmişdi, bunu cismən hiss edir, duyurdu və qırx yaşlı elmlər namizədi, öz sənətini ürəkdən sevən lepidopteroloq, dünya entomologiya elminə Zəhra kimi bir kəpənək bəxş etmiş Məlik Əhmədli burasını da çox gözəl başa düşürdü ki, bu min il əhvalatına heç kim heç vaxt inanmayacaq, bu bir sirr olub həmişə ürəyində qalacaq və yaxşı ki, indi küçələr beləcə bomboşdur, çünki Məlik Əhmədliyə elə gəlirdi ki, indi küçədə kimsə olsaydı, onu beləcə pay- piyada gedən görüb həmin sirdən xəbər tutardı. Bu sirr, elə bil ki, o dəm gizli bir xəzinə idi və həmin xəzinə, yalnız Məlik Əhmədliyə məxsus idi.
+Şiddətli külək əsən o payız gecəsi Bakının beşinci mikrorayona qalxan küçələri bomboş idi və həmin bomboş küçələrdən keçərək evinə gedən Məlik Əhmədli dünyanın beləcə heyrətamiz, ağlasığmaz işinə indi tamam inanmışdı, min il yaşayacağını nəinki təfəkküründə dərk etmişdi, bunu cismən hiss edir, duyurdu və qırx yaşlı elmlər namizədi, öz sənətini ürəkdən sevən lepidopteroloq, dünya entomologiya elminə Zəhra kimi bir kəpənək bəxş etmiş Məlik Əhmədli burasını da çox gözəl başa düşürdü ki, bu min il əhvalatına heç kim heç vaxt inanmayacaq, bu bir sirr olub həmişə ürəyində qalacaq və yaxşı ki, indi küçələr beləcə bomboşdur, çünki Məlik Əhmədliyə elə gəlirdi ki, indi küçədə kimsə olsaydı, onu beləcə pay-piyada gedən görüb həmin sirdən xəbər tutardı. Bu sirr, elə bil ki, o dəm gizli bir xəzinə idi və həmin xəzinə, yalnız Məlik Əhmədliyə məxsus idi.
 
 Məlik Əhmədli bir yeniyetmə çevikliyi ilə pilləkənləri birnəfəsə qalxıb evə girəndə uşaqlar çoxdan yatmışdı, Tahirə də əynində gecə köynəyi, yuxulu-yuxulu qapını açıb:
 
@@ -556,7 +556,7 @@ Lalə ləçəyinə qonmuş o gözəl kəpənək ovçuların ardınca baxdı-baxd
 
 O gözəl kəpənəyin cəmi üç günlük ömrü var idi, bu dünyada cəmi üç gün yaşayacaqdı və o üç günlük ömrün iki günü artıq həmin kəpənək üçün əbədi bir keçmişdə, əlçatmaz, ünyetməz bir uzaqlıqda qalmışdı...
 
-...Külək yataq otağındakı pəncərənin şüşəsini titrədirdi, Tahirə də narahat idi, gah bu böyrü üstə, gah o böyrü üstə çönürdü və Məlik Əhmədli qaranlıqda ağ bənizi güclə sezilən Tahirəyə baxa-baxa fikirləşdi ki, minillik ömür müqabilində, bir göz qırpımlıq vaxtdan sonra Tahirə dünyada olmayacaq, sonra Adil, Kamil, Aytən, Zəhra dünyadan köçəcək, sonra onların uşaqları, sonra o uşaqların uşaqları, sonra başqaları, başqaları, başqaları... Məlik Əhmədliyə elə gəldi ki, qaranlıq bir tunelə girib qaçır, qaçır, tuneldən çıxmaq istəyir, qaranlıq onu qovur, amma bu uzun tunel qurtarmır ki, qurtarmır və Məlik Əhmədlinin ürəyi darıxdı, nəfəsi tıncıxdı, uşaqları bir-bir, adbaad gözlərinin qabağına gətirəndə və fikirləşəndə ki, çox qısa bir müddətdən sonra – əlli ildən, altmış ildən, lap yüz ildən sonra Adil də, Kamil də, Aytən də, Zəhra da dünyada olmayacaq, amma o özü elə hey yaşayacaq, baba olacaq, ulu baba olacaq, sonra dünyadakı bir çox yad adamların, tanımadığı- bilmədiyi kəslərin canlı soy kökü olacaq, ürəyi bayaq tramvaydakından daha artıq bir sürətlə döyünməyə başladı və Məlik Əhmədli yerindən qalxıb soyuq çarpayısında oturdu.
+...Külək yataq otağındakı pəncərənin şüşəsini titrədirdi, Tahirə də narahat idi, gah bu böyrü üstə, gah o böyrü üstə çönürdü və Məlik Əhmədli qaranlıqda ağ bənizi güclə sezilən Tahirəyə baxa-baxa fikirləşdi ki, minillik ömür müqabilində, bir göz qırpımlıq vaxtdan sonra Tahirə dünyada olmayacaq, sonra Adil, Kamil, Aytən, Zəhra dünyadan köçəcək, sonra onların uşaqları, sonra o uşaqların uşaqları, sonra başqaları, başqaları, başqaları... Məlik Əhmədliyə elə gəldi ki, qaranlıq bir tunelə girib qaçır, qaçır, tuneldən çıxmaq istəyir, qaranlıq onu qovur, amma bu uzun tunel qurtarmır ki, qurtarmır və Məlik Əhmədlinin ürəyi darıxdı, nəfəsi tıncıxdı, uşaqları bir-bir, adbaad gözlərinin qabağına gətirəndə və fikirləşəndə ki, çox qısa bir müddətdən sonra – əlli ildən, altmış ildən, lap yüz ildən sonra Adil də, Kamil də, Aytən də, Zəhra da dünyada olmayacaq, amma o özü elə hey yaşayacaq, baba olacaq, ulu baba olacaq, sonra dünyadakı bir çox yad adamların, tanımadığı-bilmədiyi kəslərin canlı soy kökü olacaq, ürəyi bayaq tramvaydakından daha artıq bir sürətlə döyünməyə başladı və Məlik Əhmədli yerindən qalxıb soyuq çarpayısında oturdu.
 
 Əminənin cənazəsinin üstündəki yaşıl ipək örtüyə sancılmış taxta sancaqlar Məlik Əhmədlinin gözlərinin qabağına gəldi və Məlik Əhmədli gözlərini yumub alnını ovuşdurdu, çünki ona elə gəldi ki, o özü də həmin taxta sancaqlar kimi bir şeydir, insanlar gəlib-gedəcək, çünki insanlar Əminə kimi gəldi-gedərdi, amma o həmin taxta sancaqlar kimi qalacaq, qalacaq...
 
@@ -616,11 +616,11 @@ Sərnişin eyni tələsikliklə makintojunun cibindən kiçik «Biseptol» paket
 
 – Deyin!.. – dedi. – Deyin istəyinizi!.. Mənim işlərim var axı!.. Yaxşı!.. Tez eləyin!.. Deyin!..
 
-Məlik Əhmədli bütün gün ərzində – laboratoriyada qurumuş kəpənəkləri bərpa edərkən də, maşın sürərkən də, evdə nahar vaxtı da daima bu gecə görüşünü gözlərinin qabağına gətirmişdi və indi sərnişinə deyəcəyi sözləri, azı, min dəfə öz- özünə təkrar etmişdi:
+Məlik Əhmədli bütün gün ərzində – laboratoriyada qurumuş kəpənəkləri bərpa edərkən də, maşın sürərkən də, evdə nahar vaxtı da daima bu gecə görüşünü gözlərinin qabağına gətirmişdi və indi sərnişinə deyəcəyi sözləri, azı, min dəfə öz-özünə təkrar etmişdi:
 
 – Mənim... Mənim ikinci istəyim odur ki,.... dünənki birinci istəyimi ləğv edəsiniz!
 
-Araya dərin bir sükut çökdü və həmin sükut içində soyuqlamış sərnişinin tez- tez burnunu çəkməyi eşidilirdi; Məlik Əhmədlinin ürəyi yenə də şiddətlə döyünürdü və o sərnişin də indi dünyanın ən məzlum adamına oxşayırdı; bir-iki dəfə öskürdü, burnunu çəkdi, elə bil, tamam özünü itirmişdi, bilmirdi nə eləsin, sonra o sərnişinin yadına düşdü ki, tələsir.
+Araya dərin bir sükut çökdü və həmin sükut içində soyuqlamış sərnişinin tez-tez burnunu çəkməyi eşidilirdi; Məlik Əhmədlinin ürəyi yenə də şiddətlə döyünürdü və o sərnişin də indi dünyanın ən məzlum adamına oxşayırdı; bir-iki dəfə öskürdü, burnunu çəkdi, elə bil, tamam özünü itirmişdi, bilmirdi nə eləsin, sonra o sərnişinin yadına düşdü ki, tələsir.
 
 – Yaxşı!.. Oldu!.. Oldu!.. – dedi. – Mən getdim!.. İşim çoxdur!.. İşim çoxdur!.. İnsandan baş açmaq çətin məsələdir!.. – Sərnişin bu dəfə, elə bil ki, özü özü ilə danışırdı. – Çox çətindi!.. Çox!.. Çox!.. Gəl, baş aç də!.. Özün gəl!.. Özün gəl, baş aç!.. Mən deyirəm!.. Həmişə deyirəm!.. Deyirlər ki, belə... – Və o sərnişin dünən tramvayda olduğu kimi, yüngülcə Məlik Əhmədliyə toxundu, sonra bayaq maşına girdiyi kimi yox, soyuq dəymiş adi adamlar kimi burnunu çəkə-çəkə, öskürə-öskürə «Jiquli»nin qapısını açdı, maşından düşdü, yorğun addımlarla tramvay yolu boyunca uzaqlaşıb gözdən itdi və o sərnişin uzaqlaşdıqca, qaranlıqda gözdən itdikcə Məlik Əhmədli bütün bədənində bir dəyişmə hiss edirdi, elə bil, qanını dəyişirdilər və bu dəyişməni duyduqca, Məlik Əhmədlinin ürəyinin döyüntüsü azaldı, tamam kəsdi, bütün bədəninə bir rahatlıq gəldi, sonra əlinin, ayağının oynaqlarındakı o gözəl, o əziz, o sevimli ağrılar geri qayıtdı və Məlik Əhmədli burasını da hiss etdi ki, ürəyi bir balaca sancdı.
 
@@ -680,7 +680,7 @@ Və bu dəfə dünyanın ən gözlənilməz bir hadisəsi baş verdi: Xosrov mü
 
 – Taun! Taun! Taun!..
 
-Səs-küyə makinaçı qadın, katibə qız qaçıb kabinetə girdilər və ikisi də çığır- bağır sala-sala, yumruqları ilə qara plaşın içindəki sür-sümüyü döyəcləməyə başladı, amma Xosrov müəllimin taxta barmaqları Əbdül Qafarzadənin yoğun boğazından qopmurdu.
+Səs-küyə makinaçı qadın, katibə qız qaçıb kabinetə girdilər və ikisi də çığır-bağır sala-sala, yumruqları ilə qara plaşın içindəki sür-sümüyü döyəcləməyə başladı, amma Xosrov müəllimin taxta barmaqları Əbdül Qafarzadənin yoğun boğazından qopmurdu.
 
 – Taunsan sən! Taun! Tanıdım mən səni! Taun! Taun! Taunsan sən!..
 
@@ -722,4 +722,4 @@ Küçədən ötənlər, dayanacaqlarda toplaşıb troleybus, avtobus gözləyən
 
 – Əclaf! – deyirdi. – Eybi yox!.. O Muxtar Xudavəndənin, oğraşın dalına bir paz soxdurum ki, özü də afərin desin! Neqodyay!
 
-Bədurə xanım tələsik gözləmə otağından bir stəkan soyuq su gətirdi və Əbdül Qafarzadə hirslə stəkanı arvadın əlindən alıb iri qurtumlarla içməyə başladı və birdən-birə bərkdən öskürdü. Su ağzından sıçrayıb ətrafa yayıldı, öskürəyi get-gedə artdı, Əbdül Qafarzadə az qalırdı boğulsun, dizləri titrədi və taqətsiz halda özünü güclə kürsünün üstünə salıb oturdu və bu zaman ağzından qan açıldı, xırıldaya- xırıldaya öskürdükcə qan yaxasına, mizin üstünə töküldü, mizin üstündəki təzə qəzetlər də qıpqırmızı qızardı. Bədurə xanım bərkdən qışqırdı: «Vaxsey!.. Kişi qan qusur!..
+Bədurə xanım tələsik gözləmə otağından bir stəkan soyuq su gətirdi və Əbdül Qafarzadə hirslə stəkanı arvadın əlindən alıb iri qurtumlarla içməyə başladı və birdən-birə bərkdən öskürdü. Su ağzından sıçrayıb ətrafa yayıldı, öskürəyi get-gedə artdı, Əbdül Qafarzadə az qalırdı boğulsun, dizləri titrədi və taqətsiz halda özünü güclə kürsünün üstünə salıb oturdu və bu zaman ağzından qan açıldı, xırıldaya-xırıldaya öskürdükcə qan yaxasına, mizin üstünə töküldü, mizin üstündəki təzə qəzetlər də qıpqırmızı qızardı. Bədurə xanım bərkdən qışqırdı: «Vaxsey!.. Kişi qan qusur!..

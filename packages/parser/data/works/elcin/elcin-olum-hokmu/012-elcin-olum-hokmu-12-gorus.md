@@ -32,7 +32,7 @@ Həmin avqust axşamı Xosrov müəllim Kislovodska gedən qatarın ümumi vaqon
 
 – Davay... Davay... – deyirdi. – Proxodi...
 
-Xosrov müəllim vaqonun içinə keçib yerini tapdı (yenə pəncərənin kənarında idi), balaca əl çamadanını taxta oturacağın altına qoydu və ümumi vaqonun cürbəcür iylər qarışmış ağır və həddən artıq isti havasıyla nəfəs ala-ala fikirləşdi ki, bu bələdçi qadını hardan tanıyır? Və elə ki, qatar yola düşdü, elə ki, bir az keçəndən sonra o kök bələdçi qadın sağ əlini şəhadət barmağının uzun dırnağı ilə dişlərinin arasında qalmış duzlu xiyar qırıntılarını təmizləyə-təmizləyə, sərnişinlərin biletlərini yoxlaya- yoxlaya gəlib Xosrov müəllimin qabağında dayandı, kişi lap əmin oldu ki, bu qadını hardansa yaxşı tanıyır, amma kim olduğunu heç cürə yadına sala bilmirdi.
+Xosrov müəllim vaqonun içinə keçib yerini tapdı (yenə pəncərənin kənarında idi), balaca əl çamadanını taxta oturacağın altına qoydu və ümumi vaqonun cürbəcür iylər qarışmış ağır və həddən artıq isti havasıyla nəfəs ala-ala fikirləşdi ki, bu bələdçi qadını hardan tanıyır? Və elə ki, qatar yola düşdü, elə ki, bir az keçəndən sonra o kök bələdçi qadın sağ əlini şəhadət barmağının uzun dırnağı ilə dişlərinin arasında qalmış duzlu xiyar qırıntılarını təmizləyə-təmizləyə, sərnişinlərin biletlərini yoxlaya-yoxlaya gəlib Xosrov müəllimin qabağında dayandı, kişi lap əmin oldu ki, bu qadını hardansa yaxşı tanıyır, amma kim olduğunu heç cürə yadına sala bilmirdi.
 
 Bələdçi qadın bütün vaqon eşitsin deyə bərkdən:
 
@@ -78,15 +78,15 @@ Və o hay-küy içində o bələdçi qadının (Arzunun!) bu vaqonun əsl sahibi
 
 – Oğurluq eləməyin a!.. Milsianer qonşu vaqondadı!
 
-Sonra işıq da yandı, səs-küy də kəsildi, sərnişinlər oturduqları yerdə yavaş- yavaş yatmağa başladı, sonra qatar Dərbənd stansiyasından keçdi və əlbəttə, hərgah Gülzar sağıydısa, heç ağlına da gəlməzdi ki, o gecə vaxtı, Xosrov müəllim Dərbənddən keçən o qatarın apardığı sərnişinlərin arasındadı...
+Sonra işıq da yandı, səs-küy də kəsildi, sərnişinlər oturduqları yerdə yavaş-yavaş yatmağa başladı, sonra qatar Dərbənd stansiyasından keçdi və əlbəttə, hərgah Gülzar sağıydısa, heç ağlına da gəlməzdi ki, o gecə vaxtı, Xosrov müəllim Dərbənddən keçən o qatarın apardığı sərnişinlərin arasındadı...
 
 Sonra gecənin bir aləmi o bələdçi qadın (Arzu!..) yenə də gəlib dayandı Xosrov müəllimin qabağında və iri döşlərinin lifçiyinin kənarları görünən açıq sinəsinin tərini əlindəki yaş dəsmalla silə-silə:
 
 – Niyə yatmırsan, ay Xosrov məllim?.. – dedi. – Yatmaqdan yaxşı şey var dünyada? Həsrətəm mən doyunca yatmağa... Niyə yatmırsan sən?
 
-Xosrov müəllim gözlərini qaranlıq pəncərə şüşəsindən çəkib çiyinlərini bir- birlərinə söykəmiş, boyunlarını büküb kimisi şirin, kimisi narahat bir yuxu ilə yatmış o sərnişinlərə baxdı, sonra Arzuya baxdı və heç nə demədi.
+Xosrov müəllim gözlərini qaranlıq pəncərə şüşəsindən çəkib çiyinlərini bir-birlərinə söykəmiş, boyunlarını büküb kimisi şirin, kimisi narahat bir yuxu ilə yatmış o sərnişinlərə baxdı, sonra Arzuya baxdı və heç nə demədi.
 
-Arzu dərindən əsnədi, ağzından spirt iyi gəldi, gözləri sulandı və əsnəyə- əsnəyə də:
+Arzu dərindən əsnədi, ağzından spirt iyi gəldi, gözləri sulandı və əsnəyə-əsnəyə də:
 
 – Səni gördüm, – dedi, – çox şey yadıma düşdü... Hardan gəldin çıxdın e, sən bu vaqona?.. – Yenə əsnədi və yenə də əsnəyə-əsnəyə həmin sözləri dedi:– Əşşi, mənə nə vardı e, tək canımıydı!.. Kələntər məllimin isə, yazığın yeddi qızı qalmışdı!
 
@@ -96,13 +96,13 @@ Xosrov müəllim Kislovodskda bir ay qaldı, hər gün müftə «Narzan» içdi,
 
 Xosrov müəllimin o bir ay ərzində Kislovodskdakı o sakit bağçada belə görüşləri tez-tez olurdu...
 
-O bir ay ərzində Kislovodskdakı o bağçada oynayan uşaqlar, o bağçaya gəlib- gedən cavanlar hərdən öz-özünə danışan o uzun, arıq qocaya da oradakı skamyalar kimi, ağaclar kimi adət etdilər; sonra o arıq, uzun qoca yox oldu, amma o nə o bağda oynayan uşaqlar, nə də o bağa gəlib-gedən cavanlar bunun fərqinə vardı, o skamyalar, o ağaclar da eləcə o baxçada qaldı...
+O bir ay ərzində Kislovodskdakı o bağçada oynayan uşaqlar, o bağçaya gəlib-gedən cavanlar hərdən öz-özünə danışan o uzun, arıq qocaya da oradakı skamyalar kimi, ağaclar kimi adət etdilər; sonra o arıq, uzun qoca yox oldu, amma o nə o bağda oynayan uşaqlar, nə də o bağa gəlib-gedən cavanlar bunun fərqinə vardı, o skamyalar, o ağaclar da eləcə o baxçada qaldı...
 
 Xosrov müəllim Bakıya qayıtdı, sonra payız başladı və Xosrov müəllim nəsə o ilki payızı çox pis keçirdi; Kislovodskın o gözəl havasından sonra Bakının hisli-paslı havasına təzədən öyrəşə bilmirdi, nəyidisə, çöldə də, evdə də çox narahat idi, bəzən gecə təngnəfəs olub yuxudan ayılırdı və səhərə kimi yerində oturub yata bilmirdi.
 
 Sonra qış başladı, Bakıya bir-iki günlük qar yağdı, sonra əriməyə başladı və qarın əridiyi o günlərdən birində– bir bazar günü idi– Xosrov müəllim bazara getdi, kiloyarım alma aldı, kiloyarım gözəl ətri gələn heyva aldı, bir kilo da narıngi alıb avtobusa mindi və Səkkizinci kilometrə yollandı.
 
-O zaman səhər tezdən ki, qatar gəlib dayanmışdı Kislovodskda, Arzu ünvanını yazıb Xosrov müəllimə vermişdi və Xosrov müəllim də o vaxtdan o ünvanı cibində gəzdirmişdi və indi də Səkkizinci kilometrdə avtobusdan düşüb o ünvanı soraqlaşa- soraqlaşa gəlib üçmərtəbəli köhnə bir bina ilə üzbəüz dayandı.
+O zaman səhər tezdən ki, qatar gəlib dayanmışdı Kislovodskda, Arzu ünvanını yazıb Xosrov müəllimə vermişdi və Xosrov müəllim də o vaxtdan o ünvanı cibində gəzdirmişdi və indi də Səkkizinci kilometrdə avtobusdan düşüb o ünvanı soraqlaşa-soraqlaşa gəlib üçmərtəbəli köhnə bir bina ilə üzbəüz dayandı.
 
 O üçmərtəbə köhnə binanın daş divarları qapqara qaralmışdı, pəncərələrin, eyvan sürahılarının taxtasının rəngi quruyub tökülmüşdü və qar əridiyinə görə o sürahılardan, damdan damcı-damcı çirkli su tökülürdü. O binanın lap yuxarısında, dam ilə üçüncü mərtəbədəki pəncərələri arasında daşdan yonulmuş və indi güclə sezilən bir yazı var idi:
 
@@ -118,7 +118,7 @@ Bu bina Xosrov müəllimdən otuz üç yaş böyük idi və Məşədi Mirzə Mir
 
 Xosrov müəllim həyətə girdi və birinci mərtəbədəki yeddi nömrəli qapının ağzında dayandı. Qapının sol tərəfində, asfaltın üstündə üç dənə taxta yeşikdən hinə oxşayan bir şey düzəltmişdilər, illərdən bəri pas atmış dəmir torla çəpərə almışdılar və çirkli qar suyunda islanmış o taxta-tuxtanın arasında on-on beş toyuq Xosrov müəllimi görən kimi, qaqqıldamağa, çəpərin içindəki o kiçik sahədə bir-birlərinə toxuna-toxuna ora-bura qaçışmağa başladı.
 
-O hindəki zir-zibildən elə kəskin bir iy gəlirdi ki, Xosrov müəllim, istər- istəməz, başını yana tutdu və çox qəribədir, elə həmin anda da Xıdır müəllim Xosrov müəllimin yadına düşdü, Xıdır müəllimin sağlam bədəni, başını dik tutub sərrast addımlarla şax gəzməyi gözlərinin qabağına gəldi, hətta Xosrov müəllimin tükü ürpəşdi, çünki ona elə gəldi ki, bu toyuq zılının, zibilin iyi o əldəqayırma hindən yox, Xıdır müəllimin o sağlam, əzələləri oynayan bədənindən gəlir.
+O hindəki zir-zibildən elə kəskin bir iy gəlirdi ki, Xosrov müəllim, istər-istəməz, başını yana tutdu və çox qəribədir, elə həmin anda da Xıdır müəllim Xosrov müəllimin yadına düşdü, Xıdır müəllimin sağlam bədəni, başını dik tutub sərrast addımlarla şax gəzməyi gözlərinin qabağına gəldi, hətta Xosrov müəllimin tükü ürpəşdi, çünki ona elə gəldi ki, bu toyuq zılının, zibilin iyi o əldəqayırma hindən yox, Xıdır müəllimin o sağlam, əzələləri oynayan bədənindən gəlir.
 
 Xosrov müəllim elə bilirdi (və buna yüz faiz əmindi!) ki, 1939-cu ilin o qış günü onları Xıdır müəllimin şeytançılığı ilə tutmuşdular və Xosrov müəllim heç vaxt bilməyəcəkdi ki, əslində, onları Ələsgər müəllimin verdiyi məlumata görə həbs etmişdilər və hərgah dünyada, doğrudan da, ruh deyilən bir şey vardısa, Xosrov müəllimin belə bir xəbərsizliyindən Ələsgər müəllimin ruhu yəqin ki, özünə bir o qədər də təskinlik tapmırdı...
 
@@ -188,7 +188,7 @@ Arzu:
 
 – Hə, bu... – dedi və divardakı fotoşəkildən baxan ikinci oğlunu göstərdi. – Barnaulda yaşayır, eşitmisən, belə bir şəhər? Barnaul! Milsianerdi orda, atası da elə milsianer idi, rəhmətə gedib. Bunun arvadı rusdu... Oğlanlarımın arasında fərlisi elə budu, amma əfəldir. Əfəl olmasa, gedib milsianer işləməz ki!.. Arvadı da, deyəsən, yaxşı adamdı. Nə bilim, görmüşəm bəyəm? Yolum heç düşməyib Barnaula...
 
-Əsgəriydi orda, əsgərlikdən sonra da elə qaldı orda, arvadı da aldı orda... Keçən il mənə pasılka göndərmişdilər, içində konfet varıydı, bir də bir ayaqqabı. Yaxşı ayaqqabıydı, ancaq hayıf, ayağımı sıxdı, Rostovda satdım getdi... İki də uşaqları var, şəkillərini göndərmişdilər, ikisi də sir-sifətdən xalis rusdu... Bu da ki, üçüncü oğlumdu, – Arzu əlini üçüncü oğlunun fotosuna tərəf elə uzatdı ki, elə bil, gözünü çıxarmaq istəyirdi, – əclafın biri çıxdı!.. Atası pis adam döyüldü, pravadnikiydi o da, tutdular yazığı ki, nə var, nə var, stansiyalarda xırda alver eləyir... Elə türmədə də öldü yazıq... Bu ev də onunkuydu, arvadı öləndən sonra ona ərə getdim, köçüb gəlib yığışdım bura... O vaxta qədər orda-burda qalırdım... Atamdan sonra axı, bizim evi aldılar, anamla məni də atdılar küçəyə... Bu əclafa atamın adını qoymuşdum, Ələsgər idi adı, ancaq zay çıxdı... Mənnən qalırdı. Pravadnik adamam, çıxıb gedirdim, ev qalırdı bunun ixtiyarına... Yüz oyundan çıxırdı burda... Piyaniskalıq eləyirdilər, qumar oynayırdılar... Özü yaxşı kafelşikdi, istəsə, bilirsən nə qədər pul qazanar?.. Sonra da bir assori qızına aşiq oldu, özündən böyükdü yaşda, Rozadı adı, bizim yanımızda, ode, orada sberkassada işləyir, tanıyıram, modnı geyinən qəhbələrdən biridi!.. Özünü sırıyıb bu axmağa!.. Kim alacaqdı onu? Ancaq bu axmaqla zaksa getdilər... Alıb o qəhbəni bura gətirmək istəyirdi, qovdum evdən! İndi içib keflənəndə gəlir əclaf, məni qorxudur ki, səni suda verəcəyəm, evin yarısı mənimdi!.. Mən sənə ev verərəm? Ay sən öləsən! Ancaq neyniyim?.. Şəklini asmışam burdan də, oğlumdu... Neynim?.. Əclaf gəlib hər dəfə aləmi qatır bir- birinə!.. Hələ ki, o qəhbənin evində qalır...
+Əsgəriydi orda, əsgərlikdən sonra da elə qaldı orda, arvadı da aldı orda... Keçən il mənə pasılka göndərmişdilər, içində konfet varıydı, bir də bir ayaqqabı. Yaxşı ayaqqabıydı, ancaq hayıf, ayağımı sıxdı, Rostovda satdım getdi... İki də uşaqları var, şəkillərini göndərmişdilər, ikisi də sir-sifətdən xalis rusdu... Bu da ki, üçüncü oğlumdu, – Arzu əlini üçüncü oğlunun fotosuna tərəf elə uzatdı ki, elə bil, gözünü çıxarmaq istəyirdi, – əclafın biri çıxdı!.. Atası pis adam döyüldü, pravadnikiydi o da, tutdular yazığı ki, nə var, nə var, stansiyalarda xırda alver eləyir... Elə türmədə də öldü yazıq... Bu ev də onunkuydu, arvadı öləndən sonra ona ərə getdim, köçüb gəlib yığışdım bura... O vaxta qədər orda-burda qalırdım... Atamdan sonra axı, bizim evi aldılar, anamla məni də atdılar küçəyə... Bu əclafa atamın adını qoymuşdum, Ələsgər idi adı, ancaq zay çıxdı... Mənnən qalırdı. Pravadnik adamam, çıxıb gedirdim, ev qalırdı bunun ixtiyarına... Yüz oyundan çıxırdı burda... Piyaniskalıq eləyirdilər, qumar oynayırdılar... Özü yaxşı kafelşikdi, istəsə, bilirsən nə qədər pul qazanar?.. Sonra da bir assori qızına aşiq oldu, özündən böyükdü yaşda, Rozadı adı, bizim yanımızda, ode, orada sberkassada işləyir, tanıyıram, modnı geyinən qəhbələrdən biridi!.. Özünü sırıyıb bu axmağa!.. Kim alacaqdı onu? Ancaq bu axmaqla zaksa getdilər... Alıb o qəhbəni bura gətirmək istəyirdi, qovdum evdən! İndi içib keflənəndə gəlir əclaf, məni qorxudur ki, səni suda verəcəyəm, evin yarısı mənimdi!.. Mən sənə ev verərəm? Ay sən öləsən! Ancaq neyniyim?.. Şəklini asmışam burdan də, oğlumdu... Neynim?.. Əclaf gəlib hər dəfə aləmi qatır bir-birinə!.. Hələ ki, o qəhbənin evində qalır...
 
 Arzu gəlib yenə də Xosrov müəllimlə üzbəüz oturdu və Xosrov müəllimin içib qurtardığı boş stəkana işarə edib:
 

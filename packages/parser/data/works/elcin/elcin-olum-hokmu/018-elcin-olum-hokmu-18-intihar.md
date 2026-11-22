@@ -24,13 +24,13 @@ Uzaqda bir-iki dəfə şimşək çaxdı, amma o şimşəyin səsi gəlib bu bomb
 
 Çimərliyin də, qayalığın da ab-havasında təmizlik var idi, xüsusən, o yağışdan sonra təmizlik, elə bil, daha da artmışdı, irəlidən isə benzin iyi, dəmir iyi, mazut iyi gəlirdi, o benzin də, mazut da, dəmir də sürətdən, qəfil hücumlardan, həmlələrdən, zərbələrdən, təhlükədən xəbər verirdi və Gicbəsər də indi o təhlükəyə doğru gedirdi.
 
-Gicbəsər qayalığın üst tərəfində, qumluqda ayaq saxladı; Tülkü Gəldi Qəbiristanlığından çıxdığı müddətdə o qədər zəifləmişdi ki, qayaların arasından bir az yoxuş qalxdığı üçün ləhləyirdi və qabırğaları sayılan arıq böyürləri havadan tez- tez dolub boşalırdı. İt yan-yörəsini iylədi və kənardakı tənha akasiya ağacına tərəf baxdı: ağacın dibində iki körpə küçük bir-birinə ilişə-ilişə ora-bura vurnuxurdu və bu küçüklərin tükü də eynilə Gicbəsərinki kimi, qəhvəyi-qara idi.
+Gicbəsər qayalığın üst tərəfində, qumluqda ayaq saxladı; Tülkü Gəldi Qəbiristanlığından çıxdığı müddətdə o qədər zəifləmişdi ki, qayaların arasından bir az yoxuş qalxdığı üçün ləhləyirdi və qabırğaları sayılan arıq böyürləri havadan tez-tez dolub boşalırdı. İt yan-yörəsini iylədi və kənardakı tənha akasiya ağacına tərəf baxdı: ağacın dibində iki körpə küçük bir-birinə ilişə-ilişə ora-bura vurnuxurdu və bu küçüklərin tükü də eynilə Gicbəsərinki kimi, qəhvəyi-qara idi.
 
 Küçüklərin gözləri təzə açılmışdı və onlar Gicbəsəri əvvəlcə hiss edib, sonra görüb quma bata-bata, sürüşə-sürüşə bu böyük itin yanına qaçdılar, qıçlarına dırmaşmaq istədilər, qarnının altında vurnuxdular. Boynunun əzələləri çox ağrısa da, Gicbəsər başını qabaq ayaqlarının arasından aşağı əyib, qarnının altında vurnuxan küçüklərə baxdı, sonra başını qaldırıb gözlərini yavaş-yavaş uzaq işıqları görünən Bakı səmtinə dikdi və Gicbəsərin Tülkü Gəldi Qəbiristanlığı tərəflərə baxan gözlərində bir qüssə var idi (həsrət yox, qüssə).
 
 Gicbəsər gözlərini Bakı səmtindən çəkdi və yenə də qabaq ayaqlarının arasından qarnının altında vurnuxan küçüklərə baxdı.
 
-Küçüklərdən biri burnunu Gicbəsərin burnuna dirədi, ikinci küçük də vurnuxa- vurnuxa, özünə yer axtara-axtara nəhayət ki, burnunu Gicbəsərin burnuna dirədi və Gicbəsər bu iki küçüyün təmiz nəfəsini hiss etdi.
+Küçüklərdən biri burnunu Gicbəsərin burnuna dirədi, ikinci küçük də vurnuxa-vurnuxa, özünə yer axtara-axtara nəhayət ki, burnunu Gicbəsərin burnuna dirədi və Gicbəsər bu iki küçüyün təmiz nəfəsini hiss etdi.
 
 Küçüklər başdan-başa bir etibar, bir ümid içində idilər, əmcək axtarırdılar və altdan yuxarı Gicbəsərin qarnını iyləyə-iyləyə, bir-birlərinə ilişə-ilişə o tərəf-bu tərəfə vurnuxurdular.
 
@@ -42,7 +42,7 @@ Gicbəsər ayaqüstə dayana bilmirdi, ya gərək yerə çömələydi, ya da uza
 
 Küçüklərin ikisi də Gicbəsərin ardınca getdi və bir az beləcə getdilər, sonra Gicbəsər addımlarını yeyinlətmək istədi, amma bacarmadı, küçüklər isə yaxınlaşırdı və bu zaman Gicbəsər bir anlığa dayanıb arxa ayaqları ilə küçüklərin üstünə qum sıçratdı. Küçüklər də dayanıb gözlərini yumdu və qum sifətlərinə dəydi, yaş burunlarında, dodaqlarında yapışıb qaldı; küçüklər başa düşdü ki, daha irəli, o böyük itin ardınca getmək lazım deyil.
 
-Qarşıdakı qumsal dikdirin o tərəfindən dəmir yolu keçirdi və get-gedə dənizdən uzaqlaşan o dəmir yolunun sal dirəkləri mazuta bulaşmışdı, relslər yağlı idi və Gicbəsər eləcə asta addımlarla küçüklərdən uzaqlaşdı, o mazut iyinə, dəmir iyinə doğru getdi, bütün bədəni ağrıya-ağrıya, məftillərlə cızılmış sir-sifəti göynəyə- göynəyə dikdirin üstünə qalxdı və oradan ətrafa baxdı.
+Qarşıdakı qumsal dikdirin o tərəfindən dəmir yolu keçirdi və get-gedə dənizdən uzaqlaşan o dəmir yolunun sal dirəkləri mazuta bulaşmışdı, relslər yağlı idi və Gicbəsər eləcə asta addımlarla küçüklərdən uzaqlaşdı, o mazut iyinə, dəmir iyinə doğru getdi, bütün bədəni ağrıya-ağrıya, məftillərlə cızılmış sir-sifəti göynəyə-göynəyə dikdirin üstünə qalxdı və oradan ətrafa baxdı.
 
 Bakı tərəfin işıqları yavaş-yavaş sayrışmağa başlamışdı və orada Gicbəsər üçün heç bir naməlumluq yox idi, bu itin o uzaq sayrışan işıqlara baxan qara gözlərində indi tamam bir biganəlik var idi; Tülkü Gəldi Qəbiristanlığı da o tərəflərdə idi və əlbəttə, Gicbəsər başını aşağı salıb, canını dişinə tutub birtəhər gedib yenidən Tülkü Gəldi Qəbiristanlığına çıxa bilərdi – üç günəmi, beş günəmi, hər halda, gedib ora çıxardı, amma it biganə gözlərini o uzaq işıqlardan çəkdi və akasiya ağacının altına qayıdıb orada əvvəlki tək vurnuxan o iki küçüyə baxdı. Küçüklər Gicbəsəri görmürdülər və bir-birini iyləyə-iyləyə təzəcə gözlərini açdıqları bu dünyanı öyrənirdilər. Gicbəsərin qara gözlərinə yenə də birdən-birə dərin bir qüssə çökdü, daha doğrusu, gözlərindəki o qüssə (həmişəki qüssə!) daha da artdı və itin qılçaları titrədi, dörd ayağı üstə dura bilməyib dikdirin başında yerə çöməldi, elə bil ki, haçansa yekə, hərarətli bir əlin o küçükləri tumarlayacağını, sonra həmin hərarətin həmişəlik itib gedəcəyini, o küçüklərin dəmir tor çəpərlərin, daş hasarların ətrafında, asfalt yolların, küçələrin üstündə böyüyəcəyini əvvəlcədən hiss etdi, sonra o hisslər bir-birinə qarışdı və hər şeyi dəhşətli, dözülməz bir ağrı, dözülməz bir aclıq, dözülməz bir susuzluq əvəz etdi.
 
@@ -54,7 +54,7 @@ Gicbəsər ayağa qalxdı, dikdirin üstündən sonuncu dəfə uzaqlarda sayrı�
 
 Relslərin arası ilə yerimək çətin idi – relslərin bərkidildiyi mazutlu sal dirəklərin arası çınqılla doldurulmuşdu və hər dəfə dirəkdən çınqıla, çınqıldan isə təzədən dirəyin üstünə pəncəsini qoyduqda itin bütün əzələləri, yaralarının üstü qaysaq bağlamış dərisi dözülməz bir ağrı ilə ağrıyırdı, amma Gicbəsər relslərdən kənara çıxmırdı və başını aşağı salıb eləcə irəliləyirdi.
 
-Gicbəsər relslərin titrəyişini hiss etdi, uzaqdan sürətlə gələn təkərlərin səsini relslərdən eşitdi və it başını daha da aşağı saldı, elə bil, hansı bir zərbədənsə sövq- təbii qorunmaq istəyirdi, amma relslərin arasından kənara çıxmadı, əksinə, bədəninin ağrısına baxmayaraq addımlarını gücü çatınca dəqiq atmağa, relslərin tən ortası ilə irəliləməyə başladı.
+Gicbəsər relslərin titrəyişini hiss etdi, uzaqdan sürətlə gələn təkərlərin səsini relslərdən eşitdi və it başını daha da aşağı saldı, elə bil, hansı bir zərbədənsə sövq-təbii qorunmaq istəyirdi, amma relslərin arasından kənara çıxmadı, əksinə, bədəninin ağrısına baxmayaraq addımlarını gücü çatınca dəqiq atmağa, relslərin tən ortası ilə irəliləməyə başladı.
 
 Arxadan gələn qatar sürətlə yaxınlaşırdı və Gicbəsər o sürəti indi daha cismani hiss edirdi, amma nə arxaya baxırdı, nə də relslərin arasından çıxırdı.
 

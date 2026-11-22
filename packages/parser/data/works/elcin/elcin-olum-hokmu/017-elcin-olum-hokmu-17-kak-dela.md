@@ -30,15 +30,15 @@ Bu vaxt maraqlı bir hadisə baş verdi: iki gündən bəri ağlayan, yazıq Xə
 
 Əlbəttə, bir halda ki, Tülkü Gəldi Qəbiristanlığında yer tapılmamışdı, bir halda ki, Xədicə arvadı gətirib burada dəfn eləyirdilər, daha bu mərasimi isbatdan çıxarmaq lazım deyildi, olacağa çarə yox idi, məhəllənin gücü çatmamışdı ki, arvadı aparıb dədə-baba qəbiristanlığında torpağa tapşırsınlar, daha üstəlik, yanıqsılanmaq lazım deyildi. Məhəllə camaatı – kişilər də, arvadlar da daha nə kirayənişin tələbəyə, nə də bu keçmiş rus dili müəlliminə yarıtmadıqlarına görə, söz verib, amma yerinə yetirməməyi – Tülkü Gəldi Qəbiristanlığında yer almağı bacarmadıqlarına görə acıqla baxmırdılar, daha nəzərləri ilə məzəmmət etmirdilər. Onsuz da son vaxtlar illər ötdükcə, dünya dəyişdikcə məhəllə istəsə də, istəməsə də, bunu üzə vursa da, vurmasa, da, öz acizliyi ilə barışırdı. Dünya get-gedə elə bir kola çevrilirdi ki, məhəllə daha o kola girə bilmirdi, olsa-olsa, çörəkçi Ağabalanın əsgərlikdən təzə qayıtmış oğlu kimi, hədə-qorxu ilə kifayətlənirdi. İndi hər şeyi pul həll edirdi, məhəllənin isə pulu yox idi, məhəllə kasıb idi; indi hər şeyi tanışlıq, tapşırmaq həll edirdi, məhəllənin isə elə bir adamı yox idi, ən böyük vəzifə sahibi Molla Əsədullanın qardaşı oğlu idi ki, o da 8-ci kilometr qəsəbəsində notarius işləyirdi və Xədicə arvadın yasına da heç gəlməmişdi... Dünya dəyişirdi... Daha doğrusu, dünya dəyişmişdi və o aprel axşamı ki, Xədicə arvadı gətirib Təzə qəbiristanlıqda dəfn eləyirdilər, olsun ki, məhəllə sövq-təbii hiss etdi ki, bundan sonra daha ölülərinin üzü bu tərəfədir – bu Təzə qəbiristanlıq tərəfə...
 
-Molla Əsədulla da arvadların arasından ötüb təzə qazılmış qəbrə tərəf gedə- gedə:
+Molla Əsədulla da arvadların arasından ötüb təzə qazılmış qəbrə tərəf gedə-gedə:
 
 – Əslində, – dedi, – müsəlmançılıqda qəbirin üstü gərək torpaqla bərabər olsun, qəbir gərək torpağa qarışsın... Müsəlman qəbri gərək torpaqdan seçilməsin... O təmtəraq ki, indi ələyirlər, o, sonraların işidi, əvvəllər belə şeylər olmayıb!.. Müqəddəs bir şəxs ölərdi, yaxud ki, bir alimi-üləma köçərdi dünyadan, onda məqbərə tikərdilər, vəssalam!.. İndi müqəddəslik yoxdu ki, day!.. Kimin pulu var, məqbərə də onunkidi!..
 
 Tələbə fikirləşirdi ki, bəs, Molla Əsədullanın özünün necə, qəbrinin üstündə məqbərə tikəcəkdilər? Hər halda, o yazıq Xədicə arvadın qəbri, əlbəttə, torpaqdan seçilməyəcəkdi...
 
-Xosrov müəllim əllərini qara plaşının ciblərinə soxub yeni qazılmış qəbrin aşağı tərəfində məhəllə kişilərinin arasında dayanmışdı və hələlik içi boş qəbrə baxırdı, sonra gözlərini qaldırıb camaatın başı üstündən Təzə qəbiristanlığa baxdı və birdən- birə iki-üç il bundan əvvəl – təxminən 1978 – 1979-cu illərdə gördüyü və o vaxtdan bəri yadından çıxmayan bir yuxunu xatırladı: onda N. S. Xruşşovu yuxuda görmüşdü. Xruşşov əyninə yaxası naxışlı Ukrayna köynəyi geyib iki əliylə də tutduğu nəlbəkidən xortuldada-xortuldada çay içirdi. «– Zdravstvuyte, Nikita Serqeeviç!..» «– A-a-a!.. Xosrov muallim... Kak dela?» «– Niçeqo... A kak vaşi dela?» «– Toje niçeqo...»
+Xosrov müəllim əllərini qara plaşının ciblərinə soxub yeni qazılmış qəbrin aşağı tərəfində məhəllə kişilərinin arasında dayanmışdı və hələlik içi boş qəbrə baxırdı, sonra gözlərini qaldırıb camaatın başı üstündən Təzə qəbiristanlığa baxdı və birdən-birə iki-üç il bundan əvvəl – təxminən 1978 – 1979-cu illərdə gördüyü və o vaxtdan bəri yadından çıxmayan bir yuxunu xatırladı: onda N. S. Xruşşovu yuxuda görmüşdü. Xruşşov əyninə yaxası naxışlı Ukrayna köynəyi geyib iki əliylə də tutduğu nəlbəkidən xortuldada-xortuldada çay içirdi. «– Zdravstvuyte, Nikita Serqeeviç!..» «– A-a-a!.. Xosrov muallim... Kak dela?» «– Niçeqo... A kak vaşi dela?» «– Toje niçeqo...»
 
-Xədicə arvadı basdırdıqları o aprel axşamı Xosrov müəllimə elə gəldi ki, N. S. Xruşşov da Bakıdan xeyli aralıdakı bu Təzə qəbiristanlıqda dəfn olunub və bir- birinə bənzəyən o qəbirlərdən biri də N. S. Xruşşovundur.
+Xədicə arvadı basdırdıqları o aprel axşamı Xosrov müəllimə elə gəldi ki, N. S. Xruşşov da Bakıdan xeyli aralıdakı bu Təzə qəbiristanlıqda dəfn olunub və bir-birinə bənzəyən o qəbirlərdən biri də N. S. Xruşşovundur.
 
 Təzə qəbir daşlarının eyniliyi, təmizliyi yenə də birdən-birə ağ xalatları Xosrov müəllimin yadına saldı, ağ xalatlar isə öz növbəsində professor Lev Aleksandroviç Zilberi gözlərinin qabağına gətirdi və Xosrov müəllimə elə gəldi ki, professor Zilber də bu Təzə qəbiristanlıqda dəfn olunub...
 
@@ -58,7 +58,7 @@ Balaniyaz dünən də siçan axtarmırmış, müştəri axtarırmış...
 
 Sonra Balaniyaz həyətdəki süfrə arxasında oturub dinməzcə çay içən Xosrov müəllimə tərəf işarə etdi:
 
-– Ona da sən de... De ki, sabahdan çıxsın burdan! – Balaniyaz birinci dəfə tələbənin gözlərinə baxdı. – Nolar sən deyəndə? Anam elə çox istəyirdi səni ki!.. Əl- əlbət, çox istəyirdi!..
+– Ona da sən de... De ki, sabahdan çıxsın burdan! – Balaniyaz birinci dəfə tələbənin gözlərinə baxdı. – Nolar sən deyəndə? Anam elə çox istəyirdi səni ki!.. Əl-əlbət, çox istəyirdi!..
 
 Balaniyaz yazıq Xədicə arvadın o otaqlarının da, o balaca arakəsmənin, o balaca mətbəxin də bütün künc-bucağını axtaracaqdı, divarları qarış-qarış taqqıldadacaqdı, döşəmənin, tavanın köhnə taxtalarını qaldıracaqdı və anasının qızıllarını axtaracaqdı – hər halda, tələbəyə belə gəlirdi və hətta tələbə, elə bil ki, bunu artıq gözləriylə görürdü: Balaniyaz özü siçovul idi və o siçovul ora-bura qaça-qaça bütün buraları axtaracaqdı... Sonra da bu evi satacaqdı...
 
