@@ -16,7 +16,7 @@ Arxasınca qapı örtülən anda elə bil içərisində nəsə qırıldı. Bir m
 
 Bəli, o günahkardır. Günahkar isə gərək cəzasını çəkə. Çünki cəmiyyətin qanunu belədir. Bir də, onu beş il o qədər qorxutmur. İndi o, özünü yalnız bir şeydən – buradakı pis adamlardan, canilərdən qorumalıdır. Axı hər həbsxanada cani var. Deyirlər ki, bəzən onlar həbsxanada da öz çirkin əməllərindən əl çəkmirlər, aralarına bir fağır düşən kimi öldürürlər. Bir də... Bir də, cani insanı zəhərləyə bilər. O zəhər pis zəhərdir. İlan zəhəri deyil. Onun qətrəsi sənin qanına keçdimi, qurtardı; heç bir şey görə bilməyəcəksən. Günəş artıq səninçün nur saçmayacaq, quşlar oxumayacaq, güllər ətir qoxumayacaq...
 
-O, ciyər dolusu nəfəs aldı. Elə bil kimsə alnına buz qoydu, damarlarında canına yayılan bir sərinlik, bütün bədənində nə isə bir süstlük hiss etdi. Nə qədər 201 düşdüyünü yalnız indi dərk edə bildi.
+O, ciyər dolusu nəfəs aldı. Elə bil kimsə alnına buz qoydu, damarlarında canına yayılan bir sərinlik, bütün bədənində nə isə bir süstlük hiss etdi. Nə qədər zəif düşdüyünü yalnız indi dərk edə bildi.
 
 – Oğul, özünə gəldinmi?
 

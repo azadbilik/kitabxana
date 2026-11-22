@@ -50,7 +50,7 @@ Birinci qədəhlər boşalandan sonra biri dedi:
 
 Bax, mənim əzizim, mən həmin o şahzadəyəm. İntəhası nə dəmir libasım, nə polad qılcımcı, nə də dağlar və dəryalar arxasında məni gözləyən dünya gözəli, sevgilim var. Bütün bunların əvəzində bir ürəyim var, bir də ki, iki gözüm. Özüm də anadan olduğum ölkənin, Vətənimin qəlbində yaşıyıram.
 
-Lakin dünyaya gəldiyim gündən o nəhəng qışın qanadlarındayam. Biz hey 192, hey işıqlı dünya axtarırıq.
+Lakin dünyaya gəldiyim gündən o nəhəng qışın qanadlarındayam. Biz hey uçuruq, hey işıqlı dünya axtarırıq.
 
 Qardasım, məmləkətimdə, Təbrizdə xəzri əsir... Xəzri!
 

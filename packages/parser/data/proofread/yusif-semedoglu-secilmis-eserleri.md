@@ -1318,7 +1318,7 @@ Bu gün evə qayıdanda, müxtəsər təngnəfəs olsa da, hər halda, yetmişi 
 
 Zəminə xanım? Hər vaxtın xeyir. – Mərg Georgiyeviç Bakıya köçüb yaşadığı illər ərzində Azərbaycan dilini mükəmməl öyrənmişdi.
 
-– Çox sağ ol, salam göndərən sağ olsun... Tək... hemoqlobininin elə bir təhlükəsi yoxdu, narahat olma – rus dilinə keçdi. – Tı, radi boqa, ne bespokoysya. Poka ya ne viju veskix priçin dlya qospitalizatsii. Vse svyazano s qormonalnımi izmeneniyami, 1 pritom, neznaçitel'nimi. – Yenə Azərbaycan dilində davam elədi: – Bəli, bəli, qarnına tük çıxması da, əsəblərinin yerində olmaması da, hamısı ancaq hormonal dəyişikliklərlə əlaqədardır. Heç narahat olma. Axşam səkkizdən sonra gələcəyəm, mütləq. Bircə Səlimə xanıma baş çəkməliyəm, lap daha məni əldən salıb. Sonra sizə gələcəyəm. Mənnən də çoxlu salam söylə. Hələlik. – Dəstəyi aparatın üstünə qoydu, bir müddət nə haqdasa fikirləşə-fikirləşə dəstəklə aparatı birləşdirən burulma məftilə baxdı və yerindən qalxmadı. Mətbəxdə çaynik fit verənə kimi beləcə oturub tərpənmədi. Çaynik fit çalıb, “qaynadım, partladım” deyəndə qalxdı, qurumuş fəqərə sütunundakı sızıltıya məhəl qoymadan mətbəxə yönəldi, dəhlizdən keçəndə yüngülvarı axsadığını hiss etdi – ağrı həmişə sağ ayağına vururdu – fit çaldı, mətbəxdə özünə bir stəkan tünd çay süzüb kəmşirin elədi, tələsmədən, alkoqolik şirin çaxırın hər qurtumunu vaxtı uzada-uzada içdiyi kimi (ağlına gələn bu müqayisədən güldü), o da çayını qurtum-qurtum, dadını, istisini dilinə, selikli qişasına, beyninə yaya-yaya içdi. Bayaqdan, telefonla danışdıqdan sonra içərisində hərələdiyi fikrin üstünə bir də qayıtdı: xəstənin bütün analizləri, üstəlik də, ümumi klinik mənzərə onun diaqnozunu hərtərəfli təsdiq edirdi, lakin belə bir aydın mənzərə fonunda adam qarnına birdən-birə tük çıxmasının səbəbi heç cür izah olunmurdu. Və açığı, Bakıda Mərg Georgiyeviçin bu sarıdan məsləhət ala biləcəyi elə bir adam da qalmamışdı. Şəhərin ən məşhur endokrinoloqu sayılan, Mərg Georgiyeviçin köhnə dostu professor Qasımbəyli inişil rəhmətə getmişdi. Qalanları, açıq, o qədər də bel bağlamalı adamlar deyildilər, cavan həkimlərin isə əksər hallarda bisavadlığı ilə üz-üzə gələndə qolları sustalıb yanına düşürdü... Berqman bu məsələdə, şübhəsiz, ilişməyinə ilişmişdi, müalicəsinin hansı mərhələsində isə səhvə yol vermişdi. Səhvəmi?.. Hər halda, Mərg Georgiyeviç özü, səhv elədi-
+– Çox sağ ol, salam göndərən sağ olsun... Tək... hemoqlobininin elə bir təhlükəsi yoxdu, narahat olma – rus dilinə keçdi. – Tı, radi boqa, ne bespokoysya. Poka ya ne viju veskix priçin dlya qospitalizatsii. Vse svyazano s qormonalnımi izmeneniyami, i pritom, neznaçitel'nimi. – Yenə Azərbaycan dilində davam elədi: – Bəli, bəli, qarnına tük çıxması da, əsəblərinin yerində olmaması da, hamısı ancaq hormonal dəyişikliklərlə əlaqədardır. Heç narahat olma. Axşam səkkizdən sonra gələcəyəm, mütləq. Bircə Səlimə xanıma baş çəkməliyəm, lap daha məni əldən salıb. Sonra sizə gələcəyəm. Mənnən də çoxlu salam söylə. Hələlik. – Dəstəyi aparatın üstünə qoydu, bir müddət nə haqdasa fikirləşə-fikirləşə dəstəklə aparatı birləşdirən burulma məftilə baxdı və yerindən qalxmadı. Mətbəxdə çaynik fit verənə kimi beləcə oturub tərpənmədi. Çaynik fit çalıb, “qaynadım, partladım” deyəndə qalxdı, qurumuş fəqərə sütunundakı sızıltıya məhəl qoymadan mətbəxə yönəldi, dəhlizdən keçəndə yüngülvarı axsadığını hiss etdi – ağrı həmişə sağ ayağına vururdu – fit çaldı, mətbəxdə özünə bir stəkan tünd çay süzüb kəmşirin elədi, tələsmədən, alkoqolik şirin çaxırın hər qurtumunu vaxtı uzada-uzada içdiyi kimi (ağlına gələn bu müqayisədən güldü), o da çayını qurtum-qurtum, dadını, istisini dilinə, selikli qişasına, beyninə yaya-yaya içdi. Bayaqdan, telefonla danışdıqdan sonra içərisində hərələdiyi fikrin üstünə bir də qayıtdı: xəstənin bütün analizləri, üstəlik də, ümumi klinik mənzərə onun diaqnozunu hərtərəfli təsdiq edirdi, lakin belə bir aydın mənzərə fonunda adam qarnına birdən-birə tük çıxmasının səbəbi heç cür izah olunmurdu. Və açığı, Bakıda Mərg Georgiyeviçin bu sarıdan məsləhət ala biləcəyi elə bir adam da qalmamışdı. Şəhərin ən məşhur endokrinoloqu sayılan, Mərg Georgiyeviçin köhnə dostu professor Qasımbəyli inişil rəhmətə getmişdi. Qalanları, açıq, o qədər də bel bağlamalı adamlar deyildilər, cavan həkimlərin isə əksər hallarda bisavadlığı ilə üz-üzə gələndə qolları sustalıb yanına düşürdü... Berqman bu məsələdə, şübhəsiz, ilişməyinə ilişmişdi, müalicəsinin hansı mərhələsində isə səhvə yol vermişdi. Səhvəmi?.. Hər halda, Mərg Georgiyeviç özü, səhv elədi-
 
 @@ 041
 
@@ -1586,7 +1586,7 @@ Xəstə də zarafata keçdi.
 
 – Qədrini bilməsəydim, – dedi, – çoxdan boşamışdım.
 
-O, Zəminənin məhz indi gəlməsinə şad 10, çünki, hardasa daxilində, Berqmanla söhbəti davam etdirmək istəmirdi. Neyçünsə qəti əmin idi ki, nə o, Berqmanı inandıra biləcəkdi, nə də Berqman onu. Deyəsən, elə Berqman da bu fikirdə idi: mürəbbə ilə rahat-rahat çayını içirdi və xəstə bayaqkı sözləri qulaqları ilə eşitməsəydi, indi doktorun sifətinə baxıb deyərdi ki, bu adam lap uşaqlıqdan tanıdığı həmin Mərg Georgiyeviç Berqmandı – həyatında bəlkə də hər şeydən çox, yaxşı dəmlənmiş çayla mürəbbə üçün sino gedən dünyanın laqeyd və fağır bəndəsi. İndi bu bəndə, balaca nəlbəkidən moruq mürəbbəsini qaşıq-qaşıq götürüb ağzına qoyub, dodaqlarını marçıldada-marçıldada, ləzzət ala-ala çayı xırda qurtumlarla içməklə məşğul idi: xəstəyə elə gəldi ki, otaqda bomba partlasa da, Berqman stəkanı əlindən yerə qoyası deyil.
+O, Zəminənin məhz indi gəlməsinə şad idi, çünki, hardasa daxilində, Berqmanla söhbəti davam etdirmək istəmirdi. Neyçünsə qəti əmin idi ki, nə o, Berqmanı inandıra biləcəkdi, nə də Berqman onu. Deyəsən, elə Berqman da bu fikirdə idi: mürəbbə ilə rahat-rahat çayını içirdi və xəstə bayaqkı sözləri qulaqları ilə eşitməsəydi, indi doktorun sifətinə baxıb deyərdi ki, bu adam lap uşaqlıqdan tanıdığı həmin Mərg Georgiyeviç Berqmandı – həyatında bəlkə də hər şeydən çox, yaxşı dəmlənmiş çayla mürəbbə üçün sino gedən dünyanın laqeyd və fağır bəndəsi. İndi bu bəndə, balaca nəlbəkidən moruq mürəbbəsini qaşıq-qaşıq götürüb ağzına qoyub, dodaqlarını marçıldada-marçıldada, ləzzət ala-ala çayı xırda qurtumlarla içməklə məşğul idi: xəstəyə elə gəldi ki, otaqda bomba partlasa da, Berqman stəkanı əlindən yerə qoyası deyil.
 
 – Doktor, birin də, hə? – Zəminə soruşdu. Berqman gümüş qaşığın arxasını yalaya-yalaya:
 
@@ -1680,7 +1680,7 @@ Xacə Ənvərin qulaqları tərpəndi, büzüşüb yatdığı yerdən dik atıl�
 
 – Nədi, dərdi-bəlan mənə gəlsin?
 
-Bu, günün, ilin həmin o vədəsi 10 ki, şahidlər olmadığına görə, hökmdar nökərini adıyla çağırırdı, zəhmli baxışı ilə yox, nökər isə öz
+Bu, günün, ilin həmin o vədəsi idi ki, şahidlər olmadığına görə, hökmdar nökərini adıyla çağırırdı, zəhmli baxışı ilə yox, nökər isə öz
 
 @@ 051
 
@@ -1754,7 +1754,7 @@ Səlimə xanımın diaqnozunun adını Berqman deyəndə çox uzun və müəmmal
 
 – Sən çayı qoy istiyə, – dedim.
 
-Arvad otaqdan çıxandan sonra səliqə ilə bağlanmış qovluğu açıb içindən üçcə dənə nazik, üzü, varaqları saralıb kif atmış dəftər çıxardım: bir anlığa burnuma da nəsə xoşagəlməz bir iy doldu və mən bizim həyətdəki zibilxananın yay üfunətini xatırladım. Dəftərlərin üstünə qırmızı mürəkkəblə və rum rəqəmlərilə 1, II, III yazılmışdı və heç şübhəsiz, bunları Səlimə xanım öz əlilə yazmışdı: mürəkkəb təzə mürəkkəb idi. Elə bu vaxt arvad çayımı gətirdi, mən çaydan bir qurtum içib – konyakdan sonra bir az dirçəlmişdim – birinci dəftəri açdım və ilk səhifədə əski əlifba ilə yazılmış ilk sözləri oxudum: “Tfu sənin hərçi-pətərinə, bclə dünya!”
+Arvad otaqdan çıxandan sonra səliqə ilə bağlanmış qovluğu açıb içindən üçcə dənə nazik, üzü, varaqları saralıb kif atmış dəftər çıxardım: bir anlığa burnuma da nəsə xoşagəlməz bir iy doldu və mən bizim həyətdəki zibilxananın yay üfunətini xatırladım. Dəftərlərin üstünə qırmızı mürəkkəblə və rum rəqəmlərilə I, II, III yazılmışdı və heç şübhəsiz, bunları Səlimə xanım öz əlilə yazmışdı: mürəkkəb təzə mürəkkəb idi. Elə bu vaxt arvad çayımı gətirdi, mən çaydan bir qurtum içib – konyakdan sonra bir az dirçəlmişdim – birinci dəftəri açdım və ilk səhifədə əski əlifba ilə yazılmış ilk sözləri oxudum: “Tfu sənin hərçi-pətərinə, bclə dünya!”
 
 Yaxşı deyiblər ki, sən çaldığını çal, gör fələk nə çalır! Eşq olsun Əbülqasıma, elə bu yaxınlarda bu müdrik kəlamı onun kitabında bir də oxumuşdum: bu sözləri, Sədi əfəndinin vərəqləri qaxac kimi qurumuş birinci dəftərinin ilk səhifəsindəki bu sözləri əslində mən oxumadım, yox, lənət şeytana, əlbəttə, oxudum, amma məsələ bundadı ki, baxışlarım hərflər boyu sağdan sola sürüşdükcə, bu hərflərin hər biri qulaq tanış və uzaq bir səsə çevrildi – atamın səsinə. Zəminə soruşdu:
 
@@ -3244,7 +3244,7 @@ Birinci qədəhlər boşalandan sonra biri dedi:
 
 Bax, mənim əzizim, mən həmin o şahzadəyəm. İntəhası nə dəmir libasım, nə polad qılcımcı, nə də dağlar və dəryalar arxasında məni gözləyən dünya gözəli, sevgilim var. Bütün bunların əvəzində bir ürəyim var, bir də ki, iki gözüm. Özüm də anadan olduğum ölkənin, Vətənimin qəlbində yaşıyıram.
 
-Lakin dünyaya gəldiyim gündən o nəhəng qışın qanadlarındayam. Biz hey 192, hey işıqlı dünya axtarırıq.
+Lakin dünyaya gəldiyim gündən o nəhəng qışın qanadlarındayam. Biz hey uçuruq, hey işıqlı dünya axtarırıq.
 
 Qardasım, məmləkətimdə, Təbrizdə xəzri əsir... Xəzri!
 
@@ -4410,7 +4410,7 @@ Arxasınca qapı örtülən anda elə bil içərisində nəsə qırıldı. Bir m
 
 Bəli, o günahkardır. Günahkar isə gərək cəzasını çəkə. Çünki cəmiyyətin qanunu belədir. Bir də, onu beş il o qədər qorxutmur. İndi o, özünü yalnız bir şeydən – buradakı pis adamlardan, canilərdən qorumalıdır. Axı hər həbsxanada cani var. Deyirlər ki, bəzən onlar həbsxanada da öz çirkin əməllərindən əl çəkmirlər, aralarına bir fağır düşən kimi öldürürlər. Bir də... Bir də, cani insanı zəhərləyə bilər. O zəhər pis zəhərdir. İlan zəhəri deyil. Onun qətrəsi sənin qanına keçdimi, qurtardı; heç bir şey görə bilməyəcəksən. Günəş artıq səninçün nur saçmayacaq, quşlar oxumayacaq, güllər ətir qoxumayacaq...
 
-O, ciyər dolusu nəfəs aldı. Elə bil kimsə alnına buz qoydu, damarlarında canına yayılan bir sərinlik, bütün bədənində nə isə bir süstlük hiss etdi. Nə qədər 201 düşdüyünü yalnız indi dərk edə bildi.
+O, ciyər dolusu nəfəs aldı. Elə bil kimsə alnına buz qoydu, damarlarında canına yayılan bir sərinlik, bütün bədənində nə isə bir süstlük hiss etdi. Nə qədər zəif düşdüyünü yalnız indi dərk edə bildi.
 
 – Oğul, özünə gəldinmi?
 
