@@ -29,9 +29,20 @@ export interface Scan {
   range?: PageRange;
 }
 
-/** Books the texts were transcribed from: National Library (bibid) and Halle MENAdoc (handle) */
-const KEY = /^(anl-\d+|halle-\d+)$/;
+/**
+ * Books the texts were transcribed from: National Library (bibid), Halle MENAdoc (handle),
+ * kitabxana.net (book id), Presidential Library (e-book id) and turuz.com (a name per volume)
+ */
+const KEY = /^(anl-\d+|halle-\d+|kxn-\d+|preslib-[A-Za-z0-9]+|turuz-[a-z0-9]+(?:-[a-z0-9]+)*)$/;
 const SOURCE_KEY = /^(anl-\d+|halle-\d+)(?:-|$)/;
+// Their works carry a part number after the book's key: kxn-500-t12, turuz-nebi-xezri-1-t3-2
+const PART_KEY = /^(kxn-\d+|preslib-[A-Za-z0-9]+|turuz-[a-z0-9-]+?)(?:-q)?-t\d/;
+/** A work's page in its scan: the National Library reader's `pno`, or a PDF link's `#page` */
+const PAGE = /[?&]pno=(\d+)|#page=(\d+)/;
+const pageOf = (note: string | null | undefined) => {
+  const m = note?.match(PAGE);
+  return m ? Number(m[1] ?? m[2]) : NaN;
+};
 const TTL = 5 * 60_000;
 
 /** Where each work of a book sits in its scan */
@@ -120,7 +131,7 @@ export class ScansService {
 
   /** Book key of a work's sourceId, e.g. `anl-8283` */
   static keyOf(sourceId: string | null | undefined) {
-    return sourceId?.match(SOURCE_KEY)?.[1] ?? null;
+    return sourceId?.match(SOURCE_KEY)?.[1] ?? sourceId?.match(PART_KEY)?.[1] ?? null;
   }
 
   /** Absolute path of a book's PDF, or null when the key is malformed or the file is missing */
@@ -155,13 +166,13 @@ export class ScansService {
   }
 
   private async buildLayout(key: string): Promise<Layout | null> {
-    // Only the National Library's reader links carry a page
+    // Pages come from the source links: the National Library reader's, or a PDF's #page
     const file = this.file(key);
-    if (!file || !key.startsWith('anl-')) return null;
+    if (!file) return null;
     const rows = await this.prisma.$queryRaw<
       { sourceId: string; collectionId: string | null; pno: number | null; chars: number }[]
     >`select "sourceId", "collectionId",
-             nullif(substring("sourceNote" from '[?&]pno=(\\d+)'), '')::int as pno,
+             nullif(coalesce(substring("sourceNote" from '[?&]pno=(\\d+)'), substring("sourceNote" from '#page=(\\d+)')), '')::int as pno,
              length(body)::int as chars
         from "Work" where "sourceId" like ${`${key}-%`}`;
     const placed = rows.filter((r) => r.pno && r.pno > 0) as (typeof rows[number] & { pno: number })[];
@@ -255,7 +266,7 @@ export class ScansService {
   async forWork(work: { sourceId: string | null; sourceNote: string | null }): Promise<Scan | null> {
     const key = ScansService.keyOf(work.sourceId);
     if (!key || !this.file(key)) return null;
-    const pno = key.startsWith('anl-') ? Number(work.sourceNote?.match(/[?&]pno=(\d+)/)?.[1]) : NaN;
+    const pno = pageOf(work.sourceNote);
     const layout = await this.layout(key);
     const own = layout?.works.get(work.sourceId!);
     const range = own && layout ? this.withBytes(layout, own) : undefined;

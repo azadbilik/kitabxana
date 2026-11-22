@@ -37,7 +37,7 @@ The deploy job logs in to GHCR with the job's own token, so the server keeps no 
 On the server, in `/opt/irs-az`:
 - `.env`: from [.env.example](.env.example), plus the reader sign-in keys (`MAIL_API_KEY`, `MAIL_FROM`, `GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`) and `INDEXNOW_KEY`.
 - `cloudflared/`: the tunnel's credentials JSON (from `~/.cloudflared/` on the machine that ran `cloudflared tunnel login`) and a `config.yml` like the laptop's, with `service: http://caddy:80`. Files must be readable by uid 65532.
-- `scans/`: the scanned books, `rsync -a ~/kitabxana-scans/ deploy@<host>:/opt/irs-az/scans/`.
+- `scans/`: the scanned books, `<key>.pdf` at the top level (`anl-`, `halle-`, `kxn-`, `preslib-`, `turuz-`): `rsync -a --exclude='*/' ~/kitabxana-scans/ deploy@<host>:/opt/irs-az/scans/` (subfolders hold the same books under their downloaded names).
 
 ### 4. First deploy
 
