@@ -9,6 +9,7 @@ export const LANGUAGE_LABELS: Record<Language, string> = {
   RU: 'Rusca',
   EN: 'English',
   TR: 'Türkcə',
+  DE: 'Almanca',
 };
 
 export const LANGUAGE_LABELS_RU: Record<Language, string> = {
@@ -20,6 +21,7 @@ export const LANGUAGE_LABELS_RU: Record<Language, string> = {
   RU: 'Русский',
   EN: 'Английский',
   TR: 'Турецкий',
+  DE: 'Немецкий',
 };
 
 export const RTL_LANGUAGES: Language[] = ['FA', 'AR', 'AZ_ARABIC'];

@@ -38,6 +38,7 @@ const BCP47: Record<Language, string> = {
   RU: 'ru',
   EN: 'en',
   TR: 'tr',
+  DE: 'de',
 };
 const RTL: Language[] = RTL_LANGUAGES;
 

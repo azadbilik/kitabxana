@@ -8,7 +8,8 @@ export type Language =
   | 'AR'
   | 'RU'
   | 'EN'
-  | 'TR';
+  | 'TR'
+  | 'DE';
 
 export type Genre =
   | 'POEM'

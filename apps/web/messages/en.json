@@ -292,7 +292,8 @@
         "AR": "Arabic",
         "TR": "Turkish",
         "RU": "Russian",
-        "EN": "English"
+        "EN": "English",
+        "DE": "German"
       },
       "genre": {
         "POEM": "Poetry",
@@ -462,7 +463,8 @@
       "AR": "Arabic original",
       "RU": "Russian original",
       "EN": "Original",
-      "TR": "Turkish original"
+      "TR": "Turkish original",
+      "DE": "German original"
     },
     "appearance_more": "Accessibility settings",
     "gloss_lookup": "Look up a word",
@@ -673,7 +675,8 @@
       "AR": "Arabic",
       "RU": "Russian",
       "TR": "Turkish",
-      "EN": "English"
+      "EN": "English",
+      "DE": "German"
     },
     "lang_in": {
       "AZ_LATIN": "In Azerbaijani",
@@ -683,7 +686,8 @@
       "AR": "In Arabic",
       "RU": "In Russian",
       "TR": "In Turkish",
-      "EN": "In English"
+      "EN": "In English",
+      "DE": "In German"
     },
     "no_results": "No results found"
   },

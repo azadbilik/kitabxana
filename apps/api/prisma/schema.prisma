@@ -18,6 +18,7 @@ enum Language {
   RU
   EN
   TR
+  DE
 }
 
 enum ScriptDirection {

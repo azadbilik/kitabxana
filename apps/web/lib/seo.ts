@@ -145,6 +145,7 @@ export const LANGUAGE_TAGS: Record<string, string> = {
   RU: 'ru',
   EN: 'en',
   TR: 'tr',
+  DE: 'de',
 };
 
 /** A BreadcrumbList; the last crumb is the page itself and needs no URL */

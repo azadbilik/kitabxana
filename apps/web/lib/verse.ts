@@ -8,6 +8,7 @@ export const langTag: Record<string, string> = {
   RU: 'ru',
   EN: 'en',
   TR: 'tr',
+  DE: 'de',
 };
 
 /** Translation language a reader of each UI locale should see first */

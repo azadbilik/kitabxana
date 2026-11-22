@@ -10,7 +10,7 @@ import { CENTURIES } from '@irs-az/shared';
 const AUTHOR_TYPES = ['POET', 'WRITER', 'PLAYWRIGHT', 'PHILOSOPHER', 'CRITIC', 'FOLK'];
 const GENRES = ['POEM', 'PROSE', 'PLAY', 'ESSAY', 'PHILOSOPHY', 'LETTER', 'MEMOIR'];
 const FORMS = ['GHAZAL', 'MASNAVI', 'RUBAI', 'QASIDA', 'MURABBA', 'FREE_VERSE', 'OTHER'];
-const LANGS = ['AZ_LATIN', 'AZ_ARABIC', 'AZ_CYRILLIC', 'FA', 'AR', 'RU', 'TR', 'EN'];
+const LANGS = ['AZ_LATIN', 'AZ_ARABIC', 'AZ_CYRILLIC', 'FA', 'AR', 'RU', 'TR', 'EN', 'DE'];
 
 export interface Labels {
   authorType: (type: string | null | undefined) => string | null;

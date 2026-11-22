@@ -9,6 +9,7 @@ export const LANGUAGES = [
   'RU',
   'EN',
   'TR',
+  'DE',
 ] as const;
 export type Language = (typeof LANGUAGES)[number];
 
