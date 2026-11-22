@@ -41,12 +41,17 @@ export async function importWorks(opts: {
   dryRun?: boolean;
   authorSlug?: string;
   publish?: boolean;
+  /** Only works whose sourceId starts with this (one book's import) */
+  sourceStem?: string;
 }) {
   const db = getDb();
   const files = loadWorkFiles();
-  const filtered = opts.authorSlug
+  const byAuthor = opts.authorSlug
     ? files.filter((f) => f.frontmatter.authorSlug === opts.authorSlug)
     : files;
+  const filtered = opts.sourceStem
+    ? byAuthor.filter((f) => f.frontmatter.sourceId?.startsWith(opts.sourceStem!))
+    : byAuthor;
 
   console.log(`Importing ${filtered.length} work(s)...`);
 

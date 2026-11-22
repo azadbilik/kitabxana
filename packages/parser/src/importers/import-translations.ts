@@ -36,6 +36,8 @@ export async function importTranslations(opts: {
   authorSlug?: string;
   publish?: boolean;
   translator?: string;
+  /** Only translations of works whose sourceId starts with this (one book's import) */
+  sourceStem?: string;
 }) {
   const db = getDb();
   const files = loadTranslationFiles().filter((f) => !opts.translator || f.frontmatter.translator === opts.translator);
@@ -51,6 +53,12 @@ export async function importTranslations(opts: {
       });
       allowedWorkSlugs = new Set(works.map((w) => w.slug));
     }
+  }
+
+  if (opts.sourceStem) {
+    const works = await db.work.findMany({ where: { sourceId: { startsWith: opts.sourceStem } }, select: { slug: true } });
+    const stem = new Set(works.map((w) => w.slug));
+    allowedWorkSlugs = allowedWorkSlugs ? new Set([...allowedWorkSlugs].filter((s) => stem.has(s))) : stem;
   }
 
   const filtered = allowedWorkSlugs

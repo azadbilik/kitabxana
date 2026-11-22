@@ -16,12 +16,14 @@ export const importMdCommand = new Command('import-md')
   .option('--force', 'Overwrite existing records even if unchanged')
   .option('--publish', 'Override status to PUBLISHED for all imported records')
   .option('--translator <name>', "Only import translations by this translator (as in the files' frontmatter)")
-  .action(async (opts: { type: ImportType; author?: string; dryRun?: boolean; force?: boolean; publish?: boolean; translator?: string }) => {
+  .option('--source-stem <stem>', "Only import works whose sourceId starts with this, and their translations (one book, e.g. 'preslib-YNIKafFp-')")
+  .action(async (opts: { type: ImportType; author?: string; dryRun?: boolean; force?: boolean; publish?: boolean; translator?: string; sourceStem?: string }) => {
     const commonOpts = {
       dryRun: opts.dryRun,
       force: opts.force,
       authorSlug: opts.author,
       publish: opts.publish,
+      sourceStem: opts.sourceStem,
     };
 
     try {
