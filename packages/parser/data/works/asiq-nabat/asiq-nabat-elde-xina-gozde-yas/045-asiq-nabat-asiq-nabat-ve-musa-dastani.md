@@ -28,7 +28,7 @@ Nabat dedi:
 
 -Gözəl olar, evimə gəl, şeirini də gətir.
 
-Bir gün Musa Yevlağa Nabatgilə gəldi, yavaşyavaş darvaza qapısını döydü. Nabat qapını açdı. Musa gözünə inanmadı. Nabat çarpayını həyətdəki gilas ağacının altına qoyub yatmışdı.
+Bir gün Musa Yevlağa Nabatgilə gəldi, yavaş-yavaş darvaza qapısını döydü. Nabat qapını açdı. Musa gözünə inanmadı. Nabat çarpayını həyətdəki gilas ağacının altına qoyub yatmışdı.
 
 Musa nə vaxt gəlirdisə, Nabatın gilas ağacının altında yatdığının şahidi olurdu. Hər dəfə Musanın heyrətə gəldiyini Nabat da duyurdu.
 
@@ -36,7 +36,7 @@ Nabat dedi:
 
 -Musa, deyəsən düşünürsən ki, niyə Nabat bayırda yatır, qızı isə aynəbənddə. Mən burada heç kəsin yolunu gözləmirəm. Bunun başqa sirri var. Sən sənət adamısan, şeirin, sazın nə olduğunu duyursan. Odur ki, bu sirri sənə deyəcəyəm. Bu sirr, sazın-sözün sehri ilə bağlıdır. Hamı sazı, eyni cür çalmır. Hər kəsin öz duyumu, öz duyğusu var. Mənim sazımdakı sehrli səslər hər səhər-axşam bu gilas ağacında ötən bir cüt bülbülün səsidir. Heç vaxt bülbülləri aşkarda oxuyan görməmişəm. Sən bülbüllərdəki abıra-həyaya, incəliyə, zərifliyə bax. Onlar oxuyan zaman yarpaqlar arasında oxuyurlar. Onların mahnıları təkrar olunmazdır.
 
-Gah qəmli, gah da sevincli xoş mahnılar oxuyurlar. Mən sazımı onların səsi üstə kökləyirəm. Onlar qəmli oxuyanda elə bil kimsə yarını itirib. “Baş Sarıtel” üstə oxuya-oxuya onu axtarır, sevinclə cəhcəh vurub oxuyanda elə bil bülbüllər “Orta Sarıtel” üstə çalıb oxuyurlar. Vaxtilə Novruz da, Xan Tahir də bülbülləri dinləyəndən sonra “Bülbül” rədifli şeirlərini düzüb-qoşublar.
+Gah qəmli, gah da sevincli xoş mahnılar oxuyurlar. Mən sazımı onların səsi üstə kökləyirəm. Onlar qəmli oxuyanda elə bil kimsə yarını itirib. “Baş Sarıtel” üstə oxuya-oxuya onu axtarır, sevinclə cəh-cəh vurub oxuyanda elə bil bülbüllər “Orta Sarıtel” üstə çalıb oxuyurlar. Vaxtilə Novruz da, Xan Tahir də bülbülləri dinləyəndən sonra “Bülbül” rədifli şeirlərini düzüb-qoşublar.
 
 Musanı heyrət bürüdü, özünü ələ ala bilmədi.
 
