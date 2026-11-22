@@ -296,8 +296,9 @@ export function ReadingView({
         <ReadingProgress slug={slug} workId={workId} targetId={textId} dir={soloDir} pagination={pagination} minutes={minutes} />
       )}
 
-      {/* The headings are the original's: they lead nowhere in a translation read alone */}
-      {!isPoem && view !== 'translation' && sections.length >= MIN_SECTIONS && (
+      {/* The headings are the original's (unless it has none): they lead nowhere in a
+          translation read alone */}
+      {!isPoem && (view !== 'translation' || !hasOriginal) && sections.length >= MIN_SECTIONS && (
         <details className="reading-contents">
           <summary>{t('contents')}</summary>
           <ol>

@@ -56,12 +56,22 @@ const pagePath = (locale: string, slug: string, n: number) => `${workPath(locale
 
 /**
  * The reading pages of a long prose text, LitRes-style. Poems are never paged, and a text
- * with a translation stays whole, so the two can be read side by side.
+ * with a translation stays whole, so the two can be read side by side. A work kept only in
+ * translation is paged from its default translation.
  */
 function pagesOf(work: any) {
   if (work.genre === 'POEM') return null;
-  const paged = prosePages(work, work.bodyHtml || work.body);
-  return { ...paged, count: work.translations?.length ? 1 : paged.pages.length };
+  const translation = hasOriginal(work) ? null : defaultTranslation(work);
+  if (!hasOriginal(work) && !translation) return null;
+  const paged = prosePages(work, translation ? translation.bodyHtml || translation.body : work.bodyHtml || work.body);
+  const sideBySide = !translation && work.translations?.length;
+  return { ...paged, count: sideBySide ? 1 : paged.pages.length, translationId: (translation?.id ?? null) as string | null };
+}
+
+/** The translation shown first: the default one, else the earliest */
+function defaultTranslation(work: any) {
+  const all: any[] = (work.translations ?? []).filter((tr: any) => tr.language !== work.originalLang);
+  return all.find((tr) => tr.isDefault) ?? all[0] ?? null;
 }
 
 /**
@@ -253,7 +263,8 @@ export default async function WorkPage({ params, searchParams }: Props) {
   const pageCount = paged?.count ?? 1;
   const page = resolvePage(query.p, pageCount, locale, slug);
   const pageHref = (n: number) => pagePath(locale, slug, n);
-  if (paged) original.html = pageCount > 1 ? paged.pages[page - 1] : paged.pages.join('\n');
+  const pageHtml = paged ? (pageCount > 1 ? paged.pages[page - 1] : paged.pages.join('\n')) : '';
+  if (paged && !paged.translationId) original.html = pageHtml;
   // Contents entries lead to the page their heading is on
   const sections = (paged?.sections ?? []).map(({ id, text, page: on }) => ({
     id,
@@ -279,6 +290,10 @@ export default async function WorkPage({ params, searchParams }: Props) {
     sourceNote: chosen.shown.sourceNote,
     scriptDirection: chosen.shown.scriptDirection,
   };
+  // A work kept only in translation reads its paged translation; another translator's
+  // version of it (?tr=) is shown whole
+  const pagedHere = !paged?.translationId || translation?.id === paged.translationId;
+  if (paged?.translationId && translation && pagedHere) translation.bodyHtml = pageHtml;
   const formLabel = work.form && work.form !== 'OTHER' ? options(`form.${work.form}` as any) : null;
 
   const navHref = (item: { slug: string } | null) => (item ? workPath(locale, item.slug) : null);
@@ -422,8 +437,8 @@ export default async function WorkPage({ params, searchParams }: Props) {
         suggestHref={localePath(locale, `/contribute?type=translation&work=${encodeURIComponent(slug)}`)}
         slug={slug}
         workId={work.id}
-        sections={sections}
-        pagination={pageCount > 1 ? { page, pages: pageCount } : null}
+        sections={pagedHere ? sections : []}
+        pagination={pageCount > 1 && pagedHere ? { page, pages: pageCount } : null}
         minutes={minutes}
       />
 
