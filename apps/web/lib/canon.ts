@@ -246,7 +246,6 @@ export const MISSING: Missing[] = [
   { name: 'Ceyhun Hacıbəyli', years: '1891–1962', era: 'emigration', branch: 'prose' },
   { name: 'Banin (Ümmülbanu)', years: '1905–1992', era: 'emigration', branch: 'prose', note: '«Jours caucasiens»' },
   // south
-  { name: 'Səhənd (Bulud Qaraçorlu)', years: '1926–1979', era: 'south', branch: 'poetry', note: '«Sazımın sözü»' },
   { name: 'Rza Bərahəni', years: '1935–2022', era: 'south', branch: 'persian' },
   { name: 'Əli Tudə', years: '', era: 'south', branch: 'poetry' },
   // thaw
