@@ -12,7 +12,11 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=369
 status: DRAFT
 ---
-*Ey qadir Allah! Sənə ona görə səcdə eləmirəm ki, Sənin cənnə ti nə tamahım var, ona görə səcdə eləmirəm ki, Sənin cəhənnə mindən qorxuram. Sənə ona görə səcdə edirəm ki, Sən bu səcdəyə layiqsən. Həzrəti Əli*
+*Ey qadir Allah! Sənə ona görə səcdə eləmirəm ki, Sənin*
+*cənnə ti nə tamahım var, ona görə səcdə eləmirəm ki, Sənin*
+*cəhənnə mindən qorxuram. Sənə ona görə səcdə edirəm ki, Sən*
+*bu səcdəyə layiqsən.*
+*Həzrəti Əli*
 
 Allah evi! And içirəm,
 Ərənlərin canı haqqı!

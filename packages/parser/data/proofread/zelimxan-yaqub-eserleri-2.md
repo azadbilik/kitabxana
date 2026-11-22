@@ -80,7 +80,8 @@ Neçə dəfə yıxılarmış, durarmış,
 @@ 008
 
 # Üçtelli durna
-*Sevimli şairimiz Osman Sarıvəlli öz sazını məşhur İraq şairi Əbdüllətif Bəndəroğluna hədiyyə vermişdir*
+*Sevimli şairimiz Osman Sarıvəlli öz sazını məşhur*
+*İraq şairi Əbdüllətif Bəndəroğluna hədiyyə vermişdir*
 
 Dostluğun nəğməsi baldan şirindir,
 Tellər bu eşq ilə ötür, ay sazım.
@@ -346,7 +347,8 @@ Bir kök üstə min bəhrəli budaq görüm!
 
 # Sən şeir oxuyanda
 
-*Ağdam ölkəşünaslıq muzeyinin əməkdaşı Xatirə xanıma həsr edirəm*
+*Ağdam ölkəşünaslıq muzeyinin*
+*əməkdaşı Xatirə xanıma həsr edirəm*
 
 Gur ocaqdan götürüb,
 Köz baxışı, köz əli.
@@ -605,7 +607,9 @@ Yanmaq – mənim səadətim.
 
 # Yaşayır
 
-*Ana torpaq, hər daşına üz qoyum, Hər dərəndə çaldığım saz yaşayır. Məmməd Araz*
+*Ana torpaq, hər daşına üz qoyum,*
+*Hər dərəndə çaldığım saz yaşayır.*
+*Məmməd Araz*
 
 Öz taleyi, öz səsi var hər ömrün,
 Qanad açan diləyində yaşayır.
@@ -1511,7 +1515,8 @@ Bircə gün sazını çal, Əmrah kimi.
 @@ 064
 
 # Qar yağa-yağa
-*“Qar yağa-yağa” şeirinin müəllifi Gürcüstanın əməkdar müəllimi Rəşid Acalova həsr edirəm*
+*“Qar yağa-yağa” şeirinin müəllifi Gürcüstanın*
+*əməkdar müəllimi Rəşid Acalova həsr edirəm*
 
 Səni düşünürdüm, el ağsaqqalı,
 Baxırdım budağa, qar yağa-yağa.
@@ -1810,7 +1815,8 @@ Sona çatan, bitən deyil bu nağıl,
 @@ 076
 
 # Qalıbdı
-*Dağların Lələ çobanı Qamoy Alıya həsr edirəm*
+*Dağların Lələ çobanı*
+*Qamoy Alıya həsr edirəm*
 
 Dağdan ayrılmağın dərd olub cana,
 Yaylağın həsrəti mənə qalıbdı.
@@ -2515,7 +2521,9 @@ Dilini bilməsən sən təbiətin!
 @@ 106
 
 # O qanlı illərin hayı, harayı
-*Böyük Vətən müharibəsi illərində doqquz oğul itirmiş rus qadını İ.H.Stepanovanın şəklinə baxarkən*
+*Böyük Vətən müharibəsi illərində*
+*doqquz oğul itirmiş rus qadını*
+*İ.H.Stepanovanın şəklinə baxarkən*
 
 Bir ana qəlbində bu boyda kədər,
 Qulağım heç yerdə eşitməmişdi.
@@ -2666,7 +2674,9 @@ Bu dünya başını itirə bilər!
 @@ 111
 
 # Qırılan meşələr
-*Meşə yoxdursa ək, çoxdursa qırma, azdırsa, qoru! Atalar sözü*
+*Meşə yoxdursa ək,*
+*çoxdursa qırma, azdırsa, qoru!*
+*Atalar sözü*
 Bir zamanlar burda meşə var idi,
 Bu meşədə tər bənövşə var idi.
 Bənövşəsi ətirlərdi dünyanı,
@@ -3601,7 +3611,8 @@ Qeyrətin çələngini hördü getdi babalar!
 @@ 144
 
 # Kərəm çırağı
-*“Qaçaq Kərəm” romanının müəllifi Fərman Eyvazlıya*
+*“Qaçaq Kərəm” romanının*
+*müəllifi Fərman Eyvazlıya*
 
 Üzülüb piltəsi, əriyib yağı,
 Bu sovqat uzaqdan-uzağa gəlib.
@@ -4173,7 +4184,10 @@ Heç bir zaman alçalmaz bir amaldır ləyaqət!
 
 # Sandal gəmiyə döndü
 
-*Yelkənim açılır, qara yel, əsmə, Mənim bu dəryada bir sandalım var! M. Müşfiq Xəzər dənizində “M. Müşfiq” gəmisi üzür*
+*Yelkənim açılır, qara yel, əsmə,*
+*Mənim bu dəryada bir sandalım var!*
+*M. Müşfiq*
+*Xəzər dənizində “M. Müşfiq” gəmisi üzür*
 
 Eşidəndə gözlərimdə sevinc yaşı gilələndi,
 Bu şad xəbər dodaqlarda müjdə kimi gəzər, Müşfiq!
@@ -4363,7 +4377,8 @@ Yağış ol, yerə hop, torpağın yaşasın!
 @@ 172
 
 # Oyatdın
-*“Göyçəlilər, dağılmayın Göyçədən” şeirinin müəllifi Hüseyn Arifə*
+*“Göyçəlilər, dağılmayın Göyçədən”*
+*şeirinin müəllifi Hüseyn Arifə*
 
 Hüseyn Arif, Göyçə dindi dilində,
 Zodda Zodu, Cildə Cili oyatdın.
@@ -4614,7 +4629,8 @@ Zalım həsrət, istədiyin buydumu?!
 @@ 182
 
 # Kimdi
-*Məşhur türk aşığı Şimşəkoğlunun lent yazılarını dinlərkən*
+*Məşhur türk aşığı Şimşəkoğlunun*
+*lent yazılarını dinlərkən*
 
 Şimşəkoğlu, səsindəki oda qurban,
 Yandırırsan, yanan kimdi, sönən kimdi?
@@ -4647,8 +4663,6 @@ Zəlimxanla qoşa çalaq sazımızı,
 Dünya görsün qalxan kimdi, enən kimdi?!
 
 @@ 183
-
-# Deyişmələr
 
 # Osman Sarıvəlli ilə
 
@@ -4937,7 +4951,15 @@ Süfrəmizdə Ay mey olar, gün məzə!
 
 # Ölməz ustad
 
-*Ölümündən iki ay əvvəl ölümsüz ustadımız Aşıq Hüseyn Saraçlı telli sazın təkrarolunmaz sahibi Aşıq Əmrah Gülməm - mədovun xəstə yatdığını eşidib sənət dostuna baş çəkməyə gəlir. Əmrah kişini ölüm döşəyində görən, özü də xəstə olan Hüseyn əmi dərindən köksünü ötürüb deyir: Əmrah kişi, bu yazı sağ- salamat başa vura bilsək, daha bizə ölüm yoxdu. Tale elə gətirdi ki, Borçalı mahalının əvəzsiz sənət ağsaqqalları elə həmin yaz fəslində dünyadan köçdülər. 1987-nin aprelində Aşıq Əmrahın qırxı Aşıq Hüseynin dəfn gününə düşdü.*
+*Ölümündən iki ay əvvəl ölümsüz ustadımız Aşıq Hüseyn*
+*Saraçlı telli sazın təkrarolunmaz sahibi Aşıq Əmrah Gülməm -*
+*mədovun xəstə yatdığını eşidib sənət dostuna baş çəkməyə gəlir.*
+*Əmrah kişini ölüm döşəyində görən, özü də xəstə olan Hüseyn*
+*əmi dərindən köksünü ötürüb deyir: Əmrah kişi, bu yazı sağ-*
+*salamat başa vura bilsək, daha bizə ölüm yoxdu. Tale elə gətirdi*
+*ki, Borçalı mahalının əvəzsiz sənət ağsaqqalları elə həmin yaz*
+*fəslində dünyadan köçdülər. 1987-nin aprelində Aşıq Əmrahın*
+*qırxı Aşıq Hüseynin dəfn gününə düşdü.*
 
 Bizdən ötrü ağır gəldi bu bahar,
 Söz ürəkdə, saz köynəkdə qalıbdı.
@@ -5036,7 +5058,8 @@ Telli sazda Aşıq Əmrah zirvəsi!
 @@ 194
 
 # Ulu ozan
-*Aşıq Hüseyn Saraçlının unudulmaz xatirəsinə*
+*Aşıq Hüseyn Saraçlının*
+*unudulmaz xatirəsinə*
 
 İstər alış, istər tutuş, istər yan,
 Torpaq altda cahan canlar apardı.
@@ -5253,7 +5276,8 @@ Qəlbi düşən deyil heç zaman tora.
 
 # Həkim
 
-*Gözəl cərrah, unudulmaz insan Şamil Əlizadənin xatirəsinə*
+*Gözəl cərrah, unudulmaz insan*
+*Şamil Əlizadənin xatirəsinə*
 
 Bir dəfə mən səndən dərman istədim,
 Evdə xəstə yatan atamdan ötrü.
@@ -5699,7 +5723,9 @@ Qışdan xəbərim olmadı!
 
 # Döndü daha əfsanəyə, Nağıla
 
-*Kəndimizə getmişdim. Qarlı bir qış günündə Hacımurad dayının evinə gəldim. Yaşı yüzü haqlamış Səməngül nənəmi əli yaylıqlı, gözü yaşlı gördüm.*
+*Kəndimizə getmişdim. Qarlı bir qış günündə*
+*Hacımurad dayının evinə gəldim. Yaşı yüzü haqlamış*
+*Səməngül nənəmi əli yaylıqlı, gözü yaşlı gördüm.*
 
 Dildə ağı, əldə yaylıq, gözdə yaş,
 Oğlu ölmüş bir ana var, bir ana.
@@ -6881,7 +6907,9 @@ Qurban olum həyata!!!
 
 # Yoxdu
 
-*Allah sənə rəhmət eləsin, böyük Vaqif, sən nədən şikayət edirdin, gör mən nədən şikayət edirəm*
+*Allah sənə rəhmət eləsin, böyük Vaqif,*
+*sən nədən şikayət edirdin, gör mən*
+*nədən şikayət edirəm*
 
 İlahi, nə yaman günlərə düşdük,
 Dodaq söykəməyə duru su yoxdu.
@@ -7057,7 +7085,16 @@ Hünərin var, sən Allaha əmr eylə!
 
 # Durnalara sözüm
 
-*Payız fəslinin kövrək çağları idi. Qədim Ağstafa qəbi - ristanlığında unudulmaz xalq şairimiz Hüseyn Arifin dəfn mərasimini keçirirdik. Xatirələrin, vida sözlərinin dili mizi yandırdığı bir vaxtda qaqqıldaşa-qaqqıldaşa başımızın üstündən bir dəstə durna keçdi. İstər-istəməz “aman dı, durnaya güllə atmayın” harayı qulaqlarımda səs ləndi. Kim bilir durnalar bəlkə də bu haray üçün şairə minnətdarlığını bildirməyə, son borclarını verməyə gəlmiş - di. Bəlkə də Vaqifin, Vidadinin ruhu durnalara dönüb, xal qımıza başsağlığı gətirmişdi.*
+*Payız fəslinin kövrək çağları idi. Qədim Ağstafa qəbi -*
+*ristanlığında unudulmaz xalq şairimiz Hüseyn Arifin*
+*dəfn mərasimini keçirirdik. Xatirələrin, vida sözlərinin*
+*dili mizi yandırdığı bir vaxtda qaqqıldaşa-qaqqıldaşa*
+*başımızın üstündən bir dəstə durna keçdi. İstər-istəməz*
+*“aman dı, durnaya güllə atmayın” harayı qulaqlarımda*
+*səs ləndi. Kim bilir durnalar bəlkə də bu haray üçün şairə*
+*minnətdarlığını bildirməyə, son borclarını verməyə gəlmiş -*
+*di. Bəlkə də Vaqifin, Vidadinin ruhu durnalara dönüb,*
+*xal qımıza başsağlığı gətirmişdi.*
 
 Gedən durnam, Vidadiyə xəbər ver,
 Nə durmusan, Hüseyn Arif öldü de!
@@ -7171,7 +7208,11 @@ Verdiyi ömrü pis yaşamadım,
 
 # Babam
 
-*Qalaaltıda müalicədə idim. Saatlı rayonundan gəl miş 80 yaşlı Ağamirzə kişi ilə tanış olub doğma - laşdıq. Sinəsi incilər xəzinəsiydi. Heyranlığımı görüb məndən yadigar bir şeir istədi. Bu misralar onun eşqi - nə dünyaya gəldi.*
+*Qalaaltıda müalicədə idim. Saatlı rayonundan*
+*gəl miş 80 yaşlı Ağamirzə kişi ilə tanış olub doğma -*
+*laşdıq. Sinəsi incilər xəzinəsiydi. Heyranlığımı görüb*
+*məndən yadigar bir şeir istədi. Bu misralar onun eşqi -*
+*nə dünyaya gəldi.*
 
 Tanış olduq Qalaaltıda,
 Bu da bir qismətdi, babam!
@@ -7534,7 +7575,8 @@ Mən öləndə sən durmağın nə xeyri.
 
 # Sönməzim
 
-*Cənublu şair qardaşım Sönməzin “Sənsizləmişəm” şeirinə cavab*
+*Cənublu şair qardaşım Sönməzin*
+*“Sənsizləmişəm” şeirinə cavab*
 
 Məktubunu yana-yana oxuduq,
 Dərdə qarşı yenməz olduq, Sönməzim!
@@ -7678,7 +7720,20 @@ Ordum yoxsa, yurdum yox!
 
 # Ağa Laçınlıya
 
-*Bu şeir on il əvvəl yazılıb. Zəngilanı, Qubadlını gəzib Laçına gəlmişdim. Görüşlər, söhbətlər, məclislər ara vermirdi. Şair dos- tum Ağa Laçınlı yarızarafat, yarıciddi mənim gəlişim şərəfinə bədahətən belə bir şeir oxudu: Gəldiyin yer Zəngilanla Qubatdı, Bizim Laçın ondan bir az babatdı. Bağışla ki, yollar səni yubatdı, Xoş gəlibsən bu yerlərə, Zəlimxan! Bəxtəvərli günlərimiz idi. Oğuldərəni, Şəlvə dərsini gəzə-gəzə ye ni şeirlər yazmışdım. Onlardan biri də Ağa Laçınlıya həsr olun muşdu. Laçının bugünkü günlərini gözümün qabağına gə - tirib o günləri xatırladım. Elə bil yarama duz basdılar. Laçının həsrətiylə alışıb-yanan Ağa Laçınlıya yazdığım şeiri bir təsəlli ki - mi kitaba daxil etməyi məsləhət bildim.*
+*Bu şeir on il əvvəl yazılıb. Zəngilanı, Qubadlını gəzib Laçına*
+*gəlmişdim. Görüşlər, söhbətlər, məclislər ara vermirdi. Şair dos-*
+*tum Ağa Laçınlı yarızarafat, yarıciddi mənim gəlişim şərəfinə*
+*bədahətən belə bir şeir oxudu:*
+*Gəldiyin yer Zəngilanla Qubatdı,*
+*Bizim Laçın ondan bir az babatdı.*
+*Bağışla ki, yollar səni yubatdı,*
+*Xoş gəlibsən bu yerlərə, Zəlimxan!*
+*Bəxtəvərli günlərimiz idi. Oğuldərəni, Şəlvə dərsini gəzə-gəzə*
+*ye ni şeirlər yazmışdım. Onlardan biri də Ağa Laçınlıya həsr*
+*olun muşdu. Laçının bugünkü günlərini gözümün qabağına gə -*
+*tirib o günləri xatırladım. Elə bil yarama duz basdılar. Laçının*
+*həsrətiylə alışıb-yanan Ağa Laçınlıya yazdığım şeiri bir təsəlli ki -*
+*mi kitaba daxil etməyi məsləhət bildim.*
 
 Oğuldərə kəndi, Laçın oylağı,
 Qaldırar Günəşə, Aya şairi!
@@ -8135,7 +8190,8 @@ Yazılan kitablarım, yazan qələmim yazıq!
 
 # Dərd
 
-*Azərbaycan parlamentində, xalqımızın ali məclisində özünü apara bilməyən bəzi millət vəkillərinə*
+*Azərbaycan parlamentində, xalqımızın ali məclisində*
+*özünü apara bilməyən bəzi millət vəkillərinə*
 
 Mən səni seçmişəm, səhv eyləmişəm,
 Seçmişəm, özümü məhv eyləmişəm.
@@ -8576,7 +8632,9 @@ Demək, onda göy üzündə Allah yoxdu!!!
 
 # Şəhidlərim yatan yerdə
 
-*Sənə dar gəlməyəcək məqbəri kimlər qazsın, Göməlim gəl səni tarixə desəm, sığmassın! Məhmət Akif*
+*Sənə dar gəlməyəcək məqbəri kimlər qazsın,*
+*Göməlim gəl səni tarixə desəm, sığmassın!*
+*Məhmət Akif*
 
 Burda ən çox işlənən söz – cəlladlara “nifrət” sözü,
 Burda ən çox işlənən söz – ölüm sözü, həsrət sözü.
@@ -8870,7 +8928,8 @@ Sənə qəbir qazılanda səbr eyləmə!
 
 # Qara xəbər
 
-*Başkeçiddə maşın qəzasında həlak olanların xatirəsinə*
+*Başkeçiddə maşın qəzasında*
+*həlak olanların xatirəsinə*
 
 Başkeçiddən Bakıya qara bir xəbər gəldi,
 Qan üstünə qan düşdü, şər üstündən şər gəldi.
@@ -9115,7 +9174,11 @@ Coşur ürək, yaşayır göz, qabarır sinə,
 
 # Şəhid qanı
 
-*Məyus olma, amandır, Məyus olmaq yamandır. Qorxaq diləksiz yaşar Millətim qəhrəmandır! M.Hadi*
+*Məyus olma, amandır,*
+*Məyus olmaq yamandır.*
+*Qorxaq diləksiz yaşar*
+*Millətim qəhrəmandır!*
+*M.Hadi*
 
 Həyatımda ilk dəfə bu qədər qan görürdüm,
 Qızıl qana bələnmiş sökülən dan görürdüm.
@@ -9308,7 +9371,10 @@ Yaş içində bəbəklərim görünməz.
 
 # Şükrü Qaya Qarabağlı
 
-*Amerikada yaşayan azərbaycanlı Şükrü Qaya Qarabağlı ilə sevimli müğənnimiz, SSRİ xalq artisti Zeynəb Xanlarovanın telegüzgüdə olan söhbətindən cücərən düşüncələr.*
+*Amerikada yaşayan azərbaycanlı*
+*Şükrü Qaya Qarabağlı ilə sevimli müğənnimiz,*
+*SSRİ xalq artisti Zeynəb Xanlarovanın*
+*telegüzgüdə olan söhbətindən cücərən düşüncələr.*
 
 Daşdan-daşa dəyən başın qurbanıyam,
 Gözdən qəlbə axan yaşın qurbanıyam,
@@ -9799,7 +9865,8 @@ Dönür burda başdaşına, gəlir Zəlimxan dayanır!
 
 # Nayman ana
 
-*Çingiz Aytmatovun “Əsrdən uzun gün” romanını oxudum. Bədbəxt ananın taleyi məni sarsıtdı.*
+*Çingiz Aytmatovun “Əsrdən uzun gün” romanını*
+*oxudum. Bədbəxt ananın taleyi məni sarsıtdı.*
 
 Düşünürəm, sənin dərdin
 nə böyükmüş, Nayman ana!
@@ -10016,7 +10083,8 @@ Döz, ürəyim, döz hələ!
 
 # Ağlar gördüm bir ananı
 
-*Teleekranda fələstinli bir ana saçlarını yolub ağlayırdı*
+*Teleekranda fələstinli bir ana*
+*saçlarını yolub ağlayırdı*
 
 Zirvələr əysin başını,
 Üfüqlər çatsın qaşını,
@@ -10447,7 +10515,11 @@ Qartalı zirvədə görməsəm, ölləm.
 
 # Qəriblər
 
-*Bizə ayrı düşmək haqdan əmirdi, Yeddi il dediyin xeyli ömürdü. Məgər mənim canım daşdı, dəmirdi, Ana mən Qəribəm, Qəribəm, Qərib. “Aşıq Qərib” dastanından*
+*Bizə ayrı düşmək haqdan əmirdi,*
+*Yeddi il dediyin xeyli ömürdü.*
+*Məgər mənim canım daşdı, dəmirdi,*
+*Ana mən Qəribəm, Qəribəm, Qərib.*
+*“Aşıq Qərib” dastanından*
 
 Sən şükürlüsənmiş, ay Aşıq Qərib,
 Sənin qəribliyin yeddi il çəkib.

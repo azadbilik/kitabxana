@@ -76,4 +76,5 @@ ulu bir məmləkətin,
 Tükənməz mayasına
 məndən salamlar olsun.
 
-*Almaniya, Münhen ürək xəstəxanası, 2008, 12 mart*
+*Almaniya, Münhen*
+*ürək xəstəxanası, 2008, 12 mart*

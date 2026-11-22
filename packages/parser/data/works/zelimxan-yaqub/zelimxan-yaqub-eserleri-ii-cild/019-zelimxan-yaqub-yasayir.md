@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=28
 status: DRAFT
 ---
-*Ana torpaq, hər daşına üz qoyum, Hər dərəndə çaldığım saz yaşayır. Məmməd Araz*
+*Ana torpaq, hər daşına üz qoyum,*
+*Hər dərəndə çaldığım saz yaşayır.*
+*Məmməd Araz*
 
 Öz taleyi, öz səsi var hər ömrün,
 Qanad açan diləyində yaşayır.

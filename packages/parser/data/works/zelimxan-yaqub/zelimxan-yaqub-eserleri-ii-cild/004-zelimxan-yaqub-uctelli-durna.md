@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=8
 status: DRAFT
 ---
-*Sevimli şairimiz Osman Sarıvəlli öz sazını məşhur İraq şairi Əbdüllətif Bəndəroğluna hədiyyə vermişdir*
+*Sevimli şairimiz Osman Sarıvəlli öz sazını məşhur*
+*İraq şairi Əbdüllətif Bəndəroğluna hədiyyə vermişdir*
 
 Dostluğun nəğməsi baldan şirindir,
 Tellər bu eşq ilə ötür, ay sazım.

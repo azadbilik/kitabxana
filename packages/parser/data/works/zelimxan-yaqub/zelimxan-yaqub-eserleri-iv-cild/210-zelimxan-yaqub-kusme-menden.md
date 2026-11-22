@@ -12,7 +12,10 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=253
 status: DRAFT
 ---
-*Bir məclisdə qızlarımıza “Çin qızı, Çin gözəli” şeirini oxuyurdum. Nəsibə adlı gözəl bir qız şeiri axıra qədər dinləmədən küsüb bayıra çıxdı ki, nə üçün belə gözəl bir şeiri Azərbaycan gözəlinə yox, Çin qızına yazmısınız.*
+*Bir məclisdə qızlarımıza “Çin qızı, Çin gözəli” şeirini oxuyurdum.*
+*Nəsibə adlı gözəl bir qız şeiri axıra qədər dinləmədən küsüb*
+*bayıra çıxdı ki, nə üçün belə gözəl bir şeiri*
+*Azərbaycan gözəlinə yox, Çin qızına yazmısınız.*
 
 Küsmə məndən, gözəl mələk, gözəli Allah yaradır,
 Mənim kimi qullar üçün gözəlləri şah yaradır.

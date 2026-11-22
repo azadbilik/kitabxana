@@ -716,7 +716,9 @@ Baş götürüb əlli beşə gedirəm.
 @@ 034
 
 # Dadaloğluna
-*Qalxdı, köç eylədi Əfşar elləri, Ağır-ağır gedən ellər bizimdi. Dadaloğlu*
+*Qalxdı, köç eylədi Əfşar elləri,*
+*Ağır-ağır gedən ellər bizimdi.*
+*Dadaloğlu*
 
 Yerindən oynadı Oğuz elləri,
 Qismətim köç oldu, ay Dadaloğlu.
@@ -859,7 +861,12 @@ Bu qədər ağrıyla az öldür, Allah!
 
 # İki qapı
 
-*İtaliyanın Assizi şəhərində bir evə iki qapı qoyulur. Qapının biri, hər bir evdə olduğu kimi, giriş-çıxış qapısıdır. O biri qapını isə ancaq evdə adam öləndə açırlar və ev yiyəsinin cənazəsini həmin qapıdan çıxarırlar. Anar müəllimin dediklərindən*
+*İtaliyanın Assizi şəhərində bir evə iki qapı qoyulur.*
+*Qapının biri, hər bir evdə olduğu kimi, giriş-çıxış*
+*qapısıdır. O biri qapını isə ancaq evdə adam öləndə*
+*açırlar və ev yiyəsinin cənazəsini həmin qapıdan*
+*çıxarırlar.*
+*Anar müəllimin dediklərindən*
 
 Burda belə qurulur,
 belə yapılır yapı,
@@ -1479,7 +1486,18 @@ Nə köməyim çatır, nə əlim yetir
 
 # Hüseyn Arif məclisi
 
-*Bakıda “Səda” deyilən mədəniyyət evində unudul- maz xalq şairimiz Hüseyn Arifin xatirəsinə həsr olunmuş kövrək bir məclis təşkil edilmişdi. Şairin haqqında yazılan şeirlər toplusunun təqdimat mərasimi keçirilirdi. Kövrələn könüllər, yaşaran gözlər var idi. Məclis məni tutmuşdu. Bütün məclis Hüseynli və Arifli günlərə, Hüseyn Arifli xatirələrə qayıtmışdı. Qağalı, qağasız günlərə köklənən ov - qatım misralara düzüldü, sətirlərə döndü. Könül sazımın zilini zil, bəmini bəm, sinəmə müstəhkəm elədim, təbiət aşiqi bir kişinin – şairin, ozanın, aşi - qin, səyyahın eşqinə asta-asta oxumağa başladım.*
+*Bakıda “Səda” deyilən mədəniyyət evində unudul-*
+*maz xalq şairimiz Hüseyn Arifin xatirəsinə həsr*
+*olunmuş kövrək bir məclis təşkil edilmişdi. Şairin*
+*haqqında yazılan şeirlər toplusunun təqdimat*
+*mərasimi keçirilirdi. Kövrələn könüllər, yaşaran*
+*gözlər var idi. Məclis məni tutmuşdu. Bütün məclis*
+*Hüseynli və Arifli günlərə, Hüseyn Arifli xatirələrə*
+*qayıtmışdı. Qağalı, qağasız günlərə köklənən ov -*
+*qatım misralara düzüldü, sətirlərə döndü. Könül*
+*sazımın zilini zil, bəmini bəm, sinəmə müstəhkəm*
+*elədim, təbiət aşiqi bir kişinin – şairin, ozanın, aşi -*
+*qin, səyyahın eşqinə asta-asta oxumağa başladım.*
 
 Hüseyn Arif məclisiydi
 bir yaz günü,
@@ -1717,7 +1735,16 @@ Yüz il yaşamaq olaydı.
 
 # Muğannadan gələn səs
 
-*Zəng çalındı. Dəstəyi götürdüm. Min illərin arxa - sından gələn qədim bir səs eşitdim. Səs onun səsi idi. Telefonda böyük Xalq yazıçımız İsa Hüseynov danışırdı. Sakit və müdrik. Asta və usta. “Ayə, yaman dolmuşam, sən haqda yazmaq istəyirəm. Mənə pıçıltılar göndər”, – dedi. Dəstəyi asdı. Tanrının işinə bax ki, o anlar mənim də ruhumun pıçıltılı məqamları idi. Duyğularımız üst-üstə düşmüş, qəlbimizin telləri eyni hava üstə kök - lənmişdi.*
+*Zəng çalındı. Dəstəyi götürdüm. Min illərin arxa -*
+*sından gələn qədim bir səs eşitdim. Səs onun səsi idi.*
+*Telefonda böyük Xalq yazıçımız İsa Hüseynov*
+*danışırdı. Sakit və müdrik. Asta və usta. “Ayə,*
+*yaman dolmuşam, sən haqda yazmaq istəyirəm.*
+*Mənə pıçıltılar göndər”, – dedi. Dəstəyi asdı.*
+*Tanrının işinə bax ki, o anlar mənim də ruhumun*
+*pıçıltılı məqamları idi. Duyğularımız üst-üstə*
+*düşmüş, qəlbimizin telləri eyni hava üstə kök -*
+*lənmişdi.*
 
 Zəng çaldı gecənin bir aləmində,
 Köhnə kişilərdən bir nişan kişi.
@@ -1772,7 +1799,19 @@ Torpağa qar kimi pıçıldamışam.
 
 # Haqq adamı
 
-*Ömrümün-günümün çoxu yollarda, səfərlərdə, məclislərdə, maraqlı şəxsiyyətlərlə ünsiyyətdə keçib. Yaddaşa yazılan, ürəyə köçən, heyrətli və unudulmaz, dirilən və durulan anlarım, dəqiqələrim çox olub. Böyük şərqşünas, quranşünas alimimiz Hacı Vasim Məmmədəliyevlə müqəddəs məbədgahlara, Azər baycanın müx təlif yerlərinə, Borçalı mahalına olan səfərlərimi alın yazısı, tale xoşbəxtliyi hesab edirəm. Uzun illər ruhumda, qanımda, varlığımda yaşa yan, heç vaxt soyumayan isti və doğma duyğularımı Vasimsevərlərə ərməğan edir, ulu Tanrıya əl açıb deyirəm: Allahım! Hacı Vasimlə müqəddəs yerlərdə yolyoldaşı, könül sirdaşı olmaq xoşbəxtliyini heç vaxt mənim əlimdən alma! Amin!*
+*Ömrümün-günümün çoxu yollarda, səfərlərdə, məclislərdə,*
+*maraqlı şəxsiyyətlərlə ünsiyyətdə keçib. Yaddaşa yazılan, ürəyə*
+*köçən, heyrətli və unudulmaz, dirilən və durulan anlarım,*
+*dəqiqələrim çox olub.*
+*Böyük şərqşünas, quranşünas alimimiz Hacı Vasim*
+*Məmmədəliyevlə müqəddəs məbədgahlara, Azər baycanın*
+*müx təlif yerlərinə, Borçalı mahalına olan səfərlərimi alın yazısı,*
+*tale xoşbəxtliyi hesab edirəm.*
+*Uzun illər ruhumda, qanımda, varlığımda yaşa yan, heç*
+*vaxt soyumayan isti və doğma duyğularımı Vasimsevərlərə*
+*ərməğan edir, ulu Tanrıya əl açıb deyirəm: Allahım! Hacı*
+*Vasimlə müqəddəs yerlərdə yolyoldaşı, könül sirdaşı olmaq*
+*xoşbəxtliyini heç vaxt mənim əlimdən alma! Amin!*
 
 Nə gözəl səfərdi, ay Hacı Vasim,
 Səfər adamısan, yol adamısan.
@@ -1871,9 +1910,24 @@ Allah adamısan, ay Hacı Vasim.
 
 # Günlərin ağsaqqalı
 
-*“Ən əziz, ən şirin, ən acı günlər” şeirinin müəllifi Cabir Novruza*
+*“Ən əziz, ən şirin, ən acı günlər”*
+*şeirinin müəllifi Cabir Novruza*
 
-*1971-ci ildə sevimli Xalq şairimiz Söhrab Tahirin anası Nəsibə xanım 26 illik ayrılıqdan sonra Təbrizdən Bakıya şair oğlunun görüşünə gəlmişdi. Bu gəliş bütün Azərbaycan şairlərini həyəcana gətirmiş, Söhrab Tahirin qələm qar - daşları, könül dostları bu göynərtili hadisəyə ən isti mis- ralar həsr etmişdilər. Ən gözəl şeirlərdən birini mərhum Xalq şairimiz Cabir Novruz yazmışdı. “Ən əziz, ən şirin, ən acı günlər” adlı bu şeir mətbuatda dərc olunan günün səhəri ayrılıqla, həsrətlə bağlı iki dost və ustad şairin yaşadığı həyəcanlı duyğuları mən də yaşadım. 32 il bundan əvvəl Cabir Novruza həsr etdiyim bu şeiri bir təsadüf nəticəsində arxivimdən tapmışam. Nəsibə ana da, Cabir Novruz da artıq haqqın dərgahına qovuşublar. Onlara Al- lahdan rəhmət diləyir, ruhlarını şad eləmək üçün bu şeiri əziz oxucularımın ixtiyarına verirəm.*
+*1971-ci ildə sevimli Xalq şairimiz Söhrab Tahirin anası*
+*Nəsibə xanım 26 illik ayrılıqdan sonra Təbrizdən Bakıya*
+*şair oğlunun görüşünə gəlmişdi. Bu gəliş bütün Azərbaycan*
+*şairlərini həyəcana gətirmiş, Söhrab Tahirin qələm qar -*
+*daşları, könül dostları bu göynərtili hadisəyə ən isti mis-*
+*ralar həsr etmişdilər. Ən gözəl şeirlərdən birini mərhum*
+*Xalq şairimiz Cabir Novruz yazmışdı. “Ən əziz, ən şirin,*
+*ən acı günlər” adlı bu şeir mətbuatda dərc olunan günün*
+*səhəri ayrılıqla, həsrətlə bağlı iki dost və ustad şairin*
+*yaşadığı həyəcanlı duyğuları mən də yaşadım. 32 il bundan*
+*əvvəl Cabir Novruza həsr etdiyim bu şeiri bir təsadüf*
+*nəticəsində arxivimdən tapmışam. Nəsibə ana da, Cabir*
+*Novruz da artıq haqqın dərgahına qovuşublar. Onlara Al-*
+*lahdan rəhmət diləyir, ruhlarını şad eləmək üçün bu şeiri*
+*əziz oxucularımın ixtiyarına verirəm.*
 
 Şair dostum, canım qurban olaydı,
 Sevincimiz bulaq olan günlərə.
@@ -1956,7 +2010,16 @@ O gün olsun ağsaqqalı günlərin!!!
 
 # Üzrxahlıq
 
-*“Space” televiziya kanalında “Günaydın” səhər verilişində çıxış edirdim. Vəfa adlı bir jurnalist xanımın “Zəlimxan müəllim, dənizlə aranız necədir?” sualına – “Dənizi o qədər də sevə bilmirəm, mənimki dağlardı, mən dağlarda doğulmuşam”, – şəklində verdiyim cavab verilişə qulaq asan xalq şairimiz Qa- bilin haqlı narazılığına səbəb olmuş və “Zəlimxan, dənizdən gəl üzr istə” misrası ilə başlanan bir şeir yazmışdı. Mən də ustad şairimizin diqqətinə minnətdarlıq duyğuları ilə bağlı üzrxahlıq ruhunda bir şeir yazdım. Əziz oxucular! Buyurun oxuyun!*
+*“Space” televiziya kanalında “Günaydın” səhər verilişində*
+*çıxış edirdim. Vəfa adlı bir jurnalist xanımın “Zəlimxan*
+*müəllim, dənizlə aranız necədir?” sualına – “Dənizi o qədər də*
+*sevə bilmirəm, mənimki dağlardı, mən dağlarda doğulmuşam”,*
+*– şəklində verdiyim cavab verilişə qulaq asan xalq şairimiz Qa-*
+*bilin haqlı narazılığına səbəb olmuş və “Zəlimxan, dənizdən*
+*gəl üzr istə” misrası ilə başlanan bir şeir yazmışdı. Mən də*
+*ustad şairimizin diqqətinə minnətdarlıq duyğuları ilə bağlı*
+*üzrxahlıq ruhunda bir şeir yazdım.*
+*Əziz oxucular! Buyurun oxuyun!*
 
 Oxudum şeirini, Qabil müəllim,
 Sözündə danlaq var, hökm var, ərk var.
@@ -2049,7 +2112,13 @@ Qorusun bir dünya torpaq eşqimi!
 
 # Ramizin övladı
 
-*2002-ci il aprelin 26-da Musiqi Akademiyasında Xalq artisti Ramiz Quliyevin 55 illiyinə həsr olunmuş yaradıcılıq gecəsi keçirildi. Ramiz müəllim özü boyda oda-alova dönüb din - ləyiciləri, tamaşaçıları yandırmaqla məşğul idi. Oğlu Eyyubla səs-səsə, baş-başa verib müqəddəs duyğuların qanadında bizi tanrı dərgahına çağırırdı. Əvvəlcə alqışlar selində itən ata- oğulu məclisin sonunda gül-çiçəklərin içində itən gördüm.*
+*2002-ci il aprelin 26-da Musiqi Akademiyasında Xalq artisti*
+*Ramiz Quliyevin 55 illiyinə həsr olunmuş yaradıcılıq gecəsi*
+*keçirildi. Ramiz müəllim özü boyda oda-alova dönüb din -*
+*ləyiciləri, tamaşaçıları yandırmaqla məşğul idi. Oğlu Eyyubla*
+*səs-səsə, baş-başa verib müqəddəs duyğuların qanadında bizi*
+*tanrı dərgahına çağırırdı. Əvvəlcə alqışlar selində itən ata-*
+*oğulu məclisin sonunda gül-çiçəklərin içində itən gördüm.*
 
 Ürək yüz pay olur, könül min para,
 Sıxanda bağrına o tarı, Ustad!
@@ -2165,7 +2234,28 @@ Qoydular Çöhrəqanlı?!
 
 # Səadət Butaya
 
-*Müasir Azərbaycan poeziyasında, qadın şairlər arasında şeirinin ahəngi, dərdinin rəngi ilə seçilən şairə bacımızdı Səadət Buta! Yurd ağrısıdı, torpaq nisgilidi, Başkeçid həsrətidi, könül yanğısıdı, göz yaşlarıdı Səadət Buta poeziyası! Ər yükü daşıyan anadı, himindən yıxılmış binadı, dəstədən üzülmüş durnadı, gölündən ayrılmış sonadı, barmağa həsrət qalmış xınadı, həsrətdən toxunmuş xalıdı, kədərdən qurulmuş xanadı Səadət Butanın şeirləri! Kövrək bayatıdı, həzin oxşamadı, şirin layladı, toyumuzda naxışdı, yasımızda ağıdı, dərddən danışa-danışa dərdimizi dağıdır Səadət Butanın şeirləri! Mən onu həmişə sevmişəm gözəl bir şairə, istəkli bacı kimi, adını başımdan uca tutmuşam şahların qızılı tacı kimi, mən onu həmişə duymuşam ruhumun təsəllisi, ağrımın əlacı kimi, Borçalının harayına bir alışıb, bir yanmışıq gur ocağın sacı kimi, o məni həmişə ziyarət bilib, mən onu bağrıma basmışam Məkkədən gəlmiş bir hacı kimi, ikimiz də ucalmışıq duyğuların zirvəsinə, uğurludu yollarımız haqq elçisi Peyğəmbərin müqəddəs meracı kimi! Şair Zəlimxan Yaqub şairə bacısı haqqında sözlə dediyini sazla deməsə, dili od tutub yanar. Aldı Zəlimxan Yaqub:*
+*Müasir Azərbaycan poeziyasında, qadın şairlər arasında*
+*şeirinin ahəngi, dərdinin rəngi ilə seçilən şairə bacımızdı Səadət*
+*Buta!*
+*Yurd ağrısıdı, torpaq nisgilidi, Başkeçid həsrətidi, könül*
+*yanğısıdı, göz yaşlarıdı Səadət Buta poeziyası!*
+*Ər yükü daşıyan anadı, himindən yıxılmış binadı, dəstədən*
+*üzülmüş durnadı, gölündən ayrılmış sonadı, barmağa həsrət*
+*qalmış xınadı, həsrətdən toxunmuş xalıdı, kədərdən qurulmuş*
+*xanadı Səadət Butanın şeirləri!*
+*Kövrək bayatıdı, həzin oxşamadı, şirin layladı, toyumuzda*
+*naxışdı, yasımızda ağıdı, dərddən danışa-danışa dərdimizi*
+*dağıdır Səadət Butanın şeirləri!*
+*Mən onu həmişə sevmişəm gözəl bir şairə, istəkli bacı kimi,*
+*adını başımdan uca tutmuşam şahların qızılı tacı kimi, mən*
+*onu həmişə duymuşam ruhumun təsəllisi, ağrımın əlacı kimi,*
+*Borçalının harayına bir alışıb, bir yanmışıq gur ocağın sacı*
+*kimi, o məni həmişə ziyarət bilib, mən onu bağrıma basmışam*
+*Məkkədən gəlmiş bir hacı kimi, ikimiz də ucalmışıq duyğuların*
+*zirvəsinə, uğurludu yollarımız haqq elçisi Peyğəmbərin*
+*müqəddəs meracı kimi!*
+*Şair Zəlimxan Yaqub şairə bacısı haqqında sözlə dediyini*
+*sazla deməsə, dili od tutub yanar. Aldı Zəlimxan Yaqub:*
 
 Gah yanar, gah sönər söz qovşağında,
 Oddadı, sudadı Səadət Buta.
@@ -2385,7 +2475,14 @@ Yaşasın Fatehimiz.
 
 # Ustalar
 
-*Özümə ev tikir, yuva qururam. Xeyli müddətdir ki, evimizdə ustalar işləyir. Hacı, Mu xtar, Şamil, Ağalar. Hansının adının birinci çəkilməyinə baxmayaraq, hər biri özlüyündə birinciliyə layiqdi. İstər sənətdə, qabiliyyət-də, istər adamlıqda, mərifətdə. Elə bil yüz ildi bir-birimizi tanıyırıq. Doğma qardaş kimi bir-birimizə qaynayıb-qarışmışıq. Onlar artıq mənim tərcümeyi-halımın bir hissəsinə çevrilib, yaddaş və könül dünyama daxil olublar.*
+*Özümə ev tikir, yuva qururam. Xeyli müddətdir ki,*
+*evimizdə ustalar işləyir. Hacı, Mu xtar, Şamil, Ağalar.*
+*Hansının adının birinci çəkilməyinə baxmayaraq, hər biri*
+*özlüyündə birinciliyə layiqdi. İstər sənətdə, qabiliyyət-də, istər*
+*adamlıqda, mərifətdə. Elə bil yüz ildi bir-birimizi tanıyırıq.*
+*Doğma qardaş kimi bir-birimizə qaynayıb-qarışmışıq. Onlar*
+*artıq mənim tərcümeyi-halımın bir hissəsinə çevrilib, yaddaş*
+*və könül dünyama daxil olublar.*
 
 Nə zaman gəlirəm
 əliniz işdə,
@@ -2529,7 +2626,8 @@ iki damla yaş salmışam.
 
 # Başucalığı
 
-*Frankfurt-Vaşinqton təyyarəsində düşüncələr*
+*Frankfurt-Vaşinqton*
+*təyyarəsində düşüncələr*
 
 Əlli il dolandım torpağın üstə,
 Heç yanda, heç yerdə mən darıxmadım.
@@ -2590,7 +2688,9 @@ həyatdır! – dedim.
 
 # Bədbəxtlik
 
-*İllərlə özünə ailə qura bilməyən, evsiz-eşiksiz qalan, üzünün, başının tükü bir-birinə qarışan, gecələr küçələrdə yatan insanlar da gördüm*
+*İllərlə özünə ailə qura bilməyən, evsiz-eşiksiz*
+*qalan, üzünün, başının tükü bir-birinə qarışan,*
+*gecələr küçələrdə yatan insanlar da gördüm*
 
 Bədbəxtlik deyilmi, oğul olasan,
 Bir qız dodağında adın olmaya.
@@ -2807,7 +2907,27 @@ Dünya bir uşaqdı, insan qocadı,
 
 # Yenidən vuruldum Azərbaycana
 
-*Vətən və qürbət mövzuları min illərdi yazılır, nə vətənin, nə qürbətin sözü-söhbəti, şeiri-şeiriyyəti tükənmir ki, tükənmir. Görəsən bu tükənməzlik nəylə bağlıdı. Çörəkdimi, sudumu, havadımı, torpaqdımı, beşikdimi, məzardımı? Unudulmaz görüşdümü, əbədi ayrılıqdımı, nisgildimi, göz yaşıdımı? Deyəsən bu saysız sualların cavabı ancaq o bir sirri-Xudanın işidir. Axı, mən sürgünə getməmişəm, qürbətin zindanında yatmamışam, zorla kimsə məcbur edib göndərməyib, əksinə, böyük bir ölkənin dəvətilə bu ölkəyə gəzməyə, görməyə, duymağa, geniş mənada, tanış olmağa gəlmişik. Ölkə böyük, gəzməli, görməli yerləri çox, gördüyümüz təzadlı mənzərələri bir- birindən maraqlı. Çox qəribə duyğudur. Bir səfərdə bir qitədən başqasına keçəsən, həm Sakit okeanın, həm Atlantik okeanın sularına baş vurasan, körfəzlərə tamaşa edəsən, yenə də vətən üçün darıxasan. Bu nə möcüzədir. 23 günlük səfər bizim üçün 23 il qədər uzun görünürdü. Vətəndə min dəfə gördüyün insanları, ocaqları, dağları, daşları yenidən dərk edir, yenidən görmək eşqiylə yanıb yaxılırsan. Qürbət sənə vətən sözünü bütün çalarları və genişliyi ilə yenidən göstərir, hər şeyi xəyalında yenidən canlandırır. Sözün kəsəsi... 23 gün ərzində dilimizdə ikicə söz bitib göyərmişdi: Vətən! Vətən! Vətən! Azərbaycan! Azərbaycan! Azərbaycan!*
+*Vətən və qürbət mövzuları min illərdi yazılır, nə vətənin, nə*
+*qürbətin sözü-söhbəti, şeiri-şeiriyyəti tükənmir ki, tükənmir. Görəsən*
+*bu tükənməzlik nəylə bağlıdı. Çörəkdimi, sudumu, havadımı,*
+*torpaqdımı, beşikdimi, məzardımı? Unudulmaz görüşdümü, əbədi*
+*ayrılıqdımı, nisgildimi, göz yaşıdımı? Deyəsən bu saysız sualların*
+*cavabı ancaq o bir sirri-Xudanın işidir. Axı, mən sürgünə getməmişəm,*
+*qürbətin zindanında yatmamışam, zorla kimsə məcbur edib*
+*göndərməyib, əksinə, böyük bir ölkənin dəvətilə bu ölkəyə gəzməyə,*
+*görməyə, duymağa, geniş mənada, tanış olmağa gəlmişik. Ölkə böyük,*
+*gəzməli, görməli yerləri çox, gördüyümüz təzadlı mənzərələri bir-*
+*birindən maraqlı. Çox qəribə duyğudur. Bir səfərdə bir qitədən*
+*başqasına keçəsən, həm Sakit okeanın, həm Atlantik okeanın sularına*
+*baş vurasan, körfəzlərə tamaşa edəsən, yenə də vətən üçün darıxasan.*
+*Bu nə möcüzədir. 23 günlük səfər bizim üçün 23 il qədər uzun*
+*görünürdü.*
+*Vətəndə min dəfə gördüyün insanları, ocaqları, dağları, daşları*
+*yenidən dərk edir, yenidən görmək eşqiylə yanıb yaxılırsan. Qürbət*
+*sənə vətən sözünü bütün çalarları və genişliyi ilə yenidən göstərir, hər*
+*şeyi xəyalında yenidən canlandırır.*
+*Sözün kəsəsi... 23 gün ərzində dilimizdə ikicə söz bitib göyərmişdi:*
+*Vətən! Vətən! Vətən! Azərbaycan! Azərbaycan! Azərbaycan!*
 
 Can ruhda, ruh canda nə gözəl olur,
 Nur gözdə, od canda nə gözəl olur.
@@ -2909,7 +3029,8 @@ daşın üstündə yatır.
 
 # Ağaclar
 
-*Dünyanın heç bir ölkəsində Amerikadakı qədər nəhəng ağaclar görməmişəm*
+*Dünyanın heç bir ölkəsində Amerikadakı*
+*qədər nəhəng ağaclar görməmişəm*
 
 Elə bil göylərə meydan oxuyur,
 Qarlı zirvələrlə bu tən ağaclar.
@@ -2932,7 +3053,8 @@ Belə bir ölkədə bitən ağaclar.
 
 # Üç çeşmə
 
-*23 günlük səfər yoldaşlarım Mais Səfərliyə, Səyyad Arana, Mixail Zabelinə*
+*23 günlük səfər yoldaşlarım Mais Səfərliyə,*
+*Səyyad Arana, Mixail Zabelinə*
 
 Hər yoldaş bir arxa, bir dayaq yeri,
 Hər dost uçmaq üçün quş qanadıymış.
@@ -2999,7 +3121,24 @@ Həsrətin dilində danışammıram.
 
 # Musiqi mağazası
 
-*Nyu-York şəhərində bütün dünyada məşhur olan Brodyev adlı bir küçə var. Bu küçə gecələr başdan-başa işıq selinə, işıq axarına dönür. Baxanda elə bilirsən günəşin bir parçası qopub bu yerin üstünə düşüb. Bu küçədə dünyanın bütün xalqlarının musiqi xəzinəsini özündə əks etdirən çox böyük bir musiqi mağazası var. Qulaqcığı qulağına tax, hansı xalqın musiqisini istəyirsənsə, istədiyin qədər dinlə, sev, ləzzət al. İstədiyin musiqi valını ən qiymətli hədiyyə kimi götür, dünyanın harasına istəyirsən apar. Klassik və müasir musiqi nümunələrinə qulaq asdıqca adama elə gəlir ki, bu geniş salonda, mənəvi dəyərlər mərkəzində bütün dünya xalqlarının ürəyi döyünür, səsi eşidilir, ruhu çırpınır. Ancaq təəssüflər olsun ki, axtarsaq da, bu ruhlar, bu səslər dünyasında Azərbaycan musiqisindən bir dənə də olsun əsər-əlamət görmədik. 23 gün vətəndən ayrı düşən, uzaq Amerika qitəsində Azərbaycanın səsi, sözü, ruhu, müqəddəsliyi üçün darıxan bir ruh adamından ötrü bu yoxluğun nə dərəcədə ağır və nisgilli olduğunu həssas oxucu çox aydın başa düşər.*
+*Nyu-York şəhərində bütün dünyada məşhur olan Brodyev*
+*adlı bir küçə var. Bu küçə gecələr başdan-başa işıq selinə, işıq*
+*axarına dönür. Baxanda elə bilirsən günəşin bir parçası qopub*
+*bu yerin üstünə düşüb. Bu küçədə dünyanın bütün xalqlarının*
+*musiqi xəzinəsini özündə əks etdirən çox böyük bir musiqi*
+*mağazası var. Qulaqcığı qulağına tax, hansı xalqın musiqisini*
+*istəyirsənsə, istədiyin qədər dinlə, sev, ləzzət al. İstədiyin musiqi*
+*valını ən qiymətli hədiyyə kimi götür, dünyanın harasına*
+*istəyirsən apar. Klassik və müasir musiqi nümunələrinə qulaq*
+*asdıqca adama elə gəlir ki, bu geniş salonda, mənəvi dəyərlər*
+*mərkəzində bütün dünya xalqlarının ürəyi döyünür, səsi*
+*eşidilir, ruhu çırpınır. Ancaq təəssüflər olsun ki, axtarsaq da,*
+*bu ruhlar, bu səslər dünyasında Azərbaycan musiqisindən bir*
+*dənə də olsun əsər-əlamət görmədik.*
+*23 gün vətəndən ayrı düşən, uzaq Amerika qitəsində*
+*Azərbaycanın səsi, sözü, ruhu, müqəddəsliyi üçün darıxan bir*
+*ruh adamından ötrü bu yoxluğun nə dərəcədə ağır və nisgilli*
+*olduğunu həssas oxucu çox aydın başa düşər.*
 
 Bu səslər hamısı tanrı töhfəsi,
 Gur səslər içində bir səs gəzirdim.
@@ -3059,7 +3198,9 @@ Səsindən tanıyıb Azərbaycanı!
 
 # Varlığa nə darlıq
 
-*Vaşinqton zooparkında nümayiş etdirmək üçün Amerikaya Çindən nəsli kəsilməkdə olan ağ ayılar gətirilib. İlinə bir milyon dollar haqq verilir*
+*Vaşinqton zooparkında nümayiş etdirmək üçün*
+*Amerikaya Çindən nəsli kəsilməkdə olan ağ ayılar gətirilib.*
+*İlinə bir milyon dollar haqq verilir*
 
 Yeri-göyü meşələr, qayalıq, kaha,
 Qalxır, yumalaşır, atılır, düşür.
@@ -6682,7 +6823,8 @@ Bir şair doğular yenə bu axşam.
 
 # Qocaldır adamı yollar gözləmək
 
-*“Get, Ay batandan sora gəl” Xalq mahnısından*
+*“Get, Ay batandan sora gəl”*
+*Xalq mahnısından*
 
 Səninlə bütövəm, səninlə tamam,
 Sənsiz sevincimin yarısı yoxdu.
@@ -8800,7 +8942,8 @@ Sevəni yoxdursa, vətən səhradı.
 
 # Bir ovuc torpaq
 
-*Bu şeirin ilk dinləyicisi Həsən Əziz oğlu Həsənova*
+*Bu şeirin ilk dinləyicisi*
+*Həsən Əziz oğlu Həsənova*
 
 Qulaqlarım sükutun,
 səssizliyin pasında,
@@ -9374,7 +9517,17 @@ Muğanna saz çalırdı!
 
 # Tofiq Bayram dünyası
 
-*Ustad şairimiz, unudulmaz könül dostum Tofiq Bayramın böyük istedad sahibi olan oğlu Zakirin qəfil ölümü məni möhkəm sarsıtdı. Bu acı xəbəri eşidən kimi Tofiq Bayram ailəsinin vəfalı dostu, ağsaqqal alimimiz Camal Mustafayevlə yas yerinə tələsdik. Həmişə bal arısı kimi qaynayan həyətdə ölü bir sükutla ata-oğul – Tofiq Bayram və Zakir yoxluğuyla qarşılaşdıq. Zakirin qardaşları Cahangirlə Cavanşir üç günün içində qocalmışdılar. Şairin əzabkeş ömür-gün yoldaşı Zərifə xanımı görmək ürəyimdən keçsə də, belə ağır gündə onunla görüşməyə cəsarətim çatmadı. Gücüm ancaq Tofiq Bayram dünyasına qayıtmağa, onunla dərdləşməyə çatdı.*
+*Ustad şairimiz, unudulmaz könül dostum Tofiq Bayramın*
+*böyük istedad sahibi olan oğlu Zakirin qəfil ölümü məni*
+*möhkəm sarsıtdı. Bu acı xəbəri eşidən kimi Tofiq Bayram*
+*ailəsinin vəfalı dostu, ağsaqqal alimimiz Camal Mustafayevlə*
+*yas yerinə tələsdik. Həmişə bal arısı kimi qaynayan həyətdə ölü*
+*bir sükutla ata-oğul – Tofiq Bayram və Zakir yoxluğuyla*
+*qarşılaşdıq. Zakirin qardaşları Cahangirlə Cavanşir üç günün*
+*içində qocalmışdılar. Şairin əzabkeş ömür-gün yoldaşı Zərifə*
+*xanımı görmək ürəyimdən keçsə də, belə ağır gündə onunla*
+*görüşməyə cəsarətim çatmadı. Gücüm ancaq Tofiq Bayram*
+*dünyasına qayıtmağa, onunla dərdləşməyə çatdı.*
 
 Zakir daha mənim üçün
 ağrı-acı,
@@ -10453,7 +10606,8 @@ Soyuq bir tabutda köçüb gedərəm.
 
 # Gecikmiş etiraf
 
-*Dünyanın gözəl yerlərini gördükcə zor və silah gücünə əlimizdən alınan gözəlliklərin itkisi məni dəhşətə gətirir*
+*Dünyanın gözəl yerlərini gördükcə zor və silah gücünə*
+*əlimizdən alınan gözəlliklərin itkisi məni dəhşətə gətirir*
 
 Arımı yemişəm, ar itirmişəm,
 Bir dağam, zirvəmdən qar itirmişəm.

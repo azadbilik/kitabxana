@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=111
 status: DRAFT
 ---
-*Meşə yoxdursa ək, çoxdursa qırma, azdırsa, qoru! Atalar sözü*
+*Meşə yoxdursa ək,*
+*çoxdursa qırma, azdırsa, qoru!*
+*Atalar sözü*
 Bir zamanlar burda meşə var idi,
 Bu meşədə tər bənövşə var idi.
 Bənövşəsi ətirlərdi dünyanı,

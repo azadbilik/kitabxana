@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=59
 status: DRAFT
 ---
-*Şəhid oğulun yasında şair atanın çıxışı Xəlil Rzanı sağlığında ölməz elədi. Qanla yazılan Azərbaycan tarixinin bir parçasına çevirdi.*
+*Şəhid oğulun yasında şair atanın çıxışı*
+*Xəlil Rzanı sağlığında ölməz elədi. Qanla yazılan*
+*Azərbaycan tarixinin bir parçasına çevirdi.*
 
 Əyilməzlik Ulutürkün əslindədi, soyundadı,
 Palıd kimi qamətində, çinar kimi boyundadı.

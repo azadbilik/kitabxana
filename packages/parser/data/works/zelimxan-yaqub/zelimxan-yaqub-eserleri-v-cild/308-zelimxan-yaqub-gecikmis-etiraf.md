@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=397
 status: DRAFT
 ---
-*Dünyanın gözəl yerlərini gördükcə zor və silah gücünə əlimizdən alınan gözəlliklərin itkisi məni dəhşətə gətirir*
+*Dünyanın gözəl yerlərini gördükcə zor və silah gücünə*
+*əlimizdən alınan gözəlliklərin itkisi məni dəhşətə gətirir*
 
 Arımı yemişəm, ar itirmişəm,
 Bir dağam, zirvəmdən qar itirmişəm.

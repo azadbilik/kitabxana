@@ -12,7 +12,30 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=258
 status: DRAFT
 ---
-*Sağlığında bir-birinə həsrət qalan, payına zülüm, intizar, ayrılıq düşən ATA – CAVİD, OĞUL – ƏRTOĞRUL BƏY, ANA – MÜŞKİNAZ XANIM 59 il, 3 ay, 10 gündən sonra Naxçıvan torpağında görüşdülər. Bu gün hər üçünün məzarı şairin doğulduğu torpaqda yan-yana durur, ruhları yanaşı uyuyur. Tale elə gətirdi ki, 41 ildən sonra böyük Cavid Naxçıvana qayıtdı. Naxçıvan şəhərində şairin doğulduğu evin yaxınlığında hər üç əzabkeşin şərəfinə məqbərə ucaldıldı. Əzəməti və gözəlliyi ölməz Möminə Xatun türbəsini xatırladan bu tarixi abidənin açılış günü Azərbaycan xalqının tarixində bənzərsiz və təkrarsız bir hadisə idi. Başdan-başa sevgiyə, sevincə tutulmuş yaşıl xiyabanda otun-suyun sanı var idi, insanın sayı- hesabı yox. Dəniz kimi dalğalanan izdiham ulu Cavidə öz sevgisini bildirmək üçün şahə qalxmışdı. Oktyabr ayının kəskin soyuğu və küləyi heç kəsi üşütmürdü. Çünki könüllərdə Cavid şeirinin odu-alovu dil-dil olub yerə-göyə işıq saçır, istilik, hərarət verirdi. Ölkənin möhtərəm prezidenti Heydər Əliyev çıxış edirdi. Sevinc və kədər qarışıq bir ovqatla danışırdı. İrandan və Türkiyədən gələn qonaqlar, çıxışçılar bir-birini əvəz edirdi. Şairin qızı – gözü odlar-alovlar görmüş TURAN XANIMIN çıxışı ömrüm boyu yadımdan çıxmayacaq. O, çıxış dey- ildi, korun-korun yanan ocaq idi, özü də yanır, tüstülənir, xalqı da yandırırdı. Tanrı fürsət verdi, mən də “Cavid Əfəndi” şeirimlə öz səsimi izdihamın səsinə qoşdum. Cavid Əfəndi də, Müşkinaz xanım da, Ərtoğrul bəy də o gün bizi eşidirdi. Ruhları şad olmuşdu. Bu şeir həmin günlərin yadigarıdı, əziz oxucular!*
+*Sağlığında bir-birinə həsrət qalan, payına zülüm, intizar, ayrılıq*
+*düşən ATA – CAVİD, OĞUL – ƏRTOĞRUL BƏY, ANA –*
+*MÜŞKİNAZ XANIM 59 il, 3 ay, 10 gündən sonra Naxçıvan*
+*torpağında görüşdülər. Bu gün hər üçünün məzarı şairin doğulduğu*
+*torpaqda yan-yana durur, ruhları yanaşı uyuyur. Tale elə gətirdi ki,*
+*41 ildən sonra böyük Cavid Naxçıvana qayıtdı. Naxçıvan şəhərində*
+*şairin doğulduğu evin yaxınlığında hər üç əzabkeşin şərəfinə məqbərə*
+*ucaldıldı. Əzəməti və gözəlliyi ölməz Möminə Xatun türbəsini*
+*xatırladan bu tarixi abidənin açılış günü Azərbaycan xalqının*
+*tarixində bənzərsiz və təkrarsız bir hadisə idi. Başdan-başa sevgiyə,*
+*sevincə tutulmuş yaşıl xiyabanda otun-suyun sanı var idi, insanın sayı-*
+*hesabı yox. Dəniz kimi dalğalanan izdiham ulu Cavidə öz sevgisini*
+*bildirmək üçün şahə qalxmışdı. Oktyabr ayının kəskin soyuğu və*
+*küləyi heç kəsi üşütmürdü. Çünki könüllərdə Cavid şeirinin odu-alovu*
+*dil-dil olub yerə-göyə işıq saçır, istilik, hərarət verirdi. Ölkənin*
+*möhtərəm prezidenti Heydər Əliyev çıxış edirdi. Sevinc və kədər qarışıq*
+*bir ovqatla danışırdı. İrandan və Türkiyədən gələn qonaqlar, çıxışçılar*
+*bir-birini əvəz edirdi. Şairin qızı – gözü odlar-alovlar görmüş TURAN*
+*XANIMIN çıxışı ömrüm boyu yadımdan çıxmayacaq. O, çıxış dey-*
+*ildi, korun-korun yanan ocaq idi, özü də yanır, tüstülənir, xalqı da*
+*yandırırdı. Tanrı fürsət verdi, mən də “Cavid Əfəndi” şeirimlə öz səsimi*
+*izdihamın səsinə qoşdum. Cavid Əfəndi də, Müşkinaz xanım da,*
+*Ərtoğrul bəy də o gün bizi eşidirdi. Ruhları şad olmuşdu. Bu şeir həmin*
+*günlərin yadigarıdı, əziz oxucular!*
 
 Bu nə şadlıq, bu nə bayram, bu nə görüş, bu nə həsrət,
 Görüşümüz uzun çəkdi, gec oldu, Cavid Əfəndi!

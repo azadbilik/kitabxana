@@ -12,7 +12,13 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=84
 status: DRAFT
 ---
-*2002-ci il aprelin 26-da Musiqi Akademiyasında Xalq artisti Ramiz Quliyevin 55 illiyinə həsr olunmuş yaradıcılıq gecəsi keçirildi. Ramiz müəllim özü boyda oda-alova dönüb din - ləyiciləri, tamaşaçıları yandırmaqla məşğul idi. Oğlu Eyyubla səs-səsə, baş-başa verib müqəddəs duyğuların qanadında bizi tanrı dərgahına çağırırdı. Əvvəlcə alqışlar selində itən ata- oğulu məclisin sonunda gül-çiçəklərin içində itən gördüm.*
+*2002-ci il aprelin 26-da Musiqi Akademiyasında Xalq artisti*
+*Ramiz Quliyevin 55 illiyinə həsr olunmuş yaradıcılıq gecəsi*
+*keçirildi. Ramiz müəllim özü boyda oda-alova dönüb din -*
+*ləyiciləri, tamaşaçıları yandırmaqla məşğul idi. Oğlu Eyyubla*
+*səs-səsə, baş-başa verib müqəddəs duyğuların qanadında bizi*
+*tanrı dərgahına çağırırdı. Əvvəlcə alqışlar selində itən ata-*
+*oğulu məclisin sonunda gül-çiçəklərin içində itən gördüm.*
 
 Ürək yüz pay olur, könül min para,
 Sıxanda bağrına o tarı, Ustad!

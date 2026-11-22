@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=102
 status: DRAFT
 ---
-*Frankfurt-Vaşinqton təyyarəsində düşüncələr*
+*Frankfurt-Vaşinqton*
+*təyyarəsində düşüncələr*
 
 Əlli il dolandım torpağın üstə,
 Heç yanda, heç yerdə mən darıxmadım.

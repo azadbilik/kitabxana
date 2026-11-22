@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=104
 status: DRAFT
 ---
-*İllərlə özünə ailə qura bilməyən, evsiz-eşiksiz qalan, üzünün, başının tükü bir-birinə qarışan, gecələr küçələrdə yatan insanlar da gördüm*
+*İllərlə özünə ailə qura bilməyən, evsiz-eşiksiz*
+*qalan, üzünün, başının tükü bir-birinə qarışan,*
+*gecələr küçələrdə yatan insanlar da gördüm*
 
 Bədbəxtlik deyilmi, oğul olasan,
 Bir qız dodağında adın olmaya.

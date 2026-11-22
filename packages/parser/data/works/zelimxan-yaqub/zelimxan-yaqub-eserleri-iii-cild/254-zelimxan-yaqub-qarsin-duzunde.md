@@ -12,9 +12,17 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=330
 status: DRAFT
 ---
-*Qars ayaz, Bura gündü, Qars ayaz. Qələm, qurbanın olum, Qismətimi Qarsa yaz. Nənəm belə deyərdi*
+*Qars ayaz,*
+*Bura gündü, Qars ayaz.*
+*Qələm, qurbanın olum,*
+*Qismətimi Qarsa yaz.*
+*Nənəm belə deyərdi*
 
-*Qars ayazdı, Bura gündü, Qars ayazdı. Qələmə qurban olum, Qisməti Qarsa yazdı. Mən belə deyirəm*
+*Qars ayazdı,*
+*Bura gündü, Qars ayazdı.*
+*Qələmə qurban olum,*
+*Qisməti Qarsa yazdı.*
+*Mən belə deyirəm*
 
 Məni bu yerlərə qismət gətirdi,
 Yazdılar yazımı Qarsın düzündə.

@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=139
 status: DRAFT
 ---
-*Bir nazirliyin qapısında gözünün yaşını yağış kimi yağdıran qoca bir kişi gördüm. Şikayəti Allahın yanına çıxsa da, yuxarıda oturanın yanına çıxa bilmirdi.*
+*Bir nazirliyin qapısında gözünün yaşını yağış kimi*
+*yağdıran qoca bir kişi gördüm. Şikayəti Allahın yanına*
+*çıxsa da, yuxarıda oturanın yanına çıxa bilmirdi.*
 
 Bu qapıdan yollar gedir, ay qoca,
 Süd arxından qollar gedir, ay qoca,

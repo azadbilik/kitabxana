@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=315
 status: DRAFT
 ---
-*Xəstəxanada mənə baş çəkməyə gələnlərin əksəriyyəti bir- birindən xəbərsiz eyni cümləni təkrar edirdilər: “Dur ayağa, xəs - təlik sənə yaraşmır!”*
+*Xəstəxanada mənə baş çəkməyə gələnlərin əksəriyyəti bir-*
+*birindən xəbərsiz eyni cümləni təkrar edirdilər: “Dur ayağa, xəs -*
+*təlik sənə yaraşmır!”*
 
 Adam bir ağrıya üz göstərəndə,
 Ağrının adamdan xoşu gələrmiş.

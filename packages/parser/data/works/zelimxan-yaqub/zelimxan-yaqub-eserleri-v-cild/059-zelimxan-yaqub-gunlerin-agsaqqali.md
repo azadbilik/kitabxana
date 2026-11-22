@@ -13,9 +13,24 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=78
 status: DRAFT
 ---
-*“Ən əziz, ən şirin, ən acı günlər” şeirinin müəllifi Cabir Novruza*
+*“Ən əziz, ən şirin, ən acı günlər”*
+*şeirinin müəllifi Cabir Novruza*
 
-*1971-ci ildə sevimli Xalq şairimiz Söhrab Tahirin anası Nəsibə xanım 26 illik ayrılıqdan sonra Təbrizdən Bakıya şair oğlunun görüşünə gəlmişdi. Bu gəliş bütün Azərbaycan şairlərini həyəcana gətirmiş, Söhrab Tahirin qələm qar - daşları, könül dostları bu göynərtili hadisəyə ən isti mis- ralar həsr etmişdilər. Ən gözəl şeirlərdən birini mərhum Xalq şairimiz Cabir Novruz yazmışdı. “Ən əziz, ən şirin, ən acı günlər” adlı bu şeir mətbuatda dərc olunan günün səhəri ayrılıqla, həsrətlə bağlı iki dost və ustad şairin yaşadığı həyəcanlı duyğuları mən də yaşadım. 32 il bundan əvvəl Cabir Novruza həsr etdiyim bu şeiri bir təsadüf nəticəsində arxivimdən tapmışam. Nəsibə ana da, Cabir Novruz da artıq haqqın dərgahına qovuşublar. Onlara Al- lahdan rəhmət diləyir, ruhlarını şad eləmək üçün bu şeiri əziz oxucularımın ixtiyarına verirəm.*
+*1971-ci ildə sevimli Xalq şairimiz Söhrab Tahirin anası*
+*Nəsibə xanım 26 illik ayrılıqdan sonra Təbrizdən Bakıya*
+*şair oğlunun görüşünə gəlmişdi. Bu gəliş bütün Azərbaycan*
+*şairlərini həyəcana gətirmiş, Söhrab Tahirin qələm qar -*
+*daşları, könül dostları bu göynərtili hadisəyə ən isti mis-*
+*ralar həsr etmişdilər. Ən gözəl şeirlərdən birini mərhum*
+*Xalq şairimiz Cabir Novruz yazmışdı. “Ən əziz, ən şirin,*
+*ən acı günlər” adlı bu şeir mətbuatda dərc olunan günün*
+*səhəri ayrılıqla, həsrətlə bağlı iki dost və ustad şairin*
+*yaşadığı həyəcanlı duyğuları mən də yaşadım. 32 il bundan*
+*əvvəl Cabir Novruza həsr etdiyim bu şeiri bir təsadüf*
+*nəticəsində arxivimdən tapmışam. Nəsibə ana da, Cabir*
+*Novruz da artıq haqqın dərgahına qovuşublar. Onlara Al-*
+*lahdan rəhmət diləyir, ruhlarını şad eləmək üçün bu şeiri*
+*əziz oxucularımın ixtiyarına verirəm.*
 
 Şair dostum, canım qurban olaydı,
 Sevincimiz bulaq olan günlərə.

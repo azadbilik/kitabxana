@@ -12,7 +12,10 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=172
 status: DRAFT
 ---
-*1994-cü il iyunun 23-ü günü Xəlil Rzanı Fəxri xiyabanda torpağa tapşırdıq. Bütün günü öz-özümə gümüldənə-gümüldənə oxşama deyib, ağı deyib, onun ömrünü-gününü bayatıya, laylaya tutmuşam.*
+*1994-cü il iyunun 23-ü günü Xəlil Rzanı*
+*Fəxri xiyabanda torpağa tapşırdıq. Bütün günü öz-özümə*
+*gümüldənə-gümüldənə oxşama deyib, ağı deyib,*
+*onun ömrünü-gününü bayatıya, laylaya tutmuşam.*
 
 Sənə necə layla çalım,
 Din-imanım, Xəlil Rza!

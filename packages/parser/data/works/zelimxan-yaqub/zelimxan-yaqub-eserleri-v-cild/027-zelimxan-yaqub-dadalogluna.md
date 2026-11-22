@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=34
 status: DRAFT
 ---
-*Qalxdı, köç eylədi Əfşar elləri, Ağır-ağır gedən ellər bizimdi. Dadaloğlu*
+*Qalxdı, köç eylədi Əfşar elləri,*
+*Ağır-ağır gedən ellər bizimdi.*
+*Dadaloğlu*
 
 Yerindən oynadı Oğuz elləri,
 Qismətim köç oldu, ay Dadaloğlu.

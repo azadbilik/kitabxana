@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=413
 status: DRAFT
 ---
-*Yol yoldaşım, səfər dostum, şərqşünas alimimiz Hacı Vasim Məmmədəliyevə*
+*Yol yoldaşım, səfər dostum,*
+*şərqşünas alimimiz*
+*Hacı Vasim Məmmədəliyevə*
 
 Bakıdan Bağdada karvan gedirdi,
 Sərvəti söz olan maşın karvanı.

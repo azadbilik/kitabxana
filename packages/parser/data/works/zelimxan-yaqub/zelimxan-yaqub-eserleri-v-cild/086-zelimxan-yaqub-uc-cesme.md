@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=118
 status: DRAFT
 ---
-*23 günlük səfər yoldaşlarım Mais Səfərliyə, Səyyad Arana, Mixail Zabelinə*
+*23 günlük səfər yoldaşlarım Mais Səfərliyə,*
+*Səyyad Arana, Mixail Zabelinə*
 
 Hər yoldaş bir arxa, bir dayaq yeri,
 Hər dost uçmaq üçün quş qanadıymış.

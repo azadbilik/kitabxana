@@ -77,4 +77,5 @@ min dəfə lənət mənə,
 Tanrım, şəhid olmağın
 sirrini öyrət mənə!!!
 
-*Almaniya, Münhen xəstəxanası, 2008, 12 mart*
+*Almaniya,*
+*Münhen xəstəxanası, 2008, 12 mart*

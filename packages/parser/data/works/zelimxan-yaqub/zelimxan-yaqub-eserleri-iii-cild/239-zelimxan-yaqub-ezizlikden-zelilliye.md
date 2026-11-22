@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=311
 status: DRAFT
 ---
-*Əzizliklə saxladığın aşığı, Zəlilliklə imtahana çəkirsən. Aşıq Ələsgər*
+*Əzizliklə saxladığın aşığı,*
+*Zəlilliklə imtahana çəkirsən.*
+*Aşıq Ələsgər*
 
 Dağdan enər bir çıxılmaz dərəyə,
 Əzizlikdən zəlilliyə gedən yol.

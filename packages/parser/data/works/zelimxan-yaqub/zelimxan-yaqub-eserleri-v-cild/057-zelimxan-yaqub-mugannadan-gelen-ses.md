@@ -12,7 +12,16 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=73
 status: DRAFT
 ---
-*Zəng çalındı. Dəstəyi götürdüm. Min illərin arxa - sından gələn qədim bir səs eşitdim. Səs onun səsi idi. Telefonda böyük Xalq yazıçımız İsa Hüseynov danışırdı. Sakit və müdrik. Asta və usta. “Ayə, yaman dolmuşam, sən haqda yazmaq istəyirəm. Mənə pıçıltılar göndər”, – dedi. Dəstəyi asdı. Tanrının işinə bax ki, o anlar mənim də ruhumun pıçıltılı məqamları idi. Duyğularımız üst-üstə düşmüş, qəlbimizin telləri eyni hava üstə kök - lənmişdi.*
+*Zəng çalındı. Dəstəyi götürdüm. Min illərin arxa -*
+*sından gələn qədim bir səs eşitdim. Səs onun səsi idi.*
+*Telefonda böyük Xalq yazıçımız İsa Hüseynov*
+*danışırdı. Sakit və müdrik. Asta və usta. “Ayə,*
+*yaman dolmuşam, sən haqda yazmaq istəyirəm.*
+*Mənə pıçıltılar göndər”, – dedi. Dəstəyi asdı.*
+*Tanrının işinə bax ki, o anlar mənim də ruhumun*
+*pıçıltılı məqamları idi. Duyğularımız üst-üstə*
+*düşmüş, qəlbimizin telləri eyni hava üstə kök -*
+*lənmişdi.*
 
 Zəng çaldı gecənin bir aləmində,
 Köhnə kişilərdən bir nişan kişi.

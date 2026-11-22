@@ -156,7 +156,11 @@ Hər gəliş ölməzlik bəxş edir,
 Dirilik həyatı gətirir.
 Qələm əlimdə, dəftər qabağımda,
 Bu misralar səslənir dodağımda:
-*“Mən yanmasam, Sən yanmasan, Biz yanmasaq Necə çıxar Qaranlıqlar aydınlığa!”*
+*“Mən yanmasam,*
+*Sən yanmasan,*
+*Biz yanmasaq*
+*Necə çıxar*
+*Qaranlıqlar aydınlığa!”*
 Girişmişəm işə,
 Fikrimi bir yerə yığa-yığa.
 Mənə təzə şeir yazdırır,

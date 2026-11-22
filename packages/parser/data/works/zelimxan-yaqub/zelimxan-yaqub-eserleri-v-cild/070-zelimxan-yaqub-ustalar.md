@@ -12,7 +12,14 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=98
 status: DRAFT
 ---
-*Özümə ev tikir, yuva qururam. Xeyli müddətdir ki, evimizdə ustalar işləyir. Hacı, Mu xtar, Şamil, Ağalar. Hansının adının birinci çəkilməyinə baxmayaraq, hər biri özlüyündə birinciliyə layiqdi. İstər sənətdə, qabiliyyət-də, istər adamlıqda, mərifətdə. Elə bil yüz ildi bir-birimizi tanıyırıq. Doğma qardaş kimi bir-birimizə qaynayıb-qarışmışıq. Onlar artıq mənim tərcümeyi-halımın bir hissəsinə çevrilib, yaddaş və könül dünyama daxil olublar.*
+*Özümə ev tikir, yuva qururam. Xeyli müddətdir ki,*
+*evimizdə ustalar işləyir. Hacı, Mu xtar, Şamil, Ağalar.*
+*Hansının adının birinci çəkilməyinə baxmayaraq, hər biri*
+*özlüyündə birinciliyə layiqdi. İstər sənətdə, qabiliyyət-də, istər*
+*adamlıqda, mərifətdə. Elə bil yüz ildi bir-birimizi tanıyırıq.*
+*Doğma qardaş kimi bir-birimizə qaynayıb-qarışmışıq. Onlar*
+*artıq mənim tərcümeyi-halımın bir hissəsinə çevrilib, yaddaş*
+*və könül dünyama daxil olublar.*
 
 Nə zaman gəlirəm
 əliniz işdə,

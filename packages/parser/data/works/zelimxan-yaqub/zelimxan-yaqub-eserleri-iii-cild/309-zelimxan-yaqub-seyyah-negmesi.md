@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=415
 status: DRAFT
 ---
-*Eyni adlı şeirin müəllifi, dahi alman şairi İohan Volfqanq Höteyə*
+*Eyni adlı şeirin müəllifi,*
+*dahi alman şairi*
+*İohan Volfqanq Höteyə*
 
 “Səyyah nəğməsi”ni yazan nəğməkar,
 Bu yurdu görməmək günah olarmış.

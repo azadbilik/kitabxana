@@ -27,4 +27,5 @@ Yaxşıya yozmaq olmadı.
 Mənimki yazmaq olmadı,
 Mənimki ağlamaq oldu.
 
-*Almaniya, Münhen xəstəxanası, 2008, 13 mart*
+*Almaniya,*
+*Münhen xəstəxanası, 2008, 13 mart*

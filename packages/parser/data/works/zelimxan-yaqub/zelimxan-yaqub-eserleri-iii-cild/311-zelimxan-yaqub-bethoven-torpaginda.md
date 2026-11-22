@@ -14,7 +14,30 @@ status: DRAFT
 ---
 *DOST SAZl DİLLƏNİRDİ*
 
-*Payızın son ayının ilk günlərində Almaniyanın Bilefild şəhə - rində şair dostum, Aşıq Ələsgər yaradıcılığının tədqiqatçısı, folk - lorşünas alim Nizaməddin Onkun qonağıydım. Nizaməddin bəy mənim şərəfimə könül dostlarını, ziyalıları, vaxtilə Azərbaycan - dan və Türkiyədən getmiş adamları evinə dəvət etmişdi. Şeirdən, sənətdən, Vətəndən, qürbətdən yüz ilin həsrətliləri ki mi şirinli-acılı söhbətlər edirdik. Məclisin şirin yerində Niza - məddin bəy köynəkdə bir saz gətirdi. Gözlərimə inanmadım. Al- maniya hara, saz hara? Mənim heyrətimi görən şair dostum: “14 ildi köynəkdəydi, bu illər ərzində onu dilləndirəni gözləyir - dim, bu, sənin qismətindir, buyur, çal!” – dedi. Bu təklifdən qəh - qəhə çəkib gülməyə başladım. Dedim, ay rəhmətliyin oğlu, 7 illik ayrılıqdan sonra Aşıq Qərib Tiflisə gələndə onun sazında sala- mat bir tel qalmamışdı. 14 ilə telmi qalar, mən onu çalam, siz də ləzzət ala, kövrələsiniz? Könülsüz-könülsüz sazı köynəyindən çıxartdım. Nə görsəm yaxşıdır? Elə bil saz bu gün tellənib, sığal - lanıb köklənmişdi. Tufarqanlı Abbasın dediyi kimi: “Dinlə Ab - basın səsini, tökər könüllər” deyib saz öz-özünə oxumaq istəyirdi. İndi fikir verin: qürbət ola, saz ola, həsrət ola, üstəlik də mey- danda Zəlimxan ola! Bir Allah bilir burda saz nə tufan eylədi... Bu sazın dil-dil ötməsinin sirrini – səbəbini anlamağa çalışdım. Məlum oldu ki, bu hədiyyəni Aşıq Ələsgərin nəvəsi, hörmətli alimimiz İslam Ələsgərli bağışlayıb. Demək, bizi həm də Ələsgər ocağının müqəddəs ruhu belə coşdururmuş.*
+*Payızın son ayının ilk günlərində Almaniyanın Bilefild şəhə -*
+*rində şair dostum, Aşıq Ələsgər yaradıcılığının tədqiqatçısı, folk -*
+*lorşünas alim Nizaməddin Onkun qonağıydım. Nizaməddin bəy*
+*mənim şərəfimə könül dostlarını, ziyalıları, vaxtilə Azərbaycan -*
+*dan və Türkiyədən getmiş adamları evinə dəvət etmişdi.*
+*Şeirdən, sənətdən, Vətəndən, qürbətdən yüz ilin həsrətliləri*
+*ki mi şirinli-acılı söhbətlər edirdik. Məclisin şirin yerində Niza -*
+*məddin bəy köynəkdə bir saz gətirdi. Gözlərimə inanmadım. Al-*
+*maniya hara, saz hara? Mənim heyrətimi görən şair dostum:*
+*“14 ildi köynəkdəydi, bu illər ərzində onu dilləndirəni gözləyir -*
+*dim, bu, sənin qismətindir, buyur, çal!” – dedi. Bu təklifdən qəh -*
+*qəhə çəkib gülməyə başladım. Dedim, ay rəhmətliyin oğlu, 7 illik*
+*ayrılıqdan sonra Aşıq Qərib Tiflisə gələndə onun sazında sala-*
+*mat bir tel qalmamışdı. 14 ilə telmi qalar, mən onu çalam, siz*
+*də ləzzət ala, kövrələsiniz? Könülsüz-könülsüz sazı köynəyindən*
+*çıxartdım. Nə görsəm yaxşıdır? Elə bil saz bu gün tellənib, sığal -*
+*lanıb köklənmişdi. Tufarqanlı Abbasın dediyi kimi: “Dinlə Ab -*
+*basın səsini, tökər könüllər” deyib saz öz-özünə oxumaq istəyirdi.*
+*İndi fikir verin: qürbət ola, saz ola, həsrət ola, üstəlik də mey-*
+*danda Zəlimxan ola! Bir Allah bilir burda saz nə tufan eylədi...*
+*Bu sazın dil-dil ötməsinin sirrini – səbəbini anlamağa çalışdım.*
+*Məlum oldu ki, bu hədiyyəni Aşıq Ələsgərin nəvəsi, hörmətli*
+*alimimiz İslam Ələsgərli bağışlayıb. Demək, bizi həm də Ələsgər*
+*ocağının müqəddəs ruhu belə coşdururmuş.*
 
 Sanki bir ceyran gəlib
 oylağıma, binəmə,

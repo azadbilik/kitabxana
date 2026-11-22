@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=19
 status: DRAFT
 ---
-*Ağdam ölkəşünaslıq muzeyinin əməkdaşı Xatirə xanıma həsr edirəm*
+*Ağdam ölkəşünaslıq muzeyinin*
+*əməkdaşı Xatirə xanıma həsr edirəm*
 
 Gur ocaqdan götürüb,
 Köz baxışı, köz əli.

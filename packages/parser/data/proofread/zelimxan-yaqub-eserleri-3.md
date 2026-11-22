@@ -1412,7 +1412,9 @@ Qələbə günündə bayrağa, şeirim!!!
 
 # Çıxış edir Xəlil Rza
 
-*Şəhid oğulun yasında şair atanın çıxışı Xəlil Rzanı sağlığında ölməz elədi. Qanla yazılan Azərbaycan tarixinin bir parçasına çevirdi.*
+*Şəhid oğulun yasında şair atanın çıxışı*
+*Xəlil Rzanı sağlığında ölməz elədi. Qanla yazılan*
+*Azərbaycan tarixinin bir parçasına çevirdi.*
 
 Əyilməzlik Ulutürkün əslindədi, soyundadı,
 Palıd kimi qamətində, çinar kimi boyundadı.
@@ -2697,7 +2699,8 @@ Bir gözü tox balasıdı Şirvanın,
 
 # Bu kişi
 
-*İstəkli həyat yoldaşını itirmiş 70 yaşlı bir kişini zülüm-zülüm ağlayan gördüm*
+*İstəkli həyat yoldaşını itirmiş 70 yaşlı bir kişini*
+*zülüm-zülüm ağlayan gördüm*
 
 Bir yumaqdı ağrıların əlində,
 Yavaş-yavaş çözələnir bu kişi.
@@ -3003,7 +3006,8 @@ Axır ləlik olan könlüm.
 
 # Daş
 
-*Ay daş atan bəxtəvər, Daşın da öz vaxtı var.*
+*Ay daş atan bəxtəvər,*
+*Daşın da öz vaxtı var.*
 
 Can atma ağzıma qıfıl vurmağa,
 Sən qıfıl olarsan, haqq açar, bala!
@@ -3589,7 +3593,8 @@ Bütün şairlərdən öncə Nizami!
 
 # Sənə bağlı xatirələr
 
-*Səməd Vurğun haqqında xatirə kitablarını oxuyarkən*
+*Səməd Vurğun haqqında*
+*xatirə kitablarını oxuyarkən*
 
 Əlli ildə əlli ömrü,
 Yaşamağı bir heyrətmiş.
@@ -3882,7 +3887,10 @@ Dədələr azalır, ay Dədə Şəmşir!
 
 # Dünyanın ölümü
 
-*“Ölən dünyam” romanını göz yaşları içində birnəfəsə oxudum. Sarsıldım. Bu əsəri yazana kimi nə qədər ağrılar, əzablar çəkmisən. Gorun nurla dolsun, ruhun şad olsun, İsmayıl müəllim.*
+*“Ölən dünyam” romanını göz yaşları içində*
+*birnəfəsə oxudum. Sarsıldım. Bu əsəri yazana kimi*
+*nə qədər ağrılar, əzablar çəkmisən. Gorun nurla dolsun,*
+*ruhun şad olsun, İsmayıl müəllim.*
 
 Göz yaşı içində oxudum, ustad,
 Sənin gözlərində ölən dünyanı.
@@ -4080,7 +4088,10 @@ Verrəm sənin kimi dosta, Kamandar.
 
 # Öldürür
 
-*Bu şeir Ağdaş rayonunda, böyük şairimiz Maqsud Şeyxzadənin anadan olmasının 85 illik məclisində xanəndə Ağaxan Abdullayevin ilahi dərəcədə gözəl çıxışından sonra yazılmışdır*
+*Bu şeir Ağdaş rayonunda, böyük şairimiz*
+*Maqsud Şeyxzadənin anadan olmasının 85 illik*
+*məclisində xanəndə Ağaxan Abdullayevin*
+*ilahi dərəcədə gözəl çıxışından sonra yazılmışdır*
 
 Ellər, məni ürəyimdən axıb gedən qan öldürür,
 Muğam adlı bir sehrkar, səs adlı bir can öldürür.
@@ -4357,7 +4368,10 @@ Vətən torpağında Məmməd Araz var!
 
 # Xəlil Rzaya ağı
 
-*1994-cü il iyunun 23-ü günü Xəlil Rzanı Fəxri xiyabanda torpağa tapşırdıq. Bütün günü öz-özümə gümüldənə-gümüldənə oxşama deyib, ağı deyib, onun ömrünü-gününü bayatıya, laylaya tutmuşam.*
+*1994-cü il iyunun 23-ü günü Xəlil Rzanı*
+*Fəxri xiyabanda torpağa tapşırdıq. Bütün günü öz-özümə*
+*gümüldənə-gümüldənə oxşama deyib, ağı deyib,*
+*onun ömrünü-gününü bayatıya, laylaya tutmuşam.*
 
 Sənə necə layla çalım,
 Din-imanım, Xəlil Rza!
@@ -4552,7 +4566,8 @@ Xəstəni ölümün əlindən alan
 
 # Nə təmiz yaradıb
 
-*Əsil insan, gözəl alim, ağsaqqalım, qayğıkeşim, xeyirxahım Camal Mustafayevə*
+*Əsil insan, gözəl alim, ağsaqqalım,*
+*qayğıkeşim, xeyirxahım Camal Mustafayevə*
 
 Özütək incədir, zərifdir deyə,
 Çiçəklər baş əyir duyğularına.
@@ -5727,7 +5742,15 @@ Bir köhlən at mindim Qarabulaqda.
 
 # Sarıbaş kəndi
 
-*Bu kənd haqqında çox eşitmişdim. Axır ki, bu yeri ziyarət elə mək mənə də nəsib oldu. Rəşid Behbudovun, İsmayıl Şıxlının, Məmməd Rahimin, Hüseyn Arifin yurdumuzun bu dilbər guşəsi ilə bağlı xatirələri, görüşləri, məclisləri yenidən kitab kimi varaq - landı. Bu kəndin görkəmi, təbii mənzərəsi qədim və məğlub - edilməz qalaları xatırladır. Çox şirin və mehriban camaatı var. Qocalı-cavanlı hamısı poeziya vurğunudu. Hüseyn Arifə xüsusi heyranlıqları var. Bu gün bütün Sarıbaşlıları minnətdarlıq duy - ğuları ilə yad edirəm.*
+*Bu kənd haqqında çox eşitmişdim. Axır ki, bu yeri ziyarət*
+*elə mək mənə də nəsib oldu. Rəşid Behbudovun, İsmayıl Şıxlının,*
+*Məmməd Rahimin, Hüseyn Arifin yurdumuzun bu dilbər guşəsi*
+*ilə bağlı xatirələri, görüşləri, məclisləri yenidən kitab kimi varaq -*
+*landı. Bu kəndin görkəmi, təbii mənzərəsi qədim və məğlub -*
+*edilməz qalaları xatırladır. Çox şirin və mehriban camaatı var.*
+*Qocalı-cavanlı hamısı poeziya vurğunudu. Hüseyn Arifə xüsusi*
+*heyranlıqları var. Bu gün bütün Sarıbaşlıları minnətdarlıq duy -*
+*ğuları ilə yad edirəm.*
 
 Güldü, gülüstandı, baldı, ətirdi,
 Bu gün ziyarətim olan SARIBAŞ.
@@ -6006,7 +6029,9 @@ Gözümdən uzağa qoymaram səni,
 
 # Anamın gileyi
 
-*Ay oğul, evə gələndə bir imkan tap, bizlə də söhbət elə. İçəri girən kimi çəkilirsən otağına. Bu qədər yazmaqdan, oxumaqdan, telefonla danışmaqdan nə tapmısan?*
+*Ay oğul, evə gələndə bir imkan tap, bizlə də söhbət elə. İçəri*
+*girən kimi çəkilirsən otağına. Bu qədər yazmaqdan, oxumaqdan,*
+*telefonla danışmaqdan nə tapmısan?*
 
 Səninlə az danışıb, az dinirəm, ay ana,
 Sən bunu məndən ötrü günah sayma, savab say.
@@ -6430,7 +6455,10 @@ Dirilməz o sevgi, dirilməz daha.
 
 # Mirvarid xanım
 
-*“Səməd Vurğun – 80” təşviqat qatarında, ongünlük Azər - baycan rayonlarına səfər zamanı Xalq şairi Mirvarid Dilbazini daha yaxından tanıdım, aramızda ana-bala, nənə-nəvə sevgisi yarandı.*
+*“Səməd Vurğun – 80” təşviqat qatarında, ongünlük Azər -*
+*baycan rayonlarına səfər zamanı Xalq şairi Mirvarid Dilbazini*
+*daha yaxından tanıdım, aramızda ana-bala, nənə-nəvə sevgisi*
+*yarandı.*
 
 Ömründə payızdı, könlündə bahar,
 İncədən incəsən, Mirvarid xanım.
@@ -6694,7 +6722,8 @@ Göylərə bax, göylərə!
 
 # Zəlimxan Yaqubun çoxdu cəzası
 
-*Borçalıda olan dostum Səttar müəllimin dilindən*
+*Borçalıda olan dostum*
+*Səttar müəllimin dilindən*
 
 Borçalı sazından yaradıb onu,
 Ellər avazından yaradıb onu.
@@ -7949,7 +7978,9 @@ Bələnlər, qaşlar kəsilər.
 
 # Bilirəm
 
-*Mən necə nigaran olmaya billəm Niyə nigarandı dağlar bilməsəm. H. Arif*
+*Mən necə nigaran olmaya billəm*
+*Niyə nigarandı dağlar bilməsəm.*
+*H. Arif*
 
 Bir əsim küləyin hökmünə bənddir,
 Yel əssə, çəkilər səhər dumanı.
@@ -8068,7 +8099,9 @@ Sənintək qonaqlar var olsun, ustad!
 @@ 311
 
 # Əzizlikdən zəlilliyə
-*Əzizliklə saxladığın aşığı, Zəlilliklə imtahana çəkirsən. Aşıq Ələsgər*
+*Əzizliklə saxladığın aşığı,*
+*Zəlilliklə imtahana çəkirsən.*
+*Aşıq Ələsgər*
 
 Dağdan enər bir çıxılmaz dərəyə,
 Əzizlikdən zəlilliyə gedən yol.
@@ -8135,7 +8168,9 @@ Mərd ol, sağ-salamat başını saxla!
 
 # Mən də gedəsiyəm
 
-*Xəstəxanada mənə baş çəkməyə gələnlərin əksəriyyəti bir- birindən xəbərsiz eyni cümləni təkrar edirdilər: “Dur ayağa, xəs - təlik sənə yaraşmır!”*
+*Xəstəxanada mənə baş çəkməyə gələnlərin əksəriyyəti bir-*
+*birindən xəbərsiz eyni cümləni təkrar edirdilər: “Dur ayağa, xəs -*
+*təlik sənə yaraşmır!”*
 
 Adam bir ağrıya üz göstərəndə,
 Ağrının adamdan xoşu gələrmiş.
@@ -8565,9 +8600,17 @@ Bu ziyarət, bu yer Məkkə, mən Hacı!
 
 # Qarsın düzündə
 
-*Qars ayaz, Bura gündü, Qars ayaz. Qələm, qurbanın olum, Qismətimi Qarsa yaz. Nənəm belə deyərdi*
+*Qars ayaz,*
+*Bura gündü, Qars ayaz.*
+*Qələm, qurbanın olum,*
+*Qismətimi Qarsa yaz.*
+*Nənəm belə deyərdi*
 
-*Qars ayazdı, Bura gündü, Qars ayazdı. Qələmə qurban olum, Qisməti Qarsa yazdı. Mən belə deyirəm*
+*Qars ayazdı,*
+*Bura gündü, Qars ayazdı.*
+*Qələmə qurban olum,*
+*Qisməti Qarsa yazdı.*
+*Mən belə deyirəm*
 
 Məni bu yerlərə qismət gətirdi,
 Yazdılar yazımı Qarsın düzündə.
@@ -8605,7 +8648,8 @@ Tapdım murazımı Qarsın düzündə.
 
 # Şahmət xoca
 
-*Qarsın tanınmış xocası, Fövzi paşa okul müdiri hörmətli Şahmət Bilgirə ulu sevgilərlə*
+*Qarsın tanınmış xocası, Fövzi paşa okul müdiri*
+*hörmətli Şahmət Bilgirə ulu sevgilərlə*
 
 Dərədə selə döndüm, dağda yel kimi əsdim,
 Min görüşdən yan keçib, bir görüşə tələsdim.
@@ -8841,7 +8885,17 @@ Gəldi, getdi yuxu kimi, quş kimi!
 
 # Məhməd Akif Ərsoyun ev-muzeyində
 
-*Türk dövlətinin başçısı Mustafa Kamal paşa ölkənin him - nini yazdırmaq üçün 724 şairin iştirak elədiyi bir şeir müsabiqəsi keçirir. Müsabiqənin qalibinə 5 min türk lirəsi pul mükafatı ayı - rır. Məhməd Akifin “İstiqlal marşı” şeiri birincilik qazanır. An - caq ona veriləcək pul mükafatını qəbul etmir. “Türkiyənin ağır və çətin günləridir”, – deyib həmin pulun ehtiyacı olanlara veril - məsini xahiş edir. 1921-ci il martın 1-də “İstiqlal marşı” Böyük Millət Məclisində oxunur və uzun sürən alqışlarla qarşılanır. Ankarada Məhməd Akif Ərsoyun ev-muzeyini ziyarət elə - dim. Türk dünyasının böyük şairi “İstiqlal marşı”nı bu evdə yazmışdır.*
+*Türk dövlətinin başçısı Mustafa Kamal paşa ölkənin him -*
+*nini yazdırmaq üçün 724 şairin iştirak elədiyi bir şeir müsabiqəsi*
+*keçirir. Müsabiqənin qalibinə 5 min türk lirəsi pul mükafatı ayı -*
+*rır. Məhməd Akifin “İstiqlal marşı” şeiri birincilik qazanır. An -*
+*caq ona veriləcək pul mükafatını qəbul etmir. “Türkiyənin ağır*
+*və çətin günləridir”, – deyib həmin pulun ehtiyacı olanlara veril -*
+*məsini xahiş edir. 1921-ci il martın 1-də “İstiqlal marşı” Böyük*
+*Millət Məclisində oxunur və uzun sürən alqışlarla qarşılanır.*
+*Ankarada Məhməd Akif Ərsoyun ev-muzeyini ziyarət elə -*
+*dim. Türk dünyasının böyük şairi “İstiqlal marşı”nı bu evdə*
+*yazmışdır.*
 
 Adı əzizdən əziz hər nəsilə, hər soya,
 Bizdən salamlar olsun Məhməd Akif Ərsoya!
@@ -8918,7 +8972,8 @@ Mən bu gün başdan-başa bir
 
 # Qoşa sətirlər
 
-*Bu sətirləri böyük türk şairi Nəcib Fazil Qısakürəyin ruhuna bağışlayıram*
+*Bu sətirləri böyük türk şairi*
+*Nəcib Fazil Qısakürəyin ruhuna bağışlayıram*
 
 # Həyat – ölüm
 
@@ -9131,7 +9186,11 @@ Hər gəliş ölməzlik bəxş edir,
 Dirilik həyatı gətirir.
 Qələm əlimdə, dəftər qabağımda,
 Bu misralar səslənir dodağımda:
-*“Mən yanmasam, Sən yanmasan, Biz yanmasaq Necə çıxar Qaranlıqlar aydınlığa!”*
+*“Mən yanmasam,*
+*Sən yanmasan,*
+*Biz yanmasaq*
+*Necə çıxar*
+*Qaranlıqlar aydınlığa!”*
 Girişmişəm işə,
 Fikrimi bir yerə yığa-yığa.
 Mənə təzə şeir yazdırır,
@@ -9141,7 +9200,8 @@ Oxuyuram Nazim Hikməti!!!
 @@ 350
 
 # Kişi
-*Məhəmməd Əmin Rəsulzadənin məzarı başında düşüncələr*
+*Məhəmməd Əmin Rəsulzadənin*
+*məzarı başında düşüncələr*
 
 Yetmiş illik ayrılıq axır ki, çatdı sona,
 Salam! Rəsul övladı Məhəmməd Əmin kişi!
@@ -9418,7 +9478,13 @@ Bax bu yurdda, bu ocaqda görüşdük.
 
 # Qan damlatsan, can bitər
 
-*İstanbulda bizi – bir qrup Azərbaycan ziyalısını “Zaman” qəzetinin redaksiyasına dəvət etmişdilər. Xalqımızın, torpa - ğımızın ağrılı-acılı taleyindən qızğın və göynərtili söhbətlər gedirdi. Qəzetin baş redaktoru Nacib Tosun“Azərbaycan torpağına qan damlatsan can bitər”, – deyib ağladı. Ürəkləri titrədən bu mənzərədən hamının gözləri yaşardı. Bu unudulmaz görüşdən mənə kövrək misralar yadigar qaldı.*
+*İstanbulda bizi – bir qrup Azərbaycan ziyalısını “Zaman”*
+*qəzetinin redaksiyasına dəvət etmişdilər. Xalqımızın, torpa -*
+*ğımızın ağrılı-acılı taleyindən qızğın və göynərtili söhbətlər*
+*gedirdi. Qəzetin baş redaktoru Nacib Tosun“Azərbaycan*
+*torpağına qan damlatsan can bitər”, – deyib ağladı. Ürəkləri*
+*titrədən bu mənzərədən hamının gözləri yaşardı. Bu unudulmaz*
+*görüşdən mənə kövrək misralar yadigar qaldı.*
 
 Gözəl dedin, arkadaşım, qardaşım,
 Bu torpağa qan damlatsan, can bitər!
@@ -9686,7 +9752,11 @@ Tapdı səadət Məkkədə!
 
 # Şairin andı
 
-*Ey qadir Allah! Sənə ona görə səcdə eləmirəm ki, Sənin cənnə ti nə tamahım var, ona görə səcdə eləmirəm ki, Sənin cəhənnə mindən qorxuram. Sənə ona görə səcdə edirəm ki, Sən bu səcdəyə layiqsən. Həzrəti Əli*
+*Ey qadir Allah! Sənə ona görə səcdə eləmirəm ki, Sənin*
+*cənnə ti nə tamahım var, ona görə səcdə eləmirəm ki, Sənin*
+*cəhənnə mindən qorxuram. Sənə ona görə səcdə edirəm ki, Sən*
+*bu səcdəyə layiqsən.*
+*Həzrəti Əli*
 
 Allah evi! And içirəm,
 Ərənlərin canı haqqı!
@@ -10058,7 +10128,8 @@ Gözün rəngi kimi qaradır bu daş.
 
 # Peyğəmbərim
 
-*Həzrəti peyğəmbərimiz Məhəmməd Əleyhissəlamın məzarı önündə yaşadığım duyğular əbədiyyət duyğuları idi*
+*Həzrəti peyğəmbərimiz Məhəmməd Əleyhissəlamın*
+*məzarı önündə yaşadığım duyğular əbədiyyət duyğuları idi*
 
 Ey ulu Tanrının əziz bəndəsi,
 Allahın diliylə danışan insan.
@@ -10374,7 +10445,26 @@ Azərbaycan adlı bir məmləkət var!
 
 # Doğular
 
-*Böyük Şəhriyarımızın öz səsiylə yana-yana oxuduğu yanğılı misraları çox dinləmişəm. Tanrının əlinin boş, könlünün xoş vax - tına düşən bir gün idi. Cənubi Azərbaycanda qonaq idim. Hör - mətli şair dostumuz Sönməz məni Tehrandakı evinə dəvət eləmişdi. O taylı tanınmış ziyalılarımızdan bir neçəsi də mənimlə birlikdə idi. Söhbətin şirin yerində Sönməz ayağa durdu. “Zəlim - xan, səni indiyə qədər heç kəsin bilmədiyi, heç kimin eşitmədiyi bir yeniliklə tanış edirəm. 70 yaslı Şəhriyar bizdə qonaq olarkən özündən xəbərsiz lentə aldığım “Mahur” və “Çahargah” muğam - larına qulaq as”, – dedi. Hamıya bəllidir ki, Şəhriyar nə sən deyən müğənni, nə də məşhur xanəndə idi. Ancaq Şəhriyar oxuyurdu. Ömrünü-günü - nü oxuyurdu. Özünü, dərdini oxuyurdu. Paralanmış Azərbay - canını oxuyurdu. Oxuya-oxuya qulaqlarıma bir həqiqəti pı çıl dayırdı. Şeirləri milyonların dilində əzbər olan, Heydər ba - ba duy ğularını könüllərə toxum kimi səpən, bərəkət kimi gö yər - dən, musi qini ilahi bir məhəbbətlə sevən, duyan, qəlbən yaşayan bir şair Şəhriyar şöhrətinə yüksələ bilərdi. Mən indi bildim ki, könülləri ovsunlayan Şəhriyar şeriyyəti hansı duyğulardan süzülüb gəlirmiş.*
+*Böyük Şəhriyarımızın öz səsiylə yana-yana oxuduğu yanğılı*
+*misraları çox dinləmişəm. Tanrının əlinin boş, könlünün xoş vax -*
+*tına düşən bir gün idi. Cənubi Azərbaycanda qonaq idim. Hör -*
+*mətli şair dostumuz Sönməz məni Tehrandakı evinə dəvət*
+*eləmişdi. O taylı tanınmış ziyalılarımızdan bir neçəsi də mənimlə*
+*birlikdə idi. Söhbətin şirin yerində Sönməz ayağa durdu. “Zəlim -*
+*xan, səni indiyə qədər heç kəsin bilmədiyi, heç kimin eşitmədiyi*
+*bir yeniliklə tanış edirəm. 70 yaslı Şəhriyar bizdə qonaq olarkən*
+*özündən xəbərsiz lentə aldığım “Mahur” və “Çahargah” muğam -*
+*larına qulaq as”, – dedi.*
+*Hamıya bəllidir ki, Şəhriyar nə sən deyən müğənni, nə də*
+*məşhur xanəndə idi. Ancaq Şəhriyar oxuyurdu. Ömrünü-günü -*
+*nü oxuyurdu. Özünü, dərdini oxuyurdu. Paralanmış Azərbay -*
+*canını oxuyurdu. Oxuya-oxuya qulaqlarıma bir həqiqəti*
+*pı çıl dayırdı. Şeirləri milyonların dilində əzbər olan, Heydər ba -*
+*ba duy ğularını könüllərə toxum kimi səpən, bərəkət kimi gö yər -*
+*dən, musi qini ilahi bir məhəbbətlə sevən, duyan, qəlbən yaşayan*
+*bir şair Şəhriyar şöhrətinə yüksələ bilərdi. Mən indi bildim ki,*
+*könülləri ovsunlayan Şəhriyar şeriyyəti hansı duyğulardan*
+*süzülüb gəlirmiş.*
 
 Həssas qəlbin nəğmələri kövrək olar, həzin olar,
 Dağdan qopan səsin ömrü dağlar qədər uzun olar.
@@ -10968,7 +11058,9 @@ Həzrəti Əliyə qəsd olan gecə!
 
 # Kərbəla səfəri
 
-*Yol yoldaşım, səfər dostum, şərqşünas alimimiz Hacı Vasim Məmmədəliyevə*
+*Yol yoldaşım, səfər dostum,*
+*şərqşünas alimimiz*
+*Hacı Vasim Məmmədəliyevə*
 
 Bakıdan Bağdada karvan gedirdi,
 Sərvəti söz olan maşın karvanı.
@@ -11038,7 +11130,9 @@ Kim desə Füzuli qürbətdə qaldı,
 *Almaniya dəftəri*
 
 # Səyyah nəğməsi
-*Eyni adlı şeirin müəllifi, dahi alman şairi İohan Volfqanq Höteyə*
+*Eyni adlı şeirin müəllifi,*
+*dahi alman şairi*
+*İohan Volfqanq Höteyə*
 
 “Səyyah nəğməsi”ni yazan nəğməkar,
 Bu yurdu görməmək günah olarmış.
@@ -11104,7 +11198,30 @@ Heyfi səndən, ay ürək.
 # Bethoven torpağında
 *DOST SAZl DİLLƏNİRDİ*
 
-*Payızın son ayının ilk günlərində Almaniyanın Bilefild şəhə - rində şair dostum, Aşıq Ələsgər yaradıcılığının tədqiqatçısı, folk - lorşünas alim Nizaməddin Onkun qonağıydım. Nizaməddin bəy mənim şərəfimə könül dostlarını, ziyalıları, vaxtilə Azərbaycan - dan və Türkiyədən getmiş adamları evinə dəvət etmişdi. Şeirdən, sənətdən, Vətəndən, qürbətdən yüz ilin həsrətliləri ki mi şirinli-acılı söhbətlər edirdik. Məclisin şirin yerində Niza - məddin bəy köynəkdə bir saz gətirdi. Gözlərimə inanmadım. Al- maniya hara, saz hara? Mənim heyrətimi görən şair dostum: “14 ildi köynəkdəydi, bu illər ərzində onu dilləndirəni gözləyir - dim, bu, sənin qismətindir, buyur, çal!” – dedi. Bu təklifdən qəh - qəhə çəkib gülməyə başladım. Dedim, ay rəhmətliyin oğlu, 7 illik ayrılıqdan sonra Aşıq Qərib Tiflisə gələndə onun sazında sala- mat bir tel qalmamışdı. 14 ilə telmi qalar, mən onu çalam, siz də ləzzət ala, kövrələsiniz? Könülsüz-könülsüz sazı köynəyindən çıxartdım. Nə görsəm yaxşıdır? Elə bil saz bu gün tellənib, sığal - lanıb köklənmişdi. Tufarqanlı Abbasın dediyi kimi: “Dinlə Ab - basın səsini, tökər könüllər” deyib saz öz-özünə oxumaq istəyirdi. İndi fikir verin: qürbət ola, saz ola, həsrət ola, üstəlik də mey- danda Zəlimxan ola! Bir Allah bilir burda saz nə tufan eylədi... Bu sazın dil-dil ötməsinin sirrini – səbəbini anlamağa çalışdım. Məlum oldu ki, bu hədiyyəni Aşıq Ələsgərin nəvəsi, hörmətli alimimiz İslam Ələsgərli bağışlayıb. Demək, bizi həm də Ələsgər ocağının müqəddəs ruhu belə coşdururmuş.*
+*Payızın son ayının ilk günlərində Almaniyanın Bilefild şəhə -*
+*rində şair dostum, Aşıq Ələsgər yaradıcılığının tədqiqatçısı, folk -*
+*lorşünas alim Nizaməddin Onkun qonağıydım. Nizaməddin bəy*
+*mənim şərəfimə könül dostlarını, ziyalıları, vaxtilə Azərbaycan -*
+*dan və Türkiyədən getmiş adamları evinə dəvət etmişdi.*
+*Şeirdən, sənətdən, Vətəndən, qürbətdən yüz ilin həsrətliləri*
+*ki mi şirinli-acılı söhbətlər edirdik. Məclisin şirin yerində Niza -*
+*məddin bəy köynəkdə bir saz gətirdi. Gözlərimə inanmadım. Al-*
+*maniya hara, saz hara? Mənim heyrətimi görən şair dostum:*
+*“14 ildi köynəkdəydi, bu illər ərzində onu dilləndirəni gözləyir -*
+*dim, bu, sənin qismətindir, buyur, çal!” – dedi. Bu təklifdən qəh -*
+*qəhə çəkib gülməyə başladım. Dedim, ay rəhmətliyin oğlu, 7 illik*
+*ayrılıqdan sonra Aşıq Qərib Tiflisə gələndə onun sazında sala-*
+*mat bir tel qalmamışdı. 14 ilə telmi qalar, mən onu çalam, siz*
+*də ləzzət ala, kövrələsiniz? Könülsüz-könülsüz sazı köynəyindən*
+*çıxartdım. Nə görsəm yaxşıdır? Elə bil saz bu gün tellənib, sığal -*
+*lanıb köklənmişdi. Tufarqanlı Abbasın dediyi kimi: “Dinlə Ab -*
+*basın səsini, tökər könüllər” deyib saz öz-özünə oxumaq istəyirdi.*
+*İndi fikir verin: qürbət ola, saz ola, həsrət ola, üstəlik də mey-*
+*danda Zəlimxan ola! Bir Allah bilir burda saz nə tufan eylədi...*
+*Bu sazın dil-dil ötməsinin sirrini – səbəbini anlamağa çalışdım.*
+*Məlum oldu ki, bu hədiyyəni Aşıq Ələsgərin nəvəsi, hörmətli*
+*alimimiz İslam Ələsgərli bağışlayıb. Demək, bizi həm də Ələsgər*
+*ocağının müqəddəs ruhu belə coşdururmuş.*
 
 Sanki bir ceyran gəlib
 oylağıma, binəmə,

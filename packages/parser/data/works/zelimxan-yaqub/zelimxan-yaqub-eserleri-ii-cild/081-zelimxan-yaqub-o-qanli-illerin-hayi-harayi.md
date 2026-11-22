@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=106
 status: DRAFT
 ---
-*Böyük Vətən müharibəsi illərində doqquz oğul itirmiş rus qadını İ.H.Stepanovanın şəklinə baxarkən*
+*Böyük Vətən müharibəsi illərində*
+*doqquz oğul itirmiş rus qadını*
+*İ.H.Stepanovanın şəklinə baxarkən*
 
 Bir ana qəlbində bu boyda kədər,
 Qulağım heç yerdə eşitməmişdi.

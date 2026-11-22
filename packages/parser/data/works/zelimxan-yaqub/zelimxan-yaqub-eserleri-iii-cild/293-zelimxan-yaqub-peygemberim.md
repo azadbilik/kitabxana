@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=382
 status: DRAFT
 ---
-*Həzrəti peyğəmbərimiz Məhəmməd Əleyhissəlamın məzarı önündə yaşadığım duyğular əbədiyyət duyğuları idi*
+*Həzrəti peyğəmbərimiz Məhəmməd Əleyhissəlamın*
+*məzarı önündə yaşadığım duyğular əbədiyyət duyğuları idi*
 
 Ey ulu Tanrının əziz bəndəsi,
 Allahın diliylə danışan insan.

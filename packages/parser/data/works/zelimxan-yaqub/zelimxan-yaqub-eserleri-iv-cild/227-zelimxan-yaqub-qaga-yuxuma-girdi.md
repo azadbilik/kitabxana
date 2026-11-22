@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=275
 status: DRAFT
 ---
-*Unudulmaz şairimiz Hüseyn Arifin xatirəsinə*
+*Unudulmaz şairimiz*
+*Hüseyn Arifin xatirəsinə*
 
 Qarlı qış gecəsiydi,
 Qağa yuxuma girdi,

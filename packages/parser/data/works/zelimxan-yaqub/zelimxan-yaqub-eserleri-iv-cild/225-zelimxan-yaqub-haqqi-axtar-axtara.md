@@ -12,7 +12,11 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=270
 status: DRAFT
 ---
-*Haqqı axtaranlar gəlsin yanıma, Haqqın, ədalətin əsasıyam mən. Məkkə, Mədinədi ziyarətimiz, O Zəmzəm suyunun kasasıyam mən. Oruc Əlizadə*
+*Haqqı axtaranlar gəlsin yanıma,*
+*Haqqın, ədalətin əsasıyam mən.*
+*Məkkə, Mədinədi ziyarətimiz,*
+*O Zəmzəm suyunun kasasıyam mən.*
+*Oruc Əlizadə*
 
 Üz tutduq gələn sabaha,
 Haqqı axtara-axtara.

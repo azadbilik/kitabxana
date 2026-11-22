@@ -12,7 +12,10 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=164
 status: DRAFT
 ---
-*Yelkənim açılır, qara yel, əsmə, Mənim bu dəryada bir sandalım var! M. Müşfiq Xəzər dənizində “M. Müşfiq” gəmisi üzür*
+*Yelkənim açılır, qara yel, əsmə,*
+*Mənim bu dəryada bir sandalım var!*
+*M. Müşfiq*
+*Xəzər dənizində “M. Müşfiq” gəmisi üzür*
 
 Eşidəndə gözlərimdə sevinc yaşı gilələndi,
 Bu şad xəbər dodaqlarda müjdə kimi gəzər, Müşfiq!

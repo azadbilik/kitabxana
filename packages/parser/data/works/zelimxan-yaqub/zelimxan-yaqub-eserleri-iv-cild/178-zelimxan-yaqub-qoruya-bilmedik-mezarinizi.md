@@ -12,7 +12,10 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=205
 status: DRAFT
 ---
-*Molla Pənah Vaqifin, Xan qızı Natəvanın, Aşıq Ələsgərin, Dədə Şəmşirin, Sarı Aşığın müqəddəs ruhları! Sizin qarşınızda günahkarıq! Siz günahımızdan keçsəniz də, Allah bizi bağışlamayacaq. Qoruya bilmədik məzarınızı!*
+*Molla Pənah Vaqifin, Xan qızı Natəvanın, Aşıq Ələsgərin,*
+*Dədə Şəmşirin, Sarı Aşığın müqəddəs ruhları! Sizin qarşınızda*
+*günahkarıq! Siz günahımızdan keçsəniz də, Allah bizi*
+*bağışlamayacaq. Qoruya bilmədik məzarınızı!*
 
 Qayanı yardılar, daşı çapdılar,
 Məqbərə ucaldıb, günbəz yapdılar.

@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=203
 status: DRAFT
 ---
-*Ərdəbildə Şeyx Səfi türbəsində Şah İsmayıl Xətainin məzarı başında düşüncələr*
+*Ərdəbildə Şeyx Səfi türbəsində*
+*Şah İsmayıl Xətainin məzarı*
+*başında düşüncələr*
 
 Qızıl baxtım, qızıl taxtım, qızıl tacım, hey,
 Həm uğurum, həm qüsurum, ağrım-acım, hey.

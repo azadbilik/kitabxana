@@ -12,7 +12,26 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=392
 status: DRAFT
 ---
-*Böyük Şəhriyarımızın öz səsiylə yana-yana oxuduğu yanğılı misraları çox dinləmişəm. Tanrının əlinin boş, könlünün xoş vax - tına düşən bir gün idi. Cənubi Azərbaycanda qonaq idim. Hör - mətli şair dostumuz Sönməz məni Tehrandakı evinə dəvət eləmişdi. O taylı tanınmış ziyalılarımızdan bir neçəsi də mənimlə birlikdə idi. Söhbətin şirin yerində Sönməz ayağa durdu. “Zəlim - xan, səni indiyə qədər heç kəsin bilmədiyi, heç kimin eşitmədiyi bir yeniliklə tanış edirəm. 70 yaslı Şəhriyar bizdə qonaq olarkən özündən xəbərsiz lentə aldığım “Mahur” və “Çahargah” muğam - larına qulaq as”, – dedi. Hamıya bəllidir ki, Şəhriyar nə sən deyən müğənni, nə də məşhur xanəndə idi. Ancaq Şəhriyar oxuyurdu. Ömrünü-günü - nü oxuyurdu. Özünü, dərdini oxuyurdu. Paralanmış Azərbay - canını oxuyurdu. Oxuya-oxuya qulaqlarıma bir həqiqəti pı çıl dayırdı. Şeirləri milyonların dilində əzbər olan, Heydər ba - ba duy ğularını könüllərə toxum kimi səpən, bərəkət kimi gö yər - dən, musi qini ilahi bir məhəbbətlə sevən, duyan, qəlbən yaşayan bir şair Şəhriyar şöhrətinə yüksələ bilərdi. Mən indi bildim ki, könülləri ovsunlayan Şəhriyar şeriyyəti hansı duyğulardan süzülüb gəlirmiş.*
+*Böyük Şəhriyarımızın öz səsiylə yana-yana oxuduğu yanğılı*
+*misraları çox dinləmişəm. Tanrının əlinin boş, könlünün xoş vax -*
+*tına düşən bir gün idi. Cənubi Azərbaycanda qonaq idim. Hör -*
+*mətli şair dostumuz Sönməz məni Tehrandakı evinə dəvət*
+*eləmişdi. O taylı tanınmış ziyalılarımızdan bir neçəsi də mənimlə*
+*birlikdə idi. Söhbətin şirin yerində Sönməz ayağa durdu. “Zəlim -*
+*xan, səni indiyə qədər heç kəsin bilmədiyi, heç kimin eşitmədiyi*
+*bir yeniliklə tanış edirəm. 70 yaslı Şəhriyar bizdə qonaq olarkən*
+*özündən xəbərsiz lentə aldığım “Mahur” və “Çahargah” muğam -*
+*larına qulaq as”, – dedi.*
+*Hamıya bəllidir ki, Şəhriyar nə sən deyən müğənni, nə də*
+*məşhur xanəndə idi. Ancaq Şəhriyar oxuyurdu. Ömrünü-günü -*
+*nü oxuyurdu. Özünü, dərdini oxuyurdu. Paralanmış Azərbay -*
+*canını oxuyurdu. Oxuya-oxuya qulaqlarıma bir həqiqəti*
+*pı çıl dayırdı. Şeirləri milyonların dilində əzbər olan, Heydər ba -*
+*ba duy ğularını könüllərə toxum kimi səpən, bərəkət kimi gö yər -*
+*dən, musi qini ilahi bir məhəbbətlə sevən, duyan, qəlbən yaşayan*
+*bir şair Şəhriyar şöhrətinə yüksələ bilərdi. Mən indi bildim ki,*
+*könülləri ovsunlayan Şəhriyar şeriyyəti hansı duyğulardan*
+*süzülüb gəlirmiş.*
 
 Həssas qəlbin nəğmələri kövrək olar, həzin olar,
 Dağdan qopan səsin ömrü dağlar qədər uzun olar.

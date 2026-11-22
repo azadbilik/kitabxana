@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=307
 status: DRAFT
 ---
-*Mən necə nigaran olmaya billəm Niyə nigarandı dağlar bilməsəm. H. Arif*
+*Mən necə nigaran olmaya billəm*
+*Niyə nigarandı dağlar bilməsəm.*
+*H. Arif*
 
 Bir əsim küləyin hökmünə bənddir,
 Yel əssə, çəkilər səhər dumanı.

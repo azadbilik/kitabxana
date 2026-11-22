@@ -48,4 +48,5 @@ Bir Allah eşqiylə ötdü dünyada.
 Min canım olsaydı, verərdim fəda,
 Bir canı yolunda qıyanlardanam.
 
-*Almaniya, Münhen xəstəxanası, 2008, 9 mart*
+*Almaniya, Münhen*
+*xəstəxanası, 2008, 9 mart*

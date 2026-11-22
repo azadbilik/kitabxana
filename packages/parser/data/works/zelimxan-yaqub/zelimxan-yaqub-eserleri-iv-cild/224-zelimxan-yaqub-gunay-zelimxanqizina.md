@@ -12,7 +12,11 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=269
 status: DRAFT
 ---
-*Göynən gedən buludlar, Niyə danışmırsınız? Yerdə çiçəklər, otlar, Niyə danışmırsınız? Günay Zəlimxanqızı*
+*Göynən gedən buludlar,*
+*Niyə danışmırsınız?*
+*Yerdə çiçəklər, otlar,*
+*Niyə danışmırsınız?*
+*Günay Zəlimxanqızı*
 
 Çiçəyi dindirsələr,
 Çiçək danışar, qızım!

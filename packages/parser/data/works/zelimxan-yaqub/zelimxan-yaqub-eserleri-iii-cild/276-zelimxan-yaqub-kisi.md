@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=350
 status: DRAFT
 ---
-*Məhəmməd Əmin Rəsulzadənin məzarı başında düşüncələr*
+*Məhəmməd Əmin Rəsulzadənin*
+*məzarı başında düşüncələr*
 
 Yetmiş illik ayrılıq axır ki, çatdı sona,
 Salam! Rəsul övladı Məhəmməd Əmin kişi!

@@ -71,4 +71,5 @@ bu nəğmələrin,
 Laylası başqadı
 bu nəğmələrin.
 
-*Almaniya, Münster şəhəri, 2008, 15 mart*
+*Almaniya,*
+*Münster şəhəri, 2008, 15 mart*

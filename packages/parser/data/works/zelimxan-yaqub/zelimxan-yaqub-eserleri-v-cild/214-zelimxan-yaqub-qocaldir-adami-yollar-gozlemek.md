@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=262
 status: DRAFT
 ---
-*“Get, Ay batandan sora gəl” Xalq mahnısından*
+*“Get, Ay batandan sora gəl”*
+*Xalq mahnısından*
 
 Səninlə bütövəm, səninlə tamam,
 Sənsiz sevincimin yarısı yoxdu.

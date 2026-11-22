@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=117
 status: DRAFT
 ---
-*Dünyanın heç bir ölkəsində Amerikadakı qədər nəhəng ağaclar görməmişəm*
+*Dünyanın heç bir ölkəsində Amerikadakı*
+*qədər nəhəng ağaclar görməmişəm*
 
 Elə bil göylərə meydan oxuyur,
 Qarlı zirvələrlə bu tən ağaclar.

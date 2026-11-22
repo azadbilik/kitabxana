@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=232
 status: DRAFT
 ---
-*Ay oğul, evə gələndə bir imkan tap, bizlə də söhbət elə. İçəri girən kimi çəkilirsən otağına. Bu qədər yazmaqdan, oxumaqdan, telefonla danışmaqdan nə tapmısan?*
+*Ay oğul, evə gələndə bir imkan tap, bizlə də söhbət elə. İçəri*
+*girən kimi çəkilirsən otağına. Bu qədər yazmaqdan, oxumaqdan,*
+*telefonla danışmaqdan nə tapmısan?*
 
 Səninlə az danışıb, az dinirəm, ay ana,
 Sən bunu məndən ötrü günah sayma, savab say.

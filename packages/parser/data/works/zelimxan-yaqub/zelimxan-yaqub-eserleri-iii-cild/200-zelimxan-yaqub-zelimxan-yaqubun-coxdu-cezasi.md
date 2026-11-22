@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=259
 status: DRAFT
 ---
-*Borçalıda olan dostum Səttar müəllimin dilindən*
+*Borçalıda olan dostum*
+*Səttar müəllimin dilindən*
 
 Borçalı sazından yaradıb onu,
 Ellər avazından yaradıb onu.

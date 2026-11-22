@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=123
 status: DRAFT
 ---
-*Vaşinqton zooparkında nümayiş etdirmək üçün Amerikaya Çindən nəsli kəsilməkdə olan ağ ayılar gətirilib. İlinə bir milyon dollar haqq verilir*
+*Vaşinqton zooparkında nümayiş etdirmək üçün*
+*Amerikaya Çindən nəsli kəsilməkdə olan ağ ayılar gətirilib.*
+*İlinə bir milyon dollar haqq verilir*
 
 Yeri-göyü meşələr, qayalıq, kaha,
 Qalxır, yumalaşır, atılır, düşür.

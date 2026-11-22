@@ -29,4 +29,5 @@ Baxışlar danışanda
 Əsl sevgi dilində,
 əsl insan dilində!
 
-*Almaniya, Münhen şəhəri, 2008, 12 mart*
+*Almaniya,*
+*Münhen şəhəri, 2008, 12 mart*

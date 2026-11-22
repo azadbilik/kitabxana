@@ -51,4 +51,5 @@ qaynar həyatda,
 Gözünü yumanda
 bez kəfəndədi.
 
-*Almaniya, Münster şəhəri, 2008, 14 mart*
+*Almaniya,*
+*Münster şəhəri, 2008, 14 mart*

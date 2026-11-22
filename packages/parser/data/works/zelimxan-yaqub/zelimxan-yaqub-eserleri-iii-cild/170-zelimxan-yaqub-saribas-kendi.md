@@ -12,7 +12,15 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=223
 status: DRAFT
 ---
-*Bu kənd haqqında çox eşitmişdim. Axır ki, bu yeri ziyarət elə mək mənə də nəsib oldu. Rəşid Behbudovun, İsmayıl Şıxlının, Məmməd Rahimin, Hüseyn Arifin yurdumuzun bu dilbər guşəsi ilə bağlı xatirələri, görüşləri, məclisləri yenidən kitab kimi varaq - landı. Bu kəndin görkəmi, təbii mənzərəsi qədim və məğlub - edilməz qalaları xatırladır. Çox şirin və mehriban camaatı var. Qocalı-cavanlı hamısı poeziya vurğunudu. Hüseyn Arifə xüsusi heyranlıqları var. Bu gün bütün Sarıbaşlıları minnətdarlıq duy - ğuları ilə yad edirəm.*
+*Bu kənd haqqında çox eşitmişdim. Axır ki, bu yeri ziyarət*
+*elə mək mənə də nəsib oldu. Rəşid Behbudovun, İsmayıl Şıxlının,*
+*Məmməd Rahimin, Hüseyn Arifin yurdumuzun bu dilbər guşəsi*
+*ilə bağlı xatirələri, görüşləri, məclisləri yenidən kitab kimi varaq -*
+*landı. Bu kəndin görkəmi, təbii mənzərəsi qədim və məğlub -*
+*edilməz qalaları xatırladır. Çox şirin və mehriban camaatı var.*
+*Qocalı-cavanlı hamısı poeziya vurğunudu. Hüseyn Arifə xüsusi*
+*heyranlıqları var. Bu gün bütün Sarıbaşlıları minnətdarlıq duy -*
+*ğuları ilə yad edirəm.*
 
 Güldü, gülüstandı, baldı, ətirdi,
 Bu gün ziyarətim olan SARIBAŞ.

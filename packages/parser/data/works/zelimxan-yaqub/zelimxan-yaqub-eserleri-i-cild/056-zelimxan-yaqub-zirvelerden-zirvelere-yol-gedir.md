@@ -38,4 +38,5 @@ Sınaqlara, tufanlara
 əyilmə,
 Dürüst dillən, aydın danış,
 şax yeri.
-*Almaniya, Münhen şəhəri, 2008, 14 mart*
+*Almaniya,*
+*Münhen şəhəri, 2008, 14 mart*

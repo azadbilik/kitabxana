@@ -12,7 +12,12 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=277
 status: DRAFT
 ---
-*Dostum Mikayıl Mirzə ilə birlikdə sevimli Xalq şairimiz Məmməd Arazın Novruz bayramını təbrik etmək üçün ustadın evinə ziyarətə getmişdik. Ey-vanın işığı yanmırdı, elə bildik ki, evdə yoxdular. Qapını döydük. Bizi şairin ömür-gün yoldaşı Gülxanım bacı qarşıladı. İşıqları yandırdı. İçəridə Məmməd Araz işığı ilə qarşılaşdıq.*
+*Dostum Mikayıl Mirzə ilə birlikdə sevimli Xalq şairimiz*
+*Məmməd Arazın Novruz bayramını təbrik etmək üçün ustadın*
+*evinə ziyarətə getmişdik. Ey-vanın işığı yanmırdı,*
+*elə bildik ki, evdə yoxdular. Qapını döydük. Bizi şairin*
+*ömür-gün yoldaşı Gülxanım bacı qarşıladı. İşıqları yandırdı.*
+*İçəridə Məmməd Araz işığı ilə qarşılaşdıq.*
 
 Yandır işığını Məmməd Arazın,
 Yandır işığını, Gülxanım bacı!

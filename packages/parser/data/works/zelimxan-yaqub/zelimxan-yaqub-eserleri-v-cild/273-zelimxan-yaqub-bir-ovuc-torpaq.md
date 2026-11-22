@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=341
 status: DRAFT
 ---
-*Bu şeirin ilk dinləyicisi Həsən Əziz oğlu Həsənova*
+*Bu şeirin ilk dinləyicisi*
+*Həsən Əziz oğlu Həsənova*
 
 Qulaqlarım sükutun,
 səssizliyin pasında,

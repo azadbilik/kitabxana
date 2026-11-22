@@ -12,7 +12,16 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=81
 status: DRAFT
 ---
-*“Space” televiziya kanalında “Günaydın” səhər verilişində çıxış edirdim. Vəfa adlı bir jurnalist xanımın “Zəlimxan müəllim, dənizlə aranız necədir?” sualına – “Dənizi o qədər də sevə bilmirəm, mənimki dağlardı, mən dağlarda doğulmuşam”, – şəklində verdiyim cavab verilişə qulaq asan xalq şairimiz Qa- bilin haqlı narazılığına səbəb olmuş və “Zəlimxan, dənizdən gəl üzr istə” misrası ilə başlanan bir şeir yazmışdı. Mən də ustad şairimizin diqqətinə minnətdarlıq duyğuları ilə bağlı üzrxahlıq ruhunda bir şeir yazdım. Əziz oxucular! Buyurun oxuyun!*
+*“Space” televiziya kanalında “Günaydın” səhər verilişində*
+*çıxış edirdim. Vəfa adlı bir jurnalist xanımın “Zəlimxan*
+*müəllim, dənizlə aranız necədir?” sualına – “Dənizi o qədər də*
+*sevə bilmirəm, mənimki dağlardı, mən dağlarda doğulmuşam”,*
+*– şəklində verdiyim cavab verilişə qulaq asan xalq şairimiz Qa-*
+*bilin haqlı narazılığına səbəb olmuş və “Zəlimxan, dənizdən*
+*gəl üzr istə” misrası ilə başlanan bir şeir yazmışdı. Mən də*
+*ustad şairimizin diqqətinə minnətdarlıq duyğuları ilə bağlı*
+*üzrxahlıq ruhunda bir şeir yazdım.*
+*Əziz oxucular! Buyurun oxuyun!*
 
 Oxudum şeirini, Qabil müəllim,
 Sözündə danlaq var, hökm var, ərk var.

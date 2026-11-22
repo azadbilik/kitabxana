@@ -462,7 +462,10 @@ Bağla ümidini yer qulağına...
 
 # Yol vermə, gəmiçi
 
-*“Yol ver gəmiçi, yol ver, qoy qəfləm keçsin.” “Məsim və Diləfruz” dastanından*
+*“Yol ver gəmiçi, yol ver,*
+*qoy qəfləm keçsin.”*
+*“Məsim və Diləfruz”*
+*dastanından*
 
 Onsuz da baxıram bağlanıb daha,
 Yol vermə, gəmiçi, yol vermə mənə.
@@ -1352,7 +1355,8 @@ Bir Allah eşqiylə ötdü dünyada.
 Min canım olsaydı, verərdim fəda,
 Bir canı yolunda qıyanlardanam.
 
-*Almaniya, Münhen xəstəxanası, 2008, 9 mart*
+*Almaniya, Münhen*
+*xəstəxanası, 2008, 9 mart*
 
 @@ 104
 
@@ -1424,7 +1428,8 @@ ulu bir məmləkətin,
 Tükənməz mayasına
 məndən salamlar olsun.
 
-*Almaniya, Münhen ürək xəstəxanası, 2008, 12 mart*
+*Almaniya, Münhen*
+*ürək xəstəxanası, 2008, 12 mart*
 
 @@ 106
 
@@ -1496,7 +1501,8 @@ min dəfə lənət mənə,
 Tanrım, şəhid olmağın
 sirrini öyrət mənə!!!
 
-*Almaniya, Münhen xəstəxanası, 2008, 12 mart*
+*Almaniya,*
+*Münhen xəstəxanası, 2008, 12 mart*
 
 @@ 108
 
@@ -1519,7 +1525,8 @@ Baxışlar danışanda
 Əsl sevgi dilində,
 əsl insan dilində!
 
-*Almaniya, Münhen şəhəri, 2008, 12 mart*
+*Almaniya,*
+*Münhen şəhəri, 2008, 12 mart*
 
 @@ 109
 
@@ -1573,7 +1580,8 @@ Yaxşıya yozmaq olmadı.
 Mənimki yazmaq olmadı,
 Mənimki ağlamaq oldu.
 
-*Almaniya, Münhen xəstəxanası, 2008, 13 mart*
+*Almaniya,*
+*Münhen xəstəxanası, 2008, 13 mart*
 
 @@ 111
 
@@ -1594,7 +1602,8 @@ Qəm dönür fəlakətə.
 Düş bircə gün qürbətə,
 Bilərsən vətən nədir!
 
-*Almaniya, Münhen xəstəxanası, 2008, 13 mart*
+*Almaniya,*
+*Münhen xəstəxanası, 2008, 13 mart*
 
 @@ 112
 
@@ -1626,7 +1635,8 @@ Sınaqlara, tufanlara
 əyilmə,
 Dürüst dillən, aydın danış,
 şax yeri.
-*Almaniya, Münhen şəhəri, 2008, 14 mart*
+*Almaniya,*
+*Münhen şəhəri, 2008, 14 mart*
 
 @@ 113
 
@@ -1673,7 +1683,8 @@ qaynar həyatda,
 Gözünü yumanda
 bez kəfəndədi.
 
-*Almaniya, Münster şəhəri, 2008, 14 mart*
+*Almaniya,*
+*Münster şəhəri, 2008, 14 mart*
 
 @@ 115
 
@@ -1740,7 +1751,8 @@ bu nəğmələrin,
 Laylası başqadı
 bu nəğmələrin.
 
-*Almaniya, Münster şəhəri, 2008, 15 mart*
+*Almaniya,*
+*Münster şəhəri, 2008, 15 mart*
 
 @@ 117
 
@@ -1872,7 +1884,8 @@ dəryaların dibinə,
 Heyif, bilə bilmədik
 dərində nə var görən?
 
-*Almaniya, Münster şəhəri, 2008, 16 mart*
+*Almaniya,*
+*Münster şəhəri, 2008, 16 mart*
 
 @@ 122
 
@@ -2596,8 +2609,6 @@ Yenə ümidimiz gizlinə qaldı.
 *2009, 21 avqust*
 
 @@ 155
-
-# Türküstan–Anadolu yollarında
 
 # Xeyir-dua ver
 
@@ -3357,7 +3368,16 @@ Burda məndən əvvəl Ələsgər gəzib.
 
 *(Çingiz Aytmatovun məzarı başında düşüncələr)*
 
-*Bişkəkdən Pamirin ətəklərinə bir yol uzanır. Həsrət və nisgil, heyrət və sevgi dolu duyğularla dağlara qalxıram. Bu dağların ətəklərində mübarək bir ziya rətgah var. XX əsr dünya ədə biy - yatının ən böyük ya zıçılarından biri olan Çingiz Aytmatovun məzarını ziyarətə can atıram. O yerə can atıram ki, orda qanlı Sta lin rejiminin günahsız qurbanları içərisində Çingiz Aytma- tovun atası Terequl kişi də var. Çingiz Aytmatov öz vəsiyyətinə görə atası uyuyan yerdə torpağa tap şırılıb. Hələ ki, üstündə xatirə abidəsi ucal dılmayıb. Hələ ki, xatirə abidəsini qəbrinin üstündə dağ kimi uca lan güllər-çiçəklər əvəz edir.*
+*Bişkəkdən Pamirin ətəklərinə bir yol uzanır. Həsrət və nisgil,*
+*heyrət və sevgi dolu duyğularla dağlara qalxıram. Bu dağların*
+*ətəklərində mübarək bir ziya rətgah var. XX əsr dünya ədə biy -*
+*yatının ən böyük ya zıçılarından biri olan Çingiz Aytmatovun*
+*məzarını ziyarətə can atıram. O yerə can atıram ki, orda qanlı*
+*Sta lin rejiminin günahsız qurbanları içərisində Çingiz Aytma-*
+*tovun atası Terequl kişi də var. Çingiz Aytmatov öz vəsiyyətinə*
+*görə atası uyuyan yerdə torpağa tap şırılıb. Hələ ki, üstündə xatirə*
+*abidəsi ucal dılmayıb. Hələ ki, xatirə abidəsini qəbrinin üstündə*
+*dağ kimi uca lan güllər-çiçəklər əvəz edir.*
 
 “Çingizxanın ağ buludu”
 başının üstə,
@@ -3917,7 +3937,11 @@ Zirvəsi yox döyülə!
 
 # Şair Vəliyə
 
-*Mən Təbrizdə olanda təb riz li dostum şair Vəli mə ni gö rə bilmədi. Yana-yana – “sa lam la rı mı o ta ya yetir” – de yib, tele fon da ağla mağını eşidəndə dö zə bilmə dim.*
+*Mən Təbrizdə olanda təb riz li*
+*dostum şair Vəli mə ni gö rə bilmədi.*
+*Yana-yana – “sa lam la rı mı o ta ya*
+*yetir” – de yib, tele fon da ağla mağını*
+*eşidəndə dö zə bilmə dim.*
 
 Şair Vəli, salam yetir demişdin,
 Salamını mən bu taya yetirdim.
@@ -4675,7 +4699,11 @@ Gözlərdə eləcə yaş ağlayacaq.
 
 # Günah
 
-*Özümdən xəbərsiz bir qara pal tarlı qa dının yanında ürəkdən şaqqanaq çəkib güldüm. Sonra dan biləndə ki, bu dərdli ana şə hid anasıdır, xəcalət təri mə ni bas dı, ölüb yerə keçdim.*
+*Özümdən xəbərsiz bir qara pal tarlı*
+*qa dının yanında ürəkdən şaqqanaq*
+*çəkib güldüm. Sonra dan biləndə ki,*
+*bu dərdli ana şə hid anasıdır, xəcalət*
+*təri mə ni bas dı, ölüb yerə keçdim.*
 
 Zaman sinəm üstə çaylar axıda,
 Yuyub təmizləməz su günahımı.
@@ -5069,7 +5097,20 @@ heç zaman sola bilməz.
 
 # Cənublu qardaşım Zülfüqar Abdullahiyə məktub
 
-*Uca Tanrımın mənə verdiyi fürsət və möhlət sayə sində taleyim üzümə güldü. Yaşımın 60-cı ilini yaxala dığım bir vaxt - da, tale mə nə 1991-ci ildən sonra ikinci dəfə Təbriz görüşünü, Cənubi Azər bay can ziyarətini nə sib elədi. Onda Təbrizdə bir ay qalmışdım, indi isə beş gün qala bildim. Bu beş gündə gör - düklərim ömrümün sonuna qədər mənimlə yol yoldaşı, könül sirdaşı olub, həsrətli, vü sallı şeirlərə, acılı-şirinli nəğmələrə dönəcək. İki yüz illik ayrılığın hey fini canımdan çıxarmaq üçün nə fəsim ağzımdan, ruhum bədə nimdən çıxana kimi Təbriz eşqinə qəmli bülbül, dərdli ozan, yaralı şair kimi ötə cəyəm. Dünyanın elə bir şəhəri yoxdur ki, onun şəninə, onun şərəfi - nə Təb rizə yazılan şeirlər, nəğmələr qədər əsər yazılmış olsun. Mən də Təbriz eşqinə ötən bülbüllərin, oxu yan ozanların, yazıb-yara - dan şairlərin sırasın da yam.*
+*Uca Tanrımın mənə verdiyi fürsət və möhlət sayə sində*
+*taleyim üzümə güldü. Yaşımın 60-cı ilini yaxala dığım bir vaxt -*
+*da, tale mə nə 1991-ci ildən sonra ikinci dəfə Təbriz görüşünü,*
+*Cənubi Azər bay can ziyarətini nə sib elədi. Onda Təbrizdə bir ay*
+*qalmışdım, indi isə beş gün qala bildim. Bu beş gündə gör -*
+*düklərim ömrümün sonuna qədər mənimlə yol yoldaşı, könül*
+*sirdaşı olub, həsrətli, vü sallı şeirlərə, acılı-şirinli nəğmələrə*
+*dönəcək. İki yüz illik ayrılığın hey fini canımdan çıxarmaq üçün*
+*nə fəsim ağzımdan, ruhum bədə nimdən çıxana kimi Təbriz*
+*eşqinə qəmli bülbül, dərdli ozan, yaralı şair kimi ötə cəyəm.*
+*Dünyanın elə bir şəhəri yoxdur ki, onun şəninə, onun şərəfi -*
+*nə Təb rizə yazılan şeirlər, nəğmələr qədər əsər yazılmış olsun. Mən*
+*də Təbriz eşqinə ötən bülbüllərin, oxu yan ozanların, yazıb-yara -*
+*dan şairlərin sırasın da yam.*
 
 Bu da bizə bir lütfüdü Allahın,
 Gözəl keçdi səfərimiz, Zülfüqar.
@@ -5191,8 +5232,6 @@ Qarşıdadı zəfərimiz, Zülfüqar.
 *2009*
 
 @@ 253
-
-# Qoşa sətirlər
 
 # Gətirmə
 
@@ -6005,7 +6044,14 @@ alqış gücü ver!
 
 # Gözlərimiz kor olur
 
-*İşləmək üçün yazı masasının arxa sına keçdim. Eynəyi gözümə taxanda iki yaş lı nəvəm Zəlimxanın səsini eşit dim: “Baba, sən korsan?” Uşaqlara məx sus gözlə nil məz bu sual məni ye rim dən oynatdı. Xəya lım məni uzaqlara apardı. Gözlərimin aza lan nu ru nu və nəvəmin sualının cava bını axtarmağa başladım.*
+*İşləmək üçün yazı masasının arxa sına*
+*keçdim. Eynəyi gözümə taxanda iki yaş lı*
+*nəvəm Zəlimxanın səsini eşit dim: “Baba,*
+*sən korsan?” Uşaqlara məx sus gözlə nil məz*
+*bu sual məni ye rim dən oynatdı. Xəya lım*
+*məni uzaqlara apardı. Gözlərimin aza lan*
+*nu ru nu və nəvəmin sualının cava bını*
+*axtarmağa başladım.*
 
 Körpə balam, hardan gəldi ağlına,
 Bu suala cavab vermək zor olur.
@@ -6821,8 +6867,6 @@ torpaq tökürəm.
 
 @@ 321
 
-# Krım dəftəri
-
 # Çölə düşən söz
 
 Ürəkdən gəlməyən ürəyə yatmaz,
@@ -6912,8 +6956,6 @@ Heç zaman saflığa can atmamısan.
 
 @@ 325
 
-# Qoşa sətirlər
-
 # Harda olursan ol
 
 İstər arxada dur, istər önə çıx,
@@ -6935,7 +6977,8 @@ Gözəllikdən ayrılarsan xəzəl olarsan.
 
 # Böyük ziyarət
 
-*İsmayıl Qaspıralının ev-muzeyində və məzarı başında düşüncələr*
+*İsmayıl Qaspıralının ev-muzeyində və*
+*məzarı başında düşüncələr*
 
 Türkün böyük oğlu, böyük övladı,
 Bir yay axşamında evinə gəldim.
@@ -7913,7 +7956,8 @@ uca dərgaha,
 
 # Bir qadın yaşadı
 
-*Qəbir daşında yazı. Münəvvər xanımın xatirəsinə*
+*Qəbir daşında yazı.*
+*Münəvvər xanımın xatirəsinə*
 
 Bir qadın yaşadı bu yer üzündə,
 Ruhu, zərifliyi gül-ipək kimi.
@@ -8260,7 +8304,8 @@ Dünya öz dərdini çəkənə verir.
 
 # Şairin sözü
 
-*Fərman padşahındı, dağlar bizimdi. Dadaloğlu*
+*Fərman padşahındı, dağlar bizimdi.*
+*Dadaloğlu*
 
 Bir söz sultanını dara çəkdilər,
 Əfşar ellərindən qopdu bu səda.
@@ -8283,7 +8328,9 @@ Bütün zamanlarda şairin sözü,
 
 # Azər Turana təsəlli
 
-*25 yaşında həyatdan gedən gənc alim, idrak və təfəkkür sahibi, hər söhbətində məni heyrətləndirən Əbil Əbilovun vaxtsız ölümünə, unudulmaz xatirəsinə*
+*25 yaşında həyatdan gedən gənc alim, idrak və*
+*təfəkkür sahibi, hər söhbətində məni heyrətləndirən*
+*Əbil Əbilovun vaxtsız ölümünə, unudulmaz xatirəsinə*
 
 Onun ürəyinə, onun qəlbinə,
 Əcəlin qılıncı tez dəydi, Azər.
@@ -8337,7 +8384,14 @@ Dərdini onlarla böl, Əbil balam.
 
 # Ağsaqqal ağısı
 
-*Böyük ziyalımız, ağsaqqal alimimiz, müdrik dostum İmam verdi Əbilovun əziz və istəkli nəvəsi Əbil Əbilovun vaxtsız vəfatından dərin sarsıntı keçirdim. Heç bir sözlə, heç bir şeirlə, heç bir təsəlli ilə bu itkinin yerini doldurmaq, bu yaranı sağaltmaq mümkün deyil. Çünki biz sadəcə bir gənc insanı deyil, həm də gələcəyin böyük alimini itirmişik. Gücüm ancaq başsağlığına, göynərtili misralara çatdı. Başın sağ olsun, İmamverdi müəllim!*
+*Böyük ziyalımız, ağsaqqal alimimiz, müdrik dostum*
+*İmam verdi Əbilovun əziz və istəkli nəvəsi Əbil Əbilovun*
+*vaxtsız vəfatından dərin sarsıntı keçirdim. Heç bir sözlə,*
+*heç bir şeirlə, heç bir təsəlli ilə bu itkinin yerini doldurmaq,*
+*bu yaranı sağaltmaq mümkün deyil. Çünki biz sadəcə bir*
+*gənc insanı deyil, həm də gələcəyin böyük alimini itirmişik.*
+*Gücüm ancaq başsağlığına, göynərtili misralara çatdı.*
+*Başın sağ olsun, İmamverdi müəllim!*
 
 Yapışır insanın ayaqlarından,
 Qoymur yeriməyə, ağrı daş olur.
@@ -8392,7 +8446,8 @@ Bir ömür yaşadın, üzün ağ olsun,
 @@ 383
 
 # Köhnə kişi
-*Xalq yazıçısı İlyas Əfəndiyevin ruhuna bağışlayıram*
+*Xalq yazıçısı İlyas Əfəndiyevin*
+*ruhuna bağışlayıram*
 
 Təzələr içində təzədən təzə,
 Köhnələr içində köhnə kişiydi.

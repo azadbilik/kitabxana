@@ -12,7 +12,12 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=40
 status: DRAFT
 ---
-*İtaliyanın Assizi şəhərində bir evə iki qapı qoyulur. Qapının biri, hər bir evdə olduğu kimi, giriş-çıxış qapısıdır. O biri qapını isə ancaq evdə adam öləndə açırlar və ev yiyəsinin cənazəsini həmin qapıdan çıxarırlar. Anar müəllimin dediklərindən*
+*İtaliyanın Assizi şəhərində bir evə iki qapı qoyulur.*
+*Qapının biri, hər bir evdə olduğu kimi, giriş-çıxış*
+*qapısıdır. O biri qapını isə ancaq evdə adam öləndə*
+*açırlar və ev yiyəsinin cənazəsini həmin qapıdan*
+*çıxarırlar.*
+*Anar müəllimin dediklərindən*
 
 Burda belə qurulur,
 belə yapılır yapı,

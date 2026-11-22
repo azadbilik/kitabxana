@@ -12,7 +12,10 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=156
 status: DRAFT
 ---
-*“Ölən dünyam” romanını göz yaşları içində birnəfəsə oxudum. Sarsıldım. Bu əsəri yazana kimi nə qədər ağrılar, əzablar çəkmisən. Gorun nurla dolsun, ruhun şad olsun, İsmayıl müəllim.*
+*“Ölən dünyam” romanını göz yaşları içində*
+*birnəfəsə oxudum. Sarsıldım. Bu əsəri yazana kimi*
+*nə qədər ağrılar, əzablar çəkmisən. Gorun nurla dolsun,*
+*ruhun şad olsun, İsmayıl müəllim.*
 
 Göz yaşı içində oxudum, ustad,
 Sənin gözlərində ölən dünyanı.

@@ -12,7 +12,17 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=358
 status: DRAFT
 ---
-*Ustad şairimiz, unudulmaz könül dostum Tofiq Bayramın böyük istedad sahibi olan oğlu Zakirin qəfil ölümü məni möhkəm sarsıtdı. Bu acı xəbəri eşidən kimi Tofiq Bayram ailəsinin vəfalı dostu, ağsaqqal alimimiz Camal Mustafayevlə yas yerinə tələsdik. Həmişə bal arısı kimi qaynayan həyətdə ölü bir sükutla ata-oğul – Tofiq Bayram və Zakir yoxluğuyla qarşılaşdıq. Zakirin qardaşları Cahangirlə Cavanşir üç günün içində qocalmışdılar. Şairin əzabkeş ömür-gün yoldaşı Zərifə xanımı görmək ürəyimdən keçsə də, belə ağır gündə onunla görüşməyə cəsarətim çatmadı. Gücüm ancaq Tofiq Bayram dünyasına qayıtmağa, onunla dərdləşməyə çatdı.*
+*Ustad şairimiz, unudulmaz könül dostum Tofiq Bayramın*
+*böyük istedad sahibi olan oğlu Zakirin qəfil ölümü məni*
+*möhkəm sarsıtdı. Bu acı xəbəri eşidən kimi Tofiq Bayram*
+*ailəsinin vəfalı dostu, ağsaqqal alimimiz Camal Mustafayevlə*
+*yas yerinə tələsdik. Həmişə bal arısı kimi qaynayan həyətdə ölü*
+*bir sükutla ata-oğul – Tofiq Bayram və Zakir yoxluğuyla*
+*qarşılaşdıq. Zakirin qardaşları Cahangirlə Cavanşir üç günün*
+*içində qocalmışdılar. Şairin əzabkeş ömür-gün yoldaşı Zərifə*
+*xanımı görmək ürəyimdən keçsə də, belə ağır gündə onunla*
+*görüşməyə cəsarətim çatmadı. Gücüm ancaq Tofiq Bayram*
+*dünyasına qayıtmağa, onunla dərdləşməyə çatdı.*
 
 Zakir daha mənim üçün
 ağrı-acı,

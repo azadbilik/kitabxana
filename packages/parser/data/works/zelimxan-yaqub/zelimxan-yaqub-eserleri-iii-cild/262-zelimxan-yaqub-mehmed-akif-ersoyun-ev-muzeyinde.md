@@ -12,7 +12,17 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=340
 status: DRAFT
 ---
-*Türk dövlətinin başçısı Mustafa Kamal paşa ölkənin him - nini yazdırmaq üçün 724 şairin iştirak elədiyi bir şeir müsabiqəsi keçirir. Müsabiqənin qalibinə 5 min türk lirəsi pul mükafatı ayı - rır. Məhməd Akifin “İstiqlal marşı” şeiri birincilik qazanır. An - caq ona veriləcək pul mükafatını qəbul etmir. “Türkiyənin ağır və çətin günləridir”, – deyib həmin pulun ehtiyacı olanlara veril - məsini xahiş edir. 1921-ci il martın 1-də “İstiqlal marşı” Böyük Millət Məclisində oxunur və uzun sürən alqışlarla qarşılanır. Ankarada Məhməd Akif Ərsoyun ev-muzeyini ziyarət elə - dim. Türk dünyasının böyük şairi “İstiqlal marşı”nı bu evdə yazmışdır.*
+*Türk dövlətinin başçısı Mustafa Kamal paşa ölkənin him -*
+*nini yazdırmaq üçün 724 şairin iştirak elədiyi bir şeir müsabiqəsi*
+*keçirir. Müsabiqənin qalibinə 5 min türk lirəsi pul mükafatı ayı -*
+*rır. Məhməd Akifin “İstiqlal marşı” şeiri birincilik qazanır. An -*
+*caq ona veriləcək pul mükafatını qəbul etmir. “Türkiyənin ağır*
+*və çətin günləridir”, – deyib həmin pulun ehtiyacı olanlara veril -*
+*məsini xahiş edir. 1921-ci il martın 1-də “İstiqlal marşı” Böyük*
+*Millət Məclisində oxunur və uzun sürən alqışlarla qarşılanır.*
+*Ankarada Məhməd Akif Ərsoyun ev-muzeyini ziyarət elə -*
+*dim. Türk dünyasının böyük şairi “İstiqlal marşı”nı bu evdə*
+*yazmışdır.*
 
 Adı əzizdən əziz hər nəsilə, hər soya,
 Bizdən salamlar olsun Məhməd Akif Ərsoya!

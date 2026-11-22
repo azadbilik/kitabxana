@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=64
 status: DRAFT
 ---
-*“Qar yağa-yağa” şeirinin müəllifi Gürcüstanın əməkdar müəllimi Rəşid Acalova həsr edirəm*
+*“Qar yağa-yağa” şeirinin müəllifi Gürcüstanın*
+*əməkdar müəllimi Rəşid Acalova həsr edirəm*
 
 Səni düşünürdüm, el ağsaqqalı,
 Baxırdım budağa, qar yağa-yağa.

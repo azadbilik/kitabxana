@@ -58,4 +58,5 @@ dəryaların dibinə,
 Heyif, bilə bilmədik
 dərində nə var görən?
 
-*Almaniya, Münster şəhəri, 2008, 16 mart*
+*Almaniya,*
+*Münster şəhəri, 2008, 16 mart*

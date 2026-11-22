@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=332
 status: DRAFT
 ---
-*Qarsın tanınmış xocası, Fövzi paşa okul müdiri hörmətli Şahmət Bilgirə ulu sevgilərlə*
+*Qarsın tanınmış xocası, Fövzi paşa okul müdiri*
+*hörmətli Şahmət Bilgirə ulu sevgilərlə*
 
 Dərədə selə döndüm, dağda yel kimi əsdim,
 Min görüşdən yan keçib, bir görüşə tələsdim.

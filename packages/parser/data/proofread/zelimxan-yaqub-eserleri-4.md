@@ -730,7 +730,9 @@ Vallah, bu atəşdə kül olmaq olar,
 
 # Söhbət baxışların, söz əllərindi
 
-*Yarı xəlvətdə gördüm, Danışmadım doyunca. Bayatılardan*
+*Yarı xəlvətdə gördüm,*
+*Danışmadım doyunca.*
+*Bayatılardan*
 
 Ruhunu titrədən, qəlbini alan,
 Bir sən, bir istəklin, bir xəlvət otaq.
@@ -3216,7 +3218,8 @@ Yetim millət qazanmışıq.
 @@ 125
 
 # Qarğama
-*Cavan bir gəlin qoca bir kişiyə “Allah səni döysün” deyib qarğış elədi, ikiəlli başına qaraladı.*
+*Cavan bir gəlin qoca bir kişiyə “Allah səni döysün”*
+*deyib qarğış elədi, ikiəlli başına qaraladı.*
 
 Bu qarğışı nahaq aldın dilinə,
 Hahaq çıxdın qarğışların zilinə.
@@ -3556,7 +3559,9 @@ Nə varsa, yer salıb mərdin içində!
 
 # Kimdi səni bu qapıdan buraxan
 
-*Bir nazirliyin qapısında gözünün yaşını yağış kimi yağdıran qoca bir kişi gördüm. Şikayəti Allahın yanına çıxsa da, yuxarıda oturanın yanına çıxa bilmirdi.*
+*Bir nazirliyin qapısında gözünün yaşını yağış kimi*
+*yağdıran qoca bir kişi gördüm. Şikayəti Allahın yanına*
+*çıxsa da, yuxarıda oturanın yanına çıxa bilmirdi.*
 
 Bu qapıdan yollar gedir, ay qoca,
 Süd arxından qollar gedir, ay qoca,
@@ -4597,7 +4602,8 @@ Allah birdi, bəndələri ayrıdı.
 @@ 186
 
 # Bir Şuşalı gördüm
-*Bu şeirin qəhrəmanı Şuşa həsrətli qardaşım Novruz müəllimə*
+*Bu şeirin qəhrəmanı Şuşa həsrətli*
+*qardaşım Novruz müəllimə*
 
 Bir şuşalı gördüm, kaş görməyəydim,
 Əsirdi çənəsi, əsirdi əli.
@@ -5082,7 +5088,9 @@ Belə qocalasan qocalanda da!
 @@ 203
 
 # Şeyxim mənim, şahım mənim, şairim mənim
-*Ərdəbildə Şeyx Səfi türbəsində Şah İsmayıl Xətainin məzarı başında düşüncələr*
+*Ərdəbildə Şeyx Səfi türbəsində*
+*Şah İsmayıl Xətainin məzarı*
+*başında düşüncələr*
 
 Qızıl baxtım, qızıl taxtım, qızıl tacım, hey,
 Həm uğurum, həm qüsurum, ağrım-acım, hey.
@@ -5153,7 +5161,10 @@ Tarixdəki on üç yaşlı dahimə qurban,
 
 # Qoruya bilmədik məzarınızı
 
-*Molla Pənah Vaqifin, Xan qızı Natəvanın, Aşıq Ələsgərin, Dədə Şəmşirin, Sarı Aşığın müqəddəs ruhları! Sizin qarşınızda günahkarıq! Siz günahımızdan keçsəniz də, Allah bizi bağışlamayacaq. Qoruya bilmədik məzarınızı!*
+*Molla Pənah Vaqifin, Xan qızı Natəvanın, Aşıq Ələsgərin,*
+*Dədə Şəmşirin, Sarı Aşığın müqəddəs ruhları! Sizin qarşınızda*
+*günahkarıq! Siz günahımızdan keçsəniz də, Allah bizi*
+*bağışlamayacaq. Qoruya bilmədik məzarınızı!*
 
 Qayanı yardılar, daşı çapdılar,
 Məqbərə ucaldıb, günbəz yapdılar.
@@ -6431,7 +6442,10 @@ Bu gün heyranın mənəm,
 
 # Küsmə məndən
 
-*Bir məclisdə qızlarımıza “Çin qızı, Çin gözəli” şeirini oxuyurdum. Nəsibə adlı gözəl bir qız şeiri axıra qədər dinləmədən küsüb bayıra çıxdı ki, nə üçün belə gözəl bir şeiri Azərbaycan gözəlinə yox, Çin qızına yazmısınız.*
+*Bir məclisdə qızlarımıza “Çin qızı, Çin gözəli” şeirini oxuyurdum.*
+*Nəsibə adlı gözəl bir qız şeiri axıra qədər dinləmədən küsüb*
+*bayıra çıxdı ki, nə üçün belə gözəl bir şeiri*
+*Azərbaycan gözəlinə yox, Çin qızına yazmısınız.*
 
 Küsmə məndən, gözəl mələk, gözəli Allah yaradır,
 Mənim kimi qullar üçün gözəlləri şah yaradır.
@@ -6554,7 +6568,30 @@ Dərgahına könül dolu hörmət, ehtiram gətirib.
 
 # Cavid Əfəndi
 
-*Sağlığında bir-birinə həsrət qalan, payına zülüm, intizar, ayrılıq düşən ATA – CAVİD, OĞUL – ƏRTOĞRUL BƏY, ANA – MÜŞKİNAZ XANIM 59 il, 3 ay, 10 gündən sonra Naxçıvan torpağında görüşdülər. Bu gün hər üçünün məzarı şairin doğulduğu torpaqda yan-yana durur, ruhları yanaşı uyuyur. Tale elə gətirdi ki, 41 ildən sonra böyük Cavid Naxçıvana qayıtdı. Naxçıvan şəhərində şairin doğulduğu evin yaxınlığında hər üç əzabkeşin şərəfinə məqbərə ucaldıldı. Əzəməti və gözəlliyi ölməz Möminə Xatun türbəsini xatırladan bu tarixi abidənin açılış günü Azərbaycan xalqının tarixində bənzərsiz və təkrarsız bir hadisə idi. Başdan-başa sevgiyə, sevincə tutulmuş yaşıl xiyabanda otun-suyun sanı var idi, insanın sayı- hesabı yox. Dəniz kimi dalğalanan izdiham ulu Cavidə öz sevgisini bildirmək üçün şahə qalxmışdı. Oktyabr ayının kəskin soyuğu və küləyi heç kəsi üşütmürdü. Çünki könüllərdə Cavid şeirinin odu-alovu dil-dil olub yerə-göyə işıq saçır, istilik, hərarət verirdi. Ölkənin möhtərəm prezidenti Heydər Əliyev çıxış edirdi. Sevinc və kədər qarışıq bir ovqatla danışırdı. İrandan və Türkiyədən gələn qonaqlar, çıxışçılar bir-birini əvəz edirdi. Şairin qızı – gözü odlar-alovlar görmüş TURAN XANIMIN çıxışı ömrüm boyu yadımdan çıxmayacaq. O, çıxış dey- ildi, korun-korun yanan ocaq idi, özü də yanır, tüstülənir, xalqı da yandırırdı. Tanrı fürsət verdi, mən də “Cavid Əfəndi” şeirimlə öz səsimi izdihamın səsinə qoşdum. Cavid Əfəndi də, Müşkinaz xanım da, Ərtoğrul bəy də o gün bizi eşidirdi. Ruhları şad olmuşdu. Bu şeir həmin günlərin yadigarıdı, əziz oxucular!*
+*Sağlığında bir-birinə həsrət qalan, payına zülüm, intizar, ayrılıq*
+*düşən ATA – CAVİD, OĞUL – ƏRTOĞRUL BƏY, ANA –*
+*MÜŞKİNAZ XANIM 59 il, 3 ay, 10 gündən sonra Naxçıvan*
+*torpağında görüşdülər. Bu gün hər üçünün məzarı şairin doğulduğu*
+*torpaqda yan-yana durur, ruhları yanaşı uyuyur. Tale elə gətirdi ki,*
+*41 ildən sonra böyük Cavid Naxçıvana qayıtdı. Naxçıvan şəhərində*
+*şairin doğulduğu evin yaxınlığında hər üç əzabkeşin şərəfinə məqbərə*
+*ucaldıldı. Əzəməti və gözəlliyi ölməz Möminə Xatun türbəsini*
+*xatırladan bu tarixi abidənin açılış günü Azərbaycan xalqının*
+*tarixində bənzərsiz və təkrarsız bir hadisə idi. Başdan-başa sevgiyə,*
+*sevincə tutulmuş yaşıl xiyabanda otun-suyun sanı var idi, insanın sayı-*
+*hesabı yox. Dəniz kimi dalğalanan izdiham ulu Cavidə öz sevgisini*
+*bildirmək üçün şahə qalxmışdı. Oktyabr ayının kəskin soyuğu və*
+*küləyi heç kəsi üşütmürdü. Çünki könüllərdə Cavid şeirinin odu-alovu*
+*dil-dil olub yerə-göyə işıq saçır, istilik, hərarət verirdi. Ölkənin*
+*möhtərəm prezidenti Heydər Əliyev çıxış edirdi. Sevinc və kədər qarışıq*
+*bir ovqatla danışırdı. İrandan və Türkiyədən gələn qonaqlar, çıxışçılar*
+*bir-birini əvəz edirdi. Şairin qızı – gözü odlar-alovlar görmüş TURAN*
+*XANIMIN çıxışı ömrüm boyu yadımdan çıxmayacaq. O, çıxış dey-*
+*ildi, korun-korun yanan ocaq idi, özü də yanır, tüstülənir, xalqı da*
+*yandırırdı. Tanrı fürsət verdi, mən də “Cavid Əfəndi” şeirimlə öz səsimi*
+*izdihamın səsinə qoşdum. Cavid Əfəndi də, Müşkinaz xanım da,*
+*Ərtoğrul bəy də o gün bizi eşidirdi. Ruhları şad olmuşdu. Bu şeir həmin*
+*günlərin yadigarıdı, əziz oxucular!*
 
 Bu nə şadlıq, bu nə bayram, bu nə görüş, bu nə həsrət,
 Görüşümüz uzun çəkdi, gec oldu, Cavid Əfəndi!
@@ -6860,7 +6897,11 @@ Onu qum-qum oynadıb, daş-daş qoparmalısan!
 
 # Günay zəlimxanqızına
 
-*Göynən gedən buludlar, Niyə danışmırsınız? Yerdə çiçəklər, otlar, Niyə danışmırsınız? Günay Zəlimxanqızı*
+*Göynən gedən buludlar,*
+*Niyə danışmırsınız?*
+*Yerdə çiçəklər, otlar,*
+*Niyə danışmırsınız?*
+*Günay Zəlimxanqızı*
 
 Çiçəyi dindirsələr,
 Çiçək danışar, qızım!
@@ -6891,7 +6932,11 @@ Daşı danışdırarsan!
 
 # Haqqı axtar-axtara
 
-*Haqqı axtaranlar gəlsin yanıma, Haqqın, ədalətin əsasıyam mən. Məkkə, Mədinədi ziyarətimiz, O Zəmzəm suyunun kasasıyam mən. Oruc Əlizadə*
+*Haqqı axtaranlar gəlsin yanıma,*
+*Haqqın, ədalətin əsasıyam mən.*
+*Məkkə, Mədinədi ziyarətimiz,*
+*O Zəmzəm suyunun kasasıyam mən.*
+*Oruc Əlizadə*
 
 Üz tutduq gələn sabaha,
 Haqqı axtara-axtara.
@@ -7051,7 +7096,8 @@ Saçımdakı dən Xanlarım.
 
 # Qağa yuxuma girdi
 
-*Unudulmaz şairimiz Hüseyn Arifin xatirəsinə*
+*Unudulmaz şairimiz*
+*Hüseyn Arifin xatirəsinə*
 
 Qarlı qış gecəsiydi,
 Qağa yuxuma girdi,
@@ -7100,7 +7146,12 @@ Qağa yuxuma girdi.
 
 # Məmməd Araz işığı
 
-*Dostum Mikayıl Mirzə ilə birlikdə sevimli Xalq şairimiz Məmməd Arazın Novruz bayramını təbrik etmək üçün ustadın evinə ziyarətə getmişdik. Ey-vanın işığı yanmırdı, elə bildik ki, evdə yoxdular. Qapını döydük. Bizi şairin ömür-gün yoldaşı Gülxanım bacı qarşıladı. İşıqları yandırdı. İçəridə Məmməd Araz işığı ilə qarşılaşdıq.*
+*Dostum Mikayıl Mirzə ilə birlikdə sevimli Xalq şairimiz*
+*Məmməd Arazın Novruz bayramını təbrik etmək üçün ustadın*
+*evinə ziyarətə getmişdik. Ey-vanın işığı yanmırdı,*
+*elə bildik ki, evdə yoxdular. Qapını döydük. Bizi şairin*
+*ömür-gün yoldaşı Gülxanım bacı qarşıladı. İşıqları yandırdı.*
+*İçəridə Məmməd Araz işığı ilə qarşılaşdıq.*
 
 Yandır işığını Məmməd Arazın,
 Yandır işığını, Gülxanım bacı!
@@ -7816,7 +7867,8 @@ Sabah bu sərhədlər olmadı, bəlkə...
 
 # Qoşa sətirlər
 
-*Türk dünyasının böyük şairi Nəcib Fazil Qısakürəyin ruhuna ulu sevgilərlə*
+*Türk dünyasının böyük şairi Nəcib Fazil*
+*Qısakürəyin ruhuna ulu sevgilərlə*
 
 *Gözəllik*
 
@@ -8463,7 +8515,8 @@ Dünya gözlərimdə sirr kimi qaldı.
 
 # Nə demişəm ki...
 
-*Nə gözəl demisən, şair Zəlimxan... (Oxucu məktubundan)*
+*Nə gözəl demisən, şair Zəlimxan...*
+*(Oxucu məktubundan)*
 
 Qardaş, bal olsa da, dostun tərifi,
 Hələ bu torpağa nə demişəm ki...

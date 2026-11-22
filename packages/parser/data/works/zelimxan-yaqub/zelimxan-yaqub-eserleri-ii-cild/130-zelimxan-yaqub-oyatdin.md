@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(02)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=172
 status: DRAFT
 ---
-*“Göyçəlilər, dağılmayın Göyçədən” şeirinin müəllifi Hüseyn Arifə*
+*“Göyçəlilər, dağılmayın Göyçədən”*
+*şeirinin müəllifi Hüseyn Arifə*
 
 Hüseyn Arif, Göyçə dindi dilində,
 Zodda Zodu, Cildə Cili oyatdın.

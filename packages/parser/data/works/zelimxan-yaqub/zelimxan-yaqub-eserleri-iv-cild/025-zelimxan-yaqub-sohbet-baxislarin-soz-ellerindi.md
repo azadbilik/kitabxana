@@ -12,7 +12,9 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=32
 status: DRAFT
 ---
-*Yarı xəlvətdə gördüm, Danışmadım doyunca. Bayatılardan*
+*Yarı xəlvətdə gördüm,*
+*Danışmadım doyunca.*
+*Bayatılardan*
 
 Ruhunu titrədən, qəlbini alan,
 Bir sən, bir istəklin, bir xəlvət otaq.

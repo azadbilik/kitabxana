@@ -12,7 +12,19 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=75
 status: DRAFT
 ---
-*Ömrümün-günümün çoxu yollarda, səfərlərdə, məclislərdə, maraqlı şəxsiyyətlərlə ünsiyyətdə keçib. Yaddaşa yazılan, ürəyə köçən, heyrətli və unudulmaz, dirilən və durulan anlarım, dəqiqələrim çox olub. Böyük şərqşünas, quranşünas alimimiz Hacı Vasim Məmmədəliyevlə müqəddəs məbədgahlara, Azər baycanın müx təlif yerlərinə, Borçalı mahalına olan səfərlərimi alın yazısı, tale xoşbəxtliyi hesab edirəm. Uzun illər ruhumda, qanımda, varlığımda yaşa yan, heç vaxt soyumayan isti və doğma duyğularımı Vasimsevərlərə ərməğan edir, ulu Tanrıya əl açıb deyirəm: Allahım! Hacı Vasimlə müqəddəs yerlərdə yolyoldaşı, könül sirdaşı olmaq xoşbəxtliyini heç vaxt mənim əlimdən alma! Amin!*
+*Ömrümün-günümün çoxu yollarda, səfərlərdə, məclislərdə,*
+*maraqlı şəxsiyyətlərlə ünsiyyətdə keçib. Yaddaşa yazılan, ürəyə*
+*köçən, heyrətli və unudulmaz, dirilən və durulan anlarım,*
+*dəqiqələrim çox olub.*
+*Böyük şərqşünas, quranşünas alimimiz Hacı Vasim*
+*Məmmədəliyevlə müqəddəs məbədgahlara, Azər baycanın*
+*müx təlif yerlərinə, Borçalı mahalına olan səfərlərimi alın yazısı,*
+*tale xoşbəxtliyi hesab edirəm.*
+*Uzun illər ruhumda, qanımda, varlığımda yaşa yan, heç*
+*vaxt soyumayan isti və doğma duyğularımı Vasimsevərlərə*
+*ərməğan edir, ulu Tanrıya əl açıb deyirəm: Allahım! Hacı*
+*Vasimlə müqəddəs yerlərdə yolyoldaşı, könül sirdaşı olmaq*
+*xoşbəxtliyini heç vaxt mənim əlimdən alma! Amin!*
 
 Nə gözəl səfərdi, ay Hacı Vasim,
 Səfər adamısan, yol adamısan.

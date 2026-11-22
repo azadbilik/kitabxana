@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(04)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=186
 status: DRAFT
 ---
-*Bu şeirin qəhrəmanı Şuşa həsrətli qardaşım Novruz müəllimə*
+*Bu şeirin qəhrəmanı Şuşa həsrətli*
+*qardaşım Novruz müəllimə*
 
 Bir şuşalı gördüm, kaş görməyəydim,
 Əsirdi çənəsi, əsirdi əli.

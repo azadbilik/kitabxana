@@ -12,7 +12,18 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(05)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=66
 status: DRAFT
 ---
-*Bakıda “Səda” deyilən mədəniyyət evində unudul- maz xalq şairimiz Hüseyn Arifin xatirəsinə həsr olunmuş kövrək bir məclis təşkil edilmişdi. Şairin haqqında yazılan şeirlər toplusunun təqdimat mərasimi keçirilirdi. Kövrələn könüllər, yaşaran gözlər var idi. Məclis məni tutmuşdu. Bütün məclis Hüseynli və Arifli günlərə, Hüseyn Arifli xatirələrə qayıtmışdı. Qağalı, qağasız günlərə köklənən ov - qatım misralara düzüldü, sətirlərə döndü. Könül sazımın zilini zil, bəmini bəm, sinəmə müstəhkəm elədim, təbiət aşiqi bir kişinin – şairin, ozanın, aşi - qin, səyyahın eşqinə asta-asta oxumağa başladım.*
+*Bakıda “Səda” deyilən mədəniyyət evində unudul-*
+*maz xalq şairimiz Hüseyn Arifin xatirəsinə həsr*
+*olunmuş kövrək bir məclis təşkil edilmişdi. Şairin*
+*haqqında yazılan şeirlər toplusunun təqdimat*
+*mərasimi keçirilirdi. Kövrələn könüllər, yaşaran*
+*gözlər var idi. Məclis məni tutmuşdu. Bütün məclis*
+*Hüseynli və Arifli günlərə, Hüseyn Arifli xatirələrə*
+*qayıtmışdı. Qağalı, qağasız günlərə köklənən ov -*
+*qatım misralara düzüldü, sətirlərə döndü. Könül*
+*sazımın zilini zil, bəmini bəm, sinəmə müstəhkəm*
+*elədim, təbiət aşiqi bir kişinin – şairin, ozanın, aşi -*
+*qin, səyyahın eşqinə asta-asta oxumağa başladım.*
 
 Hüseyn Arif məclisiydi
 bir yaz günü,

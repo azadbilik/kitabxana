@@ -12,7 +12,10 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=250
 status: DRAFT
 ---
-*“Səməd Vurğun – 80” təşviqat qatarında, ongünlük Azər - baycan rayonlarına səfər zamanı Xalq şairi Mirvarid Dilbazini daha yaxından tanıdım, aramızda ana-bala, nənə-nəvə sevgisi yarandı.*
+*“Səməd Vurğun – 80” təşviqat qatarında, ongünlük Azər -*
+*baycan rayonlarına səfər zamanı Xalq şairi Mirvarid Dilbazini*
+*daha yaxından tanıdım, aramızda ana-bala, nənə-nəvə sevgisi*
+*yarandı.*
 
 Ömründə payızdı, könlündə bahar,
 İncədən incəsən, Mirvarid xanım.

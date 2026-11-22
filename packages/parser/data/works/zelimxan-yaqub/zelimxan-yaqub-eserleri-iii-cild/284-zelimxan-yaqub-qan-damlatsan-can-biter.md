@@ -12,7 +12,13 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=360
 status: DRAFT
 ---
-*İstanbulda bizi – bir qrup Azərbaycan ziyalısını “Zaman” qəzetinin redaksiyasına dəvət etmişdilər. Xalqımızın, torpa - ğımızın ağrılı-acılı taleyindən qızğın və göynərtili söhbətlər gedirdi. Qəzetin baş redaktoru Nacib Tosun“Azərbaycan torpağına qan damlatsan can bitər”, – deyib ağladı. Ürəkləri titrədən bu mənzərədən hamının gözləri yaşardı. Bu unudulmaz görüşdən mənə kövrək misralar yadigar qaldı.*
+*İstanbulda bizi – bir qrup Azərbaycan ziyalısını “Zaman”*
+*qəzetinin redaksiyasına dəvət etmişdilər. Xalqımızın, torpa -*
+*ğımızın ağrılı-acılı taleyindən qızğın və göynərtili söhbətlər*
+*gedirdi. Qəzetin baş redaktoru Nacib Tosun“Azərbaycan*
+*torpağına qan damlatsan can bitər”, – deyib ağladı. Ürəkləri*
+*titrədən bu mənzərədən hamının gözləri yaşardı. Bu unudulmaz*
+*görüşdən mənə kövrək misralar yadigar qaldı.*
 
 Gözəl dedin, arkadaşım, qardaşım,
 Bu torpağa qan damlatsan, can bitər!

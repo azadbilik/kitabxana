@@ -12,7 +12,8 @@ sourceNote: >-
   https://turuz.com/storage/Poem-Literature/Poem/2014/759-_Sheir_(03)_Zelimxan_Yaqub_Eserleri_Urmu_Turuz_2014.pdf#page=109
 status: DRAFT
 ---
-*İstəkli həyat yoldaşını itirmiş 70 yaşlı bir kişini zülüm-zülüm ağlayan gördüm*
+*İstəkli həyat yoldaşını itirmiş 70 yaşlı bir kişini*
+*zülüm-zülüm ağlayan gördüm*
 
 Bir yumaqdı ağrıların əlində,
 Yavaş-yavaş çözələnir bu kişi.

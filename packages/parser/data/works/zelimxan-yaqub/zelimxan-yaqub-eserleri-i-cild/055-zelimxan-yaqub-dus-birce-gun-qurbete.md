@@ -27,4 +27,5 @@ Qəm dönür fəlakətə.
 Düş bircə gün qürbətə,
 Bilərsən vətən nədir!
 
-*Almaniya, Münhen xəstəxanası, 2008, 13 mart*
+*Almaniya,*
+*Münhen xəstəxanası, 2008, 13 mart*
