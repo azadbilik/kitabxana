@@ -1,5 +1,8 @@
 import { Command } from 'commander';
+import { spawnSync } from 'child_process';
 import * as fs from 'fs';
+import * as os from 'os';
+import * as path from 'path';
 import { KNOWN, loadWordlist } from './ocr-book';
 
 /**
@@ -90,16 +93,25 @@ function align(a: string[], b: string[]): [number | null, number | null][] {
   const cost = (x: string, y: string) => distance(x, y) / Math.max(x.length, y.length);
   const m = a.length;
   const n = b.length;
-  const dp: number[][] = Array.from({ length: m + 1 }, (_, i) => Array.from({ length: n + 1 }, (_, j) => (i + j) * GAP));
-  for (let i = 1; i <= m; i++)
-    for (let j = 1; j <= n; j++)
-      dp[i][j] = Math.min(dp[i - 1][j - 1] + cost(a[i - 1], b[j - 1]), dp[i - 1][j] + GAP, dp[i][j - 1] + GAP);
+  // Each cell remembers its move, so the way back never depends on float equality
+  const dp: number[][] = Array.from({ length: m + 1 }, () => new Array<number>(n + 1).fill(0));
+  const move: number[][] = Array.from({ length: m + 1 }, () => new Array<number>(n + 1).fill(0));
+  for (let i = 0; i <= m; i++)
+    for (let j = 0; j <= n; j++) {
+      if (i === 0 && j === 0) continue;
+      const diag = i > 0 && j > 0 ? dp[i - 1][j - 1] + cost(a[i - 1], b[j - 1]) : Infinity;
+      const up = i > 0 ? dp[i - 1][j] + GAP : Infinity;
+      const left = j > 0 ? dp[i][j - 1] + GAP : Infinity;
+      dp[i][j] = Math.min(diag, up, left);
+      move[i][j] = dp[i][j] === diag ? 0 : dp[i][j] === up ? 1 : 2;
+    }
   const out: [number | null, number | null][] = [];
   let i = m;
   let j = n;
   while (i > 0 || j > 0) {
-    if (i > 0 && j > 0 && dp[i][j] === dp[i - 1][j - 1] + cost(a[i - 1], b[j - 1])) out.push([--i, --j]);
-    else if (i > 0 && dp[i][j] === dp[i - 1][j] + GAP) out.push([--i, null]);
+    const mv = i === 0 ? 2 : j === 0 ? 1 : move[i][j];
+    if (mv === 0) out.push([--i, --j]);
+    else if (mv === 1) out.push([--i, null]);
     else out.push([null, --j]);
   }
   return out.reverse();
@@ -112,7 +124,23 @@ function swapCore(from: string, to: string) {
   return m[1] + core + m[3];
 }
 
-export function mergePage(vlm: string[], tess: string[], known: (n: string) => boolean) {
+/**
+ * Which reading of a word to keep, by how often each occurs in the site's texts (which hold
+ * some OCR slips of their own, so a rare form counts for little): 'a', 'b', or null to check.
+ * One must be far commoner — 50 times, or 8 times when the other is rare (under 100) — so a
+ * real choice like qış/quş or olsa/ölsə is left to the page.
+ */
+export function pick(fa: number, fb: number): 'a' | 'b' | null {
+  const wins = (x: number, y: number) => x > 0 && (x >= 50 * y || (y < 100 && x >= 8 * y));
+  return wins(fa, fb) ? 'a' : wins(fb, fa) ? 'b' : null;
+}
+
+export function mergePage(
+  vlm: string[],
+  tess: string[],
+  known: (n: string) => boolean,
+  count: (n: string) => number = (n) => (known(n) ? 1 : 0),
+) {
   const A = tokens(vlm);
   const B = tokens(tess).toks;
   const set = (t: Tok, text: string) => (A.cells[t.line][t.idx] = text);
@@ -170,10 +198,11 @@ export function mergePage(vlm: string[], tess: string[], known: (n: string) => b
         if (!known(t.n)) flag(t, `⟦${t.text}|–⟧`);
         continue;
       }
-      const ka = known(t.n);
-      const kb = known(b[y].n);
-      if (ka && !kb) continue;
-      if (kb && !ka) {
+      // Tesseract reads a closing "!" as "l": baltala!.. → baltalal..
+      if (/!/.test(t.text) && b[y].n === `${t.n}l`) continue;
+      const choice = pick(count(t.n), count(b[y].n));
+      if (choice === 'a') continue;
+      if (choice === 'b') {
         set(t, swapCore(t.text, b[y].text));
         fixed++;
       } else flag(t, `⟦${t.text}|${b[y].text}⟧`);
@@ -192,7 +221,8 @@ export const ocrMergeCommand = new Command('ocr-merge')
   .option('--exclude-source <prefix>', 'leave works whose sourceId starts with this out of the word list')
   .action((opts: { vlm: string; tess: string; out: string; excludeSource?: string }) => {
     const freq = loadWordlist(opts.excludeSource);
-    const known = (n: string) => /^\p{N}+$/u.test(n) || (freq.get(n) ?? 0) >= KNOWN;
+    const count = (n: string) => (/^\p{N}+$/u.test(n) ? 1e9 : (freq.get(n) ?? 0));
+    const known = (n: string) => count(n) >= KNOWN;
     const vlm = pages(fs.readFileSync(opts.vlm, 'utf-8'));
     const tess = pages(fs.readFileSync(opts.tess, 'utf-8'));
     const out: string[] = [];
@@ -208,14 +238,61 @@ export const ocrMergeCommand = new Command('ocr-merge')
         flagged.push(`${key}: no Tesseract page`);
         continue;
       }
-      const page = mergePage(lines, other, known);
+      const page = mergePage(lines, other, known, count);
       words += tokens(lines).toks.length;
       flags += page.flags;
       fixed += page.fixed;
       if (page.flags) flagged.push(`${key}: ${page.flags}`);
       out.push(...page.lines);
     }
-    fs.writeFileSync(opts.out, out.join('\n'));
+    // Running heads Tesseract read and the model rightly left out come back as ⟦+…⟧ on page
+    // after page: a run whose words recur in five or more of them is dropped
+    const PLUS = /\s?⟦\+([^⟧]*)⟧/g;
+    const runs = out.flatMap((line) => [...line.matchAll(PLUS)].map((m) => m[1]));
+    const seen = new Map<string, number>();
+    for (const run of runs) for (const w of new Set(run.split(/\s+/).map(norm).filter(Boolean))) seen.set(w, (seen.get(w) ?? 0) + 1);
+    const head = (run: string) => {
+      const ws = run.split(/\s+/).map(norm).filter(Boolean);
+      return ws.filter((w) => (seen.get(w) ?? 0) >= 5).length * 2 >= ws.length;
+    };
+    let heads = 0;
+    const text = out
+      .map((line) =>
+        line.replace(PLUS, (all, run: string) => {
+          if (!head(run)) return all;
+          heads++;
+          return '';
+        }),
+      )
+      .join('\n');
+    flags -= heads;
+    fs.writeFileSync(opts.out, text);
     console.log(`${vlm.size} pages, ${words} words: ${fixed} settled by the word list, ${flags} marked to check (${((100 * flags) / Math.max(words, 1)).toFixed(1)}%)`);
     console.log(flagged.join('  '));
+  });
+
+const VLM_MODEL = 'mlx-community/Qwen3-VL-30B-A3B-Instruct-4bit';
+const VLM_PYTHON = process.env.OCR_VLM_PYTHON ?? path.join(os.homedir(), '.local/share/irs-local-ocr/bin/python');
+
+/**
+ * The marks ocr-merge left, settled by the local vision model: each word is asked about on its
+ * own line, cut from the full-resolution scan, with the two readings in both orders; only an
+ * answer given the same both ways counts. On Ramiz Rövşən's «Nəfəs» it settled 23 of 28 marks,
+ * 2 of them wrongly (ə/e and m/n on a worn print): what is left, and a sample of the rest, is
+ * still checked against the scan.
+ */
+export const ocrJudgeCommand = new Command('ocr-judge')
+  .description('Settle the ⟦a|b⟧ marks of an ocr-merge draft with the local vision model looking at the scan')
+  .requiredOption('--merged <file>', 'draft from ocr-merge')
+  .requiredOption('--images <dir>', 'the page images both readings were made from (pNNN.jpg)')
+  .requiredOption('--out <file>', 'draft with the settled marks replaced')
+  .option('--vlm-model <id>', 'mlx-vlm model', VLM_MODEL)
+  .action((opts: { merged: string; images: string; out: string; vlmModel: string }) => {
+    if (!fs.existsSync(VLM_PYTHON)) throw new Error(`No Python with mlx-vlm at ${VLM_PYTHON} (set OCR_VLM_PYTHON)`);
+    const res = spawnSync(VLM_PYTHON, [path.join(__dirname, 'ocr-judge.py'), opts.vlmModel, opts.merged, opts.images, opts.out], {
+      stdio: ['ignore', 'inherit', 'inherit'],
+      // The model is already downloaded; without this the hub check can hang
+      env: { ...process.env, HF_HUB_OFFLINE: '1' },
+    });
+    if (res.status !== 0) throw new Error('ocr-judge.py failed');
   });
