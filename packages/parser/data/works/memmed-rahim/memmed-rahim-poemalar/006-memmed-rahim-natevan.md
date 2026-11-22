@@ -1538,7 +1538,7 @@ Natəvandan axund Səfa…
 Cüməməscid adam dolu,
 İynə atsan düşməz yerə.
 Axund gəldi qaradinməz;
-Dırmaşaraq 122 minbərə,
+Dırmaşaraq tez minbərə,
 Əvvəl bir az dindən dedi,
 Sonra keçdi əsil sözə
 Adamlara baxa-baxa,

@@ -593,7 +593,7 @@ Mən artıq almışam, məta mənimdir!
 **Sələmçi**
 
 Sənə mal satana Allah qənimdir!
-Artıq pul versə kim, onunkudur 12!
+Artıq pul versə kim, onunkudur qız!
 
 **Xaqani**
 

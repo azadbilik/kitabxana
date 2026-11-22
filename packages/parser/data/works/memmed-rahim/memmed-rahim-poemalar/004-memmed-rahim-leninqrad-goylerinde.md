@@ -431,7 +431,7 @@ Hüseyn deyir: Yaşım azdı... bu zaman
 Verilir dalbadal yenə həyəcan.
 İgidlər quş kimi cumur meydana.
 Gərək qərq olunsun qan deyən qana!
-Yarır göy üzünü 14 ox kimi
+Yarır göy üzünü iti ox kimi
 Mənim iftixarım, cəlalım yenə,
 Yarır ki, Nəvaya qan çilənməsin,
 Parlasın gün kimi halalım yenə.

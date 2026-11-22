@@ -2041,7 +2041,7 @@ Hüseyn deyir: Yaşım azdı... bu zaman
 Verilir dalbadal yenə həyəcan.
 İgidlər quş kimi cumur meydana.
 Gərək qərq olunsun qan deyən qana!
-Yarır göy üzünü 14 ox kimi
+Yarır göy üzünü iti ox kimi
 Mənim iftixarım, cəlalım yenə,
 Yarır ki, Nəvaya qan çilənməsin,
 Parlasın gün kimi halalım yenə.
@@ -7268,7 +7268,7 @@ Natəvandan axund Səfa…
 Cüməməscid adam dolu,
 İynə atsan düşməz yerə.
 Axund gəldi qaradinməz;
-Dırmaşaraq 122 minbərə,
+Dırmaşaraq tez minbərə,
 Əvvəl bir az dindən dedi,
 Sonra keçdi əsil sözə
 Adamlara baxa-baxa,
@@ -11166,7 +11166,7 @@ Mən artıq almışam, məta mənimdir!
 **Sələmçi**
 
 Sənə mal satana Allah qənimdir!
-Artıq pul versə kim, onunkudur 12!
+Artıq pul versə kim, onunkudur qız!
 
 **Xaqani**
 
