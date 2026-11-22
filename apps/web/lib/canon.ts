@@ -215,7 +215,6 @@ export const MISSING: Missing[] = [
   { name: 'Arif Ərdəbili', years: 'XIV əsr', era: 'sufi', branch: 'masnavi', note: '«Fərhadnamə»' },
   { name: 'Əssar Təbrizi', years: 'ö. 1390', era: 'sufi', branch: 'masnavi', note: '«Mehr və Müştəri»' },
   { name: 'Yusif Məddah', years: 'XIV əsr', era: 'sufi', branch: 'masnavi', note: '«Vərqa və Gülşa»' },
-  { name: 'Mustafa Zərir', years: 'XIV əsr', era: 'sufi', branch: 'masnavi', note: '«Yusif və Züleyxa»' },
   { name: 'Şeyx Səfiəddin Ərdəbili', years: '1252–1334', era: 'sufi', branch: 'persian', note: 'Dübeytilər' },
   { name: 'Fəzlullah Nəimi', years: '1340–1394', era: 'sufi', branch: 'persian', note: '«Cavidannamə»' },
   { name: 'Nəsir Bakuvi', years: 'XIV əsr', era: 'sufi', branch: 'persian' },
