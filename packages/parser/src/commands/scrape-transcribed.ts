@@ -51,7 +51,6 @@ export interface TranscribedBook {
 const readerUrl = (book: TranscribedBook, page: number) =>
   book.preslib ? `https://www.preslib.az/az/elibrary/ebook/${book.preslib}`
     : book.turuz ? `https://turuz.com/storage/${book.turuz}#page=${page}`
-    : book.turuz ? `https://turuz.com/storage/${book.turuz}#page=${page}`
     : book.kitabxana ? `https://www.kitabxana.net/files/books/file/${book.kitabxana.pdf}#page=${page}`
     : book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}`
       : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
