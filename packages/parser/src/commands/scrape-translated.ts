@@ -18,7 +18,9 @@ export interface TranslatedBook {
   /** In data/proofread: "@@ NNN" opens each printed page, "# Title" each work, then "% key: value" lines, a blank line, the text */
   file: string;
   /** The Presidential Library e-book id (preslib.az/az/elibrary/ebook/<id>): the works' source and sourceIds */
-  preslib: string;
+  preslib?: string;
+  /** Or a scan on turuz.com: its path under /storage/; "@@ NNN" is then the PDF page. Give `stem` (turuz-<name>), the scan's name in ~/kitabxana-scans */
+  turuz?: string;
   /** The sourceIds' stem when a book is imported in more than one config (default "preslib-<id>") */
   stem?: string;
   /** The language the pieces were written in */
@@ -76,8 +78,11 @@ export const scrapeTranslatedCommand = new Command('scrape-translated')
   .option('--dry-run', 'Print the plan without writing files')
   .action((opts: { config: string; dryRun?: boolean }) => {
     const book = JSON.parse(fs.readFileSync(path.join(DATA_DIR, 'config/translated', `${opts.config}.json`), 'utf-8')) as TranslatedBook;
+    if (!book.preslib && !(book.turuz && book.stem)) throw new Error('Give "preslib", or "turuz" with "stem"');
     const stem = book.stem ?? `preslib-${book.preslib}`;
-    const url = `https://www.preslib.az/az/elibrary/ebook/${book.preslib}`;
+    const source = (page: number) => book.turuz
+      ? `https://turuz.com/storage/${book.turuz}#page=${page}`
+      : `https://www.preslib.az/az/elibrary/ebook/${book.preslib}`;
     const works = readTranslated(fs.readFileSync(path.join(DATA_DIR, 'proofread', book.file), 'utf-8'));
 
     // Files an earlier run wrote are rewritten from scratch
@@ -136,11 +141,11 @@ export const scrapeTranslatedCommand = new Command('scrape-translated')
         slug, sourceId: `${stem}-t${k + 1}`, titleAz: w.title, titleFa: w.meta.titleFa, authorSlug: book.author,
         collectionSlug: book.collection.slug, originalLang: lang, scriptDirection: direction, genre,
         form: w.meta.form as PoemForm | undefined, year: w.meta.year ? Number(w.meta.year) : undefined,
-        order, sourceNote: url, status: 'DRAFT',
+        order, sourceNote: source(w.page), status: 'DRAFT',
       }, '');
       writeTranslationMd({
         workSlug: slug, language: 'AZ_LATIN', type: 'TRANSLATION', scriptDirection: 'LTR',
-        translator: w.meta.translator, year: book.year, sourceNote: url, isDefault: true, status: 'DRAFT',
+        translator: w.meta.translator, year: book.year, sourceNote: source(w.page), isDefault: true, status: 'DRAFT',
       }, w.body);
     });
     console.log(`  ${works.length} works`);

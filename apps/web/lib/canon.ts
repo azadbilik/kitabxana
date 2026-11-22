@@ -223,7 +223,6 @@ export const MISSING: Missing[] = [
   { name: 'Tərzi Əfşar', years: 'XVII əsr', era: 'safavid', branch: 'poetry' },
   { name: 'Sultan Məhəmməd', years: 'XVI əsr', era: 'safavid', branch: 'poetry' },
   // khanates
-  { name: 'Mirzə Camal Cavanşir', years: '1773–1853', era: 'khanates', branch: 'chronicles', note: '«Qarabağ tarixi»' },
   { name: 'Mirzə Adıgözəl bəy', years: '1780–1848', era: 'khanates', branch: 'chronicles', note: '«Qarabağnamə»' },
   { name: 'Məhcur Şirvani', years: 'XVIII əsr', era: 'khanates', branch: 'poetry' },
   // enlightenment
