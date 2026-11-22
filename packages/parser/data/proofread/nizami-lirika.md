@@ -1,6 +1,6 @@
 @@ 13
 # Aşiqəm, əmrini ver aşiqi-nalanə, gülüm
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Aşiqəm, əmrini ver aşiqi-nalanə, gülüm,
@@ -20,7 +20,7 @@ Yetməyir əl sənə, yox səbr də hicranə, gülüm.
 
 @@ 14
 # Vəslin həvəsi ömrümü son anə yetirdi
-% translator: Ə. Vahid
+% translator: Əliağa Vahid
 % form: GHAZAL
 
 Vəslin həvəsi ömrümü son anə yetirdi,
@@ -40,7 +40,7 @@ Bilsən niyə biz bilməmişik qədrini vəslin?
 
 @@ 15
 # Gözüm aydın, gözümə surəti-canan görünür
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Gözüm aydın, gözümə surəti-canan görünür,
@@ -66,7 +66,7 @@ Yırtdı qəm köynəyini, gül kimi xəndan görünür.
 
 @@ 16
 # Hər gecəm oldu kədər, qüssə, fəlakət sənsiz
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Hər gecəm oldu kədər, qüssə, fəlakət sənsiz,
@@ -89,7 +89,7 @@ Gecə-gündüz arayıb, olmadı rahət sənsiz!
 
 @@ 17
 # Yenə tövbə evimi eşq xərab etmədədir
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Yenə tövbə evimi eşq xərab etmədədir,
@@ -115,7 +115,7 @@ Aşiqəm, yar məni öldürsə səvab etmədədir.
 
 @@ 18
 # Sənsiz ölürəm, nigar, tez gəl!
-% translator: M. Dilbazi
+% translator: Mirvarid Dilbazi
 % form: GHAZAL
 
 Sənsiz ölürəm, nigar, tez gəl!
@@ -167,7 +167,7 @@ Olmaz xəzinə aşikar, mən gənci-pünhan tapmışam.
 
 @@ 20
 # Nə gözəl, nə xoş gəlibdir belə daimi qəmin, yar.
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Nə gözəl, nə xoş gəlibdir belə daimi qəmin, yar.
@@ -210,7 +210,7 @@ Söyləyir zülfün ucu, bir belə çakər istərəm.
 
 @@ 22
 # Mənim tək köhnə bir dostu neçin qəmxar saxlarsan?
-% translator: Ə. Vahid
+% translator: Əliağa Vahid
 % form: GHAZAL
 
 Mənim tək köhnə bir dostu neçin qəmxar saxlarsan?
@@ -233,7 +233,7 @@ Rəvamı sən onu, böylə, sitəmlə xar saxlarsan?
 
 @@ 23
 # Ay üzlü nigarım, kimə mehman olacaqsan?
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Ay üzlü nigarım, kimə mehman olacaqsan?
@@ -253,7 +253,7 @@ O, xəstə ikən sən kimə dərman olacaqsan?
 
 @@ 24
 # Yaxşı bir söz degilən, ta şəkər ərzan olsun
-% translator: S. Rüstəm
+% translator: Süleyman Rüstəm
 % form: GHAZAL
 
 Yaxşı bir söz degilən, ta şəkər ərzan olsun,
@@ -304,7 +304,7 @@ Köçüb getmək gərək burdan, qazan sən yol üçün sərvət.
 
 @@ 27
 # Gecə xəlvətcə bizə sevgili yar gəlmiş idi
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Gecə xəlvətcə bizə sevgili yar gəlmiş idi,
@@ -356,7 +356,7 @@ Gül istəyən cəfa çəkib, tikanla ruzigar edər.
 
 @@ 29
 # Hüsnün gözəl ayətləri, ey sevgili canan!
-% translator: M. Dilbazi
+% translator: Mirvarid Dilbazi
 % form: GHAZAL
 
 Hüsnün gözəl ayətləri, ey sevgili canan!
@@ -431,7 +431,7 @@ Canan, tələs, gəl indi ta əldə var fürsət.
 
 @@ 32
 # Sərxoşluq edən dövlət, huşyar olacaq bir gün
-% translator: Ə. Vahid
+% translator: Əliağa Vahid
 % form: GHAZAL
 
 Sərxoşluq edən dövlət, huşyar olacaq bir gün,
@@ -448,7 +448,7 @@ Boynumda onun zülfü zünnar olacaq bir gün.
 
 @@ 33
 # Pərvanə, söndür şəmini, gəldi çiraği-canımız
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Pərvanə, söndür şəmini, gəldi çiraği-canımız,
@@ -468,7 +468,7 @@ Qət eylədin ollam sənin, bəs hardadır peymanımız?
 
 @@ 34
 # Gecə keçmiş, mənə gəl bir məhi-taban ol sən
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Gecə keçmiş, mənə gəl bir məhi-taban ol sən,
@@ -491,7 +491,7 @@ Bir qulundur bu Nizami, ona sultan ol sən!
 
 @@ 35
 # Gül camalın gülə dedi: - Dur, pərdə sal üzündən
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Gül camalın gülə dedi: - Dur, pərdə sal üzündən,
@@ -618,7 +618,7 @@ Gizli qəmi, bəlanı açmağə varmı hacət?!
 
 @@ 40
 # Könlüm sitəminlə canə yetdi
-% translator: Ə. Vahid
+% translator: Əliağa Vahid
 % form: GHAZAL
 
 Könlüm sitəminlə canə yetdi,
@@ -670,7 +670,7 @@ Can qoy rəhi-eşqində, bu peymanədən əl çək!
 
 @@ 42
 # Mümkünmüdür məni qurban edəsən?
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Mümkünmüdür məni qurban edəsən?
@@ -713,7 +713,7 @@ Daş qəlbin əcəb eyləmədi onlara rəğbət.
 
 @@ 44
 # Yol çətin, aləm qaranlıq - atını bir yanə çək
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Yol çətin, aləm qaranlıq - atını bir yanə çək,
@@ -742,7 +742,7 @@ Anlayan yox rəmzini, bəsdir onu pünhanə çək.
 
 @@ 45
 # Sən könlümü almaq da dilərsənmi, a dilbər?
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Sən könlümü almaq da dilərsənmi, a dilbər?
@@ -774,7 +774,7 @@ Bel bağlayaraq qulluğa, olsun sənə çakər.
 
 @@ 46
 # Dilbər, neçə bilsən, sənə bənzər nişanım var
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Dilbər, neçə bilsən, sənə bənzər nişanım var,
@@ -820,7 +820,7 @@ Ta gərək bir kəs nə vaxt bu ölkədə salar olar.
 
 @@ 48
 # Üzün müştaqiyəm, ey dust, nədən bir an görünməzsən?
-% translator: M. Dilbazi
+% translator: Mirvarid Dilbazi
 % form: GHAZAL
 
 Üzün müştaqiyəm, ey dust, nədən bir an görünməzsən?
@@ -882,7 +882,7 @@ Tazə paltar istəmə, sən etmə nadandan tələb!
 
 @@ 51
 # Əziz elçi, könül yarı necədir?
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Əziz elçi, könül yarı necədir?
@@ -914,7 +914,7 @@ Yar qəmindən Yəqub oldu Nizami,
 
 @@ 52
 # Gördün nə bəla çəkdi başım eşqin ucundan?
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Gördün nə bəla çəkdi başım eşqin ucundan?
@@ -931,7 +931,7 @@ Eşqində qərarsız qalacaq, ey mahi-taban!
 
 @@ 53
 # Ey gözəl afətlərə sultan olan!
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Ey gözəl afətlərə sultan olan!
@@ -980,7 +980,7 @@ Nə rəva Axsitana munisi dildar olasan!
 
 @@ 55
 # Sənəm, ey gözün fədası, bizə bir gətir səfa sən
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Sənəm, ey gözün fədası, bizə bir gətir səfa sən,
@@ -997,7 +997,7 @@ Onu qovma dərgahından, ona vermə min cəfa sən.
 
 @@ 56
 # Hər gecə tədbir görür könlüm sənin hicranına
-% translator: M. Rahim
+% translator: Məmməd Rahim
 % form: GHAZAL
 
 Hər gecə tədbir görür könlüm sənin hicranına,
@@ -1023,7 +1023,7 @@ Ta Nizaminin qubarı qonmasın eyvanına.
 
 @@ 57
 # Baxsan cəmali-yarə, bir laləzar görərsən
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Baxsan cəmali-yarə, bir laləzar görərsən,
@@ -1043,7 +1043,7 @@ Vəslə irib olar şad ol qəmküsar, görərsən.
 
 @@ 58
 # Qönçə kimi min dərdə könül doldu cəfandan
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 Qönçə kimi min dərdə könül doldu cəfandan,
@@ -1063,7 +1063,7 @@ Bəs, sən yenə də qətlinə fərman yazacaqsan?
 
 @@ 59
 # Mənim ox qəlbimə dəymiş, gözüm pürxün, nədəndir?
-% translator: M. Rahim
+% translator: Məmməd Rahim
 % form: GHAZAL
 
 Mənim ox qəlbimə dəymiş, gözüm pürxün, nədəndir?
@@ -1083,7 +1083,7 @@ Nizamiyə çatıb növbət, cəfa qıldın, nədəndir?
 
 @@ 60
 # Sən hələ, bax, nocavansan, mən dəyişdim çox yaman
-% translator: M. Dilbazi
+% translator: Mirvarid Dilbazi
 % form: GHAZAL
 
 Sən hələ, bax, nocavansan, mən dəyişdim çox yaman,
@@ -1106,7 +1106,7 @@ Hər iki dünyadə könlüm səndən olsun kamiran.
 
 @@ 61
 # O müşk tellərin sənin məzhəbi-dilbəri tutub
-% translator: C. Xəndan
+% translator: Cəfər Xəndan
 % form: GHAZAL
 
 O müşk tellərin sənin məzhəbi-dilbəri tutub,
@@ -1129,7 +1129,7 @@ Səni Nizami Gəncəvi eşqdə rəhbəri tutub.
 
 @@ 62
 # Dinlədi harda könül yarımızın söhbətini
-% translator: M. Rahim
+% translator: Məmməd Rahim
 % form: GHAZAL
 
 Dinlədi harda könül yarımızın söhbətini,
@@ -1149,7 +1149,7 @@ O bütün dostlara xətt çəkdi, qırıb ülfətini.
 
 @@ 63
 # Fəxr elə yar ki, barını çəkirəm
-% translator: S. Rüstəm
+% translator: Süleyman Rüstəm
 % form: GHAZAL
 
 Fəxr elə yar ki, barını çəkirəm,
@@ -1172,7 +1172,7 @@ Gülünün ahü-zarını çəkirəm.
 
 @@ 64
 # Ey nigarım, könlümü çaldın, füsunxan olma gəl!
-% translator: S. Rüstəm
+% translator: Süleyman Rüstəm
 % form: GHAZAL
 
 Ey nigarım, könlümü çaldın, füsunxan olma gəl!
@@ -1209,7 +1209,7 @@ Ki sonra bizi çox əzəcək hicran.
 
 @@ 66
 # Öz yaman halımı açdım sənə, diqqət verəsən
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Öz yaman halımı açdım sənə, diqqət verəsən,
@@ -1238,7 +1238,7 @@ Sarbanam, bəlkə vəfadan mənə xələt verəsən.
 
 @@ 67
 # Sən ey yüz min cana dinclik verən can
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sən ey yüz min cana dinclik verən can,
@@ -1267,7 +1267,7 @@ Necə ki, aləmin şahıdır Arslan.
 
 @@ 68
 # Arpa qədər də tabım yox, a buğdayı üzlü nigar!
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Arpa qədər də tabım yox, a buğdayı üzlü nigar!
@@ -1293,7 +1293,7 @@ Nizaminin dərdi sənə arpaca da etmədi kar.
 
 @@ 69
 # Ürəyimə yara vurdun öz əlinlə gülə-gülə
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Ürəyimə yara vurdun öz əlinlə gülə-gülə,
@@ -1316,7 +1316,7 @@ Nizamiyə çatıb növbən... qəsd eləmə, insaf elə.
 
 @@ 70
 # Ey uğurlu qasid, bir xəbər yetir
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Ey uğurlu qasid, bir xəbər yetir:
@@ -1348,7 +1348,7 @@ Bildimi Yusifim, dövlətim, varım?!
 
 @@ 71
 # Səni bağda görən güllər pərdə çəkdi üzünə
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Səni bağda görən güllər pərdə çəkdi üzünə,
@@ -1371,7 +1371,7 @@ Nizamini dinləyəndə bülbül kəsdi cəh-cəhi,
 
 @@ 72
 # Gözlərin gözlərimə xeyli tanış
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Gözlərin gözlərimə xeyli tanış,
@@ -1388,7 +1388,7 @@ Vaxt olur, ayrılıq illərcə çəkir.
 
 @@ 73
 # Sorursan halımı... sorma, əziz dost
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sorursan halımı... sorma, əziz dost,
@@ -1411,7 +1411,7 @@ Yazır şerin... deyir sana, əziz dost!
 
 @@ 74
 # Həyatdan kam alan fəxrəndə yoxmuş.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Həyatdan kam alan fəxrəndə yoxmuş.
@@ -1434,7 +1434,7 @@ Nizami, gəzmə naçar... heç nə yoxmuş.
 
 @@ 75
 # Könlüm evi xarab olur, canım alan o can hanı?
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Könlüm evi xarab olur, canım alan o can hanı?
@@ -1451,7 +1451,7 @@ Yol almısan o aləmə, bəs azuqə-filan hanı?
 
 @@ 76
 # Sənin ətirli tellərin kəsib yolu, sağı, solu.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sənin ətirli tellərin kəsib yolu, sağı, solu.
@@ -1474,7 +1474,7 @@ Nizami başqa möcüzə - quldu sənə, vəfa qulu.
 
 @@ 77
 # Dərd başdan aşıb da canə yetdi
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Dərd başdan aşıb da canə yetdi,
@@ -1494,7 +1494,7 @@ Vəd etdin... ömür son anə yetdi.
 
 @@ 78
 # Öylə şirin söz de ki, ta şəkər ərzan ola
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Öylə şirin söz de ki, ta şəkər ərzan ola,
@@ -1511,7 +1511,7 @@ Gəl ki, qarışqa evi mülki-Süleyman ola.
 
 @@ 79
 # Xoşbəxt yaşa, qəm çəkməyə dəyməz.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Xoşbəxt yaşa, qəm çəkməyə dəyməz.
@@ -1528,7 +1528,7 @@ Düzgün cavabım könlünə dəyməz.
 
 @@ 80
 # Gör sənin ucbatından nələr gəldi başıma
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Gör sənin ucbatından nələr gəldi başıma,
@@ -1545,7 +1545,7 @@ Yanar qəlbi dönübdür bir Səməndər quşuna.
 
 @@ 81
 # Qəm yemə, qəm əhlinin imdadına canan çatar.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Qəm yemə, qəm əhlinin imdadına canan çatar.
@@ -1574,7 +1574,7 @@ Ey Nizami, göz yumub dünyaya dövlətdən çək əl,
 
 @@ 82
 # Allah, Allah, bax bu cür dilbər mənim olsun gərək.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Allah, Allah, bax bu cür dilbər mənim olsun gərək.
@@ -1597,7 +1597,7 @@ Zülfünə quldur Nizami, nə deyir zülfün ucu:
 
 @@ 83
 # A xidmət etdiyim gözəl, qazancım intizar olur.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 A xidmət etdiyim gözəl, qazancım intizar olur.
@@ -1616,7 +1616,7 @@ Qanımla oynama, gülüm, çiçəkləyər tumurcuğun,
 Şəkərlə duz ki birləşir, xoştəhər abidar olur.
 @@ 84
 # Bu gecə yatmaq nədir? Ləzzət çəkək ta sübhədək
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Bu gecə yatmaq nədir? Ləzzət çəkək ta sübhədək,
@@ -1642,7 +1642,7 @@ Gəl qapı halqasını tərpətməyək ta sübhədək.
 
 @@ 85
 # Tutdu məni eşqin, sevda məni çəkdi
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Tutdu məni eşqin, sevda məni çəkdi,
@@ -1665,7 +1665,7 @@ Bac istədi dürrü, dərya məni çəkdi.
 
 @@ 86
 # Alım səndən ürəyimi... düşünürəm dönə-dönə
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Alım səndən ürəyimi... düşünürəm dönə-dönə,
@@ -1691,7 +1691,7 @@ Qıyarammı bu yollarda tozum qona ay çöhrənə?
 
 @@ 87
 # Yoxdu xəzinəm ki, saçım üstünə.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Yoxdu xəzinəm ki, saçım üstünə.
@@ -1711,7 +1711,7 @@ Gəl ki, Nizami can atır sürmənə.
 
 @@ 88
 # Baş apar, nazlan ki, mən nazın çəkim.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Baş apar, nazlan ki, mən nazın çəkim.
@@ -1734,7 +1734,7 @@ Mən - Nizami, bülbüləm gülzarına,
 
 @@ 89
 # Ey sənəm, gözün fədası, bizə bir gecə səfa qıl
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Ey sənəm, gözün fədası, bizə bir gecə səfa qıl,
@@ -1751,7 +1751,7 @@ Tikanı çıxar ürəkdən... az ona əzab, cəfa qıl!
 
 @@ 90
 # Söndür şamı, pərvanə tez gəldi çıraği-çanımız
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Söndür şamı, pərvanə tez gəldi çıraği-çanımız,
@@ -1771,7 +1771,7 @@ Lütf et bir az, ey nazənin, Nizamilə ol həmnişin,
 
 @@ 91
 # Ey gülü-xəndanımız, sərvi-xuramanımız
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Ey gülü-xəndanımız, sərvi-xuramanımız,
@@ -1791,7 +1791,7 @@ Can de Nizamiyə gəl, ta ki ucaltsın bizi
 
 @@ 92
 # Mən öz gəncliyimi sənə verdim, yar
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Mən öz gəncliyimi sənə verdim, yar,
@@ -1814,7 +1814,7 @@ Haray, ey laləzar, haray, ey bahar!
 
 @@ 93
 # Sən, a bütün türkləri hindu qılan
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sən, a bütün türkləri hindu qılan,
@@ -1843,7 +1843,7 @@ Bircə Nizamindi göyə yalvaran.
 
 @@ 94
 # Gözlərinə and olsun, məndə yüz nişanən var.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Gözlərinə and olsun, məndə yüz nişanən var.
@@ -1866,7 +1866,7 @@ Xoşbəxtəm ki, bu sözü dedi o gül dodaqlar.
 
 @@ 95
 # Sən - bütün qızlardakı hüsnü tamam
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sən - bütün qızlardakı hüsnü tamam
@@ -1886,7 +1886,7 @@ Qanım içmiş, əhdinə çatmış gözəl!
 
 @@ 96
 # Bəlkə bir ləhzəni qurban edəsən
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Bəlkə bir ləhzəni qurban edəsən,
@@ -1909,7 +1909,7 @@ Məni möhrünlə Süleyman edəsən.
 
 @@ 97
 # Çaldı yenə qəlbimi bir gözəlin gözləri
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Çaldı yenə qəlbimi bir gözəlin gözləri,
@@ -1941,7 +1941,7 @@ Hicrin ilə xəstədir bəndə Nizamin sənin,
 
 @@ 98
 # Gül surətə nəzər sal, ta gör də laləzarı
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Gül surətə nəzər sal, ta gör də laləzarı,
@@ -1961,7 +1961,7 @@ Hicranda da vüsal tap, yandır qəmi, qubarı.
 
 @@ 99
 # Apardın könlümü, canım da səndə
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Apardın könlümü, canım da səndə,
@@ -1978,7 +1978,7 @@ Düzgün bəxti açılsın qoy əlində.
 
 @@ 100
 # Vermərəm can sənə mən, can alan olsan da, gülüm
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Vermərəm can sənə mən, can alan olsan da, gülüm,
@@ -2004,7 +2004,7 @@ Bir öpüş... “Yox” deyibən etmə aman, and, a gülüm!
 
 @@ 101
 # Qoşuldun mərdlərə, oldunsa mərdan
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Qoşuldun mərdlərə, oldunsa mərdan,
@@ -2030,7 +2030,7 @@ Bütü, bütxanəni qır, ey Nizami,
 
 @@ 102
 # Mənim dərdim böyük dastan... oxu, dərmanım ol, ey dost!
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Mənim dərdim böyük dastan... oxu, dərmanım ol, ey dost!
@@ -2053,7 +2053,7 @@ Barı bir dəm gəlib baş çək, mehim, mehmanım ol, ey dost!
 
 @@ 103
 # Həsrətəm cəmalına, ey dost, harda qalmısan?
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Həsrətəm cəmalına, ey dost, harda qalmısan?
@@ -2073,7 +2073,7 @@ Yolun ağ olsun, özün daim xoşbəxt, kamiran.
 
 @@ 104
 # Hər cilvəni Tanrım sənə əlan
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Hər cilvəni Tanrım sənə əlan
@@ -2096,7 +2096,7 @@ Mümkünmü deyim nəvazişindən,
 
 @@ 105
 # Hər gecə umar könül ki, bu gecə gələr baharım
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Hər gecə umar könül ki, bu gecə gələr baharım,
@@ -2119,7 +2119,7 @@ Get, ona yaxınlaş, ey can, a Nizamidən kənarım.
 
 @@ 106
 # Sən görən deyiləm mən, sənsə elə o ləlsən.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sən görən deyiləm mən, sənsə elə o ləlsən.
@@ -2145,7 +2145,7 @@ Nizami kəmər çəkib dayanmış xidmətində,
 
 @@ 107
 # Qəmin kəm, ey gözəl, vardır mənim tək köhnə qəmxarın.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Qəmin kəm, ey gözəl, vardır mənim tək köhnə qəmxarın.
@@ -2168,7 +2168,7 @@ Mən aşiq, sən də məşuqəm... qalar yadda bu kirdarın.
 
 @@ 108
 # Min sevincə dəyişmərəm uğrundakı bircə qəmi
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Min sevincə dəyişmərəm uğrundakı bircə qəmi,
@@ -2188,7 +2188,7 @@ Sən kiməsə bənzəmirsən, sənə kimsə bənzəyərmi?
 
 @@ 109
 # Günüm batdı, gəl, ay bədrim, bir anlıq gəl, amanım ol!
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Günüm batdı, gəl, ay bədrim, bir anlıq gəl, amanım ol!
@@ -2214,7 +2214,7 @@ Nizami dərdinə son qoy, gülüstanım, cahanım ol!
 
 @@ 110
 # Gəncliyimi sənə verdim, bu möhlətdən şirinsənmiş.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Gəncliyimi sənə verdim, bu möhlətdən şirinsənmiş.
@@ -2234,7 +2234,7 @@ Hər nə versəm ucuz olar, hər qiymətdən şirinsənmiş.
 
 @@ 111
 # Sığar qəlbə, qəmin dünyaya sığmaz
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Sığar qəlbə, qəmin dünyaya sığmaz,
@@ -2257,7 +2257,7 @@ Sabah gecdir. Sabah sevdaya sığmaz.
 
 @@ 112
 # Harda ki adın çəkildi bir dəm
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Harda ki adın çəkildi bir dəm,
@@ -2277,7 +2277,7 @@ Ta atmayasan Nizamini sən.
 
 @@ 113
 # Ey əhdimizə ən uca ünvan
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Ey əhdimizə ən uca ünvan,
@@ -2303,7 +2303,7 @@ Bezməz bu qədər əzablarından.
 
 @@ 114
 # Mən kiməm ki, söyləyim: eşqim mənə mehman olub.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Mən kiməm ki, söyləyim: eşqim mənə mehman olub.
@@ -2329,7 +2329,7 @@ O gülüb getmiş... mənim ağlar gözüm giryan olub.
 
 @@ 115
 # Harda ki sən varsan, qəmər gərəkməz.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Harda ki sən varsan, qəmər gərəkməz.
@@ -2355,7 +2355,7 @@ Zülfündən savayı, kəmər gərəkməz.
 
 @@ 116
 # Təəssüf, min təəssüf ki, təkəm, dildarə möhtacam.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Təəssüf, min təəssüf ki, təkəm, dildarə möhtacam.
@@ -2372,7 +2372,7 @@ Hanı? Gəlsin, verim canım... yanım odlarə, möhtacam.
 
 @@ 116
 # Gecə-gündüz çıraq əldə... gəzib bulmam da bir həmdəm
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Gecə-gündüz çıraq əldə... gəzib bulmam da bir həmdəm,
@@ -2386,7 +2386,7 @@ Sözün qədrin bilən sərrafə, tacidarə möhtacam.
 
 @@ 117
 # Yüz Yusifi Kənani
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Yüz Yusifi Kənani
@@ -2416,7 +2416,7 @@ Sat qəmzəni pünhani.
 
 @@ 118
 # Saçların dağnıqmıdır, aləmmi, ya karım mənim?
-% translator: Ə. Vahid, X. R. Ulutürk
+% translator: Əliağa Vahid, Xəlil Rza Ulutürk
 % form: GHAZAL
 
 Saçların dağnıqmıdır, aləmmi, ya karım mənim?
@@ -2444,7 +2444,7 @@ Qəlb açan vəslinmidir, yoxsa mənim şerim, sözüm,
 Can yaxan hicrinmidir, yoxsa bu ah-zarım mənim?
 @@ 121
 # Mən - fikirlər ustadıyam, fəzilətim - bir ümmandır.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: QASIDA
 
 Mən - fikirlər ustadıyam, fəzilətim - bir ümmandır.
@@ -2623,7 +2623,7 @@ Son nəfəsdə üstümdə ol, ölməyimə haqq qazandır.
 
 @@ 127
 # Zınqırovlar zınqıldadı, budur, yola düşür karvan.
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: QASIDA
 
 Zınqırovlar zınqıldadı, budur, yola düşür karvan.
@@ -2811,7 +2811,7 @@ Nə vaxtacan deyəcəksən: - Ey Kəbə, mən xidmətçinəm,
 
 @@ 132
 # Vaxtı gəlmiş fələyin zərləri heyrətdə olar
-% translator: Ə. Vahid, X. Yusifli
+% translator: Əliağa Vahid, Xəlil Yusifli
 % form: QASIDA
 
 Vaxtı gəlmiş fələyin zərləri heyrətdə olar,
@@ -2966,7 +2966,7 @@ Torpağa düşsə də o, zər kimi qiymətdə olar.
 
 @@ 136
 # Əyildi bel bu çəməndə qocalıqdan nə təhər
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: QASIDA
 
 Əyildi bel bu çəməndə qocalıqdan nə təhər,
@@ -3118,7 +3118,7 @@ Zəbanə çəksə əgər köksüm altda atəşlər...
 
 @@ 141
 # Odur Kəbə sultanı yeddi ölkə təxtində
-% translator: X. R. Ulutürk
+% translator: Xəlil Rza Ulutürk
 % form: QASIDA
 
 Odur Kəbə sultanı yeddi ölkə təxtində,
@@ -3287,7 +3287,7 @@ Bu küləyə qarşı durub, qələbə çal ona hər an...
 
 @@ 149
 # Biçarə o kəsdir ki, onun yox yarı
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Biçarə o kəsdir ki, onun yox yarı,
@@ -3297,7 +3297,7 @@ Varsa ürəyin, qoyma gedə dildarı.
 
 @@ 149
 # Dünyada ədalətlə zəfər tapmışlar
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Dünyada ədalətlə zəfər tapmışlar,
@@ -3307,7 +3307,7 @@ Mərdlər eyb örtüb də, hünər tapmışlar.
 
 @@ 149
 # Aləmdə sənin qəddinə bir tay olmaz
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Aləmdə sənin qəddinə bir tay olmaz,
@@ -3317,7 +3317,7 @@ Qəlbimdən axan qan necə bəs çay olmaz!
 
 @@ 149
 # Bilməm niyə lütfündən əlamət yoxdur
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Bilməm niyə lütfündən əlamət yoxdur,
@@ -3327,7 +3327,7 @@ Eşqinlə sənin qəm çəkirəm, aşkardır,
 
 @@ 149
 # Bil, qaçma, a dərviş ürəyim, bir kərrə
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Bil, qaçma, a dərviş ürəyim, bir kərrə,
@@ -3337,7 +3337,7 @@ Yox faydası saç buraxmağın bir zərrə.
 
 @@ 149
 # Dilləndi İraq pərdəsi, ey yar, yatma
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Dilləndi İraq pərdəsi, ey yar, yatma,
@@ -3347,7 +3347,7 @@ Qablarda, tuluqlarda badə var, yatma.
 
 @@ 149
 # Bir ud kimi can yanar bizim manqalda
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Bir ud kimi can yanar bizim manqalda,
@@ -3357,7 +3357,7 @@ Biz dosta fədayıq, sən özgə əhvalda.
 
 @@ 149
 # Baxmır necə gündəyəm, könül şeydadır
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Baxmır necə gündəyəm, könül şeydadır,
@@ -3367,7 +3367,7 @@ Divanə mənəm, başda bu nə sevdadır?
 
 @@ 149
 # Dərdinlə sevinc tarlama düşmüşdür nəm
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Dərdinlə sevinc tarlama düşmüşdür nəm,
@@ -3377,7 +3377,7 @@ Ya qəm necə çəkməyim? Məni basmış qəm.
 
 @@ 149
 # Etmirsə vəfa, ömrə amansız rüzgar
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Etmirsə vəfa, ömrə amansız rüzgar,
@@ -3387,7 +3387,7 @@ Barı qoruyun, inciməsinlər dostlar.
 
 @@ 149
 # Hər kim ki düşər qəmə, bu qəmdən dinməz
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Hər kim ki düşər qəmə, bu qəmdən dinməz,
@@ -3397,7 +3397,7 @@ Nə rəngi görünməz, nə ətri gizlənməz.
 
 @@ 149
 # Ey göz, necə görmədin ki, canan getdi
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Ey göz, necə görmədin ki, canan getdi,
@@ -3407,7 +3407,7 @@ Yar silkib ətək, gör nə xuraman getdi.
 
 @@ 149
 # Eşqin meyini daddım əyan dərdindən
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Eşqin meyini daddım əyan dərdindən,
@@ -3417,7 +3417,7 @@ Gəl sorma nələr gördüm, aman, dərdindən.
 
 @@ 149
 # Bir söylə, o dürr danəsini, ey dildar
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Bir söylə, o dürr danəsini, ey dildar,
@@ -3427,7 +3427,7 @@ Göstərdi, dedi: - Dürr anadan böylə olar.
 
 @@ 149
 # Dedim ki, sözüm sənə şəhadət versin
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Dedim ki, sözüm sənə şəhadət versin,
@@ -3437,7 +3437,7 @@ Vəslin – dedim. O dedi: – Qoy əlbət versin.
 
 @@ 149
 # Mən yetməmişəm indi ki, bir dildara
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Mən yetməmişəm indi ki, bir dildara,
@@ -3447,7 +3447,7 @@ Aləmdə mən öz halımı hər divara.
 
 @@ 149
 # Fəryada yetən varmı, etsəm ah, əfğan
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Fəryada yetən varmı, etsəm ah, əfğan,
@@ -3457,7 +3457,7 @@ Qoymuş hamını istəyə nakam dövran.
 
 @@ 149
 # Ney söylədi: – Çox oldu yerim torpaqlar
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Ney söylədi: – Çox oldu yerim torpaqlar,
@@ -3467,7 +3467,7 @@ Etsəm çox əgər nalə, buna üzrüm var.
 
 @@ 149
 # Ey kaş ki görəydi o yarı insanlar
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Ey kaş ki görəydi o yarı insanlar,
@@ -3477,7 +3477,7 @@ Ta gülməyələr aşiqə zinhar, zinhar.
 
 @@ 149
 # Yorğunca, zəif dərviş etsə ah, əfğan
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Yorğunca, zəif dərviş etsə ah, əfğan,
@@ -3487,7 +3487,7 @@ Durduqca verir taxta, taca şah meydan.
 
 @@ 149
 # Ey yel, sən ona dərdimi pünhan söylə
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Ey yel, sən ona dərdimi pünhan söylə,
@@ -3497,7 +3497,7 @@ Söz sal, arada danış nagahan söylə.
 
 @@ 149
 # Rəngim sarıdır, rəhm yox o dilbərdə
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Rəngim sarıdır, rəhm yox o dilbərdə,
@@ -3507,7 +3507,7 @@ Allaha şükür, qalmadı arzum yerdə.
 
 @@ 149
 # Soldu gül üzüm, saraldı, bax, dərdindən
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Soldu gül üzüm, saraldı, bax, dərdindən,
@@ -3517,7 +3517,7 @@ Sındırdı məni ayrılığın illərlə,
 
 @@ 149
 # Yatmış, onu Yarəb, nola bidar eylə
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Yatmış, onu Yarəb, nola bidar eylə,
@@ -3527,7 +3527,7 @@ Yaxud onu halımla xəbərdar eylə.
 
 @@ 149
 # Qəlbim qoya, eyləsəm şikayət səndən
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Qəlbim qoya, eyləsəm şikayət səndən,
@@ -3537,7 +3537,7 @@ Eylərdim axır yaman hekayət səndən.
 
 @@ 149
 # Sən qəlbimi söylədim pərişan etmə
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Sən qəlbimi söylədim pərişan etmə,
@@ -3547,7 +3547,7 @@ Göstərdi ləbi, dedi: - Bir dayan, etmə.
 
 @@ 149
 # Olmuş yanağın müşk, saçın qan, ey mah
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Olmuş yanağın müşk, saçın qan, ey mah,
@@ -3557,7 +3557,7 @@ Zülfün ucu-qan, çıxır nafədən gah-gah.
 
 @@ 149
 # İşrətdə idim dünən şirin bir dillə
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 İşrətdə idim dünən şirin bir dillə,
@@ -3567,7 +3567,7 @@ Boynum ona bağlandı haman bir tellə.
 
 @@ 149
 # Hüsn ilə üzün göydə bir Aydır, parlaq
-% translator: X. Yusifli
+% translator: Xəlil Yusifli
 % form: RUBAI
 
 Hüsn ilə üzün göydə bir Aydır, parlaq,
