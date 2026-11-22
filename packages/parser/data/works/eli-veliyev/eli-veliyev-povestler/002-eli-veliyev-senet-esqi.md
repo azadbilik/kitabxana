@@ -958,7 +958,7 @@ Heydər əmi bir sual da verdi:
 
 – Bizim mədəndə cavan bir oğlanın yanında boş çarpayı var, gedib onun yanında yatarsan.
 
-– Kənddə yaşadığım illər dəmir çarpayıda yatmamışdım. Kənddə beş dövlətlinin ikisində ağac çarpayı var 30.
+– Kənddə yaşadığım illər dəmir çarpayıda yatmamışdım. Kənddə beş dövlətlinin ikisində ağac çarpayı var idi.
 
 İki gün sonra həmin otağa keçdim. Burada yaşayan oğlan zəngəzurlu idi, ata-anasından acıq eləyib Bakıya gəlmişdi. Mənimlə soyuq görüşdü. Yavan danışdı. Günün quyruğu batmamış soyunub yerinə girdi, az çəkmədən xoma çəkməyə başladı. Yoldaşımın hərəkətlərindən narazı idim. Burası var ki, bu vəziyyət uzun sürə bilməzdi. İkimiz də işləyirdik. Tezliklə Bakıdan getməyəcəkdim. Bahəm bir mənzildə yaşayıb nə qədər küsülüvari dolanmaq olardı?
 

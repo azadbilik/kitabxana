@@ -1464,7 +1464,7 @@ Dədəm Bakı şəhərini görməmişdi. İyirmi ilə yaxın idi ki, böyük oğ
 
 @@ 030
 
->>çörəyimi kəsməmişdi. Bir gün böyük bacımdan 121 aldım ki, dədəm sabah Bakıda olacaq, qarşıla.
+>>çörəyimi kəsməmişdi. Bir gün böyük bacımdan tel aldım ki, dədəm sabah Bakıda olacaq, qarşıla.
 
 İdarə maşını ilə, o vaxtkı “Pobeda” ilə qabağına getdim. Qarşıladım, görüşdük, öpüşdük. Kişi bir az qəhərləndi, mən toxtdatdım, dədəmin nəvəsi, mənim böyük oğlum babasından aralanmır, kişini gözdən qoymurdu.
 
@@ -3478,7 +3478,7 @@ Mən tufanlara sinə gərib, çovğunlarla vuruşduğum vaxt Bəşir əmi çox s
 
 Mənimlə bacardıqcan az danışır, arvadıyla qızının gözümə görünməsinə yol vermirdi. Bəzən özümdən zəhləm gedirdi. Hey deyinirdim: “Sənə nə olub, Cavad. Öz evindən, doğma ailəndən niyə soyumusan? Yumurtlar kəklik deyilsən ki, insan nəfəsi yuvana toxunanda küsüb gedəsən. Yaxşı-yaxşı fikirləş, papağını qarşına qoy, düşün. Gör kiminlə, hansı ailə ilə soyuq münasibət yaradırsan”.
 
-Bütün günü dükanda işləyəndə, hərdən küçəyə çıxıb yol ilə gedib-gələnlərə tamaşa eləyəndə, nişanlısı ilə qoşa yeriyən cavanlara baxanda, 124
+Bütün günü dükanda işləyəndə, hərdən küçəyə çıxıb yol ilə gedib-gələnlərə tamaşa eləyəndə, nişanlısı ilə qoşa yeriyən cavanlara baxanda,
 
 @@ 063
 
@@ -5418,7 +5418,7 @@ Mühakimədən xəbər çıxmadığından şikayət ərizələrinin tarixini də
 
 Yolladığım kağızların günlərini sayır, mühakimənin başlanğıcını səbirsizliklə gözləyirdim. Gülablı poçtuna zərf saldığımın doqquzuncu günü, axşam üstü yeznəm bizə gəldi. Yorğun idi. Bərk tərləmişdi. Müxtəsər hal-xoşdan sonra əl boyda kağızı mənə uzatdı. Qıraqları qırmızı ipək sap ilə hörülmüş əl dəsmalına bükülüb çalın-çarpaz bağlanmış baratı isə stolun qırağına qoydu.
 
-Diləfruzdan idi. Yazdıqlarını eyni ilə köçürürəm. “Unudulmaz Cavad, salam. Sən etibarsız çıxıb vəfasız olsan da mən ömrüm boyu 179
+Diləfruzdan idi. Yazdıqlarını eyni ilə köçürürəm. “Unudulmaz Cavad, salam. Sən etibarsız çıxıb vəfasız olsan da mən ömrüm boyu
 
 @@ 091
 
@@ -6820,7 +6820,7 @@ Heydər əmi bir sual da verdi:
 
 – Bizim mədəndə cavan bir oğlanın yanında boş çarpayı var, gedib onun yanında yatarsan.
 
-– Kənddə yaşadığım illər dəmir çarpayıda yatmamışdım. Kənddə beş dövlətlinin ikisində ağac çarpayı var 30.
+– Kənddə yaşadığım illər dəmir çarpayıda yatmamışdım. Kənddə beş dövlətlinin ikisində ağac çarpayı var idi.
 
 İki gün sonra həmin otağa keçdim. Burada yaşayan oğlan zəngəzurlu idi, ata-anasından acıq eləyib Bakıya gəlmişdi. Mənimlə soyuq
 

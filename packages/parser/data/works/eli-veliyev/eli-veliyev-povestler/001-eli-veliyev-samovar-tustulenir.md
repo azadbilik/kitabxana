@@ -580,7 +580,7 @@ Mən tufanlara sinə gərib, çovğunlarla vuruşduğum vaxt Bəşir əmi çox s
 
 Mənimlə bacardıqcan az danışır, arvadıyla qızının gözümə görünməsinə yol vermirdi. Bəzən özümdən zəhləm gedirdi. Hey deyinirdim: “Sənə nə olub, Cavad. Öz evindən, doğma ailəndən niyə soyumusan? Yumurtlar kəklik deyilsən ki, insan nəfəsi yuvana toxunanda küsüb gedəsən. Yaxşı-yaxşı fikirləş, papağını qarşına qoy, düşün. Gör kiminlə, hansı ailə ilə soyuq münasibət yaradırsan”.
 
-Bütün günü dükanda işləyəndə, hərdən küçəyə çıxıb yol ilə gedib-gələnlərə tamaşa eləyəndə, nişanlısı ilə qoşa yeriyən cavanlara baxanda, 124 körpəsini qucağında tutmuş analara nəzər yetirəndə də son günlər bütün bədənimi qaplamış, püsdən, təvərədən çıxartmış vəziyyət barədə götür-qoy edir, qəti nəticəyə gələ bilmirdim. Əlacsız qalmışdım. Kimdən kömək ummalı idim. Kimə müraciət etməli idim. Çətinlik çəkirdim. Axşam həyətə girəndə eltilərin danışdıqları sözlər məni lap diksindirdi.
+Bütün günü dükanda işləyəndə, hərdən küçəyə çıxıb yol ilə gedib-gələnlərə tamaşa eləyəndə, nişanlısı ilə qoşa yeriyən cavanlara baxanda, körpəsini qucağında tutmuş analara nəzər yetirəndə də son günlər bütün bədənimi qaplamış, püsdən, təvərədən çıxartmış vəziyyət barədə götür-qoy edir, qəti nəticəyə gələ bilmirdim. Əlacsız qalmışdım. Kimdən kömək ummalı idim. Kimə müraciət etməli idim. Çətinlik çəkirdim. Axşam həyətə girəndə eltilərin danışdıqları sözlər məni lap diksindirdi.
 
 Məmməd əminin arvadı tez-tez köks ötürüb deyirdi:
 
@@ -2396,7 +2396,7 @@ Mühakimədən xəbər çıxmadığından şikayət ərizələrinin tarixini də
 
 Yolladığım kağızların günlərini sayır, mühakimənin başlanğıcını səbirsizliklə gözləyirdim. Gülablı poçtuna zərf saldığımın doqquzuncu günü, axşam üstü yeznəm bizə gəldi. Yorğun idi. Bərk tərləmişdi. Müxtəsər hal-xoşdan sonra əl boyda kağızı mənə uzatdı. Qıraqları qırmızı ipək sap ilə hörülmüş əl dəsmalına bükülüb çalın-çarpaz bağlanmış baratı isə stolun qırağına qoydu.
 
-Diləfruzdan idi. Yazdıqlarını eyni ilə köçürürəm. “Unudulmaz Cavad, salam. Sən etibarsız çıxıb vəfasız olsan da mən ömrüm boyu 179
+Diləfruzdan idi. Yazdıqlarını eyni ilə köçürürəm. “Unudulmaz Cavad, salam. Sən etibarsız çıxıb vəfasız olsan da mən ömrüm boyu
 
 Sənə sədaqətli qalacağam. Toyuna məni çağırmasan da incimədim. kiçik sovqat nişanlına məndən yadigar olsun.
 

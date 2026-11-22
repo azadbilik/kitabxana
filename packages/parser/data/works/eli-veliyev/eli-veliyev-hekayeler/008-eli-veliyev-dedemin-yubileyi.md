@@ -154,7 +154,7 @@ Bağdakı ağacların hər budağında bülbüllər cəh-cəh vurmuş, bildirçi
 
 Belə olan surətdə dədəmi narahat eləyən fikirlər ortaya çıxmalı, gözünün ilk ovu, sövdasının əzəli olan böyük oğlu ilə böyük qızının məsləhət və məşvərəti ilə üzləşib rəy öyrənməliydi.
 
-Dədəm Bakı şəhərini görməmişdi. İyirmi ilə yaxın idi ki, böyük oğlu, yəni mən Bakıda yaşayır, işləyirdim. Hələ mənim evimə gəlib çörəyimi kəsməmişdi. Bir gün böyük bacımdan 121 aldım ki, dədəm sabah Bakıda olacaq, qarşıla.
+Dədəm Bakı şəhərini görməmişdi. İyirmi ilə yaxın idi ki, böyük oğlu, yəni mən Bakıda yaşayır, işləyirdim. Hələ mənim evimə gəlib çörəyimi kəsməmişdi. Bir gün böyük bacımdan tel aldım ki, dədəm sabah Bakıda olacaq, qarşıla.
 
 İdarə maşını ilə, o vaxtkı “Pobeda” ilə qabağına getdim. Qarşıladım, görüşdük, öpüşdük. Kişi bir az qəhərləndi, mən toxtdatdım, dədəmin nəvəsi, mənim böyük oğlum babasından aralanmır, kişini gözdən qoymurdu.
 
