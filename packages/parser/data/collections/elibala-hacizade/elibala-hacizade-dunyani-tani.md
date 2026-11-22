@@ -4,7 +4,7 @@ titleAz: Dünyanı tanı
 authorSlug: elibala-hacizade
 genre: PROSE
 originalLang: AZ_LATIN
-order: 5
+order: 9
 status: DRAFT
 ---
 

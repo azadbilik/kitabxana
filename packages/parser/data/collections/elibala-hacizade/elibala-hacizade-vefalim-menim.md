@@ -4,7 +4,7 @@ titleAz: Vəfalım mənim
 authorSlug: elibala-hacizade
 genre: PROSE
 originalLang: AZ_LATIN
-order: 3
+order: 7
 status: DRAFT
 ---
 
