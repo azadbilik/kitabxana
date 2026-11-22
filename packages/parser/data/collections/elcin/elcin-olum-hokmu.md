@@ -4,7 +4,7 @@ titleAz: Ölüm hökmü
 authorSlug: elcin
 genre: PROSE
 originalLang: AZ_LATIN
-order: 1
+order: 17
 status: DRAFT
 ---
 
