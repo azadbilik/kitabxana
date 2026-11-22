@@ -264,7 +264,6 @@ export const MISSING: Missing[] = [
   { name: 'Səlim Babullaoğlu', years: 'd. 1972', era: 'independence', branch: 'poetry' },
   { name: 'Salam Sarvan', years: 'd. 1974', era: 'independence', branch: 'poetry' },
   { name: 'Aqşin Yeniseyli', years: '', era: 'independence', branch: 'poetry' },
-  { name: 'Çingiz Abdullayev', years: 'd. 1959', era: 'independence', branch: 'russian' },
   // Second pass (2026-11-18): each name checked on its own az.wikipedia page
   { name: 'Məhəmməd ibn Bəis', years: 'IX əsr', era: 'early', branch: 'arabic', note: '«Mütəvəkkilə qəsidə»' },
   { name: 'Hüseyn Təbrizi', years: 'XI əsr', era: 'golden', branch: 'arabic' },
