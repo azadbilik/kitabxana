@@ -342,7 +342,6 @@ export const MISSING: Missing[] = [
   { name: 'Adil Babayev', years: '1925–1977', era: 'soviet', branch: 'poetry' },
   { name: 'Cabbar Məcnunbəyov', years: '1912–1967', era: 'soviet', branch: 'prose' },
   { name: 'Süleyman Vəliyev', years: '1916–1996', era: 'soviet', branch: 'prose' },
-  { name: 'Manaf Süleymanov', years: '1912–2001', era: 'soviet', branch: 'prose' },
   { name: 'Səttar Axundov', years: '1914–1994', era: 'soviet', branch: 'prose' },
   { name: 'Seyfəddin Dağlı', years: '1921–1983', era: 'soviet', branch: 'prose' },
   { name: 'Ələviyyə Babayeva', years: '1921–2014', era: 'soviet', branch: 'prose' },
