@@ -38,3 +38,65 @@ ləzzətinə dözmədi,
 Və...
 bu gözlər gördülər ki,
 Allah göydən düşüb,
+
+ayı oraq kimi
+alıb əlinə,
+biçir zəmini.
+Sonra qulaqlar oyandılar,
+Eşitdilər
+orağın
+sünbül qarışıq kəsib tökdüyü
+səsləri.
+Sonra İbrahimin anası
+bütün bədənini
+dartıb çıxartdı
+yuxunun içindən.
+(Qolları onsuz da oyaqdı!)
+Qollarına dirsəklənib
+ayağa qalxdı.
+Səslədi yatanları.
+O biri qadınların
+əvvəl qulaqları oyandı,
+sonra gözləri.
+Sonra bütün bədənlərini
+dartıb çıxartdılar
+yuxunun içindən.
+Bir təhər,
+yuxusuz qollarına
+dirsəklənib qalxdılar.
+
+Təkcə Həlimə qalxa bilmədi.
+Beş aydı ki, hamiləydi.
+Bütün bədənini
+dartıb çıxartdı
+yuxunun içindən -
+bətnindəki körpədən savayı.
+
+Bətnindəki körpəni
+qoyub yuxuda,
+qollarına dirsəklənib
+qalxmaq istəyirdi ki...
+
+Gördü
+qolları da təzəcə yatıb.
+Sıznaq-sıznaq,
+didim-didim olan
+yorğun qolları.
+Bətnindəki körpəni
+oyadardı,
+Qollarını oyatmağa
+qıymadı.
+
+Qollarını
+iki ekiz körpə kimi
+qoydu dizlərinin üstünə,
+Başladı
+qollarına layla çalmağa.
+
+…Qadınlar
+düşdülər Allahın arxasınca.
+Allah zəmini biçirdi,
+Qadınlar
+dərz bağlayırdılar.
+
+(povest və hekayələr)

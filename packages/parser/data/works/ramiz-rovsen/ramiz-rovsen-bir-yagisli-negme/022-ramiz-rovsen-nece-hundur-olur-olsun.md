@@ -18,7 +18,7 @@ heç olmasa bircə pişik keçməyən
 hasar yoxdu.
 Bütün hasarlardan keçir pişiklər,
 bu dünyada heç kəs bilmir
-pİŞiklərin bildiyini...
+pişiklərin bildiyini...
 
 ...Hasarı hündür, qapısı hündür,
 Bu həyət kimindir? Bu ev kimindir?

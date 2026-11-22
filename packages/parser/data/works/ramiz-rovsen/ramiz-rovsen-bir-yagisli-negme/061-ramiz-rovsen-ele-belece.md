@@ -54,7 +54,7 @@ Mən də sevə-sevə aldadacağam.
 Gecə də yeriyər üzü günəşə,
 Heç xəbər tutmaram haçan səhərdi.
 Əvvəl darıxaram -
-nahaq gəlmİŞəm,
+nahaq gəlmişəm,
 Sonra sevinərəm -
 yaxşı ki gəldim.
 

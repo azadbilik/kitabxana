@@ -41,7 +41,7 @@ nə gözünü silmişəm,
 Gözlərimə batır indi
 saçlarının hər dəni.
 İllər boyu
-bu qadına mən axı dərd vermİŞəm,
+bu qadına mən axı dərd vermişəm,
 İndi görən niyə çəkir dərdimi?!
 
 Bu qadın

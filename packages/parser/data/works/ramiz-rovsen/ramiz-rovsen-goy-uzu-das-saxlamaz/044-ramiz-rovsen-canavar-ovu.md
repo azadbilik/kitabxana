@@ -279,11 +279,11 @@ Bayaq bu uşaq o quzunu həyətdən çıxaranda evdə heç kim xəbər tutmamı�
 
 – Canavar quzunu...
 
-Amma sözünü bitirə bilmədi, yenə ağlamağa başladı. Əjdər kİŞi tez girdi evə, divardan asdığı qoşalülə tüfəngini götürdü, cumdu bulağa sərt.
+Amma sözünü bitirə bilmədi, yenə ağlamağa başladı. Əjdər kişi tez girdi evə, divardan asdığı qoşalülə tüfəngini götürdü, cumdu bulağa sərt.
 
-Bulağın yan-yörəsindəki daşların üstündə qan ləkəsi vardı. Quzunun boynundakı lent də qopub yerə düşmüşdü. O qırmızı lent Əjdər kİŞinin balaca qızının idi. O lenti görəndə Əjdər kİŞi yaman pərt oldu; elə bil canavar quzunu yox, onun doğma qızını qaçırtmışdı.
+Bulağın yan-yörəsindəki daşların üstündə qan ləkəsi vardı. Quzunun boynundakı lent də qopub yerə düşmüşdü. O qırmızı lent Əjdər kişinin balaca qızının idi. O lenti görəndə Əjdər kişi yaman pərt oldu; elə bil canavar quzunu yox, onun doğma qızını qaçırtmışdı.
 
-Əjdər kİŞi üzünü uzaqda görünən meşəyə sarı tutub var səsiylə qışqırdı:
+Əjdər kişi üzünü uzaqda görünən meşəyə sarı tutub var səsiylə qışqırdı:
 
 – Oğğraaşş!...
 
@@ -293,9 +293,9 @@ O yalquzaq qaça-qaça meşəyə çataçatdaydı. Güllə səsini eşidib dayand
 
 – Uuuuu!...
 
-Əjdər kİŞi uzaqdan-uzağa o yalquzağın səsini eşitdi. O səsdə bir qəribə hədə vardı; Əjdər kİŞinin özünə də, tüfənginə, gülləsinə də...
+Əjdər kişi uzaqdan-uzağa o yalquzağın səsini eşitdi. O səsdə bir qəribə hədə vardı; Əjdər kişinin özünə də, tüfənginə, gülləsinə də...
 
-Və Əjdər kİŞi başa düşdü ki, o yalquzaq bu tərəflərə bir də gələcək. Mütləq gələcək!
+Və Əjdər kişi başa düşdü ki, o yalquzaq bu tərəflərə bir də gələcək. Mütləq gələcək!
 
 Evə qayıdan kimi tüfəngi doldurub divardan asdı və arxayınca yerinə girib vatdı...
 

@@ -31,7 +31,7 @@ Təlimi qaldırıb alnına baxdı.
 Tanıya bilmədi deyəsən məni,
 Çevrildi, atama-anama baxdı.
 
-Bir bala vermİŞdim, dedi, mən sizə,
+Bir bala vermişdim, dedi, mən sizə,
 Hanı, a zalımlar, o balam hanı?
 Bu mənim balama oxşamır nəsə,
 Nə kökə salmısız mənim balamı?!.
