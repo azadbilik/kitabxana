@@ -1,0 +1,23 @@
+---
+slug: vaqif-aslan-gelir
+sourceId: turuz-vaqif-aslan-secilmis-eserleri-1-t459
+titleAz: Gəlir
+authorSlug: vaqif-aslan
+collectionSlug: vaqif-aslan-qanimdan-reng-alan-gul
+originalLang: AZ_LATIN
+scriptDirection: LTR
+genre: POEM
+order: 213
+sourceNote: >-
+  https://turuz.com/storage/shiir-2018/1552-1-Vaqif_Aslan-Sechilmish_Eserleri-1-Baki-2009-746s.pdf#page=445
+status: DRAFT
+---
+Ölülər dirilərə gülür,
+Dəlilər vəlilərə.
+Baxıb gülməlilərə
+Bişmiş toyuğun da
+gülməyi gəlir.
+Gülməkdən ötrü
+Adamın lap ölməyi gəlir.
+
+*16.03.2003*
