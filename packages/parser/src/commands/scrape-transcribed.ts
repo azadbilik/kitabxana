@@ -39,6 +39,8 @@ export interface TranscribedBook {
   kitabxana?: { id: number; pdf: string };
   /** Or an e-book of the Presidential Library (preslib.az/az/elibrary/ebook/<id>), downloaded by hand */
   preslib?: string;
+  /** Or a scan on turuz.com: its path under /storage/ (e.g. "shiir-2018/1467-….pdf"); "@@ NNN" is then the PDF page. Kept as ~/kitabxana-scans/turuz-<leading number>.pdf */
+  turuz?: string;
   /** An anthology several authors share: their works' sourceIds take this stem instead (e.g. "halle-35518-koroglu") */
   sourceKey?: string;
   sections: TranscribedSection[];
@@ -48,12 +50,14 @@ export interface TranscribedBook {
 
 const readerUrl = (book: TranscribedBook, page: number) =>
   book.preslib ? `https://www.preslib.az/az/elibrary/ebook/${book.preslib}`
+    : book.turuz ? `https://turuz.com/storage/${book.turuz}#page=${page}`
+    : book.turuz ? `https://turuz.com/storage/${book.turuz}#page=${page}`
     : book.kitabxana ? `https://www.kitabxana.net/files/books/file/${book.kitabxana.pdf}#page=${page}`
     : book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}`
       : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
 /** The stem of the book's works' sourceIds */
 const sourceKey = (book: TranscribedBook) =>
-  book.sourceKey ?? (book.preslib ? `preslib-${book.preslib}` : book.kitabxana ? `kxn-${book.kitabxana.id}` : book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
+  book.sourceKey ?? (book.preslib ? `preslib-${book.preslib}` : book.turuz ? `turuz-${book.turuz.match(/\/(\d+(?:-\d+)?)-/)?.[1] ?? book.turuz}` : book.kitabxana ? `kxn-${book.kitabxana.id}` : book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
 /** A novel cut at its part headings («### Proloq», «### Birinci hissə», «### Epiloq»); text before the first is the novel's opening */
