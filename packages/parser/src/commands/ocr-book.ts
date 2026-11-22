@@ -41,7 +41,7 @@ function ensureModel(lang: string) {
 
 let CYRILLIC = false;
 let FREQ = new Map<string, number>();
-const KNOWN = 3;
+export const KNOWN = 3;
 const CYR: Record<string, string> = {
   а: 'a', б: 'bh', в: 'vhğ', г: 'qğ', д: 'd', е: 'eö', ё: 'ö', ж: 'j', з: 'z', и: 'i', й: 'y', к: 'kg', л: 'l',
   м: 'm', н: 'n', о: 'oö', п: 'p', р: 'r', с: 's', т: 't', у: 'uü', ф: 'f', х: 'x', ц: 'c', ч: 'çc', ш: 'ş',
@@ -234,7 +234,7 @@ function ocrPage(file: string, lang: string, wholeSpread: boolean): Page {
 }
 
 /** Word frequencies from the Azerbaijani texts already on the site: the dictionary OCR slips are checked against */
-function loadWordlist(exclude?: string): Map<string, number> {
+export function loadWordlist(exclude?: string): Map<string, number> {
   const freq = new Map<string, number>();
   const walk = (dir: string) => {
     for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
