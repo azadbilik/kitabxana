@@ -242,7 +242,6 @@ export const MISSING: Missing[] = [
   { name: 'Əbülhəsən', years: '1906–1986', era: 'soviet', branch: 'prose' },
   { name: 'Qılman İlkin', years: '1914–2004', era: 'soviet', branch: 'prose' },
   { name: 'Aşıq Şəmşir', years: '1893–1980', era: 'soviet', branch: 'asiq' },
-  { name: 'Teymur Elçin', years: '1924–1992', era: 'soviet', branch: 'children' },
   // emigration
   { name: 'Ceyhun Hacıbəyli', years: '1891–1962', era: 'emigration', branch: 'prose' },
   { name: 'Banin (Ümmülbanu)', years: '1905–1992', era: 'emigration', branch: 'prose', note: '«Jours caucasiens»' },
