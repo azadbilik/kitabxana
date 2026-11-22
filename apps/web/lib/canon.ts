@@ -162,6 +162,7 @@ export const PLACE: Record<string, { era?: EraKey; branch?: BranchKey }> = {
   mesihi: { branch: 'masnavi' },
   'mir-mehdi-xezani': { branch: 'chronicles' },
   'mirze-bala-memmedzade': { era: 'emigration' },
+  'qurban-seid': { era: 'emigration', branch: 'prose' },
   'mirze-baxis-nadim': { era: 'enlightenment', branch: 'satire' },
   'nusret-kesemenli': { era: 'thaw' },
   'qul-qarani': { branch: 'asiq' },
