@@ -667,7 +667,17 @@
     "suggest_btn": "Mənbə təklif et",
     "offer_for": "{name}: mənbə təklif et",
     "footnote": "Saytda olan müəlliflər avtomatik yerləşdirilir; olmayanların siyahısı redaksiya seçimidir, tam biblioqrafiya deyil. İlk dövrlərin tarixləri təxminidir.",
-    "no_texts": "mətnlər hələ yoxdur"
+    "no_texts": "mətnlər hələ yoxdur",
+    "threads_title": "Əsrlərdən keçən xətlər",
+    "threads_lead": "Bir mövzu, bir söhbət, bir ad: əsərdən əsərə, əsrdən əsrə. Xətti seçin, ağacda onun müəllifləri işarələnəcək.",
+    "threads_walked": "{total} xətdən {n} xətti sona qədər oxumusunuz",
+    "thread_progress": "Bu xətdən {total} əsərdən {n} əsəri oxumusunuz.",
+    "thread_done": "Bu xətti sona qədər oxumusunuz.",
+    "thread_guest": "Daxil olsanız, oxuduğunuz əsərlər xətt üzərində rənglənəcək.",
+    "thread_in_tree": "Xəttin müəllifləri aşağıdakı ağacda qırmızı haşiyə ilə göstərilib.",
+    "stop_done": "oxunub",
+    "stop_reading": "oxunur",
+    "leaf_on_thread": "seçilmiş xətdə"
   },
   "labels": {
     "lang": {

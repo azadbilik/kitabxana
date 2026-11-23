@@ -45,6 +45,15 @@ export class WorksController {
     return this.works.findById(id);
   }
 
+  /** Titles and ids of a few works and books by slug, for the threads on the literature tree (/agac) */
+  @Public()
+  @PublicCache()
+  @Get('brief')
+  brief(@Query('works') works?: string, @Query('books') books?: string) {
+    const list = (s?: string) => (s ?? '').split(',').map((x) => x.trim()).filter(Boolean).slice(0, 200);
+    return this.works.brief(list(works), list(books));
+  }
+
   @Public()
   @Header('Cache-Control', 'no-store')
   @Get('random')

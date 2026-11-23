@@ -3,7 +3,9 @@ import { getTranslations } from 'next-intl/server';
 import { pageMetadata } from '@/lib/seo';
 import { api } from '@/lib/api';
 import { BRANCH_ORDER, ERAS, GAPS, MISSING, floruit, placeAuthor, type TreeAuthor } from '@/lib/canon';
+import { THREADS } from '@/lib/threads';
 import { LiteratureTree, type TreeEra, type Leaf } from '@/components/tree/LiteratureTree';
+import type { TreeThread } from '@/components/tree/Threads';
 import '@/styles/tree.css';
 
 export const revalidate = 600;
@@ -25,6 +27,16 @@ function lifeYears(a: TreeAuthor, l: 'az' | 'ru' | 'en') {
   return '';
 }
 
+const ROMAN_N: Record<string, number> = { XII: 12, XIII: 13, XIV: 14, XV: 15, XVI: 16, XVII: 17, XVIII: 18, XIX: 19, XX: 20 };
+
+/** A thread stop's date: its year, or roughly («XIV əsr», «~1920») where `when` says so */
+function whenLabel(s: { year: number; when?: string }, l: 'az' | 'ru' | 'en') {
+  if (!s.when) return String(s.year);
+  const n = ROMAN_N[s.when];
+  if (n) return l === 'az' ? `${s.when} əsr` : l === 'ru' ? `${s.when} в.` : `${n}th c.`;
+  return `~${s.when}`;
+}
+
 /** First four-digit year in "1098–1159", "d. 1938", "XIV əsr" → sort key */
 function sortYear(years: string | undefined): number {
   const y = years?.match(/\d{3,4}/);
@@ -42,6 +54,11 @@ export default async function TreePage({ params }: { params: Promise<{ locale: s
   const l = lang(locale);
   const t = await getTranslations({ locale, namespace: 'tree' });
   const authors = await api.getAuthorTree();
+  const stops = THREADS.flatMap((th) => th.stops);
+  const brief = await api.getBrief(
+    stops.flatMap((s) => (s.work ? [s.work] : [])),
+    stops.flatMap((s) => (s.book ? [s.book] : [])),
+  ).catch(() => ({ works: [], books: [] }));
 
   const buckets = new Map<string, Map<string, Leaf[]>>();
   const put = (era: string, branch: string, leaf: Leaf) => {
@@ -74,9 +91,34 @@ export default async function TreePage({ params }: { params: Promise<{ locale: s
     };
   });
 
+  // A thread keeps the stops the site publishes, and is shown with three or more
+  const works = new Map(brief.works.map((w) => [w.slug, w]));
+  const books = new Map(brief.books.map((b) => [b.slug, b]));
+  const threads: TreeThread[] = THREADS.map((th) => ({
+    key: th.key,
+    title: th.title[l],
+    gist: th.gist[l],
+    stops: th.stops.flatMap((s) => {
+      const item = s.work ? works.get(s.work) : s.book ? books.get(s.book) : undefined;
+      if (!item) return [];
+      const a = item.author;
+      return [{
+        id: item.id,
+        kind: s.work ? ('work' as const) : ('book' as const),
+        href: s.work ? `/works/${item.slug}` : `/collections/${item.slug}`,
+        title: (l === 'ru' && item.titleRu) || (l === 'en' && item.titleEn) || item.titleAz,
+        author: a ? (l === 'ru' && a.nameRu) || (l === 'en' && a.nameEn) || a.nameAz : '',
+        authorSlug: a?.slug ?? '',
+        year: s.year,
+        when: whenLabel(s, l),
+        note: s.note?.[l],
+      }];
+    }),
+  })).filter((th) => th.stops.length >= 3);
+
   return (
     <div className="container page-content tree-page">
-      <LiteratureTree eras={eras} />
+      <LiteratureTree eras={eras} threads={threads} />
       <p className="tree-foot">{t('footnote')}</p>
     </div>
   );

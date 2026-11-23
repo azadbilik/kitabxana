@@ -329,6 +329,27 @@ export class WorksService implements OnApplicationShutdown {
   }
 
   /** Current slug for a work's current or previous slug, so old URLs can redirect. */
+  /** Published works and books among these slugs: id, titles and author, nothing heavy */
+  async brief(workSlugs: string[], bookSlugs: string[]) {
+    const author = { select: { slug: true, nameAz: true, nameRu: true, nameEn: true } };
+    const titles = { titleAz: true, titleRu: true, titleEn: true } as const;
+    const [works, books] = await Promise.all([
+      workSlugs.length
+        ? this.prisma.work.findMany({
+            where: { ...VISIBLE_WORK, slug: { in: workSlugs } },
+            select: { id: true, slug: true, ...titles, author },
+          })
+        : [],
+      bookSlugs.length
+        ? this.prisma.collection.findMany({
+            where: { status: 'PUBLISHED', author: { status: 'PUBLISHED' }, slug: { in: bookSlugs } },
+            select: { id: true, slug: true, ...titles, author },
+          })
+        : [],
+    ]);
+    return { works, books };
+  }
+
   async resolveSlug(slug: string) {
     const work = await this.prisma.work.findFirst({
       where: { ...VISIBLE_WORK, OR: [{ slug }, { previousSlugs: { has: slug } }] },

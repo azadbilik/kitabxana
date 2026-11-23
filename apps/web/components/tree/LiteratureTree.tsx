@@ -7,6 +7,8 @@ import { useAccount } from '@/components/account/AccountProvider';
 import { accountFetch } from '@/lib/account';
 import { localePath } from '@/lib/i18n';
 import { BRANCHES, type BranchKey } from '@/lib/canon';
+import { useLoadMarks } from '@/lib/library';
+import { Threads, threadIds, type TreeThread } from './Threads';
 
 export type Leaf =
   | { kind: 'author'; id: string; slug: string; name: string; years: string; works: number; gap?: string; sort: number }
@@ -63,7 +65,7 @@ function Offer({ href, name }: { href: string; name: string }) {
   );
 }
 
-export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
+export function LiteratureTree({ eras, threads }: { eras: TreeEra[]; threads: TreeThread[] }) {
   const t = useTranslations('tree');
   const ta = useTranslations('authors');
   const locale = useLocale();
@@ -72,6 +74,28 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
   const [progress, setProgress] = useState<Progress | null>(null);
   const [filter, setFilter] = useState<Filter>('all');
   const [open, setOpen] = useState<Record<string, boolean>>({});
+  // The first thread opens by default; #thread-<key> opens another
+  const [thread, setThread] = useState<string | null>(threads[0]?.key ?? null);
+  useLoadMarks(status === 'signed-in', useMemo(() => threadIds(threads), [threads]));
+
+  useEffect(() => {
+    const fromHash = () => {
+      const m = window.location.hash.match(/^#thread-(.+)$/);
+      if (m && threads.some((th) => th.key === m[1])) setThread(m[1]);
+    };
+    fromHash();
+    window.addEventListener('hashchange', fromHash);
+    return () => window.removeEventListener('hashchange', fromHash);
+  }, [threads]);
+
+  const pickThread = (key: string | null) => {
+    setThread(key);
+    history.replaceState(null, '', key ? `#thread-${key}` : window.location.pathname + window.location.search);
+  };
+  const onThread = useMemo(
+    () => new Set(threads.find((th) => th.key === thread)?.stops.map((s) => s.authorSlug) ?? []),
+    [threads, thread],
+  );
 
   useEffect(() => {
     if (status !== 'signed-in') {
@@ -175,6 +199,8 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
       </nav>
       <p className="tree-rings-note">{me ? t('rings_me') : t('rings_guest')}</p>
 
+      {threads.length > 0 && <Threads threads={threads} active={thread} onSelect={pickThread} signedIn={status === 'signed-in'} />}
+
       <div className="tree-filters" role="group" aria-label={t('filter_label')}>
         {filters.map((f) => (
           <button key={f} type="button" className={filter === f ? 'pill active' : 'pill'} aria-pressed={filter === f} onClick={() => setFilter(f)}>
@@ -215,10 +241,11 @@ export function LiteratureTree({ eras }: { eras: TreeEra[] }) {
                       <h3>{BRANCHES[b.key][lang]}</h3>
                       <ul className="tree-leaves">
                         {leaves.map((l) => l.kind === 'author' ? (
-                          <li key={l.id} className={`leaf${l.gap ? ' leaf--gap' : ''}${l.works ? '' : ' leaf--empty'}`}>
+                          <li key={l.id} className={`leaf${l.gap ? ' leaf--gap' : ''}${l.works ? '' : ' leaf--empty'}${onThread.has(l.slug) ? ' leaf--thread' : ''}`}>
                             <Link prefetch={false} href={localePath(locale, `/authors/${l.slug}`)} className="leaf-link">
                               {l.works ? <Ring part={share(Math.min(progress?.[l.id]?.done ?? 0, l.works), l.works)} /> : <span className="leaf-ghost" aria-hidden="true" />}
                               <span className="leaf-name">{l.name}</span>
+                              {onThread.has(l.slug) && <span className="sr-only">{t('leaf_on_thread')}</span>}
                               {l.years && <span className="leaf-years">{l.years}</span>}
                               <span className="leaf-count">
                                 {!l.works ? t('no_texts') : me && progress?.[l.id]?.done ? `${fmt(Math.min(progress[l.id].done, l.works))}/${fmt(l.works)}` : (

@@ -15,6 +15,16 @@ export function downloadUrl(path: string, format: 'epub' | 'txt') {
 }
 
 /** A scanned source book (PDF) served by the API, see ScansService */
+/** A work or book as the tree's threads show it */
+export interface BriefItem {
+  id: string;
+  slug: string;
+  titleAz: string;
+  titleRu: string | null;
+  titleEn: string | null;
+  author: { slug: string; nameAz: string; nameRu: string | null; nameEn: string | null } | null;
+}
+
 export interface Scan {
   key: string;
   bytes: number;
@@ -136,6 +146,10 @@ export const api = {
   /** Poet of the week, picked so everything shown is in the reader's language */
   /** Every published author with a work count, for the literature tree */
   getAuthorTree: () => sharedGet<TreeAuthor[]>('/authors/tree', 10 * MINUTE),
+  /** Ids and titles of the works and books the tree's threads stop at */
+  getBrief: (works: string[], books: string[]) =>
+    sharedGet<{ works: BriefItem[]; books: BriefItem[] }>(
+      `/works/brief?works=${encodeURIComponent(works.join(','))}&books=${encodeURIComponent(books.join(','))}`, 10 * MINUTE),
   getFeaturedAuthor: (locale: string) => sharedGet<any>(`/authors/featured?lang=${locale}`, 10 * MINUTE),
 
   // Collections (the site's "books")

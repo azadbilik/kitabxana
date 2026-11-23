@@ -667,7 +667,17 @@
     "suggest_btn": "Suggest a source",
     "offer_for": "Suggest a source for {name}",
     "footnote": "Authors on the site are placed automatically; the list of missing ones is an editorial selection, not a full bibliography. Dates for the early eras are approximate.",
-    "no_texts": "no texts yet"
+    "no_texts": "no texts yet",
+    "threads_title": "Threads through the centuries",
+    "threads_lead": "One subject, one conversation, one name, followed from work to work and century to century. Pick a thread and its authors are marked on the tree.",
+    "threads_walked": "Threads read to the end: {n} of {total}",
+    "thread_progress": "You have read {n} of the {total} works on this thread.",
+    "thread_done": "You have read this thread to the end.",
+    "thread_guest": "Sign in and what you read is filled in along the thread.",
+    "thread_in_tree": "Its authors are outlined in red on the tree below.",
+    "stop_done": "read",
+    "stop_reading": "reading",
+    "leaf_on_thread": "on the selected thread"
   },
   "labels": {
     "lang": {
