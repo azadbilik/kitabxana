@@ -138,6 +138,7 @@ Under Azerbaijani law (life + 70) these are still in copyright, whatever the sit
 - [ ] Editors' transliterations: omarfaig.info (Nemanzadə), Sanal-Kitap (Bürhanəddin)
 
 ## Later
+- [ ] Redo the threads on /agac («Əsrlərdən keçən əsərlər») from scratch. The 2026-11-23 version (a map of lanes over the eras plus cards fanned along the axis, `components/tree/Threads.tsx`) is a stopgap, not the goal. The goal is something like technohistogram.pplx.app: the whole history in one striking picture, threads drawn through the tree itself rather than in a box above it, more threads (and authors linked by teacher/pupil, nəzirə, circles, translation), and a guided first walk through ~8 landmark works
 - [ ] Browser extension — poem of the day on the new-tab page, plus a "random poem" button
 - [ ] Mobile app (React Native / Expo) — reading, offline favourites, daily poem notification
 - [ ] Home-screen widget (iOS / Android) showing the poem of the day
