@@ -362,7 +362,6 @@ export const MISSING: Missing[] = [
   { name: 'Sabir Azəri', years: '', era: 'thaw', branch: 'prose' },
   { name: 'Əjdər Ağayev', years: '1937–2018', era: 'thaw', branch: 'poetry' },
   { name: 'Hüseyn Kürdoğlu', years: '1934–2003', era: 'thaw', branch: 'poetry' },
-  { name: 'Məmməd Aslan', years: '1939–2015', era: 'thaw', branch: 'poetry' },
   { name: 'Famil Mehdi', years: '1934–2003', era: 'thaw', branch: 'poetry' },
   { name: 'Tofiq Mütəllibov', years: '1929–1992', era: 'thaw', branch: 'poetry' },
   { name: 'Ələkbər Salahzadə', years: '1941–2013', era: 'thaw', branch: 'poetry' },
