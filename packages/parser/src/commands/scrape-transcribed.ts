@@ -41,6 +41,10 @@ export interface TranscribedBook {
   preslib?: string;
   /** Or a scan on turuz.com: its path under /storage/ (e.g. "shiir-2018/1467-….pdf"); "@@ NNN" is then the PDF page. Kept as ~/kitabxana-scans/turuz-<leading number>.pdf */
   turuz?: string;
+  /** Or an archive.org item: its identifier; "@@ NNN" is then the page of its scan */
+  archive?: string;
+  /** Or a web text with no scan (a wikisource page, a site's own PDF): the sourceId stem and the page it came from */
+  web?: { key: string; url: string };
   /** An anthology several authors share: their works' sourceIds take this stem instead (e.g. "halle-35518-koroglu") */
   sourceKey?: string;
   sections: TranscribedSection[];
@@ -52,11 +56,13 @@ const readerUrl = (book: TranscribedBook, page: number) =>
   book.preslib ? `https://www.preslib.az/az/elibrary/ebook/${book.preslib}`
     : book.turuz ? `https://turuz.com/storage/${book.turuz}#page=${page}`
     : book.kitabxana ? (book.kitabxana.pdf ? `https://www.kitabxana.net/files/books/file/${book.kitabxana.pdf}#page=${page}` : `https://www.kitabxana.net/book.php?id=${book.kitabxana.id}`)
+    : book.archive ? `https://archive.org/details/${book.archive}/page/n${page - 1}`
+    : book.web ? book.web.url
     : book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}`
       : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
 /** The stem of the book's works' sourceIds */
 const sourceKey = (book: TranscribedBook) =>
-  book.sourceKey ?? (book.preslib ? `preslib-${book.preslib}` : book.turuz ? `turuz-${book.turuz.match(/\/(\d+(?:-\d+)?)-/)?.[1] ?? book.turuz}` : book.kitabxana ? `kxn-${book.kitabxana.id}` : book.halle ? `halle-${book.halle}` : `anl-${book.bibid}`);
+  book.sourceKey ?? (book.preslib ? `preslib-${book.preslib}` : book.turuz ? `turuz-${book.turuz.match(/\/(\d+(?:-\d+)?)-/)?.[1] ?? book.turuz}` : book.kitabxana ? `kxn-${book.kitabxana.id}` : book.halle ? `halle-${book.halle}` : book.archive ? `archive-${book.archive}` : book.web ? book.web.key : `anl-${book.bibid}`);
 
 /** The book's works in order: title, the spread it starts on, and its Markdown */
 /** A novel cut at its part headings («### Proloq», «### Birinci hissə», «### Epiloq»); text before the first is the novel's opening */

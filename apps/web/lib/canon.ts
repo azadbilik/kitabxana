@@ -161,6 +161,9 @@ export const PLACE: Record<string, { era?: EraKey; branch?: BranchKey }> = {
   'natiq-resulzade': { era: 'independence' },
   'maqsud-ibrahimbeyov': { era: 'thaw', branch: 'russian' },
   'zahid-xelil': { era: 'thaw', branch: 'children' },
+  'mirze-adigozel-bey': { era: 'khanates', branch: 'chronicles' },
+  'murtezaqulu-xan-samli': { era: 'safavid', branch: 'poetry' },
+  'abdulla-bey-asi': { era: 'enlightenment', branch: 'poetry' },
   'semed-behrengi': { era: 'south', branch: 'children' },
   'eli-razi-semcizade': { era: 'mollanasreddin', branch: 'satire' },
   fezli: { branch: 'masnavi' },
@@ -230,7 +233,6 @@ export const MISSING: Missing[] = [
   { name: 'Tərzi Əfşar', years: 'XVII əsr', era: 'safavid', branch: 'poetry' },
   { name: 'Sultan Məhəmməd', years: 'XVI əsr', era: 'safavid', branch: 'poetry' },
   // khanates
-  { name: 'Mirzə Adıgözəl bəy', years: '1780–1848', era: 'khanates', branch: 'chronicles', note: '«Qarabağnamə»' },
   { name: 'Məhcur Şirvani', years: 'XVIII əsr', era: 'khanates', branch: 'poetry' },
   // enlightenment
   { name: 'Həsən bəy Zərdabi', years: '1842–1907', era: 'enlightenment', branch: 'prose', note: '«Əkinçi»' },
@@ -285,7 +287,6 @@ export const MISSING: Missing[] = [
   { name: 'Yusif ibn Məhəmmədcan Qarabaği', years: '1532–1591', era: 'safavid', branch: 'persian', note: '«Həft cinan»' },
   { name: 'İbrahim mirzə Cahi', years: '1540–1577', era: 'safavid', branch: 'poetry', note: 'Cami «Həft övrəng» əlyazması' },
   { name: 'Rəhməti Təbrizi', years: 'ö. 1616', era: 'safavid', branch: 'persian' },
-  { name: 'Mürtəzaqulu xan Şamlı', years: '1591–1649', era: 'safavid', branch: 'poetry', note: '«Zəfər» divanı' },
   { name: 'Kövsəri', years: 'XVI–XVII əsr', era: 'safavid', branch: 'masnavi', note: '«Şirin və Fərhad»' },
   { name: 'Yusif xan', years: 'ö. 1625', era: 'safavid', branch: 'poetry' },
   { name: 'Aşıq Abdulla', years: 'XVII əsr', era: 'safavid', branch: 'asiq', note: '«Cahan və Abdulla»' },
@@ -306,7 +307,6 @@ export const MISSING: Missing[] = [
   { name: 'Məşədi Mahmud bəy Vəzirov', years: '1839–1902', era: 'enlightenment', branch: 'poetry', note: '«Məclisi-üns»' },
   { name: 'Mir Həsən Ağa Mir', years: '', era: 'enlightenment', branch: 'poetry' },
   { name: 'Abdulla bəy Vəlizadə', years: '1841–1912', era: 'enlightenment', branch: 'poetry', note: '«Məclisi-fəramuşan»' },
-  { name: 'Abdulla bəy Asi', years: '1841–1874', era: 'enlightenment', branch: 'poetry', note: '«Məclisi-fəramuşan»' },
   { name: 'Qafar Rağib', years: '1818–1891', era: 'enlightenment', branch: 'poetry', note: '«Beytüs-səfa»' },
   { name: 'Ələkbər Qafil', years: '1818–1891', era: 'enlightenment', branch: 'poetry', note: '«Beytüs-səfa»' },
   { name: 'Molla Mahmud Zuyi', years: 'd. 1843', era: 'enlightenment', branch: 'poetry', note: '«Beytüs-səfa»' },
