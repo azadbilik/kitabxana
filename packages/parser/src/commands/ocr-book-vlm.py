@@ -1,10 +1,12 @@
 """Transcribe page images with a local vision model (mlx-vlm), for `ocr-book --engine vlm`.
 
 usage: ocr-book-vlm.py <model> <lang> <out.json> <page image>...
-Writes {"<image>": "<text>"} as JSON. Loads the model once; prints progress to stderr.
+Writes {"<image>": "<text>"} as JSON after every page; if <out.json> already holds pages (a stopped run),
+those are kept and not read again. Loads the model once; prints progress to stderr.
 Near-blank pages (only show-through from the other side) are skipped: the model invents text on them.
 """
 import json
+import os
 import sys
 import time
 
@@ -63,10 +65,24 @@ def looped(text: str) -> bool:
 model, processor = load(model_id)
 config = load_config(model_id)
 prompt = apply_chat_template(processor, config, PROMPTS[lang], num_images=1)
+done = {}
+if os.path.exists(out):
+    done = {os.path.basename(k): v for k, v in json.load(open(out, encoding="utf-8")).items()}
 result = {}
+
+
+def save() -> None:
+    json.dump(result, open(out + ".tmp", "w", encoding="utf-8"), ensure_ascii=False)
+    os.replace(out + ".tmp", out)
+
+
 for i, path in enumerate(images, 1):
+    if os.path.basename(path) in done:
+        result[path] = done[os.path.basename(path)]
+        continue
     if blank(path):
         result[path] = ""
+        save()
         print(f"  page {i}/{len(images)} blank", file=sys.stderr, flush=True)
         continue
     t0 = time.time()
@@ -76,4 +92,5 @@ for i, path in enumerate(images, 1):
         text = "[VLM LOOPED – check this page]"
     result[path] = text
     print(f"  page {i}/{len(images)} {time.time() - t0:.0f}s", file=sys.stderr, flush=True)
-json.dump(result, open(out, "w", encoding="utf-8"), ensure_ascii=False)
+    save()
+save()

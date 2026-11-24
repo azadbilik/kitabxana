@@ -531,10 +531,10 @@ function vlmLayOut(pages: string[], spread: number, footnotes: string[], freq: M
   return blocks.map((b) => (b.startsWith('#') && (b.length > 80 || /^#+\s*\p{Ll}/u.test(b) || b.split(/\s+/).length > 9) ? b.replace(/^#+\s*/, '') : b).replace(/^#\s*/, '# ').replace(/^[-—]\s/gm, '– '));
 }
 
-/** The model's raw pages are kept in <draft>.vlm.json; a re-run over the same pages reuses them */
+/** The model's raw pages are kept in <draft>.vlm.json; a re-run over the same pages reuses them, and a stopped run resumes from <draft>.vlm.json.partial */
 function runVlm(images: string[], lang: string, model: string, tmp: string, cache?: string): Record<string, string> {
   if (!fs.existsSync(VLM_PYTHON)) throw new Error(`No Python with mlx-vlm at ${VLM_PYTHON} (set OCR_VLM_PYTHON); see the ocr-book --engine vlm setup in CLAUDE.md`);
-  const out = path.join(tmp, 'vlm.json');
+  const out = cache ? `${cache}.partial` : path.join(tmp, 'vlm.json');
   if (cache && fs.existsSync(cache)) {
     const cached: Record<string, string> = JSON.parse(fs.readFileSync(cache, 'utf-8'));
     const byName = new Map(Object.entries(cached).map(([k, v]) => [path.basename(k), v]));
@@ -543,7 +543,10 @@ function runVlm(images: string[], lang: string, model: string, tmp: string, cach
   const res = spawnSync(VLM_PYTHON, [path.join(__dirname, 'ocr-book-vlm.py'), model, lang, out, ...images], { stdio: ['ignore', 'inherit', 'inherit'] });
   if (res.status !== 0) throw new Error('ocr-book-vlm.py failed');
   const read: Record<string, string> = JSON.parse(fs.readFileSync(out, 'utf-8'));
-  if (cache) fs.writeFileSync(cache, JSON.stringify(Object.fromEntries(Object.entries(read).map(([k, v]) => [path.basename(k), v])), null, 1));
+  if (cache) {
+    fs.writeFileSync(cache, JSON.stringify(Object.fromEntries(Object.entries(read).map(([k, v]) => [path.basename(k), v])), null, 1));
+    fs.rmSync(out);
+  }
   return read;
 }
 
