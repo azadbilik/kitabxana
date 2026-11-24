@@ -34,9 +34,9 @@ export interface TranscribedBook {
   halle?: number;
   /**
    * Or a book of kitabxana.net (Milli Virtual Kitabxana): its book id and the PDF it serves
-   * (files/books/file/<n>.pdf, from the book page); "@@ NNN" is then the PDF page
+   * (files/books/file/<n>.pdf, from the book page); "@@ NNN" is then the PDF page. No pdf: a text the book page holds inline, linked as the page
    */
-  kitabxana?: { id: number; pdf: string };
+  kitabxana?: { id: number; pdf?: string };
   /** Or an e-book of the Presidential Library (preslib.az/az/elibrary/ebook/<id>), downloaded by hand */
   preslib?: string;
   /** Or a scan on turuz.com: its path under /storage/ (e.g. "shiir-2018/1467-….pdf"); "@@ NNN" is then the PDF page. Kept as ~/kitabxana-scans/turuz-<leading number>.pdf */
@@ -51,7 +51,7 @@ export interface TranscribedBook {
 const readerUrl = (book: TranscribedBook, page: number) =>
   book.preslib ? `https://www.preslib.az/az/elibrary/ebook/${book.preslib}`
     : book.turuz ? `https://turuz.com/storage/${book.turuz}#page=${page}`
-    : book.kitabxana ? `https://www.kitabxana.net/files/books/file/${book.kitabxana.pdf}#page=${page}`
+    : book.kitabxana ? (book.kitabxana.pdf ? `https://www.kitabxana.net/files/books/file/${book.kitabxana.pdf}#page=${page}` : `https://www.kitabxana.net/book.php?id=${book.kitabxana.id}`)
     : book.halle ? `https://opendata.uni-halle.de/handle/1981185920/${book.halle}`
       : `http://web2.anl.az:81/read/page.php?bibid=${book.bibid}&pno=${page}`;
 /** The stem of the book's works' sourceIds */

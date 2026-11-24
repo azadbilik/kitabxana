@@ -159,6 +159,8 @@ export const PLACE: Record<string, { era?: EraKey; branch?: BranchKey }> = {
   'rustem-ibrahimbeyov': { era: 'thaw' },
   'salam-qedirzade': { era: 'thaw' },
   'natiq-resulzade': { era: 'independence' },
+  'maqsud-ibrahimbeyov': { era: 'thaw', branch: 'russian' },
+  'zahid-xelil': { era: 'thaw', branch: 'children' },
   'semed-behrengi': { era: 'south', branch: 'children' },
   'eli-razi-semcizade': { era: 'mollanasreddin', branch: 'satire' },
   fezli: { branch: 'masnavi' },
@@ -253,11 +255,9 @@ export const MISSING: Missing[] = [
   { name: 'Əli Tudə', years: '', era: 'south', branch: 'poetry' },
   // thaw
   { name: 'Sabir Əhmədli', years: '1930–2009', era: 'thaw', branch: 'prose' },
-  { name: 'Maqsud İbrahimbəyov', years: '1935–2016', era: 'thaw', branch: 'russian' },
   { name: 'Çingiz Hüseynov', years: '1929–2023', era: 'thaw', branch: 'russian' },
   { name: 'Hüseyn Abbaszadə', years: '', era: 'thaw', branch: 'prose' },
   { name: 'Qəşəm Nəcəfzadə', years: '', era: 'thaw', branch: 'children' },
-  { name: 'Zahid Xəlil', years: '', era: 'thaw', branch: 'children' },
   // independence
   { name: 'Rafiq Tağı', years: '1950–2011', era: 'independence', branch: 'prose' },
   { name: 'Seymur Baycan', years: 'd. 1977', era: 'independence', branch: 'prose' },
