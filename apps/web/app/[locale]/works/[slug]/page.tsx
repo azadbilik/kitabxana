@@ -21,6 +21,7 @@ import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareMenu } from '@/components/reading/ShareMenu';
 import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
+import { storyMapStop } from '@/lib/story-maps';
 import { WorkActions } from '@/components/library/WorkActions';
 import { DownloadMenu } from '@/components/reading/DownloadBar';
 import { getTranslations } from 'next-intl/server';
@@ -252,6 +253,8 @@ export default async function WorkPage({ params, searchParams }: Props) {
   const { t, options, titleFor } = await titleHelpers(locale);
   const tTags = await getTranslations({ locale, namespace: 'tags' });
   const tGallery = await getTranslations({ locale, namespace: 'gallery' });
+  // This chapter's stop on an Azad Bilik story map (Iskandar's journeys, Khusraw and Shirin)
+  const onMap = await storyMapStop(slug, locale);
   const title = titleFor(localized(work, 'title', locale), work.form);
   const { heading, number } = headingFor(work, title);
   const authorName = localized(work.author, 'name', locale);
@@ -451,6 +454,12 @@ export default async function WorkPage({ params, searchParams }: Props) {
         pagination={pageCount > 1 && pagedHere ? { page, pages: pageCount } : null}
         minutes={minutes}
       />
+
+      {onMap && (
+        <p className="work-map">
+          <a href={onMap.href}>{tGallery('on_map', { place: onMap.place, story: onMap.story })} <span aria-hidden="true">↗</span></a>
+        </p>
+      )}
 
       {(work.artworks?.length ?? 0) > 0 && (
         <ArtworkGallery artworks={work.artworks} locale={locale} initial={4} heading={tGallery('this_passage')} />

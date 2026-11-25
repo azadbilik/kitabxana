@@ -1213,6 +1213,10 @@
 :root .author-map { margin: 0 0 0.9rem; font-size: 0.875rem; color: var(--muted); }
 :root .author-map a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.2em; transition: color 0.15s; }
 :root .author-map a:hover, :root .author-map a:focus-visible { color: var(--pomeg); }
+/* A chapter's stop on an Azad Bilik story map */
+:root .work-map { max-width: 36rem; margin: 2rem auto 0; padding: 0 1rem; font-size: 0.875rem; color: var(--muted); }
+:root .work-map a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.2em; transition: color 0.15s; }
+:root .work-map a:hover, :root .work-map a:focus-visible { color: var(--pomeg); }
 :root .author-head .author-tags { list-style: none; margin: 0 0 1.1rem; padding: 0; }
 :root .author-bio-wrap { max-width: 44rem; }
 :root .author-bio p { margin: 0 0 0.75em; }
