@@ -4,6 +4,7 @@ title: >-
   "Farhād carries Shīrīn and her horse", fol. 72b from the Khamsah-i Niẓāmī,
   Walters Ms. W.608
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-59
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

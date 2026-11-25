@@ -4,6 +4,7 @@ title: >-
   "Khusraw being told about Farhād’s love for Shīrīn", fol. 173b from the
   Kitāb-i Khamsah-i Shaykh-i Niẓāmī, Walters Ms. W.605
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-55
 objectDate: >-
   892 AH / 1486 CE; another date of 900 AH / 1494-5 CE given on fol. 446a for
   the completion of the illuminations and binding

@@ -4,6 +4,7 @@ title: >-
   "Khusraw watching Shīrīn bathing", fol. 39a from the Khamsah-i Niẓāmī, Walters
   Ms. W.604
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-25
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

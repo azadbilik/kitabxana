@@ -4,6 +4,7 @@ title: >-
   "Khusraw and Shīrīn entertained by Bārbad and Nakīsā", fol. 79b from the
   Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-80
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

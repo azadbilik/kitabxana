@@ -4,6 +4,7 @@ title: >-
   "Shīrīn commits suicide after the murder of Khusraw", fol. 110b from the
   Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-113
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

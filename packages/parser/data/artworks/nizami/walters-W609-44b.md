@@ -4,6 +4,7 @@ title: >-
   "Shīrīn admiring the portrait of Khusraw", fol. 44b from the Khamsah-i Niẓāmī,
   Walters Ms. W.609
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-20
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

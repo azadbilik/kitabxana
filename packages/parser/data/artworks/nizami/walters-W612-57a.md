@@ -4,6 +4,7 @@ title: >-
   "Khusraw kills a lion in the presence of Shīrīn", fol. 57a from the Khamsah-i
   Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-38
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

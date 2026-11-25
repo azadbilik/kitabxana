@@ -4,6 +4,7 @@ title: >-
   "Khusraw being advised by Buzurg Umīd", fol. 72b from the Khamsah-i Niẓāmī,
   Walters Ms. W.611
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-92
 objectDate: 8 Shaʿbān 1059 AH / 1649 CE
 yearStart: 1649
 yearEnd: 1649

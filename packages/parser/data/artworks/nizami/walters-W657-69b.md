@@ -4,6 +4,7 @@ title: >-
   "Shīrīn rides out to Bisitūn", fol. 69b from the Khamsah-i Niẓāmī, Walters Ms.
   W.657
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-59
 objectDate: >-
   10th century AH / 16th CE; partial dates given on fol. 26a (last day of
   Ramaḍān) and fol. 214b (Shawwāl)

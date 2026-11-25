@@ -4,6 +4,7 @@ title: >-
   "Ascension of Khusraw to the throne", fol. 62b from the Khamsah-i Niẓāmī,
   Walters Ms. W.607
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-32
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528

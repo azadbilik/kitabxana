@@ -4,6 +4,7 @@ title: >-
   "Farhād brought before the throne of Khusraw", fol. 69b from the Khamsah-i
   Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-56
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

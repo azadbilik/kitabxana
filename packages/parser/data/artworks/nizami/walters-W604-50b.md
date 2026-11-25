@@ -4,6 +4,7 @@ title: >-
   "Khusraw and the Roman Emperor", fol. 50b from the Khamsah-i Niẓāmī, Walters
   Ms. W.604
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-42
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

@@ -4,6 +4,7 @@ title: >-
   "Khusraw watching Shīrīn bathing", fol. 47a from the Khamsah-i Niẓāmī, Walters
   Ms. W.610
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-25
 objectDate: Mid 10th century AH / 16th CE
 yearStart: 1500
 yearEnd: 1599

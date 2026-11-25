@@ -4,6 +4,7 @@ title: >-
   "Shīrūyah kills his father, Khusraw, because of his love for Shīrīn", fol.
   109b from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-112
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

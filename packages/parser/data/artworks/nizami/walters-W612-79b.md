@@ -4,6 +4,7 @@ title: >-
   "Farhād carries Shīrīn and her dead horse on his shoulders", fol. 79b from the
   Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-59
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

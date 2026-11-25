@@ -4,6 +4,7 @@ title: >-
   "Khusraw announces his marriage to Shakar", fol. 86a from the Khamsah-i
   Niẓāmī, Walters Ms. W.607
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-65
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528
