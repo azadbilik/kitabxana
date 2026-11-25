@@ -23,9 +23,6 @@ export interface Artwork {
   collection: { slug: string; titleAz: string; titleRu: string | null; titleEn: string | null } | null;
 }
 
-/** How many artworks a page sends with its HTML; a long gallery fetches the rest when opened */
-export const GALLERY_FIRST = 24;
-
 const API = process.env.NEXT_PUBLIC_API_URL ?? 'http://localhost:4000/api';
 
 interface Props {
