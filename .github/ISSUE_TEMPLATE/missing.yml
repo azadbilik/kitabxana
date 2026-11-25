@@ -1,0 +1,22 @@
+name: Çatışmayan əsər və ya müəllif · Missing work or author
+description: Saytda olmayan əsər, müəllif, tərcümə və ya mənbə təklif edin · Suggest a work, author, translation or source the site lacks
+labels: [content]
+body:
+  - type: input
+    id: what
+    attributes:
+      label: Nə? · What?
+      description: Müəllif və əsər · Author and work
+    validations:
+      required: true
+  - type: textarea
+    id: source
+    attributes:
+      label: Mənbə · Source
+      description: Kitab (nəşriyyat, il), skan və ya link · A book (publisher, year), a scan or a link
+    validations:
+      required: true
+  - type: textarea
+    id: notes
+    attributes:
+      label: Qeyd · Notes

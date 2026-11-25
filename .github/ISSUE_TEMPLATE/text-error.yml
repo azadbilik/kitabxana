@@ -1,0 +1,24 @@
+name: Mətndə səhv · Text error
+description: Hərf səhvi, düşmüş sətir, yanlış başlıq və ya müəllif · A typo, missing line, wrong title or author
+labels: [text]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Səhifə · Page
+      description: Əsərin kitabxana.az-dakı linki · The work's link on kitabxana.az
+      placeholder: https://kitabxana.az/works/...
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Nə səhvdir? · What is wrong?
+      description: Səhv olan yeri və düzgün variantı yazın · Quote the wrong part and give the correct text
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Mənbə · Source
+      description: Əlinizdə çap nəşri varsa, kitab və səhifə · If you have the printed book, its title and page

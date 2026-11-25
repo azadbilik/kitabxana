@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Mətn və ya tərcümə göndərin · Send a text or translation
+    url: https://kitabxana.az/contribute
+    about: Redaktor mənbə ilə yoxlayıb dərc edir · An editor checks it against the source and publishes it
+  - name: Təhlükəsizlik problemi · Security problem
+    url: https://github.com/azadbilik/kitabxana/security/advisories/new
+    about: Gizli bildirin, açıq issue yox · Report privately, not in a public issue

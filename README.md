@@ -1,6 +1,8 @@
 # Kitabxana.az
 
-An online library of Azerbaijani literature and cultural heritage: classical and modern poetry, translations, manuscript pages and miniatures.
+**[kitabxana.az](https://kitabxana.az)**: an online library of Azerbaijani literature, from the classical poets to today. Over 48,000 works by 470+ authors, with translations, scans of the source editions, manuscript pages and miniatures.
+
+Part of [Azad Bilik](https://github.com/azadbilik), open knowledge about Azerbaijani culture and history.
 
 Every work has its own reading page, with prev/next navigation through its collection. Translations (Azerbaijani, Russian, Persian, English) can be read side by side with the original. The interface is available in Azerbaijani, Russian and English.
 
@@ -37,8 +39,12 @@ pnpm dev              # web on http://localhost:3000, API on :4000
 
 ## Data
 
-The texts come from Ganjoor, Azerbaijani Wikisource and public-domain English translations. Artwork metadata comes from the Met Museum's Open Access collection. [packages/parser/data/README.md](packages/parser/data/README.md) lists the sources and their terms.
+The texts come from Ganjoor, Azerbaijani Wikisource, the National Library of Azerbaijan's reprints, kitabxana.net, the Internet Archive and other digitised editions, many typed and proofread from scans. Artwork metadata comes from the Met Museum's Open Access collection. [packages/parser/data/README.md](packages/parser/data/README.md) lists the sources and their terms.
+
+## Contributing
+
+Found a mistake in a text, or know a source we're missing? See [CONTRIBUTING.md](CONTRIBUTING.md). Security problems: [SECURITY.md](SECURITY.md).
 
 ## License
 
-The code is [MIT](LICENSE). The texts and metadata in `packages/parser/data` are not covered by it; each keeps its source's rights.
+The code is [MIT](LICENSE). The texts, translations, images and scans are not covered by it: see [CONTENT.md](CONTENT.md) for what you may reuse.

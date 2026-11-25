@@ -1,0 +1,23 @@
+name: Xəta · Bug
+description: Sayt düzgün işləmir · Something on the site doesn't work
+labels: [bug]
+body:
+  - type: input
+    id: url
+    attributes:
+      label: Səhifə · Page
+      placeholder: https://kitabxana.az/...
+    validations:
+      required: true
+  - type: textarea
+    id: what
+    attributes:
+      label: Nə baş verdi? · What happened?
+      description: Nə etdiniz, nə gözləyirdiniz, nə oldu · What you did, what you expected, what happened instead
+    validations:
+      required: true
+  - type: input
+    id: device
+    attributes:
+      label: Brauzer və cihaz · Browser and device
+      placeholder: Safari, iPhone 15
