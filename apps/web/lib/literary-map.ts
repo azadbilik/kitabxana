@@ -31,5 +31,6 @@ export async function literaryMapPlace(slug: string, locale: string): Promise<{ 
   if (!p) return null;
   const place = (locale === 'ru' ? p.ru : locale === 'en' ? p.en : p.az) ?? p.az ?? p.en ?? p.ru;
   if (!place) return null;
-  return { href: `${MAP_URL}?author=${encodeURIComponent(slug)}`, place };
+  // The map opens in the reader's language (Azerbaijani is its default)
+  return { href: `${MAP_URL}?author=${encodeURIComponent(slug)}${locale === 'az' ? '' : `&lang=${locale}`}`, place };
 }
