@@ -2,7 +2,6 @@
 sourceId: commons-635065
 title: Khusraw discovers Shirin bathing in a pool from a Khamsa (Quintet)
 collectionSlug: nizami-xosrov-va-sirin
-workSlug: nizami-xosrov-ve-sirin-25
 objectDate: 'Mid 16th century, Safavid dynasty'
 yearStart: 1500
 yearEnd: 1599
@@ -20,5 +19,6 @@ authorSlug: nizami
 museum: Wikimedia Commons
 order: 171
 status: DRAFT
+workSlug: nizami-xosrov-ve-sirin-25
 ---
 

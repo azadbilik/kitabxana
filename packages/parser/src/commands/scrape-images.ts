@@ -5,7 +5,9 @@ import type { AuthorConfig } from '../types';
 import { planMetArtworks } from '../scrapers/met';
 import { planWaltersArtworks } from '../scrapers/walters';
 import { planCommonsArtworks } from '../scrapers/commons';
+import matter from 'gray-matter';
 import { writeArtworkMd } from '../writers/md-writer';
+import type { ArtworkFrontmatter } from '../types';
 
 const DATA_DIR = path.resolve(__dirname, '../../data');
 const CONFIG_PATH = path.join(DATA_DIR, 'config/authors.json');
@@ -15,6 +17,43 @@ function loadAuthors(): AuthorConfig[] {
 }
 
 type Source = 'met' | 'walters' | 'commons';
+
+/**
+ * Artworks taken out by hand (another poet's work, a photo, a carpet): a re-scrape must not bring
+ * them back. data/artworks/removed.json: { "<sourceId>": "why" }.
+ */
+const REMOVED: Record<string, string> = (() => {
+  const file = path.join(DATA_DIR, 'artworks', 'removed.json');
+  return fs.existsSync(file) ? JSON.parse(fs.readFileSync(file, 'utf-8')) : {};
+})();
+
+/** The fields set by hand after a scrape (the poem a folio belongs to, the passage it illustrates) */
+type Curated = Pick<ArtworkFrontmatter, 'collectionSlug' | 'workSlug'>;
+
+/**
+ * Rewrites one source's files for an author from a fresh scrape (so objects a museum withdraws drop
+ * out), keeping what was curated by hand: a poem set on a folio the scraper couldn't place, and
+ * the chapter it illustrates (Azad Bilik's scene catalogues). The existing file's poem wins over
+ * the scraper's, so a folio moved or taken out of a poem by hand stays where it was put.
+ */
+function regenerate(cfg: AuthorConfig, prefix: string, artworks: ArtworkFrontmatter[]) {
+  const dir = path.join(DATA_DIR, 'artworks', cfg.slug);
+  const curated = new Map<string, Curated>();
+  if (fs.existsSync(dir)) {
+    for (const f of fs.readdirSync(dir)) {
+      if (!f.startsWith(prefix)) continue;
+      const { data } = matter(fs.readFileSync(path.join(dir, f), 'utf-8'));
+      curated.set(data.sourceId, { collectionSlug: data.collectionSlug, workSlug: data.workSlug });
+      fs.unlinkSync(path.join(dir, f));
+    }
+  }
+  const kept = artworks.filter((a) => !(a.sourceId in REMOVED));
+  for (const a of kept) {
+    const c = curated.get(a.sourceId);
+    writeArtworkMd(c ? { ...a, collectionSlug: c.collectionSlug, workSlug: c.workSlug ?? a.workSlug } : a);
+  }
+  console.log(`  Wrote ${kept.length} artworks${kept.length < artworks.length ? ` (${artworks.length - kept.length} removed by hand left out)` : ''}`);
+}
 
 async function scrapeMet(cfg: AuthorConfig, dryRun: boolean) {
   if (!cfg.met) {
@@ -37,22 +76,9 @@ async function scrapeMet(cfg: AuthorConfig, dryRun: boolean) {
   }
 
   // Regenerate rather than merge, so objects the Met withdraws or re-credits drop out
-  const dir = path.join(DATA_DIR, 'artworks', cfg.slug);
-  if (fs.existsSync(dir)) {
-    for (const f of fs.readdirSync(dir)) if (f.startsWith('met-')) fs.unlinkSync(path.join(dir, f));
-  }
-
-  artworks.forEach((a, i) =>
-    writeArtworkMd({
-      ...a,
-      authorSlug: cfg.slug,
-      museum: 'The Metropolitan Museum of Art',
-      license: 'CC0',
-      order: i + 1,
-      status: 'DRAFT',
-    }),
-  );
-  console.log(`  Wrote ${artworks.length} artworks`);
+  regenerate(cfg, 'met-', artworks.map((a, i) => ({
+    ...a, authorSlug: cfg.slug, museum: 'The Metropolitan Museum of Art', license: 'CC0', order: i + 1, status: 'DRAFT',
+  })));
 }
 
 async function scrapeWalters(cfg: AuthorConfig, dryRun: boolean) {
@@ -71,20 +97,9 @@ async function scrapeWalters(cfg: AuthorConfig, dryRun: boolean) {
     return;
   }
 
-  const dir = path.join(DATA_DIR, 'artworks', cfg.slug);
-  if (fs.existsSync(dir)) {
-    for (const f of fs.readdirSync(dir)) if (f.startsWith('walters-')) fs.unlinkSync(path.join(dir, f));
-  }
-  artworks.forEach((a, i) =>
-    writeArtworkMd({
-      ...a,
-      authorSlug: cfg.slug,
-      museum: 'The Walters Art Museum',
-      order: i + 1,
-      status: 'DRAFT',
-    }),
-  );
-  console.log(`  Wrote ${artworks.length} artworks`);
+  regenerate(cfg, 'walters-', artworks.map((a, i) => ({
+    ...a, authorSlug: cfg.slug, museum: 'The Walters Art Museum', order: i + 1, status: 'DRAFT',
+  })));
 }
 
 async function scrapeCommons(cfg: AuthorConfig, dryRun: boolean) {
@@ -103,14 +118,7 @@ async function scrapeCommons(cfg: AuthorConfig, dryRun: boolean) {
     return;
   }
 
-  const dir = path.join(DATA_DIR, 'artworks', cfg.slug);
-  if (fs.existsSync(dir)) {
-    for (const f of fs.readdirSync(dir)) if (f.startsWith('commons-')) fs.unlinkSync(path.join(dir, f));
-  }
-  artworks.forEach((a, i) =>
-    writeArtworkMd({ ...a, authorSlug: cfg.slug, museum: 'Wikimedia Commons', order: i + 1, status: 'DRAFT' }),
-  );
-  console.log(`  Wrote ${artworks.length} artworks`);
+  regenerate(cfg, 'commons-', artworks.map((a, i) => ({ ...a, authorSlug: cfg.slug, museum: 'Wikimedia Commons', order: i + 1, status: 'DRAFT' })));
 }
 
 export const scrapeImagesCommand = new Command('scrape-images')

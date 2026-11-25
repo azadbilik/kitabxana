@@ -2,7 +2,6 @@
 sourceId: commons-147890
 title: Construction of the fort of Kharnaq
 collectionSlug: nizami-heft-peyker
-workSlug: nizami-yeddi-gozel-9
 objectDate: circa 1494–1495
 yearStart: 1494
 yearEnd: 1495
@@ -20,5 +19,6 @@ authorSlug: nizami
 museum: Wikimedia Commons
 order: 142
 status: DRAFT
+workSlug: nizami-yeddi-gozel-9
 ---
 

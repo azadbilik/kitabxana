@@ -131,14 +131,16 @@ export async function planCommonsArtworks(cfg: AuthorConfig): Promise<{ artworks
       const poem =
         poems.find((pm) => cats.includes(`Category:${pm.category}`) || where.category === `Category:${pm.category}`) ??
         poems.find((pm) => pm.re.test(name));
-      const objectName = text(meta.ObjectName?.value);
+      // ObjectName can carry Commons' template markup: «X label QS:Len,"X" label QS:Laz,"…"»
+      const objectName = text(meta.ObjectName?.value).replace(/\s*(?:label|title)?\s*QS:.*$/s, '').trim();
 
       artworks.push({
         sourceId: `commons-${p.pageid}`,
         title: objectName && objectName.length > 6 ? objectName : name,
         collectionSlug: (poem?.collection || where.rootCollection) || undefined,
-        // A date with no year of the work in it is the scan's upload stamp ("2013-05-12 08:16:03")
-        objectDate: years.length ? date.slice(0, 80) : undefined,
+        // An undated scan's DateTimeOriginal is its upload stamp ("2013-05-12 08:16:03", "12 May
+        // 2013, 08:09:39"): dropped. Commons also marks some Safavid dates BC ("1675 BC").
+        objectDate: (years.length || !/\b(19[5-9]\d|20\d\d)\b|\d\d:\d\d/.test(date) ? date.replace(/\s*BC$/, '') : '').slice(0, 80) || undefined,
         yearStart: years.length ? Math.min(...years) : undefined,
         yearEnd: years.length ? Math.max(...years) : undefined,
         medium: undefined,
