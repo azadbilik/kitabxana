@@ -95,6 +95,11 @@ const nextConfig: NextConfig = {
       // Wikimedia Commons: originals on upload., the renderings the galleries use on thumb.
       { protocol: 'https', hostname: 'upload.wikimedia.org', pathname: '/wikipedia/commons/**' },
       { protocol: 'https', hostname: 'thumb.wikimedia.org', pathname: '/wikipedia/commons/**' },
+      // Cleveland Museum of Art open access; Europeana's records: the Rijksmuseum's images on
+      // Google's image servers, the Chester Beatty's on its own viewer
+      { protocol: 'https', hostname: 'openaccess-cdn.clevelandart.org' },
+      { protocol: 'https', hostname: '*.ggpht.com' },
+      { protocol: 'https', hostname: 'viewer.cbl.ie' },
     ],
   },
 };
