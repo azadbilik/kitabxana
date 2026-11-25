@@ -9,8 +9,7 @@ yearStart: 1649
 yearEnd: 1649
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W611/data/W.611/sap/W611_000249_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W611/data/W.611/sap/W611_000249_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W611-123a.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W611/description.html

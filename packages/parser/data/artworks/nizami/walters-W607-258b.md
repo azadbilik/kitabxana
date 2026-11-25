@@ -8,8 +8,7 @@ yearStart: 1528
 yearEnd: 1528
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W607/data/W.607/sap/W607_000520_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W607/data/W.607/sap/W607_000520_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W607-258b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W607/description.html

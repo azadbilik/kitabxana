@@ -11,8 +11,7 @@ yearStart: 1486
 yearEnd: 1494
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W605/data/W.605/sap/W605_000171_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W605/data/W.605/sap/W605_000171_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W605-83b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W605/description.html

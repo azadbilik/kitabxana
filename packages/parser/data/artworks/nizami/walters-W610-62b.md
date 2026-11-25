@@ -10,8 +10,7 @@ yearStart: 1500
 yearEnd: 1599
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W610/data/W.610/sap/W610_000131_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W610/data/W.610/sap/W610_000131_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W610-62b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W610/description.html

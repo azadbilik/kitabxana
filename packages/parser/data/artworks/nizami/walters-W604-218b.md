@@ -8,8 +8,7 @@ yearStart: 1481
 yearEnd: 1481
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W604/data/W.604/sap/W604_000440_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W604/data/W.604/sap/W604_000440_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W604-218b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W604/description.html

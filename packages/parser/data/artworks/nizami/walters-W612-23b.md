@@ -10,8 +10,7 @@ yearStart: 1600
 yearEnd: 1699
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W612/data/W.612/sap/W612_000050_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W612/data/W.612/sap/W612_000050_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W612-23b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W612/description.html

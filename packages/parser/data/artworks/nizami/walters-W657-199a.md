@@ -12,8 +12,7 @@ yearStart: 1500
 yearEnd: 1599
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W657/data/W.657/sap/W657_000405_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W657/data/W.657/sap/W657_000405_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W657-199a.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W657/description.html

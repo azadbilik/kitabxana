@@ -100,6 +100,8 @@ const nextConfig: NextConfig = {
       { protocol: 'https', hostname: 'openaccess-cdn.clevelandart.org' },
       { protocol: 'https', hostname: '*.ggpht.com' },
       { protocol: 'https', hostname: 'viewer.cbl.ie' },
+      // The Walters' pages as the Azad Bilik gallery keeps them (900px), not the slow full scans
+      { protocol: 'https', hostname: 'azadbilik.org', pathname: '/qalereya/thumbs/**' },
     ],
   },
 };

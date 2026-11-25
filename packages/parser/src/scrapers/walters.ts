@@ -84,8 +84,9 @@ export async function planWaltersArtworks(cfg: AuthorConfig): Promise<{ artworks
         continue;
       }
       const scene = first(body, /<title[^>]*>([\s\S]*?)<\/title>/);
+      const sourceId = `walters-${id}-${folio.replace(/^fol\.\s*/, '').replace(/\s+/g, '')}`;
       artworks.push({
-        sourceId: `walters-${id}-${folio.replace(/^fol\.\s*/, '').replace(/\s+/g, '')}`,
+        sourceId,
         title: `"${scene}", ${folio} from ${work ? `the ${work}, ` : ''}Walters Ms. ${shelfmark}`,
         collectionSlug: rule.collection || undefined,
         objectDate: date || undefined,
@@ -94,7 +95,10 @@ export async function planWaltersArtworks(cfg: AuthorConfig): Promise<{ artworks
         medium: undefined,
         artists: undefined,
         imageUrl: `${folder}/${image}`,
-        imageSmallUrl: `${folder}/${image}`,
+        // The Walters serves only full scans (~600 KB, often 10 s to arrive: next/image gives up
+        // first); the Azad Bilik gallery keeps a 900px copy of each (qalereya scripts/thumbs.sh,
+        // run it for a newly scraped page)
+        imageSmallUrl: `https://azadbilik.org/qalereya/thumbs/${sourceId}.jpg`,
         additionalImages: [],
         sourceUrl: `${BASE}/html/${id}/description.html`,
         creditLine: `Walters Art Museum, Ms. ${shelfmark}`,

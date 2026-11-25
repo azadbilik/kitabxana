@@ -9,8 +9,7 @@ yearStart: 1563
 yearEnd: 1563
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W608/data/W.608/sap/W608_000296_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W608/data/W.608/sap/W608_000296_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W608-147b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W608/description.html

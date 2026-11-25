@@ -12,8 +12,7 @@ yearStart: 1516
 yearEnd: 1516
 imageUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/W609/data/W.609/sap/W609_000228_sap.jpg
-imageSmallUrl: >-
-  https://thedigitalwalters.org/Data/WaltersManuscripts/W609/data/W.609/sap/W609_000228_sap.jpg
+imageSmallUrl: https://azadbilik.org/qalereya/thumbs/walters-W609-111b.jpg
 additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W609/description.html
