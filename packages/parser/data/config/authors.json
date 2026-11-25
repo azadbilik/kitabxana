@@ -336,6 +336,40 @@
         }
       ]
     },
+    "cleveland": {
+      "queries": [
+        "nizami",
+        "khamsa"
+      ],
+      "require": "Nizami|Khamsa|Khusrau|Shirin|Bahram|Nushirwan|Layla|Majnun|Iskandar|Sharaf",
+      "exclude": "Shahnama|Haft Awrang|Jami|Yusuf|Anthology|Amir Khus",
+      "collections": [
+        {
+          "match": "Makhzan|Sultan Sanjar|Nushirwan",
+          "collection": "nizami-mexzenul-esrar"
+        },
+        {
+          "match": "Haft Pa[iy]kar|Seven Portraits|Bahram",
+          "collection": "nizami-heft-peyker"
+        },
+        {
+          "match": "Laila|Layla|Majnun",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "match": "Khusrau|Khusraw|Shirin|Farhad",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "match": "Sharaf-?nam|Darius",
+          "collection": "nizami-serefname"
+        },
+        {
+          "match": "Iqbal-?nam|Khirad-?nam",
+          "collection": "nizami-xerednama"
+        }
+      ]
+    },
     "commons": {
       "roots": [
         {

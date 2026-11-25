@@ -245,6 +245,12 @@ export interface AuthorConfig {
     queries: string[]; // searches that gather candidates; the credit decides what is kept
     collections?: { match: string; collection: string }[]; // title regex → collection slug
   };
+  cleveland?: {
+    queries: string[]; // searches that gather candidates (CC0, with an image)
+    require: string; // regex the title or description must match, e.g. "Nizami|Khamsa"
+    exclude?: string; // regex on the title for other poets' works ("Shahnama|Jami")
+    collections?: { match: string; collection: string }[]; // title regex → collection slug
+  };
   commons?: {
     roots: { category: string; depth?: number; collection?: string }[]; // walked for files; collection = default
     exclude?: string; // categories to skip (regex), e.g. the Met's and Walters' manuscripts
