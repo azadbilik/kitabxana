@@ -3,6 +3,7 @@ slug: malibeyli-qurban
 nameAz: Mələkballı Qurban
 nameRu: Курбан из Мелекбаллы
 nameEn: Qurban of Malakballi
+wikidataId: Q12842684
 type: POET
 writingLangs:
   - AZ_ARABIC
