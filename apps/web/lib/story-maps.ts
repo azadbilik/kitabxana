@@ -3,7 +3,7 @@
  * with the chapters it happens in. A chapter page links to its stop when a map has one.
  */
 const BASE = 'https://azadbilik.org/xeriteler/';
-const STORIES = ['iskender', 'xosrov-sirin'];
+const STORIES = ['iskender', 'xosrov-sirin', 'yeddi-gozel'];
 const TTL_MS = 6 * 60 * 60_000;
 
 type Names = { az?: string; ru?: string; en?: string };
