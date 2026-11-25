@@ -4,6 +4,7 @@ title: >-
   "Nawfal fighting with Laylá’s tribe", fol. 144b from the Khamsah-i Niẓāmī,
   Walters Ms. W.609
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-22
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

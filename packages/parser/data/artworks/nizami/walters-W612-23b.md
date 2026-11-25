@@ -4,6 +4,7 @@ title: >-
   "Two quarreling scholars", fol. 23b from the Khamsah-i Niẓāmī, Walters Ms.
   W.612
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-43
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

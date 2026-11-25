@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the red pavilion", fol. 179a from the Khamsah-i Niẓāmī, Walters
   Ms. W.604
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-29
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

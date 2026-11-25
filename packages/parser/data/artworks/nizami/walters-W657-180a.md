@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the yellow pavilion", fol. 180a from the Khamsah-i Niẓāmī,
   Walters Ms. W.657
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-27
 objectDate: >-
   10th century AH / 16th CE; partial dates given on fol. 26a (last day of
   Ramaḍān) and fol. 214b (Shawwāl)

@@ -4,6 +4,7 @@ title: >-
   "A rich merchant is summoned before a Greek king and his prime minister", fol.
   343b from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-13
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

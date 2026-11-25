@@ -4,6 +4,7 @@ title: >-
   "An old woman speaking with a confidant of King Jamshīd", fol. 29b from the
   Khamsah-i Niẓāmī, Walters Ms. W.607
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-55
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528

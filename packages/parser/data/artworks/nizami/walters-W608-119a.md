@@ -4,6 +4,7 @@ title: >-
   "Laylá and Qays (Majnūn) at school", fol. 119a from the Khamsah-i Niẓāmī,
   Walters Ms. W.608
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-11
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

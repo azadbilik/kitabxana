@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great watching the sirens bathing", fol. 387b from the
   Khamsah-i Niẓāmī, Walters Ms. W.609
 collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-35
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

@@ -4,6 +4,7 @@ title: >-
   "An old woman implores Sultan Sanjar for help", fol. 13a from the Khamsah-i
   Niẓāmī, Walters Ms. W.611
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-27
 objectDate: 8 Shaʿbān 1059 AH / 1649 CE
 yearStart: 1649
 yearEnd: 1649

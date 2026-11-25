@@ -4,6 +4,7 @@ title: >-
   "Laylá and Majūn faint at the sight of each other", fol. 138b from the
   Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-43
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

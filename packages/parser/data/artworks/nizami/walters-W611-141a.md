@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr kills two lions", fol. 141a from the Khamsah-i Niẓāmī, Walters Ms.
   W.611
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-18
 objectDate: 8 Shaʿbān 1059 AH / 1649 CE
 yearStart: 1649
 yearEnd: 1649

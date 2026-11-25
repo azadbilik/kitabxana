@@ -4,6 +4,7 @@ title: >-
   "Two scholars quarreling", fol. 25a from the Khamsah-i Niẓāmī, Walters Ms.
   W.609
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-43
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

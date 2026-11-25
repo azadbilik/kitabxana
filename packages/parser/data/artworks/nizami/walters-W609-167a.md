@@ -4,6 +4,7 @@ title: >-
   "Laylá and Majnūn meeting in the palm grove", fol. 167a from the Khamsah-i
   Niẓāmī, Walters Ms. W.609
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-40
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

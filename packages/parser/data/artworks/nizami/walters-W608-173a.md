@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr kills a lion and a wild ass", fol. 173a from the Khamsah-i Niẓāmī,
   Walters Ms. W.608
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-11
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

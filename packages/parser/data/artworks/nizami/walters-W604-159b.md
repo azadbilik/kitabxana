@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr kills two lions and puts a crown on his head", fol. 159b from the
   Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-18
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

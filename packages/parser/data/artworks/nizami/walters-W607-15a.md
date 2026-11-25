@@ -4,6 +4,7 @@ title: >-
   "Nūshirvān and his prime minster Dastūr", fol. 15a from the Khamsah-i Niẓāmī,
   Walters Ms. W.607
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-23
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528

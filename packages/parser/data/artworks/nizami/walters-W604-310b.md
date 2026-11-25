@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great is entertained by a beautiful girl in Qandhār", fol. 310b
   from the Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-35
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

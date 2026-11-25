@@ -4,6 +4,7 @@ title: >-
   "Nawfal and his men attack Laylá’s tribe", fol. 100a from the Khamsah-i
   Niẓāmī, Walters Ms. W.611
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-22
 objectDate: 8 Shaʿbān 1059 AH / 1649 CE
 yearStart: 1649
 yearEnd: 1649

@@ -4,6 +4,7 @@ title: >-
   "Majūn weeps at his father’s tomb", fol. 123a from the Khamsah-i Niẓāmī,
   Walters Ms. W.604
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-32
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

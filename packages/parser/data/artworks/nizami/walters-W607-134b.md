@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr seizes the crown after having killed two lions", fol. 134b from
   the Khamsah-i Niẓāmī, Walters Ms. W.607
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-18
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528

@@ -4,6 +4,7 @@ title: >-
   "Nawfal’s battle with Laylá’s tribe", fol. 120a from the Khamsah-i Niẓāmī,
   Walters Ms. W.657
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-22
 objectDate: >-
   10th century AH / 16th CE; partial dates given on fol. 26a (last day of
   Ramaḍān) and fol. 214b (Shawwāl)

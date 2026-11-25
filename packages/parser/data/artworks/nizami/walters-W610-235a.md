@@ -4,6 +4,7 @@ title: >-
   "The hanging of Bahrām Gūr’s unjust vizier", fol. 235a from the Khamsah-i
   Niẓāmī, Walters Ms. W.610
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-36
 objectDate: Mid 10th century AH / 16th CE
 yearStart: 1500
 yearEnd: 1599

@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great listens to a story about a prince whose wife was sick",
   fol. 339a from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-10
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

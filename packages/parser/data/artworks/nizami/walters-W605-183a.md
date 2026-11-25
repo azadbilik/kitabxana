@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the blue pavilion", fol. 183a from the Kitāb-i Khamsah-i
   Shaykh-i Niẓāmī, Walters Ms. W.605
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-30
 objectDate: >-
   892 AH / 1486 CE; another date of 900 AH / 1494-5 CE given on fol. 446a for
   the completion of the illuminations and binding

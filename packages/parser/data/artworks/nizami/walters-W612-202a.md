@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr entertains Shīdah, the builder of the seven pavilions", fol. 202a
   from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-25
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

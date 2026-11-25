@@ -4,6 +4,7 @@ title: >-
   "Majnūn, in chains, is led by the old woman to Laylá's tent", fol. 149b from
   the Khamsah-i Niẓāmī, Walters Ms. W.609
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-27
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

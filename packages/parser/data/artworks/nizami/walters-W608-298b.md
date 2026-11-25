@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great lassos a Russian warrior", fol. 298b from the Khamsah-i
   Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-55
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

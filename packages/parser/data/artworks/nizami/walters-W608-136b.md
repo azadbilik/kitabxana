@@ -4,6 +4,7 @@ title: >-
   "Majnūn’s father visits his son in the wilderness", fol. 136b from the
   Khamsah-i Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-30
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

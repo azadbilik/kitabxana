@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the red pavilion", fol. 212a from the Khamsah-i Niẓāmī, Walters
   Ms. W.610
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-29
 objectDate: Mid 10th century AH / 16th CE
 yearStart: 1500
 yearEnd: 1599

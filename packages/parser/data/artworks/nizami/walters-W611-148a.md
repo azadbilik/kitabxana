@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the black pavilion", fol. 148a from the Khamsah-i Niẓāmī,
   Walters Ms. W.611
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-26
 objectDate: 8 Shaʿbān 1059 AH / 1649 CE
 yearStart: 1649
 yearEnd: 1649

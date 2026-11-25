@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great, unable to destroy a fortress, consults a hermit", fol.
   292a from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-36
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

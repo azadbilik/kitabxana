@@ -4,6 +4,7 @@ title: >-
   "An old woman leads Majnūn by a chain in front of Laylá’s tent", fol. 145a
   from the Khamsah-i Niẓāmī, Walters Ms. W.610
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-27
 objectDate: Mid 10th century AH / 16th CE
 yearStart: 1500
 yearEnd: 1599

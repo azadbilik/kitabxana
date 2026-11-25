@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great defeats the Russian army", fol. 320b from the Khamsah-i
   Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-49
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

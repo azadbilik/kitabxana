@@ -4,6 +4,7 @@ title: >-
   "King Nūshirvān hunting with Dastūr, his vizier", fol. 21b from the Kitāb-i
   Khamsah-i Shaykh-i Niẓāmī, Walters Ms. W.605
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-23
 objectDate: >-
   892 AH / 1486 CE; another date of 900 AH / 1494-5 CE given on fol. 446a for
   the completion of the illuminations and binding

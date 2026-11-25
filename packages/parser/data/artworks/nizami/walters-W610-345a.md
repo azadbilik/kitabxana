@@ -16,6 +16,8 @@ sourceUrl: >-
 creditLine: 'Walters Art Museum, Ms. W.610'
 license: CC0
 authorSlug: nizami
+collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-19
 museum: The Walters Art Museum
 order: 106
 status: DRAFT

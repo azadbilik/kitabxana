@@ -4,6 +4,7 @@ title: >-
   "Laylá and Majnūn fainting at the sight of each other", fol. 175b from the
   Khamsah-i Niẓāmī, Walters Ms. W.609
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-43
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

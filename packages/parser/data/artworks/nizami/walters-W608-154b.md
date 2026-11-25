@@ -4,6 +4,7 @@ title: >-
   "Laylá and Majnūn faint at the sight of each other", fol. 154b from the
   Khamsah-i Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-43
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

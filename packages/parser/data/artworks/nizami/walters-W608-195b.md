@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the blue pavilion", fol. 195b from the Khamsah-i Niẓāmī,
   Walters Ms. W.608
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-30
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

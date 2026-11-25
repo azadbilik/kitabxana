@@ -4,6 +4,7 @@ title: >-
   "A man tells Alexander the Great a story of a country in which there is no
   death", fol. 329a from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-61
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

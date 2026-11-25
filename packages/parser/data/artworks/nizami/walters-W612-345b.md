@@ -4,6 +4,7 @@ title: >-
   "Hermes, in front of Alexander the Great, and the Greek scholars who disagreed
   with him", fol. 345b from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-14
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

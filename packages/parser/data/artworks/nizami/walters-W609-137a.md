@@ -4,6 +4,7 @@ title: >-
   "Majnūn and his father in front of the Kaʿbah in Mecca", fol. 137a from the
   Khamsah-i Niẓāmī, Walters Ms. W.609
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-16
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

@@ -4,6 +4,7 @@ title: >-
   "The coffin of Alexander the Great carried in procession", fol. 320a from the
   Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-xerednama
+workSlug: nizami-iqbalname-39
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

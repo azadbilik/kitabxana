@@ -4,6 +4,7 @@ title: >-
   "Majnūn visiting his father’s tomb", fol. 88b from the Kitāb-i Khamsah-i
   Shaykh-i Niẓāmī, Walters Ms. W.605
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-32
 objectDate: >-
   892 AH / 1486 CE; another date of 900 AH / 1494-5 CE given on fol. 446a for
   the completion of the illuminations and binding

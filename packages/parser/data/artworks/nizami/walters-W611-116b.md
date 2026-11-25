@@ -4,6 +4,7 @@ title: >-
   "Salīm visits Majnūn in the wilderness", fol. 116b from the Khamsah-i Niẓāmī,
   Walters Ms. W.611
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-37
 objectDate: 8 Shaʿbān 1059 AH / 1649 CE
 yearStart: 1649
 yearEnd: 1649

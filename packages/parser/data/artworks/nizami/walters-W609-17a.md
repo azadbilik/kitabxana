@@ -4,6 +4,7 @@ title: >-
   "Sultan Sanjar and the old woman", fol. 17a from the Khamsah-i Niẓāmī, Walters
   Ms. W.609
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-27
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the sandalwood pavilion", fol. 238b from the Khamsah-i Niẓāmī,
   Walters Ms. W.609
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-31
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

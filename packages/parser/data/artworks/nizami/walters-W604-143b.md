@@ -4,6 +4,7 @@ title: >-
   "Majnūn lies dead on Laylá’s tomb", fol. 143b from the Khamsah-i Niẓāmī,
   Walters Ms. W.604
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-45
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

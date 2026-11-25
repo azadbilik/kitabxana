@@ -4,6 +4,7 @@ title: >-
   "Fitnah carries a bull on her shoulders before Bahrām Gūr", fol. 163a from the
   Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-21
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

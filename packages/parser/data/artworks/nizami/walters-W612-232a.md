@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr meets a shepherd who hung his dog on a tree", fol. 232a from the
   Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-34
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

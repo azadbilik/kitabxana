@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the green pavilion", fol. 212b from the Khamsah-i Niẓāmī,
   Walters Ms. W.612
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-28
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

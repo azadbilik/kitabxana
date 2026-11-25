@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great at a cave where Kay Khusraw is buried that emits flames",
   fol. 296a from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-38
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

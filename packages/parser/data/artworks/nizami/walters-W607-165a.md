@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr in the sandalwood pavilion", fol. 165a from the Khamsah-i Niẓāmī,
   Walters Ms. W.607
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-31
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528

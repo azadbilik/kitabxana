@@ -4,6 +4,7 @@ title: >-
   "A widow leads Majnūn in chains before Laylá’s pavilion", fol. 117a from the
   Khamsah-i Niẓāmī, Walters Ms. W.604
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-27
 objectDate: Ramaḍān 885-Rabīʿ I 886 / 1481
 yearStart: 1481
 yearEnd: 1481

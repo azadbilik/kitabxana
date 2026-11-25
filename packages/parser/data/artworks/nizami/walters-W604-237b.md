@@ -16,6 +16,8 @@ sourceUrl: >-
 creditLine: 'Walters Art Museum, Ms. W.604'
 license: CC0
 authorSlug: nizami
+collectionSlug: nizami-serefname
+workSlug: nizami-serefname-29
 museum: The Walters Art Museum
 order: 47
 status: DRAFT

@@ -2,6 +2,7 @@
 sourceId: commons-854582
 title: Shaykh Zadeh - Majnun funeral
 collectionSlug: nizami-leyli-va-macnun
+workSlug: nizami-leyli-ve-mecnun-43
 objectDate: 1494 (Herat)
 yearStart: 1494
 yearEnd: 1494

@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great fights the Ethiopians", fol. 259a from the Khamsah-i
   Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-16
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

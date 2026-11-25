@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great in Nushābah’s pavilion in Bardaʿ", fol. 269a from the
   Khamsah-i Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-33
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

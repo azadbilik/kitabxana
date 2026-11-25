@@ -4,6 +4,7 @@ title: >-
   "An official reads a letter to Alexander the Great, sent to him by Darius",
   fol. 268a from the Khamsah-i Niẓāmī, Walters Ms. W.612
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-20
 objectDate: 11th century AH / 17th CE
 yearStart: 1600
 yearEnd: 1699

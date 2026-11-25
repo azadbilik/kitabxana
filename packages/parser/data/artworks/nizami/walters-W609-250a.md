@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr meeting a shepherd who hung his dog on a tree", fol. 250a from the
   Khamsah-i Niẓāmī, Walters Ms. W.609
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-34
 objectDate: >-
   922 AH / 1516 CE; date given in chronosticon (fol. 401a, above colophon): rāvī
   khamsah

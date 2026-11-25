@@ -4,6 +4,7 @@ title: >-
   "Alexander the Great defeats the army of the Persian king, Darius", fol. 254a
   from the Khamsah-i Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-serefname
+workSlug: nizami-serefname-25
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

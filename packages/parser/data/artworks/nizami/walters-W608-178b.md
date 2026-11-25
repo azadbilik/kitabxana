@@ -4,6 +4,7 @@ title: >-
   "Bahrām Gūr kills two lions to claim his crown", fol. 178b from the Khamsah-i
   Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-18
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

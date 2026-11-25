@@ -4,6 +4,7 @@ title: >-
   "Fitnah carries a bull on her shoulders in the presence of Bahrām Gūr", fol.
   182b from the Khamsah-i Niẓāmī, Walters Ms. W.608
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-21
 objectDate: Mid Rabīʿ II 971 AH / 1563 CE
 yearStart: 1563
 yearEnd: 1563

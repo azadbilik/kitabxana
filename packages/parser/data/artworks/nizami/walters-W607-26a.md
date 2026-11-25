@@ -4,6 +4,7 @@ title: >-
   "An old man brought before a tyrant", fol. 26a from the Khamsah-i Niẓāmī,
   Walters Ms. W.607
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-47
 objectDate: 934-5 AH / 1528-9 CE
 yearStart: 1528
 yearEnd: 1528
