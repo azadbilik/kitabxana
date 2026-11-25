@@ -14,7 +14,13 @@ export function Footer() {
         <Link prefetch={false} href={localePath(locale)} className="footer-mark" aria-label="Kitabxana.az">
           Kitabxana<span className="logo-orn" aria-hidden="true">◆</span><em>AZ</em>
         </Link>
-        <p className="footer-text">{t('description')}</p>
+        <p className="footer-text">
+          {t('description')}
+          <span className="footer-hub">
+            {' · '}
+            {t.rich('partOf', { link: (chunks) => <a href="https://azadbilik.org">{chunks}</a> })}
+          </span>
+        </p>
         <nav className="footer-links" aria-label={t('name')}>
           <Link prefetch={false} href={localePath(locale, `/about`)}>{nav('about')}</Link>
           <Link prefetch={false} href={localePath(locale, `/contribute`)}>{nav('contribute')}</Link>

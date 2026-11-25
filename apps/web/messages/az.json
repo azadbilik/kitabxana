@@ -3,7 +3,8 @@
     "name": "Kitabxana.az",
     "title": "Kitabxana.az — Azərbaycan mədəniyyəti",
     "tagline": "◆  Şairlər  ·  Yazıçılar  ·  Filosoflar  ·  Əsərlər  ·  Tərcümələr  ◆",
-    "description": "Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti"
+    "description": "Azərbaycan ədəbiyyatı, fəlsəfəsi və mədəniyyəti",
+    "partOf": "<link>Azad Bilik</link> layihəsi"
   },
   "home": {
     "featured_label": "Bu həftənin şairi",
