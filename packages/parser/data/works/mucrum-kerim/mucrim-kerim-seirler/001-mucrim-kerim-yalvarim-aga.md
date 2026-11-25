@@ -2,7 +2,7 @@
 slug: mucrim-kerim-yalvarim-aga
 sourceId: halle-35518-mucrim-kerim-t1
 titleAz: Yalvarım ağa
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

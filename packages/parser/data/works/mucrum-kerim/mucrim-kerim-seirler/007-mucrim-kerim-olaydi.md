@@ -2,7 +2,7 @@
 slug: mucrim-kerim-olaydi
 sourceId: halle-35518-mucrim-kerim-t7
 titleAz: Olaydı
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

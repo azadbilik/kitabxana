@@ -2,7 +2,7 @@
 slug: mucrim-kerim-gelmedi
 sourceId: halle-35518-mucrim-kerim-t13
 titleAz: Gəlmədi
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

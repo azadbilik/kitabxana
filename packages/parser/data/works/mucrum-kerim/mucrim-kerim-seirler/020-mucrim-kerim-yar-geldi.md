@@ -2,7 +2,7 @@
 slug: mucrim-kerim-yar-geldi
 sourceId: halle-33543-mucrim-kerim-t6
 titleAz: Yar gəldi
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

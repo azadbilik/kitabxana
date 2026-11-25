@@ -2,7 +2,7 @@
 slug: mucrim-kerim-dusubdur
 sourceId: halle-35518-mucrim-kerim-t10
 titleAz: Düşübdür
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

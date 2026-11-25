@@ -2,6 +2,7 @@ import createMiddleware from 'next-intl/middleware';
 import { NextResponse, type NextRequest } from 'next/server';
 import { locales, defaultLocale, localePath, splitLocale } from './lib/i18n';
 import { checkFacetPath, legacyRedirect } from './lib/facets';
+import { MERGED_AUTHORS } from './lib/merged-authors';
 
 const intl = createMiddleware({
   locales,
@@ -72,6 +73,17 @@ function dropDefaultPrefix(req: NextRequest) {
   return NextResponse.redirect(target, 308);
 }
 
+/** An author merged into another: their old page points at the one kept */
+function mergedAuthor(req: NextRequest) {
+  const { locale, path } = splitLocale(req.nextUrl.pathname);
+  const into = MERGED_AUTHORS[path.match(/^\/authors\/([^/]+)\/?$/)?.[1] ?? ''];
+  if (!into) return null;
+  const target = new URL('/', process.env.SITE_URL ?? req.url);
+  target.pathname = localePath(locale, `/authors/${into}`);
+  target.search = req.nextUrl.search;
+  return NextResponse.redirect(target, 308);
+}
+
 const SHARE_IMAGE = /\/(opengraph|twitter)-image[^/]*$/;
 
 export default async function middleware(req: NextRequest) {
@@ -82,6 +94,7 @@ export default async function middleware(req: NextRequest) {
   return (
     dropDefaultPrefix(req) ??
     redirectLegacyFilters(req) ??
+    mergedAuthor(req) ??
     (await checkFilterPath(req)) ??
     withoutLocaleCookie(req, intl(req))
   );

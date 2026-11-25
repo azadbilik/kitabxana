@@ -30,6 +30,8 @@ export interface TranscribedBook {
   file: string;
   /** The National Library reader's book id the spreads are numbered in */
   bibid?: number;
+  /** Starts the works' slugs instead of the author's slug: a book moved to another author keeps its URLs */
+  slugPrefix?: string;
   /** Or the item id of a print in ULB Halle's MENAdoc (opendata.uni-halle.de/handle/1981185920/<id>); "@@ NNN" is then the PDF page */
   halle?: number;
   /**
@@ -187,6 +189,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
     };
 
     for (const book of books) {
+    const prefix = book.slugPrefix ?? cfg.slug;
     const works = readTranscription(fs.readFileSync(path.join(DATA_DIR, 'proofread', book.file), 'utf-8'));
     for (const s of book.sections) if (!works.some((w) => w.title === s.first)) console.warn(`  Section start not found: ${s.first}`);
     const write = writeIn(book);
@@ -233,7 +236,7 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
           // A shared ghazal names its poets over the couplets ("*Vaqif*", "### Vahid"): the title is the first verse line
           const first = poem.split('\n').find((l) => l.trim() && !/^(#|\*)/.test(l.trim())) ?? poem;
           const title = first.trim().replace(/[,;:–-]+$/, '');
-          write(unique(shortSlug(`${cfg.slug}-${title}`)), `${sourceKey(book)}-t${k + 1}-${n + 1}`, title,
+          write(unique(shortSlug(`${prefix}-${title}`)), `${sourceKey(book)}-t${k + 1}-${n + 1}`, title,
             section!.collection, section!.genre, w.spread, poem);
         });
         return;
@@ -250,13 +253,13 @@ export const scrapeTranscribedCommand = new Command('scrape-transcribed')
           const text = piece.slice(m[0].length).trim();
           // Each piece closes on the paper it ran in: "*“Həyat” qəzeti, 5 oktyabr 1905, №78*"
           const ran = text.match(/\*[^*\n]*\b(1[89]\d\d)\b[^*\n]*\*$/);
-          write(unique(shortSlug(`${cfg.slug}-${title}`)), `${sourceKey(book)}-t${k + 1}-${m[1]}`, title,
+          write(unique(shortSlug(`${prefix}-${title}`)), `${sourceKey(book)}-t${k + 1}-${m[1]}`, title,
             section!.collection, section!.genre, w.spread, text, ran ? Number(ran[1]) : undefined);
         });
         return;
       }
       const split = section.novel || section.chapters ? novelSplit(body, section.chapters) : parts(body, section.layout);
-      let base = shortSlug(`${cfg.slug}-${w.title.replace(/ \{fa\}$/, '')}`);
+      let base = shortSlug(`${prefix}-${w.title.replace(/ \{fa\}$/, '')}`);
       // A play named after the author's novel ("Dumanlı Təbriz"): its own collection, not the novel's
       if (split.length > 1 && order.has(base)) base = `${base}-pyes`;
       if (split.length === 1) {

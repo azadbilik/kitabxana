@@ -2,7 +2,7 @@
 slug: mucrim-kerim-menem
 sourceId: halle-35518-mucrim-kerim-t6
 titleAz: Mənəm
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

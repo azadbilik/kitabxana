@@ -2,7 +2,7 @@
 slug: mucrim-kerim-dol-arvad
 sourceId: halle-35518-mucrim-kerim-t5
 titleAz: Dol arvad
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

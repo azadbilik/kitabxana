@@ -2,7 +2,7 @@
 slug: mucrim-kerim-kim-ola
 sourceId: halle-35518-mucrim-kerim-t14
 titleAz: Kim ola
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

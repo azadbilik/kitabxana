@@ -2,7 +2,7 @@
 slug: mucrim-kerim-qilmisan
 sourceId: halle-35518-mucrim-kerim-t11
 titleAz: Qılmısan
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

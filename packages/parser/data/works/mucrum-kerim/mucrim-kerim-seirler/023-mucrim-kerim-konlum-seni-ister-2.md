@@ -2,12 +2,12 @@
 slug: mucrim-kerim-konlum-seni-ister-2
 sourceId: halle-33543-mucrim-kerim-t9
 titleAz: Könlüm səni istər
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 9
+order: 23
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
@@ -30,7 +30,7 @@ Yüz mahi-məlahət büti-zeba gül-nəsrin,
 Yüz zülfi-münənbər ola, könlüm səni istər
 
 Yüz sim bədən incə miyan gözləri məstan,
-Yüz dilbər ola huriliqa nazik çəsbən,
+Yüz dilbər ola huriliqa nazik çəsban,
 Yüz xali-Həbəş gərdən-i-mina xətti-reyhan,
 Yüz sinəsi mərmər dişi dür afəti-dövran,
 Yüz bakirə duxtər ola, könlüm səni istər

@@ -2,12 +2,12 @@
 slug: mucrim-kerim-konlum-seni-ister
 sourceId: halle-33543-mucrim-kerim-t2
 titleAz: Könlüm səni istər
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 2
+order: 16
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---

@@ -2,12 +2,12 @@
 slug: mucrim-kerim-qaldim-arada
 sourceId: halle-33543-mucrim-kerim-t3
 titleAz: Qaldım arada
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 3
+order: 17
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
@@ -19,7 +19,7 @@ Müjganın oxu aşiq öldürür,
 Sənəvbər qamətin sərvdən əla,
 Necə olmaz görən səni mübtəla,
 Bidad qəhrin cana bir bəla,
-Yetirək ərz Şah Qubadə
+Yetirək ərzim Şah Qubadə
 
 Əyar çeşmin afəti-dövran,
 Harut-Marut oldu bədgüman,
@@ -34,4 +34,4 @@ Məlul biçarə qaldım aradə
 Şəhbazi-aləm şahi-binişan,
 Füqəra-vü binəva dərdinə dərman,
 Kərimin cani yolunda qurban,
-Xuluşi niyyətim oldu ziyadə
+Xuluş niyyətim oldu ziyadə

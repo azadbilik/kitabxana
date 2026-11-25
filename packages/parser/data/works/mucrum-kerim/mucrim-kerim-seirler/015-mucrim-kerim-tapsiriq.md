@@ -2,12 +2,12 @@
 slug: mucrim-kerim-tapsiriq
 sourceId: halle-33543-mucrim-kerim-t1
 titleAz: Tapşırıq
-authorSlug: mucrim-kerim
+authorSlug: mucrum-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
 genre: POEM
-order: 1
+order: 15
 sourceNote: 'https://opendata.uni-halle.de/handle/1981185920/33543'
 status: DRAFT
 ---
