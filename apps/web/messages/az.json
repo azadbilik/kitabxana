@@ -481,6 +481,7 @@
     "email_soon": "E-poçt ünvanı tezliklə burada olacaq. Hələlik təklif formundan istifadə edin."
   },
   "gallery": {
+    "by_scene": "Səhnə-səhnə qalereyada",
     "heading": "Əlyazmalar və miniatürlər",
     "show_all": "Hamısını göstər ({count})",
     "show_less": "Azını göstər",

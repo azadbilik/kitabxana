@@ -42,6 +42,8 @@ interface Props {
   initial?: number;
   /** In place of "Manuscripts and miniatures" (a work page: the miniatures of this passage) */
   heading?: string;
+  /** The poem's page in the Azad Bilik gallery, where its miniatures are laid out scene by scene */
+  galleryHref?: string;
 }
 
 /** "CC BY-NC-SA 3.0" → its deed on creativecommons.org; null for CC0 and anything else */
@@ -73,7 +75,7 @@ const commonsThumb = (url: string, width: number): string | null => {
 /** Strip the catalogue's quotes: "Laila and Majnun at School", Folio … → Laila and Majnun at School, Folio … */
 const plainTitle = (title: string) => title.replace(/^"([^"]+)",?/, '$1,').replace(/,$/, '');
 
-export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showCollection = false, initial, heading }: Props) {
+export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showCollection = false, initial, heading, galleryHref }: Props) {
   const t = useTranslations('gallery');
   const [expanded, setExpanded] = useState(false);
   const [all, setAll] = useState<Artwork[] | null>(null);
@@ -193,6 +195,7 @@ export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showC
             {expanded ? t('show_less') : t('show_all', { count })}
           </button>
         )}
+        {galleryHref && <a className="gallery-hub" href={galleryHref}>{t('by_scene')} <span aria-hidden="true">↗</span></a>}
         {locale !== 'en' && <p className="gallery-note">{t('titles_note')}</p>}
       </div>
 

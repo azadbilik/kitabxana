@@ -481,6 +481,7 @@
     "email_soon": "Our email address will be here soon. Until then, please use the contribute form."
   },
   "gallery": {
+    "by_scene": "Scene by scene in the gallery",
     "heading": "Manuscripts and miniatures",
     "show_all": "Show all ({count})",
     "show_less": "Show fewer",

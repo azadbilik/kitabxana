@@ -2332,6 +2332,14 @@ a.gallery-coll:hover { text-decoration: underline; }
   margin-top:  1rem;
 }
 .gallery-more { cursor: pointer; }
+/* The poem in the Azad Bilik gallery, scene by scene */
+a.gallery-hub {
+  font-family:     var(--font-ui);
+  font-size:       0.875rem;
+  color:           var(--pomeg);
+  text-decoration: none;
+}
+a.gallery-hub:hover { text-decoration: underline; }
 .gallery-note {
   font-family: var(--font-ui);
   font-size:   0.7rem;

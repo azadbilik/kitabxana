@@ -6,6 +6,7 @@ import { localized, periodLabel } from '@/lib/locale';
 import { breadcrumbLd, pageMetadata, publisherLd, sameAs, SITE_URL } from '@/lib/seo';
 import { JsonLd } from '@/components/seo/JsonLd';
 import { ArtworkGallery, GALLERY_FIRST } from '@/components/artworks/ArtworkGallery';
+import { galleryPoemHref } from '@/lib/hub';
 import { Pagination } from '@/components/ui/Pagination';
 import { DownloadBar } from '@/components/reading/DownloadBar';
 import { ShareMenu } from '@/components/reading/ShareMenu';
@@ -270,6 +271,7 @@ export default async function CollectionPage({ params, searchParams }: Props) {
         moreFrom={`/collections/${encodeURIComponent(slug)}/artworks`}
         locale={locale}
         initial={6}
+        galleryHref={galleryPoemHref(slug, locale) ?? undefined}
       />
 
       {/* A one-part book needs no contents: "Start reading" opens that part */}
