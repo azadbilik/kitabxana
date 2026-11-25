@@ -76,6 +76,7 @@
     "portrait_alt": "{name}, портрет",
     "bio_more": "Читать дальше",
     "bio_less": "Свернуть",
+    "on_map": "На литературной карте: {place}",
     "other_works": "Произведения вне книг",
     "all_works": "Все произведения ({count})",
     "type_label": "Кто автор",

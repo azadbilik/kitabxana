@@ -76,6 +76,7 @@
     "portrait_alt": "{name}, portret",
     "bio_more": "Davamını oxu",
     "bio_less": "Yığ",
+    "on_map": "Ədəbiyyat xəritəsində: {place}",
     "other_works": "Kitablara daxil olmayan əsərlər",
     "all_works": "Bütün əsərləri ({count})",
     "type_label": "Müəllif növü",

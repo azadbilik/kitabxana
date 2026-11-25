@@ -76,6 +76,7 @@
     "portrait_alt": "Portrait of {name}",
     "bio_more": "Read more",
     "bio_less": "Show less",
+    "on_map": "On the literary map: {place}",
     "other_works": "Works outside books",
     "all_works": "All works ({count})",
     "type_label": "Kind of author",

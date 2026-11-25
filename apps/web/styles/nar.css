@@ -1208,6 +1208,11 @@
 :root .author-head-info { min-width: 0; }
 :root .author-head .author-name { margin: 0 0 0.5rem; text-wrap: balance; }
 :root .author-head .author-period { margin: 0 0 0.9rem; }
+/* "On the literary map: Şəki", a link to Azad Bilik's map, under the years */
+:root .author-head .author-period:has(+ .author-map) { margin-bottom: 0.35rem; }
+:root .author-map { margin: 0 0 0.9rem; font-size: 0.875rem; color: var(--muted); }
+:root .author-map a { color: inherit; text-decoration: underline; text-decoration-thickness: 1px; text-underline-offset: 0.2em; transition: color 0.15s; }
+:root .author-map a:hover, :root .author-map a:focus-visible { color: var(--pomeg); }
 :root .author-head .author-tags { list-style: none; margin: 0 0 1.1rem; padding: 0; }
 :root .author-bio-wrap { max-width: 44rem; }
 :root .author-bio p { margin: 0 0 0.75em; }

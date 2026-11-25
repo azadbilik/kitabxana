@@ -15,6 +15,7 @@ import { worksPath } from '@/lib/facets';
 import { localePath } from '@/lib/i18n';
 import { getLabels } from '@/lib/labels';
 import { scriptAttrs } from '@/lib/script';
+import { literaryMapPlace } from '@/lib/literary-map';
 
 export const dynamic = 'force-dynamic';
 
@@ -42,13 +43,14 @@ export async function generateMetadata({ params }: Props): Promise<Metadata> {
 export default async function AuthorPage({ params }: Props) {
   const { locale, slug } = await params;
   const author: AuthorData = await api.getAuthorPage(slug).catch(notFoundOn404);
-  const [t, book, home, reading, nav, labels] = await Promise.all([
+  const [t, book, home, reading, nav, labels, onMap] = await Promise.all([
     getTranslations({ locale, namespace: 'authors' }),
     getTranslations({ locale, namespace: 'book' }),
     getTranslations({ locale, namespace: 'home' }),
     getTranslations({ locale, namespace: 'reading' }),
     getTranslations({ locale, namespace: 'nav' }),
     getLabels(locale),
+    literaryMapPlace(slug, locale),
   ]);
 
   const name = localized(author, 'name', locale) ?? author.nameAz;
@@ -128,6 +130,11 @@ export default async function AuthorPage({ params }: Props) {
         <div className="author-head-info">
           <h1 className="author-name">{name}</h1>
           {facts.length > 0 && <p className="author-period">{facts.join(' · ')}</p>}
+          {onMap && (
+            <p className="author-map">
+              <a href={onMap.href}>{t('on_map', { place: onMap.place })}</a>
+            </p>
+          )}
 
           {author.writingLangs.length > 0 && (
             <ul className="author-tags">

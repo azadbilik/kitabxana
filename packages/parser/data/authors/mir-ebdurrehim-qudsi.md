@@ -3,6 +3,12 @@ slug: mir-ebdurrehim-qudsi
 nameAz: Vəndli Mir Əbdürrəhim Qüdsi
 nameRu: Мир Абдуррахим Кудси из Венда
 nameEn: Mir Abdurrahim Qudsi of Vand
+bornYear: 1773
+bornYearApprox: true
+diedYear: 1861
+diedYearApprox: true
+period: XVIII-XIX əsr
+wikidataId: Q12844604
 type: POET
 writingLangs:
   - AZ_ARABIC
