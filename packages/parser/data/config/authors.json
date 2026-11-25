@@ -336,6 +336,68 @@
         }
       ]
     },
+    "europeana": {
+      "records": [
+        {
+          "id": "/1100/1871",
+          "title": "Bahram Gur and the Iranian princess in the white pavilion, from the Haft Paykar",
+          "collection": "nizami-heft-peyker",
+          "medium": "Ink, pigments and gold on paper; Chester Beatty Per 276"
+        },
+        {
+          "id": "/1100/1808",
+          "title": "Bahram Gur in the sandalwood pavilion on Thursday, from the Haft Paykar",
+          "collection": "nizami-heft-peyker",
+          "medium": "Ink, pigments and gold on paper; Chester Beatty Per 162"
+        },
+        {
+          "id": "/90402/AK_MAK_1253",
+          "title": "Khusraw comes upon Shirin bathing",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "id": "/90402/AK_MAK_1254",
+          "title": "Shapur shows Shirin the portrait of Khusraw",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "id": "/90402/AK_MAK_1256",
+          "title": "Farhad carries Shirin and her horse",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "id": "/90402/AK_MAK_1255",
+          "title": "Khusraw and Shirin listen to song and music",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "id": "/90402/AK_MAK_1257",
+          "title": "Khusraw and Shirin together under a canopy, with four musicians",
+          "collection": "nizami-xosrov-va-sirin"
+        },
+        {
+          "id": "/90402/AK_MAK_1251",
+          "title": "Majnun visits Layla in her tent",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "id": "/90402/AK_MAK_1250",
+          "title": "Majnun's father visits his son in the wilderness",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "id": "/90402/RP_T_1993_144",
+          "title": "Layla and Majnun in the wilderness",
+          "collection": "nizami-leyli-va-macnun"
+        },
+        {
+          "id": "/90402/BK_NM_12160",
+          "title": "Lampas fragment with the story of Layla and Majnun",
+          "collection": "nizami-leyli-va-macnun",
+          "medium": "Silk lampas"
+        }
+      ]
+    },
     "cleveland": {
       "queries": [
         "nizami",

@@ -54,6 +54,7 @@ Literary texts, translations and artwork metadata imported into Kitabxana.az.
 | `artworks/` | [The Metropolitan Museum of Art Open Access](https://www.metmuseum.org/about-the-met/policies-and-procedures/image-resources) | `met-` | Object metadata, [CC0](https://creativecommons.org/publicdomain/zero/1.0/); every object is marked public domain in the Met's API. Images are linked, not stored here |
 | `artworks/` | [The Digital Walters](https://thedigitalwalters.org) | `walters-` | Manuscript miniatures, [CC0](https://openn.library.upenn.edu/html/0054.html) (the Walters waived all rights to its manuscript images; its catalogue descriptions are GNU FDL). Images are linked, not stored here |
 | `artworks/` | [The Cleveland Museum of Art Open Access](https://openaccess-api.clevelandart.org/) | `cleveland-` | Miniatures and textiles, [CC0](https://creativecommons.org/publicdomain/zero/1.0/) (`share_license_status`); kept by title (`cleveland` in authors.json). Images are linked, not stored here |
+| `artworks/` | [Europeana](https://www.europeana.eu): the Rijksmuseum and the Chester Beatty Library | `europeana-` | Records chosen by hand (`europeana` in authors.json): Rijksmuseum pages public domain, Chester Beatty [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), credited «© The Trustees of the Chester Beatty Library, Dublin». Images are linked, not stored here |
 | `artworks/removed.json` | — | — | Artworks taken out by hand (another poet's work), which a re-scrape leaves out |
 
 ## Reuse

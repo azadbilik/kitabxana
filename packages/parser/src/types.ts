@@ -245,6 +245,10 @@ export interface AuthorConfig {
     queries: string[]; // searches that gather candidates; the credit decides what is kept
     collections?: { match: string; collection: string }[]; // title regex → collection slug
   };
+  europeana?: {
+    // chosen by hand: Europeana's search finds mostly other things, and the Rijksmuseum's titles are Dutch descriptions
+    records: { id: string; title: string; collection?: string; medium?: string }[]; // id as "/90402/AK_MAK_1256"
+  };
   cleveland?: {
     queries: string[]; // searches that gather candidates (CC0, with an image)
     require: string; // regex the title or description must match, e.g. "Nizami|Khamsa"

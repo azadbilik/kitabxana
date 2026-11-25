@@ -6,6 +6,7 @@ import { planMetArtworks } from '../scrapers/met';
 import { planWaltersArtworks } from '../scrapers/walters';
 import { planCommonsArtworks } from '../scrapers/commons';
 import { planClevelandArtworks } from '../scrapers/cleveland';
+import { planEuropeanaArtworks } from '../scrapers/europeana';
 import matter from 'gray-matter';
 import { writeArtworkMd } from '../writers/md-writer';
 import type { ArtworkFrontmatter } from '../types';
@@ -17,7 +18,7 @@ function loadAuthors(): AuthorConfig[] {
   return JSON.parse(fs.readFileSync(CONFIG_PATH, 'utf-8'));
 }
 
-type Source = 'met' | 'walters' | 'commons' | 'cleveland';
+type Source = 'met' | 'walters' | 'commons' | 'cleveland' | 'europeana';
 
 /**
  * Artworks taken out by hand (another poet's work, a photo, a carpet): a re-scrape must not bring
@@ -117,6 +118,18 @@ async function scrapeCleveland(cfg: AuthorConfig, dryRun: boolean) {
   })));
 }
 
+async function scrapeEuropeana(cfg: AuthorConfig, dryRun: boolean) {
+  if (!cfg.europeana) {
+    console.warn(`  No europeana config for ${cfg.slug}`);
+    return;
+  }
+  const artworks = await planEuropeanaArtworks(cfg);
+  console.log(`  ${artworks.length} of ${cfg.europeana.records.length} chosen records kept`);
+  for (const a of artworks) console.log(`    ${a.sourceId}  ${a.license}  ${a.objectDate ?? ''}  ${a.collectionSlug ?? '(author only)'}  ${a.title.slice(0, 60)}`);
+  if (dryRun) return;
+  regenerate(cfg, 'europeana-', artworks.map((a, i) => ({ ...a, authorSlug: cfg.slug, order: i + 1, status: 'DRAFT' })));
+}
+
 async function scrapeCommons(cfg: AuthorConfig, dryRun: boolean) {
   if (!cfg.commons) {
     console.warn(`  No commons config for ${cfg.slug}`);
@@ -138,7 +151,7 @@ async function scrapeCommons(cfg: AuthorConfig, dryRun: boolean) {
 
 export const scrapeImagesCommand = new Command('scrape-images')
   .description('Collect public-domain artworks for authors from museum open-access APIs')
-  .requiredOption('--source <source>', 'Source to scrape: met, walters, commons, cleveland')
+  .requiredOption('--source <source>', 'Source to scrape: met, walters, commons, cleveland, europeana')
   .option('--author <slug>', 'Only scrape artworks for a specific author')
   .option('--dry-run', 'Print what would be written without writing files')
   .action(async (opts: { source: Source; author?: string; dryRun?: boolean }) => {
@@ -162,6 +175,9 @@ export const scrapeImagesCommand = new Command('scrape-images')
           break;
         case 'cleveland':
           await scrapeCleveland(cfg, !!opts.dryRun);
+          break;
+        case 'europeana':
+          await scrapeEuropeana(cfg, !!opts.dryRun);
           break;
         default:
           console.error(`Unknown source: ${opts.source}`);
