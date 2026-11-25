@@ -1,3 +1,4 @@
+import { publishedArtworks } from '../common/utils/artwork';
 import { Injectable, NotFoundException, OnApplicationShutdown } from '@nestjs/common';
 import { Language, Prisma } from '@prisma/client';
 import { PrismaService } from '../prisma/prisma.service';
@@ -403,6 +404,8 @@ export class WorksService implements OnApplicationShutdown {
           orderBy: [{ tag: { kind: 'asc' } }, { tag: { order: 'asc' } }],
           select: { tag: { select: { slug: true, kind: true, nameAz: true, nameRu: true, nameEn: true } } },
         },
+        // Miniatures painted for this passage (Artwork.workId, from Azad Bilik's scene catalogues)
+        artworks: publishedArtworks,
       },
     });
 

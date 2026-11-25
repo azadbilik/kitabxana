@@ -137,7 +137,8 @@ export async function planCommonsArtworks(cfg: AuthorConfig): Promise<{ artworks
         sourceId: `commons-${p.pageid}`,
         title: objectName && objectName.length > 6 ? objectName : name,
         collectionSlug: (poem?.collection || where.rootCollection) || undefined,
-        objectDate: date.slice(0, 80) || undefined,
+        // A date with no year of the work in it is the scan's upload stamp ("2013-05-12 08:16:03")
+        objectDate: years.length ? date.slice(0, 80) : undefined,
         yearStart: years.length ? Math.min(...years) : undefined,
         yearEnd: years.length ? Math.max(...years) : undefined,
         medium: undefined,

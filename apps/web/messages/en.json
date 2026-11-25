@@ -493,7 +493,8 @@
     "full_size": "Full size",
     "public_domain": "Public domain (CC0)",
     "public_domain_mark": "Public domain",
-    "titles_note": "Titles are from the museum's catalogue."
+    "titles_note": "Titles are from the museum's catalogue.",
+    "this_passage": "Miniatures painted for this passage"
   },
   "not_found": {
     "title": "Page not found",

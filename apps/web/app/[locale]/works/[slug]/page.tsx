@@ -20,6 +20,7 @@ import { ReadingTimeMeta } from '@/components/works/ReadingTimeMeta';
 import { TagPills } from '@/components/works/TagPills';
 import { RefreshIcon } from '@/components/ui/RefreshIcon';
 import { ShareMenu } from '@/components/reading/ShareMenu';
+import { ArtworkGallery } from '@/components/artworks/ArtworkGallery';
 import { WorkActions } from '@/components/library/WorkActions';
 import { DownloadMenu } from '@/components/reading/DownloadBar';
 import { getTranslations } from 'next-intl/server';
@@ -250,6 +251,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
 
   const { t, options, titleFor } = await titleHelpers(locale);
   const tTags = await getTranslations({ locale, namespace: 'tags' });
+  const tGallery = await getTranslations({ locale, namespace: 'gallery' });
   const title = titleFor(localized(work, 'title', locale), work.form);
   const { heading, number } = headingFor(work, title);
   const authorName = localized(work.author, 'name', locale);
@@ -449,6 +451,10 @@ export default async function WorkPage({ params, searchParams }: Props) {
         pagination={pageCount > 1 && pagedHere ? { page, pages: pageCount } : null}
         minutes={minutes}
       />
+
+      {(work.artworks?.length ?? 0) > 0 && (
+        <ArtworkGallery artworks={work.artworks} locale={locale} initial={4} heading={tGallery('this_passage')} />
+      )}
 
       {nextUp && (
         <nav className="next-up-nav" aria-label={t('nav_label')}>

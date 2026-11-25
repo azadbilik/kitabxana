@@ -40,6 +40,8 @@ interface Props {
   showCollection?: boolean;
   /** Show this many until the reader asks for all */
   initial?: number;
+  /** In place of "Manuscripts and miniatures" (a work page: the miniatures of this passage) */
+  heading?: string;
 }
 
 /** "CC BY-NC-SA 3.0" → its deed on creativecommons.org; null for CC0 and anything else */
@@ -71,7 +73,7 @@ const commonsThumb = (url: string, width: number): string | null => {
 /** Strip the catalogue's quotes: "Laila and Majnun at School", Folio … → Laila and Majnun at School, Folio … */
 const plainTitle = (title: string) => title.replace(/^"([^"]+)",?/, '$1,').replace(/,$/, '');
 
-export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showCollection = false, initial }: Props) {
+export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showCollection = false, initial, heading }: Props) {
   const t = useTranslations('gallery');
   const [expanded, setExpanded] = useState(false);
   const [all, setAll] = useState<Artwork[] | null>(null);
@@ -129,7 +131,7 @@ export function ArtworkGallery({ artworks: first, total, moreFrom, locale, showC
   return (
     <section className="gallery" aria-labelledby="gallery-heading">
       <h2 id="gallery-heading" className="gallery-heading">
-        {t('heading')}
+        {heading ?? t('heading')}
         <span className="gallery-count"> · {count}</span>
       </h2>
 
