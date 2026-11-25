@@ -374,7 +374,7 @@
       "roots": [
         {
           "category": "Khamsa of Nizami",
-          "depth": 2
+          "depth": 3
         }
       ],
       "exclude": "Walters|Metropolitan|\\bMET\\b",
