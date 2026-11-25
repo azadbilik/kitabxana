@@ -23,13 +23,13 @@ function first(xml: string, re: RegExp): string {
   return m ? strip(m[1]) : '';
 }
 
-/** "Licensed for use under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 …" → "CC BY-NC-SA 3.0" */
-function licenceCode(text: string): string {
-  const m = text.match(/Creative Commons ([A-Za-z-]+) (\d\.\d)/);
-  if (!m) return text.slice(0, 60);
-  const parts: Record<string, string> = { Attribution: 'BY', NonCommercial: 'NC', ShareAlike: 'SA', NoDerivs: 'ND', NoDerivatives: 'ND' };
-  return `CC ${m[1].split('-').map((p) => parts[p] ?? p).join('-')} ${m[2]}`;
-}
+/**
+ * The Walters has waived all rights to its manuscript images (CC0, stated on OPenn:
+ * https://openn.library.upenn.edu/html/0054.html). The TEI files still carry the 2013
+ * statement (CC BY-NC-SA 3.0), which no longer applies to the images; the catalogue
+ * descriptions are under the GNU FDL, and we only take titles and dates from them.
+ */
+const IMAGE_LICENCE = 'CC0';
 
 /**
  * Common-era years from a catalogue date: "922 AH / 1516 CE" → 1516; "885-886 / 1481" → 1481;
@@ -63,7 +63,6 @@ export async function planWaltersArtworks(cfg: AuthorConfig): Promise<{ artworks
     const work = first(xml, /<msItem[^>]*>[\s\S]*?<title[^>]*>([\s\S]*?)<\/title>/);
     const date = first(xml, /<origDate[^>]*>([\s\S]*?)<\/origDate>/);
     const years = yearsFrom(date);
-    const licence = licenceCode(first(xml, /<availability[^>]*>([\s\S]*?)<\/availability>/));
 
     // Folio → its page image (the display-size "sap" JPEG)
     const images = new Map<string, string>();
@@ -99,7 +98,7 @@ export async function planWaltersArtworks(cfg: AuthorConfig): Promise<{ artworks
         additionalImages: [],
         sourceUrl: `${BASE}/html/${id}/description.html`,
         creditLine: `Walters Art Museum, Ms. ${shelfmark}`,
-        license: licence,
+        license: IMAGE_LICENCE,
       });
     }
   }

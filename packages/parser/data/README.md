@@ -52,7 +52,7 @@ Literary texts, translations and artwork metadata imported into Kitabxana.az.
 | `works/talibov/` | Əbdürrəhim Talıbov, *Məsalik əl-Mühsinin* (1905), Persian, from [Persian Wikisource](https://fa.wikisource.org/wiki/مسالک_المحسنین) (preface and five parts) | `wikisource-fa-` | Prose; the modern editor's footnotes are left out. Public domain |
 | `works/biriya/`, `hebib-sahir/`, `cemenzeminli/`, `qenizade/` | [Azerbaijani Wikisource](https://az.wikisource.org) author pages | `wikisource-az-` | Biriya 10 poems, Həbib Sahir 1, Çəmənzəminli 2 stories, Qənizadə 1 (the first chapter of *Məktubati-Şeyda bəy Şirvani*, with OCR noise) |
 | `artworks/` | [The Metropolitan Museum of Art Open Access](https://www.metmuseum.org/about-the-met/policies-and-procedures/image-resources) | `met-` | Object metadata, [CC0](https://creativecommons.org/publicdomain/zero/1.0/); every object is marked public domain in the Met's API. Images are linked, not stored here |
-| `artworks/` | [The Digital Walters](https://thedigitalwalters.org) | `walters-` | Manuscript miniatures, [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/): credit the Walters Art Museum, non-commercial use only, share alike. Images are linked, not stored here |
+| `artworks/` | [The Digital Walters](https://thedigitalwalters.org) | `walters-` | Manuscript miniatures, [CC0](https://openn.library.upenn.edu/html/0054.html) (the Walters waived all rights to its manuscript images; its catalogue descriptions are GNU FDL). Images are linked, not stored here |
 
 ## Reuse
 

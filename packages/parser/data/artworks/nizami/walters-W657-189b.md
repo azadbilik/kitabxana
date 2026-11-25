@@ -17,7 +17,7 @@ additionalImages: []
 sourceUrl: >-
   https://thedigitalwalters.org/Data/WaltersManuscripts/html/W657/description.html
 creditLine: 'Walters Art Museum, Ms. W.657'
-license: CC BY-NC-SA 3.0
+license: CC0
 authorSlug: nizami
 museum: The Walters Art Museum
 order: 122
