@@ -2,7 +2,7 @@
 slug: mucrim-kerim-konlum-seni-ister
 sourceId: halle-33543-mucrim-kerim-t2
 titleAz: Könlüm səni istər
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

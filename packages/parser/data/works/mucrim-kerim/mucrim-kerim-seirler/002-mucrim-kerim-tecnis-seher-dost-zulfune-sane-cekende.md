@@ -2,7 +2,7 @@
 slug: mucrim-kerim-tecnis-seher-dost-zulfune-sane-cekende
 sourceId: halle-35518-mucrim-kerim-t2
 titleAz: 'Təcnis: Səhər dost zülfünə şanə çəkəndə'
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

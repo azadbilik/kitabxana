@@ -2,7 +2,7 @@
 slug: mucrim-kerim-tecnis-dedim-ki-xeyalim-vardi-kuyune
 sourceId: halle-33543-mucrim-kerim-t4
 titleAz: 'Təcnis: Dedim ki xəyalım vardı küyünə'
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

@@ -1,7 +1,7 @@
 ---
 slug: mucrim-kerim-seirler
-titleAz: «El şairləri»ndən
-authorSlug: mucrum-kerim
+titleAz: Şeirlər
+authorSlug: mucrim-kerim
 genre: POEM
 originalLang: AZ_LATIN
 order: 1

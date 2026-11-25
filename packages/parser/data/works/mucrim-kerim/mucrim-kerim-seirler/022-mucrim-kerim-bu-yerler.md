@@ -2,7 +2,7 @@
 slug: mucrim-kerim-bu-yerler
 sourceId: halle-33543-mucrim-kerim-t8
 titleAz: Bu yerlər
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

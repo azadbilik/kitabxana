@@ -2,7 +2,7 @@
 slug: mucrim-kerim-gedibdir
 sourceId: halle-35518-mucrim-kerim-t12
 titleAz: Gedibdir
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

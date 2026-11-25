@@ -2,7 +2,7 @@
 slug: mucrim-kerim-murebbe-ey-gozeller-sahi-sux-u-nazenin
 sourceId: halle-35518-mucrim-kerim-t9
 titleAz: 'Mürəbbə: Ey gözəllər şahı, şux-u nazənin'
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

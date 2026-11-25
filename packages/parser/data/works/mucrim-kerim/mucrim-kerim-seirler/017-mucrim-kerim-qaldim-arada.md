@@ -2,7 +2,7 @@
 slug: mucrim-kerim-qaldim-arada
 sourceId: halle-33543-mucrim-kerim-t3
 titleAz: Qaldım arada
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR

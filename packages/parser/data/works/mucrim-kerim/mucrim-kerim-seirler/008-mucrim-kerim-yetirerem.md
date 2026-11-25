@@ -2,7 +2,7 @@
 slug: mucrim-kerim-yetirerem
 sourceId: halle-35518-mucrim-kerim-t8
 titleAz: Yetirərəm
-authorSlug: mucrum-kerim
+authorSlug: mucrim-kerim
 collectionSlug: mucrim-kerim-seirler
 originalLang: AZ_LATIN
 scriptDirection: LTR
