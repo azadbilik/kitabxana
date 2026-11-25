@@ -5,6 +5,7 @@ title: >-
   Minister, "The Third Discourse on Diverse Events and Disorder in Life" (verso)
   from a Khamsa (Quintet) of Nizami (1141–1209)
 collectionSlug: nizami-mexzenul-esrar
+workSlug: nizami-sirler-xezinesi-23
 objectDate: 1555–65
 yearStart: 1550
 yearEnd: 1570

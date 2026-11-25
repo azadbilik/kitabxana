@@ -2,6 +2,7 @@
 sourceId: cleveland-1944.499
 title: Khusrau Surprising Shirin While Bathing
 collectionSlug: nizami-xosrov-va-sirin
+workSlug: nizami-xosrov-ve-sirin-25
 objectDate: 1550–99
 yearStart: 1550
 yearEnd: 1599

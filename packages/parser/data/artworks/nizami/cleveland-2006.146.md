@@ -4,6 +4,7 @@ title: >-
   Bahram Visits the White Domed Pavilion on Friday, illustrated with text in
   Khamsa of Nizami (verso), from a Haft Paykar (Seven Portraits) of Nizami
 collectionSlug: nizami-heft-peyker
+workSlug: nizami-yeddi-gozel-32
 objectDate: c. 1560–80
 yearStart: 1555
 yearEnd: 1585
