@@ -21,7 +21,7 @@ services:
     depends_on: [web, api]
 
   web:
-    image: ghcr.io/nomadical/irs-az-web:${IMAGE_TAG:-latest}
+    image: ghcr.io/azadbilik/kitabxana-web:${IMAGE_TAG:-latest}
     restart: unless-stopped
     environment:
       API_URL: http://api:4000/api
@@ -38,7 +38,7 @@ services:
       start_period: 30s
 
   api:
-    image: ghcr.io/nomadical/irs-az-api:${IMAGE_TAG:-latest}
+    image: ghcr.io/azadbilik/kitabxana-api:${IMAGE_TAG:-latest}
     restart: unless-stopped
     environment:
       DATABASE_URL: postgresql://postgres:${POSTGRES_PASSWORD}@postgres:5432/irs_az?schema=public

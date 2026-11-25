@@ -90,8 +90,8 @@ gunzip -c backups/<file>.sql.gz | docker compose exec -T postgres psql -U postgr
 ## Local test of the production stack
 
 ```bash
-docker build -f apps/api/Dockerfile -t ghcr.io/nomadical/irs-az-api:local .
-docker build -f apps/web/Dockerfile -t ghcr.io/nomadical/irs-az-web:local .
+docker build -f apps/api/Dockerfile -t ghcr.io/azadbilik/kitabxana-api:local .
+docker build -f apps/web/Dockerfile -t ghcr.io/azadbilik/kitabxana-web:local .
 cd deploy
 # .env with DOMAIN=localhost, TLS=internal, IMAGE_TAG=local and the secrets
 docker compose -p irs-az-prodtest up -d --wait   # → https://localhost

@@ -94,8 +94,8 @@ jobs:
           file: apps/${{ matrix.app }}/Dockerfile
           push: true
           tags: |
-            ghcr.io/nomadical/irs-az-${{ matrix.app }}:${{ github.sha }}
-            ghcr.io/nomadical/irs-az-${{ matrix.app }}:latest
+            ghcr.io/azadbilik/kitabxana-${{ matrix.app }}:${{ github.sha }}
+            ghcr.io/azadbilik/kitabxana-${{ matrix.app }}:latest
           cache-from: type=gha,scope=${{ matrix.app }}
           cache-to: type=gha,mode=max,scope=${{ matrix.app }}
 
