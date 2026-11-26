@@ -173,7 +173,7 @@ export const api = {
   getMoreByAuthor: (slug: string, locale: string) =>
     fetcher<MoreWork[]>(`/works/${slug}/more?locale=${locale}`),
   getOtherPoets: (slug: string, locale: string) =>
-    fetcher<{ theme: TagRef | null; works: OtherWork[] }>(`/works/${slug}/others?locale=${locale}`),
+    fetcher<{ theme: TagRef | null; similar?: boolean; works: OtherWork[] }>(`/works/${slug}/others?locale=${locale}`),
   getWorkNav: (slug: string) =>
     fetcher<{ prev: NavItem | null; next: NavItem | null }>(`/works/${slug}/nav`),
 

@@ -35,6 +35,7 @@ import {
   sourceInfo,
 } from '@/lib/verse';
 import { localePath } from '@/lib/i18n';
+import { galaxyWorkHref } from '@/lib/hub';
 import { formatReadingTime, readingMinutes } from '@/lib/reading-time';
 
 export const dynamic = 'force-dynamic';
@@ -247,7 +248,7 @@ export default async function WorkPage({ params, searchParams }: Props) {
     // Old slugs redirect above, so nav only matters when the work exists
     api.getWorkNav(slug).catch(() => ({ prev: null, next: null })),
     api.getMoreByAuthor(slug, locale).catch(() => [] as MoreWork[]),
-    api.getOtherPoets(slug, locale).catch(() => ({ theme: null, works: [] as OtherWork[] })),
+    api.getOtherPoets(slug, locale).catch(() => ({ theme: null, similar: false, works: [] as OtherWork[] })),
   ]);
 
   const { t, options, titleFor } = await titleHelpers(locale);
@@ -574,10 +575,15 @@ export default async function WorkPage({ params, searchParams }: Props) {
       {others.works.length > 0 && (
         <section className="more-works more-works--others" aria-labelledby="other-poets-title">
           <h2 id="other-poets-title" className="more-works-title">
-            <Link prefetch={false} href={localePath(locale, others.theme ? `/tags/${others.theme.slug}` : '/works')}>
-              {t('other_poets')}
-              {others.theme && <span className="more-works-theme"> · {localized(others.theme, 'name', locale)}</span>}
-            </Link>
+            {others.similar ? (
+              // Picked by how the texts read (the literature galaxy); the heading opens it on this work
+              <a href={galaxyWorkHref(slug, locale)}>{t('similar_works')}</a>
+            ) : (
+              <Link prefetch={false} href={localePath(locale, others.theme ? `/tags/${others.theme.slug}` : '/works')}>
+                {t('other_poets')}
+                {others.theme && <span className="more-works-theme"> · {localized(others.theme, 'name', locale)}</span>}
+              </Link>
+            )}
           </h2>
           <div className="card-grid more-works-grid">
             {others.works.map((item) => {

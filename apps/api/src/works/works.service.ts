@@ -9,6 +9,7 @@ import { QueryWorksDto } from './dto/query-works.dto';
 import { safeWorkBase, slugify, uniqueSlug } from '../common/utils/slug';
 import { renderMarkdown } from '../common/utils/markdown';
 import { inReadingBand } from './reading-time';
+import { SimilarIndex, pickSimilar } from './similar';
 import { paginationArgs, paginatedResult } from '../common/utils/pagination';
 import { RTL_LANGUAGES } from '@irs-az/shared';
 import type { WorkPayload } from '../submissions/dto/public-submission.dto';
@@ -118,6 +119,8 @@ export class WorksService implements OnApplicationShutdown {
   }
 
   private randomPool = new Map<UiLang, { slugs: string[]; expires: number }>();
+  /** Works by other authors that read alike, from the literature galaxy (nearest.json) */
+  private similar = SimilarIndex.load();
   private views = new Map<string, number>();
   private viewTimer: NodeJS.Timeout;
 
@@ -498,8 +501,9 @@ export class WorksService implements OnApplicationShutdown {
   }
 
   /**
-   * Poems by other poets, one per poet, preferring ones that share a theme with this work.
-   * Stable per work (the slug seeds the order of poets and poems), so pages cache well.
+   * Works by other poets, one per poet: those whose text reads most like this one (the similar
+   * index), or, for a work the index doesn't know or with too few visible neighbours, poems that
+   * share a theme with it. Stable per work either way, so pages cache well.
    */
   async byOtherPoets(slug: string, locale = 'az', take = 4) {
     const work = await this.prisma.work.findFirst({
@@ -515,6 +519,16 @@ export class WorksService implements OnApplicationShutdown {
       },
     });
     if (!work) throw new NotFoundException('Work not found');
+
+    const near = this.similar.of(work.id);
+    if (near.length) {
+      const visible = await this.prisma.work.findMany({
+        where: { id: { in: near }, authorId: { not: work.authorId }, ...VISIBLE_WORK },
+        select: { id: true, authorId: true },
+      });
+      const ids = pickSimilar(near, new Map(visible.map((w) => [w.id, w.authorId])), take);
+      if (ids.length >= 2) return { theme: null, similar: true, works: await this.cards(ids, locale) };
+    }
 
     /**
      * Up to `take` other poets in an order fixed by this work's slug, and one poem of each,
@@ -561,6 +575,12 @@ export class WorksService implements OnApplicationShutdown {
     if (!theme) picks = await pickPerPoet();
 
     const ids = picks.slice(0, take).map((p) => p.id);
+    const { id: _themeId, ...themeRef } = theme ?? { id: '' };
+    return { theme: theme ? themeRef : null, similar: false, works: await this.cards(ids, locale) };
+  }
+
+  /** Work cards (title, author, opening lines) for these ids, in this order */
+  private async cards(ids: string[], locale: string) {
     const works = await this.prisma.work.findMany({
       where: { id: { in: ids } },
       select: {
@@ -578,13 +598,9 @@ export class WorksService implements OnApplicationShutdown {
       },
     });
     const order = new Map(ids.map((id, i) => [id, i]));
-    const { id: _themeId, ...themeRef } = theme ?? { id: '' };
-    return {
-      theme: theme ? themeRef : null,
-      works: works
-        .sort((a, b) => order.get(a.id)! - order.get(b.id)!)
-        .map(({ id: _id, ...w }) => withIncipit(w)),
-    };
+    return works
+      .sort((a, b) => order.get(a.id)! - order.get(b.id)!)
+      .map(({ id: _id, ...w }) => withIncipit(w));
   }
 
   /** Published counts for the homepage catalog: works by form and genre, authors by type */

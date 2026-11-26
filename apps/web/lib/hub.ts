@@ -22,3 +22,10 @@ export function galleryPoemHref(slug: string, locale: string): string | null {
   if (locale !== 'az') q.set('lang', locale);
   return `${GALLERY_URL}?${q}`;
 }
+
+/** The literature galaxy (azadbilik.org/sebeke/qalaktika) opened on this work and its neighbours */
+export function galaxyWorkHref(slug: string, locale: string): string {
+  const q = new URLSearchParams({ w: slug });
+  if (locale !== 'az') q.set('lang', locale);
+  return `https://azadbilik.org/sebeke/qalaktika/?${q}`;
+}

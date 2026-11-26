@@ -13,7 +13,8 @@
     "prisma:seed": "ts-node prisma/seed.ts",
     "prisma:studio": "prisma studio",
     "test": "vitest run",
-    "rerender": "ts-node --transpile-only src/scripts/rerender.ts"
+    "rerender": "ts-node --transpile-only src/scripts/rerender.ts",
+    "similar": "ts-node --transpile-only src/scripts/similar.ts"
   },
   "dependencies": {
     "@irs-az/shared": "workspace:*",
