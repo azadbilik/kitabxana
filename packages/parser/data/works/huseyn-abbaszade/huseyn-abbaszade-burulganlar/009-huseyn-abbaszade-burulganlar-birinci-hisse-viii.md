@@ -17,7 +17,7 @@ Kazarmanın klubu ağzına kimi dolmuşdu. Əsgərlər cərgələrarası keçidl
 
 Qabaq cərgədəki yerlərdə müsəlman alayının komanda heyəti və Həmidlə bura gələn qonaqlar – Pyotr Anisimoviç, Mişa və Fəttah çiyin-çiyinə əyləşmişdilər. Davud da onların yanında idi.
 
-Qızıl əsgərlər Həmidin göstərdiyi hər nömrəni gurultulu alqışlarla qarşılayırdılar. Bu da ona inam verirdi. Amma yenə də Həmid hər hərdən dönüb Fəttaha baxırdı, o da ehmalca başını tərpədirdi ki, nigaran qalma, hər şey qaydasınca gedir, elə bu tərzdə də davam etdir. Pyotr Anisimoviç, Mişa arabir yerlərindən deyirdilər: “Molodes, Həmid, molodes”.
+Qızıl əsgərlər Həmidin göstərdiyi hər nömrəni gurultulu alqışlarla qarşılayırdılar. Bu da ona inam verirdi. Amma yenə də Həmid hərdən dönüb Fəttaha baxırdı, o da ehmalca başını tərpədirdi ki, nigaran qalma, hər şey qaydasınca gedir, elə bu tərzdə də davam etdir. Pyotr Anisimoviç, Mişa arabir yerlərindən deyirdilər: “Molodes, Həmid, molodes”.
 
 Davud elə canfəşanlıqla əl çalırdı ki, ovcunun içi həna çəkilmiş kimi qıpqırmızı qızarmışdı.
 

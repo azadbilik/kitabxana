@@ -66,7 +66,7 @@ Mahmud müəllim elə bil öz-özünə mızıldandı:
 
 Görək də.
 
-– Ancaq nə deyirsiniz, deyin, mən bəxtə inanıram, - deyə Babaş sözünə davam etdi. - Dünən çayçıda Uzun Məlik danışırdı ki, oğlu instituta necə girib. İki sualı yaxşı bilirmiş, onlar da çıxıb qabağına. Ə, sən öl, bəs sən bəxti nə bilmisən? Ə, Köçəri, sualın biri necə imiş? Başına ağacdan alma düşən kişini ni deyirəm.
+– Ancaq nə deyirsiniz, deyin, mən bəxtə inanıram, - deyə Babaş sözünə davam etdi. - Dünən çayçıda Uzun Məlik danışırdı ki, oğlu instituta necə girib. İki sualı yaxşı bilirmiş, onlar da çıxıb qabağına. Ə, sən öl, bəs sən bəxti nə bilmisən? Ə, Köçəri, sualın biri necə imiş? Başına ağacdan alma düşən kişini deyirəm.
 
 Oğlu Köçəri gülümsədi:
 

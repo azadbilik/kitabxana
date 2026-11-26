@@ -117,7 +117,7 @@ Fətəli yuxulasa da, daha sayıqlamırdı. Həmid bildi ki, o yuxuda arvadı il
 
 Həmidin fikrinə gəldi ki, onun əsir düşməsini batalyonlarında heç kim ağlına gətirməyəcək. “Uşaqlar elə biləcəklər ki, mən də səngərdə tank altında qalıb ölmüşəm. Evə, anama yazacaqlar oğlunuz Həmid Xələfov vətəni düşmənlərdən qoruyarkən həlak olmuşdur. Qara kağız İsmayıl mədəndə olanda anamın əlinə keçsə, onda heç nə, qonşulara oxutdurub ölümümü eşitsə, arvadın bağrı yarılacaq. Day bilməyəcək ki, mən sağam. Əslinə qalanda ölmək, əsir düşüb bu sayaq təhqir olunmaqdan qat-qat şərəfli idi. Barı qara kağız İsmayılın əlinə keçəydi. Bu xəbər arvadın axırına çıxar... Görəsən, indi Nurlu necədi?
 
-Anam məktubda mənə yazmışdı ki, Nurlu hər hərdən gəlib onu yoluxur, mənim qara xəbərimi eşitsə, ona da deyəcək. Hamı məni ölmüş zənn eləyəcək, görəcək günlərim varmış...”
+Anam məktubda mənə yazmışdı ki, Nurlu hərdən gəlib onu yoluxur, mənim qara xəbərimi eşitsə, ona da deyəcək. Hamı məni ölmüş zənn eləyəcək, görəcək günlərim varmış...”
 
 ***
 

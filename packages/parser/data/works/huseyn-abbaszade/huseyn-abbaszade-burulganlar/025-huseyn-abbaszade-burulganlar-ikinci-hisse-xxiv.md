@@ -143,7 +143,7 @@ Həmid ha fikirləşdi, Nurunun kazarmadan qayıdan günü dediyi o sözü xatı
 
 – Həmid, o vaxt demişəm, yenə də deyirəm, mən qabağa düşüb evlənmək işində sənə kömək eləyə bilərəm.
 
-Həmid Nurunu birinci dəfə görürmüş kimi üzünə xeyli baxdı. Sanki onun sir-sifətində bir eyib, əyər-əskik tapmaq istəyirdi. Nurlu sıxıldı, saçlarını sığallamaq bəhanəsilə ilə üzünü yan çevirdi.
+Həmid Nurunu birinci dəfə görürmüş kimi üzünə xeyli baxdı. Sanki onun sir-sifətində bir eyib, əyər-əskik tapmaq istəyirdi. Nurlu sıxıldı, saçlarını sığallamaq bəhanəsilə üzünü yan çevirdi.
 
 – Nurlu, qayğınçün çox sağ ol. İndi davadı, nə evlənmək?! Daha vacib işlər var.
 
@@ -233,7 +233,7 @@ Davud özündən danışıb, Bakı Sovetinin böyründəki İçərişəhər qap�
 
 – Mənə də bron veriblər, Davud. Özüm day qalmaq istəmirəm, anamın xəstəxanadan çıxmasını gözləyirəm. O çıxan kimi mən də gedirəm.
 
-Davud birini bilirdi, o birini yox. Həmid ona hamısını demədi. Demədi ki, hər dəfə Bakının hospitallarında tayqol, tayqıç, əlləri gi»- sin içində boynundan asılan yaralı əsgərlərin qarşısında çıxış eləmək çox ağırdır. O, ikipudluqları havaya atıb sinəsini qabağa verəndə səhnəyə dikilən baxışlardan istehza oxuyurdu, sanki ona deyirdilər, hörmətli Xələfov, burada, arxada gözəl, sakit binalarda sinəni daşın qabağına vermək, dəmir çubuğu biləyə sarımaq nə böyük qəhrəmanlıq lıq imiş, hünərin varsa, cəbhəyə get.
+Davud birini bilirdi, o birini yox. Həmid ona hamısını demədi. Demədi ki, hər dəfə Bakının hospitallarında tayqol, tayqıç, əlləri gi»- sin içində boynundan asılan yaralı əsgərlərin qarşısında çıxış eləmək çox ağırdır. O, ikipudluqları havaya atıb sinəsini qabağa verəndə səhnəyə dikilən baxışlardan istehza oxuyurdu, sanki ona deyirdilər, hörmətli Xələfov, burada, arxada gözəl, sakit binalarda sinəni daşın qabağına vermək, dəmir çubuğu biləyə sarımaq nə böyük qəhrəmanlıq imiş, hünərin varsa, cəbhəyə get.
 
 Hərbi hospitallarda Həmidi hərarətlə qarşılayır, alqışlayır, hörmətlə yola salırdılar. Oralarda Həmidə toxunan bir söz deməmişdilər. Ancaq keçən ay Rübabə arvad rayon icraiyyə komitəsinə çörək və ərzaq kartoçkaları almağa getmişdi, evə qayıdanda çırtma vursaydın, qanı çıxmazdı. Həmidə Bakı Sovetinin qərarı ilə ağırlıqqaldıran olduğu üçün iki kartoçka verirdilər, camaata kartoçka paylayan cavan qadın Rübabə arvadı acılamışdı: “Buna bir bax e... – demişdi, – bığıburma oğlu arxada qalıb, camaatın ərləri, oğulları gedib frontda vuruşur, bunun davaya getməməsi bir yana dursun, elə bil göydən zənbillə düşüb, iki kartoçka alır...” Rübabə söz altında qalan deyildi, necə lazımdısa kartoçka paylayan cavan qadının cavabını vermişdi, ancaq evə gələndə hirsi soyumamışdı. Axşam Həmid anasını bikef görüb səbəbini soruşdu. Rübabə demədi, oğlu dayısı Turabın goruna and verəndə, həqiqəti gizlədə bilmədi. Həmid də əvvəlcə kartoçka paylayana qəzəbləndi, dərindən düşünəndə üzünü görmədiyi o cavan qadına haqq qazandırdı.
 

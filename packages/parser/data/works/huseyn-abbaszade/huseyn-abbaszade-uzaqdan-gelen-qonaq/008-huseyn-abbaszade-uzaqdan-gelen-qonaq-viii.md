@@ -102,7 +102,7 @@ Cavanşir başını tərpətdi.
 
 Qocalar getdilər.
 
-İkinci partiya uzun çökdü. Covanni bu dəfə ehtiyatla oynayırdı. Darvazanı döydülər. Cavanların fikri dağıldı, qapıya sarı baxdılar. Qapı bir də döyüldü. Cavanşir həyətə endi. Zəminənin gəldiyini görüncə həm sevindi, həm də təəccüb elədi. Qızdan nə üçün gəldiyini yini soruşmadan dedi:
+İkinci partiya uzun çökdü. Covanni bu dəfə ehtiyatla oynayırdı. Darvazanı döydülər. Cavanların fikri dağıldı, qapıya sarı baxdılar. Qapı bir də döyüldü. Cavanşir həyətə endi. Zəminənin gəldiyini görüncə həm sevindi, həm də təəccüb elədi. Qızdan nə üçün gəldiyini soruşmadan dedi:
 
 – Gəl, Zəminə, gəl içəri.
 

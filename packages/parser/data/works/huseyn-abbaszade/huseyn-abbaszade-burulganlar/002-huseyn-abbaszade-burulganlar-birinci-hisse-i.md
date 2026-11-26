@@ -15,7 +15,7 @@ status: DRAFT
 ---
 Həmidin atası kənkan Murtuz, Coratda quyu qazanda boğulub ölmüşdü. Bu hadisədən sonra anası Rübabə yalvarıb-yaxarıb: “Ay oğul, – dedi, – başına dönüm, canım sənə qurban, ayrı işdən yapış, quyu qazmağı burax. Bir qurban verdik, bəsdi, mən ondan çıxan çörəyi istəmirəm”. Dayısı Turab Həmidi körpüyə, qayını Mirhadinin yanına gətirib yükdaşıyan düzəltmişdi. Burada Rusiyadan, İrandan və Türkmənistandan gələn gəmiləri boşaldıb yükləyirdilər. Başqa fəhlələr dallarına bir kisə alanda Həmid ikisini götürürdü. Yoldaşları başlarını bulayıb deyirdilər ki, neynirsən, alə, özünü çox gücə salma, şikəst olarsan. Həmid isə deyilənləri vecinə almırdı. Sonra limanda hamı buna alışdı. Ancaq Həmidə “öküz” ləqəbi qoydular. Oldu “Öküz Həmid”. Özü bunu bilincə bərk qəzəbləndi. Bir dəfə bu ləqəbin üstündə özündən çıxıb, yaşlı bir yoldaşının sinəsinə zərblə elə yumruq ilişdirdi ki, kişi dalı-dalı gedib, qışın soyuğunda düşdü dənizə. Yoldaşları onu sudan çıxaranda iri cüssəli kişi tir-tir əsirdi, cücəyə dönmüşdü. Bu hadisə limanda hamıya dərs oldu. O gündən heç kəs Həmidə öküz deməyə cəsarət eləmədi.
 
-Limanda yükdaşıyan fəhlələrin başçısı Mirhadi bir Həmid deyəndə, biri də ağzından düşürdü. Bu da səbəbsiz deyildi. O həm Həmiddən çəkinirdi, həm də Həmid bu gündə iki-üç nəfərin işini görürdü. Bir cümə axşamı, işin axırında Mirhadi Həmidi çağırıb dedi:
+Limanda yükdaşıyan fəhlələrin başçısı Mirhadi bir Həmid deyəndə, biri də ağzından düşürdü. Bu da səbəbsiz deyildi. O Həmiddən çəkinirdi, həm də Həmid bu gündə iki-üç nəfərin işini görürdü. Bir cümə axşamı, işin axırında Mirhadi Həmidi çağırıb dedi:
 
 – Bacoğlu, zorsan, gücünə söz yoxdu. De görüm, qurşaq yapışmaqla necəson? Əlindən gəlir?
 

@@ -18,7 +18,7 @@ status: DRAFT
 
 – Heç. Yuxum yoxdur, sən yat, – dedi.
 
-Əmməmin bu hələ məni çox düşündürdü. Düzünü deyim ki, ağlıma cürbəcür fikirlər də gəlirdi: “Bəlkə yad bir kişini ni gözləyir? Yox, yox, ola bilməz. Bəs niyə yatmır? Adam da bu qədər yuxusuz qalarmı?” Bir dəfə əmməm yerinə uzananda balışının altında balta gizlətdiyini gördüm. “Demək, əmməm qorxur, ona görə də gecələri oyaq qalır, – fikirləşdim, – axı bizim elatda oğurluq olmayıb. Burada hamı bir-birini tanıyır. Əmməmi vahiməyə salan nədir, bəs?” Yalnız bir neçə gündən sonra inandım ki, əmməmin narahatlığı boş yerə deyilmiş. Gecənin bir yarısı əmməmin səsinə oyandım.
+Əmməmin bu hələ məni çox düşündürdü. Düzünü deyim ki, ağlıma cürbəcür fikirlər də gəlirdi: “Bəlkə yad bir kişini gözləyir? Yox, yox, ola bilməz. Bəs niyə yatmır? Adam da bu qədər yuxusuz qalarmı?” Bir dəfə əmməm yerinə uzananda balışının altında balta gizlətdiyini gördüm. “Demək, əmməm qorxur, ona görə də gecələri oyaq qalır, – fikirləşdim, – axı bizim elatda oğurluq olmayıb. Burada hamı bir-birini tanıyır. Əmməmi vahiməyə salan nədir, bəs?” Yalnız bir neçə gündən sonra inandım ki, əmməmin narahatlığı boş yerə deyilmiş. Gecənin bir yarısı əmməmin səsinə oyandım.
 
 – Səfi, Səfi, dur, gör it niyə hürür?
 
@@ -92,7 +92,7 @@ O cavab vermək əvəzinə məni bağrına basdı, gözlərimdən öpdü. Onun b
 
 – Əmməcan, sən yenə qorxursan?
 
-Bilmirəm, sözümü mü xatirinə dəydi, ya da nədənsə, qəzəblə sıçrayıb ayağa qalxdı. Yaşı qurumuş gözlərində qığılcım parıldadı:
+Bilmirəm, sözümü xatirinə dəydi, ya da nədənsə, qəzəblə sıçrayıb ayağa qalxdı. Yaşı qurumuş gözlərində qığılcım parıldadı:
 
 – Ondanmı qorxacağam? – ağzından qaçırdı. – Elələri ancaq meyitimin üstündən keçə bilərlər.
 

@@ -264,7 +264,7 @@ KİŞİ arvadının qolundan dartıb dalınca sürüyə-sürüyə apardı.
 
 – Həyasız qızı! Axır ki, uruslara da üzünü göstərdin… – deyə o, hələ də mırıldanırdı.
 
-Çığır-a-çığıra yüyürüb gəlmiş, indi də yaxınlaşmağa qorxan o biri arvadlar soldatların köməyə çatdığını görüb susdular. İçərilərindən ən cəsarətli qabağa çıxıb, üzünü açmadan dilləndi:
+Çığır-a-çığıra yüyürüb gəlmiş, indi də yaxınlaşmağa qorxan o biri arvadlar soldatların köməyə çatdığını görüb susdular. İçərilərindən cəsarətli qabağa çıxıb, üzünü açmadan dilləndi:
 
 – Başına dönüm, ay Hacı Xeyri, o yazığın günahı yoxdur… Biz onu gətirdik. Hacı onun üstünə çımxırdı və arvadını dalınca çəkib apardı.
 

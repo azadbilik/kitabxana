@@ -78,7 +78,7 @@ Mahmud müəllim elə bil öz-özünə mızıldandı:
 
 Görək də.
 
-– Ancaq nə deyirsiniz, deyin, mən bəxtə inanıram, - deyə Babaş sözünə davam etdi. - Dünən çayçıda Uzun Məlik danışırdı ki, oğlu instituta necə girib. İki sualı yaxşı bilirmiş, onlar da çıxıb qabağına. Ə, sən öl, bəs sən bəxti nə bilmisən? Ə, Köçəri, sualın biri necə imiş? Başına ağacdan alma düşən kişini ni deyirəm.
+– Ancaq nə deyirsiniz, deyin, mən bəxtə inanıram, - deyə Babaş sözünə davam etdi. - Dünən çayçıda Uzun Məlik danışırdı ki, oğlu instituta necə girib. İki sualı yaxşı bilirmiş, onlar da çıxıb qabağına. Ə, sən öl, bəs sən bəxti nə bilmisən? Ə, Köçəri, sualın biri necə imiş? Başına ağacdan alma düşən kişini deyirəm.
 
 Oğlu Köçəri gülümsədi:
 
@@ -698,7 +698,7 @@ Ayaqlarında birdən-birə başlayan ağrı onu bu fikirlərdən ayır-dı. Əli
 
 – Heç. Yuxum yoxdur, sən yat, – dedi.
 
-Əmməmin bu hələ məni çox düşündürdü. Düzünü deyim ki, ağlıma cürbəcür fikirlər də gəlirdi: “Bəlkə yad bir kişini ni gözləyir? Yox, yox, ola bilməz. Bəs niyə yatmır? Adam da bu qədər yuxusuz qalarmı?” Bir dəfə əmməm yerinə uzananda balışının altında balta gizlətdiyini gördüm. “Demək, əmməm qorxur, ona görə də gecələri oyaq qalır, – fikirləşdim, – axı bizim elatda oğurluq olmayıb. Burada hamı bir-birini tanıyır. Əmməmi vahiməyə salan nədir, bəs?” Yalnız bir neçə gündən sonra inandım ki, əmməmin narahatlığı boş yerə deyilmiş. Gecənin bir yarısı əmməmin səsinə oyandım.
+Əmməmin bu hələ məni çox düşündürdü. Düzünü deyim ki, ağlıma cürbəcür fikirlər də gəlirdi: “Bəlkə yad bir kişini gözləyir? Yox, yox, ola bilməz. Bəs niyə yatmır? Adam da bu qədər yuxusuz qalarmı?” Bir dəfə əmməm yerinə uzananda balışının altında balta gizlətdiyini gördüm. “Demək, əmməm qorxur, ona görə də gecələri oyaq qalır, – fikirləşdim, – axı bizim elatda oğurluq olmayıb. Burada hamı bir-birini tanıyır. Əmməmi vahiməyə salan nədir, bəs?” Yalnız bir neçə gündən sonra inandım ki, əmməmin narahatlığı boş yerə deyilmiş. Gecənin bir yarısı əmməmin səsinə oyandım.
 
 – Səfi, Səfi, dur, gör it niyə hürür?
 
@@ -780,7 +780,7 @@ O cavab vermək əvəzinə məni bağrına basdı, gözlərimdən öpdü. Onun b
 
 – Əmməcan, sən yenə qorxursan?
 
-Bilmirəm, sözümü mü xatirinə dəydi, ya da nədənsə, qəzəblə sıçrayıb ayağa qalxdı. Yaşı qurumuş gözlərində qığılcım parıldadı:
+Bilmirəm, sözümü xatirinə dəydi, ya da nədənsə, qəzəblə sıçrayıb ayağa qalxdı. Yaşı qurumuş gözlərində qığılcım parıldadı:
 
 – Ondanmı qorxacağam? – ağzından qaçırdı. – Elələri ancaq meyitimin üstündən keçə bilərlər.
 
@@ -1620,7 +1620,7 @@ Xəzri hər şeyi alt-üst eləyəndən sonra, nəhayət ki, kəsdi. Birdən ba�
 
 – Turan, uzağa getmə ha.
 
-Özlüyümdə kişiyə minnətdar oldum. Qızı adı ilə çağırdığına görə. Bu dəqiqələrdə onun adını öyrənmək mənim üçün bir qucaq sevincə bərabərdi... Suyun içi ilə qaçan Turanın gur saçları arxasındada quş qanadları kimi pərvazlanırdı. İçərimdə meyxoş bir hiss yarandı və qızın arxasınca suya atıldım və üzə-üzə Turanın yanındandan ötüb ikinci xəndəyə çatdım. O da mənim arxamca gəldi və dövrəmdə hər hərlənməyə maya başladı. Bir delfin kimi burada suya baş vurub o biri tərəfdən çıxırdı. Gah sağımda, gah solumda nadinc bir uşaq sayağı az qala oyun çıxarırdı. Axırıncı dəfə lap böyrümdə baş vurub sudan çıxdı və üzünə səpələnmiş saçlarını əli ilə arxaya verərək dediyi sözləri eşitdim:
+Özlüyümdə kişiyə minnətdar oldum. Qızı adı ilə çağırdığına görə. Bu dəqiqələrdə onun adını öyrənmək mənim üçün bir qucaq sevincə bərabərdi... Suyun içi ilə qaçan Turanın gur saçları arxasındada quş qanadları kimi pərvazlanırdı. İçərimdə meyxoş bir hiss yarandı və qızın arxasınca suya atıldım və üzə-üzə Turanın yanındandan ötüb ikinci xəndəyə çatdım. O da mənim arxamca gəldi və dövrəmdə hərlənməyə maya başladı. Bir delfin kimi burada suya baş vurub o biri tərəfdən çıxırdı. Gah sağımda, gah solumda nadinc bir uşaq sayağı az qala oyun çıxarırdı. Axırıncı dəfə lap böyrümdə baş vurub sudan çıxdı və üzünə səpələnmiş saçlarını əli ilə arxaya verərək dediyi sözləri eşitdim:
 
 – Xəzrilərdən sonra su hələ də qızmayıb.
 
@@ -1628,7 +1628,7 @@ Sahildə oturmuş kişi Turanın mənim yaxınlığımda üzməyinə qısqanaraq
 
 – Turan, çıx, bir az dincini al.
 
-Başa düşmədim, Turan onun səsini doğrudan eşitmədi, ya da özünü eşitməzliyə vurdu. Kişi bu dəfə qollarını başının üstündə hər hərləyərək daha bərkdən çığırdı. Turan yenə saymazyanalıq göstərdi. O məndən azca aralıda baş vurub sudan çıxanda:
+Başa düşmədim, Turan onun səsini doğrudan eşitmədi, ya da özünü eşitməzliyə vurdu. Kişi bu dəfə qollarını başının üstündə hərləyərək daha bərkdən çığırdı. Turan yenə saymazyanalıq göstərdi. O məndən azca aralıda baş vurub sudan çıxanda:
 
 – Sizi çağırırlar, – dedim.
 
@@ -1734,7 +1734,7 @@ Döşəyi birlikdə sahilə çıxartdıq. Kişi elə qorxmuşdu ki, dili söz
 
 @@ 064
 
->>tutmurdu. Bədəni tir-tir əsirdi. Dodaqları göm-göy göyərmişdi. Sahiləle çatsaq da, o, döşəkçənin üstündən qalxmaq istəmirdi.
+>>tutmurdu. Bədəni tir-tir əsirdi. Dodaqları göm-göyərmişdi. Sahiləle çatsaq da, o, döşəkçənin üstündən qalxmaq istəmirdi.
 
 Turan çımxırdı:
 
@@ -1770,7 +1770,7 @@ Kövrəldim. Zavallı Turan!...
 
 # Dönüklük
 
-Nuru vağzaldan küçəyə çıxanda gözlərinə inanmadı. Şəhər sanki tamam dəyişmişdi. Doğulduğu və böyüdüyü bu doğma şəhərindən uzaqlaşdığı on il içərisində onun adamları da elə bil bambaşqa olmuşdular. Qadınlı-kişili hamının geyimi də dəyişmişdi. Xüsusilə qız və gəlinlər kişi sayağı kostyum və şalvarda gəzirdilər. Bəziləri isə yubkalarını dizindən xeyli yuxarıyadək qısaltmışdılar. O, ömründə bu qədər çılpaq qadın ayaqları görməmişdi. Şəhərin təzə tikililərinə, çoxmərtəbəli imarətlərinə tamaşa etmək məqsədilə pay-piyada evlərinə tərəf yönəldi. Bir-birindən qəşəng və yaraşıqlı binaların arxitekturası onu valeh etdi. Par-par parıldayan ayna şüşəli mağazaların bər-bəzəkli, zəngin vitrinləri gözlərini oxşadı. Ancaq bir şeyə təəssüflənirdi: evlərinə qədər olan yol boyu bir nəfər də tanışa rast gəlmədi, bir nəfərlə də salaməleyküm kəsmədi. Səkilərlə ötüb keçənlərin hamısı tanımadığı yad adamlardı. Evlərinə çatanda təkcə qoca anasının dəyişmədiyini görüb, rahat nəfəs aldı. Həmin çallaşmış seyrək saçlar, alnındakı həmin şırımlar, nazik dodaqlarının uclarında sıxlaşmış həmin narın qırışlar on il bundan əvvəl necə idisə, eləcə də qalmışdı. Hətta anası onu qucaqlayıb, bağrına basarkən uşaqlıq və gəncliyində olduğu kimi onun bədəninin əvvəlki ətrini də duydu.
+Nuru vağzaldan küçəyə çıxanda gözlərinə inanmadı. Şəhər sanki tamam dəyişmişdi. Doğulduğu və böyüdüyü bu doğma şəhərindən uzaqlaşdığı on il içərisində onun adamları da elə bil bambaşqa olmuşdular. Qadınlı-kişili hamının geyimi də dəyişmişdi. Xüsusilə qız və gəlinlər kişi sayağı kostyum və şalvarda gəzirdilər. Bəziləri isə yubkalarını dizindən xeyli yuxarıyadək qısaltmışdılar. O, ömründə bu qədər çılpaq qadın ayaqları görməmişdi. Şəhərin təzə tikililərinə, çoxmərtəbəli imarətlərinə tamaşa etmək məqsədilə pay-piyada evlərinə tərəf yönəldi. Bir-birindən qəşəng və yaraşıqlı binaların arxitekturası onu valeh etdi. Par-parıldayan ayna şüşəli mağazaların bər-bəzəkli, zəngin vitrinləri gözlərini oxşadı. Ancaq bir şeyə təəssüflənirdi: evlərinə qədər olan yol boyu bir nəfər də tanışa rast gəlmədi, bir nəfərlə də salaməleyküm kəsmədi. Səkilərlə ötüb keçənlərin hamısı tanımadığı yad adamlardı. Evlərinə çatanda təkcə qoca anasının dəyişmədiyini görüb, rahat nəfəs aldı. Həmin çallaşmış seyrək saçlar, alnındakı həmin şırımlar, nazik dodaqlarının uclarında sıxlaşmış həmin narın qırışlar on il bundan əvvəl necə idisə, eləcə də qalmışdı. Hətta anası onu qucaqlayıb, bağrına basarkən uşaqlıq və gəncliyində olduğu kimi onun bədəninin əvvəlki ətrini də duydu.
 
 Axşam şər qarışanadək yatıb dincəldi. Sonra on il ərzində özü ilə cibində gəzdirdiyi köhnə cib dəftərçəsini çıxarıb, dostlarının telefon nömrələrini axtarmağa başladı. Birinci olaraq, nə çox hörmət etdiyi Murtuzun nömrəsini yığdı. Dəstəkdə gənc bir kişi səsi eşitdi.
 
@@ -2408,7 +2408,7 @@ Cəbi icazə versə.
 
 Ərkinaz başı ilə onun sözünü təsdiq etdi:
 
-– Hm. Ancaq qulağının dibini görəndə istəyinə çatar. Taygöz əclaf! O gün mənə deyir ki, səhər tezdən şitilliklərə get. Oradakı badımcan şitillərini çıxarıb yeşiklərə yığ. Mən də getdim. Orada məndən başqa heç kim yox idi. Bir də gördüm ki, özü gəldi. Şitilliyə keçib, məni də çağırdı. Onun tay gözünün baxışından niyyətini ni başa düşdüm. Kərkini əlimə alıb qulayladım, dedim ki, qədəmini qabağa bassan kəlləni yararam!.. İndi bu əhvalatdan sonra deyirsən icazə verər? Vallah, sədr Kərimə desəm, dədəsini yandırar.
+– Hm. Ancaq qulağının dibini görəndə istəyinə çatar. Taygöz əclaf! O gün mənə deyir ki, səhər tezdən şitilliklərə get. Oradakı badımcan şitillərini çıxarıb yeşiklərə yığ. Mən də getdim. Orada məndən başqa heç kim yox idi. Bir də gördüm ki, özü gəldi. Şitilliyə keçib, məni də çağırdı. Onun tay gözünün baxışından niyyətini başa düşdüm. Kərkini əlimə alıb qulayladım, dedim ki, qədəmini qabağa bassan kəlləni yararam!.. İndi bu əhvalatdan sonra deyirsən icazə verər? Vallah, sədr Kərimə desəm, dədəsini yandırar.
 
 – De də. Niyə demirsən?
 
@@ -4054,7 +4054,7 @@ Yad adamın gözləri birdən-birə alacalandı, əhvalı tamam dəyişdi.
 
 Xatınbacı Mirzənin ona dediyi sözləri xatırlayıb, sözünün gerisini uddu. “Bəlkə, qızın ağlını çıxaran oğlanın adamlarındandır”. Dediklərinə də peşman oldu. Bir istədi ki, kişinin abrını büksün ətəyinə, desin ki, o boyda kişini dərd aparıb, qızın da nə gecəsi var, nə gündüzü. Ancaq yenə də fikirləşdi ki, birdən başqa adam olar, işləri daha da xarablar.
 
-Yad adam gözlərini Mirzəgilin qapısından ayırmadan fikrə getmişdi. İri gözlərinə açıq bir kədər çökmüşdü. Gözlərini qıfıllı qapıdan dan çəkib yenə soruşdu:
+Yad adam gözlərini Mirzəgilin qapısından ayırmadan fikrə getmişdi. İri gözlərinə açıq bir kədər çökmüşdü. Gözlərini qıfıllı qapıdan çəkib yenə soruşdu:
 
 – Dediniz ki, qız atasından tez gəlir?
 
@@ -4302,7 +4302,7 @@ Qabaqda oturan papiros satan qarı geriyə, İsgəndərə tərəf qanrılıb ded
 
 Reziyye
 
-Daha heç kəs dinmədi. Reziyyə bu sözlərdən gizlicə köksünü ötürdü. O, bu dəqiqədə kirpiklərini qaldırıb İsgəndəri görmək istərdi, ancaq çəkinirdi. Fikirləşirdi ki, onun baxışları ilə rastlaşsa, qız həyasına sığmayan bu hərəkəti, sanki, hər şeyi alt-üst eləyəcəkdi. Nə üçün? Özü də bilmirdi. Bəs nə üçün məhəllədə onunla rastlaşarkən özündə belə bir istək duymamışdı? Halbuki o zaman İsgəndər sakitcə duraraq gülümsəyirdi. Onun təbəssümündə nə hədə, nə də istehza za vardı. Bəs nə üçün o zaman bu təbəssümün fərqinə varmamışdı? İndi isə İsgəndərə baxmaq həvəsi içərisində az qala odlu bir ehtirası çevriləcəkdi. Bəlkə, adamlar sakit durduqları zaman deyil, öz hərəkətləri və rəftarları ilə cazibodardırlar? Rəziyyənin yadında yalnız bir şey qalmışdı. İsgəndərin gözlərindəki yanıqlı parıltı! Görəsən, indi də onun gözləri elə işıldayır mı? Qız iki hiss arasında qıvrılıb acıaçılırdı. Biri İsgəndəri görmək həvəsi, o birisi isə qızlıq həya və çəkingənliyindən doğan ədəb və nəzakət. “Görəsən, o, indi mənə baxırmı? Əgər baxırsa, mən bunu alqışlamazdım. Nəzərimdən düşərdi. Çünki belə mərd hərəkətdən sonra gözlərini qıza zilləyib baxmaq, sanki, onun bu hərəkətinin qız tərəfindən necə qiymətləndirilməsini öyrənmək, guya xudbin gənclərin adətidir... Bu ani baxış onun ümid və təsəvvürünü alt-üst edə bilərdi. Ancaq bununla belə yoxlamaq, sınamaq istəyirdi. Öz şəxsi mülahizəsinə görə İsgəndər gərək belə etməsin. Fövri qərara gəlməli idi. Heç olmasa adi maraq xatirinə. O, saçlarını üzündən yığmaq bəhanəsilə ilə başını arxaya verərkən, ötəriri oğrun nəzərlə istəyinə nail oldu. Ürəyi sinəsinə sığmadı. İsgəndər başını aşağı dikib oturmuşdu. Demək, o, öz mülahizəsində yanılmamişdir. Belə oğlanlar çox nadir olur.
+Daha heç kəs dinmədi. Reziyyə bu sözlərdən gizlicə köksünü ötürdü. O, bu dəqiqədə kirpiklərini qaldırıb İsgəndəri görmək istərdi, ancaq çəkinirdi. Fikirləşirdi ki, onun baxışları ilə rastlaşsa, qız həyasına sığmayan bu hərəkəti, sanki, hər şeyi alt-üst eləyəcəkdi. Nə üçün? Özü də bilmirdi. Bəs nə üçün məhəllədə onunla rastlaşarkən özündə belə bir istək duymamışdı? Halbuki o zaman İsgəndər sakitcə duraraq gülümsəyirdi. Onun təbəssümündə nə hədə, nə də istehza vardı. Bəs nə üçün o zaman bu təbəssümün fərqinə varmamışdı? İndi isə İsgəndərə baxmaq həvəsi içərisində az qala odlu bir ehtirası çevriləcəkdi. Bəlkə, adamlar sakit durduqları zaman deyil, öz hərəkətləri və rəftarları ilə cazibodardırlar? Rəziyyənin yadında yalnız bir şey qalmışdı. İsgəndərin gözlərindəki yanıqlı parıltı! Görəsən, indi də onun gözləri elə işıldayır mı? Qız iki hiss arasında qıvrılıb acıaçılırdı. Biri İsgəndəri görmək həvəsi, o birisi isə qızlıq həya və çəkingənliyindən doğan ədəb və nəzakət. “Görəsən, o, indi mənə baxırmı? Əgər baxırsa, mən bunu alqışlamazdım. Nəzərimdən düşərdi. Çünki belə mərd hərəkətdən sonra gözlərini qıza zilləyib baxmaq, sanki, onun bu hərəkətinin qız tərəfindən necə qiymətləndirilməsini öyrənmək, guya xudbin gənclərin adətidir... Bu ani baxış onun ümid və təsəvvürünü alt-üst edə bilərdi. Ancaq bununla belə yoxlamaq, sınamaq istəyirdi. Öz şəxsi mülahizəsinə görə İsgəndər gərək belə etməsin. Fövri qərara gəlməli idi. Heç olmasa adi maraq xatirinə. O, saçlarını üzündən yığmaq bəhanəsilə başını arxaya verərkən, ötəriri oğrun nəzərlə istəyinə nail oldu. Ürəyi sinəsinə sığmadı. İsgəndər başını aşağı dikib oturmuşdu. Demək, o, öz mülahizəsində yanılmamişdir. Belə oğlanlar çox nadir olur.
 
 – Ada, burada saxla!
 

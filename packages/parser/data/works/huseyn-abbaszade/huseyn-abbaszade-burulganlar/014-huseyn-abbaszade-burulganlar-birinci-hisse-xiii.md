@@ -245,7 +245,7 @@ Bu yenilik Balağanı maraqlandırdı:
 
 – Həmid, evdə daşın var?! Yoxsa məndə ikidi, birini sənə bağışlaya bilərəm.
 
-– Varımdı, məşqçün ayrı şey-şüy də tapmışam. Hər Hərdən məşğul oluram.
+– Varımdı, məşqçün ayrı şey-şüy də tapmışam. Hərdən məşğul oluram.
 
 Balağa gənc pəhləvanların uğurlu çıxışını, camaatın tərifini unutmuşdu. Bütün fikri Həmidə idi.
 

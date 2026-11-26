@@ -12,7 +12,7 @@ sourceNote: >-
   https://turuz.com/storage/her_konu-2018/3204-1-Huseyn_Abbaszade-Sechilmish_Eserleri-1-Baki-2006-320s.pdf#page=47
 status: DRAFT
 ---
-Yovşan ətrini sevirəm. Uşaqlıqda yoldaşlarımla hər hərdən şəhərin kənarlarındakı boz çöllərə yovşan, qozqurab yığmağa gedərdik. Qozqurab yığmaq çətin olduğu üçün əvvəlcə ondan başlayırdıq. Axtarıb qozqurab kollarının dibini bıçaq tiyəsi ilə ehmalca qazıya-qazıya onun ağ turpa oxşayan kökünü çıxarırdıq, evdə analarımız bu kökləri yağ-soğanla bişirirdi, elə yeməli çığırtması olurdu ki...
+Yovşan ətrini sevirəm. Uşaqlıqda yoldaşlarımla hərdən şəhərin kənarlarındakı boz çöllərə yovşan, qozqurab yığmağa gedərdik. Qozqurab yığmaq çətin olduğu üçün əvvəlcə ondan başlayırdıq. Axtarıb qozqurab kollarının dibini bıçaq tiyəsi ilə ehmalca qazıya-qazıya onun ağ turpa oxşayan kökünü çıxarırdıq, evdə analarımız bu kökləri yağ-soğanla bişirirdi, elə yeməli çığırtması olurdu ki...
 
 Bizimçün çölə yovşan, qozqurab gətirməyə getmək həm də böyüklərin gözündən, nəzərindən uzaq sərbəstlik, sevinclə dolu əyləncəydi, yorulanda yovşanlıqda evdən gətirdiyimiz şor-çörəklə nahar eləyir, arxamızı yerə verib dincəlirdik. Mən bu anlarda xoşlayırdım topa bir yovşan kolunu balıq təkin yastılayıb başımı qoyum onun üstünə, məh əsdikcə dövrəmdəki yovşan kollarının ətriylə nəfəs alır, məst olurdum. Yoldaşlarım çağırmayınca beləcə uzanardım.
 
@@ -24,7 +24,7 @@ Bu da indiki kimi yadımdadır, yaşı yüzü haqlamış ata nənəm Leyla danı
 
 İllər ötdükcə şəhərin kənarlarındakı boz çöllərdə çoxmərtəbəli binalar tikdilər, qəsəbələr saldılar, yovşanlıqlar, qozqurab kolları qaldı onların altında, biz də boya-başa çatdıq.
 
-Ancaq hər hərdən mer-meyvə bazarında yovşan satan görəndə ondan bir-iki dəstə alardım, sonra o da olmadı, yalnız ara-sıra səfərdən Bakıya qayıdanda yolüstü Ceyrançöldən bəridəki yastı təpələrdən yovşan yığıb gətirirdim, onların da elə ətri olmurdu.
+Ancaq hərdən mer-meyvə bazarında yovşan satan görəndə ondan bir-iki dəstə alardım, sonra o da olmadı, yalnız ara-sıra səfərdən Bakıya qayıdanda yolüstü Ceyrançöldən bəridəki yastı təpələrdən yovşan yığıb gətirirdim, onların da elə ətri olmurdu.
 
 Ötən il yaz səhəri gördüm ki, şəhərin gur yerində topa saqqalına erkən dən düşmüş qaynar gözlü, nimdaş geyimli bir cavan kişi yovşan satır. Yovşanların dibləri eyni biçimdə kəsilib gül dəstəsi kimi səliqəylə bağlanmışdı. Etiraf edim ki, mən indiyəcən belə gözəl, iri yovşan görməmişdim. Onların ürəyimə yatanından beş dəstə götürdüm.
 
@@ -60,7 +60,7 @@ Evdəkilər yovşanı çox sevməyimi bilsələr də, hələ mənim bu qədər y
 
 Yovşan dəstələrindən üçünü uşaqlara verdim ki, o biri otaqlarda yerbəyer eləsinlər. Mən də qalan ikisindən birini açıb yovşan qıçalarını iş otağındakı kitab rəflərinin, kitab şkafının içinə, divardan asılan rəsmlərin çərçivəsinin dalına və divanın üstünə salınmış xal-  canın altına qoydum. O birini uşaqlığında boz çöllərdə olan kimi balıqtək yastılayıb qoydum başımın altına. Divanda uzanıb gözlərimi yumdum. Xəyal məni həmişə köhnə məhəlləmizə yolum düşəndə həsrətlə xatırladığım uşaqlığıma apardı... Otağa dolan yovşan ətriylə nəfəs aldıqca mənə elə gəlirdi ki, yenə curlarımla şəhər kənarlarındakı yovşanlı çöllərdəyəm, biz qəzeti süfrə kimi açıb ortaya şorçörəklərimizi qoyub, iştahla yemişik, sonra da hərəmiz bir yanda tirilənmişik. Şərin yaz mehi əsir... Dövrəmizdəki yovşan kollarının ətrindən məst olmuşam. Nənəmin zəif səsini eşidirəm. Həmişə o, mən çöllərə qozquraq, yovşan gətirməyə gedəndə deyirdi: “Balamın balası, canımın parası. İndi ilanın, əqrəbin oyanıb üzə çıxan vaxtıdı, amanın günüdü, bir-birinizdən muğayat olun!”
 
-Nə vaxtdı ki, uzanmışdım divanda, fikir, xəyal məni gəzdirirdi göz açdığım dar dalanda, qənbər döşənmiş küçəmizdə, hər hərdən boş bir şeyin üstündə sözlərimiz çəp gələndə küsüb tez də barışdığımız yoldaşlarımın arasında özümü göyün yeddinci qatında hiss edirdim. Gözlərimi açmaqdan çəkinirdim, mənə elə gəlirdi ki, gözlərimi açan kimi indi özümə də şirin nağıl kimi görünən o əlçatmaz aləmdən ayrılacağam...
+Nə vaxtdı ki, uzanmışdım divanda, fikir, xəyal məni gəzdirirdi göz açdığım dar dalanda, qənbər döşənmiş küçəmizdə, hərdən boş bir şeyin üstündə sözlərimiz çəp gələndə küsüb tez də barışdığımız yoldaşlarımın arasında özümü göyün yeddinci qatında hiss edirdim. Gözlərimi açmaqdan çəkinirdim, mənə elə gəlirdi ki, gözlərimi açan kimi indi özümə də şirin nağıl kimi görünən o əlçatmaz aləmdən ayrılacağam...
 
 O gündən sonra mən səhərlər işə gedəndə neçə kərə yovşansatan cavan kİŞini şəhərin gur yerində əlində yovşan dəstəsi dayanan görsəm də yaxınlaşmadım, yaxşı bilirdim ki, məni görən kimi bor- «unu qaytaracaq. Mən ondan “şirvan”ın qalığını almaq istəmirdim.
 

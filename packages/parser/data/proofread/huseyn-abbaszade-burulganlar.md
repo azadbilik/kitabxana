@@ -17,7 +17,7 @@
 
 Onu harada axtarsaydın şəhərin mərkəzində – Hüsü Hacıyev küçəsindəki balaca, uzunsov otaqda yerləşən saatsaz dükanında tapardın. Mənzilində tək oturmaqdan darıxdı, getməyə ayrı bir yeri də yox idi. Hər gün səhər çörəyini yeyir, evdə yır-yığış eləyib əl ağacına dirənə-dirənə gəlirdi köhnə dostu, saatsaz Davudun yanına. Davud zərrəbini gözünə taxıb, daima dükanın sağ küncündə oturan Həmidlə danışa-danışa saat təmir eləməyə alışmışdı. Onların xasiyyətləri də tuturdu, söhbətləri də. Bir yerdə nə qədər çox olsalar da, nə dərdləşməyə sözləri tükənirdi, nə də bir-birlərindən bezib təngə gəlirdilər. Davudun bircə dəfə “filan əhvalat yadından çıxmayıb ki?” deməsi kifayət idi. Dostu dünən olmuş kimi həmin əhvalatı təfsilatı ilə danışmağa başlayırdı. Əl ağacına söykənən Həmid də hərdən gövdəsini yırğalaya-yırğalaya həsrətlə deyirdi: “Eh, ay Davud, ötən günə gün çatmaz, calasan günü günə”. Çoxdan arxada qalmış, əlçatmaz gənclik illərini anırdılar. Bu minvalla söz sözü çəkib gətirirdi, xatirə xatirəni. Qocaların başları qarışırdı söhbətə, bir də görürdülər ki, nahar vaxtı çatıb. Həmid Davudla sağollaşıb eyni yola, yenə əl ağacına dirənə-dirənə, yavaş-yavaş qayıdırdı evə. Günlər beləcə gəlib keçirdi.
 
-Davud köhnənin saatsazı idi. Şəhərdə öz müştəriləri vardı. Lalın dilini anası bildiyi kimi, o da saatların “dilini” bilirdi. Başqa ustaların təmir etməkdən boyun qaçdığı, atılmalı saatları gətirirdilər onun yanına, heç vədə müştərini məyus qaytarmırdı. Davudun balaca dükanı saat muzeyinə bənzəyirdi. Divarlardan irili-xırdalı növbənöv saatlar asılmışdı. Hamısı da çıqqatıq işləyirdi. Sağ küncdəki dəyirmi mizin üstünə yığılan əntiq saatlardan savayı, şirmayı kimi par-par parıldayan, adam boyda bir saat qapı ilə üzbəüz qoyulmuşdu. Bu bəzəkli saatın piyalə ağzı boyda bürünc kəfgiri aramla o yan-bu yana yelləndikcə sanki “gəlin-gəlin” deyib müştəriləri dükana, saatlarını düzəltdirməyə çağırırdı.
+Davud köhnənin saatsazı idi. Şəhərdə öz müştəriləri vardı. Lalın dilini anası bildiyi kimi, o da saatların “dilini” bilirdi. Başqa ustaların təmir etməkdən boyun qaçdığı, atılmalı saatları gətirirdilər onun yanına, heç vədə müştərini məyus qaytarmırdı. Davudun balaca dükanı saat muzeyinə bənzəyirdi. Divarlardan irili-xırdalı növbənöv saatlar asılmışdı. Hamısı da çıqqatıq işləyirdi. Sağ küncdəki dəyirmi mizin üstünə yığılan əntiq saatlardan savayı, şirmayı kimi par-parıldayan, adam boyda bir saat qapı ilə üzbəüz qoyulmuşdu. Bu bəzəkli saatın piyalə ağzı boyda bürünc kəfgiri aramla o yan-bu yana yelləndikcə sanki “gəlin-gəlin” deyib müştəriləri dükana, saatlarını düzəltdirməyə çağırırdı.
 
 @@ 004
 
@@ -41,7 +41,7 @@ Həmidin atası kənkan Murtuz, Coratda quyu qazanda boğulub ölmüşdü. Bu ha
 
 >>bulayıb deyirdilər ki, neynirsən, alə, özünü çox gücə salma, şikəst olarsan. Həmid isə deyilənləri vecinə almırdı. Sonra limanda hamı buna alışdı. Ancaq Həmidə “öküz” ləqəbi qoydular. Oldu “Öküz Həmid”. Özü bunu bilincə bərk qəzəbləndi. Bir dəfə bu ləqəbin üstündə özündən çıxıb, yaşlı bir yoldaşının sinəsinə zərblə elə yumruq ilişdirdi ki, kişi dalı-dalı gedib, qışın soyuğunda düşdü dənizə. Yoldaşları onu sudan çıxaranda iri cüssəli kişi tir-tir əsirdi, cücəyə dönmüşdü. Bu hadisə limanda hamıya dərs oldu. O gündən heç kəs Həmidə öküz deməyə cəsarət eləmədi.
 
-Limanda yükdaşıyan fəhlələrin başçısı Mirhadi bir Həmid deyəndə, biri də ağzından düşürdü. Bu da səbəbsiz deyildi. O həm Həmiddən çəkinirdi, həm də Həmid bu gündə iki-üç nəfərin işini görürdü. Bir cümə axşamı, işin axırında Mirhadi Həmidi çağırıb dedi:
+Limanda yükdaşıyan fəhlələrin başçısı Mirhadi bir Həmid deyəndə, biri də ağzından düşürdü. Bu da səbəbsiz deyildi. O Həmiddən çəkinirdi, həm də Həmid bu gündə iki-üç nəfərin işini görürdü. Bir cümə axşamı, işin axırında Mirhadi Həmidi çağırıb dedi:
 
 – Bacoğlu, zorsan, gücünə söz yoxdu. De görüm, qurşaq yapışmaqla necəson? Əlindən gəlir?
 
@@ -421,7 +421,7 @@ Balağa ilə lap havayı güləşərdi, bunu özünə şərəf sayırdı, üstə
 
 Mirhadi istəməsə də, Həmidin adamı kimi eşməbiğ qoçu ilə Ağabalaya xəbər göndərdi ki, oğlan güləşməyə razıdır.
 
-Balağanın Həmidlə güləşəcəyi xəbəri bircə anda camaatın arasına yayıldı. Çopur Abdulla yaddan çıxdı. Nardaranlıların ağsaqqalı Kəblə Bəybala özününkülərlə məsləhətləşib Həmidə yaxınlaşdı, qurşağının nın altından bir çəngə əsginaz çıxarıb ona uzatdı. Həmid utandı, götürmədi:
+Balağanın Həmidlə güləşəcəyi xəbəri bircə anda camaatın arasına yayıldı. Çopur Abdulla yaddan çıxdı. Nardaranlıların ağsaqqalı Kəblə Bəybala özününkülərlə məsləhətləşib Həmidə yaxınlaşdı, qurşağının altından bir çəngə əsginaz çıxarıb ona uzatdı. Həmid utandı, götürmədi:
 
 – Mənə heç nə gərək deyil, əmi.
 
@@ -643,7 +643,7 @@ Həmid isə dinib-danışmırdı, elə bil qazalaqda tək oturmuşdu.
 
 ### Birinci hissə. III
 
-Ənzəlidən gələn “Savalan” gəmisinin yükünün yarından çoxu boşaldılmışdı. Körpüdəki sivri talvarın altında sıra ilə kişmiş, xına, düyü kisələri üst-üstə yığılmışdı. Hamısının da böyründə İranın “Xurşud” nişanı vardı.
+Ənzəlidən gələn “Savalan” gəmisinin yükünün yarından çoxu boşaldılmışdı. Körpüdəki sivri talvarın altında sıra ilə kişmiş, xına, düyü kisələri üst-üstə yığılmışdı. Hamısının da böyründə İranın “Şiri-Xurşud” nişanı vardı.
 
 Dalğalar nərilti ilə sahilə cumurdular, sanki Xəzər yatağından çıxacaqdı. “Savalan” beşik kimi yırğalanırdı.
 
@@ -701,7 +701,7 @@ Həmid razılaşmadı:
 
 Bayırdan Mirhadinin qışqırığı eşidildi:
 
-– Əşşi, adama sözü nə qədər deyərlər? Niyə qulaqardına verirsən?.. Balam, kisələrə gücün çatmır, çıx get bacardığın işin dalınca da. Atam, qərdeşim, qocalmısan, kisə daşıya bilmirsən. Neynim səninçün, mən daşıyım? Həftə səkkiz, mən doqquz, bir kisə salıb partladırsan, gah xınanı dağıdırsan, gah düyünü səpirsən yerə. Sənin zərərin qazancından dan çoxdu.
+– Əşşi, adama sözü nə qədər deyərlər? Niyə qulaqardına verirsən?.. Balam, kisələrə gücün çatmır, çıx get bacardığın işin dalınca da. Atam, qərdeşim, qocalmısan, kisə daşıya bilmirsən. Neynim səninçün, mən daşıyım? Həftə səkkiz, mən doqquz, bir kisə salıb partladırsan, gah xınanı dağıdırsan, gah düyünü səpirsən yerə. Sənin zərərin qazancından çoxdu.
 
 Nahar fasiləsi qurtarmışdı. Fəhlələr “Savalan”ın qalan yükünü boşaldırdılar.
 
@@ -831,7 +831,7 @@ Mirhadi Balağanın “sənin sayəndə heç-heçə qurtardı” deməsindən he
 
 Mirhadi dedi:
 
-– Balağa qədeş ağayanalıq göstərib sənə pul təklif eləyir, nöş götürmürsən? Götür, ver anangilə xərclik eləsinlər. Mən də burda hər hərdən pul yazıb göndərərəm evinizə. Anangilin fikrini çəkmə, öz hayına qal, gör başına nə çarə qılırsan.
+– Balağa qədeş ağayanalıq göstərib sənə pul təklif eləyir, nöş götürmürsən? Götür, ver anangilə xərclik eləsinlər. Mən də burda hərdən pul yazıb göndərərəm evinizə. Anangilin fikrini çəkmə, öz hayına qal, gör başına nə çarə qılırsan.
 
 Mirhadi Balağının əliaçıqlığı qarşısında yağlı dilini işə salıb çulunu birtəhər sudan çıxartdı. Ancaq arxasız oğlanın yerindən-yurdundan didərgin düşməsində özünü günahkar bildi. Mirhadi Allahdan qorxan idi. Həmişə işi dara düşəndə, ya birinin yanında nə üçünsə özünü təqsirkar biləndə xəlvətə çəkilib cibindən Quranı çıxarır, üç dəfə öpüb gözünün üstünə qoya-qoya deyirdi: “Ya Quran sahibi, bu dəfə də keç günahımdan”.
 
@@ -925,7 +925,7 @@ Qoca balıqçı süfrəni yığışdıranda, Həmid də ona köməklik elədi.
 
 Umur kişi qonaqların yerini içəridə saldı, özününkünü bayırda – eyvanın başında. Turab içəridə yatmağa razı olmadı, qoca dedi:
 
-– Öyrənmişəm, ay Turab, burnuma dənizin iyi dəyməyəndə gözümə mə yuxu getmir. Mən ta qar düşənəcən bayırda yatıram.
+– Öyrənmişəm, ay Turab, burnuma dənizin iyi dəyməyəndə gözümə yuxu getmir. Mən ta qar düşənəcən bayırda yatıram.
 
 Həmidlə dayısının yatağı yerdə yanaşı salınmışdı. Turab ona dedi:
 
@@ -941,7 +941,7 @@ Həmid sağ böyrü üstə uzanıb dayısına qulaq asırdı. Onun özgə evdə 
 
 Xoruzlar orda–burda banladı. Umur baba öskürdü, bayırdan dəniz havası ilə içəri tənbəki qoxusu gəldi. Qoca oyaq idi, çubuq çəkirdi.
 
-– Mən özüm bu işdən ötrü hər hərdən bunlara qoşulub Həştərxana gedirəm. Bəlkə, bu yaxınlarda da getdim, onda gəlib sənə baş çəkərəm. Bunları onunçün deyirəm ki, orda darıxmayasan. Tezliklə yollar açılacaq, gediş–gəliş sərbəst olacaq. Xəzərdə ingilislərin ağalığına çox qalmayıb. Sənin dalınca adam saldıran o Çopur Abdulla kimilərinin də əl–ayağını yığışdıracaqlar. Heyif, indi başım daha vacib işlərə qarışıqdı, yoxsa onu tapıb deyərdim ki, Həmidin başından bircə tük əskik olsa, dərinə saman topdirərəm.
+– Mən özüm bu işdən ötrü hərdən bunlara qoşulub Həştərxana gedirəm. Bəlkə, bu yaxınlarda da getdim, onda gəlib sənə baş çəkərəm. Bunları onunçün deyirəm ki, orda darıxmayasan. Tezliklə yollar açılacaq, gediş–gəliş sərbəst olacaq. Xəzərdə ingilislərin ağalığına çox qalmayıb. Sənin dalınca adam saldıran o Çopur Abdulla kimilərinin də əl–ayağını yığışdıracaqlar. Heyif, indi başım daha vacib işlərə qarışıqdı, yoxsa onu tapıb deyərdim ki, Həmidin başından bircə tük əskik olsa, dərinə saman topdirərəm.
 
 – Umur kişi ucadan öskürdü. Turab anladı ki, bu adi öskürək deyil. Qoca onlara işarə eləyir ki, daha bəsdir danışdılar, yatsınlar.
 
@@ -1099,11 +1099,11 @@ Dördüncü həftə idi ki, Həmid Həştərxanda idi. Umur baba onu burada, kö
 
 @@ 022
 
->>Gözləri yolda qalmışdı, dayısı gəlib çıxmırdı. Gəlsəydi, nə yaxşı olardı, bilərdi evdə nə var, no yox, oralarda salamatlıqdırmı? mı? Bir də ona görə dayısının yolunu gözləyirdi ki, Həştərxana xana gəlməsinə peşman idi. Turabdan xahiş edəcəkdi, əgər mümkünsə, onu Bakıya qaytarsın, qorxulu olsa da, qoca balıqçı Ümur babaya qoşulub o təhlükəli yolu getməyə hazırdı. Burda qala bilmir, darıxır, fikir-xəyaldan bağrı çatlayır.
+>>Gözləri yolda qalmışdı, dayısı gəlib çıxmırdı. Gəlsəydi, nə yaxşı olardı, bilərdi evdə nə var, no yox, oralarda salamatlıqdırmı? mı? Bir də ona görə dayısının yolunu gözləyirdi ki, Həştərxana gəlməsinə peşman idi. Turabdan xahiş edəcəkdi, əgər mümkünsə, onu Bakıya qaytarsın, qorxulu olsa da, qoca balıqçı Ümur babaya qoşulub o təhlükəli yolu getməyə hazırdı. Burda qala bilmir, darıxır, fikir-xəyaldan bağrı çatlayır.
 
 Həmid Pyotr Anisimoviçdən, onun arvadı Polina İvanovnadan yerdən-göyəcən razı idi. Daha adama nə eləyirdilər?! Kişi ona evində yer verib, işə düzəltmişdi. Həmid gəmi təmiri zavodunun dəmirçi sexində fəhlə idi. Pyotr Anisimoviçin əli altında işləyirdi, pis də qazanmırdı. İş yeri də evlərinin lap böyründə idi, üç tin arası vardı.
 
-İstirahət günü idi. Bu gün Volqanın sahilində balıqçılar, necə deyərlər, dirsək-dirsəyə oturmuşdular, tilovlar çaydan boş çıxmırdı, tuthatut idi. Hərənin yanında filan qədər balıq qalaqlanmışdı, çoxu da hələ diri idi, tərpəşir, yerində atılıb-düşürdü. Həmid kənardan onlara tamaşa eləyirdi. Onun aləmində balıq tutmaq yaxşı əyləncə idi, lakin balığı tilovla yox, tor ilə ovlayaydım. Hər dəfə həvəskarlar tutduğu balıqların ağzında tilovun qırmağını əzab» verə-verə güclə dartıb çıxardanda o baxmırdı, üzünü yana çevirirdi. Fikirləşirdi ki, həyatda bir-birinə zidd nə qəribə işlər olur. Birinə sevinc gətirən bir məşğuliyyət, başqası üçün işgəncəyə, bədbəxtliyə dönür. Nədən ötrü?! Olmazmı, bu sevinc hamı üçün eyni dərəcədə olsun, biri o birinin əlində qurban getməsin?! Həmid Çopur Abdullanın hikkəsinin qurbanı olmamaq üçün öz yerini-yurdunu, anasını, qardaşlarını qoyub Həştərxana xana qaçmışdı. İndi bilmirdi ki, Bakıya haçan qayıdacaq. Dayısı Turab tapşırmışdı ki, hələlik orda qalıb işləyərsən, nə zaman geri qayıtmağını mən özüm sənə deyərəm. Az qalırdı ki, bir ay tamam olsun, dayısından bir xəbər-ətər yox idi. O bəs bura haçan gələcəkdi, haçan ona deyəcəkdi, bacıoğlu, yığış gedək evə?
+İstirahət günü idi. Bu gün Volqanın sahilində balıqçılar, necə deyərlər, dirsək-dirsəyə oturmuşdular, tilovlar çaydan boş çıxmırdı, tuthatut idi. Hərənin yanında filan qədər balıq qalaqlanmışdı, çoxu da hələ diri idi, tərpəşir, yerində atılıb-düşürdü. Həmid kənardan onlara tamaşa eləyirdi. Onun aləmində balıq tutmaq yaxşı əyləncə idi, lakin balığı tilovla yox, tor ilə ovlayaydım. Hər dəfə həvəskarlar tutduğu balıqların ağzında tilovun qırmağını əzab» verə-verə güclə dartıb çıxardanda o baxmırdı, üzünü yana çevirirdi. Fikirləşirdi ki, həyatda bir-birinə zidd nə qəribə işlər olur. Birinə sevinc gətirən bir məşğuliyyət, başqası üçün işgəncəyə, bədbəxtliyə dönür. Nədən ötrü?! Olmazmı, bu sevinc hamı üçün eyni dərəcədə olsun, biri o birinin əlində qurban getməsin?! Həmid Çopur Abdullanın hikkəsinin qurbanı olmamaq üçün öz yerini-yurdunu, anasını, qardaşlarını qoyub Həştərxana qaçmışdı. İndi bilmirdi ki, Bakıya haçan qayıdacaq. Dayısı Turab tapşırmışdı ki, hələlik orda qalıb işləyərsən, nə zaman geri qayıtmağını mən özüm sənə deyərəm. Az qalırdı ki, bir ay tamam olsun, dayısından bir xəbər-ətər yox idi. O bəs bura haçan gələcəkdi, haçan ona deyəcəkdi, bacıoğlu, yığış gedək evə?
 
 Böyründə torpağa düşən balığın tappıltısına dönüb baxdı. İri sazan yerdə çapalayırdı, ağırlığı beş-altı girvənkə olardı. Bakıda da bu balıqdan tuturdular, adına da camaat arasında çəki balığı deyirdilər.
 
@@ -1863,7 +1863,7 @@ Kazarmanın klubu ağzına kimi dolmuşdu. Əsgərlər cərgələrarası keçidl
 
 Qabaq cərgədəki yerlərdə müsəlman alayının komanda heyəti və Həmidlə bura gələn qonaqlar – Pyotr Anisimoviç, Mişa və Fəttah çiyin-çiyinə əyləşmişdilər. Davud da onların yanında idi.
 
-Qızıl əsgərlər Həmidin göstərdiyi hər nömrəni gurultulu alqışlarla qarşılayırdılar. Bu da ona inam verirdi. Amma yenə də Həmid hər hərdən dönüb Fəttaha baxırdı, o da ehmalca başını tərpədirdi ki, nigaran qalma, hər şey qaydasınca gedir, elə bu tərzdə də davam etdir. Pyotr Anisimoviç, Mişa arabir yerlərindən deyirdilər: “Molodes, Həmid, molodes”.
+Qızıl əsgərlər Həmidin göstərdiyi hər nömrəni gurultulu alqışlarla qarşılayırdılar. Bu da ona inam verirdi. Amma yenə də Həmid hərdən dönüb Fəttaha baxırdı, o da ehmalca başını tərpədirdi ki, nigaran qalma, hər şey qaydasınca gedir, elə bu tərzdə də davam etdir. Pyotr Anisimoviç, Mişa arabir yerlərindən deyirdilər: “Molodes, Həmid, molodes”.
 
 Davud elə canfəşanlıqla əl çalırdı ki, ovcunun içi həna çəkilmiş kimi qıpqırmızı qızarmışdı.
 
@@ -2367,7 +2367,7 @@ Qubadan gələn meyvə ilə dolu öküz arabalarını meydanda saxlayırdılar. 
 
 Bazara gələnlər elə bilirdilər ki, Qubadadırlar. Satıcılar Quba əsində qəndil-sina», qızıləhmədi almalarını, abasbəyi armudunu tərifləyə-tərifləyə müştəri çağırırdılar. Onların geyimləri də başqa yerlərdən gələnlərin geyimlərindən seçilirdi.
 
-Həmid heç nə almasa da, hər hərdən Quba meydanının bu ucundan girib, o ucundan çıxmağı xoşlayırdı. Yayda meydandakı alma, armud, qovun, qarpız, soğan, badımcan qalaqları günəşin qızılı şüaları altında neçə rəngə çalırdı. Meydan rəngkarlıq sərgisinə bənzəyirdi.
+Həmid heç nə almasa da, hərdən Quba meydanının bu ucundan girib, o ucundan çıxmağı xoşlayırdı. Yayda meydandakı alma, armud, qovun, qarpız, soğan, badımcan qalaqları günəşin qızılı şüaları altında neçə rəngə çalırdı. Meydan rəngkarlıq sərgisinə bənzəyirdi.
 
 Qışda meydandan əl-ayaq çəkilirdi. Qəzalardan qoz, fındıq, qax, payız alma-armudu gətirənlər Taxta bazarın dükanlarında yer tuturdular. Meydan faytonçulara qalardı. Qara çuxalı faytonçular faytonlarını növbə ilə saxlayır, müştəri gözləyirdilər...
 
@@ -2417,7 +2417,7 @@ Həmid çamadanını, boğçasını açdı. Gətirdiyi hədiyyələri anasına, 
 
 Əkizlər o biri otağa qaçıb tez-tələsik təzə köynəklərini, ayaqqabılarını geyindilər.
 
-– Uşaqların üst-başı tökülmüşdü, nə yaxşı bunları alıb gətirmisən. Heç bilmirdim ki, nə eləyim, yeməklərini güclə çatdırırdım. Bazarda hər şey od qiymətinədi. Balağanın Allah ölənlərinə rəhmət eləsin, o bizə sən gedəni hər hərdən əl tutur. Mən də qəssabdan qarın alıb
+– Uşaqların üst-başı tökülmüşdü, nə yaxşı bunları alıb gətirmisən. Heç bilmirdim ki, nə eləyim, yeməklərini güclə çatdırırdım. Bazarda hər şey od qiymətinədi. Balağanın Allah ölənlərinə rəhmət eləsin, o bizə sən gedəni hərdən əl tutur. Mən də qəssabdan qarın alıb
 
 @@ 047
 
@@ -2555,7 +2555,7 @@ Rübabə qonağı otağa apardı. Həmid qardaşlarından soruşdu:
 
 Mikayıl dedi:
 
-– Nurlu? Tez-tez gəlir. Hər Hərdən Sərvinaz xala da onunla gəlir.
+– Nurlu? Tez-tez gəlir. Hərdən Sərvinaz xala da onunla gəlir.
 
 Həmid sementi damın haşiyə daşlarının arasındakı yarığa tökdü. Torbanın dibində qalan sementi navalçanın qıraqlarındakı çuxurlara əndərib, əllərinin tozunu təmizlədi.
 
@@ -3337,7 +3337,7 @@ Bu yenilik Balağanı maraqlandırdı:
 
 – Həmid, evdə daşın var?! Yoxsa məndə ikidi, birini sənə bağışlaya bilərəm.
 
-– Varımdı, məşqçün ayrı şey-şüy də tapmışam. Hər Hərdən məşğul oluram.
+– Varımdı, məşqçün ayrı şey-şüy də tapmışam. Hərdən məşğul oluram.
 
 Balağa gənc pəhləvanların uğurlu çıxışını, camaatın tərifini unutmuşdu. Bütün fikri Həmidə idi.
 
@@ -4241,7 +4241,7 @@ Sahildə balıqçılar qayaların üstündə oturub dənizə tilov atmışdılar
 
 Həmid kəndə dayanıb qadınlara tamaşa elədi.
 
-Cavan bir gəlin yaş kilimə gilabı sürtür, sonra əli ilə onu kilimin üstünə yaydıqca gilabı sabun kimi köpüklənirdi. Gəlin axırda kilimi suya basıb çıxartdı və bürmələyib iri bir daşın üstünə qoydu. Onun böyründəki ahıl qadın ağ gilabı ilə zərif naxışlı iri bir xalçanı yuyurdu, hərəkətlərindən məlum olurdu ki, bu işdə səriştəsi var. O, iki dəfə gilabı çəkib yuyandan sonra xalça hənadan indicə çıxmış kimi üzə gülürdü. Hər kiminsə varlı adamınkı idi. Belə xalçaların sahibi özü dünyasında dəniz qırağına xalça yumağa gəlməzdi. Qadın tez-tez başını qaldırıb o birilərə baxırdı ki, aparmasınlar. Bir yeniyetmə oğlan bayaqdan o yan-bu yana gəlib-gedirdi. Qadın onu görmüşdü, gözdən qoymurdu, yanındakılara xəbərdarlıq elədi. “Ağız, ayıq olun, bu gedə xəspuşa oxşayır, bayaqdan buralarda gir-gir girlənir”. Palaz yuyan cavan qız ona hay verdi: “Balaxanım xala, qorxma, mən də onu görmüşəm, gilabından bir yumrusunu seçib qoymuşam əlimin altına, yaxın gəlsə çırpacağam başına”.
+Cavan bir gəlin yaş kilimə gilabı sürtür, sonra əli ilə onu kilimin üstünə yaydıqca gilabı sabun kimi köpüklənirdi. Gəlin axırda kilimi suya basıb çıxartdı və bürmələyib iri bir daşın üstünə qoydu. Onun böyründəki ahıl qadın ağ gilabı ilə zərif naxışlı iri bir xalçanı yuyurdu, hərəkətlərindən məlum olurdu ki, bu işdə səriştəsi var. O, iki dəfə gilabı çəkib yuyandan sonra xalça hənadan indicə çıxmış kimi üzə gülürdü. Hər kiminsə varlı adamınkı idi. Belə xalçaların sahibi özü dünyasında dəniz qırağına xalça yumağa gəlməzdi. Qadın tez-tez başını qaldırıb o birilərə baxırdı ki, aparmasınlar. Bir yeniyetmə oğlan bayaqdan o yan-bu yana gəlib-gedirdi. Qadın onu görmüşdü, gözdən qoymurdu, yanındakılara xəbərdarlıq elədi. “Ağız, ayıq olun, bu gedə xəspuşa oxşayır, bayaqdan buralarda gir-girlənir”. Palaz yuyan cavan qız ona hay verdi: “Balaxanım xala, qorxma, mən də onu görmüşəm, gilabından bir yumrusunu seçib qoymuşam əlimin altına, yaxın gəlsə çırpacağam başına”.
 
 Qadınların söhbətini eşidən Həmid teştin içindəki ağ gilabı parçalarına baxdı, onlardan birini götürüb kimə vursaydın, birtəhər eləyərdi. Həmid bilirdi ki, gilabı xalça-palaz yumaq üçün yaxşı idi. Eşşəklə Masazırdan, Hökməlidən gətirib şəhərdə satan kəndlilərdən Rübabə o qədər ağ gilabı, göy gilabı almışdı ki... Həmid anasından eşitmişdi
 
@@ -4421,7 +4421,7 @@ Nurlu Həmidi qapıya kimi ötürdü:
 
 – Gizlətmərəm, Nurlu.
 
-Ayrıldılar. Həmidə elə gəldi ki, Nurlu qapıda durub dalınca baxır, tinə çatanda dözmədi, çönüb göz yetirdi. Qızı qapıda görməsə də, onunla ikilikdə danışmağa imkan tapmasına şad idi. Həmid yavaşyavaş bu ailəyə məhrəm olurdu. İndi hər hərdən anası ilə, ya tək Balağagilə getsəydi, yersiz görünməzdi.
+Ayrıldılar. Həmidə elə gəldi ki, Nurlu qapıda durub dalınca baxır, tinə çatanda dözmədi, çönüb göz yetirdi. Qızı qapıda görməsə də, onunla ikilikdə danışmağa imkan tapmasına şad idi. Həmid yavaşyavaş bu ailəyə məhrəm olurdu. İndi hərdən anası ilə, ya tək Balağagilə getsəydi, yersiz görünməzdi.
 
 Sirkin qabağında Həmidə qara meşin gödəkçəli və qara meşin kepkalı cavan bir kişi yaxınlaşdı:
 
@@ -4933,7 +4933,7 @@ Həmid:
 
 – Məmə, - dedi, - gəl söhbəti saxlayaq, indi yol üstündəyəm. Səfərdən qayıdaram, arxayınlıqla məsləhətləşərik.
 
-– Nə deyirəm ki, ancaq razı olsaydın, sən səfərdə olanda, mən gedib Sərvinaz xanımdan qızın hərisini alardım. Sonra haçan desəydin, onda üç-dörd nəfər sözü keçən, hörmətli kişini ni qayda-qanunla onlara elçi göndərərdik.
+– Nə deyirəm ki, ancaq razı olsaydın, sən səfərdə olanda, mən gedib Sərvinaz xanımdan qızın hərisini alardım. Sonra haçan desəydin, onda üç-dörd nəfər sözü keçən, hörmətli kişini qayda-qanunla onlara elçi göndərərdik.
 
 Həmid buna razı olmadı:
 
@@ -4949,7 +4949,7 @@ Həmid necə dincələydi ki, özü də istəmədən ürəyindən olan bir təkl
 
 ### Birinci hissə. XX
 
-Sərnişin gəmisi Həştərxan limanına yan alanda, Həmid göyərtədə dayanıb sahilə baxırdı. Körpüdə xeyli adam vardı, bəzilərinin əlində gül dəstəsi. O, sərnişinləri qarşılayanlar arasında qastrol qayilə məşğul olan inzibatçını axtardı. Qabaq sırada gül dəstəsini
+Sərnişin gəmisi Həştərxan limanına yan alanda, Həmid göyərtədə dayanıb sahilə baxırdı. Körpüdə xeyli adam vardı, bəzilərinin əlində gül dəstəsi. O, sərnişinləri qarşılayanlar arasında qastrol qayğıları ilə məşğul olan inzibatçını axtardı. Qabaq sırada gül dəstəsini
 
 @@ 088
 
@@ -5501,7 +5501,7 @@ Həmid fikirləşdi ki, əgər o, Cəlilə məktub yazıb Bakıya çağırsa, fi
 
 – Məmə, xəbərin yoxdu ki, Balağa evlərinə məktub göndərir?
 
-– Sərvinaz xanıma küçədə hər hərdən rast gəlirəm, məktub olsaydı, mənə deyərdi. O yana qalanda, o topal kişi oğor Balağanın yanından gələndisə, onda Sərvinaz xanımgilə nöşün getməyib, səni xəbər alırdı?
+– Sərvinaz xanıma küçədə hərdən rast gəlirəm, məktub olsaydı, mənə deyərdi. O yana qalanda, o topal kişi oğor Balağanın yanından gələndisə, onda Sərvinaz xanımgilə nöşün getməyib, səni xəbər alırdı?
 
 – Elə məni də nigaran qoyan budu, ay məmə.
 
@@ -6144,7 +6144,7 @@ Həmid Nurluya minnətdarlıq elədi:
 
 – O fikri başından çıxart, oğul.
 
-Rübabə oğlunun nədən ötrü Nurludan imtina etməsinin səbəbini bilməsə də, duyurdu ki, Həmid Nurlunun dərdini çəkir. O, hər hərdən Sərvinazdan, qonşu arvadlardan Nurlu barəsində eşitdiyini gəlib evdə danışanda görürdü ki, Həmid çox maraqlanır. Bu qənaətə gəlmişdi ki, oğlu Nurlunun xiffətini eləyir, ona görə də başqa qızla evlənmir. Həmid Uraldan, qastrol səfərindən qayıdan günün ona demişdi: “Oğul, görünür, Nurlu qismətin deyilmiş, haçanacan subay gəzəcəksən, sənin tay-tuşlarının yekə oğul-qızları var, bu gün-sabah qayınata olacaqlar, gərək hər işi öz məqamı çatanda eləyəsən. Sən vaxtını ötürürsən”.
+Rübabə oğlunun nədən ötrü Nurludan imtina etməsinin səbəbini bilməsə də, duyurdu ki, Həmid Nurlunun dərdini çəkir. O, hərdən Sərvinazdan, qonşu arvadlardan Nurlu barəsində eşitdiyini gəlib evdə danışanda görürdü ki, Həmid çox maraqlanır. Bu qənaətə gəlmişdi ki, oğlu Nurlunun xiffətini eləyir, ona görə də başqa qızla evlənmir. Həmid Uraldan, qastrol səfərindən qayıdan günün ona demişdi: “Oğul, görünür, Nurlu qismətin deyilmiş, haçanacan subay gəzəcəksən, sənin tay-tuşlarının yekə oğul-qızları var, bu gün-sabah qayınata olacaqlar, gərək hər işi öz məqamı çatanda eləyəsən. Sən vaxtını ötürürsən”.
 
 Bu sözlər Həmidə təsir eləmədi.
 
@@ -6158,7 +6158,7 @@ Camaat donquldandı:
 
 – Mayor gedib, indi də bunu göndərdi. Nə kələk adammış.
 
-– O ki belə yapışıb, day bu gün əsgərləri bura buraxmayacaqlar.
+– O ki belə yapışıb, day bu gün əsgərləri buraxmayacaqlar.
 
 Camaat narazılıqla dağılışdı. Tək-tük qalıb gözləyənlər də oldu.
 
@@ -6250,7 +6250,7 @@ Dayanacağa azacıq qalanda Təzəbağın qabağında düşmək istəyənlər qa
 
 Rübabə arvad ayağa qalxdı.
 
-Nurlu indi hiss elədi ki, Həmidin sinəsinə çox sığınıb, sanki yuxudan ayıldı, tez geri çəkildi. Fuad da anasına baxıb arxasındakı kişini ni itələyib Hamıdan aralandı.
+Nurlu indi hiss elədi ki, Həmidin sinəsinə çox sığınıb, sanki yuxudan ayıldı, tez geri çəkildi. Fuad da anasına baxıb arxasındakı kişini itələyib Hamıdan aralandı.
 
 Tramvay Cəfər Cabbarlı küçəsində dayandı. Həmid anasını bir də çağırdı:
 
@@ -6454,7 +6454,7 @@ Həmid ha fikirləşdi, Nurunun kazarmadan qayıdan günü dediyi o sözü xatı
 
 – Həmid, o vaxt demişəm, yenə də deyirəm, mən qabağa düşüb evlənmək işində sənə kömək eləyə bilərəm.
 
-Həmid Nurunu birinci dəfə görürmüş kimi üzünə xeyli baxdı. Sanki onun sir-sifətində bir eyib, əyər-əskik tapmaq istəyirdi. Nurlu sıxıldı, saçlarını sığallamaq bəhanəsilə ilə üzünü yan çevirdi.
+Həmid Nurunu birinci dəfə görürmüş kimi üzünə xeyli baxdı. Sanki onun sir-sifətində bir eyib, əyər-əskik tapmaq istəyirdi. Nurlu sıxıldı, saçlarını sığallamaq bəhanəsilə üzünü yan çevirdi.
 
 – Nurlu, qayğınçün çox sağ ol. İndi davadı, nə evlənmək?! Daha vacib işlər var.
 
@@ -6550,7 +6550,7 @@ Davud özündən danışıb, Bakı Sovetinin böyründəki İçərişəhər qap�
 
 – Mənə də bron veriblər, Davud. Özüm day qalmaq istəmirəm, anamın xəstəxanadan çıxmasını gözləyirəm. O çıxan kimi mən də gedirəm.
 
-Davud birini bilirdi, o birini yox. Həmid ona hamısını demədi. Demədi ki, hər dəfə Bakının hospitallarında tayqol, tayqıç, əlləri gi»- sin içində boynundan asılan yaralı əsgərlərin qarşısında çıxış eləmək çox ağırdır. O, ikipudluqları havaya atıb sinəsini qabağa verəndə səhnəyə dikilən baxışlardan istehza oxuyurdu, sanki ona deyirdilər, hörmətli Xələfov, burada, arxada gözəl, sakit binalarda sinəni daşın qabağına vermək, dəmir çubuğu biləyə sarımaq nə böyük qəhrəmanlıq lıq imiş, hünərin varsa, cəbhəyə get.
+Davud birini bilirdi, o birini yox. Həmid ona hamısını demədi. Demədi ki, hər dəfə Bakının hospitallarında tayqol, tayqıç, əlləri gi»- sin içində boynundan asılan yaralı əsgərlərin qarşısında çıxış eləmək çox ağırdır. O, ikipudluqları havaya atıb sinəsini qabağa verəndə səhnəyə dikilən baxışlardan istehza oxuyurdu, sanki ona deyirdilər, hörmətli Xələfov, burada, arxada gözəl, sakit binalarda sinəni daşın qabağına vermək, dəmir çubuğu biləyə sarımaq nə böyük qəhrəmanlıq imiş, hünərin varsa, cəbhəyə get.
 
 Hərbi hospitallarda Həmidi hərarətlə qarşılayır, alqışlayır, hörmətlə yola salırdılar. Oralarda Həmidə toxunan bir söz deməmişdilər. Ancaq keçən ay Rübabə arvad rayon icraiyyə komitəsinə çörək və
 
@@ -6572,7 +6572,7 @@ Həmid respublika hərbi komissarı Ağaəmi İsmayılova ərizə verəndən son
 
 @@ 117
 
->>qutularında kağız gördü. Qardaşı Mikayıldan gəlməsini ümid eləyib çıxartdı. Məktub anasına göndərilmişdi. Onu yazan Matveyev familiyalı birisi idi. Həmid belə bir kişini ni tanımırdı. İntizar içində kağızı açıb oxudu. Hissə komandiri polkovnik Matveyev məktubda leytenant Mikayıl Xələfovun Tula vilayətinin azad edilməsində mərdliklə vuruşub həlak olmasını bildirir, onların ailəsinə bu böyük itkiyə görə komandanlıq adından başsağlığı verirdi. “Banı сын лейтенант Михаил Халафов пал смертью храбрых 31 декабря 1941 года B бою за освобождение города Белева от немецко-фашистских захватчиков. Выражаю свое соболезнование...”
+>>qutularında kağız gördü. Qardaşı Mikayıldan gəlməsini ümid eləyib çıxartdı. Məktub anasına göndərilmişdi. Onu yazan Matveyev familiyalı birisi idi. Həmid belə bir kişini tanımırdı. İntizar içində kağızı açıb oxudu. Hissə komandiri polkovnik Matveyev məktubda leytenant Mikayıl Xələfovun Tula vilayətinin azad edilməsində mərdliklə vuruşub həlak olmasını bildirir, onların ailəsinə bu böyük itkiyə görə komandanlıq adından başsağlığı verirdi. “Banı сын лейтенант Михаил Халафов пал смертью храбрых 31 декабря 1941 года B бою за освобождение города Белева от немецко-фашистских захватчиков. Выражаю свое соболезнование...”
 
 O gün Həmid Çənbərəkəndindəki göz xəstəxanasına, anasına dəyməyə gedəcəkdi, getmədi. Qardaşının ölüm xəbəri onu elə sarsıtmışdı ki, qorxdu orda dərdini büruzə verər. Rübabə arif arvad idi, belə hadisəni heç cür ondan gizlətmək mümkün deyildi.
 
@@ -7054,7 +7054,7 @@ Həmidinki gətirdi, hissələrini çox axtarmadı, yük maşını onların bata
 
 Rota komandirinin başı söhbətə qarışdı, heç Hamıdan tibb-səhiyyə batalyonundan nədən ötrü belə tez qayıtmasının səbəbini xəbər almadı.
 
-O gün ön xətdə axşama kimi sakitlik oldu. Ancaq hər hərdən faşistlərin batareyaları bizimkilərin mövqelərinə atəş açırdılar. Bizimkilər atəş nöqtələrinin yerini bildirməmək üçün onlara cavab vermirdilər. Yüksəkdən uçan düşmən kəşfiyyatçı təyyarəsinin uğultusu kəsilmirdi.
+O gün ön xətdə axşama kimi sakitlik oldu. Ancaq hərdən faşistlərin batareyaları bizimkilərin mövqelərinə atəş açırdılar. Bizimkilər atəş nöqtələrinin yerini bildirməmək üçün onlara cavab vermirdilər. Yüksəkdən uçan düşmən kəşfiyyatçı təyyarəsinin uğultusu kəsilmirdi.
 
 Gecə gündüzdən də sakit keçdi.
 
@@ -7062,7 +7062,7 @@ Həmid səngərdə əvvəlki yerini tutmuşdu, yenə Nikolay Frolovla yanaşı i
 
 – Al, yiyəsi üçün darıxırdı. Başqasını bilmirəm, mənim əlim bir tüfəngə yatdı, ona öyrəşdim, qurtardı getdi, oldu mənə doğma. Hər tüfəngin öz xasiyyəti var, sanki canlıdı, gərək onun dilini biləsən, yoxsa o sənin sözünə qulaq asmaz, düz vurmaz. Yaxşı tüfəng ovçunun arxasıdı.
 
-Kolya Frolov tüfəng barəsində çox şey dedi. Həmid onları dinləsə də, hamısı ona fərziyyə kimi gəlirdi. Avtomatına baxdı, disk dolu idi, onu səylə silib təmizləmişdilər, zavoddan təzəcə çıxmış kimi par-par parıldayırdı.
+Kolya Frolov tüfəng barəsində çox şey dedi. Həmid onları dinləsə də, hamısı ona fərziyyə kimi gəlirdi. Avtomatına baxdı, disk dolu idi, onu səylə silib təmizləmişdilər, zavoddan təzəcə çıxmış kimi par-parıldayırdı.
 
 – Sağ ol, qardaş, – dedi, – avtomatı karlı saxlamısan.
 
@@ -7300,7 +7300,7 @@ Həmid Kolyanı ehtiyatla şeh düşmüş torpağa uzatdı. Onlar böyük zəmin
 
 – Bir hovur gözləyək, bəlkə, keçib getdi.
 
-Həmid avtomatını götürüb daldalanmaq üçün ətrafda sığınacaq axtarmağa getdi. Göydə ulduzlar sayrışsa da, yerdə bir işıq, işıltı görünmürdü. O fikirləşirdi ki, kaş yaxınlıqda bir ev olaydı, orada yerli camaatdan bir nəfər qalaydı və Kolyanı tapşırdı ona. Bu vəziyyətdə kişini ni hərə aparaydı, ona nə köməyi deyə bilərdi?!
+Həmid avtomatını götürüb daldalanmaq üçün ətrafda sığınacaq axtarmağa getdi. Göydə ulduzlar sayrışsa da, yerdə bir işıq, işıltı görünmürdü. O fikirləşirdi ki, kaş yaxınlıqda bir ev olaydı, orada yerli camaatdan bir nəfər qalaydı və Kolyanı tapşırdı ona. Bu vəziyyətdə kişini hərə aparaydı, ona nə köməyi deyə bilərdi?!
 
 Həmid azmamaqdan ötrü Kolyanı qoyduğu yeri nişanlamışdı, zəminin qırağına xeyli daş-kəsək yığmışdı. O, həndəvəri çox dolandı, gözünə yaşayış məntəqəsi, bir ev dəymədi, yalnız iki zəmini ayıran şose yolunun ətəyində damının yarısı uçmuş bir talvar gördü, o da kara gəlməzdi. Həmid geri qayıtmaq istəyəndə çöldə kol-kosların arxasında zolaq kimi uzanan bir qaraltı görüb oraya getdi. Bura ortasından bilək yoğunluğunda su axan, içini ot-alaq basmış bir ensiz yarğan idi. Həmid yarğana düşdü, onun içi ilə xeyli getdi, ins-cinsə rast gəlmədi, düşündü ki, açıqlıqda taxılın içində qalmaqdansa, yenə buralar yaxşıdır, uzaqdan görünmür, həm də su yaxındadır, bu da şərtdən idi. Səhər Kolyam yarğanda qoyub ərzaq axtarmağa gedə bilərdi.
 
@@ -7566,7 +7566,7 @@ Həmidin fikrinə gəldi ki, onun əsir düşməsini batalyonlarında heç kim a
 
 >>təhqir olunmaqdan qat-qat şərəfli idi. Barı qara kağız İsmayılın əlinə keçəydi. Bu xəbər arvadın axırına çıxar... Görəsən, indi Nurlu necədi?
 
-Anam məktubda mənə yazmışdı ki, Nurlu hər hərdən gəlib onu yoluxur, mənim qara xəbərimi eşitsə, ona da deyəcək. Hamı məni ölmüş zənn eləyəcək, görəcək günlərim varmış...”
+Anam məktubda mənə yazmışdı ki, Nurlu hərdən gəlib onu yoluxur, mənim qara xəbərimi eşitsə, ona da deyəcək. Hamı məni ölmüş zənn eləyəcək, görəcək günlərim varmış...”
 
 ***
 
@@ -8268,7 +8268,7 @@ Həmid Hitlerin çarpayının dalında divardan asılan şəklinə işarə eləd
 
 – Üstünə beş-altısını qoyub desən də, o sənə inanmaz.
 
-Çopur Abdulla ona tapşırılan rolu qədər səylə oynasa da hiss edilirdi ki, pis ifaçıdır. Həmid də ədəb-ərkan gözləyən tamaşaçı kimi bu oyunun inandırıcı olmadığını onun üzünə vurmurdu.
+Çopur Abdulla ona tapşırılan rolu nə qədər səylə oynasa da hiss edilirdi ki, pis ifaçıdır. Həmid də ədəb-ərkan gözləyən tamaşaçı kimi bu oyunun inandırıcı olmadığını onun üzünə vurmurdu.
 
 – Əlizaman oğlu, madam ki, sən mənə ürək qızdırıb bu cür sözlər deyirsən, onda sənə bir sualım var, onu da bilirəm ki, Allah tanıyansan, sən o cibində gəzdirdiyin Quran mənə düzünü de, Ruhulla bəyin milliyyəti nədi?
 
@@ -8812,7 +8812,7 @@ Həmid dünən axşam təsəvvürünə gətirməzdi ki, bu gecə belə ağır v�
 
 Hava mülayim idi, ancaq Həmid üşüyürdü, yarasından çox qan axmışdı, ondan idimi?! Qolu da ona ağırlıq eləyirdi. Sanki, sağ tərəfindən nə isə lazımsız bir şey asmışdılar, öz qolu deyildi.
 
-Səmadakı bulud topları harasa axıb getmişdi, dan ulduzu üzük qaşı kimi par-par parıldayırdı.
+Səmadakı bulud topları harasa axıb getmişdi, dan ulduzu üzük qaşı kimi par-parıldayırdı.
 
 Həmid səhərin açılmasını gözləyirdi. Nə qədər ağır olsa da, bu gecəni ömrü boyu unutmayacaqdı. Bu mülayim gecədə çoxdankı arzusuna çatmış, nəhayət, Çopur Abdullanın cəzasını vermişdi, üstəlik əsirlikdən qurtarmışdı. Həmid üçün əsir olub faşistlərin qarşısında qul kimi dolanmaq ən böyük təhqir idi. Ancaq bir qolu yaralanıb yanına düşmüşdü. Ona tibbi yardım göstərilməli idi. Göstərilməsəydi də eybi yox, ölsəydi azadlıqda öləcəkdi, açıq səmanın altında, təbiətin qoynunda. Həmid bu azadlığın, bu sərbəstliyin həsrətini çox çəkmişdi. Yenidən ələ keçmək qorxusu olmasaydı, Həmid yerindən tərpənməz, yaranın ağrısına məhəl qoymayıb burada arxası üstə uzanardı.
 
@@ -9274,7 +9274,7 @@ Həmid əlini tüklü çənəsinə sürtə-sürtə hamamxanaya qayıtdı. Üzün
 
 Əgər çənəsinin altını cızmaq olmasaydı, birinci dəfə tək əllə üz qırxmağı uğurlu qurtarmışdı. “Neynək, çəmini tapacağam”. O, əlüzyuyanın yuxarısındakı xırdaca güzgüdə sifətinə baxdı. “Xeyli cavanlaşdım, indi adama oxşayıram”.
 
-Şkafın ləməsində davadan qabaq qalan yarım şüşə “Troynoy odekolon” vardı, ondan ovcuna çiləyib üzünə sürtdü, cızılan yer göynətdi. Dəsmalla üzünü yelləyə-yelləyə pəncərə qabağına gəlib, küçəyə tamaşa elədi. Təzəbəğin ortasındakı hovuzun qırağında bağça uşaqlara oynayırdılar. Yaxındakı skamyada bir qadın çəpəki əyləşib uşaqları nəzarət eləyirdi. Həmid onu Nurluya oxşatdı. Davadan əvvəl Beşmərtəbənin yaxınlığındakı “Bənövşə” bağçasının uşaqlarını xoş havalarda Təzəbəğə oynamağa gətirirdilər. Nurlu orada tərbiyəçi idi, o da hər hərdən balacalarla buraya gəlirdi. Həmid nigaran qaldı: “Qadın Nurlu olmaya?” Dayanıb qadının üzünü bu yana çevirməsini gözlədi. Tərslikdən, gözü uşaqlarda qalan tərbiyəçi vəziyyətini dəyişmədi. Həmid dəsmalı aparıb hamamxanadan asdı, qaynara düşən çaydanın odunu azaltdı, çoxdandı ev çayı içməmişdi (anası Rübabənin dəmlədiyi çayların dadı damağında qalmışdı), çay dəmlədi. Fikri tərbiyəçi qadının yanında qalmışdı. Təzədən pəncərə qabağına gəlib Təzəbağa baxdı, bu dəfə qadının üzü bu tərəfə idi, uşaqları sıraya düzüb getməyə hazırlaşırdı. Həmid gördü ki, o özgəsidir. Pəncərə qabağından çəkildi. Ürəyindən Nurlunu görmək, onunla danışmaq keçdi. “Axşam-üstü bağçanın qabağına gedib onun işdən çıxmasını gözləsəm, nə təhər olar? Bəlkə, day “Bənövşə”də işləmir, yerini dəyişiblər”. Həmid məlumat bürosundan “Bənövşə”nin telefon nömrəsini öyrəndi, otaqda gəzinə-gəzinə fikirləşdi oraya zəng çalsın, ya çalmasın? Telefona Nurlu gəlsə, tanışlıq verib, onunla danışsınmı? “Qoy zəng eləyim,
+Şkafın ləməsində davadan qabaq qalan yarım şüşə “Troynoy odekolon” vardı, ondan ovcuna çiləyib üzünə sürtdü, cızılan yer göynətdi. Dəsmalla üzünü yelləyə-yelləyə pəncərə qabağına gəlib, küçəyə tamaşa elədi. Təzəbəğin ortasındakı hovuzun qırağında bağça uşaqlara oynayırdılar. Yaxındakı skamyada bir qadın çəpəki əyləşib uşaqları nəzarət eləyirdi. Həmid onu Nurluya oxşatdı. Davadan əvvəl Beşmərtəbənin yaxınlığındakı “Bənövşə” bağçasının uşaqlarını xoş havalarda Təzəbəğə oynamağa gətirirdilər. Nurlu orada tərbiyəçi idi, o da hərdən balacalarla buraya gəlirdi. Həmid nigaran qaldı: “Qadın Nurlu olmaya?” Dayanıb qadının üzünü bu yana çevirməsini gözlədi. Tərslikdən, gözü uşaqlarda qalan tərbiyəçi vəziyyətini dəyişmədi. Həmid dəsmalı aparıb hamamxanadan asdı, qaynara düşən çaydanın odunu azaltdı, çoxdandı ev çayı içməmişdi (anası Rübabənin dəmlədiyi çayların dadı damağında qalmışdı), çay dəmlədi. Fikri tərbiyəçi qadının yanında qalmışdı. Təzədən pəncərə qabağına gəlib Təzəbağa baxdı, bu dəfə qadının üzü bu tərəfə idi, uşaqları sıraya düzüb getməyə hazırlaşırdı. Həmid gördü ki, o özgəsidir. Pəncərə qabağından çəkildi. Ürəyindən Nurlunu görmək, onunla danışmaq keçdi. “Axşam-üstü bağçanın qabağına gedib onun işdən çıxmasını gözləsəm, nə təhər olar? Bəlkə, day “Bənövşə”də işləmir, yerini dəyişiblər”. Həmid məlumat bürosundan “Bənövşə”nin telefon nömrəsini öyrəndi, otaqda gəzinə-gəzinə fikirləşdi oraya zəng çalsın, ya çalmasın? Telefona Nurlu gəlsə, tanışlıq verib, onunla danışsınmı? “Qoy zəng eləyim,
 
 @@ 170
 
@@ -9422,7 +9422,7 @@ Həmidlə İsmayıl günortadan bir yerə olsalar da, danışırdılar, söhbət
 
 – Bəs sən indi bu ev-eşikdə tək nə sayaq qalacaqsan, bir nəfər biş-düş eləyən, səliqə-sahman yaradan lazımdı, sənə tək çox çətin olar.
 
-– Hə, gərək bir qoca arvad tapıb xahiş eləyək, gəlib hər hərdən pal-tarlarımızı yusun, mənzili yığışdırsın. Mömənin ölümündən sonra sənin pal-paltarını kim yuyur?
+– Hə, gərək bir qoca arvad tapıb xahiş eləyək, gəlib hərdən pal-tarlarımızı yusun, mənzili yığışdırsın. Mömənin ölümündən sonra sənin pal-paltarını kim yuyur?
 
 – Bir nəfər var.
 
@@ -9534,7 +9534,7 @@ Telefon zəng vurdu. Həmid dəstəyi götürməyə tələsmədi. “Yenə gör�
 
 – Hə, İsmayıl sənsən, xeyir ola?
 
-– Xeyirdi. Burda hər hərdən imkan olanda uşaqlar dənizdən balıq tuturlar. Bu gün xeyli ovlayıblar. Mənə də bir iri xəşəm veriblər. Bilirəm xəşəm balığını çox xoşlayırsan, onu axşam şəhərə gələnlərin biri ilə göndərəcəyəm sənə.
+– Xeyirdi. Burda hərdən imkan olanda uşaqlar dənizdən balıq tuturlar. Bu gün xeyli ovlayıblar. Mənə də bir iri xəşəm veriblər. Bilirəm xəşəm balığını çox xoşlayırsan, onu axşam şəhərə gələnlərin biri ilə göndərəcəyəm sənə.
 
 – Mən təkbaşına iri balığı neynəyəcəyəm, ay İsmayıl, qalsın orda, özünüz bişirib» yeyin.
 
@@ -9576,7 +9576,7 @@ Dünən toy olmuşdu. İsmayılın toyu, xudmani bir məclis idi, xeyir işə b�
 
 Toy çalğısız olmuşdu, özləri xanəndə, sazanda çağırmamışdılar. Simagilin qədimi pianosunda bacısı yalnız bircə dəfə alçaqdan “Qarabağ şikəstəsi” çalmış, onun yanında oturan əri pəsdən bir ağız oxumuşdu. Bu səs otaqdan bayıra çıxmamışdı. Çıxmasını heç istəmirdilər də. Həyətləri böyük idi, üçmərtəbəli binada qırxacan ailə yaşayırdı. Qonşularından qara kağız gələni, itkin düşəni, əlil olub arxaya qayıdanı vardı, camaatın dərdi başından aşağı bir vaxtda səs-küylə, zurna-balabanla toy eləmək nəyə lazım idi?!
 
-Ağsaqqal kimi Həmidi məclisə tamada seçmişdilər. O, azdanışan, məzəsiz adam idi, tamadalığa qəti yaramırdı. Yaxşı ki, Simanın yeznəsi maşınqayırma zavodunun baş mühəndisi, dilli-dilavər Həsən hər hərdən ayağa qalxıb gülməli əhvalat danışır, qonaqları şənləndirirdi, yoxsa toy süst keçəcəkdi.
+Ağsaqqal kimi Həmidi məclisə tamada seçmişdilər. O, azdanışan, məzəsiz adam idi, tamadalığa qəti yaramırdı. Yaxşı ki, Simanın yeznəsi maşınqayırma zavodunun baş mühəndisi, dilli-dilavər Həsən hərdən ayağa qalxıb gülməli əhvalat danışır, qonaqları şənləndirirdi, yoxsa toy süst keçəcəkdi.
 
 Rübabə arvadın çoxdankı arzu-kamı idi. Üç oğlunun üçünü də Bakı qaydası ilə, dost sevindirən toy eləyəcəkdi. Bu arzu ürəyində
 
@@ -9816,7 +9816,7 @@ Müavin stividorun şikayətini haqlı saysa da dedi:
 
 – Mən dəyişməmişəm, ay Həmid, zəmanə dəyişib. Elə bir şəxs sənə ağız açır ki, keçə bilmirsən, üz üzdən utanır, gərək o özü belə bir işə getməyə. Neyniyəsən?!
 
-Həmidə yəqin idi ki, Ramizin məsələsi təkcə Həbib Namazzadədən asılı deyil. Onun ixtiyarında olsaydı, bronunu əlindən alıb atardı bayıra, deyərdi ki, hara gedirsən, çıx get. Çox gözəl bilirdi ki, Ramizi əsgərlikdən saxlamaq üçün limanda işə düzəldiblər. Rəis müavini onun işdən çıxarılma məsələsini qaldırsa, yerini acı eləyər. Burada ayrı idarələrdən fərqli olaraq, işçilərə brondan əlavə hər hərdən ərzaq da verirdilər. Hərçənd, Matros Həbibin əsgərlik yaşı keçmişdi, brona ehtiyacı yox idi, ancaq kartoçkadan əlavə limanda aldığı ərzaq kişinin böyük külfətinə əməllicə kömək idi. Vəzifəli şəxslərlə düşünüşüb yaxşı yerini itirmək istəmir.
+Həmidə yəqin idi ki, Ramizin məsələsi təkcə Həbib Namazzadədən asılı deyil. Onun ixtiyarında olsaydı, bronunu əlindən alıb atardı bayıra, deyərdi ki, hara gedirsən, çıx get. Çox gözəl bilirdi ki, Ramizi əsgərlikdən saxlamaq üçün limanda işə düzəldiblər. Rəis müavini onun işdən çıxarılma məsələsini qaldırsa, yerini acı eləyər. Burada ayrı idarələrdən fərqli olaraq, işçilərə brondan əlavə hərdən ərzaq da verirdilər. Hərçənd, Matros Həbibin əsgərlik yaşı keçmişdi, brona ehtiyacı yox idi, ancaq kartoçkadan əlavə limanda aldığı ərzaq kişinin böyük külfətinə əməllicə kömək idi. Vəzifəli şəxslərlə düşünüşüb yaxşı yerini itirmək istəmir.
 
 Rəis müavini stividorun hirsini soyutmağa çalışdı:
 
@@ -10024,7 +10024,7 @@ Rəfiqə Həmidə əl verib getdi. Həmd stividor otağına qayıtdı.
 
 ### İkinci hissə. XXXVII
 
-Respublika hərbi komissarlığının siyasi şöbə rəisinin gözləmə otağında beş nəfər müharibə əlili vardı, dördü oturmuşdu, yer olmadığından biri ayaq üstündə dayanmışdı. Oturanların üçünün ya dizdən yuxarı, ya da dizdən aşağı bir qıçı yox idi, birinin qolu. Ayaq üstə qalanın zahirən bütün əzaları yerində idi, ancaq o, hər hərdən küt-küt
+Respublika hərbi komissarlığının siyasi şöbə rəisinin gözləmə otağında beş nəfər müharibə əlili vardı, dördü oturmuşdu, yer olmadığından biri ayaq üstündə dayanmışdı. Oturanların üçünün ya dizdən yuxarı, ya da dizdən aşağı bir qıçı yox idi, birinin qolu. Ayaq üstə qalanın zahirən bütün əzaları yerində idi, ancaq o, hərdən küt-küt
 
 @@ 182
 
@@ -10412,11 +10412,11 @@ Mətbəxdən qaynara düşən çaydanın qapağının taraq-taraq atılıb düş
 
 Həmid mətbəxdən qayıdıb əvvəlki yerində əyləşdi. Firuz dedi:
 
-– Dünən bağda mən sizə bir cəhəti demədim, deyəcəkdim, sizin məni dinləməyə səbriniz çatmadı. Mən gəncliyimdə, Allah o günləri ömrümə yazmasın, qorxaqlıq eləmişəm, həm də təkcə Çopur Abdulladan qorxmurdum, yox, elə ondan qabaq da ağciyər olmuşam. Mən yeniyetmə oğlan olanda gecələr həyətə çıxıb subaşına getməyə qorxurdum, qaranlıqda öz həyətimiz mənə vahiməli görünürdü. Ya rəhmətlik anam, ya da böyük qardaşlarımdan biri həyətdə durub məni gözləyirdi. Balağa əhvalatı məni sarsıtdı. Elə bil zərblə üzümə bir şillə vurub məni oyatdılar, gözlərim açıldı. Qorxaqlığın insanı necə alçaltmasını dərk elədim. Sanki məni dəyişdilər. Bu dəyişiklik «əb-hədə dadıma çatdı. Orda da qorxaqlıq göstərsəydim, indi torpağın altında qurd-quşa yem olmuşdum. Atıcılıq hissəsində kəşfiyyatçı idim. Özümü elə göstərmişdim ki, ən qorxulu yerlərə məni göndərirdilər. İnanırdılar ki, oradan sağ-salamat gələcəyəm. Elə də olurdu. Faşistlərin arxasına gedib neçə “dil” gətirmişdim. Məni mükafatlandırılmışdılar, ordu qəzetində şəklim, haqqımda neçə məqalə çıxmışdı. Həmin o qəzetləri o vaxt evə yollamışdım, uşaqlar qoruyub saxlayıblar. Axırıncı dəfə düşmənin arxasına getdik, bir faşist mayorunu qərargah qazmasından oğurladıq, minalanmış sahədən keçib hissəyə gətirdik. Bizim komandanlıq mayordan qiymətli məlumat qopartdı. Məni və yoldaşımı mükafata təqdim elədilər. Ondan heç üç gün keçməmişdi ki, bizi yenə kəşfiyyata göndərdilər. Gecəyarı cəbhə xəttini keçirdik, faşistlər göyə fişəng atıb yeri işıqlandırdılar və topdan atəş açdılar, yoldaşım həlak oldu, mən isə bu cür yaralandım. Sağ qalmağıma heç kəsin ümidi yox idi. Sən demə, üzüm bərk imiş, həkimlər yaralarımı yırtıq-yamaq eləyib məni ayağa qaldırdılar. Bakıya qayıtdım. Hissəmizdən, mükafatdan xəbərim olmadı. Bu gün hərbi komissarlıqdan öyrəndim ki, məni ora həmin işdən ötrü çağırıblar. – Firuz pencəyinin yan cibindən xırdaca qırmızı qutu və kiçik kitabça çıxartdı. – “Qırmızı bayraq” ordeni ilə təltif eləyiblər. – Qutunun qapağını açdı. – Bu da orden və onun vəsiqəsi. – “Qutunun içində orden par-par parıldayırdı.,
+– Dünən bağda mən sizə bir cəhəti demədim, deyəcəkdim, sizin məni dinləməyə səbriniz çatmadı. Mən gəncliyimdə, Allah o günləri ömrümə yazmasın, qorxaqlıq eləmişəm, həm də təkcə Çopur Abdulladan qorxmurdum, yox, elə ondan qabaq da ağciyər olmuşam. Mən yeniyetmə oğlan olanda gecələr həyətə çıxıb subaşına getməyə qorxurdum, qaranlıqda öz həyətimiz mənə vahiməli görünürdü. Ya rəhmətlik anam, ya da böyük qardaşlarımdan biri həyətdə durub məni gözləyirdi. Balağa əhvalatı məni sarsıtdı. Elə bil zərblə üzümə bir şillə vurub məni oyatdılar, gözlərim açıldı. Qorxaqlığın insanı necə alçaltmasını dərk elədim. Sanki məni dəyişdilər. Bu dəyişiklik «əb-hədə dadıma çatdı. Orda da qorxaqlıq göstərsəydim, indi torpağın altında qurd-quşa yem olmuşdum. Atıcılıq hissəsində kəşfiyyatçı idim. Özümü elə göstərmişdim ki, ən qorxulu yerlərə məni göndərirdilər. İnanırdılar ki, oradan sağ-salamat gələcəyəm. Elə də olurdu. Faşistlərin arxasına gedib neçə “dil” gətirmişdim. Məni mükafatlandırılmışdılar, ordu qəzetində şəklim, haqqımda neçə məqalə çıxmışdı. Həmin o qəzetləri o vaxt evə yollamışdım, uşaqlar qoruyub saxlayıblar. Axırıncı dəfə düşmənin arxasına getdik, bir faşist mayorunu qərargah qazmasından oğurladıq, minalanmış sahədən keçib hissəyə gətirdik. Bizim komandanlıq mayordan qiymətli məlumat qopartdı. Məni və yoldaşımı mükafata təqdim elədilər. Ondan heç üç gün keçməmişdi ki, bizi yenə kəşfiyyata göndərdilər. Gecəyarı cəbhə xəttini keçirdik, faşistlər göyə fişəng atıb yeri işıqlandırdılar və topdan atəş açdılar, yoldaşım həlak oldu, mən isə bu cür yaralandım. Sağ qalmağıma heç kəsin ümidi yox idi. Sən demə, üzüm bərk imiş, həkimlər yaralarımı yırtıq-yamaq eləyib məni ayağa qaldırdılar. Bakıya qayıtdım. Hissəmizdən, mükafatdan xəbərim olmadı. Bu gün hərbi komissarlıqdan öyrəndim ki, məni ora həmin işdən ötrü çağırıblar. – Firuz pencəyinin yan cibindən xırdaca qırmızı qutu və kiçik kitabça çıxartdı. – “Qırmızı bayraq” ordeni ilə təltif eləyiblər. – Qutunun qapağını açdı. – Bu da orden və onun vəsiqəsi. – “Qutunun içində orden par-parıldayırdı.,
 
 @@ 190
 
->>ordu qəzetində şəklim, haqqımda neçə məqalə çıxmışdı. Həmin o qəzetləri o vaxt evə yollamışdım, uşaqlar qoruyub saxlayıblar. Axırıncı dəfə düşmənin arxasına getdik, bir faşist mayorunu qərargah qazmasından oğurladıq, minalanmış sahədən keçib hissəyə gətirdik. Bizim komandanlıq mayordan qiymətli məlumat qopartdı. Məni və yoldaşımı mükafata təqdim elədilər. Ondan heç üç gün keçməmişdi ki, bizi yenə kəşfiyyata göndərdilər. Gecəyarı cəbhə xəttini keçirdik, faşistlər göyə fişəng atıb yeri işıqlandırdılar və topdan atəş açdılar, yoldaşım həlak oldu, mən isə bu cür yaralandım. Sağ qalmağıma heç kəsin ümidi yox idi. Sən demə, üzüm bərk imiş, həkimlər yaralarımı yırtıq-yamaq eləyib məni ayağa qaldırdılar. Bakıya qayıtdım. Hissəmizdən, mükafatdan xəbərim olmadı. Bu gün hərbi komissarlıqdan öyrəndim ki, məni ora həmin işdən ötrü çağırıblar. – Firuz pencəyinin yan cibindən xırdaca qırmızı qutu və kiçik kitabça çıxartdı. – “Qırmızı bayraq” ordeni ilə təltif eləyiblər. – Qutunun qapağını açdı. – Bu da orden və onun vəsiqəsi. – “Qutunun içində orden par-par parıldayırdı.
+>>ordu qəzetində şəklim, haqqımda neçə məqalə çıxmışdı. Həmin o qəzetləri o vaxt evə yollamışdım, uşaqlar qoruyub saxlayıblar. Axırıncı dəfə düşmənin arxasına getdik, bir faşist mayorunu qərargah qazmasından oğurladıq, minalanmış sahədən keçib hissəyə gətirdik. Bizim komandanlıq mayordan qiymətli məlumat qopartdı. Məni və yoldaşımı mükafata təqdim elədilər. Ondan heç üç gün keçməmişdi ki, bizi yenə kəşfiyyata göndərdilər. Gecəyarı cəbhə xəttini keçirdik, faşistlər göyə fişəng atıb yeri işıqlandırdılar və topdan atəş açdılar, yoldaşım həlak oldu, mən isə bu cür yaralandım. Sağ qalmağıma heç kəsin ümidi yox idi. Sən demə, üzüm bərk imiş, həkimlər yaralarımı yırtıq-yamaq eləyib məni ayağa qaldırdılar. Bakıya qayıtdım. Hissəmizdən, mükafatdan xəbərim olmadı. Bu gün hərbi komissarlıqdan öyrəndim ki, məni ora həmin işdən ötrü çağırıblar. – Firuz pencəyinin yan cibindən xırdaca qırmızı qutu və kiçik kitabça çıxartdı. – “Qırmızı bayraq” ordeni ilə təltif eləyiblər. – Qutunun qapağını açdı. – Bu da orden və onun vəsiqəsi. – “Qutunun içində orden par-parıldayırdı.
 
 – Hərbi komissar səhər təqdim elədi. Tək mənə vermədilər, orda ayrı orden alanlar da oldu. – Ordeni və vəsiqəni götürüb cibinə qoydu. Bu gün o, dünənki ordenlərin heç birini taxmamışdı. Pencəyinin altından əsgər köynəyi geymişdi, bəlkə də nişanları orda idi. – Həmid, elə fikirləşməyin ki, mən sizə ordenimi göstərməyə, öyünməyə gəlmişəm, qətiyyən, ona zərrə qədər ehtiyacım yoxdu. Sizi təəccübləndirmək məqsədi də güdmürəm. Siz dünən Goburnat bağında məni qorxaq adlandırdınız. Eşidin və bilin, mən qorxaqlara nifrət edirəm, onlar gözümün düşmənidilər. “Başına gələn başmaqçı olar” deyiblər. Mən acı təcrübəmdən yaxşı bilirəm ki, qorxaqlıq nədi və o insanı hara yuvarlaya bilər. Həm də qorxaqlıq təkcə qorxağın özü üçün yox, ətrafdakılar üçün də təhlükəlidi. Bura gəlmişəm sizə sübut edim ki, qorxaq deyiləm. Mən necə, hansı tərzdə, hansı şəraitdə, kimin qarşısında lazımdısa, qorxaq olmadığımı sizə sübut eləməyə hazıram, buyurun!
 
@@ -10524,7 +10524,7 @@ Fuad oğlundan şikayətləndi:
 
 Kiçik Balağa üçtəkərli velosipedə yeyin-yeyin sürür, hovuzun həndəvərində qaçdı-tutdu oynayan uşaqların arasından asanlıqla sivişib keçirdi. Həmid ona baxa-baxa əkiz qardaşlarının – Mikayılla İsmayılın bu yaşda olan çağlarını xatırlayırdı. “Əkizlər keçi təkin dama, ağaca dırmaşır, yetənə yetir, yetməyənə də daş atardılar. Amma böyüyəndə elə dəyişdilər ki, inanmaq olmurdu onlar həmin ipə-sapa yatmayan oğlanlardılar. Mikayıl canını vətən yolunda qoydu. İsmayıl isə indi Abşeronun iri neft trestlərindən birinin geoloqudu”.
 
-İsmayılın bir qızı vardı, tibb institutunun tələbəsi idi, adını Rübabə qoymuşdular. Həmid də balaca Rübabəyə qardaşı İsmayılın dili ilə “mömə” deyirdi. Qızın bir suyu nənəsinə çəkmişdi. Rübabə hər hərdən əmisigilə gəlir, mənzili sir-süpür, yır-yığış eləyib gedirdi.
+İsmayılın bir qızı vardı, tibb institutunun tələbəsi idi, adını Rübabə qoymuşdular. Həmid də balaca Rübabəyə qardaşı İsmayılın dili ilə “mömə” deyirdi. Qızın bir suyu nənəsinə çəkmişdi. Rübabə hərdən əmisigilə gəlir, mənzili sir-süpür, yır-yığış eləyib gedirdi.
 
 @@ 193
 

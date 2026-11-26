@@ -13,7 +13,7 @@ sourceNote: >-
   https://turuz.com/storage/her_konu-2018/3204-2-Huseyn_Abbaszade-Sechilmish_Eserleri-2-Baki-2006-197s.pdf#page=4
 status: DRAFT
 ---
-Sərnişin gəmisi Həştərxan limanına yan alanda, Həmid göyərtədə dayanıb sahilə baxırdı. Körpüdə xeyli adam vardı, bəzilərinin əlində gül dəstəsi. O, sərnişinləri qarşılayanlar arasında qastrol qayilə məşğul olan inzibatçını axtardı. Qabaq sırada gül dəstəsini başı üstünə qaldırıb uzaqdan onu haylayan Fəttahı tanıdı. “Gör kimi görürəm?!”
+Sərnişin gəmisi Həştərxan limanına yan alanda, Həmid göyərtədə dayanıb sahilə baxırdı. Körpüdə xeyli adam vardı, bəzilərinin əlində gül dəstəsi. O, sərnişinləri qarşılayanlar arasında qastrol qayğıları ilə məşğul olan inzibatçını axtardı. Qabaq sırada gül dəstəsini başı üstünə qaldırıb uzaqdan onu haylayan Fəttahı tanıdı. “Gör kimi görürəm?!”
 
 Həmid gəmidən düşəndə gördü ki, Fəttah tək deyil, Pyotr Anisimoviç başda olmaqla on iki il əvvəl gəmi təmiri zavodunda bir yerdə işlədiyi fəhlələrin çoxu onu qarşılamağa gəlib. Təəccüb elədi ki, onun Həştərxana gəlməyini yoldaşlarına kim deyib. Həmid bunu qabaq nə məktubla, nə də teleqramla kimsəyə xəbər verməmişdi.
 

@@ -249,7 +249,7 @@ Həmid:
 
 – Məmə, - dedi, - gəl söhbəti saxlayaq, indi yol üstündəyəm. Səfərdən qayıdaram, arxayınlıqla məsləhətləşərik.
 
-– Nə deyirəm ki, ancaq razı olsaydın, sən səfərdə olanda, mən gedib Sərvinaz xanımdan qızın hərisini alardım. Sonra haçan desəydin, onda üç-dörd nəfər sözü keçən, hörmətli kişini ni qayda-qanunla onlara elçi göndərərdik.
+– Nə deyirəm ki, ancaq razı olsaydın, sən səfərdə olanda, mən gedib Sərvinaz xanımdan qızın hərisini alardım. Sonra haçan desəydin, onda üç-dörd nəfər sözü keçən, hörmətli kişini qayda-qanunla onlara elçi göndərərdik.
 
 Həmid buna razı olmadı:
 

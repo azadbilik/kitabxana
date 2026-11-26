@@ -191,7 +191,7 @@ Həmid Nurluya minnətdarlıq elədi:
 
 – O fikri başından çıxart, oğul.
 
-Rübabə oğlunun nədən ötrü Nurludan imtina etməsinin səbəbini bilməsə də, duyurdu ki, Həmid Nurlunun dərdini çəkir. O, hər hərdən Sərvinazdan, qonşu arvadlardan Nurlu barəsində eşitdiyini gəlib evdə danışanda görürdü ki, Həmid çox maraqlanır. Bu qənaətə gəlmişdi ki, oğlu Nurlunun xiffətini eləyir, ona görə də başqa qızla evlənmir. Həmid Uraldan, qastrol səfərindən qayıdan günün ona demişdi: “Oğul, görünür, Nurlu qismətin deyilmiş, haçanacan subay gəzəcəksən, sənin tay-tuşlarının yekə oğul-qızları var, bu gün-sabah qayınata olacaqlar, gərək hər işi öz məqamı çatanda eləyəsən. Sən vaxtını ötürürsən”.
+Rübabə oğlunun nədən ötrü Nurludan imtina etməsinin səbəbini bilməsə də, duyurdu ki, Həmid Nurlunun dərdini çəkir. O, hərdən Sərvinazdan, qonşu arvadlardan Nurlu barəsində eşitdiyini gəlib evdə danışanda görürdü ki, Həmid çox maraqlanır. Bu qənaətə gəlmişdi ki, oğlu Nurlunun xiffətini eləyir, ona görə də başqa qızla evlənmir. Həmid Uraldan, qastrol səfərindən qayıdan günün ona demişdi: “Oğul, görünür, Nurlu qismətin deyilmiş, haçanacan subay gəzəcəksən, sənin tay-tuşlarının yekə oğul-qızları var, bu gün-sabah qayınata olacaqlar, gərək hər işi öz məqamı çatanda eləyəsən. Sən vaxtını ötürürsən”.
 
 Bu sözlər Həmidə təsir eləmədi.
 
@@ -205,7 +205,7 @@ Camaat donquldandı:
 
 – Mayor gedib, indi də bunu göndərdi. Nə kələk adammış.
 
-– O ki belə yapışıb, day bu gün əsgərləri bura buraxmayacaqlar.
+– O ki belə yapışıb, day bu gün əsgərləri buraxmayacaqlar.
 
 Camaat narazılıqla dağılışdı. Tək-tük qalıb gözləyənlər də oldu.
 
@@ -293,7 +293,7 @@ Dayanacağa azacıq qalanda Təzəbağın qabağında düşmək istəyənlər qa
 
 Rübabə arvad ayağa qalxdı.
 
-Nurlu indi hiss elədi ki, Həmidin sinəsinə çox sığınıb, sanki yuxudan ayıldı, tez geri çəkildi. Fuad da anasına baxıb arxasındakı kişini ni itələyib Hamıdan aralandı.
+Nurlu indi hiss elədi ki, Həmidin sinəsinə çox sığınıb, sanki yuxudan ayıldı, tez geri çəkildi. Fuad da anasına baxıb arxasındakı kişini itələyib Hamıdan aralandı.
 
 Tramvay Cəfər Cabbarlı küçəsində dayandı. Həmid anasını bir də çağırdı:
 

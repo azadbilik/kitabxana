@@ -54,7 +54,7 @@ Siranuş hirslə elə geri qanrıldı ki, toz silən əski əlindən yerə düş
 
 – Kimi deyəcəyəm? Özün çox yaxşı bilirsən ki, kimi deyirəm!
 
-Xəstələnib bir həftə üzü üstə düşdü, gəlib quru bir sözlə də kefini soruşmadın. Mən Mənzilinə gəlir – üzünə baxmırsan… – Siranuş öskürüb boğazını artırdı. – Ələ bu gün səhərdən gəlmişdim ki, səndən bunu soruşam: axı nə şərikli malımız var ki, ayırd «eləyə bilmirsiniz? Necə olsa – yeznəndir… Baxan nə deyər?
+Xəstələnib bir həftə üzü üstə düşdü, gəlib quru bir sözlə də kefini soruşmadın. Mənzilinə gəlir – üzünə baxmırsan… – Siranuş öskürüb boğazını artırdı. – Ələ bu gün səhərdən gəlmişdim ki, səndən bunu soruşam: axı nə şərikli malımız var ki, ayırd «eləyə bilmirsiniz? Necə olsa – yeznəndir… Baxan nə deyər?
 
 Siranuş qardaşından dörd yaş böyük olsa da, bundan artıq ona məzəmmət vura bilməzdi. Uzun müddət bir-birindən uzaqda yaşamaları, bacı-qardaşlıq məhəbbətini bir növ qalın hörmət pərdəsinə bürümüşdü. Siranuş da bu pərdəni yırtmaq istəmirdi.
 

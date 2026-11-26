@@ -29,7 +29,7 @@ Həmidlə İsmayıl günortadan bir yerə olsalar da, danışırdılar, söhbət
 
 – Bəs sən indi bu ev-eşikdə tək nə sayaq qalacaqsan, bir nəfər biş-düş eləyən, səliqə-sahman yaradan lazımdı, sənə tək çox çətin olar.
 
-– Hə, gərək bir qoca arvad tapıb xahiş eləyək, gəlib hər hərdən pal-tarlarımızı yusun, mənzili yığışdırsın. Mömənin ölümündən sonra sənin pal-paltarını kim yuyur?
+– Hə, gərək bir qoca arvad tapıb xahiş eləyək, gəlib hərdən pal-tarlarımızı yusun, mənzili yığışdırsın. Mömənin ölümündən sonra sənin pal-paltarını kim yuyur?
 
 – Bir nəfər var.
 
@@ -135,7 +135,7 @@ Telefon zəng vurdu. Həmid dəstəyi götürməyə tələsmədi. “Yenə gör�
 
 – Hə, İsmayıl sənsən, xeyir ola?
 
-– Xeyirdi. Burda hər hərdən imkan olanda uşaqlar dənizdən balıq tuturlar. Bu gün xeyli ovlayıblar. Mənə də bir iri xəşəm veriblər. Bilirəm xəşəm balığını çox xoşlayırsan, onu axşam şəhərə gələnlərin biri ilə göndərəcəyəm sənə.
+– Xeyirdi. Burda hərdən imkan olanda uşaqlar dənizdən balıq tuturlar. Bu gün xeyli ovlayıblar. Mənə də bir iri xəşəm veriblər. Bilirəm xəşəm balığını çox xoşlayırsan, onu axşam şəhərə gələnlərin biri ilə göndərəcəyəm sənə.
 
 – Mən təkbaşına iri balığı neynəyəcəyəm, ay İsmayıl, qalsın orda, özünüz bişirib» yeyin.
 

@@ -368,7 +368,7 @@ Cəbi icazə versə.
 
 Ərkinaz başı ilə onun sözünü təsdiq etdi:
 
-– Hm. Ancaq qulağının dibini görəndə istəyinə çatar. Taygöz əclaf! O gün mənə deyir ki, səhər tezdən şitilliklərə get. Oradakı badımcan şitillərini çıxarıb yeşiklərə yığ. Mən də getdim. Orada məndən başqa heç kim yox idi. Bir də gördüm ki, özü gəldi. Şitilliyə keçib, məni də çağırdı. Onun tay gözünün baxışından niyyətini ni başa düşdüm. Kərkini əlimə alıb qulayladım, dedim ki, qədəmini qabağa bassan kəlləni yararam!.. İndi bu əhvalatdan sonra deyirsən icazə verər? Vallah, sədr Kərimə desəm, dədəsini yandırar.
+– Hm. Ancaq qulağının dibini görəndə istəyinə çatar. Taygöz əclaf! O gün mənə deyir ki, səhər tezdən şitilliklərə get. Oradakı badımcan şitillərini çıxarıb yeşiklərə yığ. Mən də getdim. Orada məndən başqa heç kim yox idi. Bir də gördüm ki, özü gəldi. Şitilliyə keçib, məni də çağırdı. Onun tay gözünün baxışından niyyətini başa düşdüm. Kərkini əlimə alıb qulayladım, dedim ki, qədəmini qabağa bassan kəlləni yararam!.. İndi bu əhvalatdan sonra deyirsən icazə verər? Vallah, sədr Kərimə desəm, dədəsini yandırar.
 
 – De də. Niyə demirsən?
 

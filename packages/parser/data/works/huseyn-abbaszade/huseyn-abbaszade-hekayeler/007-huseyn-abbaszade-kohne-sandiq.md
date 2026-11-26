@@ -110,7 +110,7 @@ Bir kitab götürdüm. Onuncu sinif üçün kimya dərsliyi idi. 1940-cı ildə 
 
 – Kitab-dəftərlər Əlinindi. Anam saxlamışdı ki, o, davadan qayıdib instituta girəndə gərəyi olar.
 
-Əmimin dəftərlərinə baxdım. Onun da yazısı mənimki kimi oyri-üyrü idi. Anam hər hərdən məni məzəmmət eləyirdi. “Ay Vüqar, bu nə xətdi, bu nə yazıldı? Atan da, mən də səliqəli yazırıq. Bilmirəm xətt sarıdan sən kimə oxşadın?!”
+Əmimin dəftərlərinə baxdım. Onun da yazısı mənimki kimi oyri-üyrü idi. Anam hərdən məni məzəmmət eləyirdi. “Ay Vüqar, bu nə xətdi, bu nə yazıldı? Atan da, mən də səliqəli yazırıq. Bilmirəm xətt sarıdan sən kimə oxşadın?!”
 
 İndi mənə aydın oldu ki, yazıda kimə çəkmişəm.
 

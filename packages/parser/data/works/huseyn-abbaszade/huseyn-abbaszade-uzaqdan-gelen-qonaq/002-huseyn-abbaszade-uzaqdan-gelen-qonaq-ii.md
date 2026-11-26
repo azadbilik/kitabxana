@@ -70,7 +70,7 @@ Komandir bələdçi qoşdu, o məni yol ayrıcına kimi ötürdü. Ordan o yana 
 
 Avtobus dağların arasında yaşıllıqlar içində itən rayon mərkəzinin girəcəyindəki kiçik meydançada dövrə vurub dayandı. Covanni avtobusun daha burdan o yana getməyəcəyini bilib maraqla ətrafa boylandı. Dayanacaqdakı gözləmə pavilyonunun yanında altı-yeddi kişi, bir qadın durmuşdu. Avtobus dayanan kimi onlar yaxına gəldilər.
 
-Qabaqda hündürboylu düm ağsaqqallı, yaşına nisbətən xeyli qıvraq görünən bir qoca durmuşdu. Əynində tünd-sumağı rəngdə arxalıq, ayağında uzunboğaz çəkmə, başında çal papaq vardı. Qocanın gözü maşında qalmışdı. Hər Hərdən böyründə duran gənc oğlana nə isə deyirdi. Yerdəkilər intizar içində avtobusa boylanır, kimisə axtarırdılar.
+Qabaqda hündürboylu düm ağsaqqallı, yaşına nisbətən xeyli qıvraq görünən bir qoca durmuşdu. Əynində tünd-sumağı rəngdə arxalıq, ayağında uzunboğaz çəkmə, başında çal papaq vardı. Qocanın gözü maşında qalmışdı. Hərdən böyründə duran gənc oğlana nə isə deyirdi. Yerdəkilər intizar içində avtobusa boylanır, kimisə axtarırdılar.
 
 Səm Sərnişinlər qalxıb qapıya sara yönəldilər. Covanni bayırda bir yerdə də toplaşıb avtobusa boylana-boylana içəridən kimisə axtaran adamları görüncə yəqin etdi ki, onu qarşılamağa gələnlərdir. Demək, onun Bakıdan, “İnturist”dən Qaraselliyə vurduğu teleqramı almışlar.
 
@@ -92,7 +92,7 @@ Babasından sonra Covanni qadınla qucaqlaşdı. Onu qarşılamağa gələnləri
 
 Bakıdan Covanni ilə avtobusda bir yerdə də gələn səm sərnişinlər təhər-töhüründən onlara oxşamayan bu qərib oğlanın kim olduğunu yalnız indi bildilər. Qurban kişi Qarasellidən qonağı qarşılamağa gələnləri araya aldılar. Sürücü kənarda durub gətirdiyi bu qeyri-adi səm işinə gülə-gülə tamaşa eləyirdi. O, siqaret alışdıra-alışdıra dedi:
 
-– Doğma torpaq, ata yurdu ayrı şeydi. Onu torpaq bu yerlərə çəkib gətirib. Eti Etibarlı oğulmuş. Anasının südü ona halal olsun.
+– Doğma torpaq, ata yurdu ayrı şeydi. Onu torpaq bu yerlərə çəkib gətirib. Etibarlı oğulmuş. Anasının südü ona halal olsun.
 
 Dava vaxtı xaricdə bizimkilərdən az belə uşaq olub qalıb? Görüm hamısı el-əqrəbasını axtarıb tapırmı?! Bəla səm sərnişinlə lap dünyanın o başına getməyə də dəyər.
 
@@ -146,7 +146,7 @@ Covanni əfsanələr aləmini andıran qalın meşəyə baxa-baxa fikrə getmiş
 
 Feliçenin Covanni ilə getməyə imkanı vardı. Ancaq boğazından kəsə-kəsə qara gün üçün yığdığı pulu bu baha başa gələn uzaq səfərdə xərcləmək istəmədi. Çalışdı oğlu da getməsin. Covanni çoxdan hiss etmişdi ki, anasının Qarasellini – Cavanşironun vətənini görmək üçün ürəyi yarpaq kimi əsir...
 
-Getdikcə il ildən ağır gəlir, dolanmaq çətinləşirdi. Covanni anasının qənaətcilliyinə boraət qazandırırdı. O yaxşı bilirdi ki, Feliçe xəsis deyil, onun simic adamlardan zəhləsi gedir. Yazıq Felıçə gəncliyində o qədər korluq çəkmişdi ki, gözü qorxmuşdu. Hər Hərdən qonun-qonşunun işdən çıxarılmasını eşidəndə Covanni üçün hövl eləyir, deyirdi ki, oğul, sözə qulaq as, ixtiyar sahiblərini özündən incik salma. Sonra işdən çıxararlar, təzə yer tapınca zinhara gələrsən.
+Getdikcə il ildən ağır gəlir, dolanmaq çətinləşirdi. Covanni anasının qənaətcilliyinə boraət qazandırırdı. O yaxşı bilirdi ki, Feliçe xəsis deyil, onun simic adamlardan zəhləsi gedir. Yazıq Felıçə gəncliyində o qədər korluq çəkmişdi ki, gözü qorxmuşdu. Hərdən qonun-qonşunun işdən çıxarılmasını eşidəndə Covanni üçün hövl eləyir, deyirdi ki, oğul, sözə qulaq as, ixtiyar sahiblərini özündən incik salma. Sonra işdən çıxararlar, təzə yer tapınca zinhara gələrsən.
 
 Covanni anasının kəndə qayıdandan sonra başına nələr gəldiyini xatırladı...
 
@@ -206,7 +206,7 @@ Yaxşı ki, paltar tikməyi bacarırdım, atama evdə kömək eləyəndə öyrə
 
 Müştərilər gördüyüm iş üçün mənə pul da verirdilər, ərzaq da. Özüm bilirdim ki, gördüyüm iş çox da keyfiyyətli deyil. Əvvəl-əvvəllər müştərilər könlümə dəyməmək üçün işə irad tutmur, şikayətlənmirlər. Amma onu da duyurdum ki, işlədikcə əlim açılır, dərziliyə alışırdım.
 
-Uşaqlıqdan ailə üzvləri arasında dolanmağa adət eləmişdim. Davadan qabaq mənzi mənzilimizdə dörd nəfər yaşayırdı, evimiz səsliküylü olurdu. Atamın yanına bəzən axşamlar da gəlirdilər. Qardaşım Cüzeppe çox zarafatcıl idi, bizi darıxmağa qoymurdu. Məzəlilikdə atam da ondan geri qalmırdı. İndi isə səsliküylü mənzil sükuta qərq olmuşdu. Sakitlik məni sıxır, darıxırdım, evdə öz addımının səsindən başqa ayrı hənirti eşitmirdim. Bir də görürdüm ki, gah atam-anam, gah da Cavanşiro ilə ucadan danışıram. Sanki onlar sağ idilər, oturub mənə qulaq asırdılar...
+Uşaqlıqdan ailə üzvləri arasında dolanmağa adət eləmişdim. Davadan qabaq mənzilimizdə dörd nəfər yaşayırdı, evimiz səsliküylü olurdu. Atamın yanına bəzən axşamlar da gəlirdilər. Qardaşım Cüzeppe çox zarafatcıl idi, bizi darıxmağa qoymurdu. Məzəlilikdə atam da ondan geri qalmırdı. İndi isə səsliküylü mənzil sükuta qərq olmuşdu. Sakitlik məni sıxır, darıxırdım, evdə öz addımının səsindən başqa ayrı hənirti eşitmirdim. Bir də görürdüm ki, gah atam-anam, gah da Cavanşiro ilə ucadan danışıram. Sanki onlar sağ idilər, oturub mənə qulaq asırdılar...
 
 Axır zamanlar fikrim-zikrim dünyaya gələcək körpəmin yanında idi. Vaxt eləyib onun üçün xırdaca paltarlar tikir, əski hazırlayırdım. Elə istəyirdim ki, o dünyaya tez gəlsin... Mənə elə gəlirdi ki, körpəm yanımda olsa, daha belə darıxmaram, hənirsiz otaqdan canlı insan səsi gələr, onun nəfəsi ilə mənzil isinər, mənə qulaqyoldaşı, həyan olar. Bu da mənə bəlli idi ki, körpənin doğulması ilə qayğım xeyli artacaq, əvvəlki kimi işləyə bilməyəcəyəm. Yaşayışım ağırlaşacaq. Bunları dönə-dönə ölçüb-biçmiş, belə qənaətə gəlmişdim ki, qarşıma çıxacaq çətinliklərlə müqayisədə körpənin dünyaya gəlməsinin mənə gətirdiyi sevinc, həyatıma verdiyi yenilik əziyyətlərimdən qat-qat üstün olacaq...
 
@@ -338,7 +338,7 @@ Həyətdə talvarın altında bir neçə manqal qalanmışdı. Üç kişi qabaqc
 
 Kababın iştahaçan qoxusu həyətə dolmuşdu.
 
-Qurban kişi qız nəvəsi Cavanşirlə bərabər həyətdə, Covanni ilə yanaşı oturmuşdu. Baba hərdənbir bir eyvana qalxır, qocalara baş çəkir, onlara bir-iki xoş söz deyib könüllərini alır, yenə də həyətə cavanların yanına enirdi.
+Qurban kişi qız nəvəsi Cavanşirlə bərabər həyətdə, Covanni ilə yanaşı oturmuşdu. Baba hərdənbir eyvana qalxır, qocalara baş çəkir, onlara bir-iki xoş söz deyib könüllərini alır, yenə də həyətə cavanların yanına enirdi.
 
 Cavanların məclisi xeyli şən, səsli-küylü idi. Xurmayı papaqlı, qalife şalvarlı, uzunboğaz çəkməli, qalınbığlı oğlan sazını sinəsinə basıb aşıq havalarından göyçəgülü, kərəm şikəstəsi, yurdyeri, misri Koroğlu, dübeyti çalır, Aşıq Ələsgərin qoşmalarından şirin-şirin oxuyurdu. Onun gur səsi çox məlahətli idi, uzaqdan gələn qonaq aşığın çaldığı musiqiyə, oxuduğu mahnılara heyranlıqla qulaq asırdı.
 

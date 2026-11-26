@@ -108,7 +108,7 @@ Onların kəndləri uca dağların qoynunda, yüksək bir yerdə salınmışdı.
 
 Nəcibəgilin həyətində meyvə ağacı yox idi. Mərhum atası həyətin bir başında qızılgül, yasəmən, akasiya ağacları basdırılmışdı. O biri başda isə tərəvəz ləkləri var idi. Yalnız mətbəxin böyründə dədə-babadan qalma, yan-yana bitmiş iki qoz ağacı ucalırdı. Nəcibə hələ şagirdlik illərindən hər yay bu qoz ağaclarının kölgəsində uzanıb kitab oxumağı sevirdi. Anası onun istəyini bilirdi. Qızı Bakıdan məzuniyyətə gələn kimi qoz ağaclarının altını süpürüb sulamış, naxışlı kilimi yenə köhnə taxtın üstünə salmışdı.
 
-Zavodun qaynar həyatından, təhsil qayğısından ayrılıb sakitliyə, təbiətin gözəl guşəsinə düşən Nəcibə hər hərdən meşəni gəzdi, anasına evdə kömək etdi, ləkləri suladı, rahat dincəldi.
+Zavodun qaynar həyatından, təhsil qayğısından ayrılıb sakitliyə, təbiətin gözəl guşəsinə düşən Nəcibə hərdən meşəni gəzdi, anasına evdə kömək etdi, ləkləri suladı, rahat dincəldi.
 
 Məzuniyyətinin ikinci həftəsi gedirdi. Nəcibə qoz ağaclarının altındakı taxtın üstündə uzanıb Cəlil Məmmədquluzadənin hekayələr kitabını oxuyurdu. Qapı döyüldü. Poçtalyon təzə qəzetlər gətirmişdi. Anası onları alıb qızına verdi. Nəcibə oxuduğu hekayəni başa vurunca kitabı qatlayıb yanına qoydu və təzə qəzetləri gözdən keçirdi. Elə bil onu ilan vurdu. Qız yerindən dik qalxdı.
 

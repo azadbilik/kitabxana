@@ -14,7 +14,7 @@ status: DRAFT
 ---
 Bəhmən Güləndam nənə ilə vidalaşıb, ona öz evində yer verib, ay yarım qayğısına qaldığına görə minnətdarlıq elədi. Həyətə çıxdı. Xəlvətlik idi. Heç kəs görünmürdü. Bəhmən elə-belə istəyirdi. Onun Güləndam xalanın evindən getməsi çox nəzərə çarpmasın. Hərə ondan bir söz soruşacaqdı, gərək yalan danışaydı. Hamıya eyni cavab verəydi, çox danışmağa hövsələsi yox idi. Yaxşı ki, bərk xəzri əsirdi. Qonşular həyət-bacadan içəri çəkilib, qapı-pəncərəni örtmüşdülər. Güləndam nənə Bəhməni həyət qapısından ötürdü.
 
-– İşin avand olsun, ay bala. Sənə elə öyrəşmişdim ki... Birdəfəlik getmə, hər hərdən bizə gəl, görün, yamaq-yırtığın olsa, utanma, gətir eləyim.
+– İşin avand olsun, ay bala. Sənə elə öyrəşmişdim ki... Birdəfəlik getmə, hərdən bizə gəl, görün, yamaq-yırtığın olsa, utanma, gətir eləyim.
 
 – Sağ ol, Güləndam nənə, səndən çox razıyam.
 

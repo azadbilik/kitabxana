@@ -14,7 +14,7 @@ status: DRAFT
 ---
 *Əziz Şərifə ithaf edilir*
 
-Əhməd Şahbazlıya Sahil küçəsindəki yeddimərtəbəli yeni binada mənzil l verəndə beşinci mərtəbəni götürmüşdü. Əvvəl institutda ona ikinci mərtəbədə mənzil l ayırmışdılar ki, qoca kişidir, yuxarı düşüb-çıxmaq asan olsun, istəməmişdi. Özü beşinci mərtəbəni seçmişdi, oradan dəniz yaxşı görünürdü. İkinci mərtəbənin qabağını sahil bağında ki ağaclar ar tutmuşdu. Bir neçə metrlikdə olan Xəzər ancaq külək əsəndən-əsənə silkələnən budaqların arasından görünürdü. Heyif deyildi beşinci mərtəbə! İlin bütün fəsillərində sanki Xəzər ayağının altında idi, xəzri əsəndə dənizin havası dolurdu otaqlara.
+Əhməd Şahbazlıya Sahil küçəsindəki yeddimərtəbəli yeni binada mənzil l verəndə beşinci mərtəbəni götürmüşdü. Əvvəl institutda ona ikinci mərtəbədə mənzil l ayırmışdılar ki, qoca kişidir, yuxarı düşüb-çıxmaq asan olsun, istəməmişdi. Özü beşinci mərtəbəni seçmişdi, oradan dəniz yaxşı görünürdü. İkinci mərtəbənin qabağını sahil bağında ki ağaclar tutmuşdu. Bir neçə metrlikdə olan Xəzər ancaq külək əsəndən-əsənə silkələnən budaqların arasından görünürdü. Heyif deyildi beşinci mərtəbə! İlin bütün fəsillərində sanki Xəzər ayağının altında idi, xəzri əsəndə dənizin havası dolurdu otaqlara.
 
 Professor Əhməd Şahbazlıgil beş baş külfət idi – oğlu, gəlini, nəvələri, bir də o. Beş otaqları vardı, hələ uzunsov küçə balkonları o yana qalsın. Əslində o da bir otaq idi. Əhməd Şahbazlı küçə balkonunda xudmani bir bağça salmışdı – güllü-çiçəkli yaşıl talvarlı. Küçədə divar dibində əkdiyi meyvəni qaldırmışdı beşinci mərtəbəyə, sərin kölgəlik düzəltmişdi.
 

@@ -18,7 +18,7 @@ Bakının Çəmbərəkənd adlanan yerində dünyaya gəlmiş, bütün ömrünü
 
 Şəhər əhalisinin çoxundan soruşsan ki, Çəmbərəkənd haradadır, cavab verə bilməz. Ancaq köhnə bakılılar yaxşı bilirlər ki, Dağüstü parkın aşağısındakı ki yastı-yapalaq evləri olan sahəyə qədimdən Çəmbərəkənd deyirdilər.
 
-On bir gün idi ki, Zeynalabdin kişi bu yollarda, necə deyərlər, əsir-yesir olmuşdu. Hər gün səhər tezdən çıxır, bir də hava qara qayıdırdı evə. Sanki əvvəlki kimi qarovulçuluq eləyirdi, heç pensiyaya çıxmamışdı, səhər dəyirmana işə gedir, bir də axşam geri dönürdü.
+On bir gün idi ki, Zeynalabdin kişi bu yollarda, necə deyərlər, əsir-yesir olmuşdu. Hər gün səhər tezdən çıxır, bir də hava qaralanda qayıdırdı evə. Sanki əvvəlki kimi qarovulçuluq eləyirdi, heç pensiyaya çıxmamışdı, səhər dəyirmana işə gedir, bir də axşam geri dönürdü.
 
 Yenə bir gün səhər o, geyinib gedəndə oğlu soruşdu:
 
@@ -66,7 +66,7 @@ Sizi başa düşürəm, əmican, eybi yoxdur, tezliklə təzə mənzilinizə al�
 
 Gözü Çəmbərəkəndin evlərini yerlə yeksan eləyən cavan buldozerçidə qalan Zeynalabdin kişi düşünürdü: “Bəlkə hər gün bura gəlməyimin əsil səbəbini açıb bu oğlana deməməkdə ağılsız iş görmüşəm, hə?! Neyniyəsən, hər kəsə inanmaq olmur! Ürəyimi ona açaram, o da deyər özgəsinə. Yox, qoy hələ qalsın, yatanları oyatmağa dəyməz, düşər-düşməzi olar”.
 
-Qoca cibindən ələ götürülməkdən üzü sürtülüb par-par parıldayan papirosqabını çıxardı. İçindən birini götürüb gözləri yol çəkə-çəkə alışdırmaq istəyəndə az qaldı ki, bığının qabağı od tutsun. Diksindi, kibrit çöpünü hirslə kənara tulladı. “Tfu, bu gün mənə nə olub, belə xəriflənmişəm?!”
+Qoca cibindən ələ götürülməkdən üzü sürtülüb par-parıldayan papirosqabını çıxardı. İçindən birini götürüb gözləri yol çəkə-çəkə alışdırmaq istəyəndə az qaldı ki, bığının qabağı od tutsun. Diksindi, kibrit çöpünü hirslə kənara tulladı. “Tfu, bu gün mənə nə olub, belə xəriflənmişəm?!”
 
 Zeynalabdin kişi yerində büzüşüb ürəyinin içini yeyirdi. “Bizim mülkü sökməyə başlayanda məsələni açaram oğlana. Bir də mən niyə qorxuram belə? Oğurluq eləmirəm ki, çəkinim, babamın övladları üçün qoyduğu halal pulları götürmək istəyirəm. Əgər bu cavan oğlanın bir tikə insafı, mürvəti varsa, gərək mənə öz halal malıma sahib olmağa kömək eləsin. Düzü, neçə gündür ona göz qoyuram, abırlı-həyalı oğlana oxşayır. Bir də əl əli yuyar, əl də qayıdıb üzü yuyar. Dünya borc dünyasıdır. O mənə yaxşılıq eləyər, mən də onun xəcalətindən çıxaram”.
 

@@ -226,7 +226,7 @@ Səhərin gözü açıldıqda atışma daha da qüvvətləndi. Viktor üzünü s
 
 – Bizim qardaşlarımız Qalada bizdən ayrı düşmüşlər. Biz nə olursa-olsun onlarla birləşməliyik.
 
-Kapitan Qasse Qalanın dövrəsinə pulemyotlar düzülmüşdü. Eti Etibarlı piyada nəfərlərini isə üsyançıların üzərinə göndərmişdi. Bununla bərabər, hər ehtimala qarşı kömək üçün Snoriyə də xəbər göndərdi.
+Kapitan Qasse Qalanın dövrəsinə pulemyotlar düzülmüşdü. Etibarlı piyada nəfərlərini isə üsyançıların üzərinə göndərmişdi. Bununla bərabər, hər ehtimala qarşı kömək üçün Snoriyə də xəbər göndərdi.
 
 Üsyançılar Qalaya yol aça bilmirdilər. Onlar düzülmüş pulemyotları görüb, quru çay yatağı tərəfdən keçməyə təşəbbüs etdilər. Qasse onların niyyətini başa düşüb, məhz burada onlar üçün tələ qura bildi. Əmr etdi ki, piyadalar yavaş-yavaş Qalaya tərəf geriləsinlər və bununla da, üsyançıları özləri ilə Qala hasarlarına tərəf çəksinlər. Qala düzünə açılan darvazadan isə bir rota soldat şəhərin içi ilə böyük bir dövrə vuraraq, üsyançıların arxasına göndərildi. Qasse öz məqsədinə nail oldu. Viktor silahlanmış soldatları öz arxasınca apararaq, piyadaları Qala hasarına tərəf sıxışdırdıqda, arxadan gələn rota onları tam mühasirəyə aldı. Belə gözlənilməz vəziyyətdən üsyançılar özlərini itirdilər. Viktor da yalnız indi başa düşdü ki, Qalada üsyan baş tutmamışdır. Çünki qalın hasarların arxasından nəinki atışma səsləri, hətta heç bir səs eşidilmirdi. “Məğlubiyyət də oradan başlamışdır, – deyə o öz-özünə düşündü – Popenko və Sırojkin də yəqin ələ keçmişlər”. Onları mühasirəyə alan soldatlar getdikcə yaxınlaşırdılar, çıxış yolu qalmamışdı. Viktor üçün hər şey aydınlaşdı. Kim isə andı pozaraq xəyanət etmişdi.
 

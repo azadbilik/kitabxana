@@ -68,7 +68,7 @@ Gecədə hərarətli nitq deyildi. Ona hədiyyələr verdilər. Həmin gün onla
 
 Zəng səsləndi.
 
-Fərəc tələsik qırmızı üzlü qovluğunu bağladı. Şap-şaplarını sürütləyə-sürütləyə dəhlizə gedəndə Badam onu qabaqlayıb qapını açdı. Mərtəbəarası meydançada boz plaşlı, başı başıaçıq, qara saçlı bir gənc oğlan dayanmışdı. O, içəri keçdi və nəzakətlə dedi:
+Fərəc tələsik qırmızı üzlü qovluğunu bağladı. Şap-şaplarını sürütləyə-sürütləyə dəhlizə gedəndə Badam onu qabaqlayıb qapını açdı. Mərtəbəarası meydançada boz plaşlı, başıaçıq, qara saçlı bir gənc oğlan dayanmışdı. O, içəri keçdi və nəzakətlə dedi:
 
 Salam, Fərəc müəllim. Sizi narahat etdiyim üçün üzr istəyirəm. Qoca oğlanın sözünü kəsdi:
 
@@ -86,7 +86,7 @@ Fərəc birdən-birə qaradinməz olmuşdu. Dinib-danışmırdı. Sözləri ağz
 
 Ərinin bu hələ Badamı bərk narahat etmişdi. Kişiyə nə olmuşdu? Həkim ona yatmağı, yerindən durmamağı tapşıranda qoca gah telefon zənginə qalxar, gah da durub qovluqlardan nə isə axtarardı. İndi bütün təhlükə arxada qalmışdı, Fərəc durub gəzməli, çox hərəkət etməli idi. Amma o, yataqdan qalxmırdı. Evlərinə gediş-gəliş də kəsilmişdi. Nə gələn vardı, nə də zəng çalan. “Niyə bu camaatın ayağı bizim evdən kəsildi?! Mağıl hərdən dən gəlib ondan nə isə xəbər alır, kişinin başını qatırdılar”.
 
-Fərəcin gözlərinin süstlüyü qarını yamanca düşündürürdü. O, hər hərdən gəlib ərini yataqdan qalxmağa məcbur edirdi. Ər-arvad birlikdə küçəyə çıxırdılar. Badam Fərəcin qoluna girirdi. Onlar yol üstündəki meydança və bağlarda qoyulmuş skamyalarda oturub dinclərini ala-ala dəniz kənarına gedir, bir-iki saat sahildə əyləşərək təmiz havadan udur, sonra evə qayıdırdılar.
+Fərəcin gözlərinin süstlüyü qarını yamanca düşündürürdü. O, hərdən gəlib ərini yataqdan qalxmağa məcbur edirdi. Ər-arvad birlikdə küçəyə çıxırdılar. Badam Fərəcin qoluna girirdi. Onlar yol üstündəki meydança və bağlarda qoyulmuş skamyalarda oturub dinclərini ala-ala dəniz kənarına gedir, bir-iki saat sahildə əyləşərək təmiz havadan udur, sonra evə qayıdırdılar.
 
 Aydın bir fevral səhəri idi. Fərəc divanda uzanıb aşağı sallanmış əlində qəzet, mürgüləyirmiş kimi gözlərini qıymışdı. Badam bazarlıq eləməyə getmişdi. Evdə sakitlik idi, tam sakitlik. Divanın qarşı tərəfindəki divara Fərəcin Otellonun geyimində və qrimində çəkilmiş şəkli vurulmuşdu. Bayaqdan bəri Fərəc əminin gözü şəklə dikilmişdi. Ona baxır, baxırdı...
 

@@ -20,7 +20,7 @@ Xəzri hər şeyi alt-üst eləyəndən sonra, nəhayət ki, kəsdi. Birdən ba�
 
 – Turan, uzağa getmə ha.
 
-Özlüyümdə kişiyə minnətdar oldum. Qızı adı ilə çağırdığına görə. Bu dəqiqələrdə onun adını öyrənmək mənim üçün bir qucaq sevincə bərabərdi... Suyun içi ilə qaçan Turanın gur saçları arxasındada quş qanadları kimi pərvazlanırdı. İçərimdə meyxoş bir hiss yarandı və qızın arxasınca suya atıldım və üzə-üzə Turanın yanındandan ötüb ikinci xəndəyə çatdım. O da mənim arxamca gəldi və dövrəmdə hər hərlənməyə maya başladı. Bir delfin kimi burada suya baş vurub o biri tərəfdən çıxırdı. Gah sağımda, gah solumda nadinc bir uşaq sayağı az qala oyun çıxarırdı. Axırıncı dəfə lap böyrümdə baş vurub sudan çıxdı və üzünə səpələnmiş saçlarını əli ilə arxaya verərək dediyi sözləri eşitdim:
+Özlüyümdə kişiyə minnətdar oldum. Qızı adı ilə çağırdığına görə. Bu dəqiqələrdə onun adını öyrənmək mənim üçün bir qucaq sevincə bərabərdi... Suyun içi ilə qaçan Turanın gur saçları arxasındada quş qanadları kimi pərvazlanırdı. İçərimdə meyxoş bir hiss yarandı və qızın arxasınca suya atıldım və üzə-üzə Turanın yanındandan ötüb ikinci xəndəyə çatdım. O da mənim arxamca gəldi və dövrəmdə hərlənməyə maya başladı. Bir delfin kimi burada suya baş vurub o biri tərəfdən çıxırdı. Gah sağımda, gah solumda nadinc bir uşaq sayağı az qala oyun çıxarırdı. Axırıncı dəfə lap böyrümdə baş vurub sudan çıxdı və üzünə səpələnmiş saçlarını əli ilə arxaya verərək dediyi sözləri eşitdim:
 
 – Xəzrilərdən sonra su hələ də qızmayıb.
 
@@ -28,7 +28,7 @@ Sahildə oturmuş kişi Turanın mənim yaxınlığımda üzməyinə qısqanaraq
 
 – Turan, çıx, bir az dincini al.
 
-Başa düşmədim, Turan onun səsini doğrudan eşitmədi, ya da özünü eşitməzliyə vurdu. Kişi bu dəfə qollarını başının üstündə hər hərləyərək daha bərkdən çığırdı. Turan yenə saymazyanalıq göstərdi. O məndən azca aralıda baş vurub sudan çıxanda:
+Başa düşmədim, Turan onun səsini doğrudan eşitmədi, ya da özünü eşitməzliyə vurdu. Kişi bu dəfə qollarını başının üstündə hərləyərək daha bərkdən çığırdı. Turan yenə saymazyanalıq göstərdi. O məndən azca aralıda baş vurub sudan çıxanda:
 
 – Sizi çağırırlar, – dedim.
 
@@ -118,7 +118,7 @@ Arxayın olun ki, mən ərinizi sağ-salamat sahilə çıxaracağam”. Özüm i
 
 Görünür, beldə anlarda kənarda durmağı qüruruna sığışdırmamışdır.
 
-Döşəyi birlikdə sahilə çıxartdıq. Kişi elə qorxmuşdu ki, dili söz tutmurdu. Bədəni tir-tir əsirdi. Dodaqları göm-göy göyərmişdi. Sahiləle çatsaq da, o, döşəkçənin üstündən qalxmaq istəmirdi.
+Döşəyi birlikdə sahilə çıxartdıq. Kişi elə qorxmuşdu ki, dili söz tutmurdu. Bədəni tir-tir əsirdi. Dodaqları göm-göyərmişdi. Sahiləle çatsaq da, o, döşəkçənin üstündən qalxmaq istəmirdi.
 
 Turan çımxırdı:
 

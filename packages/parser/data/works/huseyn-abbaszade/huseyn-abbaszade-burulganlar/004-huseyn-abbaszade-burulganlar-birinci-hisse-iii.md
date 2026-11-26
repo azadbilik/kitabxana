@@ -13,7 +13,7 @@ sourceNote: >-
   https://turuz.com/storage/her_konu-2018/3204-2-Huseyn_Abbaszade-Sechilmish_Eserleri-2-Baki-2006-197s.pdf#page=4
 status: DRAFT
 ---
-Ənzəlidən gələn “Savalan” gəmisinin yükünün yarından çoxu boşaldılmışdı. Körpüdəki sivri talvarın altında sıra ilə kişmiş, xına, düyü kisələri üst-üstə yığılmışdı. Hamısının da böyründə İranın “Xurşud” nişanı vardı.
+Ənzəlidən gələn “Savalan” gəmisinin yükünün yarından çoxu boşaldılmışdı. Körpüdəki sivri talvarın altında sıra ilə kişmiş, xına, düyü kisələri üst-üstə yığılmışdı. Hamısının da böyründə İranın “Şiri-Xurşud” nişanı vardı.
 
 Dalğalar nərilti ilə sahilə cumurdular, sanki Xəzər yatağından çıxacaqdı. “Savalan” beşik kimi yırğalanırdı.
 
@@ -69,7 +69,7 @@ Həmid razılaşmadı:
 
 Bayırdan Mirhadinin qışqırığı eşidildi:
 
-– Əşşi, adama sözü nə qədər deyərlər? Niyə qulaqardına verirsən?.. Balam, kisələrə gücün çatmır, çıx get bacardığın işin dalınca da. Atam, qərdeşim, qocalmısan, kisə daşıya bilmirsən. Neynim səninçün, mən daşıyım? Həftə səkkiz, mən doqquz, bir kisə salıb partladırsan, gah xınanı dağıdırsan, gah düyünü səpirsən yerə. Sənin zərərin qazancından dan çoxdu.
+– Əşşi, adama sözü nə qədər deyərlər? Niyə qulaqardına verirsən?.. Balam, kisələrə gücün çatmır, çıx get bacardığın işin dalınca da. Atam, qərdeşim, qocalmısan, kisə daşıya bilmirsən. Neynim səninçün, mən daşıyım? Həftə səkkiz, mən doqquz, bir kisə salıb partladırsan, gah xınanı dağıdırsan, gah düyünü səpirsən yerə. Sənin zərərin qazancından çoxdu.
 
 Nahar fasiləsi qurtarmışdı. Fəhlələr “Savalan”ın qalan yükünü boşaldırdılar.
 
@@ -189,7 +189,7 @@ Mirhadi Balağanın “sənin sayəndə heç-heçə qurtardı” deməsindən he
 
 Mirhadi dedi:
 
-– Balağa qədeş ağayanalıq göstərib sənə pul təklif eləyir, nöş götürmürsən? Götür, ver anangilə xərclik eləsinlər. Mən də burda hər hərdən pul yazıb göndərərəm evinizə. Anangilin fikrini çəkmə, öz hayına qal, gör başına nə çarə qılırsan.
+– Balağa qədeş ağayanalıq göstərib sənə pul təklif eləyir, nöş götürmürsən? Götür, ver anangilə xərclik eləsinlər. Mən də burda hərdən pul yazıb göndərərəm evinizə. Anangilin fikrini çəkmə, öz hayına qal, gör başına nə çarə qılırsan.
 
 Mirhadi Balağının əliaçıqlığı qarşısında yağlı dilini işə salıb çulunu birtəhər sudan çıxartdı. Ancaq arxasız oğlanın yerindən-yurdundan didərgin düşməsində özünü günahkar bildi. Mirhadi Allahdan qorxan idi. Həmişə işi dara düşəndə, ya birinin yanında nə üçünsə özünü təqsirkar biləndə xəlvətə çəkilib cibindən Quranı çıxarır, üç dəfə öpüb gözünün üstünə qoya-qoya deyirdi: “Ya Quran sahibi, bu dəfə də keç günahımdan”.
 
@@ -275,7 +275,7 @@ Qoca balıqçı süfrəni yığışdıranda, Həmid də ona köməklik elədi.
 
 Umur kişi qonaqların yerini içəridə saldı, özününkünü bayırda – eyvanın başında. Turab içəridə yatmağa razı olmadı, qoca dedi:
 
-– Öyrənmişəm, ay Turab, burnuma dənizin iyi dəyməyəndə gözümə mə yuxu getmir. Mən ta qar düşənəcən bayırda yatıram.
+– Öyrənmişəm, ay Turab, burnuma dənizin iyi dəyməyəndə gözümə yuxu getmir. Mən ta qar düşənəcən bayırda yatıram.
 
 Həmidlə dayısının yatağı yerdə yanaşı salınmışdı. Turab ona dedi:
 
@@ -287,7 +287,7 @@ Həmid sağ böyrü üstə uzanıb dayısına qulaq asırdı. Onun özgə evdə 
 
 Xoruzlar orda–burda banladı. Umur baba öskürdü, bayırdan dəniz havası ilə içəri tənbəki qoxusu gəldi. Qoca oyaq idi, çubuq çəkirdi.
 
-– Mən özüm bu işdən ötrü hər hərdən bunlara qoşulub Həştərxana gedirəm. Bəlkə, bu yaxınlarda da getdim, onda gəlib sənə baş çəkərəm. Bunları onunçün deyirəm ki, orda darıxmayasan. Tezliklə yollar açılacaq, gediş–gəliş sərbəst olacaq. Xəzərdə ingilislərin ağalığına çox qalmayıb. Sənin dalınca adam saldıran o Çopur Abdulla kimilərinin də əl–ayağını yığışdıracaqlar. Heyif, indi başım daha vacib işlərə qarışıqdı, yoxsa onu tapıb deyərdim ki, Həmidin başından bircə tük əskik olsa, dərinə saman topdirərəm.
+– Mən özüm bu işdən ötrü hərdən bunlara qoşulub Həştərxana gedirəm. Bəlkə, bu yaxınlarda da getdim, onda gəlib sənə baş çəkərəm. Bunları onunçün deyirəm ki, orda darıxmayasan. Tezliklə yollar açılacaq, gediş–gəliş sərbəst olacaq. Xəzərdə ingilislərin ağalığına çox qalmayıb. Sənin dalınca adam saldıran o Çopur Abdulla kimilərinin də əl–ayağını yığışdıracaqlar. Heyif, indi başım daha vacib işlərə qarışıqdı, yoxsa onu tapıb deyərdim ki, Həmidin başından bircə tük əskik olsa, dərinə saman topdirərəm.
 
 – Umur kişi ucadan öskürdü. Turab anladı ki, bu adi öskürək deyil. Qoca onlara işarə eləyir ki, daha bəsdir danışdılar, yatsınlar.
 

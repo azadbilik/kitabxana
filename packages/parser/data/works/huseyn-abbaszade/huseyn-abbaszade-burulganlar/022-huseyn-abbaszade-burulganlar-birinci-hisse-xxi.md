@@ -81,7 +81,7 @@ Həmid fikirləşdi ki, əgər o, Cəlilə məktub yazıb Bakıya çağırsa, fi
 
 – Məmə, xəbərin yoxdu ki, Balağa evlərinə məktub göndərir?
 
-– Sərvinaz xanıma küçədə hər hərdən rast gəlirəm, məktub olsaydı, mənə deyərdi. O yana qalanda, o topal kişi oğor Balağanın yanından gələndisə, onda Sərvinaz xanımgilə nöşün getməyib, səni xəbər alırdı?
+– Sərvinaz xanıma küçədə hərdən rast gəlirəm, məktub olsaydı, mənə deyərdi. O yana qalanda, o topal kişi oğor Balağanın yanından gələndisə, onda Sərvinaz xanımgilə nöşün getməyib, səni xəbər alırdı?
 
 – Elə məni də nigaran qoyan budu, ay məmə.
 

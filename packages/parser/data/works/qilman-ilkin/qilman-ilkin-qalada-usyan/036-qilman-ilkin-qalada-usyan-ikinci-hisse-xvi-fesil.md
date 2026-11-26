@@ -84,7 +84,7 @@ Rəsi yenə ötkəmcəsinə onun təklifini rədd etdi.
 
 – Eşmirəm.
 
-Onlar indi dərəni təzədən başıyuxarı qalxırdılar. Quşlar hər hərdənbir civildəşirdi. Günün şüaları vələs, cökə, cır armud ağaclarının arasından süzülərək, çəpəki onların qalxdığı cığıra yayılırdı. Talalarda rütubət torpaq buxarlanmağa başlamışdı. Yosunlu gövdələr buxarın bu zəif boz örtüsü içərisində əriyib görünməz olmuşdu.
+Onlar indi dərəni təzədən başıyuxarı qalxırdılar. Quşlar hərdənbir civildəşirdi. Günün şüaları vələs, cökə, cır armud ağaclarının arasından süzülərək, çəpəki onların qalxdığı cığıra yayılırdı. Talalarda rütubət torpaq buxarlanmağa başlamışdı. Yosunlu gövdələr buxarın bu zəif boz örtüsü içərisində əriyib görünməz olmuşdu.
 
 Sübh təzədən meşənin oyanmasını Rəsi sanki heç bir zaman belə gözəl görməmişdi. Buralarda yaşadığı bu illərdə o nə üçün bu gözəlliyi duymamışdı? Nə üçün quşların civiltisi indiki kimi ona ləzzət verməmişdi? Sübhün gözündə meşənin bu rütubətli nəfəsi nə xoş imiş?! Bəlkə bu gün həyatla vidalaşacağı üçün hər şey ona gözəl görünür? O doğurdanmı ikiüç il içərisində özünə məskən saldığı meşənin üzünə həmişəlik həsrət qalacaqdır? Ayaqları bir də bu torpağın üstündə gəzməyəcəkmi? Anasını bağrına basmayacaqmı? Bu suallardan o sanki dəhşətə gəldi. Əsəbləri gərilmiş halda geri qanırıb çığırdı:
 

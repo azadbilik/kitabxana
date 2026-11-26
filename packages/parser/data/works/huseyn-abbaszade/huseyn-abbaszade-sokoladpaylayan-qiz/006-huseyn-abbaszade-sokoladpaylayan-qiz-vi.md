@@ -50,7 +50,7 @@ Katkov mənim süst-məst olduğumu görüb, fikrimi dağıtmaq üçün zarafata
 
 – Eloğlu, özünüzü necə hiss edirsiniz?
 
-Ona cavab vermədim. Rəhimov daha məndən heç nə xəbər almadı, Yuri Katkov və palatadakı üçüncü xəstə ilə söhbət eləyib getdi. Ordu xəstəxanasında qaldığım on günün ərzində Rəhimovla danışmadım. Şöbə rəisi xəstələrə baş çəkəndə şəfqət bacısına tapşırıq verib, məni hər hərdən sarğı otağına apartdırır, yarama baxırdı.
+Ona cavab vermədim. Rəhimov daha məndən heç nə xəbər almadı, Yuri Katkov və palatadakı üçüncü xəstə ilə söhbət eləyib getdi. Ordu xəstəxanasında qaldığım on günün ərzində Rəhimovla danışmadım. Şöbə rəisi xəstələrə baş çəkəndə şəfqət bacısına tapşırıq verib, məni hərdən sarğı otağına apartdırır, yarama baxırdı.
 
 Ağır yaralıları Almaniyadan Sovet İttifaqına yola salırdılar. Mənə də növbə çatdı. Bir gün səhiyyə qatarında məni Soçiyə gətirdilər. Dəniz sahilindəki hərbi xəstəxanaların birində müalicəni davam etdirdilər.
 

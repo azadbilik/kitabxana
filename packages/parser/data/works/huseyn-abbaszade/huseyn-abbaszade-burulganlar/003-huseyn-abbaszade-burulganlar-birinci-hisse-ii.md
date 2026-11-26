@@ -327,7 +327,7 @@ Balağa ilə lap havayı güləşərdi, bunu özünə şərəf sayırdı, üstə
 
 Mirhadi istəməsə də, Həmidin adamı kimi eşməbiğ qoçu ilə Ağabalaya xəbər göndərdi ki, oğlan güləşməyə razıdır.
 
-Balağanın Həmidlə güləşəcəyi xəbəri bircə anda camaatın arasına yayıldı. Çopur Abdulla yaddan çıxdı. Nardaranlıların ağsaqqalı Kəblə Bəybala özününkülərlə məsləhətləşib Həmidə yaxınlaşdı, qurşağının nın altından bir çəngə əsginaz çıxarıb ona uzatdı. Həmid utandı, götürmədi:
+Balağanın Həmidlə güləşəcəyi xəbəri bircə anda camaatın arasına yayıldı. Çopur Abdulla yaddan çıxdı. Nardaranlıların ağsaqqalı Kəblə Bəybala özününkülərlə məsləhətləşib Həmidə yaxınlaşdı, qurşağının altından bir çəngə əsginaz çıxarıb ona uzatdı. Həmid utandı, götürmədi:
 
 – Mənə heç nə gərək deyil, əmi.
 

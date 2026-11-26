@@ -193,7 +193,7 @@ Gecədə hərarətli nitq deyildi. Ona hədiyyələr verdilər. Həmin gün onla
 
 Zəng səsləndi.
 
-Fərəc tələsik qırmızı üzlü qovluğunu bağladı. Şap-şaplarını sürütləyə-sürütləyə dəhlizə gedəndə Badam onu qabaqlayıb qapını açdı. Mərtəbəarası meydançada boz plaşlı, başı başıaçıq, qara saçlı bir gənc oğlan dayanmışdı. O, içəri keçdi və nəzakətlə dedi:
+Fərəc tələsik qırmızı üzlü qovluğunu bağladı. Şap-şaplarını sürütləyə-sürütləyə dəhlizə gedəndə Badam onu qabaqlayıb qapını açdı. Mərtəbəarası meydançada boz plaşlı, başıaçıq, qara saçlı bir gənc oğlan dayanmışdı. O, içəri keçdi və nəzakətlə dedi:
 
 @@ 010
 
@@ -213,7 +213,7 @@ Fərəc birdən-birə qaradinməz olmuşdu. Dinib-danışmırdı. Sözləri ağz
 
 Ərinin bu hələ Badamı bərk narahat etmişdi. Kişiyə nə olmuşdu? Həkim ona yatmağı, yerindən durmamağı tapşıranda qoca gah telefon zənginə qalxar, gah da durub qovluqlardan nə isə axtarardı. İndi bütün təhlükə arxada qalmışdı, Fərəc durub gəzməli, çox hərəkət etməli idi. Amma o, yataqdan qalxmırdı. Evlərinə gediş-gəliş də kəsilmişdi. Nə gələn vardı, nə də zəng çalan. “Niyə bu camaatın ayağı bizim evdən kəsildi?! Mağıl hərdən dən gəlib ondan nə isə xəbər alır, kişinin başını qatırdılar”.
 
-Fərəcin gözlərinin süstlüyü qarını yamanca düşündürürdü. O, hər hərdən gəlib ərini yataqdan qalxmağa məcbur edirdi. Ər-arvad birlikdə küçəyə çıxırdılar. Badam Fərəcin qoluna girirdi. Onlar yol üstündəki meydança və bağlarda qoyulmuş skamyalarda oturub dinclərini ala-ala dəniz kənarına gedir, bir-iki saat sahildə əyləşərək təmiz havadan udur, sonra evə qayıdırdılar.
+Fərəcin gözlərinin süstlüyü qarını yamanca düşündürürdü. O, hərdən gəlib ərini yataqdan qalxmağa məcbur edirdi. Ər-arvad birlikdə küçəyə çıxırdılar. Badam Fərəcin qoluna girirdi. Onlar yol üstündəki meydança və bağlarda qoyulmuş skamyalarda oturub dinclərini ala-ala dəniz kənarına gedir, bir-iki saat sahildə əyləşərək təmiz havadan udur, sonra evə qayıdırdılar.
 
 @@ 010
 
@@ -771,7 +771,7 @@ Xeyli söhbət elədik. Öyrəndim ki, Alxas Fizuli rayonunun dağ kəndlərind�
 
 >>bacıdan-qardaşdan heç nəyi yoxdur, təkcə anası var, o da sağıcıdır fermada. Alxasa qulaq asa-asa özümlə onu müqayisə edirdim. Mən şəhərli ola-ola qabağımda mühəndis atam, oxumağım üçün evdə hər cür şərait, instituta girə bilməmişdim. O, rayondan gəlir. Elə birinci ildən ali məktəbin tələbəsidi.
 
-Alxasla dostlaşdıq. O gündən sonra hər hərdən həyətdə görüşüb salamlaşırdıq.
+Alxasla dostlaşdıq. O gündən sonra hərdən həyətdə görüşüb salamlaşırdıq.
 
 Bir gün filarmoniyaya Yuqoslaviya estrada artistlərinin konsertinə getmişdim. Orda Alxası bir qızla gördüm, ocaqxanada divardan şəkli asılan qızla. Bir-birlərinə elə yaraşırdılar ki, Alxasgil salona gələndə qıraq sırada əyləşdiyim üçün məni görmədilər. Yerlərini axtaranda yan-yörədəki adamlar onlara baxır, pıçıldaşırdılar. Qız şəkildəkindən daha gözəl idi.
 
@@ -867,7 +867,7 @@ Bakının Çəmbərəkənd adlanan yerində dünyaya gəlmiş, bütün ömrünü
 
 @@ 023
 
-On bir gün idi ki, Zeynalabdin kişi bu yollarda, necə deyərlər, əsir-yesir olmuşdu. Hər gün səhər tezdən çıxır, bir də hava qara qayıdırdı evə. Sanki əvvəlki kimi qarovulçuluq eləyirdi, heç pensiyaya çıxmamışdı, səhər dəyirmana işə gedir, bir də axşam geri dönürdü.
+On bir gün idi ki, Zeynalabdin kişi bu yollarda, necə deyərlər, əsir-yesir olmuşdu. Hər gün səhər tezdən çıxır, bir də hava qaralanda qayıdırdı evə. Sanki əvvəlki kimi qarovulçuluq eləyirdi, heç pensiyaya çıxmamışdı, səhər dəyirmana işə gedir, bir də axşam geri dönürdü.
 
 Yenə bir gün səhər o, geyinib gedəndə oğlu soruşdu:
 
@@ -923,7 +923,7 @@ Sizi başa düşürəm, əmican, eybi yoxdur, tezliklə təzə mənzilinizə al�
 
 Gözü Çəmbərəkəndin evlərini yerlə yeksan eləyən cavan buldozerçidə qalan Zeynalabdin kişi düşünürdü: “Bəlkə hər gün bura gəlməyimin əsil səbəbini açıb bu oğlana deməməkdə ağılsız iş görmüşəm, hə?! Neyniyəsən, hər kəsə inanmaq olmur! Ürəyimi ona açaram, o da deyər özgəsinə. Yox, qoy hələ qalsın, yatanları oyatmağa dəyməz, düşər-düşməzi olar”.
 
-Qoca cibindən ələ götürülməkdən üzü sürtülüb par-par parıldayan papirosqabını çıxardı. İçindən birini götürüb gözləri yol çəkə-çəkə alışdırmaq istəyəndə az qaldı ki, bığının qabağı od tutsun. Diksindi, kibrit çöpünü hirslə kənara tulladı. “Tfu, bu gün mənə nə olub, belə xəriflənmişəm?!”
+Qoca cibindən ələ götürülməkdən üzü sürtülüb par-parıldayan papirosqabını çıxardı. İçindən birini götürüb gözləri yol çəkə-çəkə alışdırmaq istəyəndə az qaldı ki, bığının qabağı od tutsun. Diksindi, kibrit çöpünü hirslə kənara tulladı. “Tfu, bu gün mənə nə olub, belə xəriflənmişəm?!”
 
 Zeynalabdin kişi yerində büzüşüb ürəyinin içini yeyirdi. “Bizim mülkü sökməyə başlayanda məsələni açaram oğlana. Bir də mən niyə qorxuram belə? Oğurluq eləmirəm ki, çəkinim, babamın övladları üçün qoyduğu halal pulları götürmək istəyirəm. Əgər bu cavan oğlanın bir tikə insafı, mürvəti varsa, gərək mənə öz halal malıma sahib olmağa kömək eləsin. Düzü, neçə gündür ona göz qoyuram, abırlı-həyalı oğlana oxşayır. Bir də əl əli yuyar, əl də qayıdıb üzü yuyar. Dünya borc dünyasıdır. O mənə yaxşılıq eləyər, mən də onun xəcalətindən çıxaram”.
 
@@ -1343,7 +1343,7 @@ Bir kitab götürdüm. Onuncu sinif üçün kimya dərsliyi idi. 1940-cı ildə 
 
 – Kitab-dəftərlər Əlinindi. Anam saxlamışdı ki, o, davadan qayıdib instituta girəndə gərəyi olar.
 
-Əmimin dəftərlərinə baxdım. Onun da yazısı mənimki kimi oyri-üyrü idi. Anam hər hərdən məni məzəmmət eləyirdi. “Ay Vüqar, bu nə xətdi, bu nə yazıldı? Atan da, mən də səliqəli yazırıq. Bilmirəm xətt sarıdan sən kimə oxşadın?!”
+Əmimin dəftərlərinə baxdım. Onun da yazısı mənimki kimi oyri-üyrü idi. Anam hərdən məni məzəmmət eləyirdi. “Ay Vüqar, bu nə xətdi, bu nə yazıldı? Atan da, mən də səliqəli yazırıq. Bilmirəm xətt sarıdan sən kimə oxşadın?!”
 
 İndi mənə aydın oldu ki, yazıda kimə çəkmişəm.
 
@@ -1535,7 +1535,7 @@ Mən heç kəsə bir söz deməsəm də, uşaqlar mürəkkəbqabı əhva-latınd
 
 Aradan bir neçə il də keçdi. Cəbi ha can atdı ki, mənimlə yoldaşlıq eləsin, yumşalmadım. Bəzən belə olurdu ki, dalanda mən uşaqların birindən nə barədəsə soruşanda, o ondan qabaq cavab verirdi, özümü eşitməməzliyə vururdum. Mən bununla nə inad göstərirdim, nə də kin-küdurətimi bildirirdim ona. Nə qədər ağır olsa da, mənim üçün artıq əvvəlki Cəbi ölmüş, ya da harasa çıxıb getmişdi. Bəlkə də Cəbi gəlib o vaxt xoşagölməz bir iş gördüyünü səmimiyyətlə boynuna alsaydı, mən yumşalardım, belə hesab edərdim ki, bu uşaqlıq hərə-kətidir, onu bağışlayıram. Cəbi də fikrindən dönmürdü, mən də.
 
-Biz orta məktəbi qurtardıq. O məndən bir il qabaq kamal attestatı alsa da, xalq təsərrüfatı institutuna girə bilmədi, yüngül sənaye tex-nikumuna daxil oldu. Sonra mohəllə uşaqlarından eşitdim ki, Cəbi evlənib. Dalanda seyrək görünməyə başladı. Dedilər ki, Cəbi qızgilin mənzilinə linə gedib, dörd otaqları var onların, cavanları qayınatası saxlayır. Etiraf edim ki, Cəbinin dalanımızdan köçüb getməsinə hamıdan çox mən sevindim. Yekə oğlanlar idik, bir-birimizlə üz-üzə gələndə yad adamlar kimi salamsız-kalamsız ötüb keçirdik. Onu bilmirdim, amma mən buna görə xəcalət çəkirdim...
+Biz orta məktəbi qurtardıq. O məndən bir il qabaq kamal attestatı alsa da, xalq təsərrüfatı institutuna girə bilmədi, yüngül sənaye tex-nikumuna daxil oldu. Sonra mohəllə uşaqlarından eşitdim ki, Cəbi evlənib. Dalanda seyrək görünməyə başladı. Dedilər ki, Cəbi qızgilin mənzilinə gedib, dörd otaqları var onların, cavanları qayınatası saxlayır. Etiraf edim ki, Cəbinin dalanımızdan köçüb getməsinə hamıdan çox mən sevindim. Yekə oğlanlar idik, bir-birimizlə üz-üzə gələndə yad adamlar kimi salamsız-kalamsız ötüb keçirdik. Onu bilmirdim, amma mən buna görə xəcalət çəkirdim...
 
 Bənövşəyi “Jiquli” çoxdan getmişdi. Onun yolda qopardığı toz çoxdan yan-yörəmizdə bitmiş quru qanqal kollarının və yovşanların üstünə qonmuşdu.
 
@@ -1543,7 +1543,7 @@ Bənövşəyi “Jiquli” çoxdan getmişdi. Onun yolda qopardığı toz çoxda
 
 Böyrümüzdə duran qoca arvad mənim şəhərə tez getmək üçün yerimdə vurnuxduğumu görüb dedi:
 
-– Ay oğul, nahaq o maşına minib getmədin. Bu avtobus gələsi olmadı. Görəsən, harda ilişib. Nəhayət, binaların dalından göy işıqlı bir taksi çıxdı. Əl elədim, durdu, qaçıb əyləşdim. Dayanacaqdakılar təəccüblə dönüb birlərinə baxdılar. Mənim bayaq bənövşəyi “Jiquli”ya minməməyim və bu qədər dayanıb taksi gözləməyim onlara yersiz göründü. Taksidə dal tərəfdə bir küncə sıxılıb» əyləşmişdim. Yol boyu Cəbi barəsində fikirləşirdim. Bənövşəyi “Jiquli” hələ də gözlərimin qabağından çəkilmirdi. İndi bayaq isti-isti Cəbinin maşınına minməkdən boyun qaçırmağımın peşmanlığını çəkirdim. Bəlkə, mən heç yaxşı iş görməmişdim?! Onun maşınına minib şəhərə getsəydim, dünya dağılmazdı ki... Mürəkkəbqabı hadisəsindən nə qədər vaxt keçib. Onda hər ikimiz uşaqlıq, indi olmuşuq ailə sahibi. Köhnə küllükləri eşələmək nəyə lazımdı?! Bəlkə, Cəbi indi onda elədiyi hərəkətin xəcalətini çəkir. Bəlkə də, o hadisəni tamamilə unudub? Bəs mən niyə unuda bilmirəm?! Adətim idi, zavodda (yadımdan çıxdı deyim, mən neft maşınqayırma zavodunda mühəndisəm) və ya başqa yerdə maraqlı bir hadisənin şahidi olsaydım, ya da bir müvəffəqiyyətsizliyə uğrasaydım, mütləq onu axşam evdə arvadıma danışardım, çətinə düşəndə ikimiz fikirləşib bir çıxış yolu tapırdıq. Fərəhli hadisəyə ər-arvad bir yerdə sevinərdik. Özü də bilmədim ki, bu gün qəsəbəmizdə Cəbiyə rast gəldiyimi, köhnə mürəkkəbqabı əhvalatını niyə mən evdə danışmadım?.. Cəbini sonralar çörək mağazasında, rabitə şöbəsində gördüm. Biz hər dəfə rastlaşanda salamlaşardıq. O, yaşa dolub yaraşıqlı bir kişi olmuşdu. Birinci dəfə avtobus dayanacağında Cəbini görəndə maşında əyləşdiyi üçün onun boy-buxununa əməlli baxa bilməmişdim. Geyiminə, səliqəsinə söz ola bilməzdi, necə deyərlər, elə bil elçiliyə gedəcəkdi. Bir dəfə axşamüstü zavoddan qayıtmışdım, avtobusdan düşüb “Bakı” qəzetini almaq üçün evimizin böyründəki köşkün qabağında növbəyə durmuşdum. Bir gün “Neftçi” Daşkənddə “Paxtakor” komandasına uduzmuşdu. Futbol azarkeşləri qəzetdən o biri koman-
+– Ay oğul, nahaq o maşına minib getmədin. Bu avtobus gələsi olmadı. Görəsən, harda ilişib. Nəhayət, binaların dalından göy işıqlı bir taksi çıxdı. Əl elədim, durdu, qaçıb əyləşdim. Dayanacaqdakılar təəccüblə dönüb bir-birlərinə baxdılar. Mənim bayaq bənövşəyi “Jiquli”ya minməməyim və bu qədər dayanıb taksi gözləməyim onlara yersiz göründü. Taksidə dal tərəfdə bir küncə sıxılıb» əyləşmişdim. Yol boyu Cəbi barəsində fikirləşirdim. Bənövşəyi “Jiquli” hələ də gözlərimin qabağından çəkilmirdi. İndi bayaq isti-isti Cəbinin maşınına minməkdən boyun qaçırmağımın peşmanlığını çəkirdim. Bəlkə, mən heç yaxşı iş görməmişdim?! Onun maşınına minib şəhərə getsəydim, dünya dağılmazdı ki... Mürəkkəbqabı hadisəsindən nə qədər vaxt keçib. Onda hər ikimiz uşaqlıq, indi olmuşuq ailə sahibi. Köhnə küllükləri eşələmək nəyə lazımdı?! Bəlkə, Cəbi indi onda elədiyi hərəkətin xəcalətini çəkir. Bəlkə də, o hadisəni tamamilə unudub? Bəs mən niyə unuda bilmirəm?! Adətim idi, zavodda (yadımdan çıxdı deyim, mən neft maşınqayırma zavodunda mühəndisəm) və ya başqa yerdə maraqlı bir hadisənin şahidi olsaydım, ya da bir müvəffəqiyyətsizliyə uğrasaydım, mütləq onu axşam evdə arvadıma danışardım, çətinə düşəndə ikimiz fikirləşib bir çıxış yolu tapırdıq. Fərəhli hadisəyə ər-arvad bir yerdə sevinərdik. Özü də bilmədim ki, bu gün qəsəbəmizdə Cəbiyə rast gəldiyimi, köhnə mürəkkəbqabı əhvalatını niyə mən evdə danışmadım?.. Cəbini sonralar çörək mağazasında, rabitə şöbəsində gördüm. Biz hər dəfə rastlaşanda salamlaşardıq. O, yaşa dolub yaraşıqlı bir kişi olmuşdu. Birinci dəfə avtobus dayanacağında Cəbini görəndə maşında əyləşdiyi üçün onun boy-buxununa əməlli baxa bilməmişdim. Geyiminə, səliqəsinə söz ola bilməzdi, necə deyərlər, elə bil elçiliyə gedəcəkdi. Bir dəfə axşamüstü zavoddan qayıtmışdım, avtobusdan düşüb “Bakı” qəzetini almaq üçün evimizin böyründəki köşkün qabağında növbəyə durmuşdum. Bir gün “Neftçi” Daşkənddə “Paxtakor” komandasına uduzmuşdu. Futbol azarkeşləri qəzetdən o biri koman-
 
 @@ 037
 
@@ -1593,7 +1593,7 @@ Bənövşəyi “Jiquli” geniş yola çıxıb avtomobillərin axınına qarı�
 
 *Əziz Şərifə ithaf edilir*
 
-Əhməd Şahbazlıya Sahil küçəsindəki yeddimərtəbəli yeni binada mənzil l verəndə beşinci mərtəbəni götürmüşdü. Əvvəl institutda ona ikinci mərtəbədə mənzil l ayırmışdılar ki, qoca kişidir, yuxarı düşüb-çıxmaq asan olsun, istəməmişdi. Özü beşinci mərtəbəni seçmişdi, oradan dəniz yaxşı görünürdü. İkinci mərtəbənin qabağını sahil bağında ki ağaclar ar tutmuşdu. Bir neçə metrlikdə olan Xəzər ancaq külək əsəndən-əsənə silkələnən budaqların arasından görünürdü. Heyif deyildi beşinci mərtəbə! İlin bütün fəsillərində sanki Xəzər ayağının altında idi, xəzri əsəndə dənizin havası dolurdu otaqlara.
+Əhməd Şahbazlıya Sahil küçəsindəki yeddimərtəbəli yeni binada mənzil l verəndə beşinci mərtəbəni götürmüşdü. Əvvəl institutda ona ikinci mərtəbədə mənzil l ayırmışdılar ki, qoca kişidir, yuxarı düşüb-çıxmaq asan olsun, istəməmişdi. Özü beşinci mərtəbəni seçmişdi, oradan dəniz yaxşı görünürdü. İkinci mərtəbənin qabağını sahil bağında ki ağaclar tutmuşdu. Bir neçə metrlikdə olan Xəzər ancaq külək əsəndən-əsənə silkələnən budaqların arasından görünürdü. Heyif deyildi beşinci mərtəbə! İlin bütün fəsillərində sanki Xəzər ayağının altında idi, xəzri əsəndə dənizin havası dolurdu otaqlara.
 
 Professor Əhməd Şahbazlıgil beş baş külfət idi – oğlu, gəlini, nəvələri, bir də o. Beş otaqları vardı, hələ uzunsov küçə balkonları o yana qalsın. Əslində o da bir otaq idi. Əhməd Şahbazlı küçə balkonunda xudmani bir bağça salmışdı – güllü-çiçəkli yaşıl talvarlı. Küçədə divar dibində əkdiyi meyvəni qaldırmışdı beşinci mərtəbəyə, sərin kölgəlik düzəltmişdi.
 
@@ -1915,7 +1915,7 @@ Onların kəndləri uca dağların qoynunda, yüksək bir yerdə salınmışdı.
 
 Nəcibəgilin həyətində meyvə ağacı yox idi. Mərhum atası həyətin bir başında qızılgül, yasəmən, akasiya ağacları basdırılmışdı. O biri başda isə tərəvəz ləkləri var idi. Yalnız mətbəxin böyründə dədə-babadan qalma, yan-yana bitmiş iki qoz ağacı ucalırdı. Nəcibə hələ şagirdlik illərindən hər yay bu qoz ağaclarının kölgəsində uzanıb kitab oxumağı sevirdi. Anası onun istəyini bilirdi. Qızı Bakıdan məzuniyyətə gələn kimi qoz ağaclarının altını süpürüb sulamış, naxışlı kilimi yenə köhnə taxtın üstünə salmışdı.
 
-Zavodun qaynar həyatından, təhsil qayğısından ayrılıb sakitliyə, təbiətin gözəl guşəsinə düşən Nəcibə hər hərdən meşəni gəzdi, anasına evdə kömək etdi, ləkləri suladı, rahat dincəldi.
+Zavodun qaynar həyatından, təhsil qayğısından ayrılıb sakitliyə, təbiətin gözəl guşəsinə düşən Nəcibə hərdən meşəni gəzdi, anasına evdə kömək etdi, ləkləri suladı, rahat dincəldi.
 
 Məzuniyyətinin ikinci həftəsi gedirdi. Nəcibə qoz ağaclarının altındakı taxtın üstündə uzanıb Cəlil Məmmədquluzadənin hekayələr kitabını oxuyurdu. Qapı döyüldü. Poçtalyon təzə qəzetlər gətirmişdi. Anası onları alıb qızına verdi. Nəcibə oxuduğu hekayəni başa vurunca kitabı qatlayıb yanına qoydu və təzə qəzetləri gözdən keçirdi. Elə bil onu ilan vurdu. Qız yerindən dik qalxdı.
 
@@ -2013,7 +2013,7 @@ Qadının gözləri qəzəb qığılcımları saçdı. O, səsini ucaltdı:
 
 # Yovşansatan
 
-Yovşan ətrini sevirəm. Uşaqlıqda yoldaşlarımla hər hərdən şəhərin kənarlarındakı boz çöllərə yovşan, qozqurab yığmağa gedərdik. Qozqurab yığmaq çətin olduğu üçün əvvəlcə ondan başlayırdıq. Axtarıb qozqurab kollarının dibini bıçaq tiyəsi ilə ehmalca qazıya-qazıya onun ağ turpa oxşayan kökünü çıxarırdıq, evdə analarımız bu kökləri yağ-soğanla bişirirdi, elə yeməli çığırtması olurdu ki...
+Yovşan ətrini sevirəm. Uşaqlıqda yoldaşlarımla hərdən şəhərin kənarlarındakı boz çöllərə yovşan, qozqurab yığmağa gedərdik. Qozqurab yığmaq çətin olduğu üçün əvvəlcə ondan başlayırdıq. Axtarıb qozqurab kollarının dibini bıçaq tiyəsi ilə ehmalca qazıya-qazıya onun ağ turpa oxşayan kökünü çıxarırdıq, evdə analarımız bu kökləri yağ-soğanla bişirirdi, elə yeməli çığırtması olurdu ki...
 
 Bizimçün çölə yovşan, qozqurab gətirməyə getmək həm də böyüklərin gözündən, nəzərindən uzaq sərbəstlik, sevinclə dolu əyləncəydi, yorulanda yovşanlıqda evdən gətirdiyimiz şor-çörəklə nahar eləyir, arxamızı yerə verib dincəlirdik. Mən bu anlarda xoşlayırdım topa bir yovşan kolunu balıq təkin yastılayıb başımı qoyum onun üstünə, məh əsdikcə dövrəmdəki yovşan kollarının ətriylə nəfəs alır, məst olurdum. Yoldaşlarım çağırmayınca beləcə uzanardım.
 
@@ -2025,7 +2025,7 @@ Bu da indiki kimi yadımdadır, yaşı yüzü haqlamış ata nənəm Leyla danı
 
 İllər ötdükcə şəhərin kənarlarındakı boz çöllərdə çoxmərtəbəli binalar tikdilər, qəsəbələr saldılar, yovşanlıqlar, qozqurab kolları qaldı onların altında, biz də boya-başa çatdıq.
 
-Ancaq hər hərdən mer-meyvə bazarında yovşan satan görəndə ondan bir-iki dəstə alardım, sonra o da olmadı, yalnız ara-sıra səfərdən Bakıya qayıdanda yolüstü Ceyrançöldən bəridəki yastı təpələrdən yovşan yığıb gətirirdim, onların da elə ətri olmurdu.
+Ancaq hərdən mer-meyvə bazarında yovşan satan görəndə ondan bir-iki dəstə alardım, sonra o da olmadı, yalnız ara-sıra səfərdən Bakıya qayıdanda yolüstü Ceyrançöldən bəridəki yastı təpələrdən yovşan yığıb gətirirdim, onların da elə ətri olmurdu.
 
 Ötən il yaz səhəri gördüm ki, şəhərin gur yerində topa saqqalına erkən dən düşmüş qaynar gözlü, nimdaş geyimli bir cavan kişi
 
@@ -2069,7 +2069,7 @@ Yovşan dəstələrindən üçünü uşaqlara verdim ki, o biri otaqlarda yerbə
 
 >>canın altına qoydum. O birini uşaqlığında boz çöllərdə olan kimi balıqtək yastılayıb qoydum başımın altına. Divanda uzanıb gözlərimi yumdum. Xəyal məni həmişə köhnə məhəlləmizə yolum düşəndə həsrətlə xatırladığım uşaqlığıma apardı... Otağa dolan yovşan ətriylə nəfəs aldıqca mənə elə gəlirdi ki, yenə curlarımla şəhər kənarlarındakı yovşanlı çöllərdəyəm, biz qəzeti süfrə kimi açıb ortaya şorçörəklərimizi qoyub, iştahla yemişik, sonra da hərəmiz bir yanda tirilənmişik. Şərin yaz mehi əsir... Dövrəmizdəki yovşan kollarının ətrindən məst olmuşam. Nənəmin zəif səsini eşidirəm. Həmişə o, mən çöllərə qozquraq, yovşan gətirməyə gedəndə deyirdi: “Balamın balası, canımın parası. İndi ilanın, əqrəbin oyanıb üzə çıxan vaxtıdı, amanın günüdü, bir-birinizdən muğayat olun!”
 
-Nə vaxtdı ki, uzanmışdım divanda, fikir, xəyal məni gəzdirirdi göz açdığım dar dalanda, qənbər döşənmiş küçəmizdə, hər hərdən boş bir şeyin üstündə sözlərimiz çəp gələndə küsüb tez də barışdığımız yoldaşlarımın arasında özümü göyün yeddinci qatında hiss edirdim. Gözlərimi açmaqdan çəkinirdim, mənə elə gəlirdi ki, gözlərimi açan kimi indi özümə də şirin nağıl kimi görünən o əlçatmaz aləmdən ayrılacağam...
+Nə vaxtdı ki, uzanmışdım divanda, fikir, xəyal məni gəzdirirdi göz açdığım dar dalanda, qənbər döşənmiş küçəmizdə, hərdən boş bir şeyin üstündə sözlərimiz çəp gələndə küsüb tez də barışdığımız yoldaşlarımın arasında özümü göyün yeddinci qatında hiss edirdim. Gözlərimi açmaqdan çəkinirdim, mənə elə gəlirdi ki, gözlərimi açan kimi indi özümə də şirin nağıl kimi görünən o əlçatmaz aləmdən ayrılacağam...
 
 O gündən sonra mən səhərlər işə gedəndə neçə kərə yovşansatan cavan kİŞini şəhərin gur yerində əlində yovşan dəstəsi dayanan görsəm də yaxınlaşmadım, yaxşı bilirdim ki, məni görən kimi bor- «unu qaytaracaq. Mən ondan “şirvan”ın qalığını almaq istəmirdim.
 
@@ -2678,7 +2678,7 @@ Sabah yenə növbəti dəstə vətənimizə gedəcəkdi. Vzvod komandirimiz mən
 
 Mən rabitəçilər otdeleniyasının komandiri idim. Nahara bir saat qalırdı. Axırıncı saatda döyüşçülər ilə məşğul olmağı köməkçimə həvalə etdim.
 
-Şəhərdə abadlıq işləri gedirdi. Sovet komandanlığı tərəfindən yerlilərdən təyin edilmiş şəhər bələdiyyə rəisi Parximin küçələrin uçuntuların təmizlənməsinə, yolların qaydaya salınmasına baş-
+Şəhərdə abadlıq işləri gedirdi. Sovet komandanlığı tərəfindən yerlilərdən təyin edilmiş şəhər bələdiyyə rəisi Parximin küçələrindəki uçuntuların təmizlənməsinə, yolların qaydaya salınmasına baş-
 
 @@ 061
 
@@ -3078,7 +3078,7 @@ Katkov mənim süst-məst olduğumu görüb, fikrimi dağıtmaq üçün zarafata
 
 – Eloğlu, özünüzü necə hiss edirsiniz?
 
-Ona cavab vermədim. Rəhimov daha məndən heç nə xəbər almadı, Yuri Katkov və palatadakı üçüncü xəstə ilə söhbət eləyib getdi. Ordu xəstəxanasında qaldığım on günün ərzində Rəhimovla danışmadım. Şöbə rəisi xəstələrə baş çəkəndə şəfqət bacısına tapşırıq verib, məni hər hərdən sarğı otağına apartdırır, yarama baxırdı.
+Ona cavab vermədim. Rəhimov daha məndən heç nə xəbər almadı, Yuri Katkov və palatadakı üçüncü xəstə ilə söhbət eləyib getdi. Ordu xəstəxanasında qaldığım on günün ərzində Rəhimovla danışmadım. Şöbə rəisi xəstələrə baş çəkəndə şəfqət bacısına tapşırıq verib, məni hərdən sarğı otağına apartdırır, yarama baxırdı.
 
 Ağır yaralıları Almaniyadan Sovet İttifaqına yola salırdılar. Mənə də növbə çatdı. Bir gün səhiyyə qatarında məni Soçiyə gətirdilər. Dəniz sahilindəki hərbi xəstəxanaların birində müalicəni davam etdirdilər.
 
@@ -3239,7 +3239,7 @@ Axşam gedəndə onlar ikisi də çimmiş, üzlərini qırxmış, səliqəli olm
 
 Qaranlıq düşəndə əvvəlcə anam çıxıb baxdı, görsün evimizi güdən yoxdur ki?! Arxayınlıq idi. Atam gedəndə anamı da, məni də öpdü. Cavanşiro isə ikimizin də əlini hərarətlə sıxdı. Arıq olsa da, yamanca güclü idi. Ovcunda daş kimi bərk qabarlar vardı. Bildim ki, bunlar osirlikdə ağır işdə işləyən də olub...
 
-...Covanniyə atasından onu xatırladan bircə nişanə, yadigar qalmamışdı ki, hər hərdən götürüb baxsın, təskinlik tapsın. Hətta o, Cavanşirin şəklini də görməmişdi, bilmirdi ki, atası necə adam olub. Ancaq anası Fəliçə deyirdi ki, oğul, sən Cavanşıroya çox oxşayırsan, onu görmək istəyəndə güzgüdə özünə bax. Elə zənn elə ki, qabağında duran atandır. Covanni neçə dəfə belə eləmişdi. Güzgüdə özünə nə qədər baxsa da, qəlbindəki ata nisgili azalmamışdı.
+...Covanniyə atasından onu xatırladan bircə nişanə, yadigar qalmamışdı ki, hərdən götürüb baxsın, təskinlik tapsın. Hətta o, Cavanşirin şəklini də görməmişdi, bilmirdi ki, atası necə adam olub. Ancaq anası Fəliçə deyirdi ki, oğul, sən Cavanşıroya çox oxşayırsan, onu görmək istəyəndə güzgüdə özünə bax. Elə zənn elə ki, qabağında duran atandır. Covanni neçə dəfə belə eləmişdi. Güzgüdə özünə nə qədər baxsa da, qəlbindəki ata nisgili azalmamışdı.
 
 İnsanın əli nəyə çatmırsa, onun həsrətini daha çox çəkir. Covanni də belə idi. Uşaqlıqdan anasından nə qədər qayğı, nəvaziş görsə də, atasızlığı heç yadından çıxmırdı. Məhəllə yoldaşları axşamlar işdən qayıdan atalarının qabağına qaçıb qucaqlarına atılanda, o kövrəlir, özünü xəlvət bir bucağa verib məlul-məlul baxırdı. Ağlayan vaxtı da olurdu. Ancaq bunları heç kəsə bildirmirdi. Feliçedən də gizli saxlayırdı. O çox həssas uşaq idi, hər şeyi başa düşürdü. Anasını da dəlicəsinə sevirdi. Anlayırdı ki, Fəliçə onun ağladığını görsə əhvalı pozulacaq. Buna görə də anasının qanını qaraltmaq istəmirdi...
 
@@ -3349,7 +3349,7 @@ Bir gecə yenə tanış ahənglə pəncərəmizin şüşəsini tıqqıldatdılar
 
 Atamgilin nə üçün bir müddət evə gəlməmələrinin səbəbi məlum oldu, sən demə, faşistlər hardansa onların yerlərini öyrəniblər, gecənin bir çağında partizanların məskən saldıqları meşəni qəfildən güclü top atəşinə tutublar. Qarışıqlıqda hər iki tərəfdən ölənlər də olub, yaralananlar da. Qaraköynəklilər elə biliblər ki, onları qırıb qurtaniblar. Yaxşı ki, bəd ayaqda partizanlar fürsət tapıb yerlərini dəyişiblər. Buna görə də onlar bir neçə gün gözdən, nəzərdən yayınıb, izi itirmək üçün meşədən kənara çıxmayıblarmış.
 
-O gecə qəsdənmi, ya təsadüfən valideynlərim bizi bir müddət otaqda tək qoydular. Mətbəxdə bir saatdan çox ləngiyib xörək hazırladılar. Atam xörək bişirməyi xoşlayırdı. O dərzi olsa da aşpazlığı dərziliyindən geri qalmırdı. Anamın onun bu məşğuliyyətindən heç xoşu gəlmirdi, gileylənirdi: “Biş-düş arvad işidir”. Atamsa istədiyini eləyir, özünü müdafiə üçün deyirdi ki, kulinariyaya həvəs göstərmək pis iş olsaydı həmvətənimiz dahi Coakkino Rossini xidmətçisi ola-ola evdə özü xörək hazırlamazdı, oturub musiqisini yazardı. Atam Rossininin pərəstişkarı idi. Hər Hərdən paltar tikə-tikə “Sevilya bərbəri”nin ariyalarından zümzümə eləməyi sevirdi.
+O gecə qəsdənmi, ya təsadüfən valideynlərim bizi bir müddət otaqda tək qoydular. Mətbəxdə bir saatdan çox ləngiyib xörək hazırladılar. Atam xörək bişirməyi xoşlayırdı. O dərzi olsa da aşpazlığı dərziliyindən geri qalmırdı. Anamın onun bu məşğuliyyətindən heç xoşu gəlmirdi, gileylənirdi: “Biş-düş arvad işidir”. Atamsa istədiyini eləyir, özünü müdafiə üçün deyirdi ki, kulinariyaya həvəs göstərmək pis iş olsaydı həmvətənimiz dahi Coakkino Rossini xidmətçisi ola-ola evdə özü xörək hazırlamazdı, oturub musiqisini yazardı. Atam Rossininin pərəstişkarı idi. Hərdən paltar tikə-tikə “Sevilya bərbəri”nin ariyalarından zümzümə eləməyi sevirdi.
 
 Hə, otaqda tək idik. Cavanşiro sıxıla-sıxıla məni sevməsini dünən atama söylədiyini dedi. Özümü saxlaya bilmədim, onun boynunu qucaqlayıb, üzündən öpdüm. Cavanşiro da məni bağrına basdı, ürəyi elə bərk döyünürdü ki, elə bil sinəsini yarıb bayıra çıxacaqdı. Bu zaman atamgil gəlib bizi qucaqlaşan gördülər, özümüzü itirdik, tez aralandıq.
 
@@ -3725,7 +3725,7 @@ Avtobus dağların arasında yaşıllıqlar içində itən rayon mərkəzinin gi
 
 @@ 085
 
-Qabaqda hündürboylu düm ağsaqqallı, yaşına nisbətən xeyli qıvraq görünən bir qoca durmuşdu. Əynində tünd-sumağı rəngdə arxalıq, ayağında uzunboğaz çəkmə, başında çal papaq vardı. Qocanın gözü maşında qalmışdı. Hər Hərdən böyründə duran gənc oğlana nə isə deyirdi. Yerdəkilər intizar içində avtobusa boylanır, kimisə axtarırdılar.
+Qabaqda hündürboylu düm ağsaqqallı, yaşına nisbətən xeyli qıvraq görünən bir qoca durmuşdu. Əynində tünd-sumağı rəngdə arxalıq, ayağında uzunboğaz çəkmə, başında çal papaq vardı. Qocanın gözü maşında qalmışdı. Hərdən böyründə duran gənc oğlana nə isə deyirdi. Yerdəkilər intizar içində avtobusa boylanır, kimisə axtarırdılar.
 
 Səm Sərnişinlər qalxıb qapıya sara yönəldilər. Covanni bayırda bir yerdə də toplaşıb avtobusa boylana-boylana içəridən kimisə axtaran adamları görüncə yəqin etdi ki, onu qarşılamağa gələnlərdir. Demək, onun Bakıdan, “İnturist”dən Qaraselliyə vurduğu teleqramı almışlar.
 
@@ -3747,7 +3747,7 @@ Babasından sonra Covanni qadınla qucaqlaşdı. Onu qarşılamağa gələnləri
 
 Bakıdan Covanni ilə avtobusda bir yerdə də gələn səm sərnişinlər təhər-töhüründən onlara oxşamayan bu qərib oğlanın kim olduğunu yalnız indi bildilər. Qurban kişi Qarasellidən qonağı qarşılamağa gələnləri araya aldılar. Sürücü kənarda durub gətirdiyi bu qeyri-adi səm işinə gülə-gülə tamaşa eləyirdi. O, siqaret alışdıra-alışdıra dedi:
 
-– Doğma torpaq, ata yurdu ayrı şeydi. Onu torpaq bu yerlərə çəkib gətirib. Eti Etibarlı oğulmuş. Anasının südü ona halal olsun.
+– Doğma torpaq, ata yurdu ayrı şeydi. Onu torpaq bu yerlərə çəkib gətirib. Etibarlı oğulmuş. Anasının südü ona halal olsun.
 
 Dava vaxtı xaricdə bizimkilərdən az belə uşaq olub qalıb? Görüm hamısı el-əqrəbasını axtarıb tapırmı?! Bəla səm sərnişinlə lap dünyanın o başına getməyə də dəyər.
 
@@ -3805,7 +3805,7 @@ Covanni əfsanələr aləmini andıran qalın meşəyə baxa-baxa fikrə getmiş
 
 Feliçenin Covanni ilə getməyə imkanı vardı. Ancaq boğazından kəsə-kəsə qara gün üçün yığdığı pulu bu baha başa gələn uzaq səfərdə xərcləmək istəmədi. Çalışdı oğlu da getməsin. Covanni çoxdan hiss etmişdi ki, anasının Qarasellini – Cavanşironun vətənini görmək üçün ürəyi yarpaq kimi əsir...
 
-Getdikcə il ildən ağır gəlir, dolanmaq çətinləşirdi. Covanni anasının qənaətcilliyinə boraət qazandırırdı. O yaxşı bilirdi ki, Feliçe xəsis deyil, onun simic adamlardan zəhləsi gedir. Yazıq Felıçə gəncliyində o qədər korluq çəkmişdi ki, gözü qorxmuşdu. Hər Hərdən qonun-qonşunun işdən çıxarılmasını eşidəndə Covanni üçün hövl eləyir, deyirdi ki, oğul, sözə qulaq as, ixtiyar sahiblərini özündən incik salma. Sonra işdən çıxararlar, təzə yer tapınca zinhara gələrsən.
+Getdikcə il ildən ağır gəlir, dolanmaq çətinləşirdi. Covanni anasının qənaətcilliyinə boraət qazandırırdı. O yaxşı bilirdi ki, Feliçe xəsis deyil, onun simic adamlardan zəhləsi gedir. Yazıq Felıçə gəncliyində o qədər korluq çəkmişdi ki, gözü qorxmuşdu. Hərdən qonun-qonşunun işdən çıxarılmasını eşidəndə Covanni üçün hövl eləyir, deyirdi ki, oğul, sözə qulaq as, ixtiyar sahiblərini özündən incik salma. Sonra işdən çıxararlar, təzə yer tapınca zinhara gələrsən.
 
 Covanni anasının kəndə qayıdandan sonra başına nələr gəldiyini xatırladı...
 
@@ -3875,7 +3875,7 @@ Yaxşı ki, paltar tikməyi bacarırdım, atama evdə kömək eləyəndə öyrə
 
 Müştərilər gördüyüm iş üçün mənə pul da verirdilər, ərzaq da. Özüm bilirdim ki, gördüyüm iş çox da keyfiyyətli deyil. Əvvəl-əvvəllər müştərilər könlümə dəyməmək üçün işə irad tutmur, şikayətlənmirlər. Amma onu da duyurdum ki, işlədikcə əlim açılır, dərziliyə alışırdım.
 
-Uşaqlıqdan ailə üzvləri arasında dolanmağa adət eləmişdim. Davadan qabaq mənzi mənzilimizdə dörd nəfər yaşayırdı, evimiz səsliküylü olurdu. Atamın yanına bəzən axşamlar da gəlirdilər. Qardaşım Cüzeppe çox zarafatcıl idi, bizi darıxmağa qoymurdu. Məzəlilikdə atam da ondan geri qalmırdı. İndi isə səsliküylü mənzil sükuta qərq olmuşdu. Sakitlik məni sıxır, darıxırdım, evdə öz addımının səsindən başqa ayrı hənirti eşitmirdim. Bir də görürdüm ki, gah atam-anam, gah da Cavanşiro ilə ucadan danışıram. Sanki onlar sağ idilər, oturub mənə qulaq asırdılar...
+Uşaqlıqdan ailə üzvləri arasında dolanmağa adət eləmişdim. Davadan qabaq mənzilimizdə dörd nəfər yaşayırdı, evimiz səsliküylü olurdu. Atamın yanına bəzən axşamlar da gəlirdilər. Qardaşım Cüzeppe çox zarafatcıl idi, bizi darıxmağa qoymurdu. Məzəlilikdə atam da ondan geri qalmırdı. İndi isə səsliküylü mənzil sükuta qərq olmuşdu. Sakitlik məni sıxır, darıxırdım, evdə öz addımının səsindən başqa ayrı hənirti eşitmirdim. Bir də görürdüm ki, gah atam-anam, gah da Cavanşiro ilə ucadan danışıram. Sanki onlar sağ idilər, oturub mənə qulaq asırdılar...
 
 Axır zamanlar fikrim-zikrim dünyaya gələcək körpəmin yanında idi. Vaxt eləyib onun üçün xırdaca paltarlar tikir, əski hazırlayırdım. Elə istəyirdim ki, o dünyaya tez gəlsin... Mənə elə gəlirdi ki, körpəm yanımda olsa, daha belə darıxmaram, hənirsiz otaqdan canlı insan səsi gələr, onun nəfəsi ilə mənzil isinər, mənə qulaqyoldaşı, həyan olar. Bu da mənə bəlli idi ki, körpənin doğulması ilə qayğım xeyli artacaq, əvvəlki kimi işləyə bilməyəcəyəm. Yaşayışım ağırlaşacaq. Bunları dönə-dönə ölçüb-biçmiş, belə qənaətə gəlmişdim ki, qarşıma çıxacaq çətinliklərlə müqayisədə körpənin dünyaya gəlməsinin mənə gətirdiyi sevinc, həyatıma verdiyi yenilik əziyyətlərimdən qat-qat üstün olacaq...
 
@@ -4023,7 +4023,7 @@ Kababın iştahaçan qoxusu həyətə dolmuşdu.
 
 @@ 091
 
-Qurban kişi qız nəvəsi Cavanşirlə bərabər həyətdə, Covanni ilə yanaşı oturmuşdu. Baba hərdənbir bir eyvana qalxır, qocalara baş çəkir, onlara bir-iki xoş söz deyib könüllərini alır, yenə də həyətə cavanların yanına enirdi.
+Qurban kişi qız nəvəsi Cavanşirlə bərabər həyətdə, Covanni ilə yanaşı oturmuşdu. Baba hərdənbir eyvana qalxır, qocalara baş çəkir, onlara bir-iki xoş söz deyib könüllərini alır, yenə də həyətə cavanların yanına enirdi.
 
 Cavanların məclisi xeyli şən, səsli-küylü idi. Xurmayı papaqlı, qalife şalvarlı, uzunboğaz çəkməli, qalınbığlı oğlan sazını sinəsinə basıb aşıq havalarından göyçəgülü, kərəm şikəstəsi, yurdyeri, misri Koroğlu, dübeyti çalır, Aşıq Ələsgərin qoşmalarından şirin-şirin oxuyurdu. Onun gur səsi çox məlahətli idi, uzaqdan gələn qonaq aşığın çaldığı musiqiyə, oxuduğu mahnılara heyranlıqla qulaq asırdı.
 
@@ -4041,7 +4041,7 @@ Aylı gecə idi, Qaraselli şirin yaz yuxusuna getmişdi. Ətraf elə sakitlik i
 
 @@ 092
 
->>oğlu. O vaxt, bəxtəvər günlərində mən hər hərdən fironluq eləyib, bir iş üstündə qəzəblənəndə Cavanşir məni qucağına alıb otaqda yelləndirirdi. Min cür xoş söz deyib könlümü alırdı. Nə qədər hirsli olsam da, qəzəbim o dəqiqə soyuyurdu. Ona yalvarırdım ki, ay bala, məni yerə qoy, belin sərpər. Sözə qulaq asan kimdi... Eh bədbəxt bala. – Mürvət qarı çarqatının ucunu yaşaran gözlərinə apardı. – Allahın bizə rəhmi gəldi. Kimin ağlına gələrdi ki, dünyanın harasındasa Cavanşirin oğlu var, bir vədə bizi axtaracaq, soraqlaşa–soraqlaşa Qaraselliyə gələcək.
+>>oğlu. O vaxt, bəxtəvər günlərində mən hərdən fironluq eləyib, bir iş üstündə qəzəblənəndə Cavanşir məni qucağına alıb otaqda yelləndirirdi. Min cür xoş söz deyib könlümü alırdı. Nə qədər hirsli olsam da, qəzəbim o dəqiqə soyuyurdu. Ona yalvarırdım ki, ay bala, məni yerə qoy, belin sərpər. Sözə qulaq asan kimdi... Eh bədbəxt bala. – Mürvət qarı çarqatının ucunu yaşaran gözlərinə apardı. – Allahın bizə rəhmi gəldi. Kimin ağlına gələrdi ki, dünyanın harasındasa Cavanşirin oğlu var, bir vədə bizi axtaracaq, soraqlaşa–soraqlaşa Qaraselliyə gələcək.
 
 – Ay arvad, deyir qapı bir yandan bağlananda, o biri yandan açılar. Əgər Cavanşiri itirdiksə, əvəzində Cavanı tapdıq. Buna çox şükür. Axşam səbrim çatmırdı, ha istədim xəlvətə salıb Cavanla bir-iki dəqiqə danışım, gördüm ki, mümkün deyil. Başına toplaşan uşaqlarla şirin–şirin yeyib–içir, elə şənlik eləyir ki, onu söhbətdən ayırmağa qıymadım. Rus dilini də fərli bilmirəm ki, sabah onunla oturub danışım, görüm nə var, nə yox. Cavanşir harda həlak olub, bu çağa kimi o özü harda imiş, necə dolanırmışlar, anası nə işin sahibidi. Bizim Qarasellidə də bir nəfər italyan dilini bilən də yoxdu ki, aramızda vasitəçi olsun. Mən deyəni ona yetirsin, o deyəni mənə. Dünyanı elə qarışdırdılar ki, qanı qanından, canı canından olan nəvə babanın dilini bilmir, baba nəvənin. İndi di gəl görüm istədiyin adamla necə danışırsan. Him–cimlə, lal kimi əl–qolla?.
 
@@ -4123,7 +4123,7 @@ Usta kötüyün üstündəki çətirli lampanı yandırdı, əlinə götürdü. 
 
 Mən istərdim ki, siz bura qoşa gələydiniz. Gəlinim də yanınızda. Atabala boyunuza baxaydım, ürəyim dağa dönəydi. Eh, həmişə adamın istədiyi kimi olsaydı... Yox, mən naşükür deyiləm, oğul. İndi mağıl gixayın oldum ki, çırağım sönməyəcək, nəvəm varmış. Ancaq, Cavanşir bala, sənin etibarlı oğlun gəldi, gördük, sevindik, ona bağlandıq, bir azdan yenə geri qayıdacaq. Ya qismət bir də mən onu görəcəyəmmi? Ölüm gözlə qaş arasındadı. Mən də xeyli yaşamışam, bundan o yana nə qədər qalsam qənimətdi. Bir nisgilim var. Oğul, Cavan bala köçüb burda – Qarasellidə qalmağa razılıq versəydi dünyadan arxayın gedərdim, bəxtimdən şikayətlənməzdim. Oğul, övladın tərpənişindən zirək, diribaş oğlana oxşayır. Gəlib burda binələnsəydi zərgərliyi ona öyrədərdim, bir parça çörək pulu qazanmaq hayına qalmazdı.
 
-Daha o vaxt gördüyün Qurban deyiləm. İntizarından dədənin ürəyi yaman incəlib. Deyir adın nədir, Daşdəmir, yumşalısan yumşaq. İşim-peşəm hər gün bu daxmaya çəkilib səninlə belə danışmaq, dərdləşməkdi. Nə edim ki, harayımı eşitmirsən. Anan hər hərdən gözlərinin qorasını sıxanda ona təskinlik versəm də, özüm Mürvətdən geri qalmıram. Heç kəs mənim nə çəkdiyimi bilmir. Elə anan özü də... Pis ağızların orda-burda dalımca danışdıqları gəlib qulağıma çatır. Deyirlər: “Arvadı Mürvət oğul dərdindən əriyib çöpə dönüb, Qurban kişi necə vardı, elə elə qalıb”. İçim özümü yandırır, çölüm özgəni. Neynim, oğul, hərə bir cür yaranıb. Biri dərdini tez büruzə verir, o biri dinib-danışmır, yana içində çəkir, başqalarına deyib, onların da əhvalını pozmur. Doğrudur, anan məndən çox dərd çəkir. Axtarsan elə mən də az çəkmirəm. İçini qurd yemiş palıd ağacı kimi gendən gümrah görünürəm. Ancaq qarğu tək daxilim boşdu, amana bəndəm, bir təkan vursalar, guppultu ilə böyrü üstə aşaram”.
+Daha o vaxt gördüyün Qurban deyiləm. İntizarından dədənin ürəyi yaman incəlib. Deyir adın nədir, Daşdəmir, yumşalısan yumşaq. İşim-peşəm hər gün bu daxmaya çəkilib səninlə belə danışmaq, dərdləşməkdi. Nə edim ki, harayımı eşitmirsən. Anan hərdən gözlərinin qorasını sıxanda ona təskinlik versəm də, özüm Mürvətdən geri qalmıram. Heç kəs mənim nə çəkdiyimi bilmir. Elə anan özü də... Pis ağızların orda-burda dalımca danışdıqları gəlib qulağıma çatır. Deyirlər: “Arvadı Mürvət oğul dərdindən əriyib çöpə dönüb, Qurban kişi necə vardı, elə elə qalıb”. İçim özümü yandırır, çölüm özgəni. Neynim, oğul, hərə bir cür yaranıb. Biri dərdini tez büruzə verir, o biri dinib-danışmır, yana içində çəkir, başqalarına deyib, onların da əhvalını pozmur. Doğrudur, anan məndən çox dərd çəkir. Axtarsan elə mən də az çəkmirəm. İçini qurd yemiş palıd ağacı kimi gendən gümrah görünürəm. Ancaq qarğu tək daxilim boşdu, amana bəndəm, bir təkan vursalar, guppultu ilə böyrü üstə aşaram”.
 
 Qurban kişi lampanı kötüyün üstünə qoyub iş yerində əyləşdi. Eynəyini gözünə taxdı, alətlərini əl altına yığdı. Qarşısında bir cüt qoşa mirvari qotazlı sırğa vardı. Sırğanın bir tayı hazırdı idi. O biri yarımçıq qalmışdı, qotazları düzəldilmiş, xırdaca mirvariləri hələ yerinə salınmamışdı. Neçə gün idi ki, ustanın əli işdən soyumuşdu. Balaca emalatxanasına gəlir, həmişəki tək yerində oturur, lakin fikri qarışıq olduğuna görə heç nə eləyə bilmirdi. Narahat olanda sanki qələmlər qoca ustanın iradəsinə tabe olmurdu. Belə vaxtlarda o ehtiyat edirdi ki, birdən nəyisə korlayar, günü günə satır, gözləyirdi. Əlindən
 
@@ -4165,7 +4165,7 @@ Qocalar eyvanın sağ tərəfindəki qapıya sən getdilər. Mürvət qarı pı�
 
 @@ 096
 
-Qoca çubuğunu söndürdü, pəncələri üstə otağa keçdilər. Covanni qonşu otaqda yatırdı, qapı aralı qalmışdı. Mürvət qarı asta-asta gedib, ehmalca qonşu otağa boylandı. “Yat, yat, ay bala. Nənən yuxuna qurban. – Qapını örtdü. – Arzu-kamla Cavanşirimin bəyliyinə yorğundöşək sırıtdırmışdım. Mən də başqaları kimi el adəti ilə toy eləyib, gəlin gətirmək, qayınana olmaq istəyirdim. Arzum gözümdə qaldı. Eh... Ey Cavan bala, təsəlli tapıram ki, atan, anan orda yatmasalar da, barı sən onların yerində yatdın. Oğul toyu görmək qismətim deyilmiş. Hər Hərdən kənddə bir para arvadlardan eşidirəm, gəlinlərindən gileylənib, hay şikayətlənirlər. Onlara yamanca acığım tutur. Ağıllı arvad evin sirrini çölə çıxartmaz. Bir də, sözsüz ev olar? Kaş elə mən də gəlin gətirəydim, o bizimlə yola getməyəydi, ancaq əri ilə mehriban dolanaydı”.
+Qoca çubuğunu söndürdü, pəncələri üstə otağa keçdilər. Covanni qonşu otaqda yatırdı, qapı aralı qalmışdı. Mürvət qarı asta-asta gedib, ehmalca qonşu otağa boylandı. “Yat, yat, ay bala. Nənən yuxuna qurban. – Qapını örtdü. – Arzu-kamla Cavanşirimin bəyliyinə yorğundöşək sırıtdırmışdım. Mən də başqaları kimi el adəti ilə toy eləyib, gəlin gətirmək, qayınana olmaq istəyirdim. Arzum gözümdə qaldı. Eh... Ey Cavan bala, təsəlli tapıram ki, atan, anan orda yatmasalar da, barı sən onların yerində yatdın. Oğul toyu görmək qismətim deyilmiş. Hərdən kənddə bir para arvadlardan eşidirəm, gəlinlərindən gileylənib, hay şikayətlənirlər. Onlara yamanca acığım tutur. Ağıllı arvad evin sirrini çölə çıxartmaz. Bir də, sözsüz ev olar? Kaş elə mən də gəlin gətirəydim, o bizimlə yola getməyəydi, ancaq əri ilə mehriban dolanaydı”.
 
 Mürvət qarı həyətdə xeyli hərəkətsiz oturduğu üçün canına gecənin soyuğu işləmişdi. Üşüyən kimi olmuşdu. Soyunub yatağına girdi. Qurban kişi soyunmamışdı. Pencəyini qapının böyründəki mıxdan asıb, elə paltarlı-paltarlı taxta uzandı.
 
@@ -4915,7 +4915,7 @@ Cavanşir başını tərpətdi.
 
 Qocalar getdilər.
 
-İkinci partiya uzun çökdü. Covanni bu dəfə ehtiyatla oynayırdı. Darvazanı döydülər. Cavanların fikri dağıldı, qapıya sarı baxdılar. Qapı bir də döyüldü. Cavanşir həyətə endi. Zəminənin gəldiyini görüncə həm sevindi, həm də təəccüb elədi. Qızdan nə üçün gəldiyini yini soruşmadan dedi:
+İkinci partiya uzun çökdü. Covanni bu dəfə ehtiyatla oynayırdı. Darvazanı döydülər. Cavanların fikri dağıldı, qapıya sarı baxdılar. Qapı bir də döyüldü. Cavanşir həyətə endi. Zəminənin gəldiyini görüncə həm sevindi, həm də təəccüb elədi. Qızdan nə üçün gəldiyini soruşmadan dedi:
 
 – Gəl, Zəminə, gəl içəri.
 
@@ -5917,11 +5917,11 @@ Düz iş üçün day ona-buna nöş ağız açasan, ay başına dönüm. Sən bu
 
 @@ 131
 
->>Bəhmənə “oğlum” yox, “qardaş” deyirdi. Davadan qabaq üç qardaş olmuşdular. İkisi cəbhədə həlak olmuşdu – biri Kerçdə, o biri Narva altında. Ələkbər tək qalmışdı, birinci oğul olanda ona böyük qardaşı Bəhmənin adını qoymuşdu. Ata-oğul çox mehriban dolanırdı. Ələkbər hər hərdən Bəhməni yanına salıb onunla söhbət eləyə-cləyə dükan-bazara getməyi xoşlayırdı.
+>>Bəhmənə “oğlum” yox, “qardaş” deyirdi. Davadan qabaq üç qardaş olmuşdular. İkisi cəbhədə həlak olmuşdu – biri Kerçdə, o biri Narva altında. Ələkbər tək qalmışdı, birinci oğul olanda ona böyük qardaşı Bəhmənin adını qoymuşdu. Ata-oğul çox mehriban dolanırdı. Ələkbər hərdən Bəhməni yanına salıb onunla söhbət eləyə-cləyə dükan-bazara getməyi xoşlayırdı.
 
 Bəhmən hər dəfə atasım yadına salanda qəhərlənirdi. O, indi sağ qalsaydı başına dolanardı. Bəhmən uşaqlıqda curlarından çox eşidirdi, bəziləri deyirdilər ki, analarını çox istəyirlər, atalarını analarından artıq istəyənlər də vardı. Bəhmən onların hər ikisini eyni dərəcədə sevirdi. Valideyn övlad üçün müqəddəs varlıqdır, onlara necə əl qaldırmaq olar? Əliqulunun hərəkəti Bəhməni heyrətə salmışdı. Bayaq oğlunun Qəni kişiyə yumruq vurmaq istəməsini görəndə Bəhmən şaşırdı, əvvəl gözlərinə inanmadı. Bəlkə də bu səhnədən təəccüblənməsəydi, belə ləng tərpənməz, Əliqulu atasına qıcananda vaxtında irəli çıxıb onun biləyindən yapışardı, heç yumruq Bəhmənə dəyməz, qaşı da çapılmazdı. Eh... olan olmuşdu, iş onda deyildi, Bəhmənə yer eləyən bu idi ki, Əliqulu niyə öz atasına belə qəddardır? Niyə o cür övladları yaxalayıb camaatın gözləri qabağında tənbeh eləmirlər, bir dəfə rüşvət alan bir alı məktəb müəlliminin məhkəməsini televizorla göstərib onu biabır eləyən təkin... Bəhmən həmin verilişə rayonda baxmışdı, yadındaydı neçə gün hər yerdə o müəllimdən danışdılar.
 
-Bəhmən çarpayıda uzanıb fikirləşirdi, nə olaydı kaş o sözü keçən yüksək rütbəli şəxslərdən biri olaydı, televizorda işləyənləri çağırıb tapşırıq verəydi, harda valideynlərini incidən, öz övladlıq borcunu unudan oğul-qız varsa, operatorlar onları çəkib xalqa göstərəydilər. Sonra da onları necə tənbeh eləmək barədə camaat arasında rəy sorğusu aparaydılar. Məgər bu pis olardı?! Bəhmən arxayın idi ki, birikisini bu üsulla mühakimə eləsəydilər, ayrılığına dərs olardı. Traktoru, kombaynı yağış, qar altında baxımsız qoyan mexanizatorların ictimai məhkəməsini hər hərdən televizorla camaata göstərmirdilər?! Məgər üzüdönük övladları televizorda utandırmaq faydalı olmazdımı?! Eh, həyatın necə haqsız işləri olur. Bir də görürsən biri özü atadır, ya da babadır, amma qabağında sağ-salamat atası var. O biri heç ayaq açıb yeriməmiş yetimdir, ata üzünə ömürlük həsrət qalıb. Bəhmən çox istərdi ki, indi atası Ələkbər sağ olaydı, eybi yox idi, qoy lap
+Bəhmən çarpayıda uzanıb fikirləşirdi, nə olaydı kaş o sözü keçən yüksək rütbəli şəxslərdən biri olaydı, televizorda işləyənləri çağırıb tapşırıq verəydi, harda valideynlərini incidən, öz övladlıq borcunu unudan oğul-qız varsa, operatorlar onları çəkib xalqa göstərəydilər. Sonra da onları necə tənbeh eləmək barədə camaat arasında rəy sorğusu aparaydılar. Məgər bu pis olardı?! Bəhmən arxayın idi ki, birikisini bu üsulla mühakimə eləsəydilər, ayrılığına dərs olardı. Traktoru, kombaynı yağış, qar altında baxımsız qoyan mexanizatorların ictimai məhkəməsini hərdən televizorla camaata göstərmirdilər?! Məgər üzüdönük övladları televizorda utandırmaq faydalı olmazdımı?! Eh, həyatın necə haqsız işləri olur. Bir də görürsən biri özü atadır, ya da babadır, amma qabağında sağ-salamat atası var. O biri heç ayaq açıb yeriməmiş yetimdir, ata üzünə ömürlük həsrət qalıb. Bəhmən çox istərdi ki, indi atası Ələkbər sağ olaydı, eybi yox idi, qoy lap
 
 @@ 131
 
@@ -5935,7 +5935,7 @@ Qoltuq ağacı nə böyük hünər idi?! Bəhmən ata-anasının yolunda “uf�
 
 @@ 132
 
->>qoparıb gedir. Amma bugünkü təkin olmamışdı. Günah kişinin özündədir, qabağından qaçır ona görə. Menim kişiyə rəhmim gəlir. Bu barədə onunla bir-iki kərə danışmışam, xeyri olmayıb. Qayıdıb mənə nə desə yaxşıdır?! Deyir ki, vurum öldürüm özümü, bacarmıram. Qozbeli qəbir düzəldər, ay Güləndam bacı. Bu sözün üstündən day ona nə deyəsən?! Cəhənnəmə ki, özü bilər. Mən belə görmüşəm, elələrinin işi heç də düz gətirmir. Əlləm-qəlləmlər, qarayaxalar, mərdimazarlar kefləri kök, damaqları çağ dolanırlar, sanki dünyanın bütün nazı-nemətləri onlarçün yaranıb. Bir də görürsən gözəl-göyçək, namuslu-qeyrətli qız qalıb bir tərəfdə qandı, yüzüylə gəzən, min hoqqadan çıxan üzdəniraq qız ərə gedib, ev-eşik sahibi oldu. Xudavəndi-aləm bilmirəm nöş bu haqsızlığı görüb, bir əncam çəkmir?! Baxıram bizim bu Hürü xanıma yazığım gəlir. O da bir cür məğmundu. Cavanlığını qoydu Afətin yolunda. İndi maşallah Afət yekə qız olub. Gələn il məktəbi qurtarıb incinarlıq oxumaq istəyir. Anası onu əziyyətlə böyüdüb, fərasətli qızdı, arzusuna çatsın. Barı Hürü xanım indi bir hərəkətə gələ, baxtı açılıb, amma şadlığına şitlik eləyir, həyətimizdə dənizçi Şamil var ha, o nə vaxtdı Hürü xanımı istəyir. Gözümün qabağında böyüyüb, ləyaqətli kişidi, Hürü xanım iki ayağını bir başmağa dirəyib, deyir ki, mən ona ərə getmərəm. Şamil iki arvad alıb, boşayıb. Orası düzdü. Ancaq insafına danışmaq lazımdır. Gəl görək kişi onları niyə boşayıb, səbəbi nədi? Əvvəlcə birinci arvadı Məsumə qısır çıxdı, həm də xasiyyəti çox tünd idi, deyir buğda çörəyin olmadı, buğda dilinə nə gəlib? Kişi dözmədi, onu boşayıb Səidəni aldı. İkinci birincidən betər oldu. Əvvəldən adamın bəxti gətirməyəndə axıracan gətirmir. Şamil gəmi ilə səfərə gedəndə bir ay, ay yarım birdən evində olmurdu. Qonşular danışırdılar ki, Səidənin dalıyca cavan-cavan oğlanlar gəlir. Eşidirdim, inanmırdım. Bir gün obaşdan, söz vaxtına çəkər, elə bu vədə həyətə düşmüşdüm. Qonşular hamısı yatmışdılar. Onu gördüm ki, Şamilgilin qapısı sakitcə açıldı. Qaranlıq dəhlizdən oğrun-oğrun bir kişi çıxıb tez həyət qapısına yollandı. Üzünü görə bilmədim, kimdir. Oğru belə olmazdı, fikir götürdü məni. Qan vurdu beynimə, bir istədim ki, gedim o ləçərin yapışım saçlarından, deyim, a qız, bu nə binamusluqdu eləyirsən? Abırdan salım onu, sonra düşündüm ki, hirsli başda ağıl olmaz. Bu işin əslini bilmək lazımdı. Bəlkə mən səhv eləyirəm. Səidənin heç
+>>qoparıb gedir. Amma bugünkü təkin olmamışdı. Günah kişinin özündədir, qabağından qaçır ona görə. Mənim kişiyə rəhmim gəlir. Bu barədə onunla bir-iki kərə danışmışam, xeyri olmayıb. Qayıdıb mənə nə desə yaxşıdır?! Deyir ki, vurum öldürüm özümü, bacarmıram. Qozbeli qəbir düzəldər, ay Güləndam bacı. Bu sözün üstündən day ona nə deyəsən?! Cəhənnəmə ki, özü bilər. Mən belə görmüşəm, elələrinin işi heç də düz gətirmir. Əlləm-qəlləmlər, qarayaxalar, mərdimazarlar kefləri kök, damaqları çağ dolanırlar, sanki dünyanın bütün nazı-nemətləri onlarçün yaranıb. Bir də görürsən gözəl-göyçək, namuslu-qeyrətli qız qalıb bir tərəfdə qandı, yüzüylə gəzən, min hoqqadan çıxan üzdəniraq qız ərə gedib, ev-eşik sahibi oldu. Xudavəndi-aləm bilmirəm nöş bu haqsızlığı görüb, bir əncam çəkmir?! Baxıram bizim bu Hürü xanıma yazığım gəlir. O da bir cür məğmundu. Cavanlığını qoydu Afətin yolunda. İndi maşallah Afət yekə qız olub. Gələn il məktəbi qurtarıb incinarlıq oxumaq istəyir. Anası onu əziyyətlə böyüdüb, fərasətli qızdı, arzusuna çatsın. Barı Hürü xanım indi bir hərəkətə gələ, baxtı açılıb, amma şadlığına şitlik eləyir, həyətimizdə dənizçi Şamil var ha, o nə vaxtdı Hürü xanımı istəyir. Gözümün qabağında böyüyüb, ləyaqətli kişidi, Hürü xanım iki ayağını bir başmağa dirəyib, deyir ki, mən ona ərə getmərəm. Şamil iki arvad alıb, boşayıb. Orası düzdü. Ancaq insafına danışmaq lazımdır. Gəl görək kişi onları niyə boşayıb, səbəbi nədi? Əvvəlcə birinci arvadı Məsumə qısır çıxdı, həm də xasiyyəti çox tünd idi, deyir buğda çörəyin olmadı, buğda dilinə nə gəlib? Kişi dözmədi, onu boşayıb Səidəni aldı. İkinci birincidən betər oldu. Əvvəldən adamın bəxti gətirməyəndə axıracan gətirmir. Şamil gəmi ilə səfərə gedəndə bir ay, ay yarım birdən evində olmurdu. Qonşular danışırdılar ki, Səidənin dalıyca cavan-cavan oğlanlar gəlir. Eşidirdim, inanmırdım. Bir gün obaşdan, söz vaxtına çəkər, elə bu vədə həyətə düşmüşdüm. Qonşular hamısı yatmışdılar. Onu gördüm ki, Şamilgilin qapısı sakitcə açıldı. Qaranlıq dəhlizdən oğrun-oğrun bir kişi çıxıb tez həyət qapısına yollandı. Üzünü görə bilmədim, kimdir. Oğru belə olmazdı, fikir götürdü məni. Qan vurdu beynimə, bir istədim ki, gedim o ləçərin yapışım saçlarından, deyim, a qız, bu nə binamusluqdu eləyirsən? Abırdan salım onu, sonra düşündüm ki, hirsli başda ağıl olmaz. Bu işin əslini bilmək lazımdı. Bəlkə mən səhv eləyirəm. Səidənin heç
 
 @@ 132
 
@@ -5945,7 +5945,7 @@ Qoltuq ağacı nə böyük hünər idi?! Bəhmən ata-anasının yolunda “uf�
 
 >>də susub onun xəyanətini heç kəsə demədim. Bir olan Allah özü bilir ki, bu əhvalatı neçə ildən sonra birinci dəfə sənə danışıram. O vaxt Səidənin qardaşları bacılarının əməlindən xəbər tutsaydılar, onu tikə-tikə doğrayardılar. Nə isə, Şamil o vaxtdan evlənməyib. Hürü xanımı istəyir, onun qızı Afətə ata təkin mehribandır. Deyir ki, gəlsə Hürü xanımı alacağam, gəlməsə heç kəsi, Hürü xanım, rəhmətliyin qızı da tökmür daşı ətəyindən.
 
-Bəhmən fikirləşirdi ki, Afət yazığın ata sarıdan heç bəxti gətirməyib, ona baxanda mən xoşbəxtəm. Heç olmasa hər hərdən atamla keçən əziz günlərimi xatırlayıb təsəlli tapıram. O nəyi xatırlasın?!
+Bəhmən fikirləşirdi ki, Afət yazığın ata sarıdan heç bəxti gətirməyib, ona baxanda mən xoşbəxtəm. Heç olmasa hərdən atamla keçən əziz günlərimi xatırlayıb təsəlli tapıram. O nəyi xatırlasın?!
 
 Güləndam arvad əsnədi:
 
@@ -6779,7 +6779,7 @@ Avtobus gəldi. Bəhmən gözünü açıb gördü ki, camaatın arasındadır. B
 
 Bəhmən Güləndam nənə ilə vidalaşıb, ona öz evində yer verib, ay yarım qayğısına qaldığına görə minnətdarlıq elədi. Həyətə çıxdı. Xəlvətlik idi. Heç kəs görünmürdü. Bəhmən elə-belə istəyirdi. Onun Güləndam xalanın evindən getməsi çox nəzərə çarpmasın. Hərə ondan bir söz soruşacaqdı, gərək yalan danışaydı. Hamıya eyni cavab verəydi, çox danışmağa hövsələsi yox idi. Yaxşı ki, bərk xəzri əsirdi. Qonşular həyət-bacadan içəri çəkilib, qapı-pəncərəni örtmüşdülər. Güləndam nənə Bəhməni həyət qapısından ötürdü.
 
-– İşin avand olsun, ay bala. Sənə elə öyrəşmişdim ki... Birdəfəlik getmə, hər hərdən bizə gəl, görün, yamaq-yırtığın olsa, utanma, gətir eləyim.
+– İşin avand olsun, ay bala. Sənə elə öyrəşmişdim ki... Birdəfəlik getmə, hərdən bizə gəl, görün, yamaq-yırtığın olsa, utanma, gətir eləyim.
 
 – Sağ ol, Güləndam nənə, səndən çox razıyam.
 

@@ -113,7 +113,7 @@ Həmid Hitlerin çarpayının dalında divardan asılan şəklinə işarə eləd
 
 – Üstünə beş-altısını qoyub desən də, o sənə inanmaz.
 
-Çopur Abdulla ona tapşırılan rolu qədər səylə oynasa da hiss edilirdi ki, pis ifaçıdır. Həmid də ədəb-ərkan gözləyən tamaşaçı kimi bu oyunun inandırıcı olmadığını onun üzünə vurmurdu.
+Çopur Abdulla ona tapşırılan rolu nə qədər səylə oynasa da hiss edilirdi ki, pis ifaçıdır. Həmid də ədəb-ərkan gözləyən tamaşaçı kimi bu oyunun inandırıcı olmadığını onun üzünə vurmurdu.
 
 – Əlizaman oğlu, madam ki, sən mənə ürək qızdırıb bu cür sözlər deyirsən, onda sənə bir sualım var, onu da bilirəm ki, Allah tanıyansan, sən o cibində gəzdirdiyin Quran mənə düzünü de, Ruhulla bəyin milliyyəti nədi?
 

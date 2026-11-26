@@ -73,7 +73,7 @@ Sahildə balıqçılar qayaların üstündə oturub dənizə tilov atmışdılar
 
 Həmid kəndə dayanıb qadınlara tamaşa elədi.
 
-Cavan bir gəlin yaş kilimə gilabı sürtür, sonra əli ilə onu kilimin üstünə yaydıqca gilabı sabun kimi köpüklənirdi. Gəlin axırda kilimi suya basıb çıxartdı və bürmələyib iri bir daşın üstünə qoydu. Onun böyründəki ahıl qadın ağ gilabı ilə zərif naxışlı iri bir xalçanı yuyurdu, hərəkətlərindən məlum olurdu ki, bu işdə səriştəsi var. O, iki dəfə gilabı çəkib yuyandan sonra xalça hənadan indicə çıxmış kimi üzə gülürdü. Hər kiminsə varlı adamınkı idi. Belə xalçaların sahibi özü dünyasında dəniz qırağına xalça yumağa gəlməzdi. Qadın tez-tez başını qaldırıb o birilərə baxırdı ki, aparmasınlar. Bir yeniyetmə oğlan bayaqdan o yan-bu yana gəlib-gedirdi. Qadın onu görmüşdü, gözdən qoymurdu, yanındakılara xəbərdarlıq elədi. “Ağız, ayıq olun, bu gedə xəspuşa oxşayır, bayaqdan buralarda gir-gir girlənir”. Palaz yuyan cavan qız ona hay verdi: “Balaxanım xala, qorxma, mən də onu görmüşəm, gilabından bir yumrusunu seçib qoymuşam əlimin altına, yaxın gəlsə çırpacağam başına”.
+Cavan bir gəlin yaş kilimə gilabı sürtür, sonra əli ilə onu kilimin üstünə yaydıqca gilabı sabun kimi köpüklənirdi. Gəlin axırda kilimi suya basıb çıxartdı və bürmələyib iri bir daşın üstünə qoydu. Onun böyründəki ahıl qadın ağ gilabı ilə zərif naxışlı iri bir xalçanı yuyurdu, hərəkətlərindən məlum olurdu ki, bu işdə səriştəsi var. O, iki dəfə gilabı çəkib yuyandan sonra xalça hənadan indicə çıxmış kimi üzə gülürdü. Hər kiminsə varlı adamınkı idi. Belə xalçaların sahibi özü dünyasında dəniz qırağına xalça yumağa gəlməzdi. Qadın tez-tez başını qaldırıb o birilərə baxırdı ki, aparmasınlar. Bir yeniyetmə oğlan bayaqdan o yan-bu yana gəlib-gedirdi. Qadın onu görmüşdü, gözdən qoymurdu, yanındakılara xəbərdarlıq elədi. “Ağız, ayıq olun, bu gedə xəspuşa oxşayır, bayaqdan buralarda gir-girlənir”. Palaz yuyan cavan qız ona hay verdi: “Balaxanım xala, qorxma, mən də onu görmüşəm, gilabından bir yumrusunu seçib qoymuşam əlimin altına, yaxın gəlsə çırpacağam başına”.
 
 Qadınların söhbətini eşidən Həmid teştin içindəki ağ gilabı parçalarına baxdı, onlardan birini götürüb kimə vursaydın, birtəhər eləyərdi. Həmid bilirdi ki, gilabı xalça-palaz yumaq üçün yaxşı idi. Eşşəklə Masazırdan, Hökməlidən gətirib şəhərdə satan kəndlilərdən Rübabə o qədər ağ gilabı, göy gilabı almışdı ki... Həmid anasından eşitmişdi ki, gilabı ilə baş yuyanda saç ipək kimi yumşaq olur, tükləri tökülməyə qoymur. Hətta, qoca arvadlar deyirdilər ki, gilabı ilə yuyulan baş ağarmır, o, dərman kimi xeyirlidir. Həmid əvvəllər saç saxlamırdı, başını dibindən qırxdırırdı. İndi isə saçını sabunla yuyurdu, gilabının xeyrini görməmişdi.
 
@@ -233,7 +233,7 @@ Nurlu Həmidi qapıya kimi ötürdü:
 
 – Gizlətmərəm, Nurlu.
 
-Ayrıldılar. Həmidə elə gəldi ki, Nurlu qapıda durub dalınca baxır, tinə çatanda dözmədi, çönüb göz yetirdi. Qızı qapıda görməsə də, onunla ikilikdə danışmağa imkan tapmasına şad idi. Həmid yavaşyavaş bu ailəyə məhrəm olurdu. İndi hər hərdən anası ilə, ya tək Balağagilə getsəydi, yersiz görünməzdi.
+Ayrıldılar. Həmidə elə gəldi ki, Nurlu qapıda durub dalınca baxır, tinə çatanda dözmədi, çönüb göz yetirdi. Qızı qapıda görməsə də, onunla ikilikdə danışmağa imkan tapmasına şad idi. Həmid yavaşyavaş bu ailəyə məhrəm olurdu. İndi hərdən anası ilə, ya tək Balağagilə getsəydi, yersiz görünməzdi.
 
 Sirkin qabağında Həmidə qara meşin gödəkçəli və qara meşin kepkalı cavan bir kişi yaxınlaşdı:
 

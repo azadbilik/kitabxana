@@ -153,7 +153,7 @@ Həmid dünən axşam təsəvvürünə gətirməzdi ki, bu gecə belə ağır v�
 
 Hava mülayim idi, ancaq Həmid üşüyürdü, yarasından çox qan axmışdı, ondan idimi?! Qolu da ona ağırlıq eləyirdi. Sanki, sağ tərəfindən nə isə lazımsız bir şey asmışdılar, öz qolu deyildi.
 
-Səmadakı bulud topları harasa axıb getmişdi, dan ulduzu üzük qaşı kimi par-par parıldayırdı.
+Səmadakı bulud topları harasa axıb getmişdi, dan ulduzu üzük qaşı kimi par-parıldayırdı.
 
 Həmid səhərin açılmasını gözləyirdi. Nə qədər ağır olsa da, bu gecəni ömrü boyu unutmayacaqdı. Bu mülayim gecədə çoxdankı arzusuna çatmış, nəhayət, Çopur Abdullanın cəzasını vermişdi, üstəlik əsirlikdən qurtarmışdı. Həmid üçün əsir olub faşistlərin qarşısında qul kimi dolanmaq ən böyük təhqir idi. Ancaq bir qolu yaralanıb yanına düşmüşdü. Ona tibbi yardım göstərilməli idi. Göstərilməsəydi də eybi yox, ölsəydi azadlıqda öləcəkdi, açıq səmanın altında, təbiətin qoynunda. Həmid bu azadlığın, bu sərbəstliyin həsrətini çox çəkmişdi. Yenidən ələ keçmək qorxusu olmasaydı, Həmid yerindən tərpənməz, yaranın ağrısına məhəl qoymayıb burada arxası üstə uzanardı.
 

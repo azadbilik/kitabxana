@@ -174,7 +174,7 @@ Yəqin bilirsən?
 
 – Necə haradan? Öz gözlərimlə gördüm. Bütün camaat bilir ki, gələnlərin yarısı dustaqdır, buraya sürgün olunublar.
 
-Ayaq üstə durub söhbətə qulaq asan qaçaqlar dönüb bir-birinə baxdılar. Hamının çatılmış qaşları açıldı. Məhəmməd isə narın tük basmış çənəsini ovuşdura-ovuşdura fikrə getdi. Ətrafa sakitlik çökdü; atlar talada sakitcə otlayır, tez-tez fınxırıq səsləri eşidilirdi. Bəhram gecənin bu vaxtında, meşənin ortasında, quldurlarla əhatə edilməsindən sıxıldı. Ona hər şey yuxu kimi gəlirdi; ay da əfsanəvi nağıllardakı kimi, öz işığı ilə hər tərəfə sehrli bir parıltı yaymışdı. Meşə yatırdı; otların arasından gecə cırcıramaları hərdənbir bir səslənir, aşağıda onların keçib gəlmiş olduqları bataqlıqdan qurbağaların vaqqıltısı kəsilmirdi. Sıx ağaclardan talanın ortasına düşən kölgə getdikcə onlara tərəf uzanırdı. Məhəmməd başını qaldırdı, üzünü qaçaqlara tərəf tutub dedi:
+Ayaq üstə durub söhbətə qulaq asan qaçaqlar dönüb bir-birinə baxdılar. Hamının çatılmış qaşları açıldı. Məhəmməd isə narın tük basmış çənəsini ovuşdura-ovuşdura fikrə getdi. Ətrafa sakitlik çökdü; atlar talada sakitcə otlayır, tez-tez fınxırıq səsləri eşidilirdi. Bəhram gecənin bu vaxtında, meşənin ortasında, quldurlarla əhatə edilməsindən sıxıldı. Ona hər şey yuxu kimi gəlirdi; ay da əfsanəvi nağıllardakı kimi, öz işığı ilə hər tərəfə sehrli bir parıltı yaymışdı. Meşə yatırdı; otların arasından gecə cırcıramaları hərdənbir səslənir, aşağıda onların keçib gəlmiş olduqları bataqlıqdan qurbağaların vaqqıltısı kəsilmirdi. Sıx ağaclardan talanın ortasına düşən kölgə getdikcə onlara tərəf uzanırdı. Məhəmməd başını qaldırdı, üzünü qaçaqlara tərəf tutub dedi:
 
 – Araz oğlunun dedikləri... doğru da ola bilər. Ancaq... Pristav Kukiyev dəridən çıxacaq ki, danışığa girişib b onları bizim üstümüzə göndərsin. O, ayağa qalxdı, bir az fikirli halda gəzindi, sonra Bəhrama yaxınlaşdı.
 
@@ -226,7 +226,7 @@ Bəhram atdan yerə endi və əlini uzadıb, gözünü açmaq istədi.
 
 – Əlini çək! – deyə Rəsi çığırdı. – Çox tələsmisən? Yolla düz get! Tez!
 
-Bəhram gözləri bağlı halda on-on beş addım irəlilədi. Bu dəqiqələrdə onun başından çox fikirlər keçdi: ona elə gəldi ki, indicə Rəsinin gülləsi onun kürəyini qızdıracaq, o da, kötüyündən qırılmış ağac kimi, başı başıaşağı dərəyə yuvarlanacaqdır.
+Bəhram gözləri bağlı halda on-on beş addım irəlilədi. Bu dəqiqələrdə onun başından çox fikirlər keçdi: ona elə gəldi ki, indicə Rəsinin gülləsi onun kürəyini qızdıracaq, o da, kötüyündən qırılmış ağac kimi, başıaşağı dərəyə yuvarlanacaqdır.
 
 Belə bir xəyanət hər dəqiqə Rəsidən gözlənilə bilərdi. Bəhramın beyni belə düşüncələrlə məşğul ikən arxadan Rəsinin səsi eşidildi:
 

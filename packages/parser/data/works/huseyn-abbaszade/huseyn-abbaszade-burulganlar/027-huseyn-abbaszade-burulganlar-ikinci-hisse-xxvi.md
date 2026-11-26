@@ -141,7 +141,7 @@ Həmidinki gətirdi, hissələrini çox axtarmadı, yük maşını onların bata
 
 Rota komandirinin başı söhbətə qarışdı, heç Hamıdan tibb-səhiyyə batalyonundan nədən ötrü belə tez qayıtmasının səbəbini xəbər almadı.
 
-O gün ön xətdə axşama kimi sakitlik oldu. Ancaq hər hərdən faşistlərin batareyaları bizimkilərin mövqelərinə atəş açırdılar. Bizimkilər atəş nöqtələrinin yerini bildirməmək üçün onlara cavab vermirdilər. Yüksəkdən uçan düşmən kəşfiyyatçı təyyarəsinin uğultusu kəsilmirdi.
+O gün ön xətdə axşama kimi sakitlik oldu. Ancaq hərdən faşistlərin batareyaları bizimkilərin mövqelərinə atəş açırdılar. Bizimkilər atəş nöqtələrinin yerini bildirməmək üçün onlara cavab vermirdilər. Yüksəkdən uçan düşmən kəşfiyyatçı təyyarəsinin uğultusu kəsilmirdi.
 
 Gecə gündüzdən də sakit keçdi.
 
@@ -149,7 +149,7 @@ Həmid səngərdə əvvəlki yerini tutmuşdu, yenə Nikolay Frolovla yanaşı i
 
 – Al, yiyəsi üçün darıxırdı. Başqasını bilmirəm, mənim əlim bir tüfəngə yatdı, ona öyrəşdim, qurtardı getdi, oldu mənə doğma. Hər tüfəngin öz xasiyyəti var, sanki canlıdı, gərək onun dilini biləsən, yoxsa o sənin sözünə qulaq asmaz, düz vurmaz. Yaxşı tüfəng ovçunun arxasıdı.
 
-Kolya Frolov tüfəng barəsində çox şey dedi. Həmid onları dinləsə də, hamısı ona fərziyyə kimi gəlirdi. Avtomatına baxdı, disk dolu idi, onu səylə silib təmizləmişdilər, zavoddan təzəcə çıxmış kimi par-par parıldayırdı.
+Kolya Frolov tüfəng barəsində çox şey dedi. Həmid onları dinləsə də, hamısı ona fərziyyə kimi gəlirdi. Avtomatına baxdı, disk dolu idi, onu səylə silib təmizləmişdilər, zavoddan təzəcə çıxmış kimi par-parıldayırdı.
 
 – Sağ ol, qardaş, – dedi, – avtomatı karlı saxlamısan.
 
@@ -363,7 +363,7 @@ Həmid Kolyanı ehtiyatla şeh düşmüş torpağa uzatdı. Onlar böyük zəmin
 
 – Bir hovur gözləyək, bəlkə, keçib getdi.
 
-Həmid avtomatını götürüb daldalanmaq üçün ətrafda sığınacaq axtarmağa getdi. Göydə ulduzlar sayrışsa da, yerdə bir işıq, işıltı görünmürdü. O fikirləşirdi ki, kaş yaxınlıqda bir ev olaydı, orada yerli camaatdan bir nəfər qalaydı və Kolyanı tapşırdı ona. Bu vəziyyətdə kişini ni hərə aparaydı, ona nə köməyi deyə bilərdi?!
+Həmid avtomatını götürüb daldalanmaq üçün ətrafda sığınacaq axtarmağa getdi. Göydə ulduzlar sayrışsa da, yerdə bir işıq, işıltı görünmürdü. O fikirləşirdi ki, kaş yaxınlıqda bir ev olaydı, orada yerli camaatdan bir nəfər qalaydı və Kolyanı tapşırdı ona. Bu vəziyyətdə kişini hərə aparaydı, ona nə köməyi deyə bilərdi?!
 
 Həmid azmamaqdan ötrü Kolyanı qoyduğu yeri nişanlamışdı, zəminin qırağına xeyli daş-kəsək yığmışdı. O, həndəvəri çox dolandı, gözünə yaşayış məntəqəsi, bir ev dəymədi, yalnız iki zəmini ayıran şose yolunun ətəyində damının yarısı uçmuş bir talvar gördü, o da kara gəlməzdi. Həmid geri qayıtmaq istəyəndə çöldə kol-kosların arxasında zolaq kimi uzanan bir qaraltı görüb oraya getdi. Bura ortasından bilək yoğunluğunda su axan, içini ot-alaq basmış bir ensiz yarğan idi. Həmid yarğana düşdü, onun içi ilə xeyli getdi, ins-cinsə rast gəlmədi, düşündü ki, açıqlıqda taxılın içində qalmaqdansa, yenə buralar yaxşıdır, uzaqdan görünmür, həm də su yaxındadır, bu da şərtdən idi. Səhər Kolyam yarğanda qoyub ərzaq axtarmağa gedə bilərdi.
 

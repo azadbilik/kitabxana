@@ -59,7 +59,7 @@ Qubadan gələn meyvə ilə dolu öküz arabalarını meydanda saxlayırdılar. 
 
 Bazara gələnlər elə bilirdilər ki, Qubadadırlar. Satıcılar Quba əsində qəndil-sina», qızıləhmədi almalarını, abasbəyi armudunu tərifləyə-tərifləyə müştəri çağırırdılar. Onların geyimləri də başqa yerlərdən gələnlərin geyimlərindən seçilirdi.
 
-Həmid heç nə almasa da, hər hərdən Quba meydanının bu ucundan girib, o ucundan çıxmağı xoşlayırdı. Yayda meydandakı alma, armud, qovun, qarpız, soğan, badımcan qalaqları günəşin qızılı şüaları altında neçə rəngə çalırdı. Meydan rəngkarlıq sərgisinə bənzəyirdi.
+Həmid heç nə almasa da, hərdən Quba meydanının bu ucundan girib, o ucundan çıxmağı xoşlayırdı. Yayda meydandakı alma, armud, qovun, qarpız, soğan, badımcan qalaqları günəşin qızılı şüaları altında neçə rəngə çalırdı. Meydan rəngkarlıq sərgisinə bənzəyirdi.
 
 Qışda meydandan əl-ayaq çəkilirdi. Qəzalardan qoz, fındıq, qax, payız alma-armudu gətirənlər Taxta bazarın dükanlarında yer tuturdular. Meydan faytonçulara qalardı. Qara çuxalı faytonçular faytonlarını növbə ilə saxlayır, müştəri gözləyirdilər...
 
@@ -107,7 +107,7 @@ Həmid çamadanını, boğçasını açdı. Gətirdiyi hədiyyələri anasına, 
 
 Əkizlər o biri otağa qaçıb tez-tələsik təzə köynəklərini, ayaqqabılarını geyindilər.
 
-– Uşaqların üst-başı tökülmüşdü, nə yaxşı bunları alıb gətirmisən. Heç bilmirdim ki, nə eləyim, yeməklərini güclə çatdırırdım. Bazarda hər şey od qiymətinədi. Balağanın Allah ölənlərinə rəhmət eləsin, o bizə sən gedəni hər hərdən əl tutur. Mən də qəssabdan qarın alıb qutab bişirirəm, Mikayıl, İsmayıl aparıb Quba meydanında satırlar, dolanırıq. Un bahalanıb. Qəssab bazarında zəhrimar qarın da az olur.
+– Uşaqların üst-başı tökülmüşdü, nə yaxşı bunları alıb gətirmisən. Heç bilmirdim ki, nə eləyim, yeməklərini güclə çatdırırdım. Bazarda hər şey od qiymətinədi. Balağanın Allah ölənlərinə rəhmət eləsin, o bizə sən gedəni hərdən əl tutur. Mən də qəssabdan qarın alıb qutab bişirirəm, Mikayıl, İsmayıl aparıb Quba meydanında satırlar, dolanırıq. Un bahalanıb. Qəssab bazarında zəhrimar qarın da az olur.
 
 – Bunların hamısına mən günahkaram, məmə, mən evdə otursaydım, Nardarana güləşməyə getməsəydim, sizi bu vəziyyətə salmazdım. Uşaqların üst-başına, sənə baxıram, ürəyim ağrıyır.
 
@@ -233,7 +233,7 @@ Rübabə qonağı otağa apardı. Həmid qardaşlarından soruşdu:
 
 Mikayıl dedi:
 
-– Nurlu? Tez-tez gəlir. Hər Hərdən Sərvinaz xala da onunla gəlir.
+– Nurlu? Tez-tez gəlir. Hərdən Sərvinaz xala da onunla gəlir.
 
 Həmid sementi damın haşiyə daşlarının arasındakı yarığa tökdü. Torbanın dibində qalan sementi navalçanın qıraqlarındakı çuxurlara əndərib, əllərinin tozunu təmizlədi.
 

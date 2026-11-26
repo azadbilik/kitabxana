@@ -53,7 +53,7 @@ Müavin stividorun şikayətini haqlı saysa da dedi:
 
 – Mən dəyişməmişəm, ay Həmid, zəmanə dəyişib. Elə bir şəxs sənə ağız açır ki, keçə bilmirsən, üz üzdən utanır, gərək o özü belə bir işə getməyə. Neyniyəsən?!
 
-Həmidə yəqin idi ki, Ramizin məsələsi təkcə Həbib Namazzadədən asılı deyil. Onun ixtiyarında olsaydı, bronunu əlindən alıb atardı bayıra, deyərdi ki, hara gedirsən, çıx get. Çox gözəl bilirdi ki, Ramizi əsgərlikdən saxlamaq üçün limanda işə düzəldiblər. Rəis müavini onun işdən çıxarılma məsələsini qaldırsa, yerini acı eləyər. Burada ayrı idarələrdən fərqli olaraq, işçilərə brondan əlavə hər hərdən ərzaq da verirdilər. Hərçənd, Matros Həbibin əsgərlik yaşı keçmişdi, brona ehtiyacı yox idi, ancaq kartoçkadan əlavə limanda aldığı ərzaq kişinin böyük külfətinə əməllicə kömək idi. Vəzifəli şəxslərlə düşünüşüb yaxşı yerini itirmək istəmir.
+Həmidə yəqin idi ki, Ramizin məsələsi təkcə Həbib Namazzadədən asılı deyil. Onun ixtiyarında olsaydı, bronunu əlindən alıb atardı bayıra, deyərdi ki, hara gedirsən, çıx get. Çox gözəl bilirdi ki, Ramizi əsgərlikdən saxlamaq üçün limanda işə düzəldiblər. Rəis müavini onun işdən çıxarılma məsələsini qaldırsa, yerini acı eləyər. Burada ayrı idarələrdən fərqli olaraq, işçilərə brondan əlavə hərdən ərzaq da verirdilər. Hərçənd, Matros Həbibin əsgərlik yaşı keçmişdi, brona ehtiyacı yox idi, ancaq kartoçkadan əlavə limanda aldığı ərzaq kişinin böyük külfətinə əməllicə kömək idi. Vəzifəli şəxslərlə düşünüşüb yaxşı yerini itirmək istəmir.
 
 Rəis müavini stividorun hirsini soyutmağa çalışdı:
 

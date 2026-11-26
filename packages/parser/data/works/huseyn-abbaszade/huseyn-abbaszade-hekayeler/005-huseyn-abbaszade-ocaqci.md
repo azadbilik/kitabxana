@@ -116,7 +116,7 @@ Alxas laqeydliklə dedi:
 
 Xeyli söhbət elədik. Öyrəndim ki, Alxas Fizuli rayonunun dağ kəndlərindən birindən gəlib. Atası o uşaq ikən ölüb, kənddə bacıdan-qardaşdan heç nəyi yoxdur, təkcə anası var, o da sağıcıdır fermada. Alxasa qulaq asa-asa özümlə onu müqayisə edirdim. Mən şəhərli ola-ola qabağımda mühəndis atam, oxumağım üçün evdə hər cür şərait, instituta girə bilməmişdim. O, rayondan gəlir. Elə birinci ildən ali məktəbin tələbəsidi.
 
-Alxasla dostlaşdıq. O gündən sonra hər hərdən həyətdə görüşüb salamlaşırdıq.
+Alxasla dostlaşdıq. O gündən sonra hərdən həyətdə görüşüb salamlaşırdıq.
 
 Bir gün filarmoniyaya Yuqoslaviya estrada artistlərinin konsertinə getmişdim. Orda Alxası bir qızla gördüm, ocaqxanada divardan şəkli asılan qızla. Bir-birlərinə elə yaraşırdılar ki, Alxasgil salona gələndə qıraq sırada əyləşdiyim üçün məni görmədilər. Yerlərini axtaranda yan-yörədəki adamlar onlara baxır, pıçıldaşırdılar. Qız şəkildəkindən daha gözəl idi.
 
