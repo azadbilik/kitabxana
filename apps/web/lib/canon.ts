@@ -167,6 +167,7 @@ export const PLACE: Record<string, { era?: EraKey; branch?: BranchKey }> = {
   'qilman-ilkin': { era: 'soviet', branch: 'prose' },
   'huseyn-abbaszade': { era: 'thaw', branch: 'prose' },
   'hemid-arzulu': { era: 'thaw', branch: 'prose' },
+  'salam-sarvan': { era: 'independence', branch: 'poetry' },
   'semed-behrengi': { era: 'south', branch: 'children' },
   'eli-razi-semcizade': { era: 'mollanasreddin', branch: 'satire' },
   fezli: { branch: 'masnavi' },
@@ -265,7 +266,6 @@ export const MISSING: Missing[] = [
   { name: 'Rafiq Tağı', years: '1950–2011', era: 'independence', branch: 'prose' },
   { name: 'Seymur Baycan', years: 'd. 1977', era: 'independence', branch: 'prose' },
   { name: 'Səlim Babullaoğlu', years: 'd. 1972', era: 'independence', branch: 'poetry' },
-  { name: 'Salam Sarvan', years: 'd. 1974', era: 'independence', branch: 'poetry' },
   { name: 'Aqşin Yeniseyli', years: '', era: 'independence', branch: 'poetry' },
   // Second pass (2026-11-18): each name checked on its own az.wikipedia page
   { name: 'Məhəmməd ibn Bəis', years: 'IX əsr', era: 'early', branch: 'arabic', note: '«Mütəvəkkilə qəsidə»' },
