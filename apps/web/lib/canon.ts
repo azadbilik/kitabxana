@@ -168,6 +168,7 @@ export const PLACE: Record<string, { era?: EraKey; branch?: BranchKey }> = {
   'huseyn-abbaszade': { era: 'thaw', branch: 'prose' },
   'hemid-arzulu': { era: 'thaw', branch: 'prose' },
   'salam-sarvan': { era: 'independence', branch: 'poetry' },
+  'isa-ismayilzade': { era: 'thaw', branch: 'poetry' },
   'semed-behrengi': { era: 'south', branch: 'children' },
   'eli-razi-semcizade': { era: 'mollanasreddin', branch: 'satire' },
   fezli: { branch: 'masnavi' },
@@ -398,7 +399,6 @@ export const MISSING: Missing[] = [
   { name: 'Şıxəli Qurbanov', years: '1925–1967', era: 'thaw', branch: 'prose', note: '«Sənsiz», «Əkizlər»' },
   { name: 'Tofiq Mahmud', years: '1931–1997', era: 'thaw', branch: 'children' },
   { name: 'Nurəngiz Gün', years: '1938–2014', era: 'thaw', branch: 'poetry' },
-  { name: 'İsa İsmayılzadə', years: '1941–1997', era: 'thaw', branch: 'poetry' },
 ];
 
 // ── placement ───────────────────────────────────────────────────────────────
