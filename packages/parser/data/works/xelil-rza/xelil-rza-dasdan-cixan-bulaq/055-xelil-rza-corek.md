@@ -260,30 +260,30 @@ Qurlanan qırışlara.
 – Həsrətdi bir vaxt, - deyir, -
 Leninqrad quşlara.
 
-örək ovur, dən səpir,
-ə bir söhbət, nə bir söz.
-öyərçinlərin üstə
-anır bir cüt mavi göz.
+Çörək ovur, dən səpir,
+Nə bir söhbət, nə bir söz.
+Göyərçinlərin üstə
+Yanır bir cüt mavi göz.
 
 Mənim də əlimdə bir qismət çörək,
-özümdə, könlümdə çörəyin ətri.
+Gözümdə, könlümdə çörəyin ətri.
 Muğandan Kubana, qum səhrayadək
-ərya zəmilərin yay bərəkəti.
+Dərya zəmilərin yay bərəkəti.
 
-Örəkli məmləkət, qüdrətimizsən,
-əgər bu neməti asan tapmışıq?
-Öksümüz alovlu təndir olubdur.
-Əşar çörəyini ora yapmışıq.
+Çörəkli məmləkət, qüdrətimizsən,
+Məgər bu neməti asan tapmışıq?
+Köksümüz alovlu təndir olubdur.
+Bəşər çörəyini ora yapmışıq.
 
 Duzlu-çörəklidir bu gün bu diyar,
-əs neçin elə bir təşnəyəm, acam?
-C ikən gözü tox, mərd yaşayanlar,
-izdəki qüdrətə, eşqə möhtacam.
+Bəs neçin elə bir təşnəyəm, acam?
+Ac ikən gözü tox, mərd yaşayanlar,
+Sizdəki qüdrətə, eşqə möhtacam.
 
-Əsə dəyərli bir iş görməliyəm,
-oxsa bağışlamaz məni öz andım.
-«lığın, faşizmin məngənəsini
-aran,
-alıb çıxan Leningradım!
+Nəsə dəyərli bir iş görməliyəm,
+Yoxsa bağışlamaz məni öz andım.
+Aclığın, faşizmin məngənəsini
+Yaran,
+qalib çıxan Leningradım!
 
 *Leninqrad-Bakı*

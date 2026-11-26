@@ -9,11 +9,11 @@
 
 # İlk qədəm
 
-İki nəfər yol! ilə gedirdi. İki nəfər.
+İki nəfər yol ilə gedirdi. İki nəfər.
 
-abağda gedən arxadan gələni hiss eləmirdi. Təkcə dan gələnimi? Yox, bu dəqiqə o, yan-yerəsində bir görmür, duymur və duymağa can atmırdı. Bütün-bütün diqqətini, sə'yini, nəzərlərini Yalnız irəliyə zilşdi. Fikri-zikri ancaq irəlidə idi. Ona elə kəi ki, arxaya, yan-yerəyə bircə saniyəliyə də olsa ağ onu yubandıra bilər, şirin, xoş, gözəl düşünrindən ayıra bilər. Ancaq o nə yubanmaq istəyirə də düşüncələrindən ayrılmaq. Buna görə də et- 'na nəzər salmadan fərəhlə, qürurla, uçurmuş kirəliyə gedirdi. İrəlidə nə vardı ki?!
+Qabaqda gedən arxadan gələni hiss eləmirdi. Təkcə arxadan gələnimi? Yox, bu dəqiqə o, yan-yerəsində bir şey görmür, duymur və duymağa can atmırdı. Bütün-bütünə diqqətini, sə'yini, nəzərlərini Yalnız irəliyə zilləmişdi. Fikri-zikri ancaq irəlidə idi. Ona elə gəlirdi ki, arxaya, yan-yerəyə bircə saniyəliyə də olsa baxmaq onu yubandıra bilər, şirin, xoş, gözəl düşüncələrindən ayıra bilər. Ancaq o nə yubanmaq istəyirdi, nə də düşüncələrindən ayrılmaq. Buna görə də ətrafına nəzər salmadan fərəhlə, qürurla, uçurmuş kimi irəliyə gedirdi. İrəlidə nə vardı ki?!
 
-Arxadan gələn irəlidə gedənə baxırdı. Mehriban-mehriban, ürəyi əsə-əsə, həsrətlə, əlindən qaçırdığı aça, mə'sum quşun arxasınca baxan kimi, öz dunəqəfil təsadüf eləyən adam kimi. Baxdıqca gülüm- , gözləri dolur, təəssüf edir, düşünürdü. Düşüşuna də irəliyə gedirdi. İrəlidə nə vardı ki?!
+Arxadan gələn irəlidə gedənə baxırdı. Mehriban-mehriban, ürəyi əsə-əsə, həsrətlə, əlindən qaçırdığı körpəcə, mə'sum quşun arxasınca baxan kimi, öz dünəninə qəfil təsadüf eləyən adam kimi. Baxdıqca gülümsəyir, gözləri dolur, təəssüf edir, düşünürdü. Düşünə-düşünə də irəliyə gedirdi. İrəlidə nə vardı ki?!
 @@ 005
 
 Onların ikisinə də gecə elə gəlmişdi ki, səhər keç açılır, yaman heç açılır. İkisinə də! Elə gəlmişdi. Ancaq səhər vaxtında açılmışdı.
@@ -161,11 +161,11 @@ Yoldaşlarımın bir-birinin ardınca verdikləri bu suallar və «həyat bacıs
 – Əziz dostlar, ilk görüşdən bir-birlərinə vurulub sevişən gənclər haqqında mən çox eşitmişdim. Ancaq bu, nədənsə, mənə çox qəribə gəlirdi. Adam neçə olur ki, birdən-birə, təsadüfən rast gəldiyi qıza vurulur, ondan əl çəkə bilmir? Vüsala yetişincəyədək min dürlü əzab-əziyyətlərə qatlaşır, yuxusuz gecələr
 @@ 008
 
-Cırır? Axı, bu birdən-birə adamda neçe yaranır? Neçe olur ki, dünənəcən sənə tamamilə yad olan bir adam barəsində düşünməyə, rahatlığını, asudəliyini çirməyə başlayırsan? Onu bir gün görməyəndə darı irsən? Görəndə isə rəng verib rəng alırsan, ürəyin çırpınır, danışmaq istəyirsən, bacarmırsan, adi lər yadından çıxır, şeylərin adını qarışdırıram, dilin topuq çalır? Qız uzaqlaşıb gedəndən sonra a demək istədiyin, ancaq deyə bilmədiyin bütün cümlələr, bütün ifadələr, sözlər bir-bir yadına düşür. yuna təsəlli verib deyirsən ki, ikinci dəfə ona təsadüf edəndə hamısını deyəcəyəm... Sən ona ikinci dəfə... unçu dəfə... onuncu dəfə... nə bilim daha neçənci dənə təsadüf edirsən, ancaq yenə də fikirləşdiklərini. Düşündüklərini deyə bilmir, deməkdə çətinlik çəkir. Hər dəfə nə isə ən mühümü, ən vacibi yadından cır... Görəsən bu neçə olur? Adam heç inana bilmir... Bərkə universitetə daxil olmasaydım və ilk dəfə rada ona rast gəlməsəydim, bəlkə indi də belə şeylərə təəccüb edər və inanmazdım. Lakin ona təsadüf məim sevən adamların bütün bu hissləri keçirməsinə qəti inandırdı. İnandırdı desəm azdır: Ən o hisslərin hamısını bütün ağrı-acısıyla, ürək yüntüsüylə özüm yaşamalı oldum.
+keçirir? Axı, bu birdən-birə adamda neçe yaranır? Neçe olur ki, dünənəcən sənə tamamilə yad olan bir adam barəsində düşünməyə, rahatlığını, asudəliyini itirməyə başlayırsan? Onu bir gün görməyəndə darıxırsan? Görəndə isə rəng verib rəng alırsan, ürəyin çırpınır, danışmaq istəyirsən, bacarmırsan, adi şeylər yadından çıxır, şeylərin adını qarışdırırsan, dilin topuq çalır? Qız uzaqlaşıb gedəndən sonra ona demək istədiyin, ancaq deyə bilmədiyin bütün cümlələr, bütün ifadələr, sözlər bir-bir yadına düşür. Özünə təsəlli verib deyirsən ki, ikinci dəfə ona təsadüf edəndə hamısını deyəcəyəm... Sən ona ikinci dəfə... üçüncü dəfə... onuncu dəfə... nə bilim daha neçənci dəfə təsadüf edirsən, ancaq yenə də fikirləşdiklərini. Düşündüklərini deyə bilmir, deməkdə çətinlik çəkir. Hər dəfə nə isə ən mühümü, ən vacibi yadından çıxır... Görəsən bu neçə olur? Adam heç inana bilmir... Hərgah universitetə daxil olmasaydım və ilk dəfə burada ona rast gəlməsəydim, bəlkə indi də belə şeylərə təəccüb edər və inanmazdım. Lakin ona təsadüf etməyim sevən adamların bütün bu hissləri keçirməsinə məni qəti inandırdı. İnandırdı desəm azdır: mən o hisslərin hamısını bütün ağrı-acısıyla, ürək döyüntüsüylə özüm yaşamalı oldum.
 
-Biz bir kursda oxuyurduq. Günlər ötdükcə mən ona ha çox bağlanırdım. O mənim hisslərimdən, ona şı olan məhəbbətimdən xəbərdardı. Lakin bunu bildirməməyə çalışır, bu haqda söhbət açmağa mənə məkan vermirdi. Onunla istədiyim mövzuda, istədiyim dər söhbət edir, lakin sevgim haqqında bir kəlmə də sun danışa bilmirdim. Əvvəllər mənim ona olan məhəbbətimdən yoldaşlarımız xəbərsiz idilər. Lakin onlar bu, hamıya mə’lum oldu. Üçüncü kursda hələ r rəqibim də meydana çıxdı. Bu, əlbəttə mənim həyəcanlarımı bir qədər artırdı. Rəqibimlə aramızda umuz də hiss etmədən gizli bir mübarizə başlandı. məqsədimiz birdi: qızın hüsnrəğbətini qazanmaq, ün məhəbbətinə nail olmaq.
+Biz bir kursda oxuyurduq. Günlər ötdükcə mən ona daha çox bağlanırdım. O mənim hisslərimdən, ona qarşı olan məhəbbətimdən xəbərdardı. Lakin bunu bildirməməyə çalışır, bu haqda söhbət açmağa mənə imkan vermirdi. Onunla istədiyim mövzuda, istədiyim qədər söhbət edir, lakin sevgim haqqında bir kəlmə də olsun danışa bilmirdim. Əvvəllər mənim ona olan məhəbbətimdən yoldaşlarımız xəbərsiz idilər. Lakin sonralar bu, hamıya mə’lum oldu. Üçüncü kursda hələ bir rəqibim də meydana çıxdı. Bu, əlbəttə mənim həyəcanlarımı bir qədər artırdı. Rəqibimlə aramızda özümüz də hiss etmədən gizli bir mübarizə başlandı. Məqsədimiz birdi: qızın hüsnrəğbətini qazanmaq, onun məhəbbətinə nail olmaq.
 
-Üstünlüyün öz tərəfimdə olduğunu hiss edirdimsə , e’tiraf etməliyəm ki, bə’zən məndə şübhələr də dordu. Mənə elə gəlirdi ki, qız rəqibimə də biganə deyildir,
+Üstünlüyün öz tərəfimdə olduğunu hiss edirdimsə də, e’tiraf etməliyəm ki, bə’zən məndə şübhələr də doğurdu. Mənə elə gəlirdi ki, qız rəqibimə də biganə deyildir,
 @@ 009
 
 >>tərəddüdlər içərisində çırpınır, özlüyündə bizi müqayisə edir.
@@ -516,7 +516,7 @@ E’tirafımı burdaca qurtarmaq istəyirəm.
 
 ### 1
 
-Ox, adamlar cürbəcür imiş. Cürbəcür! Pisi də ış, yaxşısı da. Bəli, yaxşısı da! İşin çətini ə bu yaxşı adamları tapmaqda, tanımaqda imiş!.. ə bu fikrə gətirib çıxaran sizsiniz, siz, yaxşı lar! Deyə billəm sizə tuş olandan bəri...» Bıy, çayın soyuyub ki! Qəzeti əlində bərk-bərk tunə nə yaman fikrə çummusan? Bəs kinoya ketməyəçiSonra, bax, o günkü təkin tələm-tələsiyə düşərik, rvadının birnəfəsə verdiyi suallar onu düşündürürdü. Əvvəlcə nə edəcəyini bilməyib key-key ının üzünə baxdı. Bu, olsa-olsa ancaq bir an çəkonra qəzeti bir yana qoydu, çayı qabağına çəkdi, qonur, albalı kimi girdə gözlərini yenidən arnə zilləyib, arxayın-arxayın dedi: Çayı da içəcəm, qəzeti də oxuyacam, hələ ürəyin ən kinoya da gedəcəyik. O ki qaldı tələmtələsikhə, bəla billəm bu, sənnən asılıdır.
+«Yox, adamlar cürbəcür imiş. Cürbəcür! Pisi də varmış, yaxşısı da. Bəli, yaxşısı da! İşin çətini də elə bu yaxşı adamları tapmaqda, tanımaqda imiş!.. Məni bu fikrə gətirib çıxaran sizsiniz, siz, yaxşı adamlar! Deyə billəm sizə tuş olandan bəri...» Bıy, çayın soyuyub ki! Qəzeti əlində bərk-bərk tutuban nə yaman fikrə çummusan? Bəs kinoya ketməyəcəyik. Sonra, bax, o günkü təkin tələm-tələsiyə düşərik, aaa!.. Arvadının birnəfəsə verdiyi suallar onu düşüncədən ayırdı. Əvvəlcə nə edəcəyini bilməyib key-key arvadının üzünə baxdı. Bu, olsa-olsa ancaq bir an çəkdi. Sonra qəzeti bir yana qoydu, çayı qabağına çəkdi, kiçik, qonur, albalı kimi girdə gözlərini yenidən arvadına zilləyib, arxayın-arxayın dedi: Çayı da içəcəm, qəzeti də oxuyacam, hələ ürəyin istəyən kinoya da gedəcəyik. O ki qaldı tələm-tələsikliyə... hə, belə billəm bu, sənnən asılıdır.
 @@ 021
 
 Kinə mənnən?!—dəyə arvadı uzun qara kirpiklərini aramsız dəyə-dəyə ərkəyünçəsinə ərinə baxdı, gileygüzarını baxışları ilə bildirmək istədi.
@@ -1752,17 +1752,17 @@ Mən də sizə onların barəsində bildiyimi, eşitdiyimi danışdım.
 
 # Ana qoynu
 
-Cəmilə ev quşlarını çox sevirdi. O, bir yerdə toplu gördümü, yanlarından getmək istəməzdi. Anasına dediyi həmişə bu olardı:
+Cəmilə ev quşlarını çox sevirdi. O, bir yerdə toyuq-cücə gördümü, yanlarından getmək istəməzdi. Anasına dediyi həmişə bu olardı:
 
-— Ana, nə olar, mənə cücə al da... Gör onlara necə ...
+— Ana, nə olar, mənə cücə al da... Gör onlara necə baxaram...
 
-ərin bir günündə anası onun xahişini yerinə zoomağazadan iyirmi cücə alıb gətirdi. Cətətilinə buraxılmışdı, bu gün-sabah ailə ilə həm keçəcəkdilər.
+Günlərin bir günündə anası onun xahişini yerinə yetirib, zoomağazadan iyirmi cücə alıb gətirdi. Cəmilə yay tə’tilinə buraxılmışdı, bu gün-sabah ailəliklə bağa köçəcəkdilər.
 
-yə bapbalaca, yupyumru, sarı dimdikli ağ çübir-bir götürüb baxır, başlarını sığallayır, yerə-göyə sığmırdı.
+Cəmilə bapbalaca, yupyumru, sarı dimdikli ağ cücələri bir-bir götürüb baxır, başlarını sığallayır, sevinci yerə-göyə sığmırdı.
 
-Gətirib ona böyük bir qutu verdi. Cəmilə cücələrinə yer düzəltdi, sonra onlar üçün yemək dı. Cücələri bir-bir yedirib qutuya qoydu. Bahulunı götürüb qutunun yanında əyləşdi, cücəmaşa etməyə başladı...
+Anası gətirib ona böyük bir qutu verdi. Cəmilə qutuda cücələrinə yer düzəltdi, sonra onlar üçün yemək hazırladı. Cücələri bir-bir yedirib qutuya qoydu. Balaca stulunu götürüb qutunun yanında əyləşdi, cücələrə tamaşa etməyə başladı...
 
-İşdən gələndə Cəmilə onun qabağına qaçıb dən tutdu, qutunun yanına gətirib dedi:
+Atası işdən gələndə Cəmilə onun qabağına qaçıb əllərindən tutdu, qutunun yanına gətirib dedi:
 @@ 043
 
 Atası, gör nə qəşəng cücələrim var, anam mənim üçün alıb.
@@ -1815,29 +1815,29 @@ Yox, özüm tapmışam, özümündür.
 
 – Özün tapanda nə olar, ver baxım, enə verərəm.
 
-– Yaxşı, ala, — deyə Fikrət oyuncağı bacısı uzatdı.
+– Yaxşı, ala, — deyə Fikrət oyuncağı bacısına uzatdı.
 
-Məhbubə keçini alıb diqqətlə nəzərdən keçirdi, laqlarına baxanda hər şey ona bəlli oldu.
+Məhbubə keçini alıb diqqətlə nəzərdən keçirdi, qulaqlarına baxanda hər şey ona bəlli oldu.
 
-Bu oyuncaq qonşuluqda yaşayan Minayənin idi. Minayənin böyük bacısı Məhbubə ilə bir sinifdə oxu du. Məhbubə tez-tez onlara gedir, birlikdə dərsləri öyrənirdilər. Bir necə gün əvvəl Məhbubənin yanın Minayə keçini qəfildən əlindən salıb, bir qulağın dibindən sındırmışdı; oyuncağını çox istədiyin onun şikəst olmasına dözə bilməyib ağlamışdı. Bu zaman bacısı ilə Məhbubə, onu sakit eləyib keçini qulağını yapışqanla bərkitmişdi. Bu, Minayəni sevindirmişdi.
+Bu oyuncaq qonşuluqda yaşayan Minayənin idi. Minayənin böyük bacısı Məhbubə ilə bir sinifdə oxuyurdu. Məhbubə tez-tez onlara gedir, birlikdə dərsləri öyrənirdilər. Bir necə gün əvvəl Məhbubənin yanında Minayə keçini qəfildən əlindən salıb, bir qulağını dibindən sındırmışdı; oyuncağını çox istədiyindən də onun şikəst olmasına dözə bilməyib ağlamışdı. Bu zaman bacısı ilə Məhbubə, onu sakit eləyib keçinin qulağını yapışqanla bərkitmişdi. Bu, Minayəni sevindirmişdi.
 
-«Yazıq Minayə, indi yəqin sevimli keçisini itir yi üçün ağlayır» — deyə Məhbubə düşündü, ürəyi sıxı dı. Əhvalatı tələsik qardaşına danışıb dedi:
+«Yazıq Minayə, indi yəqin sevimli keçisini itirdiyi üçün ağlayır» — deyə Məhbubə düşündü, ürəyi sıxıldı. Əhvalatı tələsik qardaşına danışıb dedi:
 
-– Səhər keçini aparıb verərsən Minayəyə, bildin? Bacısının sözü Fikrətin xoşuna gəlmədi, üz-gön nü turşutdu.
+– Səhər keçini aparıb verərsən Minayəyə, bildin? Bacısının sözü Fikrətin xoşuna gəlmədi, üz-gözünü turşutdu.
 
 – Demək sözümə baxmırsan?
 
-– Mən bilmirəm, mən keçini yerdən tapmışam. Sən dan ki, almamışam, özümündür.
+– Mən bilmirəm, mən keçini yerdən tapmışam. Ondan ki, almamışam, özümündür.
 
-– Sənin deyil, sən onu tapmısan, elə bunun üçün gərək sahibinə qaytarasan! İndi Minayəni anası da yayacaq, bəlkə daha ona oyuncaq almayacaq?!
+– Sənin deyil, sən onu tapmısan, elə bunun üçün gərək sahibinə qaytarasan! İndi Minayəni anası danlayacaq, bəlkə daha ona oyuncaq almayacaq?!
 
-Fikrət isə çiyinlərini çəkə-çəkə bacısına deyir Mənə nə var, yerdən tapmışam, özümündür. Mən nec nə bilmirəm...
+Fikrət isə çiyinlərini çəkə-çəkə bacısına deyirdi: Mənə nə var, yerdən tapmışam, özümündür. Mən heç nə bilmirəm...
 
-Divanda uzanıb dincələn ata qızı ilə oğlunun sözü batini eşidirdi. Fikrət axırıncı sözünü deyəndə, işarə ilə arvadını çağırıb qulağına nəsə pıçılladı. Arvadı da cavabında başı ilə razı olduğunu biri dirdi. Ata ayağa durdu, oğlunun sevimli oyuncağı buratinonu götürüb gizlətdi.
+Divanda uzanıb dincələn ata qızı ilə oğlunun söhbətini eşidirdi. Fikrət axırıncı sözünü deyəndə, o, işarə ilə arvadını çağırıb qulağına nəsə pıçılladı. Arvadı da cavabında başı ilə razı olduğunu bildirdi. Ata ayağa durdu, oğlunun sevimli oyuncağı buratinonu götürüb gizlətdi.
 
-Bir azdan ana gəlib oğlundan buratinonu soruş. Fikrət onu qoyduğu yerdə görməyib əl-ayağa düşdü. Hər yeri axtardılar. Tapılmadı ki, tapılmadı.
+Bir azdan ana gəlib oğlundan buratinonu soruşdu. Fikrət onu qoyduğu yerdə görməyib əl-ayağa düşdü. Hər yeri axtardılar. Tapılmadı ki, tapılmadı.
 
-Fikrətin gözləri dolmuşdu, tez-tez burnunu çəkə az qalırdı ki, ağlasın. Bu vaxt anası onu danlama başladı:
+Fikrətin gözləri dolmuşdu, tez-tez burnunu çəkir, az qalırdı ki, ağlasın. Bu vaxt anası onu danlamağa başladı:
 @@ 044
 
 Dəha sənə bir də oyuncaq almaram, nə alıram, elə itirirsən. Belə də iş olar? Bəyəm biz pulu çöldən tapırıq?!
@@ -1893,11 +1893,11 @@ Yayın ən isti günlərindən biri idi. Elə isti idi ki, nəfəs almaq olmurdu
 
 # Hamıdan biliklisi
 
-Ə, belə de, aydındır... Dünən cavab verdi arxayın olmusam, elə bilmisən ki, bu gün səndən xal almaram. — Tükəz müəllim bu sözləri deyib, sinfə gəzdirdi.
+— Hə, belə de, aydındır... Dünən cavab verdiyinə arxayın olmusam, elə bilmisən ki, bu gün səndən xəbər almaram. — Tükəz müəllim bu sözləri deyib, sinfə göz gəzdirdi.
 
-İki ildən bəri dərs dediyi şagirdlərin hamının diqqəti onda idi. Adil isə ayaq üstə dayanar rəng verib, rəng alırdı, müəllimin üzünə baxmaq çəkinirdi.
+İki ildən bəri dərs dediyi şagirdlərin hamısının diqqəti onda idi. Adil isə ayaq üstə dayanaraq, rəng verib, rəng alırdı, müəllimin üzünə baxmaqdan çəkinirdi.
 
-Tükəz müəllim nə düşündüsə birdən ona belə sual verdi:
+Tükəz müəllim nə düşündüsə birdən ona belə bir sual verdi:
 
 – Adil, atan harada işləyir?
 
@@ -1911,15 +1911,15 @@ Tükəz müəllim nə düşündüsə birdən ona belə sual verdi:
 
 – Bəli, müəllim.
 
-– Bax, oğlum, görürsənmi, atan hər gün işə gedir, sən yaxşı yeyib içəsən, yaxşı geyinəsən, asudə oyasan, vaxtlı-vaxtında da dərsə gələsən, həm də hər hazır gələsən. Axı, dərs oxumaq da sənin işindi Otur.
+– Bax, oğlum, görürsənmi, atan hər gün işə gedir ki, sən yaxşı yeyib içəsən, yaxşı geyinəsən, asudə oxuyasan, vaxtlı-vaxtında da dərsə gələsən, həm də hər gün hazır gələsən. Axı, dərs oxumaq da sənin işindir... Otur.
 
-Adil pərt halda oturdu. Müəllim jurnala nə yazdı. Uşaqlar onun əlinin hərəkətindən «2» yazdı nı dərhal başa düşdülər.
+Adil pərt halda oturdu. Müəllim jurnala nə isə yazdı. Uşaqlar onun əlinin hərəkətindən «2» yazdığını dərhal başa düşdülər.
 
-Ertəsi gün Tükəz müəllim Adilin oturuşunda gözlərindən hiss etdi ki, o, dərsə hazır gəlmişdi. Ancaq Tükəz müəllim ondan soruşmadı. Axı, sinif uşaq çoxdur. hər gün eyni şagirddən dərs soruş mümkün deyil.
+Ertəsi gün Tükəz müəllim Adilin oturuşundan, gözlərindən hiss etdi ki, o, dərsə hazır gəlmişdir. Ancaq Tükəz müəllim ondan soruşmadı. Axı, sinifdə uşaq çoxdur. hər gün eyni şagirddən dərs soruşmaq mümkün deyil.
 
-Adil də yerində oturub fikirləşirdi: «Gör, a... mə baxan kimi bildi ki, dərsi öyrənmişəm, soruş dı...»
+Adil də yerində oturub fikirləşirdi: «Gör, a... üzümə baxan kimi bildi ki, dərsi öyrənmişəm, soruşmadı...»
 
-Tükəz müəllim Adildən hər gün dərs soruşmasa o indi dərslərinə həmişə hazır gəlir. harda da müəllimlərdən söhbət düşür, orda Adil döşünə de fəxrlə:
+Tükəz müəllim Adildən hər gün dərs soruşmasa da, o indi dərslərinə həmişə hazır gəlir. Harda da ki, müəllimlərdən söhbət düşür, orda Adil döşünə döyüb fəxrlə:
 
 – Bizim müəllim hamıdan biliklidir, — deyir.
 @@ 046

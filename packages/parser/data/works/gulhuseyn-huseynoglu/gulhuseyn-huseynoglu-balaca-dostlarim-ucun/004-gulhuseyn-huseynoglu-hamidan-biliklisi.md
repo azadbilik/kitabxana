@@ -11,11 +11,11 @@ order: 4
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=12646&pno=46'
 status: DRAFT
 ---
-Ə, belə de, aydındır... Dünən cavab verdi arxayın olmusam, elə bilmisən ki, bu gün səndən xal almaram. — Tükəz müəllim bu sözləri deyib, sinfə gəzdirdi.
+— Hə, belə de, aydındır... Dünən cavab verdiyinə arxayın olmusam, elə bilmisən ki, bu gün səndən xəbər almaram. — Tükəz müəllim bu sözləri deyib, sinfə göz gəzdirdi.
 
-İki ildən bəri dərs dediyi şagirdlərin hamının diqqəti onda idi. Adil isə ayaq üstə dayanar rəng verib, rəng alırdı, müəllimin üzünə baxmaq çəkinirdi.
+İki ildən bəri dərs dediyi şagirdlərin hamısının diqqəti onda idi. Adil isə ayaq üstə dayanaraq, rəng verib, rəng alırdı, müəllimin üzünə baxmaqdan çəkinirdi.
 
-Tükəz müəllim nə düşündüsə birdən ona belə sual verdi:
+Tükəz müəllim nə düşündüsə birdən ona belə bir sual verdi:
 
 – Adil, atan harada işləyir?
 
@@ -29,14 +29,14 @@ Tükəz müəllim nə düşündüsə birdən ona belə sual verdi:
 
 – Bəli, müəllim.
 
-– Bax, oğlum, görürsənmi, atan hər gün işə gedir, sən yaxşı yeyib içəsən, yaxşı geyinəsən, asudə oyasan, vaxtlı-vaxtında da dərsə gələsən, həm də hər hazır gələsən. Axı, dərs oxumaq da sənin işindi Otur.
+– Bax, oğlum, görürsənmi, atan hər gün işə gedir ki, sən yaxşı yeyib içəsən, yaxşı geyinəsən, asudə oxuyasan, vaxtlı-vaxtında da dərsə gələsən, həm də hər gün hazır gələsən. Axı, dərs oxumaq da sənin işindir... Otur.
 
-Adil pərt halda oturdu. Müəllim jurnala nə yazdı. Uşaqlar onun əlinin hərəkətindən «2» yazdı nı dərhal başa düşdülər.
+Adil pərt halda oturdu. Müəllim jurnala nə isə yazdı. Uşaqlar onun əlinin hərəkətindən «2» yazdığını dərhal başa düşdülər.
 
-Ertəsi gün Tükəz müəllim Adilin oturuşunda gözlərindən hiss etdi ki, o, dərsə hazır gəlmişdi. Ancaq Tükəz müəllim ondan soruşmadı. Axı, sinif uşaq çoxdur. hər gün eyni şagirddən dərs soruş mümkün deyil.
+Ertəsi gün Tükəz müəllim Adilin oturuşundan, gözlərindən hiss etdi ki, o, dərsə hazır gəlmişdir. Ancaq Tükəz müəllim ondan soruşmadı. Axı, sinifdə uşaq çoxdur. hər gün eyni şagirddən dərs soruşmaq mümkün deyil.
 
-Adil də yerində oturub fikirləşirdi: «Gör, a... mə baxan kimi bildi ki, dərsi öyrənmişəm, soruş dı...»
+Adil də yerində oturub fikirləşirdi: «Gör, a... üzümə baxan kimi bildi ki, dərsi öyrənmişəm, soruşmadı...»
 
-Tükəz müəllim Adildən hər gün dərs soruşmasa o indi dərslərinə həmişə hazır gəlir. harda da müəllimlərdən söhbət düşür, orda Adil döşünə de fəxrlə:
+Tükəz müəllim Adildən hər gün dərs soruşmasa da, o indi dərslərinə həmişə hazır gəlir. Harda da ki, müəllimlərdən söhbət düşür, orda Adil döşünə döyüb fəxrlə:
 
 – Bizim müəllim hamıdan biliklidir, — deyir.

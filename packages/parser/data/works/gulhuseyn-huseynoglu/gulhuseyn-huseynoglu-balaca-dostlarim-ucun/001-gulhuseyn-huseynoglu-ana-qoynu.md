@@ -11,17 +11,17 @@ order: 1
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=12646&pno=42'
 status: DRAFT
 ---
-Cəmilə ev quşlarını çox sevirdi. O, bir yerdə toplu gördümü, yanlarından getmək istəməzdi. Anasına dediyi həmişə bu olardı:
+Cəmilə ev quşlarını çox sevirdi. O, bir yerdə toyuq-cücə gördümü, yanlarından getmək istəməzdi. Anasına dediyi həmişə bu olardı:
 
-— Ana, nə olar, mənə cücə al da... Gör onlara necə ...
+— Ana, nə olar, mənə cücə al da... Gör onlara necə baxaram...
 
-ərin bir günündə anası onun xahişini yerinə zoomağazadan iyirmi cücə alıb gətirdi. Cətətilinə buraxılmışdı, bu gün-sabah ailə ilə həm keçəcəkdilər.
+Günlərin bir günündə anası onun xahişini yerinə yetirib, zoomağazadan iyirmi cücə alıb gətirdi. Cəmilə yay tə’tilinə buraxılmışdı, bu gün-sabah ailəliklə bağa köçəcəkdilər.
 
-yə bapbalaca, yupyumru, sarı dimdikli ağ çübir-bir götürüb baxır, başlarını sığallayır, yerə-göyə sığmırdı.
+Cəmilə bapbalaca, yupyumru, sarı dimdikli ağ cücələri bir-bir götürüb baxır, başlarını sığallayır, sevinci yerə-göyə sığmırdı.
 
-Gətirib ona böyük bir qutu verdi. Cəmilə cücələrinə yer düzəltdi, sonra onlar üçün yemək dı. Cücələri bir-bir yedirib qutuya qoydu. Bahulunı götürüb qutunun yanında əyləşdi, cücəmaşa etməyə başladı...
+Anası gətirib ona böyük bir qutu verdi. Cəmilə qutuda cücələrinə yer düzəltdi, sonra onlar üçün yemək hazırladı. Cücələri bir-bir yedirib qutuya qoydu. Balaca stulunu götürüb qutunun yanında əyləşdi, cücələrə tamaşa etməyə başladı...
 
-İşdən gələndə Cəmilə onun qabağına qaçıb dən tutdu, qutunun yanına gətirib dedi:
+Atası işdən gələndə Cəmilə onun qabağına qaçıb əllərindən tutdu, qutunun yanına gətirib dedi:
 
 Atası, gör nə qəşəng cücələrim var, anam mənim üçün alıb.
 

@@ -11,11 +11,11 @@ order: 1
 sourceNote: 'http://web2.anl.az:81/read/page.php?bibid=12646&pno=4'
 status: DRAFT
 ---
-İki nəfər yol! ilə gedirdi. İki nəfər.
+İki nəfər yol ilə gedirdi. İki nəfər.
 
-abağda gedən arxadan gələni hiss eləmirdi. Təkcə dan gələnimi? Yox, bu dəqiqə o, yan-yerəsində bir görmür, duymur və duymağa can atmırdı. Bütün-bütün diqqətini, sə'yini, nəzərlərini Yalnız irəliyə zilşdi. Fikri-zikri ancaq irəlidə idi. Ona elə kəi ki, arxaya, yan-yerəyə bircə saniyəliyə də olsa ağ onu yubandıra bilər, şirin, xoş, gözəl düşünrindən ayıra bilər. Ancaq o nə yubanmaq istəyirə də düşüncələrindən ayrılmaq. Buna görə də et- 'na nəzər salmadan fərəhlə, qürurla, uçurmuş kirəliyə gedirdi. İrəlidə nə vardı ki?!
+Qabaqda gedən arxadan gələni hiss eləmirdi. Təkcə arxadan gələnimi? Yox, bu dəqiqə o, yan-yerəsində bir şey görmür, duymur və duymağa can atmırdı. Bütün-bütünə diqqətini, sə'yini, nəzərlərini Yalnız irəliyə zilləmişdi. Fikri-zikri ancaq irəlidə idi. Ona elə gəlirdi ki, arxaya, yan-yerəyə bircə saniyəliyə də olsa baxmaq onu yubandıra bilər, şirin, xoş, gözəl düşüncələrindən ayıra bilər. Ancaq o nə yubanmaq istəyirdi, nə də düşüncələrindən ayrılmaq. Buna görə də ətrafına nəzər salmadan fərəhlə, qürurla, uçurmuş kimi irəliyə gedirdi. İrəlidə nə vardı ki?!
 
-Arxadan gələn irəlidə gedənə baxırdı. Mehriban-mehriban, ürəyi əsə-əsə, həsrətlə, əlindən qaçırdığı aça, mə'sum quşun arxasınca baxan kimi, öz dunəqəfil təsadüf eləyən adam kimi. Baxdıqca gülüm- , gözləri dolur, təəssüf edir, düşünürdü. Düşüşuna də irəliyə gedirdi. İrəlidə nə vardı ki?!
+Arxadan gələn irəlidə gedənə baxırdı. Mehriban-mehriban, ürəyi əsə-əsə, həsrətlə, əlindən qaçırdığı körpəcə, mə'sum quşun arxasınca baxan kimi, öz dünəninə qəfil təsadüf eləyən adam kimi. Baxdıqca gülümsəyir, gözləri dolur, təəssüf edir, düşünürdü. Düşünə-düşünə də irəliyə gedirdi. İrəlidə nə vardı ki?!
 
 Onların ikisinə də gecə elə gəlmişdi ki, səhər keç açılır, yaman heç açılır. İkisinə də! Elə gəlmişdi. Ancaq səhər vaxtında açılmışdı.
 

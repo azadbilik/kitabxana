@@ -31,29 +31,29 @@ Yox, özüm tapmışam, özümündür.
 
 – Özün tapanda nə olar, ver baxım, enə verərəm.
 
-– Yaxşı, ala, — deyə Fikrət oyuncağı bacısı uzatdı.
+– Yaxşı, ala, — deyə Fikrət oyuncağı bacısına uzatdı.
 
-Məhbubə keçini alıb diqqətlə nəzərdən keçirdi, laqlarına baxanda hər şey ona bəlli oldu.
+Məhbubə keçini alıb diqqətlə nəzərdən keçirdi, qulaqlarına baxanda hər şey ona bəlli oldu.
 
-Bu oyuncaq qonşuluqda yaşayan Minayənin idi. Minayənin böyük bacısı Məhbubə ilə bir sinifdə oxu du. Məhbubə tez-tez onlara gedir, birlikdə dərsləri öyrənirdilər. Bir necə gün əvvəl Məhbubənin yanın Minayə keçini qəfildən əlindən salıb, bir qulağın dibindən sındırmışdı; oyuncağını çox istədiyin onun şikəst olmasına dözə bilməyib ağlamışdı. Bu zaman bacısı ilə Məhbubə, onu sakit eləyib keçini qulağını yapışqanla bərkitmişdi. Bu, Minayəni sevindirmişdi.
+Bu oyuncaq qonşuluqda yaşayan Minayənin idi. Minayənin böyük bacısı Məhbubə ilə bir sinifdə oxuyurdu. Məhbubə tez-tez onlara gedir, birlikdə dərsləri öyrənirdilər. Bir necə gün əvvəl Məhbubənin yanında Minayə keçini qəfildən əlindən salıb, bir qulağını dibindən sındırmışdı; oyuncağını çox istədiyindən də onun şikəst olmasına dözə bilməyib ağlamışdı. Bu zaman bacısı ilə Məhbubə, onu sakit eləyib keçinin qulağını yapışqanla bərkitmişdi. Bu, Minayəni sevindirmişdi.
 
-«Yazıq Minayə, indi yəqin sevimli keçisini itir yi üçün ağlayır» — deyə Məhbubə düşündü, ürəyi sıxı dı. Əhvalatı tələsik qardaşına danışıb dedi:
+«Yazıq Minayə, indi yəqin sevimli keçisini itirdiyi üçün ağlayır» — deyə Məhbubə düşündü, ürəyi sıxıldı. Əhvalatı tələsik qardaşına danışıb dedi:
 
-– Səhər keçini aparıb verərsən Minayəyə, bildin? Bacısının sözü Fikrətin xoşuna gəlmədi, üz-gön nü turşutdu.
+– Səhər keçini aparıb verərsən Minayəyə, bildin? Bacısının sözü Fikrətin xoşuna gəlmədi, üz-gözünü turşutdu.
 
 – Demək sözümə baxmırsan?
 
-– Mən bilmirəm, mən keçini yerdən tapmışam. Sən dan ki, almamışam, özümündür.
+– Mən bilmirəm, mən keçini yerdən tapmışam. Ondan ki, almamışam, özümündür.
 
-– Sənin deyil, sən onu tapmısan, elə bunun üçün gərək sahibinə qaytarasan! İndi Minayəni anası da yayacaq, bəlkə daha ona oyuncaq almayacaq?!
+– Sənin deyil, sən onu tapmısan, elə bunun üçün gərək sahibinə qaytarasan! İndi Minayəni anası danlayacaq, bəlkə daha ona oyuncaq almayacaq?!
 
-Fikrət isə çiyinlərini çəkə-çəkə bacısına deyir Mənə nə var, yerdən tapmışam, özümündür. Mən nec nə bilmirəm...
+Fikrət isə çiyinlərini çəkə-çəkə bacısına deyirdi: Mənə nə var, yerdən tapmışam, özümündür. Mən heç nə bilmirəm...
 
-Divanda uzanıb dincələn ata qızı ilə oğlunun sözü batini eşidirdi. Fikrət axırıncı sözünü deyəndə, işarə ilə arvadını çağırıb qulağına nəsə pıçılladı. Arvadı da cavabında başı ilə razı olduğunu biri dirdi. Ata ayağa durdu, oğlunun sevimli oyuncağı buratinonu götürüb gizlətdi.
+Divanda uzanıb dincələn ata qızı ilə oğlunun söhbətini eşidirdi. Fikrət axırıncı sözünü deyəndə, o, işarə ilə arvadını çağırıb qulağına nəsə pıçılladı. Arvadı da cavabında başı ilə razı olduğunu bildirdi. Ata ayağa durdu, oğlunun sevimli oyuncağı buratinonu götürüb gizlətdi.
 
-Bir azdan ana gəlib oğlundan buratinonu soruş. Fikrət onu qoyduğu yerdə görməyib əl-ayağa düşdü. Hər yeri axtardılar. Tapılmadı ki, tapılmadı.
+Bir azdan ana gəlib oğlundan buratinonu soruşdu. Fikrət onu qoyduğu yerdə görməyib əl-ayağa düşdü. Hər yeri axtardılar. Tapılmadı ki, tapılmadı.
 
-Fikrətin gözləri dolmuşdu, tez-tez burnunu çəkə az qalırdı ki, ağlasın. Bu vaxt anası onu danlama başladı:
+Fikrətin gözləri dolmuşdu, tez-tez burnunu çəkir, az qalırdı ki, ağlasın. Bu vaxt anası onu danlamağa başladı:
 
 Dəha sənə bir də oyuncaq almaram, nə alıram, elə itirirsən. Belə də iş olar? Bəyəm biz pulu çöldən tapırıq?!
 
