@@ -163,7 +163,11 @@ for head, body in pages:
             f"A: «{a}»\nB: «{b}»\nAnswer A or B only."
         )
         prompt = apply_chat_template(processor, config, prompt_text, num_images=1)
-        r = generate(model, processor, prompt, [crop], max_tokens=4, temperature=0.0, verbose=False)
+        try:
+            r = generate(model, processor, prompt, [crop], max_tokens=4, temperature=0.0, verbose=False)
+        except Exception as e:  # an outsized crop can overflow MLX's 32-bit shapes: leave the question open
+            print(f"    skipped: {str(e)[:120]}", file=sys.stderr)
+            return None
         m = re.search(r"\b([AB])\b", getattr(r, "text", r))
         if not m:
             return None
@@ -187,7 +191,11 @@ for head, body in pages:
             + "\n".join(qs)
         )
         prompt = apply_chat_template(processor, config, prompt_text, num_images=1)
-        r = generate(model, processor, prompt, [image], max_tokens=8 * len(questions) + 20, temperature=0.0, verbose=False)
+        try:
+            r = generate(model, processor, prompt, [image], max_tokens=8 * len(questions) + 20, temperature=0.0, verbose=False)
+        except Exception as e:  # an outsized page can overflow MLX's 32-bit shapes: leave the page's questions open
+            print(f"    skipped page: {str(e)[:120]}", file=sys.stderr)
+            return {}
         raw = getattr(r, "text", r)
         got = {int(n): (0 if c == "A" else 1) for n, c in re.findall(r"(?m)^\s*(\d+)\s*[:.)]\s*(?:N\s*:\s*)?([AB])\b", raw)}
         if not got and len(questions) == 1:
