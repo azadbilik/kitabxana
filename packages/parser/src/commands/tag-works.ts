@@ -27,26 +27,36 @@ export const tagWorksCommand = new Command('tag-works')
         if (tag) tagIds.set(t.slug, tag.id);
       }
 
-      const works = await db.work.findMany({
-        where: {
-          status: 'PUBLISHED',
-          ...(opts.author && { author: { slug: opts.author } }),
-          ...(opts.explain && { slug: opts.explain }),
-        },
-        select: {
-          id: true,
-          slug: true,
-          titleAz: true,
-          genre: true,
-          form: true,
-          year: true,
-          body: true,
-          originalLang: true,
-          author: { select: { slug: true } },
-          collection: { select: { titleAz: true } },
-          translations: { where: { status: 'PUBLISHED' }, select: { language: true, body: true } },
-        },
-      });
+      // Read in pages: one query for every work binds more ids than Postgres allows (32,767)
+      // when Prisma loads their translations
+      const works = [];
+      for (let skip = 0; ; skip += 5000) {
+        const page = await db.work.findMany({
+          orderBy: { id: 'asc' },
+          skip,
+          take: 5000,
+          where: {
+            status: 'PUBLISHED',
+            ...(opts.author && { author: { slug: opts.author } }),
+            ...(opts.explain && { slug: opts.explain }),
+          },
+          select: {
+            id: true,
+            slug: true,
+            titleAz: true,
+            genre: true,
+            form: true,
+            year: true,
+            body: true,
+            originalLang: true,
+            author: { select: { slug: true } },
+            collection: { select: { titleAz: true } },
+            translations: { where: { status: 'PUBLISHED' }, select: { language: true, body: true } },
+          },
+        });
+        works.push(...page);
+        if (page.length < 5000) break;
+      }
 
       const counts = new Map<string, number>();
       const samples = new Map<string, string[]>();
